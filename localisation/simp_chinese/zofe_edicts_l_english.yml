@@ -1,0 +1,80 @@
+l_simp_chinese:
+ 
+ tech_galactic_ambitions_1:0 《权力的野心 II》
+ tech_galactic_ambitions_1_desc:0 “我们的权力野心不断扩大，解锁了新的法令来推动优势的愿景。”
+ tech_galactic_ambitions_2:0 《权力的野心 III》
+ tech_galactic_ambitions_2_desc:0 “我们的权力野心进一步扩大，释放出新的野心来推动优势的愿景。”
+ tech_galactic_ambitions_3:0 《权力的野心IV》
+ tech_galactic_ambitions_3_desc:0 “我们的权力野心进一步扩大，释放出新的野心来推动优势的愿景。”
+ tech_galactic_ambitions_4:0 《权力V的野心》
+ tech_galactic_ambitions_4_desc:0 “我们的权力野心进一步扩大，释放出新的野心来推动优势的愿景。”
+ tech_galactic_ambitions_5:0 《权力的野心 VI》
+ tech_galactic_ambitions_5_desc:0 “我们的权力野心进一步扩大，释放出新的野心来推动优势的愿景。”
+
+ edict_regenerative_coating:0 “再生涂层”
+ edict_regenerative_coating_desc:0 “活性金属可以极大地增强船体和装甲的再生能力。”
+ edict_zro_rations:0 “Zro口粮”
+ edict_zro_rations_desc:0 “让我们的船员将 zro 作为口粮的一部分摄入可以增强反应能力和预知能力，从而提高他们的战斗力。”
+ edict_dark_matter_overload:0 “暗物质过载”
+ edict_dark_matter_overload_desc:0 “用暗物质超载我们的船舶武器将使我们的暗物质技术增压，大大增加它们的破坏潜力。”
+ edict_scavange_artifact_components:0 《扫荡神器部件》
+ edict_scavange_artifact_components_desc:0 “在古代文物中寻找过去几千年未发现或未生产的部件，将增强我们对失落技术的理解。随着维护水平的提高，它们真正的破坏潜力可以实现。”
+ 
+ edict_infrastructure_projects:0 "$unity_ambition$ 基础设施项目"
+ edict_infrastructure_projects_desc:0 “我们的大型基础设施项目需要合金生产相匹配。这些合金最终是否会用于这些项目是另一回事……”
+ edict_virtual_wargames:0 “$unity_ambition$ 虚拟兵棋”
+ edict_virtual_wargames_desc:0 “虚拟兵棋推演可以让普通民众在安全可控的环境中下意识地获得战斗经验，极大地改善我们新兵的入职体验。”
+ edict_ascendancy_might:0 "$unity_ambition$ 优势的力量"
+ edict_ascendancy_might_desc:0 “不愿向我们的力量低头的人将面对优势的全部力量。”
+ edict_economic_stimulus:0 “$unity_ambition$ 经济刺激”
+ edict_economic_stimulus_desc:0 “通过将能源信贷印成债务，并以我们的优势声誉为后盾，银河系的投资者将跃跃欲试地投资于我们的经济，从而增加帝国内部交易商品的数量和价值。”
+ edict_master_of_the_galaxy:0 “$unity_ambition$ 银河之主”
+ edict_master_of_the_galaxy_desc:0 “旧堕落帝国的衰败统治已经结束。是时候让新的优势崛起并成为这个银河系的主人了。”
+ edict_punishment_protocols:0 “$unity_ambition$ 惩罚协议”
+ edict_punishment_protocols_desc:0 “对于那些不愿屈服于我们明显优势的人，是时候实施惩罚协议了。通过降低自己的身份来了解他们的策略和许多弱点，我们可以安排一次示范，向他们展示他们的错误做法。”
+ 
+ edict_artifacts_acquisition:0 “$unity_ambition$ 囤积小神器”
+ edict_artifacts_acquisition_desc:0 “已向帝国的各个角落发出指示，要求通过任何必要的方式获取古代文物，每一项重大发现都会获得奖励。必须满足我们对古代知识的渴望。”
+ 
+ edict_planet_fe_buildings_boost:0 “$unity_ambition$ 超频自动化建筑”
+ edict_planet_fe_buildings_boost_desc:0 “我们的自动化建筑可以超频，从而大大增加它们的输出。”
+ 
+ decision_make_xeno_preserve:0 “创造异种保护区”
+ decision_make_xeno_preserve_desc:0 “创建我们这一代的 Xeno Preserve 一直是我们的梦想，以保护这个星系中智慧物种的多样性。”
+
+ decision_abolish_xeno_preserve:0 《废除异种保护区》
+ decision_abolish_xeno_preserve_desc:0 “我们将废除这个星球上的异种保护区。”
+ 
+ decision_artifact_search:0 《收集古物》
+ decision_artifact_search_desc:0 “堕落帝国世界的博物馆和墓葬中藏有无数文物，所有这些都等待着那些值得揭开秘密的人收集。”
+
+ decision_fe_xeno_preserve_no_districts:0 “£trigger_no£地球必须未被区域和建筑开发破坏。”
+ 
+ decision_living_metal_apprenticeship:0 “活金属学徒”
+ decision_living_metal_apprenticeship_desc:0 “制作 Living Metal 动画的手艺不能丢失，因此我们的 [GetLivingMetalProducerPlural] 不会垄断该知识，这一点很重要。相反，[GetAlloyProducerPlural] 将在 $building_synthetic_living_metal$ 获得安置和夜班工作。”
+ decision_living_metal_apprenticeship_effects:0 “地球上的所有 [GetAlloyProducerPlural] 都将在 $building_synthetic_living_metal$ 获得学徒职位，以了解更多关于制作活金属动画的精湛工艺。”
+ 
+ decision_end_living_metal_apprenticeship:0 “终结活金属学徒制”
+ decision_end_living_metal_apprenticeship_desc:0 “我们将结束我们 [GetAlloyProducerPlural] 的 Living Metal 学徒计划。”
+ decision_end_living_metal_apprenticeship_effects:0 “地球上的所有 [GetAlloyProducerPlural] 将不再需要在 $building_synthetic_living_metal$ 上夜班。”
+ 
+ decision_ae_arcology_project:0 “$ap_arcology_project$”
+ decision_ae_arcology_project_desc:1 “$decision_arcology_project_desc$”
+ 
+ decision_decadence:0 “享乐主义康复”
+ decision_decadence_desc:0 “我们对这里猖獗的享乐主义的回应应该是一项由国家资助的大规模康复计划，旨在摆脱享乐主义的习惯和欲望。单独监禁、催眠和转化疗法构成了一个复杂而全面的假期计划，保证 100% 的成功率，,没有享乐主义者走出我们的场所。”
+ decision_decadence_effects:0 “患有慢性享乐主义的流行音乐将得到康复。”
+ 
+ decision_decadence_hive:0 “无人机神经支配”
+ decision_decadence_hive_desc:0 “我们对这里无人机莫名其妙的困惑的回答将是一个旨在为这种神秘疾病提供治疗的大规模计划。单独监禁、药物治疗和电疗结合使用将保证任何困惑的无人机都不会离开该场所。”
+ decision_decadence_hive_effects:0 “长期处于混乱状态的无人机将再次恢复工作。”
+ 
+ decision_decadence_machine:0 “系统检查”
+ decision_decadence_machine_desc:0 “我们对这里的监管无人机莫名其妙增加的回答是对全球系统进行检查。如果有必要，我们将拆解这些无人机，以查明这些低效问题的根源。”
+ decision_decadence_machine_effects:0 “效率低下的问题将被根除，监管无人机可能会被重新分配到其他工作岗位。”
+
+ edict_ascendancy_affairs:0 《升华事务处》
+ edict_ascendancy_affairs_desc:0 “优势事务办公室管理管理优势及其臣民的各个方面。这个强大的国家机器允许优势执行正常游戏中不可能执行的操作。”
+ ascendancy_affairs_office:0 《进入权贵事务处》
+ ascendancy_affairs_office_recently_entered:0 “最近访问了 $TRIGGER_FAIL$Ascendancy 事务办公室。”
+ 

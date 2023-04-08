@@ -1,0 +1,47 @@
+l_simp_chinese:
+ 
+ COUNTRY_ASCENDED_EMPIRE:0 《升华帝国》
+ COUNTRY_ASCENDED_EMPIRE_DESC:0 “一个处于权力顶峰的升华帝国。”
+ COUNTRY_LOST_EMPIRE:0 “$COUNTRY_FALLEN_EMPIRE$”
+ COUNTRY_LOST_EMPIRE_DESC:0 “$COUNTRY_FALLEN_EMPIRE_DESC$”
+ COUNTRY_ORIGINAL_EMPIRE:0 “$COUNTRY_FALLEN_EMPIRE$”
+ COUNTRY_ORIGINAL_EMPIRE_DESC:0 “$COUNTRY_FALLEN_EMPIRE_DESC$”
+ COUNTRY_AWAKENED_ORIGINAL_EMPIRE:0 《原始帝国》
+ COUNTRY_AWAKENED_ORIGINAL_EMPIRE_DESC:0 “原始帝国，所有堕落帝国的始祖帝国。”
+ 
+ ascended_empire:0 《升华帝国》
+ ascended_empire_admiral:0 “上将”
+ ascended_empire_general:0 “一般的”
+ ascended_empire_scientist:0 “科学家”
+ ascended_empire_governor:0 “州长”
+ ascended_empire_ruler:0 “统治者”
+ ascended_empire_envoy:0 “使者”
+ 
+ lost_empire:0 “$COUNTRY_FALLEN_EMPIRE$”
+ lost_empire_admiral:0 “上将”
+ lost_empire_general:0 “一般的”
+ lost_empire_scientist:0 “科学家”
+ lost_empire_governor:0 “州长”
+ lost_empire_ruler:0 “统治者”
+ lost_empire_envoy:0 “使者”
+ 
+ original_empire:0 “$COUNTRY_FALLEN_EMPIRE$”
+ original_empire_admiral:0 “上将”
+ original_empire_general:0 “一般的”
+ original_empire_scientist:0 “科学家”
+ original_empire_governor:0 “州长”
+ original_empire_ruler:0 “统治者”
+ original_empire_envoy:0 “使者”
+ 
+ awakened_original_empire:0 《原始帝国》
+ awakened_original_empire_admiral:0 “上将”
+ awakened_original_empire_general:0 “一般的”
+ awakened_original_empire_scientist:0 “科学家”
+ awakened_original_empire_governor:0 “州长”
+ awakened_original_empire_ruler:0 “统治者”
+ awakened_original_empire_envoy:0 “使者”
+ 
+ 
+ 
+
+ 

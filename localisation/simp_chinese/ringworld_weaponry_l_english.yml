@@ -1,0 +1,50 @@
+l_simp_chinese:
+ 
+ 
+ ringworld_empire_digsite_1:0 “神秘的数据库”
+ ringworld_empire_digsite_1_desc:0 “由于近期供电技术的进步，我们相信现在有可能在 §H[From.Planet.GetName]§! 的祖先档案中恢复神秘的数据库。\n\n当然，我们的团队需要一些时间,集合起来并采取所有预防措施。一旦重新激活，就不知道数据库会告诉我们什么关于我们的过去，因为我们将继续寻找我们的根源。”
+
+ ringworld_weaponry.100.name:0 《先祖档案》
+ ringworld_weaponry.100.desc:0 “在祖先档案馆内一直有一个看起来很奇怪的数据库，尽管我们尽了最大努力，但这些年来一直处于休眠状态。由于我们对 §Y$tech_dark_matter_power_core$§! 的掌握使得许多以前认为不可能的技术得以使用，我们,现在相信我们多年前发现的这个数据库的能量来源可能是由相同的技术驱动的。\n\n也许是时候让我们的 [Root.GetScientistPlural] 重新访问旧机器并发现我们的祖先留下的秘密了。
+ ringworld_weaponry.100.desc.spiritualist:0 “在祖先档案馆内一直有一个看起来很奇怪的数据库，尽管我们尽了最大的努力，但这些年来一直处于休眠状态。由于我们对 §Y$tech_dark_matter_power_core$§! 的掌握使得许多以前认为不可能的技术得以使用，我们,现在相信这个数据库的动力源可能由相同的技术提供动力。\n\n也许是时候让我们的 [Root.GetScientistPlural] 重新审视旧机器并发现我们的§H精神主义祖先§!留下的秘密了。
+ ringworld_weaponry.100.desc.materialist:0 “在祖先档案馆内一直有一个看起来很奇怪的数据库，尽管我们尽了最大努力，但这些年来一直处于休眠状态。由于我们对 §Y$tech_dark_matter_power_core$§! 的掌握使得许多以前认为不可能的技术得以使用，我们,现在相信这个数据库的动力源可能由相同的技术提供动力。\n\n也许是时候让我们的 [Root.GetScientistPlural] 重新审视旧机器并发现我们的§H唯物主义祖先§!留下的秘密了。”
+ ringworld_weaponry.100.desc.xenophile:0 “在祖先档案馆内一直有一个看起来很奇怪的数据库，尽管我们尽了最大的努力，但这些年来一直处于休眠状态。由于我们对 §Y$tech_dark_matter_power_core$§! 的掌握使得许多以前认为不可能的技术得以使用，我们,现在相信这个数据库的电源可能由相同的技术提供动力。\n\n也许是时候让我们的 [Root.GetScientistPlural] 重新审视旧机器并发现我们的§HXenophilic Ancestors§! 留下的秘密了。
+ ringworld_weaponry.100.desc.xenophobe:0 “在祖先档案馆内一直有一个看起来很奇怪的数据库，尽管我们尽了最大的努力，但这些年来一直处于休眠状态。由于我们对 §Y$tech_dark_matter_power_core$§! 的掌握使得许多以前认为不可能的技术得以使用，我们,现在相信这个数据库的电源可能由相同的技术提供动力。\n\n也许是时候让我们的 [Root.GetScientistPlural] 重新审视旧机器并发现我们的§H仇外祖先§!留下的秘密了。
+ ringworld_weaponry.100.desc.militarist:0 “在祖先档案馆内一直有一个看起来很奇怪的数据库，尽管我们尽了最大努力，但这些年来一直处于休眠状态。由于我们对 §Y$tech_dark_matter_power_core$§! 的掌握使得许多以前认为不可能的技术得以使用，我们,现在相信这个数据库的电源可能由相同的技术提供动力。\n\n也许是时候让我们的 [Root.GetScientistPlural] 重新审视旧机器并发现我们的§H军国主义祖先§!留下的秘密了。
+ ringworld_weaponry.100.desc.pacifist:0 “在祖先档案馆内一直有一个看起来很奇怪的数据库，尽管我们尽了最大的努力，但这些年来一直处于休眠状态。由于我们对 §Y$tech_dark_matter_power_core$§! 的掌握使得许多以前认为不可能的技术得以使用，我们,现在相信这个数据库的电源可能由相同的技术提供动力。\n\n也许是时候让我们的 [Root.GetScientistPlural] 重新审视旧机器并发现我们的§H和平主义祖先§!留下的秘密了。
+ ringworld_weaponry.100.desc.authoritarian:0 “在祖先档案馆内一直有一个看起来很奇怪的数据库，尽管我们尽了最大努力，但这些年来一直处于休眠状态。由于我们对 §Y$tech_dark_matter_power_core$§! 的掌握使得许多以前认为不可能的技术得以使用，我们,现在相信这个数据库的电源可能由相同的技术提供动力。\n\n也许是时候让我们的 [Root.GetScientistPlural] 重新审视旧机器并发现我们的§H独裁祖先§!留下的秘密了。
+ ringworld_weaponry.100.desc.egalitarian:0 “在祖先档案馆内一直有一个看起来很奇怪的数据库，尽管我们尽了最大的努力，但这些年来一直处于休眠状态。由于我们对 §Y$tech_dark_matter_power_core$§! 的掌握使得许多以前认为不可能的技术得以使用，我们,现在相信这个数据库的电源可能由相同的技术提供动力。\n\n也许是时候让我们的 [Root.GetScientistPlural] 重新审视旧机器并发现我们的§H平等主义祖先§!留下的秘密了。
+ ringworld_weaponry.100.desc.hive:0 “在祖先档案馆内一直有一个看起来很奇怪的数据库，尽管我们尽了最大的努力，但这些年来一直处于休眠状态。由于我们对 §Y$tech_dark_matter_power_core$§! 的掌握使得许多以前认为不可能的技术得以使用，我们,现在相信这个数据库的电源可能由相同的技术提供动力。\n\n也许是时候让我们的 [Root.GetScientistPlural] 重新审视旧机器并发现我们的§HHive Mind 祖先§! 留下的秘密了。 ,“
+ ringworld_weaponry.100.desc.machine:0 “在祖先档案馆内一直有一个看起来很奇怪的数据库，尽管我们尽了最大的努力，但这些年来一直处于休眠状态。由于我们对 §Y$tech_dark_matter_power_core$§! 的掌握使得许多以前认为不可能的技术得以使用，我们,现在相信这个数据库的电源可能由相同的技术提供动力。\n\n也许是时候让我们的 [Root.GetScientistPlural] 重新审视旧机器并发现我们的§HMachine Ancestors§! 留下的秘密了。
+ ringworld_weaponry.100.a:0 “让那个数据库上线！”
+
+ ringworld_weaponry.101.name:0 “初步突破”
+ ringworld_weaponry.101.desc:0 “似乎我们祖先的秘密在召唤我们。\n\n在采取了所有预防措施以防我们不小心炸毁数据库和其中的所有知识之后，我们的 [Owner.GetScientistPlural] 团队开始少量喂养它,$tech_dark_matter_power_core$。几小时后，数据库再次嗡嗡作响，初始界面可用。\n\n翻译我们祖先的古老语言将非常耗时，以确保我们的 [Owner.GetScientistPlural] 不会,按错了按钮。但我们最初的理解是，这是某种历史档案，其中提到了我们从未听说过的技术。我们的祖先拥有的此类技术之一是 §Y$tech_dark_energy_power_core$§!，而我们的 [ ,Owner.GetScientistPlural] 渴望进一步调查。”
+ ringworld_weaponry.101.a:0 “$tech_dark_energy_power_core$？这可能吗？”
+ ringworld_weaponry.101.b:0 “我们已经知道 $tech_dark_energy_power_core$。”
+
+ ringworld_weaponry.102.name:0 “有趣的战术”
+ ringworld_weaponry.102.desc:0 “从古代机器中提取任何类型的信息始终是一个微妙的过程，但自从大远征初期发生的各种小规模冲突以来，更多信息浮出水面，我们祖先的舰队配备了 §Y$ tech_dark_energy_jump_drive$§ ,! 经常能够选择他们的战斗，允许他们使用打了就跑的战术来对抗他们的宿敌，在此过程中造成巨大的破坏。\n\n如果我们能够学习这样的技术，它将使我们的舰队能够做同样的事情,我们的敌人。”
+ ringworld_weaponry.102.a:0 “$tech_dark_energy_jump_drive$？”
+ ringworld_weaponry.102.b:0 “我们已经知道 $tech_dark_energy_jump_drive$。”
+
+ ringworld_weaponry.103.name:0 “复仇者适应”
+ ringworld_weaponry.103.desc:0 “随着大远征对冲突双方造成损失，我们的祖先意识到需要更大、更强大的武器。新记录显示，§Y$tech_dark_energy_power_booster$§! 就是这样一种尝试，目的是在特别时期加强电力供应,在激烈的战斗中，武器系统的需求常常阻碍舰队机动和撤退的能力，导致不必要的损失。\n\n正如祖先适应了他们的 Nemesis 的力量一样，Nemesis 也在进化以对抗他们的战术,, 并开始攻击我们的祖先无法承受损失的重要系统，迫使他们陷入激战。许多世界已经灭亡，并且在某个§H北方战斗群§!下犯下的暴行受到了重要的提及，它的声誉永远玷污了,我们的历史。”
+ ringworld_weaponry.103.a:0 “让我们调查一下 $tech_dark_energy_power_booster$？”
+ ringworld_weaponry.103.b:0 “我们已经知道 $tech_dark_energy_power_booster$。”
+ 
+ ringworld_weaponry.104.name:0 “§H[From.Solar_System.GetName]§!”之战
+ ringworld_weaponry.104.desc:0 “在一系列胜利的基础上，由 §YAdmiral Armageddon§! 领导的复仇女神的 §H 北方战斗群§! 最终强行突破了我们祖先的防御并到达了 §H[From.Solar_System.GetName]§! ,.等待着他们的是六十艘配备了最新的§Y$tech_massive_autocannons$§!的先祖号最先进的战列巡洋舰，以及一艘新建的巨型战舰。\n\n几天之内战斗就结束了。§H战斗群的旗舰泰坦,North§! 被占领并整顿，§YAdmiral Armageddon§! 被杀，对帝国的直接威胁被消灭，从而为大联盟赢得了最伟大的胜利之一。受到这一胜利的鼓舞，也许是胆大妄为或机会主义，其他国家,起来对抗一个被削弱的复仇女神。\n\n在复仇女神的舰队再次回到我们祖先的空间之前，这将是很多年，而这一次，可能是银河系有史以来最集中的海军力量。
+ ringworld_weaponry.104.a:0 “§Y$tech_massive_autocannons$§!?听起来很有用。”
+ ringworld_weaponry.104.b:0 “我们已经知道 $tech_massive_autocannons$。”
+ 
+ ringworld_weaponry.105.name:0 “转折点”
+ ringworld_weaponry.105.desc:0 “在 §H[From.Solar_System.GetName]§! 的星系中遭受惨败之后，复仇女神从容不迫地策划了对我们祖先的报复，他们现在袭击了复仇女神的领土，在此过程中摧毁了许多驻军站和舰队,.\n\n但聚集的风暴无法停止。§H 南战斗群§!、§H 西战斗群§! 和 §H 东战斗群§!,前所未见，他们的目标是一劳永逸地粉碎先祖。即使我们的先祖有了新的§Y$tech_dark_energy_energy_shield$§!，复仇女神舰队的绝对火力也是无与伦比的，由此给先祖造成的伤亡是天文数字,. 即使复仇女神舰队再次返回 §H[From.Solar_System.GetName]§!，无情地轰炸 §H[From.Planet.GetName]§! 使其屈服，先祖们仍然希望他们的求救声能够,被其他帝国听到，救援部队或大联盟的反击最终会解除围困。\n\n没有这样的帮助，我们的祖先不会投降，所以复仇女神轰炸了我们的世界，直到什么都没有留下,”
+ ringworld_weaponry.105.a:0 “$tech_dark_energy_shield$？”
+ ringworld_weaponry.105.b:0 “我们已经知道 $tech_dark_energy_shield$。”
+ 
+ ringworld_weaponry.106.name:0 “数据库崩溃”
+ ringworld_weaponry.106.desc:0 “也许是因为过度兴奋，[event_target:silly_scientist.GetName] 参与了在我们祖先的数据库中输入有关大远征中使用的武器和战术的查询。这导致相信入侵者的古代机器发生灾难性故障,降落在该片段上，触发了一系列自毁程序，以保护我们祖先的秘密。\n\n在数据库最终被摧毁之前，我们能够破解其中关于我们祖先战斗策略的部分条目，这给了我们,更深入地了解那段时期的战斗。\n\n自然地，由于这场导致我们历史的一部分永远消失的灾难性事故，[event_target:silly_scientist.GetName] 将被从他们的角色中移除并受到相应的惩罚。 ,“
+ ringworld_weaponry.106.a:0 “愚蠢的 [Owner.GetScientist]。但如果 Nemesis 再次回归，我们会做好准备！”
+ 
+ 

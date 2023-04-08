@@ -1,0 +1,111 @@
+l_simp_chinese:
+
+
+ mod_planet_zofe_automated_buildings_produces_mult:0 “自动化建筑生产”
+ mod_planet_zofe_automated_districts_produces_mult:0 “自动化区域生产”
+ mod_planet_zofe_automated_buildings_upkeep_mult:0 “自动化建筑维护”
+ mod_planet_zofe_automated_districts_upkeep_mult:0 “自动化区域维护”
+ mod_zofe_utopian_world_decisions_cost_mult:0 "$decision_paradise_creation$ 行星决策成本"
+ mod_planet_metallurgists_sr_living_metal_produces_add:0 “£sr_living_metal£ $sr_living_metal$ 来自 £job_foundry£ [GetAlloyProducerPlural]”
+ mod_planet_metallurgists_sr_dark_matter_upkeep_add:0 “£sr_dark_matter£ $sr_dark_matter$ 维护£job_foundry£ [GetAlloyProducerPlural]”
+ mod_planet_jobs_sr_dark_matter_produces_mult:0 “来自£job£工作的£sr_dark_matter£ $sr_dark_matter$”
+ mod_planet_jobs_sr_living_metal_produces_mult:0 “来自 £job£ 工作的 £sr_living_metal£ $sr_living_metal$”
+ mod_planet_priests_physics_research_produces_add:0 “£physics£ $physics_research$ from £job_priest£ $job_priest_plural$”
+ mod_planet_priests_society_research_produces_add:0 “£society£ $society_research$ from £job_priest£ $job_priest_plural$”
+ mod_planet_priests_engineering_research_produces_add:0 “£engineering£ $engineering_research$ from £job_priest£ $job_priest_plural$”
+ 
+ mod_country_base_minor_artifacts_produces_add:0 “每月 £minor_artifacts£ 次要人工制品”
+ 
+ mod_damage_vs_country_type_default_mult:0 “对正常帝国的破坏”
+ mod_damage_vs_country_type_ascended_empire_mult:0 “对升华帝国的破坏”
+ mod_damage_vs_country_type_lost_empire_mult:0 “失落帝国的破坏”
+ mod_damage_vs_country_type_original_empire_mult: “对远古守护者的伤害”
+ mod_damage_vs_country_type_awakened_original_empire_mult: “对原始帝国的破坏”
+ 
+ ancestors_insights:0 《先祖之见》
+ ancestors_insights_2:0 《先祖之见》
+ lost_technology_insights_1:0 “丢失的技术洞察力”
+ lost_technology_insights_2:0 “丢失的技术洞察力”
+ lost_technology_insights_3:0 “丢失的技术洞察力”
+ lost_technology_insights_4:0 “丢失的技术洞察力”
+ lost_technology_insights_5:0 “丢失的技术洞察力”
+ lost_technology_insights_6:0 “丢失的技术洞察力”
+ lost_technology_insights_7:0 “丢失的技术洞察力”
+ lost_technology_insights_8:0 “丢失的技术洞察力”
+ lost_technology_insights_9:0 “丢失的技术洞察力”
+ lost_technology_insights_10:0 “丢失的技术洞察力”
+ lost_technology_insights_11:0 “丢失的技术洞察力”
+ lost_technology_insights_12:0 “丢失的技术洞察力”
+ lost_technology_insights_13:0 “丢失的技术洞察力”
+ lost_technology_insights_14:0 “丢失的技术洞察力”
+ lost_technology_insights_15:0 “丢失的技术洞察力”
+ 
+ original_technology_insights_1:0 “圣火的仆人”
+ original_technology_insights_2:0 《圣火学徒》
+ original_technology_insights_3:0 “圣火的持有者”
+ original_technology_insights_4:0 “圣火守护者”
+ original_technology_insights_5:0 “圣火骑士团”
+ original_technology_insights_6:0 “圣火勇士”
+ original_technology_insights_7:0 “圣火大师”
+ original_technology_mastery:0 “圣火领主”
+ 
+ 
+ exposed_by_oe:0 “我们暴露了”
+ exposed_by_oe_desc:0 “出于某种原因，古代守护者似乎对我们这个物种了如指掌……”
+ great_crusade_lessons:0 “大十字军东征的教训”
+ great_crusade_lessons_desc:0 “先驱帝国与我们分享了关于我们现在面对的敌人的宝贵见解。”
+ 
+ pm_Utopian_Paradise:0 “乌托邦天堂”
+ pm_Utopian_Paradise_desc:0 “宇宙的奇迹，这个世界是一个完美的乌托邦天堂。从它的歌塔，你可以听到它的风在它雄伟的夜空下的和谐，忘记银河系的所有苦难。对于居民和所有的人,拜访过，这个世界在他们心中占有特殊的位置。”
+
+ pm_Utopian_Paradise_Machine:0 《活金属机械世界》
+ pm_Utopian_Paradise_Machine_desc:0 “宇宙的奇迹，整个世界都被生命金属所覆盖和注入。千米宽的通道有规律地打开和关闭，因为无人机在这个看似混乱但实际上井然有序的星球的每一层上工作。”
+ 
+ pm_Utopian_Paradise_Hive:0 “乌托邦蜂巢世界”
+ pm_Utopian_Paradise_Hive_desc:0 “宇宙的奇迹，整个世界都被生命金属所覆盖和注入。千米宽的通道有规律地打开和关闭，因为无人机在这个看似混乱但实际上井然有序的星球的每一层上工作。”
+ 
+ fe_xeno_preserve:0 “异种保护区”
+ fe_xeno_preserve_desc:0 “一个巨大的综合体，旨在保护从整个银河系收集到的各种智能生命。”
+
+ the_preserve:0 “保护区”
+ the_preserve_desc:0 “这个星球拥有广泛的智慧生命，是伟大的异种保护区项目的一部分。”
+ 
+ has_preserve_world_planet:0 “保护异形”
+ has_preserve_world_planet_desc:0 “我们在我们的边界内指定了一个盖亚世界作为保护区。”
+ 
+ science_sabotaged:0 “科学被破坏”
+ national_mourning:0 “国丧”
+ fleet_exercised:0 “舰队演习”
+ fleet_sabotaged:0 “舰队遭到破坏”
+ ascended_empire_databanks:0 “登高帝国数据库访问”
+ renegotiated_deal:0 “重新谈判的交易”
+ better_deal:0 “更好的交易”
+ justice_for_us:0 “终于伸张正义”
+ military_tribunal:0 “军事法庭”
+ op_vs_plebs:0 “OP vs 平民”
+ op_vs_plebs_desc:0 “我们知道他们所有的策略，他们所有的缺点和弱点。”
+
+ inspiring_warlord:0 《励志军阀》
+ inspiring_warlord_desc:0 “霸主激励这个帝国去战斗。”
+ demilitarized_state:0 “非军事化国家”
+ demilitarized_state_desc:0 “这个国家已经非军事化，限制了它可以部署的船只数量。”
+ new_world_order:0 “新世界秩序”
+ new_world_order_desc:0 “社会正在遭受遵守新秩序的影响。”
+ democratized_utopia:0 “民主化的乌托邦”
+ democratized_utopia_desc:0 “这显然是一个民主化的乌托邦。”
+ fe_satrapy:0 “总督”
+ fe_satrapy_desc:0 “作为总督，我们有义务从我们的人口中提供一定数量的新兵。”
+ auxiliary_overlord:0 “辅助奖金”
+ auxiliary_overlord_desc:0 “我们的辅助装置正在极大地增强我们组装下一代机器的能力。”
+ 
+ ai_debug_ascend:0 《升华帝国》
+ ai_debug_ascend_desc:0 “升华帝国对银河系的影响力更大。”
+ 
+ debug_dm_tech:0 “作弊：增加暗物质武器伤害”
+ debug_lost_tech:0 “作弊：增加丢失的武器伤害”
+ debug_original_tech:0 “作弊：增加原始武器伤害”
+ servant_of_kolyn:0 “科林的仆人”
+ ringworld_empire_homeworld:0 《环世界帝国家园》
+ decadence_unhappiness_1:0 “政府暴行”
+ decadence_unhappiness_2:0 “极端的政府暴行”
+ 

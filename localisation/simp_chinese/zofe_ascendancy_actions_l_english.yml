@@ -1,0 +1,901 @@
+l_simp_chinese:
+ 
+ zofe_ascendancy_affairs.1.name:0 《升华事务处》
+ zofe_ascendancy_affairs.1.desc:0 “欢迎，§H[Root.GetRulerTitle] [Root.GetRulerName]§!。\n\n希望你今天过得愉快。我身后这个漂亮的房间是你的办公室，我是你的私人助理。从这里开始，我们,管理我们优势地位的事务以及我们势力范围内的任何国家。\n\n只要我们不破坏其他优势地位和冒着冲突的风险，我们就可以自由地做出自己的决定，但每一个行动都可能产生后果，我,我相信你明白。也就是说，我们伟大的 §H[Root.GetName]§! 今天应该采取什么行动？”
+ zofe_ascendancy_affairs.1.friendly:0 “我们将执行一个§G友好的§!行动。”
+ zofe_ascendancy_friendly_action_tooltip:0 “[Root.GetName] 今天将执行一项友好行动。单击以从可能的友好行动列表中进行选择。”
+ zofe_ascendancy_affairs.1.mean:0 “我们将执行一个§R平均§!动作。”
+ zofe_ascendancy_mean_action_tooltip:0 “[Root.GetName] 今天将执行一项恶意操作。单击以从可能的恶意操作列表中进行选择。”
+ zofe_ascendancy_affairs.1.internal:0 “[Root.GetRulerTitle] 今天不想与野蛮人打交道。”
+ zofe_ascendancy_internal_tooltip:0 “[Root.GetName] 将专注于帝国的内部事务。”
+ zofe_ascendancy_affairs.1.starbase_redesign:0 “星际基地重新设计”
+ zofe_ascendancy_starbase_redesign_tooltip:0 “[Root.GetName] 将重新设计星际基地并修正它们的原始外观。”
+ zofe_ascendancy_affairs.1.exit:0 “就这样。”
+ 
+ zofe_ascendancy_affairs.10.name:0 “友好行动”
+ zofe_ascendancy_affairs.10.desc:0 “明白。银河系必须体验我们的无限仁慈，我们将回报那些为我们服务的人。我们在想什么样的友好行动，§H[Root.GetRulerTitle] [Root.GetRulerName]§!？”
+ zofe_ascendancy_affairs.10.boon:0 “赐福”
+ zofe_ascendancy_affairs.10.resource_transfer:0 《资源转移》
+ zofe_ascendancy_affairs.10.tech_transfer:0 “技术转移”
+ zofe_ascendancy_affairs.10.fleet_transfer:0 “舰队转移”
+ zofe_ascendancy_affairs.10.exit:0 “我改变主意了。”
+ 
+ zofe_ascendancy_affairs.11.name:0 《资源转移》
+ zofe_ascendancy_affairs.11.desc:0 “很好，我们要调动哪些资源？”
+ zofe_ascendancy_affairs.11.energy:0 “£energy£ 能源积分”
+ zofe_ascendancy_affairs.11.minerals:0 “£矿产£矿产”
+ zofe_ascendancy_affairs.11.consumer_goods:0 “£consumer_goods£ 消费品”
+ zofe_ascendancy_affairs.11.alloys:0 “£合金£合金”
+ zofe_ascendancy_affairs.11.artifacts:0 “£minor_artifacts£ 小型人工制品”
+ 
+ zofe_ascendancy_affairs.111.name:0 “能量转移”
+ zofe_ascendancy_affairs.111.desc:0 “在我们的臣民中，贫富差距正在扩大。由于‘紧缩’措施导致生活水平下降和福利削减，国家很快就会发现自己站在了人民的错误一边，金融机构正在采取行动,充分利用一个不稳定且被大大削弱的政府。我们可以通过提供大量信贷来帮助最贫穷的人重新站起来。这可以大大减轻一些原始人的痛苦，并确保他们对政府的忠诚度仍然存在,我们。”
+ zofe_ascendancy_affairs.111.a:0 “发送 [event_target:ascendancy_affairs_target_1.GetName] £energy£ §Y5000§! 能源点数。”
+ zofe_ascendancy_affairs.111.b:0 “发送 [event_target:ascendancy_affairs_target_2.GetName] £energy£ §Y5000§! 能源点数。”
+ zofe_ascendancy_affairs.111.c:0 “发送 [event_target:ascendancy_affairs_target_3.GetName] £energy£ §Y5000§! 能源点数。”
+ zofe_ascendancy_affairs.111.d:0 “发送 [event_target:ascendancy_affairs_target_4.GetName] £energy£ §Y5000§! 能源点数。”
+ zofe_ascendancy_affairs.111.e:0 “发送 [event_target:ascendancy_affairs_target_5.GetName] £energy£ §Y5000§! 能源点数。”
+ zofe_ascendancy_affairs.111.f:0 “发送 [event_target:ascendancy_affairs_target_6.GetName] £energy£ §Y5000§! 能源点数。”
+ zofe_ascendancy_affairs.111.g:0 “发送 [event_target:ascendancy_affairs_target_7.GetName] £energy£ §Y5000§! 能源点数。”
+ zofe_ascendancy_affairs.111.h:0 “发送 [event_target:ascendancy_affairs_target_8.GetName] £energy£ §Y5000§! 能源点数。”
+ zofe_ascendancy_affairs.111.i:0 “发送 [event_target:ascendancy_affairs_target_9.GetName] £energy£ §Y5000§! 能源点数。”
+ zofe_ascendancy_affairs.111.j:0 “发送 [event_target:ascendancy_affairs_target_10.GetName] £energy£ §Y5000§! 能量点数。”
+ zofe_ascendancy_affairs.111.k:0 “发送 [event_target:ascendancy_affairs_target_11.GetName] £energy£ §Y5000§! 能源点数。”
+ zofe_ascendancy_affairs.111.l:0 “发送 [event_target:ascendancy_affairs_target_12.GetName] £energy£ §Y5000§! 能量点数。”
+ zofe_ascendancy_affairs.111.m:0 “发送 [event_target:ascendancy_affairs_target_13.GetName] £energy£ §Y5000§! 能源点数。”
+ zofe_ascendancy_affairs.111.n:0 “发送 [event_target:ascendancy_affairs_target_14.GetName] £energy£ §Y5000§! 能源点数。”
+ zofe_ascendancy_affairs.111.o:0 “发送 [event_target:ascendancy_affairs_target_15.GetName] £energy£ §Y5000§! 能源点数。”
+ zofe_ascendancy_affairs.111.p:0 “发送 [event_target:ascendancy_affairs_target_16.GetName] £energy£ §Y5000§! 能源点数。”
+ 
+ zofe_ascendancy_affairs.1111.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.1111.desc:0 “我们已经观察到你们的原始物种如何遭受极端贫困和金融机构猖獗的暴利。我们 [From.GetSpeciesName] 清楚地听到了 [root.GetSpeciesNamePlural] 的困境，出于我们无限的仁慈，决定给你们一些能量,学分。这笔善款是为了提高你们原始生活方式的标准，在任何情况下都不能被滥用。”
+ zofe_ascendancy_affairs.1111.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.112.name:0 “矿物转移”
+ zofe_ascendancy_affairs.112.desc:0 “在我们的主体中，基础设施的恢复一直不是最理想的，即使是对于人们期望的原始帝国的标准也是如此。由于采矿作业的缺陷，他们从过去的战争或自然灾害中恢复的速度很慢。行星上的重建工作经常停止，有时甚至停止,矿产资源匮乏，无限期开采。相比之下，我们先进的采矿设施，一天能开采出的矿产，比他们可怜的机器一个月还多。作为他们的霸主，我们可以考虑捐出相当数量的矿产，帮助他们提高原始水平。,经济。”
+ zofe_ascendancy_affairs.112.a:0 “发送 [event_target:ascendancy_affairs_target_1.GetName] £minerals£ §Y5000§! 矿物。”
+ zofe_ascendancy_affairs.112.b:0 “发送 [event_target:ascendancy_affairs_target_2.GetName] £minerals£ §Y5000§! 矿物。”
+ zofe_ascendancy_affairs.112.c:0 “发送 [event_target:ascendancy_affairs_target_3.GetName] £minerals£ §Y5000§! 矿物。”
+ zofe_ascendancy_affairs.112.d:0 “发送 [event_target:ascendancy_affairs_target_4.GetName] £minerals£ §Y5000§! 矿物。”
+ zofe_ascendancy_affairs.112.e:0 “发送 [event_target:ascendancy_affairs_target_5.GetName] £minerals£ §Y5000§! 矿物。”
+ zofe_ascendancy_affairs.112.f:0 “发送 [event_target:ascendancy_affairs_target_6.GetName] £minerals£ §Y5000§! 矿物。”
+ zofe_ascendancy_affairs.112.g:0 “发送 [event_target:ascendancy_affairs_target_7.GetName] £minerals£ §Y5000§! 矿物。”
+ zofe_ascendancy_affairs.112.h:0 “发送 [event_target:ascendancy_affairs_target_8.GetName] £minerals£ §Y5000§! 矿物。”
+ zofe_ascendancy_affairs.112.i:0 “发送 [event_target:ascendancy_affairs_target_9.GetName] £minerals£ §Y5000§! 矿物。”
+ zofe_ascendancy_affairs.112.j:0 “发送 [event_target:ascendancy_affairs_target_10.GetName] £minerals£ §Y5000§! 矿物。”
+ zofe_ascendancy_affairs.112.k:0 “发送 [event_target:ascendancy_affairs_target_11.GetName] £minerals£ §Y5000§! 矿物。”
+ zofe_ascendancy_affairs.112.l:0 “发送 [event_target:ascendancy_affairs_target_12.GetName] £minerals£ §Y5000§! 矿物。”
+ zofe_ascendancy_affairs.112.m:0 “发送 [event_target:ascendancy_affairs_target_13.GetName] £minerals£ §Y5000§! 矿物。”
+ zofe_ascendancy_affairs.112.n:0 “发送 [event_target:ascendancy_affairs_target_14.GetName] £minerals£ §Y5000§! 矿物。”
+ zofe_ascendancy_affairs.112.o:0 “发送 [event_target:ascendancy_affairs_target_15.GetName] £minerals£ §Y5000§! 矿物。”
+ zofe_ascendancy_affairs.112.p:0 “发送 [event_target:ascendancy_affairs_target_16.GetName] £minerals£ §Y5000§! 矿物。”
+ 
+ zofe_ascendancy_affairs.1121.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.1121.desc:0 “接受这份矿物礼物，因为你会继续为 [From.GetName] 服务。考虑到你自己的采矿作业的原始缺陷，我们相信你会发现这笔钱非常慷慨。”
+ zofe_ascendancy_affairs.1121.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.113.name:0 “消费品转移”
+ zofe_ascendancy_affairs.113.desc:0 “原始人没有我们的奢侈品，而且经常生活在令人厌恶的状态中。我们服饰的一小部分确实会启发他们，也许会让他们的生活稍微好一点。”
+ zofe_ascendancy_affairs.113.a:0 “发送 [event_target:ascendancy_affairs_target_1.GetName] £consumer_goods£ §Y5000§! $consumer_goods$。”
+ zofe_ascendancy_affairs.113.b:0 “发送 [event_target:ascendancy_affairs_target_2.GetName] £consumer_goods£ §Y5000§! $consumer_goods$。”
+ zofe_ascendancy_affairs.113.c:0 “发送 [event_target:ascendancy_affairs_target_3.GetName] £consumer_goods£ §Y5000§! $consumer_goods$。”
+ zofe_ascendancy_affairs.113.d:0 “发送 [event_target:ascendancy_affairs_target_4.GetName] £consumer_goods£ §Y5000§! $consumer_goods$。”
+ zofe_ascendancy_affairs.113.e:0 “发送 [event_target:ascendancy_affairs_target_5.GetName] £consumer_goods£ §Y5000§! $consumer_goods$。”
+ zofe_ascendancy_affairs.113.f:0 “发送 [event_target:ascendancy_affairs_target_6.GetName] £consumer_goods£ §Y5000§! $consumer_goods$。”
+ zofe_ascendancy_affairs.113.g:0 “发送 [event_target:ascendancy_affairs_target_7.GetName] £consumer_goods£ §Y5000§! $consumer_goods$。”
+ zofe_ascendancy_affairs.113.h:0 “发送 [event_target:ascendancy_affairs_target_8.GetName] £consumer_goods£ §Y5000§! $consumer_goods$。”
+ zofe_ascendancy_affairs.113.i:0 “发送 [event_target:ascendancy_affairs_target_9.GetName] £consumer_goods£ §Y5000§! $consumer_goods$。”
+ zofe_ascendancy_affairs.113.j:0 “发送 [event_target:ascendancy_affairs_target_10.GetName] £consumer_goods£ §Y5000§! $consumer_goods$。”
+ zofe_ascendancy_affairs.113.k:0 “发送 [event_target:ascendancy_affairs_target_11.GetName] £consumer_goods£ §Y5000§! $consumer_goods$。”
+ zofe_ascendancy_affairs.113.l:0 “发送 [event_target:ascendancy_affairs_target_12.GetName] £consumer_goods£ §Y5000§! $consumer_goods$。”
+ zofe_ascendancy_affairs.113.m:0 “发送 [event_target:ascendancy_affairs_target_13.GetName] £consumer_goods£ §Y5000§! $consumer_goods$。”
+ zofe_ascendancy_affairs.113.n:0 “发送 [event_target:ascendancy_affairs_target_14.GetName] £consumer_goods£ §Y5000§! $consumer_goods$。”
+ zofe_ascendancy_affairs.113.o:0 “发送 [event_target:ascendancy_affairs_target_15.GetName] £consumer_goods£ §Y5000§! $consumer_goods$。”
+ zofe_ascendancy_affairs.113.p:0 “发送 [event_target:ascendancy_affairs_target_16.GetName] £consumer_goods£ §Y5000§! $consumer_goods$。”
+ 
+ zofe_ascendancy_affairs.1131.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.1131.desc:0 “接受这份 $consumer_goods$ 的礼物，因为你会继续为 [From.GetName] 服务。我们相信你会发现这笔钱非常慷慨，因为你们的人民已经习惯了原始的生活方式。不要认为这是理所当然的，但是,”
+ zofe_ascendancy_affairs.1131.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.114.name:0 “合金转移”
+ zofe_ascendancy_affairs.114.desc:0 “我们臣民的工业能力还有很多不足之处，特别是考虑到我们在银河系面临的威胁。如果我们有余力的话，大量捐赠合金可以缓解其中的一些安全问题。”
+ zofe_ascendancy_affairs.114.a:0 “发送 [event_target:ascendancy_affairs_target_1.GetName] £alloys£ §Y5000§! $alloys$。”
+ zofe_ascendancy_affairs.114.b:0 “发送 [event_target:ascendancy_affairs_target_2.GetName] £alloys£ §Y5000§! $alloys$。”
+ zofe_ascendancy_affairs.114.c:0 “发送 [event_target:ascendancy_affairs_target_3.GetName] £alloys£ §Y5000§! $alloys$。”
+ zofe_ascendancy_affairs.114.d:0 “发送 [event_target:ascendancy_affairs_target_4.GetName] £alloys£ §Y5000§! $alloys$。”
+ zofe_ascendancy_affairs.114.e:0 “发送 [event_target:ascendancy_affairs_target_5.GetName] £alloys£ §Y5000§! $alloys$。”
+ zofe_ascendancy_affairs.114.f:0 “发送 [event_target:ascendancy_affairs_target_6.GetName] £alloys£ §Y5000§! $alloys$。”
+ zofe_ascendancy_affairs.114.g:0 “发送 [event_target:ascendancy_affairs_target_7.GetName] £alloys£ §Y5000§! $alloys$。”
+ zofe_ascendancy_affairs.114.h:0 “发送 [event_target:ascendancy_affairs_target_8.GetName] £alloys£ §Y5000§! $alloys$。”
+ zofe_ascendancy_affairs.114.i:0 “发送 [event_target:ascendancy_affairs_target_9.GetName] £alloys£ §Y5000§! $alloys$。”
+ zofe_ascendancy_affairs.114.j:0 “发送 [event_target:ascendancy_affairs_target_10.GetName] £alloys£ §Y5000§! $alloys$。”
+ zofe_ascendancy_affairs.114.k:0 “发送 [event_target:ascendancy_affairs_target_11.GetName] £alloys£ §Y5000§! $alloys$。”
+ zofe_ascendancy_affairs.114.l:0 “发送 [event_target:ascendancy_affairs_target_12.GetName] £alloys£ §Y5000§! $alloys$。”
+ zofe_ascendancy_affairs.114.m:0 “发送 [event_target:ascendancy_affairs_target_13.GetName] £alloys£ §Y5000§! $alloys$。”
+ zofe_ascendancy_affairs.114.n:0 “发送 [event_target:ascendancy_affairs_target_14.GetName] £alloys£ §Y5000§! $alloys$。”
+ zofe_ascendancy_affairs.114.o:0 “发送 [event_target:ascendancy_affairs_target_15.GetName] £alloys£ §Y5000§! $alloys$。”
+ zofe_ascendancy_affairs.114.p:0 “发送 [event_target:ascendancy_affairs_target_16.GetName] £alloys£ §Y5000§! $alloys$。”
+ 
+ zofe_ascendancy_affairs.1141.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.1141.desc:0 “接受这份 $alloys$ 的礼物，以表彰你对 [From.GetName] 的持续服务。考虑到你的帝国拥有惊人的工业能力，我们相信你会发现这笔钱非常慷慨。”
+ zofe_ascendancy_affairs.1141.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.115.name:0 《小神器传送》
+ zofe_ascendancy_affairs.115.desc:0 “次要神器是无价之宝，§H[Root.GetRulerTitle] [Root.GetRulerName]§!!请重新考虑将它们发送给可能没有意识到其重要性的原始人。”
+ zofe_ascendancy_affairs.115.a:0 “发送 [event_target:ascendancy_affairs_target_1.GetName] £minor_artifacts£ §Y500§! 小型文物。”
+ zofe_ascendancy_affairs.115.b:0 “发送 [event_target:ascendancy_affairs_target_2.GetName] £minor_artifacts£ §Y500§! 小型文物。”
+ zofe_ascendancy_affairs.115.c:0 “发送 [event_target:ascendancy_affairs_target_3.GetName] £minor_artifacts£ §Y500§! 小型文物。”
+ zofe_ascendancy_affairs.115.d:0 “发送 [event_target:ascendancy_affairs_target_4.GetName] £minor_artifacts£ §Y500§! 小型文物。”
+ zofe_ascendancy_affairs.115.e:0 “发送 [event_target:ascendancy_affairs_target_5.GetName] £minor_artifacts£ §Y500§! 小型文物。”
+ zofe_ascendancy_affairs.115.f:0 “发送 [event_target:ascendancy_affairs_target_6.GetName] £minor_artifacts£ §Y500§! 小型文物。”
+ zofe_ascendancy_affairs.115.g:0 “发送 [event_target:ascendancy_affairs_target_7.GetName] £minor_artifacts£ §Y500§! 小型文物。”
+ zofe_ascendancy_affairs.115.h:0 “发送 [event_target:ascendancy_affairs_target_8.GetName] £minor_artifacts£ §Y500§! 小型文物。”
+ zofe_ascendancy_affairs.115.i:0 “发送 [event_target:ascendancy_affairs_target_9.GetName] £minor_artifacts£ §Y500§! 小型文物。”
+ zofe_ascendancy_affairs.115.j:0 “发送 [event_target:ascendancy_affairs_target_10.GetName] £minor_artifacts£ §Y500§! 小型文物。”
+ zofe_ascendancy_affairs.115.k:0 “发送 [event_target:ascendancy_affairs_target_11.GetName] £minor_artifacts£ §Y500§! 小型文物。”
+ zofe_ascendancy_affairs.115.l:0 “发送 [event_target:ascendancy_affairs_target_12.GetName] £minor_artifacts£ §Y500§! 小型文物。”
+ zofe_ascendancy_affairs.115.m:0 “发送 [event_target:ascendancy_affairs_target_13.GetName] £minor_artifacts£ §Y500§! 小型文物。”
+ zofe_ascendancy_affairs.115.n:0 “发送 [event_target:ascendancy_affairs_target_14.GetName] £minor_artifacts£ §Y500§! 小型文物。”
+ zofe_ascendancy_affairs.115.o:0 “发送 [event_target:ascendancy_affairs_target_15.GetName] £minor_artifacts£ §Y500§! 小型文物。”
+ zofe_ascendancy_affairs.115.p:0 “发送 [event_target:ascendancy_affairs_target_16.GetName] £minor_artifacts£ §Y500§! 小型文物。”
+ 
+ zofe_ascendancy_affairs.1151.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.1151.desc:0 “这里有一些小型人工制品，供您继续为 [From.GetName] 服务。将它们展示在您的博物馆中，因为它们会让您的人民了解银河历史，以及您在其中的微小地位。”
+ zofe_ascendancy_affairs.1151.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.12.name:0 “技术转移”
+ zofe_ascendancy_affairs.12.desc:0 “§H[Root.GetRulerTitle] [Root.GetRulerName]§!，我求你重新考虑一下。原始人不太可能理解我们的技术！”
+ zofe_ascendancy_affairs.12.dark_matter:0 “$tech_dark_matter_power_core$”
+ zofe_ascendancy_affairs.12.lost_tech:0 “失落的技术”
+ zofe_ascendancy_affairs.12.oe_tech:0 《原创帝国科技》
+ 
+ zofe_ascendancy_affairs.121.name:0 《暗物质能量技术转移》
+ zofe_ascendancy_affairs.121.desc:0 “高级文明的钥匙要交给哪个帝国？”
+ zofe_ascendancy_affairs.121.a:0 “给出 [event_target:ascendancy_affairs_target_1.GetName] $tech_dark_matter_power_core$。”
+ zofe_ascendancy_affairs.121.b:0 “给出 [event_target:ascendancy_affairs_target_2.GetName] $tech_dark_matter_power_core$。”
+ zofe_ascendancy_affairs.121.c:0 “给出 [event_target:ascendancy_affairs_target_3.GetName] $tech_dark_matter_power_core$。”
+ zofe_ascendancy_affairs.121.d:0 “给出 [event_target:ascendancy_affairs_target_4.GetName] $tech_dark_matter_power_core$。”
+ zofe_ascendancy_affairs.121.e:0 “给出 [event_target:ascendancy_affairs_target_5.GetName] $tech_dark_matter_power_core$。”
+ zofe_ascendancy_affairs.121.f:0 “给出 [event_target:ascendancy_affairs_target_6.GetName] $tech_dark_matter_power_core$。”
+ zofe_ascendancy_affairs.121.g:0 “给出 [event_target:ascendancy_affairs_target_7.GetName] $tech_dark_matter_power_core$。”
+ zofe_ascendancy_affairs.121.h:0 “给出 [event_target:ascendancy_affairs_target_8.GetName] $tech_dark_matter_power_core$。”
+ zofe_ascendancy_affairs.121.i:0 “给出 [event_target:ascendancy_affairs_target_9.GetName] $tech_dark_matter_power_core$。”
+ zofe_ascendancy_affairs.121.j:0 “给出 [event_target:ascendancy_affairs_target_10.GetName] $tech_dark_matter_power_core$。”
+ zofe_ascendancy_affairs.121.k:0 “给出 [event_target:ascendancy_affairs_target_11.GetName] $tech_dark_matter_power_core$。”
+ zofe_ascendancy_affairs.121.l:0 “给出 [event_target:ascendancy_affairs_target_12.GetName] $tech_dark_matter_power_core$。”
+ zofe_ascendancy_affairs.121.m:0 “给出 [event_target:ascendancy_affairs_target_13.GetName] $tech_dark_matter_power_core$。”
+ zofe_ascendancy_affairs.121.n:0 “给出 [event_target:ascendancy_affairs_target_14.GetName] $tech_dark_matter_power_core$。”
+ zofe_ascendancy_affairs.121.o:0 “给出 [event_target:ascendancy_affairs_target_15.GetName] $tech_dark_matter_power_core$。”
+ zofe_ascendancy_affairs.121.p:0 “给出 [event_target:ascendancy_affairs_target_16.GetName] $tech_dark_matter_power_core$。”
+ 
+ zofe_ascendancy_affairs.1211.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.1211.desc:0 “我们今天特此授予你高级文明的钥匙，$tech_dark_matter_power_core$。请尽量不要让它爆炸。”
+ zofe_ascendancy_affairs.1211.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.124.name:0 “失传技术转让”
+ zofe_ascendancy_affairs.124.desc:0 “失落的技术曾被认为无法挽回地消失在历史中，但近年来不知何故被伟大的 [Root.GetName] 重新发现 - 非常困难，我必须提醒一下 §H[Root.GetRulerTitle] [Root.GetRulerName]§!。,它们很有价值，因为只要拥有一个就可以改变整个文明的命运。想想我们会免费赠送这样的技术……\n\n也就是说，我们应该转让哪种失落的技术？”
+ zofe_ascendancy_affairs.124.a:0 “失落的技术：自动化行业”
+ zofe_ascendancy_affairs.124.b:0 “失落的技术：全能武器”
+ zofe_ascendancy_affairs.124.c:0 《失落的技术：歌利亚》
+ zofe_ascendancy_affairs.124.d:0 “失落的技术：卓越的设计”
+# zofe_ascendancy_affairs.124.e:0 "Lost Technologies: Utopian Worlds"
+# zofe_ascendancy_affairs.124.f:0 "Lost Technologies: Living Metal Worlds"
+# zofe_ascendancy_affairs.124.g:0 "Lost Technologies: Utopian Hive Worlds"
+ 
+ zofe_ascendancy_affairs.1241.name:0 “失落的技术：自动化行业”
+ zofe_ascendancy_affairs.1241.desc:0 “我们的盟友的工业能力可能会受益于我们对这些失落技术的了解，即使他们需要先决条件技术才能为自己建造这些工程奇迹。我们应该转让哪些失落技术？”
+ zofe_ascendancy_affairs.1241.a:0 “失落的技术：§Y$tech_fe_dark_matter_power_plant$§!”
+ zofe_ascendancy_affairs.1241.b:0 “失落的技术：§Y$tech_fe_autonomous_fabricator$§!”
+ zofe_ascendancy_affairs.1241.c:0 “失落的技术：§Y$tech_fe_agri_processing_complex$§!”
+ zofe_ascendancy_affairs.1241.d:0 “失落的科技：§Y$tech_fe_opulent_tower$§!”
+ zofe_ascendancy_affairs.1241.e:0 “失落的技术：§Y$tech_fe_pico_forge$§!”
+ zofe_ascendancy_affairs.1241.f:0 “失落的技术：§Y$tech_fe_master_archive_3$§!”
+ zofe_ascendancy_affairs.1241.g:0 “失落的科技：§Y$tech_fe_aegis_complex_3$§!”
+ zofe_ascendancy_affairs.1241.h:0 “失落的技术：§Y$tech_synthetic_dark_matter_3$§!”
+ 
+ zofe_ascendancy_affairs.12411.name:0 “授予 §Y$tech_fe_dark_matter_power_plant$§！”
+ zofe_ascendancy_affairs.12411.desc:0 “我们应该将 $tech_fe_dark_matter_power_plant$ 授予哪个帝国？”
+ zofe_ascendancy_affairs.12411.a:0 “给 [event_target:ascendancy_affairs_target_1.GetName] $tech_fe_dark_matter_power_plant$。”
+ zofe_ascendancy_affairs.12411.b:0 “给 [event_target:ascendancy_affairs_target_2.GetName] $tech_fe_dark_matter_power_plant$。”
+ zofe_ascendancy_affairs.12411.c:0 “给 [event_target:ascendancy_affairs_target_3.GetName] $tech_fe_dark_matter_power_plant$。”
+ zofe_ascendancy_affairs.12411.d:0 “给 [event_target:ascendancy_affairs_target_4.GetName] $tech_fe_dark_matter_power_plant$。”
+ zofe_ascendancy_affairs.12411.e:0 “给 [event_target:ascendancy_affairs_target_5.GetName] $tech_fe_dark_matter_power_plant$。”
+ zofe_ascendancy_affairs.12411.f:0 “给 [event_target:ascendancy_affairs_target_6.GetName] $tech_fe_dark_matter_power_plant$。”
+ zofe_ascendancy_affairs.12411.g:0 “给 [event_target:ascendancy_affairs_target_7.GetName] $tech_fe_dark_matter_power_plant$。”
+ zofe_ascendancy_affairs.12411.h:0 “给 [event_target:ascendancy_affairs_target_8.GetName] $tech_fe_dark_matter_power_plant$。”
+ zofe_ascendancy_affairs.12411.i:0 “给 [event_target:ascendancy_affairs_target_9.GetName] $tech_fe_dark_matter_power_plant$。”
+ zofe_ascendancy_affairs.12411.j:0 “给 [event_target:ascendancy_affairs_target_10.GetName] $tech_fe_dark_matter_power_plant$。”
+ zofe_ascendancy_affairs.12411.k:0 “给 [event_target:ascendancy_affairs_target_11.GetName] $tech_fe_dark_matter_power_plant$。”
+ zofe_ascendancy_affairs.12411.l:0 “给 [event_target:ascendancy_affairs_target_12.GetName] $tech_fe_dark_matter_power_plant$。”
+ zofe_ascendancy_affairs.12411.m:0 “给 [event_target:ascendancy_affairs_target_13.GetName] $tech_fe_dark_matter_power_plant$。”
+ zofe_ascendancy_affairs.12411.n:0 “给 [event_target:ascendancy_affairs_target_14.GetName] $tech_fe_dark_matter_power_plant$。”
+ zofe_ascendancy_affairs.12411.o:0 “给 [event_target:ascendancy_affairs_target_15.GetName] $tech_fe_dark_matter_power_plant$。”
+ zofe_ascendancy_affairs.12411.p:0 “给 [event_target:ascendancy_affairs_target_16.GetName] $tech_fe_dark_matter_power_plant$。”
+ 
+ zofe_ascendancy_affairs.92411.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.92411.desc:0 “我们今天特此授予您开启高级文明的钥匙，$tech_fe_dark_matter_power_plant$。这些都是复杂的技术：请尽量不要让它爆炸。”
+ zofe_ascendancy_affairs.92411.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.12412.name:0 “授予 §Y$tech_fe_autonomous_fabricator$§！”
+ zofe_ascendancy_affairs.12412.desc:0 “我们应该将 $tech_fe_autonomous_fabricator$ 授予哪个帝国？”
+ zofe_ascendancy_affairs.12412.a:0 “给 [event_target:ascendancy_affairs_target_1.GetName] $tech_fe_autonomous_fabricator$。”
+ zofe_ascendancy_affairs.12412.b:0 “给 [event_target:ascendancy_affairs_target_2.GetName] $tech_fe_autonomous_fabricator$。”
+ zofe_ascendancy_affairs.12412.c:0 “给 [event_target:ascendancy_affairs_target_3.GetName] $tech_fe_autonomous_fabricator$。”
+ zofe_ascendancy_affairs.12412.d:0 “给 [event_target:ascendancy_affairs_target_4.GetName] $tech_fe_autonomous_fabricator$。”
+ zofe_ascendancy_affairs.12412.e:0 “给 [event_target:ascendancy_affairs_target_5.GetName] $tech_fe_autonomous_fabricator$。”
+ zofe_ascendancy_affairs.12412.f:0 “给 [event_target:ascendancy_affairs_target_6.GetName] $tech_fe_autonomous_fabricator$。”
+ zofe_ascendancy_affairs.12412.g:0 “给 [event_target:ascendancy_affairs_target_7.GetName] $tech_fe_autonomous_fabricator$。”
+ zofe_ascendancy_affairs.12412.h:0 “给 [event_target:ascendancy_affairs_target_8.GetName] $tech_fe_autonomous_fabricator$。”
+ zofe_ascendancy_affairs.12412.i:0 “给 [event_target:ascendancy_affairs_target_9.GetName] $tech_fe_autonomous_fabricator$。”
+ zofe_ascendancy_affairs.12412.j:0 “给 [event_target:ascendancy_affairs_target_10.GetName] $tech_fe_autonomous_fabricator$。”
+ zofe_ascendancy_affairs.12412.k:0 “给 [event_target:ascendancy_affairs_target_11.GetName] $tech_fe_autonomous_fabricator$。”
+ zofe_ascendancy_affairs.12412.l:0 “给 [event_target:ascendancy_affairs_target_12.GetName] $tech_fe_autonomous_fabricator$。”
+ zofe_ascendancy_affairs.12412.m:0 “给 [event_target:ascendancy_affairs_target_13.GetName] $tech_fe_autonomous_fabricator$。”
+ zofe_ascendancy_affairs.12412.n:0 “给 [event_target:ascendancy_affairs_target_14.GetName] $tech_fe_autonomous_fabricator$。”
+ zofe_ascendancy_affairs.12412.o:0 “给 [event_target:ascendancy_affairs_target_15.GetName] $tech_fe_autonomous_fabricator$。”
+ zofe_ascendancy_affairs.12412.p:0 “给 [event_target:ascendancy_affairs_target_16.GetName] $tech_fe_autonomous_fabricator$。”
+ 
+ zofe_ascendancy_affairs.92412.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.92412.desc:0 “我们今天特此授予您通往高级文明的钥匙，$tech_fe_autonomous_fabricator$。这些是复杂的技术：请尽量不要让它爆炸。”
+ zofe_ascendancy_affairs.92412.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.12413.name:0 “授予 §Y$tech_fe_agri_processing_complex$§！”
+ zofe_ascendancy_affairs.12413.desc:0 “我们应该将 $tech_fe_agri_processing_complex$ 授予哪个帝国？”
+ zofe_ascendancy_affairs.12413.a:0 “给 [event_target:ascendancy_affairs_target_1.GetName] $tech_fe_agri_processing_complex$。”
+ zofe_ascendancy_affairs.12413.b:0 “给 [event_target:ascendancy_affairs_target_2.GetName] $tech_fe_agri_processing_complex$。”
+ zofe_ascendancy_affairs.12413.c:0 “给 [event_target:ascendancy_affairs_target_3.GetName] $tech_fe_agri_processing_complex$。”
+ zofe_ascendancy_affairs.12413.d:0 “给 [event_target:ascendancy_affairs_target_4.GetName] $tech_fe_agri_processing_complex$。”
+ zofe_ascendancy_affairs.12413.e:0 “给 [event_target:ascendancy_affairs_target_5.GetName] $tech_fe_agri_processing_complex$。”
+ zofe_ascendancy_affairs.12413.f:0 “给 [event_target:ascendancy_affairs_target_6.GetName] $tech_fe_agri_processing_complex$。”
+ zofe_ascendancy_affairs.12413.g:0 “给 [event_target:ascendancy_affairs_target_7.GetName] $tech_fe_agri_processing_complex$。”
+ zofe_ascendancy_affairs.12413.h:0 “给 [event_target:ascendancy_affairs_target_8.GetName] $tech_fe_agri_processing_complex$。”
+ zofe_ascendancy_affairs.12413.i:0 “给 [event_target:ascendancy_affairs_target_9.GetName] $tech_fe_agri_processing_complex$。”
+ zofe_ascendancy_affairs.12413.j:0 “给 [event_target:ascendancy_affairs_target_10.GetName] $tech_fe_agri_processing_complex$。”
+ zofe_ascendancy_affairs.12413.k:0 “给 [event_target:ascendancy_affairs_target_11.GetName] $tech_fe_agri_processing_complex$。”
+ zofe_ascendancy_affairs.12413.l:0 “给 [event_target:ascendancy_affairs_target_12.GetName] $tech_fe_agri_processing_complex$。”
+ zofe_ascendancy_affairs.12413.m:0 “给 [event_target:ascendancy_affairs_target_13.GetName] $tech_fe_agri_processing_complex$。”
+ zofe_ascendancy_affairs.12413.n:0 “给 [event_target:ascendancy_affairs_target_14.GetName] $tech_fe_agri_processing_complex$。”
+ zofe_ascendancy_affairs.12413.o:0 “给 [event_target:ascendancy_affairs_target_15.GetName] $tech_fe_agri_processing_complex$。”
+ zofe_ascendancy_affairs.12413.p:0 “给 [event_target:ascendancy_affairs_target_16.GetName] $tech_fe_agri_processing_complex$。”
+ 
+ zofe_ascendancy_affairs.92413.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.92413.desc:0 “今天我们特此授予你们通往高级文明的钥匙，$tech_fe_agri_processing_complex$。这些是复杂的技术：请尽量不要让它爆炸。”
+ zofe_ascendancy_affairs.92413.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.12414.name:0 “授予 §Y$tech_fe_opulent_tower$§！”
+ zofe_ascendancy_affairs.12414.desc:0 “我们应该将 $tech_fe_opulent_tower$ 授予哪个帝国？”
+ zofe_ascendancy_affairs.12414.a:0 “给 [event_target:ascendancy_affairs_target_1.GetName] $tech_fe_opulent_tower$。”
+ zofe_ascendancy_affairs.12414.b:0 “给 [event_target:ascendancy_affairs_target_2.GetName] $tech_fe_opulent_tower$。”
+ zofe_ascendancy_affairs.12414.c:0 “给 [event_target:ascendancy_affairs_target_3.GetName] $tech_fe_opulent_tower$。”
+ zofe_ascendancy_affairs.12414.d:0 “给 [event_target:ascendancy_affairs_target_4.GetName] $tech_fe_opulent_tower$。”
+ zofe_ascendancy_affairs.12414.e:0 “给 [event_target:ascendancy_affairs_target_5.GetName] $tech_fe_opulent_tower$。”
+ zofe_ascendancy_affairs.12414.f:0 “给 [event_target:ascendancy_affairs_target_6.GetName] $tech_fe_opulent_tower$。”
+ zofe_ascendancy_affairs.12414.g:0 “给 [event_target:ascendancy_affairs_target_7.GetName] $tech_fe_opulent_tower$。”
+ zofe_ascendancy_affairs.12414.h:0 “给 [event_target:ascendancy_affairs_target_8.GetName] $tech_fe_opulent_tower$。”
+ zofe_ascendancy_affairs.12414.i:0 “给 [event_target:ascendancy_affairs_target_9.GetName] $tech_fe_opulent_tower$。”
+ zofe_ascendancy_affairs.12414.j:0 “给 [event_target:ascendancy_affairs_target_10.GetName] $tech_fe_opulent_tower$。”
+ zofe_ascendancy_affairs.12414.k:0 “给 [event_target:ascendancy_affairs_target_11.GetName] $tech_fe_opulent_tower$。”
+ zofe_ascendancy_affairs.12414.l:0 “给 [event_target:ascendancy_affairs_target_12.GetName] $tech_fe_opulent_tower$。”
+ zofe_ascendancy_affairs.12414.m:0 “给 [event_target:ascendancy_affairs_target_13.GetName] $tech_fe_opulent_tower$。”
+ zofe_ascendancy_affairs.12414.n:0 “给 [event_target:ascendancy_affairs_target_14.GetName] $tech_fe_opulent_tower$。”
+ zofe_ascendancy_affairs.12414.o:0 “给 [event_target:ascendancy_affairs_target_15.GetName] $tech_fe_opulent_tower$。”
+ zofe_ascendancy_affairs.12414.p:0 “给 [event_target:ascendancy_affairs_target_16.GetName] $tech_fe_opulent_tower$。”
+ 
+ zofe_ascendancy_affairs.92414.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.92414.desc:0 “我们今天特此授予你们通往高级文明的钥匙，$tech_fe_opulent_tower$。这些是复杂的技术：请尽量不要让它爆炸。”
+ zofe_ascendancy_affairs.92414.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.12415.name:0 “授予 §Y$tech_fe_pico_forge$§！”
+ zofe_ascendancy_affairs.12415.desc:0 “我们应该将 $tech_fe_pico_forge$ 授予哪个帝国？”
+ zofe_ascendancy_affairs.12415.a:0 “给 [event_target:ascendancy_affairs_target_1.GetName] $tech_fe_pico_forge$。”
+ zofe_ascendancy_affairs.12415.b:0 “给 [event_target:ascendancy_affairs_target_2.GetName] $tech_fe_pico_forge$。”
+ zofe_ascendancy_affairs.12415.c:0 “给 [event_target:ascendancy_affairs_target_3.GetName] $tech_fe_pico_forge$。”
+ zofe_ascendancy_affairs.12415.d:0 “给 [event_target:ascendancy_affairs_target_4.GetName] $tech_fe_pico_forge$。”
+ zofe_ascendancy_affairs.12415.e:0 “给 [event_target:ascendancy_affairs_target_5.GetName] $tech_fe_pico_forge$。”
+ zofe_ascendancy_affairs.12415.f:0 “给 [event_target:ascendancy_affairs_target_6.GetName] $tech_fe_pico_forge$。”
+ zofe_ascendancy_affairs.12415.g:0 “给 [event_target:ascendancy_affairs_target_7.GetName] $tech_fe_pico_forge$。”
+ zofe_ascendancy_affairs.12415.h:0 “给 [event_target:ascendancy_affairs_target_8.GetName] $tech_fe_pico_forge$。”
+ zofe_ascendancy_affairs.12415.i:0 “给 [event_target:ascendancy_affairs_target_9.GetName] $tech_fe_pico_forge$。”
+ zofe_ascendancy_affairs.12415.j:0 “给 [event_target:ascendancy_affairs_target_10.GetName] $tech_fe_pico_forge$。”
+ zofe_ascendancy_affairs.12415.k:0 “给 [event_target:ascendancy_affairs_target_11.GetName] $tech_fe_pico_forge$。”
+ zofe_ascendancy_affairs.12415.l:0 “给 [event_target:ascendancy_affairs_target_12.GetName] $tech_fe_pico_forge$。”
+ zofe_ascendancy_affairs.12415.m:0 “给 [event_target:ascendancy_affairs_target_13.GetName] $tech_fe_pico_forge$。”
+ zofe_ascendancy_affairs.12415.n:0 “给 [event_target:ascendancy_affairs_target_14.GetName] $tech_fe_pico_forge$。”
+ zofe_ascendancy_affairs.12415.o:0 “给 [event_target:ascendancy_affairs_target_15.GetName] $tech_fe_pico_forge$。”
+ zofe_ascendancy_affairs.12415.p:0 “给 [event_target:ascendancy_affairs_target_16.GetName] $tech_fe_pico_forge$。”
+ 
+ zofe_ascendancy_affairs.92415.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.92415.desc:0 “我们今天特此授予您通往高级文明的钥匙，$tech_fe_pico_forge$。这些是复杂的技术：请尽量不要让它爆炸。”
+ zofe_ascendancy_affairs.92415.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.12416.name:0 “授予§Y$tech_fe_master_archive_3$§！”
+ zofe_ascendancy_affairs.12416.desc:0 “我们应该将 $tech_fe_master_archive_3$ 授予哪个帝国？”
+ zofe_ascendancy_affairs.12416.a:0 “给 [event_target:ascendancy_affairs_target_1.GetName] $tech_fe_master_archive_3$。”
+ zofe_ascendancy_affairs.12416.b:0 “给 [event_target:ascendancy_affairs_target_2.GetName] $tech_fe_master_archive_3$。”
+ zofe_ascendancy_affairs.12416.c:0 “给 [event_target:ascendancy_affairs_target_3.GetName] $tech_fe_master_archive_3$。”
+ zofe_ascendancy_affairs.12416.d:0 “给 [event_target:ascendancy_affairs_target_4.GetName] $tech_fe_master_archive_3$。”
+ zofe_ascendancy_affairs.12416.e:0 “给 [event_target:ascendancy_affairs_target_5.GetName] $tech_fe_master_archive_3$。”
+ zofe_ascendancy_affairs.12416.f:0 “给 [event_target:ascendancy_affairs_target_6.GetName] $tech_fe_master_archive_3$。”
+ zofe_ascendancy_affairs.12416.g:0 “给 [event_target:ascendancy_affairs_target_7.GetName] $tech_fe_master_archive_3$。”
+ zofe_ascendancy_affairs.12416.h:0 “给 [event_target:ascendancy_affairs_target_8.GetName] $tech_fe_master_archive_3$。”
+ zofe_ascendancy_affairs.12416.i:0 “给 [event_target:ascendancy_affairs_target_9.GetName] $tech_fe_master_archive_3$。”
+ zofe_ascendancy_affairs.12416.j:0 “给 [event_target:ascendancy_affairs_target_10.GetName] $tech_fe_master_archive_3$。”
+ zofe_ascendancy_affairs.12416.k:0 “给 [event_target:ascendancy_affairs_target_11.GetName] $tech_fe_master_archive_3$。”
+ zofe_ascendancy_affairs.12416.l:0 “给 [event_target:ascendancy_affairs_target_12.GetName] $tech_fe_master_archive_3$。”
+ zofe_ascendancy_affairs.12416.m:0 “给 [event_target:ascendancy_affairs_target_13.GetName] $tech_fe_master_archive_3$。”
+ zofe_ascendancy_affairs.12416.n:0 “给 [event_target:ascendancy_affairs_target_14.GetName] $tech_fe_master_archive_3$。”
+ zofe_ascendancy_affairs.12416.o:0 “给 [event_target:ascendancy_affairs_target_15.GetName] $tech_fe_master_archive_3$。”
+ zofe_ascendancy_affairs.12416.p:0 “给 [event_target:ascendancy_affairs_target_16.GetName] $tech_fe_master_archive_3$。”
+ 
+ zofe_ascendancy_affairs.92416.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.92416.desc:0 “我们今天特此授予您通往高级文明的钥匙，$tech_fe_master_archive_3$。这些是复杂的技术：请尽量不要让它爆炸。”
+ zofe_ascendancy_affairs.92416.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.12417.name:0 “授予 §Y$tech_fe_aegis_complex_3$§！”
+ zofe_ascendancy_affairs.12417.desc:0 “我们应该将 $tech_fe_aegis_complex_3$ 授予哪个帝国？”
+ zofe_ascendancy_affairs.12417.a:0 “给 [event_target:ascendancy_affairs_target_1.GetName] $tech_fe_aegis_complex_3$。”
+ zofe_ascendancy_affairs.12417.b:0 “给 [event_target:ascendancy_affairs_target_2.GetName] $tech_fe_aegis_complex_3$。”
+ zofe_ascendancy_affairs.12417.c:0 “给 [event_target:ascendancy_affairs_target_3.GetName] $tech_fe_aegis_complex_3$。”
+ zofe_ascendancy_affairs.12417.d:0 “给 [event_target:ascendancy_affairs_target_4.GetName] $tech_fe_aegis_complex_3$。”
+ zofe_ascendancy_affairs.12417.e:0 “给 [event_target:ascendancy_affairs_target_5.GetName] $tech_fe_aegis_complex_3$。”
+ zofe_ascendancy_affairs.12417.f:0 “给 [event_target:ascendancy_affairs_target_6.GetName] $tech_fe_aegis_complex_3$。”
+ zofe_ascendancy_affairs.12417.g:0 “给 [event_target:ascendancy_affairs_target_7.GetName] $tech_fe_aegis_complex_3$。”
+ zofe_ascendancy_affairs.12417.h:0 “给 [event_target:ascendancy_affairs_target_8.GetName] $tech_fe_aegis_complex_3$。”
+ zofe_ascendancy_affairs.12417.i:0 “给 [event_target:ascendancy_affairs_target_9.GetName] $tech_fe_aegis_complex_3$。”
+ zofe_ascendancy_affairs.12417.j:0 “给 [event_target:ascendancy_affairs_target_10.GetName] $tech_fe_aegis_complex_3$。”
+ zofe_ascendancy_affairs.12417.k:0 “给 [event_target:ascendancy_affairs_target_11.GetName] $tech_fe_aegis_complex_3$。”
+ zofe_ascendancy_affairs.12417.l:0 “给 [event_target:ascendancy_affairs_target_12.GetName] $tech_fe_aegis_complex_3$。”
+ zofe_ascendancy_affairs.12417.m:0 “给 [event_target:ascendancy_affairs_target_13.GetName] $tech_fe_aegis_complex_3$。”
+ zofe_ascendancy_affairs.12417.n:0 “给 [event_target:ascendancy_affairs_target_14.GetName] $tech_fe_aegis_complex_3$。”
+ zofe_ascendancy_affairs.12417.o:0 “给 [event_target:ascendancy_affairs_target_15.GetName] $tech_fe_aegis_complex_3$。”
+ zofe_ascendancy_affairs.12417.p:0 “给 [event_target:ascendancy_affairs_target_16.GetName] $tech_fe_aegis_complex_3$。”
+ 
+ zofe_ascendancy_affairs.92417.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.92417.desc:0 “我们今天特此授予您通往高级文明的钥匙，$tech_fe_aegis_complex_3$。这些是复杂的技术：请尽量不要让它爆炸。”
+ zofe_ascendancy_affairs.92417.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.12418.name:0 “授予 §Y$tech_synthetic_dark_matter_3$§！”
+ zofe_ascendancy_affairs.12418.desc:0 “我们应该将 $tech_synthetic_dark_matter_3$ 授予哪个帝国？”
+ zofe_ascendancy_affairs.12418.a:0 “给 [event_target:ascendancy_affairs_target_1.GetName] $tech_synthetic_dark_matter_3$。”
+ zofe_ascendancy_affairs.12418.b:0 “给 [event_target:ascendancy_affairs_target_2.GetName] $tech_synthetic_dark_matter_3$。”
+ zofe_ascendancy_affairs.12418.c:0 “给 [event_target:ascendancy_affairs_target_3.GetName] $tech_synthetic_dark_matter_3$。”
+ zofe_ascendancy_affairs.12418.d:0 “给 [event_target:ascendancy_affairs_target_4.GetName] $tech_synthetic_dark_matter_3$。”
+ zofe_ascendancy_affairs.12418.e:0 “给 [event_target:ascendancy_affairs_target_5.GetName] $tech_synthetic_dark_matter_3$。”
+ zofe_ascendancy_affairs.12418.f:0 “给 [event_target:ascendancy_affairs_target_6.GetName] $tech_synthetic_dark_matter_3$。”
+ zofe_ascendancy_affairs.12418.g:0 “给 [event_target:ascendancy_affairs_target_7.GetName] $tech_synthetic_dark_matter_3$。”
+ zofe_ascendancy_affairs.12418.h:0 “给 [event_target:ascendancy_affairs_target_8.GetName] $tech_synthetic_dark_matter_3$。”
+ zofe_ascendancy_affairs.12418.i:0 “给 [event_target:ascendancy_affairs_target_9.GetName] $tech_synthetic_dark_matter_3$。”
+ zofe_ascendancy_affairs.12418.j:0 “给 [event_target:ascendancy_affairs_target_10.GetName] $tech_synthetic_dark_matter_3$。”
+ zofe_ascendancy_affairs.12418.k:0 “给 [event_target:ascendancy_affairs_target_11.GetName] $tech_synthetic_dark_matter_3$。”
+ zofe_ascendancy_affairs.12418.l:0 “给 [event_target:ascendancy_affairs_target_12.GetName] $tech_synthetic_dark_matter_3$。”
+ zofe_ascendancy_affairs.12418.m:0 “给 [event_target:ascendancy_affairs_target_13.GetName] $tech_synthetic_dark_matter_3$。”
+ zofe_ascendancy_affairs.12418.n:0 “给 [event_target:ascendancy_affairs_target_14.GetName] $tech_synthetic_dark_matter_3$。”
+ zofe_ascendancy_affairs.12418.o:0 “给 [event_target:ascendancy_affairs_target_15.GetName] $tech_synthetic_dark_matter_3$。”
+ zofe_ascendancy_affairs.12418.p:0 “给 [event_target:ascendancy_affairs_target_16.GetName] $tech_synthetic_dark_matter_3$。”
+ 
+ zofe_ascendancy_affairs.92418.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.92418.desc:0 “今天，我们特此授予您通往高级文明的钥匙，$tech_synthetic_dark_matter_3$。这些是复杂的技术：请尽量不要让它爆炸。”
+ zofe_ascendancy_affairs.92418.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.1242.name:0 “失落的技术：全能武器”
+ zofe_ascendancy_affairs.1242.desc:0 “§H[Root.GetRulerTitle] [Root.GetRulerName]§!，Omni 武器如果落入坏人之手将极具破坏性和危险性！必须完全相信它们总有一天不会被用来对付我们。 ,..”
+ zofe_ascendancy_affairs.1242.a:0 “失落的技术：§Y$tech_omni_emitter$§!”
+ zofe_ascendancy_affairs.1242.b:0 “失落的技术：§Y$tech_omni_lance$§!”
+ zofe_ascendancy_affairs.1242.c:0 “失落的技术：§Y$tech_massive_autocannons$§!”
+ zofe_ascendancy_affairs.1242.d:0 “失落的技术：§Y$tech_omni_cannon$§!”
+ zofe_ascendancy_affairs.1242.e:0 “失落的科技：§Y$tech_omni_titan_lance$§!”
+ 
+ zofe_ascendancy_affairs.12421.name:0 “赋予 §Y$tech_omni_emitter$§！”
+ zofe_ascendancy_affairs.12421.desc:0 “很好，如果你坚持的话，[Root.GetRulerName]。我们应该将 $tech_omni_emitter$ 授予哪个帝国？”
+ zofe_ascendancy_affairs.12421.a:0 “给 [event_target:ascendancy_affairs_target_1.GetName] $tech_omni_emitter$。”
+ zofe_ascendancy_affairs.12421.b:0 “给 [event_target:ascendancy_affairs_target_2.GetName] $tech_omni_emitter$。”
+ zofe_ascendancy_affairs.12421.c:0 “给 [event_target:ascendancy_affairs_target_3.GetName] $tech_omni_emitter$。”
+ zofe_ascendancy_affairs.12421.d:0 “给 [event_target:ascendancy_affairs_target_4.GetName] $tech_omni_emitter$。”
+ zofe_ascendancy_affairs.12421.e:0 “给 [event_target:ascendancy_affairs_target_5.GetName] $tech_omni_emitter$。”
+ zofe_ascendancy_affairs.12421.f:0 “给 [event_target:ascendancy_affairs_target_6.GetName] $tech_omni_emitter$。”
+ zofe_ascendancy_affairs.12421.g:0 “给 [event_target:ascendancy_affairs_target_7.GetName] $tech_omni_emitter$。”
+ zofe_ascendancy_affairs.12421.h:0 “给 [event_target:ascendancy_affairs_target_8.GetName] $tech_omni_emitter$。”
+ zofe_ascendancy_affairs.12421.i:0 “给 [event_target:ascendancy_affairs_target_9.GetName] $tech_omni_emitter$。”
+ zofe_ascendancy_affairs.12421.j:0 “给 [event_target:ascendancy_affairs_target_10.GetName] $tech_omni_emitter$。”
+ zofe_ascendancy_affairs.12421.k:0 “给 [event_target:ascendancy_affairs_target_11.GetName] $tech_omni_emitter$。”
+ zofe_ascendancy_affairs.12421.l:0 “给 [event_target:ascendancy_affairs_target_12.GetName] $tech_omni_emitter$。”
+ zofe_ascendancy_affairs.12421.m:0 “给 [event_target:ascendancy_affairs_target_13.GetName] $tech_omni_emitter$。”
+ zofe_ascendancy_affairs.12421.n:0 “给 [event_target:ascendancy_affairs_target_14.GetName] $tech_omni_emitter$。”
+ zofe_ascendancy_affairs.12421.o:0 “给 [event_target:ascendancy_affairs_target_15.GetName] $tech_omni_emitter$。”
+ zofe_ascendancy_affairs.12421.p:0 “给 [event_target:ascendancy_affairs_target_16.GetName] $tech_omni_emitter$。”
+ 
+ zofe_ascendancy_affairs.92421.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.92421.desc:0 “我们今天特此授予你们一种适合最文明文明的武器，$tech_omni_emitter$。请尽最大努力配得上使用这种武器。不要滥用我们的礼物。”
+ zofe_ascendancy_affairs.92421.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.12422.name:0 “授予 §Y$tech_omni_lance$§！”
+ zofe_ascendancy_affairs.12422.desc:0 “很好，如果你坚持的话，[Root.GetRulerName]。我们应该把 $tech_omni_lance$ 授予哪个帝国？”
+ zofe_ascendancy_affairs.12422.a:0 “给 [event_target:ascendancy_affairs_target_1.GetName] $tech_omni_lance$。”
+ zofe_ascendancy_affairs.12422.b:0 “给 [event_target:ascendancy_affairs_target_2.GetName] $tech_omni_lance$。”
+ zofe_ascendancy_affairs.12422.c:0 “给 [event_target:ascendancy_affairs_target_3.GetName] $tech_omni_lance$。”
+ zofe_ascendancy_affairs.12422.d:0 “给 [event_target:ascendancy_affairs_target_4.GetName] $tech_omni_lance$。”
+ zofe_ascendancy_affairs.12422.e:0 “给 [event_target:ascendancy_affairs_target_5.GetName] $tech_omni_lance$。”
+ zofe_ascendancy_affairs.12422.f:0 “给 [event_target:ascendancy_affairs_target_6.GetName] $tech_omni_lance$。”
+ zofe_ascendancy_affairs.12422.g:0 “给 [event_target:ascendancy_affairs_target_7.GetName] $tech_omni_lance$。”
+ zofe_ascendancy_affairs.12422.h:0 “给 [event_target:ascendancy_affairs_target_8.GetName] $tech_omni_lance$。”
+ zofe_ascendancy_affairs.12422.i:0 “给 [event_target:ascendancy_affairs_target_9.GetName] $tech_omni_lance$。”
+ zofe_ascendancy_affairs.12422.j:0 “给 [event_target:ascendancy_affairs_target_10.GetName] $tech_omni_lance$。”
+ zofe_ascendancy_affairs.12422.k:0 “给 [event_target:ascendancy_affairs_target_11.GetName] $tech_omni_lance$。”
+ zofe_ascendancy_affairs.12422.l:0 “给 [event_target:ascendancy_affairs_target_12.GetName] $tech_omni_lance$。”
+ zofe_ascendancy_affairs.12422.m:0 “给 [event_target:ascendancy_affairs_target_13.GetName] $tech_omni_lance$。”
+ zofe_ascendancy_affairs.12422.n:0 “给 [event_target:ascendancy_affairs_target_14.GetName] $tech_omni_lance$。”
+ zofe_ascendancy_affairs.12422.o:0 “给 [event_target:ascendancy_affairs_target_15.GetName] $tech_omni_lance$。”
+ zofe_ascendancy_affairs.12422.p:0 “给 [event_target:ascendancy_affairs_target_16.GetName] $tech_omni_lance$。”
+ 
+ zofe_ascendancy_affairs.92422.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.92422.desc:0 “我们今天特此授予你们一种适合最文明文明的武器，$tech_omni_lance$。请尽你最大的努力配得上使用这种武器。不要滥用我们的天赋。”
+ zofe_ascendancy_affairs.92422.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.12423.name:0 “授予 §Y$tech_massive_autocannons$§！”
+ zofe_ascendancy_affairs.12423.desc:0 “很好，如果你坚持的话，[Root.GetRulerName]。我们应该将 $tech_massive_autocannons$ 授予哪个帝国？”
+ zofe_ascendancy_affairs.12423.a:0 “给 [event_target:ascendancy_affairs_target_1.GetName] $tech_massive_autocannons$。”
+ zofe_ascendancy_affairs.12423.b:0 “给 [event_target:ascendancy_affairs_target_2.GetName] $tech_massive_autocannons$。”
+ zofe_ascendancy_affairs.12423.c:0 “给 [event_target:ascendancy_affairs_target_3.GetName] $tech_massive_autocannons$。”
+ zofe_ascendancy_affairs.12423.d:0 “给 [event_target:ascendancy_affairs_target_4.GetName] $tech_massive_autocannons$。”
+ zofe_ascendancy_affairs.12423.e:0 “给 [event_target:ascendancy_affairs_target_5.GetName] $tech_massive_autocannons$。”
+ zofe_ascendancy_affairs.12423.f:0 “给 [event_target:ascendancy_affairs_target_6.GetName] $tech_massive_autocannons$。”
+ zofe_ascendancy_affairs.12423.g:0 “给 [event_target:ascendancy_affairs_target_7.GetName] $tech_massive_autocannons$。”
+ zofe_ascendancy_affairs.12423.h:0 “给 [event_target:ascendancy_affairs_target_8.GetName] $tech_massive_autocannons$。”
+ zofe_ascendancy_affairs.12423.i:0 “给 [event_target:ascendancy_affairs_target_9.GetName] $tech_massive_autocannons$。”
+ zofe_ascendancy_affairs.12423.j:0 “给 [event_target:ascendancy_affairs_target_10.GetName] $tech_massive_autocannons$。”
+ zofe_ascendancy_affairs.12423.k:0 “给 [event_target:ascendancy_affairs_target_11.GetName] $tech_massive_autocannons$。”
+ zofe_ascendancy_affairs.12423.l:0 “给 [event_target:ascendancy_affairs_target_12.GetName] $tech_massive_autocannons$。”
+ zofe_ascendancy_affairs.12423.m:0 “给 [event_target:ascendancy_affairs_target_13.GetName] $tech_massive_autocannons$。”
+ zofe_ascendancy_affairs.12423.n:0 “给 [event_target:ascendancy_affairs_target_14.GetName] $tech_massive_autocannons$。”
+ zofe_ascendancy_affairs.12423.o:0 “给 [event_target:ascendancy_affairs_target_15.GetName] $tech_massive_autocannons$。”
+ zofe_ascendancy_affairs.12423.p:0 “给 [event_target:ascendancy_affairs_target_16.GetName] $tech_massive_autocannons$。”
+ 
+ zofe_ascendancy_affairs.92423.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.92423.desc:0 “今天我们特此授予你们一种适合最文明文明的武器，$tech_massive_autocannons$。请尽最大努力配得上使用这种武器。不要滥用我们的礼物。”
+ zofe_ascendancy_affairs.92423.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.12424.name:0 “授予 §Y$tech_omni_cannon$§！”
+ zofe_ascendancy_affairs.12424.desc:0 “很好，如果你坚持的话，[Root.GetRulerName]。我们应该把 $tech_omni_cannon$ 授予哪个帝国？”
+ zofe_ascendancy_affairs.12424.a:0 “给 [event_target:ascendancy_affairs_target_1.GetName] $tech_omni_cannon$。”
+ zofe_ascendancy_affairs.12424.b:0 “给 [event_target:ascendancy_affairs_target_2.GetName] $tech_omni_cannon$。”
+ zofe_ascendancy_affairs.12424.c:0 “给 [event_target:ascendancy_affairs_target_3.GetName] $tech_omni_cannon$。”
+ zofe_ascendancy_affairs.12424.d:0 “给 [event_target:ascendancy_affairs_target_4.GetName] $tech_omni_cannon$。”
+ zofe_ascendancy_affairs.12424.e:0 “给 [event_target:ascendancy_affairs_target_5.GetName] $tech_omni_cannon$。”
+ zofe_ascendancy_affairs.12424.f:0 “给 [event_target:ascendancy_affairs_target_6.GetName] $tech_omni_cannon$。”
+ zofe_ascendancy_affairs.12424.g:0 “给 [event_target:ascendancy_affairs_target_7.GetName] $tech_omni_cannon$。”
+ zofe_ascendancy_affairs.12424.h:0 “给 [event_target:ascendancy_affairs_target_8.GetName] $tech_omni_cannon$。”
+ zofe_ascendancy_affairs.12424.i:0 “给 [event_target:ascendancy_affairs_target_9.GetName] $tech_omni_cannon$。”
+ zofe_ascendancy_affairs.12424.j:0 “给 [event_target:ascendancy_affairs_target_10.GetName] $tech_omni_cannon$。”
+ zofe_ascendancy_affairs.12424.k:0 “给 [event_target:ascendancy_affairs_target_11.GetName] $tech_omni_cannon$。”
+ zofe_ascendancy_affairs.12424.l:0 “给 [event_target:ascendancy_affairs_target_12.GetName] $tech_omni_cannon$。”
+ zofe_ascendancy_affairs.12424.m:0 “给 [event_target:ascendancy_affairs_target_13.GetName] $tech_omni_cannon$。”
+ zofe_ascendancy_affairs.12424.n:0 “给 [event_target:ascendancy_affairs_target_14.GetName] $tech_omni_cannon$。”
+ zofe_ascendancy_affairs.12424.o:0 “给 [event_target:ascendancy_affairs_target_15.GetName] $tech_omni_cannon$。”
+ zofe_ascendancy_affairs.12424.p:0 “给 [event_target:ascendancy_affairs_target_16.GetName] $tech_omni_cannon$。”
+ 
+ zofe_ascendancy_affairs.92424.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.92424.desc:0 “今天我们特此授予你们一种适合最文明文明的武器，$tech_omni_cannon$。请尽你最大的努力配得上使用这种武器。不要滥用我们的礼物。”
+ zofe_ascendancy_affairs.92424.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.12425.name:0 “授予 §Y$tech_omni_titan_lance$§！”
+ zofe_ascendancy_affairs.12425.desc:0 “很好，如果你坚持的话，[Root.GetRulerName]。我们应该把 $tech_omni_titan_lance$ 授予哪个帝国？”
+ zofe_ascendancy_affairs.12425.a:0 “给 [event_target:ascendancy_affairs_target_1.GetName] $tech_omni_titan_lance$。”
+ zofe_ascendancy_affairs.12425.b:0 “给 [event_target:ascendancy_affairs_target_2.GetName] $tech_omni_titan_lance$。”
+ zofe_ascendancy_affairs.12425.c:0 “给 [event_target:ascendancy_affairs_target_3.GetName] $tech_omni_titan_lance$。”
+ zofe_ascendancy_affairs.12425.d:0 “给 [event_target:ascendancy_affairs_target_4.GetName] $tech_omni_titan_lance$。”
+ zofe_ascendancy_affairs.12425.e:0 “给 [event_target:ascendancy_affairs_target_5.GetName] $tech_omni_titan_lance$。”
+ zofe_ascendancy_affairs.12425.f:0 “给 [event_target:ascendancy_affairs_target_6.GetName] $tech_omni_titan_lance$。”
+ zofe_ascendancy_affairs.12425.g:0 “给 [event_target:ascendancy_affairs_target_7.GetName] $tech_omni_titan_lance$。”
+ zofe_ascendancy_affairs.12425.h:0 “给 [event_target:ascendancy_affairs_target_8.GetName] $tech_omni_titan_lance$。”
+ zofe_ascendancy_affairs.12425.i:0 “给 [event_target:ascendancy_affairs_target_9.GetName] $tech_omni_titan_lance$。”
+ zofe_ascendancy_affairs.12425.j:0 “给 [event_target:ascendancy_affairs_target_10.GetName] $tech_omni_titan_lance$。”
+ zofe_ascendancy_affairs.12425.k:0 “给 [event_target:ascendancy_affairs_target_11.GetName] $tech_omni_titan_lance$。”
+ zofe_ascendancy_affairs.12425.l:0 “给 [event_target:ascendancy_affairs_target_12.GetName] $tech_omni_titan_lance$。”
+ zofe_ascendancy_affairs.12425.m:0 “给 [event_target:ascendancy_affairs_target_13.GetName] $tech_omni_titan_lance$。”
+ zofe_ascendancy_affairs.12425.n:0 “给 [event_target:ascendancy_affairs_target_14.GetName] $tech_omni_titan_lance$。”
+ zofe_ascendancy_affairs.12425.o:0 “给 [event_target:ascendancy_affairs_target_15.GetName] $tech_omni_titan_lance$。”
+ zofe_ascendancy_affairs.12425.p:0 “给 [event_target:ascendancy_affairs_target_16.GetName] $tech_omni_titan_lance$。”
+ 
+ zofe_ascendancy_affairs.92425.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.92425.desc:0 “今天，我们特此赠予你们一种适合最文明文明的武器，$tech_omni_cannon$。请尽你最大的努力，配得上使用这种武器。不要滥用我们的礼物。”
+ zofe_ascendancy_affairs.92425.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.1243.name:0 “授予 §Y$tech_fe_goliath$§！”
+ zofe_ascendancy_affairs.1243.desc:0 “§H[Root.GetRulerTitle] [Root.GetRulerName]§! 被告知歌利亚是一艘巨大的船，建造它需要银河系中很少有人拥有的工程技能，更不用说所需的资源量了。,我们应该将 $tech_fe_goliath$ 授予哪个帝国？他们有能力建造它吗？”
+ zofe_ascendancy_affairs.1243.a:0 “给 [event_target:ascendancy_affairs_target_1.GetName] $tech_fe_goliath$。”
+ zofe_ascendancy_affairs.1243.b:0 “给 [event_target:ascendancy_affairs_target_2.GetName] $tech_fe_goliath$。”
+ zofe_ascendancy_affairs.1243.c:0 “给 [event_target:ascendancy_affairs_target_3.GetName] $tech_fe_goliath$。”
+ zofe_ascendancy_affairs.1243.d:0 “给 [event_target:ascendancy_affairs_target_4.GetName] $tech_fe_goliath$。”
+ zofe_ascendancy_affairs.1243.e:0 “给 [event_target:ascendancy_affairs_target_5.GetName] $tech_fe_goliath$。”
+ zofe_ascendancy_affairs.1243.f:0 “给 [event_target:ascendancy_affairs_target_6.GetName] $tech_fe_goliath$。”
+ zofe_ascendancy_affairs.1243.g:0 “给 [event_target:ascendancy_affairs_target_7.GetName] $tech_fe_goliath$。”
+ zofe_ascendancy_affairs.1243.h:0 “给 [event_target:ascendancy_affairs_target_8.GetName] $tech_fe_goliath$。”
+ zofe_ascendancy_affairs.1243.i:0 “给 [event_target:ascendancy_affairs_target_9.GetName] $tech_fe_goliath$。”
+ zofe_ascendancy_affairs.1243.j:0 “给 [event_target:ascendancy_affairs_target_10.GetName] $tech_fe_goliath$。”
+ zofe_ascendancy_affairs.1243.k:0 “给 [event_target:ascendancy_affairs_target_11.GetName] $tech_fe_goliath$。”
+ zofe_ascendancy_affairs.1243.l:0 “给 [event_target:ascendancy_affairs_target_12.GetName] $tech_fe_goliath$。”
+ zofe_ascendancy_affairs.1243.m:0 “给 [event_target:ascendancy_affairs_target_13.GetName] $tech_fe_goliath$。”
+ zofe_ascendancy_affairs.1243.n:0 “给 [event_target:ascendancy_affairs_target_14.GetName] $tech_fe_goliath$。”
+ zofe_ascendancy_affairs.1243.o:0 “给 [event_target:ascendancy_affairs_target_15.GetName] $tech_fe_goliath$。”
+ zofe_ascendancy_affairs.1243.p:0 “给 [event_target:ascendancy_affairs_target_16.GetName] $tech_fe_goliath$。”
+ 
+ zofe_ascendancy_affairs.12431.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.12431.desc:0 “今天我们特此授予你们一艘巨大的飞船设计，$tech_fe_goliath$。如果你们把所有的资源都凑到一起，你们也许可以建造一艘。”
+ zofe_ascendancy_affairs.12431.a:0 “我们欣然接受！”
+ 
+ zofe_ascendancy_affairs.1244.name:0 “授予 §Y$tech_lost_technologies_3$§！”
+ zofe_ascendancy_affairs.1244.desc:0 “伟大远征的古代船只设计为我们的船只提供了改进的火力和战斗中的生存能力，§H[Root.GetRulerTitle] [Root.GetRulerName]§! 建议不要轻易放弃它们。不过，它,我无权质疑你的判断。我们应该将这些设计授予哪个帝国？”
+ zofe_ascendancy_affairs.1244.a:0 “给 [event_target:ascendancy_affairs_target_1.GetName] 设计。”
+ zofe_ascendancy_affairs.1244.b:0 “给 [event_target:ascendancy_affairs_target_2.GetName] 设计。”
+ zofe_ascendancy_affairs.1244.c:0 “给 [event_target:ascendancy_affairs_target_3.GetName] 设计。”
+ zofe_ascendancy_affairs.1244.d:0 “给 [event_target:ascendancy_affairs_target_4.GetName] 设计。”
+ zofe_ascendancy_affairs.1244.e:0 “给 [event_target:ascendancy_affairs_target_5.GetName] 设计。”
+ zofe_ascendancy_affairs.1244.f:0 “给 [event_target:ascendancy_affairs_target_6.GetName] 设计。”
+ zofe_ascendancy_affairs.1244.g:0 “给 [event_target:ascendancy_affairs_target_7.GetName] 设计。”
+ zofe_ascendancy_affairs.1244.h:0 “给 [event_target:ascendancy_affairs_target_8.GetName] 设计。”
+ zofe_ascendancy_affairs.1244.i:0 “给 [event_target:ascendancy_affairs_target_9.GetName] 设计。”
+ zofe_ascendancy_affairs.1244.j:0 “给 [event_target:ascendancy_affairs_target_10.GetName] 设计。”
+ zofe_ascendancy_affairs.1244.k:0 “给 [event_target:ascendancy_affairs_target_11.GetName] 设计。”
+ zofe_ascendancy_affairs.1244.l:0 “给 [event_target:ascendancy_affairs_target_12.GetName] 设计。”
+ zofe_ascendancy_affairs.1244.m:0 “给 [event_target:ascendancy_affairs_target_13.GetName] 设计。”
+ zofe_ascendancy_affairs.1244.n:0 “给 [event_target:ascendancy_affairs_target_14.GetName] 设计。”
+ zofe_ascendancy_affairs.1244.o:0 “给 [event_target:ascendancy_affairs_target_15.GetName] 设计。”
+ zofe_ascendancy_affairs.1244.p:0 “给 [event_target:ascendancy_affairs_target_16.GetName] 设计。”
+ 
+ zofe_ascendancy_affairs.12441.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.12441.desc:0 “今天，我们特此授予你们伟大远征的古老船只设计。如果你们按照这些规格建造你们的船只，由此带来的火力和生存能力的改进将意味着它们最终将对我们的事业有用。”
+ zofe_ascendancy_affairs.12441.a:0 “我们欣然接受！”
+ 
+ 
+ 
+ zofe_ascendancy_affairs.13.name:0 《来自天堂的礼物》
+ zofe_ascendancy_affairs.13.desc:0 “我们最近从我们庞大的舰队中退役了一些过时的军舰，这些军舰将退役或变成景点或博物馆。\n\n但是，如果我们决定将它们作为礼物送给我们忠诚的人，它们可能会有更大的用途,子民。毕竟，他们舰队的状况也反映在我们身上，而他们称为“战舰”的粗糙船体确实反映得很差。\n\n我们应该考虑我们的子民是否值得接受这份慷慨的礼物。,对于我们的主题 - 不幸的是 - 必须定期处理的野蛮人来说，船只看起来最令人印象深刻。\n\n我们的 [GetScientistPlural] 建议我们可能必须移除更高级的组件，因此我们的主题不会因它们的操作而过度混淆,. 这些将被按钮和操作阶段更少的更粗糙的设备所取代，并进行修改以包括其他生活质量功能，使形状不佳的飞行员更容易操作。\n\n我们可能还必须安装反修补程序,设备，以防止它们意外导致船爆炸。”
+ zofe_ascendancy_affairs.13.a:0 “授予 [event_target:ascendancy_affairs_target_1.GetName] 我们的飞船。”
+ zofe_ascendancy_affairs.13.b:0 “授予 [event_target:ascendancy_affairs_target_2.GetName] 我们的飞船。”
+ zofe_ascendancy_affairs.13.c:0 “授予 [event_target:ascendancy_affairs_target_3.GetName] 我们的飞船。”
+ zofe_ascendancy_affairs.13.d:0 “授予 [event_target:ascendancy_affairs_target_4.GetName] 我们的飞船。”
+ zofe_ascendancy_affairs.13.e:0 “授予 [event_target:ascendancy_affairs_target_5.GetName] 我们的飞船。”
+ zofe_ascendancy_affairs.13.f:0 “授予 [event_target:ascendancy_affairs_target_6.GetName] 我们的飞船。”
+ zofe_ascendancy_affairs.13.g:0 “授予 [event_target:ascendancy_affairs_target_7.GetName] 我们的飞船。”
+ zofe_ascendancy_affairs.13.h:0 “授予 [event_target:ascendancy_affairs_target_8.GetName] 我们的飞船。”
+ zofe_ascendancy_affairs.13.i:0 “授予 [event_target:ascendancy_affairs_target_9.GetName] 我们的飞船。”
+ zofe_ascendancy_affairs.13.j:0 “授予 [event_target:ascendancy_affairs_target_10.GetName] 我们的飞船。”
+ zofe_ascendancy_affairs.13.k:0 “授予 [event_target:ascendancy_affairs_target_11.GetName] 我们的飞船。”
+ zofe_ascendancy_affairs.13.l:0 “授予 [event_target:ascendancy_affairs_target_12.GetName] 我们的飞船。”
+ zofe_ascendancy_affairs.13.m:0 “授予 [event_target:ascendancy_affairs_target_13.GetName] 我们的飞船。”
+ zofe_ascendancy_affairs.13.n:0 “授予 [event_target:ascendancy_affairs_target_14.GetName] 我们的飞船。”
+ zofe_ascendancy_affairs.13.o:0 “授予 [event_target:ascendancy_affairs_target_15.GetName] 我们的飞船。”
+ zofe_ascendancy_affairs.13.p:0 “授予 [event_target:ascendancy_affairs_target_16.GetName] 我们的飞船。”
+ 
+ GIFT_FROM_HEAVEN:0 《来自天堂的礼物》
+ GIFT_FROM_HEAVEN_DESC:0 “我们将完成军舰向我们主题的转移。”
+ 
+ zofe_ascendancy_affairs.1311.name:0 《战舰交接成功》
+ zofe_ascendancy_affairs.1311.desc:0 “我们的军舰转移仪式现已在 [FromFrom.GetName] 完成。反修补装置已经到位，因此舰船部件不会意外地炸毁在他们的脸上。剩下的问题是我们是否应该允许我们的舰队,与其他原始船只会合，还是应该在战斗中保持在一起。”
+ zofe_ascendancy_affairs.1311.a:0 “他们可能会根据需要合并我们的舰队。”
+ zofe_ascendancy_affairs.1311.b:0 “我们的船只必须作为一支战斗力量保持在一起！”
+ 
+ zofe_ascendancy_affairs.20.name:0 “平均行动”
+ zofe_ascendancy_affairs.20.desc:0 “好极了。\n\n每隔一段时间，一个支配者就应该展示一下自己的力量，展示一下自己的力量，以便让我们的臣民保持一致，或者惩罚他们的不忠和无能。§H[Root. ,GetRulerTitle] [Root.GetRulerName]§! 今天惩罚原始人吗？”
+ zofe_ascendancy_affairs.20.nab:0 “我们会带……”
+ zofe_ascendancy_affairs.20.strikes: “我们将发动惩罚性罢工。”
+ 
+ zofe_ascendancy_affairs.21.name:0 “我们会带……”
+ zofe_ascendancy_affairs.21.desc:0 “即使按照原始人的标准，从我们的臣民那里夺取无疑也被视为权力游戏，但我们不会在这里征求他们的许可。[Root.GetName] 会夺取，他们会服从。”
+ zofe_ascendancy_affairs.21.pop:0 “流行音乐”
+ zofe_ascendancy_affairs.21.scientist:0 “一位科学家”
+ zofe_ascendancy_affairs.21.fleet:0 “舰队”
+ zofe_ascendancy_affairs.21.outpost:0 “前哨站”
+ 
+ zofe_ascendancy_affairs.211.name:0 “拿一个流行音乐”
+ zofe_ascendancy_affairs.211.desc:0 “多么令人兴奋！这可以很容易地安排 §H[Root.GetRulerTitle] [Root.GetRulerName]§!。我们会很快，将被带走的流行音乐运送到我们的首都进行进一步处理。我们应该从哪个帝国拿走,流行音乐？”
+ zofe_ascendancy_affairs.211.a:0 “来自 §H[event_target:ascendancy_affairs_target_1.GetName]§!。”
+ zofe_ascendancy_affairs.211.b:0 “来自 §H[event_target:ascendancy_affairs_target_2.GetName]§!。”
+ zofe_ascendancy_affairs.211.c:0 “来自 §H[event_target:ascendancy_affairs_target_3.GetName]§!。”
+ zofe_ascendancy_affairs.211.d:0 “来自 §H[event_target:ascendancy_affairs_target_4.GetName]§!。”
+ zofe_ascendancy_affairs.211.e:0 “来自 §H[event_target:ascendancy_affairs_target_5.GetName]§!。”
+ zofe_ascendancy_affairs.211.f:0 “来自 §H[event_target:ascendancy_affairs_target_6.GetName]§!。”
+ zofe_ascendancy_affairs.211.g:0 “来自 §H[event_target:ascendancy_affairs_target_7.GetName]§!。”
+ zofe_ascendancy_affairs.211.h:0 “来自 §H[event_target:ascendancy_affairs_target_8.GetName]§!。”
+ zofe_ascendancy_affairs.211.i:0 “来自 §H[event_target:ascendancy_affairs_target_9.GetName]§!。”
+ zofe_ascendancy_affairs.211.j:0 “来自 §H[event_target:ascendancy_affairs_target_10.GetName]§!。”
+ zofe_ascendancy_affairs.211.k:0 “来自 §H[event_target:ascendancy_affairs_target_11.GetName]§!。”
+ zofe_ascendancy_affairs.211.l:0 “来自 §H[event_target:ascendancy_affairs_target_12.GetName]§!。”
+ zofe_ascendancy_affairs.211.m:0 “来自 §H[event_target:ascendancy_affairs_target_13.GetName]§!。”
+ zofe_ascendancy_affairs.211.n:0 “来自 §H[event_target:ascendancy_affairs_target_14.GetName]§!。”
+ zofe_ascendancy_affairs.211.o:0 “来自 §H[event_target:ascendancy_affairs_target_15.GetName]§!。”
+ zofe_ascendancy_affairs.211.p:0 “来自 §H[event_target:ascendancy_affairs_target_16.GetName]§!。”
+ 
+ zofe_ascendancy_affairs.2111.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.2111.desc:0 “我们在此通知您，由于我们自己的原因，与 §H[Root.GetName]§! 无关的原因，已从 [event_target:AscendancyNabPopPlanet.GetName] 夺走了一个人口。要知道人口现在处于更好的状态,地方，而 §H[Root.GetName]§! 最好记住他们的错误做法。”
+ zofe_ascendancy_affairs.2111.a:0 “不好了！”
+ 
+ zofe_ascendancy_affairs.212.name:0 “带一个科学家”
+ zofe_ascendancy_affairs.212.desc:0 “为了最大限度地惩罚和破坏他们的技术进步，只会从附属帝国带走最优秀的科学家。他们拥有的大多数原始科学家不太可能对我们有任何用处。\n\n再一次，我们,不会在这里征求他们的许可。[Root.GetName] 会拿走，原始人会服从。”
+ zofe_ascendancy_affairs.212.a:0 “来自 §H[event_target:ascendancy_affairs_target_1.GetName]§!。”
+ zofe_ascendancy_affairs.212.b:0 “来自 §H[event_target:ascendancy_affairs_target_2.GetName]§!。”
+ zofe_ascendancy_affairs.212.c:0 “来自 §H[event_target:ascendancy_affairs_target_3.GetName]§!。”
+ zofe_ascendancy_affairs.212.d:0 “来自 §H[event_target:ascendancy_affairs_target_4.GetName]§!。”
+ zofe_ascendancy_affairs.212.e:0 “来自 §H[event_target:ascendancy_affairs_target_5.GetName]§!。”
+ zofe_ascendancy_affairs.212.f:0 “来自 §H[event_target:ascendancy_affairs_target_6.GetName]§!。”
+ zofe_ascendancy_affairs.212.g:0 “来自 §H[event_target:ascendancy_affairs_target_7.GetName]§!。”
+ zofe_ascendancy_affairs.212.h:0 “来自 §H[event_target:ascendancy_affairs_target_8.GetName]§!。”
+ zofe_ascendancy_affairs.212.i:0 “来自 §H[event_target:ascendancy_affairs_target_9.GetName]§!。”
+ zofe_ascendancy_affairs.212.j:0 “来自 §H[event_target:ascendancy_affairs_target_10.GetName]§!。”
+ zofe_ascendancy_affairs.212.k:0 “来自 §H[event_target:ascendancy_affairs_target_11.GetName]§!。”
+ zofe_ascendancy_affairs.212.l:0 “来自 §H[event_target:ascendancy_affairs_target_12.GetName]§!。”
+ zofe_ascendancy_affairs.212.m:0 “来自 §H[event_target:ascendancy_affairs_target_13.GetName]§!。”
+ zofe_ascendancy_affairs.212.n:0 “来自 §H[event_target:ascendancy_affairs_target_14.GetName]§!。”
+ zofe_ascendancy_affairs.212.o:0 “来自 §H[event_target:ascendancy_affairs_target_15.GetName]§!。”
+ zofe_ascendancy_affairs.212.p:0 “来自 §H[event_target:ascendancy_affairs_target_16.GetName]§!。”
+ 
+ zofe_ascendancy_affairs.2121.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.2121.desc:0 “我们在此通知您，科学家 [event_target:AscendancyScientistTarget.GetName] 已因我们自己的原因被我们拘留，与 §H[Root.GetName]§! 无关。您可以像以前一样继续，并且,§H[Root.GetName]§! 最好记住他们的错误做法。”
+ zofe_ascendancy_affairs.2121.a:0 “不好了！”
+ 
+ zofe_ascendancy_affairs.213.name:0 “乘舰队”
+ zofe_ascendancy_affairs.213.desc:0 "如果我们认为他们的战争资产被他们的原始主人滥用，那么征用他们的舰队是可能的。为了最大限度地惩罚，只有满足特定要求的舰队才有可能征用。\n\n当我们在,与相关主题的战争将极具挑战性，在这种情况之外，他们别无选择，只能接受我们的要求。”
+ zofe_ascendancy_affairs.213.a:0 “征服 §H[event_target:ascendancy_affairs_target_1.GetName]§!。”
+ zofe_ascendancy_affairs.213.b:0 “征服 §H[event_target:ascendancy_affairs_target_2.GetName]§!。”
+ zofe_ascendancy_affairs.213.c:0 “征服 §H[event_target:ascendancy_affairs_target_3.GetName]§!。”
+ zofe_ascendancy_affairs.213.d:0 “征服 §H[event_target:ascendancy_affairs_target_4.GetName]§!。”
+ zofe_ascendancy_affairs.213.e:0 “征服 §H[event_target:ascendancy_affairs_target_5.GetName]§!。”
+ zofe_ascendancy_affairs.213.f:0 “征服 §H[event_target:ascendancy_affairs_target_6.GetName]§!。”
+ zofe_ascendancy_affairs.213.g:0 “征服 §H[event_target:ascendancy_affairs_target_7.GetName]§!。”
+ zofe_ascendancy_affairs.213.h:0 “征服 §H[event_target:ascendancy_affairs_target_8.GetName]§!。”
+ zofe_ascendancy_affairs.213.i:0 “征服 §H[event_target:ascendancy_affairs_target_9.GetName]§!。”
+ zofe_ascendancy_affairs.213.j:0 “征服 §H[event_target:ascendancy_affairs_target_10.GetName]§!。”
+ zofe_ascendancy_affairs.213.k:0 “征服 §H[event_target:ascendancy_affairs_target_11.GetName]§!。”
+ zofe_ascendancy_affairs.213.l:0 “征服 §H[event_target:ascendancy_affairs_target_12.GetName]§!。”
+ zofe_ascendancy_affairs.213.m:0 “征服 §H[event_target:ascendancy_affairs_target_13.GetName]§!。”
+ zofe_ascendancy_affairs.213.n:0 “征服 §H[event_target:ascendancy_affairs_target_14.GetName]§!。”
+ zofe_ascendancy_affairs.213.o:0 “征服 §H[event_target:ascendancy_affairs_target_15.GetName]§!。”
+ zofe_ascendancy_affairs.213.p:0 “征服 §H[event_target:ascendancy_affairs_target_16.GetName]§!。”
+ 
+ zofe_ascendancy_affairs.2131.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.2131.desc:0 “我们在此通知您，我们征用了舰队，[event_target:AscendancyFleetTarget.GetName]，出于我们自己的原因，与 §H[Root.GetName]§! 无关。您可以像以前一样继续，并且,§H[Root.GetName]§! 最好记住他们的错误做法。”
+ zofe_ascendancy_affairs.2131.a:0 “爆破！”
+ 
+ zofe_ascendancy_affairs.214.name:0 “采取前哨”
+ zofe_ascendancy_affairs.214.desc:0 “征用附属国的边境前哨站是可能的，前提是星系中没有反对这种接管的殖民地。突击队将袭击与我们帝国接壤的星际基地，而原始人别无选择，只能接受我们对星际基地的接管。”
+ zofe_ascendancy_affairs.214.a:0 “在 §H[event_target:ascendancy_affairs_target_1.solar_system.GetName]§! 系统中征服星际基地。”
+ zofe_ascendancy_affairs.214.b:0 “在 §H[event_target:ascendancy_affairs_target_2.solar_system.GetName]§! 星系中征服星际基地。”
+ zofe_ascendancy_affairs.214.c:0 “在 §H[event_target:ascendancy_affairs_target_3.solar_system.GetName]§! 系统中征用星际基地。”
+ zofe_ascendancy_affairs.214.d:0 “在 §H[event_target:ascendancy_affairs_target_4.solar_system.GetName]§! 星系中征服星际基地。”
+ zofe_ascendancy_affairs.214.e:0 “在 §H[event_target:ascendancy_affairs_target_5.solar_system.GetName]§! 星系中征服星际基地。”
+ zofe_ascendancy_affairs.214.f:0 “在 §H[event_target:ascendancy_affairs_target_6.solar_system.GetName]§! 系统中征服星际基地。”
+ zofe_ascendancy_affairs.214.g:0 “在 §H[event_target:ascendancy_affairs_target_7.solar_system.GetName]§! 星系中征服星际基地。”
+ zofe_ascendancy_affairs.214.h:0 “在 §H[event_target:ascendancy_affairs_target_8.solar_system.GetName]§! 星系中征服星际基地。”
+ zofe_ascendancy_affairs.214.i:0 “在 §H[event_target:ascendancy_affairs_target_9.solar_system.GetName]§! 系统中指挥星际基地。”
+ zofe_ascendancy_affairs.214.j:0 “在 §H[event_target:ascendancy_affairs_target_10.solar_system.GetName]§! 系统中征服星际基地。”
+ zofe_ascendancy_affairs.214.k:0 “在 §H[event_target:ascendancy_affairs_target_11.solar_system.GetName]§! 系统中征服星际基地。”
+ zofe_ascendancy_affairs.214.l:0 “在 §H[event_target:ascendancy_affairs_target_12.solar_system.GetName]§! 系统中征服星际基地。”
+ zofe_ascendancy_affairs.214.m:0 “在 §H[event_target:ascendancy_affairs_target_13.solar_system.GetName]§! 系统中征服星际基地。”
+ zofe_ascendancy_affairs.214.n:0 “在 §H[event_target:ascendancy_affairs_target_14.solar_system.GetName]§! 系统中征服星际基地。”
+ zofe_ascendancy_affairs.214.o:0 “在 §H[event_target:ascendancy_affairs_target_15.solar_system.GetName]§! 系统中征服星际基地。”
+ zofe_ascendancy_affairs.214.p:0 “在 §H[event_target:ascendancy_affairs_target_16.solar_system.GetName]§! 系统中征服星际基地。”
+ 
+ STARBASE_TAKEOVER_PROJECT:0 “星际基地接管”
+ STARBASE_TAKEOVER_PROJECT_DESC:0 “我们将派遣突击队为我们的优势征用星际基地。如果原始人反抗，他们将受到伤害。”
+ 
+ zofe_ascendancy_affairs.2141.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.2141.desc:0 “我们在此通知您，我们已经征用了位于 [event_target:AscendancyOutpostTarget.solar_system.GetName] 星系的星际基地，这是出于我们自己的原因，与 §H[Root.GetName]§! 无关。您可以像以前一样继续,, 而 §H[Root.GetName]§! 最好记住他们的错误做法。”
+ zofe_ascendancy_affairs.2141.a:0 “爆破！”
+ 
+ zofe_ascendancy_affairs.2142.name:0 “星际基地接管完成！”
+ zofe_ascendancy_affairs.2142.desc:0 “我们的部队已经完成了对 [this.solar_system.GetName] 星际基地的接管。行动迅速，驻扎在那里的原始人没有抵抗。他们被打包送回家，在星际基地的控制下，[这个,.owner.GetName] 现在也拥有了整个系统的所有权。”
+ zofe_ascendancy_affairs.2142.a:0 “出色的！”
+ 
+ zofe_ascendancy_affairs.22.name:0 “惩罚性罢工”
+ zofe_ascendancy_affairs.22.desc:0 “太激动了！这是可以安排的，以我们现在的技术水平，肯定有能力做到这一点。必须给原始人上一课。我们在想什么样的惩罚性打击？”
+ zofe_ascendancy_affairs.22.asteroid:0 “一次帝国范围的小行星撞击。”
+ zofe_ascendancy_affairs.22.horror:0 “在他们的首都上空打开一个次元传送门。”
+ zofe_ascendancy_affairs.22.avatar:0 “在他们的殖民地上方召唤一个灵能化身。”
+ zofe_ascendancy_affairs.22.sanctions:0 “开始惩罚性制裁。”
+ 
+ zofe_ascendancy_affairs.221.name:0 “发动惩罚性小行星撞击”
+ zofe_ascendancy_affairs.221.desc:0 “虽然小行星撞击可能是致命的，但我们的打击在设计上是惩罚性的，如果撞击成功，它只会对基础设施造成轻微破坏，一些原始人可能会在此过程中丧生。\n\n然而，主要目标是，,一直很恐惧，因为小行星会同时袭击帝国的每一个殖民地，让他们的拦截舰队几乎没有时间参与。尽管他们的思想可能很原始，但他们可能会意识到这些袭击背后有一些“更高的力量”，但是,将对此无能为力。”
+ zofe_ascendancy_affairs.221.a:0 “在 §H[event_target:ascendancy_affairs_target_1.GetName]§!”发射惩罚性小行星
+ zofe_ascendancy_affairs.221.b:0 “在 §H[event_target:ascendancy_affairs_target_2.GetName]§!”发射惩罚性小行星
+ zofe_ascendancy_affairs.221.c:0 “在 §H[event_target:ascendancy_affairs_target_3.GetName]§!”发射惩罚性小行星
+ zofe_ascendancy_affairs.221.d:0 “在 §H[event_target:ascendancy_affairs_target_4.GetName]§!”发射惩罚性小行星
+ zofe_ascendancy_affairs.221.e:0 “在 §H[event_target:ascendancy_affairs_target_5.GetName]§!”发射惩罚性小行星
+ zofe_ascendancy_affairs.221.f:0 “在 §H[event_target:ascendancy_affairs_target_6.GetName]§!”发射惩罚性小行星
+ zofe_ascendancy_affairs.221.g:0 “在 §H[event_target:ascendancy_affairs_target_7.GetName]§!”发射惩罚性小行星
+ zofe_ascendancy_affairs.221.h:0 “在 §H[event_target:ascendancy_affairs_target_8.GetName]§!”发射惩罚性小行星
+ zofe_ascendancy_affairs.221.i:0 “在 §H[event_target:ascendancy_affairs_target_9.GetName]§!”发射惩罚性小行星
+ zofe_ascendancy_affairs.221.j:0 “在 §H[event_target:ascendancy_affairs_target_10.GetName]§!”发射惩罚性小行星
+ zofe_ascendancy_affairs.221.k:0 “在 §H[event_target:ascendancy_affairs_target_11.GetName]§!”发射惩罚性小行星
+ zofe_ascendancy_affairs.221.l:0 “在 §H[event_target:ascendancy_affairs_target_12.GetName]§!”发射惩罚性小行星
+ zofe_ascendancy_affairs.221.m:0 “在 §H[event_target:ascendancy_affairs_target_13.GetName]§!”发射惩罚性小行星
+ zofe_ascendancy_affairs.221.n:0 “在 §H[event_target:ascendancy_affairs_target_14.GetName]§!”发射惩罚性小行星
+ zofe_ascendancy_affairs.221.o:0 “在 §H[event_target:ascendancy_affairs_target_15.GetName]§!”发射惩罚性小行星
+ zofe_ascendancy_affairs.221.p:0 “在 §H[event_target:ascendancy_affairs_target_16.GetName]§!”发射惩罚性小行星
+ 
+ zofe_ascendancy_affairs.222.name:0 《开启次元传送门》
+ zofe_ascendancy_affairs.222.desc:0 “使用 Portal Generator Technology，我们可以远程打开对象首都的维度门户，并从另一个维度释放怪物。我们的舰队将很快到达以确保威胁得到遏制，但不会在原始人变成棕色并欢迎我们之前,舰队作为救世主。\n\n也就是说，我们今天的目标是哪个帝国？”
+ zofe_ascendancy_affairs.222.a:0 “在 §H[event_target:ascendancy_affairs_target_1.GetName]§! 首都打开一个次元传送门。”
+ zofe_ascendancy_affairs.222.b:0 “在 §H[event_target:ascendancy_affairs_target_2.GetName]§! 首都打开一个次元传送门。”
+ zofe_ascendancy_affairs.222.c:0 “在 §H[event_target:ascendancy_affairs_target_3.GetName]§! 首都打开一个次元传送门。”
+ zofe_ascendancy_affairs.222.d:0 “在 §H[event_target:ascendancy_affairs_target_4.GetName]§! 首都打开一个次元传送门。”
+ zofe_ascendancy_affairs.222.e:0 “在 §H[event_target:ascendancy_affairs_target_5.GetName]§! 首都打开一个次元传送门。”
+ zofe_ascendancy_affairs.222.f:0 “在 §H[event_target:ascendancy_affairs_target_6.GetName]§! 首都打开一个次元传送门。”
+ zofe_ascendancy_affairs.222.g:0 “在 §H[event_target:ascendancy_affairs_target_7.GetName]§! 首都打开一个次元传送门。”
+ zofe_ascendancy_affairs.222.h:0 “在 §H[event_target:ascendancy_affairs_target_8.GetName]§! 首都打开一个次元传送门。”
+ zofe_ascendancy_affairs.222.i:0 “在 §H[event_target:ascendancy_affairs_target_9.GetName]§! 首都打开一个次元传送门。”
+ zofe_ascendancy_affairs.222.j:0 “在 §H[event_target:ascendancy_affairs_target_10.GetName]§! 首都打开一个次元传送门。”
+ zofe_ascendancy_affairs.222.k:0 “在 §H[event_target:ascendancy_affairs_target_11.GetName]§! 首都打开一个次元传送门。”
+ zofe_ascendancy_affairs.222.l:0 “在 §H[event_target:ascendancy_affairs_target_12.GetName]§! 首都打开一个次元传送门。”
+ zofe_ascendancy_affairs.222.m:0 “在 §H[event_target:ascendancy_affairs_target_13.GetName]§! 首都打开一个次元传送门。”
+ zofe_ascendancy_affairs.222.n:0 “在 §H[event_target:ascendancy_affairs_target_14.GetName]§! 首都打开一个次元传送门。”
+ zofe_ascendancy_affairs.222.o:0 “在 §H[event_target:ascendancy_affairs_target_15.GetName]§! 首都打开一个次元传送门。”
+ zofe_ascendancy_affairs.222.p:0 “在 §H[event_target:ascendancy_affairs_target_16.GetName]§! 首都打开一个次元传送门。”
+ 
+ zofe_ascendancy_affairs.2221.name:0 “来自彼岸的恐怖！”
+ zofe_ascendancy_affairs.2221.desc:0 “来自另一个维度的恐怖已经侵入我们首都 [Root.Capital.GetName] 上方的宇宙。我们的公民正在战斗，许多可疑的恶意势力正在活动。”
+ zofe_ascendancy_affairs.2221.a:0 “它从哪里来的？战场！”
+ 
+ zofe_ascendancy_affairs.223.name:0 “召唤灵能化身”
+ zofe_ascendancy_affairs.223.desc:0 “根据我们目前对裹尸布的了解，我们可能会尝试在我们对象的殖民地之一上召唤一个灵能化身作为惩罚。由于这些化身的不可预测性，不可能为它指示任何特定的殖民地,\n\n也就是说，今天我们的目标是哪个帝国？”
+ zofe_ascendancy_affairs.223.a:0 “在 §H[event_target:ascendancy_affairs_target_1.GetName]§ 的殖民地召唤一个灵能化身！”
+ zofe_ascendancy_affairs.223.b:0 “在 §H[event_target:ascendancy_affairs_target_2.GetName]§ 的殖民地召唤一个灵能化身！”
+ zofe_ascendancy_affairs.223.c:0 “在 §H[event_target:ascendancy_affairs_target_3.GetName]§ 的殖民地召唤一个灵能化身！”
+ zofe_ascendancy_affairs.223.d:0 “在 §H[event_target:ascendancy_affairs_target_4.GetName]§ 的殖民地召唤一个灵能化身！”
+ zofe_ascendancy_affairs.223.e:0 “在 §H[event_target:ascendancy_affairs_target_5.GetName]§ 的殖民地召唤一个灵能化身！”
+ zofe_ascendancy_affairs.223.f:0 “在 §H[event_target:ascendancy_affairs_target_6.GetName]§ 的殖民地召唤一个灵能化身！”
+ zofe_ascendancy_affairs.223.g:0 “在 §H[event_target:ascendancy_affairs_target_7.GetName]§ 的殖民地召唤一个灵能化身！”
+ zofe_ascendancy_affairs.223.h:0 “在 §H[event_target:ascendancy_affairs_target_8.GetName]§ 的殖民地召唤一个灵能化身！”
+ zofe_ascendancy_affairs.223.i:0 “在 §H[event_target:ascendancy_affairs_target_9.GetName]§ 的殖民地召唤一个灵能化身！”
+ zofe_ascendancy_affairs.223.j:0 “在 §H[event_target:ascendancy_affairs_target_10.GetName]§ 的殖民地召唤一个灵能化身！”
+ zofe_ascendancy_affairs.223.k:0 “在 §H[event_target:ascendancy_affairs_target_11.GetName]§ 的殖民地召唤一个灵能化身！”
+ zofe_ascendancy_affairs.223.l:0 “在 §H[event_target:ascendancy_affairs_target_12.GetName]§ 的殖民地召唤一个灵能化身！”
+ zofe_ascendancy_affairs.223.m:0 “在 §H[event_target:ascendancy_affairs_target_13.GetName]§ 的殖民地召唤一个灵能化身！”
+ zofe_ascendancy_affairs.223.n:0 “在 §H[event_target:ascendancy_affairs_target_14.GetName]§ 的殖民地召唤一个灵能化身！”
+ zofe_ascendancy_affairs.223.o:0 “在 §H[event_target:ascendancy_affairs_target_15.GetName]§ 的殖民地召唤一个灵能化身！”
+ zofe_ascendancy_affairs.223.p:0 “在 §H[event_target:ascendancy_affairs_target_16.GetName]§ 的殖民地召唤一个灵能化身！”
+ 
+ zofe_ascendancy_affairs.2231.name:0 “看见灵能化身！”
+ zofe_ascendancy_affairs.2231.desc:0 “来自裹尸布的恐惧已经侵入了我们的一个殖民地！我们的公民正在战斗，许多可疑的恶意势力正在活动。”
+ zofe_ascendancy_affairs.2231.a:0 “它从哪里来的？战场！”
+ 
+ zofe_ascendancy_affairs.224.name:0 “惩罚性制裁”
+ zofe_ascendancy_affairs.224.desc:0 “惩罚性制裁会对原始经济产生巨大影响，预计未来 10 年的损失将达到 §R-75%§!£trade_value£ §Y$TRADE_VALUE$§!。当然，为了避免报复，这只是,一个针对比我们小的经济体的选择。今天我们应该对哪个帝国实施惩罚性制裁？”
+ zofe_ascendancy_affairs.224.a:0 “开始对 §H[event_target:ascendancy_affairs_target_1.GetName]§! 进行惩罚性制裁！”
+ zofe_ascendancy_affairs.224.b:0 “开始对 §H[event_target:ascendancy_affairs_target_2.GetName]§! 进行惩罚性制裁！”
+ zofe_ascendancy_affairs.224.c:0 “开始对 §H[event_target:ascendancy_affairs_target_3.GetName]§! 进行惩罚性制裁！”
+ zofe_ascendancy_affairs.224.d:0 “对 §H[event_target:ascendancy_affairs_target_4.GetName]§ 开始惩罚性制裁！”
+ zofe_ascendancy_affairs.224.e:0 “对 §H[event_target:ascendancy_affairs_target_5.GetName]§ 开始惩罚性制裁！”
+ zofe_ascendancy_affairs.224.f:0 “对 §H[event_target:ascendancy_affairs_target_6.GetName]§ 开始惩罚性制裁！”
+ zofe_ascendancy_affairs.224.g:0 “对 §H[event_target:ascendancy_affairs_target_7.GetName]§ 开始惩罚性制裁！”
+ zofe_ascendancy_affairs.224.h:0 “开始对 §H[event_target:ascendancy_affairs_target_8.GetName]§! 进行惩罚性制裁！”
+ zofe_ascendancy_affairs.224.i:0 “对 §H[event_target:ascendancy_affairs_target_9.GetName]§ 开始惩罚性制裁！”
+ zofe_ascendancy_affairs.224.j:0 “开始对 §H[event_target:ascendancy_affairs_target_10.GetName]§! 进行惩罚性制裁！”
+ zofe_ascendancy_affairs.224.k:0 “开始对 §H[event_target:ascendancy_affairs_target_11.GetName]§! 进行惩罚性制裁！”
+ zofe_ascendancy_affairs.224.l:0 “开始对 §H[event_target:ascendancy_affairs_target_12.GetName]§! 进行惩罚性制裁！”
+ zofe_ascendancy_affairs.224.m:0 “开始对 §H[event_target:ascendancy_affairs_target_13.GetName]§! 进行惩罚性制裁！”
+ zofe_ascendancy_affairs.224.n:0 “开始对 §H[event_target:ascendancy_affairs_target_14.GetName]§! 进行惩罚性制裁！”
+ zofe_ascendancy_affairs.224.o:0 “开始对 §H[event_target:ascendancy_affairs_target_15.GetName]§! 进行惩罚性制裁！”
+ zofe_ascendancy_affairs.224.p:0 “开始对 §H[event_target:ascendancy_affairs_target_16.GetName]§! 进行惩罚性制裁！”
+ 
+ zofe_ascendancy_affairs.2241.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_ascendancy_affairs.2241.desc:0 “我们特此宣布 [Root.GetName] 现在由 §H[From.GetName]§! 批准，立即生效。你们这些原始的野蛮人最好记住你们在这方面的责任。”
+ zofe_ascendancy_affairs.2241.a:0 “我们的经济会发生什么变化？”
+ 
+ punitive_sanctions:0 “惩罚性制裁”
+ punitive_sanctions_desc:0 “优势地位施加的惩罚性制裁会大大降低帝国的贸易价值和经济潜力。”
+ 
+ zofe_ascendancy_affairs.30.name:0 “内政”
+ zofe_ascendancy_affairs.30.desc:0 “可以理解。一个人只能与原始人交谈或互动这么长时间。[Root.GetName] 确实有大量内部事务需要处理，例如开发、设计和其他帝国管理任务。我们应该采取什么行动,今天？”
+ zofe_ascendancy_affairs.30.redesign:0 “星际基地重新设计”
+ zofe_ascendancy_affairs.30.ringworld:0 “新环世界设计”
+ zofe_ascendancy_affairs.30.debris:0 “太空碎片清理”
+ zofe_ascendancy_affairs.30.renounce:0 《放弃霸权》
+ zofe_ascendancy_affairs.30.decadence:0 “振兴社会”
+ zofe_ascendancy_affairs.30.decadence_hive:0 “激活无人机”
+ zofe_ascendancy_affairs.30.decadence_machine:0 “系统检查”
+ 
+ zofe_ascendancy_affairs.31.name:0 “原始星际基地外观”
+ zofe_ascendancy_affairs.31.desc:0 “不幸的是，我们的一些旧星际基地仍然采用原始设计，这确实非常糟糕地反映了我们目前作为优势地位的地位。然而，设计的重大变化可能会扰乱我们星际基地的日常运作。”
+ zofe_ascendancy_affairs.31.a:0 “重新设计轨道 §H[event_target:ascendancy_affairs_target_1.GetStarName]§!”
+ zofe_ascendancy_affairs.31.b:0 “重新设计轨道 §H[event_target:ascendancy_affairs_target_2.GetStarName]§!”
+ zofe_ascendancy_affairs.31.c:0 “重新设计星际基地轨道 §H[event_target:ascendancy_affairs_target_3.GetStarName]§!”
+ zofe_ascendancy_affairs.31.d:0 “重新设计星际基地轨道 §H[event_target:ascendancy_affairs_target_4.GetStarName]§!”
+ zofe_ascendancy_affairs.31.e:0 “重新设计星际基地轨道 §H[event_target:ascendancy_affairs_target_5.GetStarName]§!”
+ zofe_ascendancy_affairs.31.f:0 “重新设计星际基地轨道 §H[event_target:ascendancy_affairs_target_6.GetStarName]§!”
+ zofe_ascendancy_affairs.31.g:0 “重新设计轨道 §H[event_target:ascendancy_affairs_target_7.GetStarName]§!”
+ zofe_ascendancy_affairs.31.h:0 “重新设计星际基地轨道 §H[event_target:ascendancy_affairs_target_8.GetStarName]§!”
+ zofe_ascendancy_affairs.31.i:0 “重新设计轨道 §H[event_target:ascendancy_affairs_target_9.GetStarName]§!”
+ zofe_ascendancy_affairs.31.j:0 “重新设计星际基地轨道 §H[event_target:ascendancy_affairs_target_10.GetStarName]§!”
+ zofe_ascendancy_affairs.31.k:0 “重新设计轨道 §H[event_target:ascendancy_affairs_target_11.GetStarName]§!”
+ zofe_ascendancy_affairs.31.l:0 “重新设计轨道 §H[event_target:ascendancy_affairs_target_12.GetStarName]§!”
+ zofe_ascendancy_affairs.31.m:0 “重新设计轨道 §H[event_target:ascendancy_affairs_target_13.GetStarName]§!”
+ zofe_ascendancy_affairs.31.n:0 “重新设计星际基地轨道 §H[event_target:ascendancy_affairs_target_14.GetStarName]§!”
+ zofe_ascendancy_affairs.31.o:0 “重新设计轨道 §H[event_target:ascendancy_affairs_target_15.GetStarName]§!”
+ zofe_ascendancy_affairs.31.p:0 “重新设计轨道 §H[event_target:ascendancy_affairs_target_16.GetStarName]§!”
+ 
+ STARBASE_REDESIGN_PROJECT:0 “星际基地重新设计”
+ STARBASE_REDESIGN_PROJECT_DESC:0 “由于我们新设计的布局发生重大变化，所有星际基地建筑和模块都将被拆除，为我们的 [GetEngineerPlural] 腾出空间。此外，采矿站可能会被废弃，以为升级提供必要的资源。”
+
+ zofe_ascendancy_affairs.311.name:0 “星际基地重新设计完成！”
+ zofe_ascendancy_affairs.311.desc:0 “环绕 [From.GetStarName] 的 Starbase 已经完成重新设计并准备好接受检查。虽然它的所有建筑物和模块在此过程中都丢失了，但我们的 [GetEngineerPlural] 认为这是值得付出的代价。”
+ zofe_ascendancy_affairs.311.a:0 “新的星际基地……很漂亮。”
+ 
+ zofe_ascendancy_affairs.32.name:0 “环世界重新设计”
+ zofe_ascendancy_affairs.32.desc:0 “自从我们提升以来，我们的建筑师一直在努力为我们的环形世界设计新外观。这些设计现在已经准备就绪。也许是时候对我们的环形世界进行改造了？”
+ zofe_ascendancy_affairs.32.a:0 “在 §H[event_target:ascendancy_affairs_target_1.GetName]§! 中重新设计我们的环形世界！”
+ zofe_ascendancy_affairs.32.b:0 “在 §H[event_target:ascendancy_affairs_target_2.GetName]§! 中重新设计我们的环形世界！”
+ zofe_ascendancy_affairs.32.c:0 “在 §H[event_target:ascendancy_affairs_target_3.GetName]§! 中重新设计我们的环形世界！”
+ zofe_ascendancy_affairs.32.d:0 “在 §H[event_target:ascendancy_affairs_target_4.GetName]§! 中重新设计我们的环形世界！”
+ zofe_ascendancy_affairs.32.e:0 “在 §H[event_target:ascendancy_affairs_target_5.GetName]§! 中重新设计我们的环形世界！”
+ zofe_ascendancy_affairs.32.f:0 “在 §H[event_target:ascendancy_affairs_target_6.GetName]§! 中重新设计我们的环形世界！”
+ zofe_ascendancy_affairs.32.g:0 “在 §H[event_target:ascendancy_affairs_target_7.GetName]§! 中重新设计我们的环形世界！”
+ zofe_ascendancy_affairs.32.h:0 “在 §H[event_target:ascendancy_affairs_target_8.GetName]§! 中重新设计我们的环形世界！”
+ zofe_ascendancy_affairs.32.i:0 “在 §H[event_target:ascendancy_affairs_target_9.GetName]§! 中重新设计我们的环形世界！”
+ zofe_ascendancy_affairs.32.j:0 “在 §H[event_target:ascendancy_affairs_target_10.GetName]§! 中重新设计我们的环形世界！”
+ zofe_ascendancy_affairs.32.k:0 “在 §H[event_target:ascendancy_affairs_target_11.GetName]§! 中重新设计我们的环形世界！”
+ zofe_ascendancy_affairs.32.l:0 “在 §H[event_target:ascendancy_affairs_target_12.GetName]§! 中重新设计我们的环形世界！”
+ zofe_ascendancy_affairs.32.m:0 “在 §H[event_target:ascendancy_affairs_target_13.GetName]§! 中重新设计我们的环形世界！”
+ zofe_ascendancy_affairs.32.n:0 “在 §H[event_target:ascendancy_affairs_target_14.GetName]§! 中重新设计我们的环形世界！”
+ zofe_ascendancy_affairs.32.o:0 “在 §H[event_target:ascendancy_affairs_target_15.GetName]§! 中重新设计我们的环形世界！”
+ zofe_ascendancy_affairs.32.p:0 “在 §H[event_target:ascendancy_affairs_target_16.GetName]§! 中重新设计我们的环形世界！”
+ 
+ RINGWORLD_REDESIGN_PROJECT:0 “环世界重新设计”
+ RINGWORLD_REDESIGN_PROJECT_DESC:0 “由于其新设计的一些重大变化以及所需的巨大资源，该项目可能需要一些时间才能完成。”
+
+ zofe_ascendancy_affairs.321.name:0 “环形世界重新设计完成！”
+ zofe_ascendancy_affairs.321.desc:0 “[From.GetStarName] 星系中的环形世界已经完成了新设计的实施，终于可以接受检查了。”
+ zofe_ascendancy_affairs.321.a:0 “他们好美。”
+ 
+ zofe_ascendancy_affairs.33.name:0 “太空碎片清理”
+ zofe_ascendancy_affairs.33.desc:0 “无论是由于历史战争、被毁坏的巨型建筑，还是仅仅是可怕的习惯，我们系统中的大量太空碎片以及漂浮的太空垃圾确实反映了我们作为优势地位的不良影响。它不仅影响平民旅行的安全，,但它也可能损害我们作为太空环境保护领导者的声誉。全系统清理行动的预算最终会批准用于我们帝国中受影响最严重的一些系统吗？
+ zofe_ascendancy_affairs.33.a:0 “让我们清理一下 §H[event_target:ascendancy_affairs_target_1.GetName]§!”
+ zofe_ascendancy_affairs.33.b:0 “让我们清理一下 §H[event_target:ascendancy_affairs_target_2.GetName]§!”
+ zofe_ascendancy_affairs.33.c:0 “让我们清理一下 §H[event_target:ascendancy_affairs_target_3.GetName]§!”
+ zofe_ascendancy_affairs.33.d:0 “让我们清理一下 §H[event_target:ascendancy_affairs_target_4.GetName]§!”
+ zofe_ascendancy_affairs.33.e:0 “让我们清理一下 §H[event_target:ascendancy_affairs_target_5.GetName]§!”
+ zofe_ascendancy_affairs.33.f:0 “让我们清理一下 §H[event_target:ascendancy_affairs_target_6.GetName]§!”
+ zofe_ascendancy_affairs.33.g:0 “让我们清理一下 §H[event_target:ascendancy_affairs_target_7.GetName]§!”
+ zofe_ascendancy_affairs.33.h:0 “让我们清理一下 §H[event_target:ascendancy_affairs_target_8.GetName]§!”
+ zofe_ascendancy_affairs.33.i:0 “让我们清理一下 §H[event_target:ascendancy_affairs_target_9.GetName]§!”
+ zofe_ascendancy_affairs.33.j:0 “让我们清理一下 §H[event_target:ascendancy_affairs_target_10.GetName]§!”
+ zofe_ascendancy_affairs.33.k:0 “让我们清理一下 §H[event_target:ascendancy_affairs_target_11.GetName]§!”
+ zofe_ascendancy_affairs.33.l:0 “让我们清理一下 §H[event_target:ascendancy_affairs_target_12.GetName]§!”
+ zofe_ascendancy_affairs.33.m:0 “让我们清理一下 §H[event_target:ascendancy_affairs_target_13.GetName]§!”
+ zofe_ascendancy_affairs.33.n:0 “让我们清理一下 §H[event_target:ascendancy_affairs_target_14.GetName]§!”
+ zofe_ascendancy_affairs.33.o:0 “让我们清理一下 §H[event_target:ascendancy_affairs_target_15.GetName]§!”
+ zofe_ascendancy_affairs.33.p:0 “让我们清理一下 §H[event_target:ascendancy_affairs_target_16.GetName]§!”
+ 
+ SPACE_CLEANUP_PROJECT:0 “太空碎片清理”
+ SPACE_CLEANUP_PROJECT_DESC:0 “由于在这个系统中发现了大量的太空碎片，这次清理行动可能需要一些时间才能完成。”
+ 
+ zofe_ascendancy_affairs.331.name:0 “系统清理完成！”
+ zofe_ascendancy_affairs.331.desc:0 “[From.GetStarName] 星系的清理行动终于结束，清除了之前发现的大部分太空碎片。随着星系现在没有太空垃圾和其他难看的物体，我们作为优势的形象得到了改善。”
+ zofe_ascendancy_affairs.331.a:0 “系统现在很干净，没有碎片。”
+ 
+ zofe_ascendancy_affairs.34.name:0 《放弃霸权》
+ zofe_ascendancy_affairs.34.desc:0 “但是……为什么？”
+ zofe_ascendancy_affairs.34.a:0 “§H[Root.GetName]§! 的优势结束了。”
+ 
+ zofe_ascendancy_affairs.35.name:0 “重振雄风”
+ zofe_ascendancy_affairs.35.desc:0 “§H[Root.GetRulerTitle] [Root.GetRulerName]§!，我必须抗议享乐主义实际上对我们的社会无害 - 我自己有时也会这样做。执行此操作将启用一个§Y行星决定§!，旨在,恢复长期享乐主义的流行音乐，对我们人民的幸福产生影响！\n\n也就是说，您想在哪个殖民地执行此操作？
+ zofe_ascendancy_affairs.35.desc.hive:0 “§H[Root.GetRulerTitle] [Root.GetRulerName]§!，我们应该在哪个殖民地尝试激活我们的无人机？”
+ zofe_ascendancy_affairs.35.desc.machine:0 “§H[Root.GetRulerTitle] [Root.GetRulerName]§!，我们必须进行系统检查，以根除我们子系统中发现的低效问题。我们应该对哪个殖民地进行系统检查？”
+ zofe_ascendancy_affairs.35.a:0 “§H[event_target:ascendancy_affairs_target_1.GetName]§!”
+ zofe_ascendancy_affairs.35.b:0 “§H[event_target:ascendancy_affairs_target_2.GetName]§!”
+ zofe_ascendancy_affairs.35.c:0 “§H[event_target:ascendancy_affairs_target_3.GetName]§!”
+ zofe_ascendancy_affairs.35.d:0 “§H[event_target:ascendancy_affairs_target_4.GetName]§!”
+ zofe_ascendancy_affairs.35.e:0 “§H[event_target:ascendancy_affairs_target_5.GetName]§!”
+ zofe_ascendancy_affairs.35.f:0 “§H[event_target:ascendancy_affairs_target_6.GetName]§!”
+ zofe_ascendancy_affairs.35.g:0 “§H[event_target:ascendancy_affairs_target_7.GetName]§!”
+ zofe_ascendancy_affairs.35.h:0 “§H[event_target:ascendancy_affairs_target_8.GetName]§!”
+ zofe_ascendancy_affairs.35.i:0 “§H[event_target:ascendancy_affairs_target_9.GetName]§!”
+ zofe_ascendancy_affairs.35.j:0 “§H[event_target:ascendancy_affairs_target_10.GetName]§!”
+ zofe_ascendancy_affairs.35.k:0 “§H[event_target:ascendancy_affairs_target_11.GetName]§!”
+ zofe_ascendancy_affairs.35.l:0 “§H[event_target:ascendancy_affairs_target_12.GetName]§!”
+ zofe_ascendancy_affairs.35.m:0 “§H[event_target:ascendancy_affairs_target_13.GetName]§!”
+ zofe_ascendancy_affairs.35.n:0 “§H[event_target:ascendancy_affairs_target_14.GetName]§!”
+ zofe_ascendancy_affairs.35.o:0 “§H[event_target:ascendancy_affairs_target_15.GetName]§!”
+ zofe_ascendancy_affairs.35.p:0 “§H[event_target:ascendancy_affairs_target_16.GetName]§!”
+ 
+ 
+ 

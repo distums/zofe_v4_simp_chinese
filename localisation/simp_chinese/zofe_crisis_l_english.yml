@@ -1,0 +1,188 @@
+l_simp_chinese:
+
+ 
+ format.original.1:0 “[This.GetSpeciesName] <original_empire_names_1>”
+ 
+ NAME_OE_STAR:0 “荣耀”
+ NAME_OE_WORLD_1:0 《永恒之城》
+ NAME_OE_WORLD_2:0 “信仰堡垒”
+ NAME_OE_WORLD_3:0 “使命堡垒”
+ NAME_OE_WORLD_4:0 《正义堡垒》
+ 
+ NAME_SECRET_OE:0 《古代守护者》
+ NAME_ORIGINAL_EMPIRE:0 《原始帝国》
+  
+ sm_original_empire_hangar_bay:0 《原帝国机库湾》
+ sm_original_empire_hangar_bay_desc:0 "$sm_hangar_bay_desc$"
+ sm_original_empire_shield_disabler:0 “原始帝国护盾禁用器”
+ sm_original_empire_shield_disabler_desc:0 “Original Empire 的 Shield Disabler 会取消其范围内所有敌人的护盾。\n\n§H这项技术属于 Original Empire。§!”
+ sm_original_empire_communications_jammer:0 《原版帝国控制干扰器》
+ sm_original_empire_communications_jammer_desc:0 “Original Empire 的控制干扰器使用奥术技术来禁用其范围内的敌方引擎。\n\n§H这项技术属于 Original Empire。§!”
+ 
+ original_empire_base:0 《原始帝国》
+ original_empire_buff_1:0 《洞察原始帝国1的敌人》
+ original_empire_buff_2:0 《洞察原初帝国2的敌人》
+ 
+ aura_starbase_original_empire_communications_jammer:0 "$offensive_aura$ - $sm_original_empire_communications_jammer$"
+ aura_starbase_original_empire_shield_disabler:0 “$offensive_aura$ - $sm_original_empire_shield_disabler$”
+ 
+ 
+ gov_original_empire_stagnant_ascendancy:0 “$gov_stagnant_ascendancy$”
+ gov_original_empire_stagnant_ascendancy_desc:0 “$gov_stagnant_ascendancy_desc$”
+ gov_original_empire_awakened_ascendancy:0 “原始优势”
+ gov_original_empire_awakened_ascendancy_desc:0 “从阴影中崛起并开始夺回其遗产的原始帝国残余。”
+ civic_original_empire_lethargic_leadership:0 “昏昏欲睡的领导”
+ civic_original_empire_lethargic_leadership_desc:0 “”
+ civic_original_empire_in_decline:0 《没落的帝国》
+ civic_original_empire_in_decline_desc:0 “”
+ civic_original_empire_revanchist_fervor:0 “复仇狂热”
+ civic_original_empire_revanchist_fervor_desc:0 “”
+ civic_original_empire_ancient_caches_of_technology:0 “古老的技术宝库”
+ civic_original_empire_ancient_caches_of_technology_desc:0 “”
+
+ origin_original_empire:0 《原始人》
+ origin_original_empire_desc:0 “在大远征末期逃离战争，少数不为敌人所知的原始人设法逃脱，并在 Glorya 星系上找到了避难所。在面临近乎灭绝的情况下，原始人现在已经回来夺回他们的家园,作为银河系主人的遗产。”
+ 
+ zofe_crisis.3.name:0 “来自 §H[original_empire.GetName]§!”的通讯
+ zofe_crisis.3.desc:0 “在大远征接近尾声时，帝国无敌舰队已成为昔日的影子，在数十年的消耗中耗尽了大部分战斗力。当从外缘执行任务返回时，他们本应穿越友好的太空，,被包围和伏击。为了拯救旗舰，Goliath 获得了优先紧急超光速命令，而其余舰队则将敌人拒之门外。\n\n根据记录，Goliath 设法逃脱了，但在 10000 年后，假设,当我们的信标无法恢复车辆时迷路了。然而，舰队的其余部分就没那么幸运了。几个护卫队设法逃脱了，但其余的都被摧毁了。幸存者随后在附近建立了一个殖民地，当我们听到帝国崩溃的消息时，我们,...隐藏。\n\n你无疑知道，银河系不会善待我们。我们需要隐藏，然后被遗忘。我们想象我们的回归不会被忽视，先行者帝国会看穿,我们的诡计很快。,这就是为什么我们决心在卷入我们自己的冲突之前击败银河威胁。”
+ zofe_crisis.3.desc.a:0 “在大远征接近尾声时，帝国无敌舰队已成为昔日的影子，在数十年的消耗中耗尽了大部分战斗力。当从外缘执行任务返回时，他们本应穿越友好的太空，,被包围和伏击。为了拯救旗舰，Goliath 获得了优先紧急超光速命令，而其余舰队则将敌人拒之门外。\n\n根据记录，Goliath 设法逃脱了，但在 10000 年后，假设,当我们的信标无法恢复车辆时迷路了。然而，舰队的其余部分就没那么幸运了。几个护卫队设法逃脱了，但其余的都被摧毁了。幸存者随后在附近建立了一个殖民地，当我们听到帝国崩溃的消息时，我们,……躲起来。\n\n你肯定知道，银河系不会善待我们。我们需要躲起来，然后被遗忘。我们认为我们的回归不会被忽视，这就是我们下定决心的原因,在我们卷入我们自己的冲突之前击败银河威胁。”
+ zofe_crisis.3.a:0 “我明白了。祝你好运。”
+ 
+ zofe_crisis.5.name:0 “原始帝国的行星结构”
+ zofe_crisis.5.desc:0 “在汇编了我们对 [Root.GetName] 上这些神秘建筑的观察所收集到的更多数据后，我们相信原始帝国实际上拥有高度先进的自动化工业，这与我们所见过的任何事物都不一样。也许我们应该想办法,重新创造这些奇迹技术供我们自己使用。”
+ zofe_crisis.5.a:0 “我们应该研究他们所有的技术。”
+ zofe_crisis.5.b:0 “不行，太费劲了。”
+ 
+ zofe_crisis.1001.name:0 “来自 §H[original_empire.GetName]§!”的通讯
+ zofe_crisis.1001.desc:0 “你好，§H[Root.GetName]§!。\n\n我们是 §H[original_empire.GetName]§!，他们在一场伟大的战争中幸存下来，并在几千年前避难到 [original_empire.solar_system.GetName] 的星系中,...,更多。\n\n我们注意到 [Root.GetSpeciesNamePlural] 还没有掌握 §Y$tech_dark_matter_power_core$§! 的关键技术，很遗憾你们太不发达无法参与我们即将面临的斗争。,也许有一天你会释放 §Y$tech_dark_matter_power_core$§! 的潜力并提升到下一个文明水平。”
+ zofe_crisis.1001.desc.b:0 “你好，§H[Root.GetName]§!。\n\n我们是 §H[original_empire.GetName]§!，几千年前在一场伟大的战争中幸存下来并在 [original_empire.solar_system.GetName] 的星系中避难,...,更多。\n\n我们注意到 [Root.GetSpeciesNamePlural] 已经掌握了 §Y$tech_dark_matter_power_core$§! 的关键技术，看到 §H[Root.GetName]§! 在银河事务中发挥积极作用令人鼓舞,. §H[Root.GetName]§! 的舰队无疑将在我们即将面临的斗争中发挥重要作用。\n\n我们的舰队正在集结，当他们准备就绪时，我们将,加入你的战斗。在那之前，也许还有其他事情你可以帮助我们加快进程。
+ zofe_crisis.1001.desc.c:0 “你好，§H[Root.GetName]§!。\n\n我们是 §H[original_empire.GetName]§!，他们在一场伟大的战争中幸存下来，并在几千年前避难到 [original_empire.solar_system.GetName] 的星系中,...,更多。\n\n我们注意到 [Root.GetSpeciesNamePlural] 已经掌握了 §Y$tech_dark_matter_power_core$§! 的关键技术，但此后不再在银河事务中发挥积极作用。我们可以提醒 §H[ ,Root.GetName]§! 能力越大，责任越大，保卫银河免遭无法逃脱的风暴也是你的责任。\n\n我们说话的时候正在集结我们的舰队，当他们准备就绪时，我们,将与你并肩作战。在那之前，也许还有其他事情你可以帮助我们加快进程。”
+ zofe_crisis.1001.desc.d:0 “你好，[Root.GetSpeciesNamePlural] 同胞。\n\n和你一样，我们是原始帝国的后裔，也是几千年前在 [original_empire.solar_system.GetName] 星系避难的大远征的幸存者，以及最近的发展,让我们别无选择，只能在这个危机时刻暴露自己。这个威胁比许多人意识到的要大，保护银河系免受此类威胁始终是原始帝国的职责。\n\n我们注意到你有,设法找到§Y黄金城§!...参观古都是什么感觉？那一定是一个壮观的景象。未来，我们想派一个考古队去那里了解更多关于我们过去的信息，,因为我们的文化已经丢失了很多。\n\n但首先，我们有重要的业务。我想我们都有一场危机要解决，还有一些旧仇要解决。”
+ zofe_crisis.1001.desc.e:0 “听着，黑暗之仆。\n\n我们是 §H[original_empire.GetName]§!，他们在一场伟大的战争中幸存下来，并在几千年前避难到 [original_empire.solar_system.GetName] 的星系中，最近的发展离开了,我们别无选择，只能再次现身。在你所看到的空旷星系中没有未来，[Root.GetSpeciesNamePlural]。我们是来阻止你的。绝不能允许黑暗的仆从取得胜利。\n\n忏悔吧，,为了所有的造物，为了一切美好的事物，我们可以避免消灭你们毫无价值的帝国。”
+ zofe_crisis.1001.a:0 “你能和我们分享你的技术秘密吗？”
+ zofe_crisis.1001.b:0 “承认了。”
+ zofe_crisis.1001.c:0 “我们会接受建议。”
+ zofe_crisis.1001.d:0 “可是……这怎么可能？”
+ zofe_crisis.1001.e:0 “我们比你想象的更强大。”
+ 
+ zofe_crisis.1003.name:0 “来自 §H[original_empire.GetName]§!”的通讯
+ zofe_crisis.1003.desc:0 “再次问候，[Root.GetSpeciesNamePlural]。\n\n§H[original_empire.GetName]§! 意识到在过去的 10000 年里发生了很多我们已经离开的事情，但我们渴望填补我们知识上的空白,为了了解我们现在面临的威胁的每一个细节。我们知道 §H[Root.GetName]§! 仍然是一个年轻的文明，但我们了解得越多，我们就能越快地派遣我们的舰队充满信心地战斗,了解我们敌人的所有弱点。\n\n为了换取围绕过去 10000 年银河历史的历史记录、先驱活动、银河天气报告以及敌对太空生物的最新位置，我们将提供 §H[Root. ,GetName]§! 来自我们帝国收藏的珍贵文物。我们相信您的 [GetScientistPlural] 会发现它们最有趣。”
+ zofe_crisis.1003.desc.a:0 “再次问候，[Root.GetSpeciesNamePlural] 同胞。\n\n我们意识到在过去的 10000 年里发生了很多我们离开的事情，但我们渴望填补我们知识上的空白，以便了解周围的每一个细节,我们现在面临的威胁。我们对 §H[Root.GetName]§! 的了解可能并不比我们知道的多，但我们知道的越多，我们就能越早地派出我们的舰队去战斗，并充满信心地了解所有,我们敌人的弱点。\n\n为了交换任何关于过去 10000 年的银河历史、先驱活动、银河天气报告和敌对太空生物的最新位置的信息，我们将提供 §H[Root.GetName]§ ,！来自我们皇家收藏的珍贵文物。我们相信它们会帮助您拼凑更多我们的过去。”
+ zofe_crisis.1003.a: “交易。”
+ zofe_crisis.1003.b: “保留你的遗物。我们的信息是我们自己的。”
+ zofe_crisis.1003.c: “交易。”
+ zofe_crisis.1003.d: “保留你的遗物。我们不是在帮你。”
+ 
+ original_empire_happy_tooltip:0 “§H[original_empire.GetName]§! 会很高兴，并可能在未来对我们表示好感。”
+ original_empire_unhappy_tooltip:0 “§H[original_empire.GetName]§! 会不高兴的。”
+ original_empire_tasks.1.tooltip:0 “§H[Root.GetSpeciesName] Pop§! 将从您的帝国中夺走。”
+ original_empire_tasks.2.tooltip:0 “§H[original_empire.GetName]§! 将在 [Root.Capital.GetName] 建立永久军事存在。”
+ fallen_empire_warning_happy_tooltip:0 “§H[fallen_empire_warner.GetName]§! 会很高兴，并可能在未来对我们表示好感。”
+ fallen_empire_warning_unhappy_tooltip:0 “§H[fallen_empire_warner.GetName]§! 会不高兴的。”
+ fallen_empire_recruitment_happy_tooltip:0 “§H[From.GetName]§! 会很高兴，将来可能会对我们表示好感。”
+ fallen_empire_recruitment_unhappy_tooltip:0 “§H[From.GetName]§! 会不高兴的。”
+ 
+ 
+ zofe_crisis.1005.name:0 “来自 §H[fallen_empire_warner.GetName]§!”
+ zofe_crisis.1005.desc:0 “§H[Root.GetName]§! 将信徒背叛给了自称为 §H[original_empire.GetName]§! 的异教徒。你不知道你煽动了哪些黑暗势力，并可能给我们所有人带来战争,.\n\n不要再与 §H[original_empire.GetName]§! 联系，否则你的违法行为将受到我们迅速而无尽的报复。”
+ zofe_crisis.1005.desc.aa:0 “§H[Root.GetName]§! 将信徒背叛给了自称为 §H[original_empire.GetName]§! 的异教徒。你不知道你煽动了哪些黑暗势力，并可能给我们所有人带来战争,.你认为你的家乡世界总是支离破碎吗？你的所作所为是对你死在那里的所有祖先的公然不尊重，他们死于一个不能被命名的邪恶帝国。\n\n不要与 §H[original_empire ,.GetName]§! 又一次——他们是你的克星，还是你忘了？”
+ zofe_crisis.1005.desc.aaa:0 “§H[Root.GetName]§! 将信徒背叛给了自称为 §H[original_empire.GetName]§! 的异教徒。你不知道你煽动了哪些黑暗势力，并可能给我们所有人带来战争,. 或许 [Root.GetSpeciesNamePlural] 应该自杀；虽然你祖先的罪恶在你的血管中流淌，但 [Root.GetSpeciesNamePlural] 的灵魂无法得救。\n\n不要与 §H[original_empire.GetName ,]§! 再一次，否则你的过犯将遭到我们迅速但无尽的报复。”
+ zofe_crisis.1005.desc.b:0 “我们注意到，§H[Root.GetName]§! 最近与一个名为 §H[original_empire.GetName]§! 的帝国进行了交易，并且在此过程中，可能已经移交了关于,[fallen_empire_warner.GetSpeciesAdj] 在过去 10000 年的活动。\n\n根据我们的档案，这个 §H[original_empire.GetName]§! 曾经是历史上最 §Revil§! 的帝国，无论他们声称,现在，他们肯定不可信。请不要再与他们打交道，尤其是有关 §H[fallen_empire_warner.GetName]§! 的信息。\n\n我们都处于危险之中。”
+ zofe_crisis.1005.desc.bb:0 “我们注意到，§H[Root.GetName]§! 最近与一个名为 §H[original_empire.GetName]§! 的帝国进行了交易，并且在此过程中，可能已经移交了关于,[fallen_empire_warner.GetSpeciesAdj] 在过去 10000 年的活动。\n\n根据我们的档案，这个 §H[original_empire.GetName]§! 曾经是历史上最 §Revil§! 的帝国，犯下了令人发指的战争罪行,以及横跨银河系的种族灭绝，你的祖先是受害者之一。无论他们现在声称是什么，他们肯定是不可信的。请不要再与他们打交道，尤其是关于 §H[fallen_empire_warner.GetName]§! 的信息。 ,\n\n我们都处于危险之中。”
+ zofe_crisis.1005.desc.bbb:0 “我们注意到，§H[Root.GetName]§! 最近与一个名为 §H[original_empire.GetName]§! 的帝国进行了交易，并且在此过程中，可能已经移交了关于,[fallen_empire_warner.GetSpeciesAdj] 在过去 10000 年的活动。\n\n根据我们的档案，这个 §H[original_empire.GetName]§! 曾经是历史上最 §Revil§! 的帝国，但我想 [ ,Root.GetSpeciesNamePlural] 已经知道了，因为那些 §Revil§! 特征和 DNA 从未离开过。然而，它们是不可信任的。请不要再与它们打交道，尤其是有关 §H[fallen_empire_warner.GetName]§! 的信息。 ,.\n\n或者我们会回应。”
+ zofe_crisis.1005.desc.c:0 “愚蠢的孩子！你做了什么？\n\n自称为 §H[original_empire.GetName]§! 的帝国并不是它所声称的仁慈力量。[Root.GetSpeciesNamePlural] 可能因为他们对,银河历史，但你的轻信已将银河系的其他部分置于危险之中。如果 §H[original_empire.GetName]§! 再次来找你获取信息，请拒绝并永远不再与他们交谈。\n\n这是给你的,自己的好。”
+ zofe_crisis.1005.desc.cc:0 “愚蠢的 [Root.GetSpeciesNamePlural]！你做了什么？\n\n自称为 §H[original_empire.GetName]§! 的帝国并不是它声称的仁慈力量。[Root.GetSpeciesNamePlural] 可能会被原谅,因为他们对银河历史的无知，但你肯定不能不知道他们是你祖先毁灭的罪魁祸首。如果 §H[original_empire.GetName]§! 再次来找你询问信息，请拒绝,永远不要再和他们说话。\n\n这是为了你好。”
+ zofe_crisis.1005.desc.ccc:0 “愚蠢的 [Root.GetSpeciesNamePlural]！你做了什么？\n\n自称为 §H[original_empire.GetName]§! 的帝国并不是它声称的仁慈力量。虽然我猜你已经知道了，鉴于,你可怕的祖先犯下的残暴罪行。如果 §H[original_empire.GetName]§! 再次来找你询问信息，请拒绝并永远不要再与他们交谈。\n\n这是为了你好。"
+ zofe_crisis.1005.desc.d:0 “你怎么敢？\n\n当这个所谓的 §H[original_empire.GetName]§! 回到银河系时，§H[Root.GetName]§! 应该通知 §H[fallen_empire_warner.GetName]§!,立即。现在你已经危及我们的国家安全，也许我们所有人都在劫难逃。\n\n永远不要再联系 §H[original_empire.GetName]§! 否则我们将不得不考虑你与他们结盟。\n\n对你的后果,确实会很严重。”
+ zofe_crisis.1005.desc.dd:0 “你怎么敢？\n\n当这个所谓的 §H[original_empire.GetName]§! 回到银河系时，§H[Root.GetName]§! 应该通知 §H[fallen_empire_warner.GetName]§!,立即。现在你已经危及我们的国家安全，也许我们所有人都在劫难逃。你不知道他们对你的祖先做了什么吗？摧毁了整个古老的种族，那些§H[original_empire.GetName]§!。\n\n从来没有,再次联系 §H[original_empire.GetName]§! 否则我们将不得不考虑你与他们结盟。\n\n你的后果确实很严重。"
+ zofe_crisis.1005.desc.ddd:0 “你怎么敢？\n\n当这个所谓的 §H[original_empire.GetName]§! 回到银河系时，§H[Root.GetName]§! 应该通知 §H[fallen_empire_warner.GetName]§!,立即。现在你已经危及我们的国家安全，也许我们所有人都在劫难逃。或者你可能与他们结盟并成为他们回归的工具？毕竟，人们对你毫无价值的 [Root.GetSpeciesNamePlural] 的期望不会低于此。\n ,\n永远不要再与 §H[original_empire.GetName]§! 分享我们的秘密，否则你的后果将非常严重。"
+ zofe_crisis.1005.a:0 “很好，以后我们小心点。”
+ zofe_crisis.1005.b:0 “我们拒绝。§H[fallen_empire_warner.GetName]§! 不会告诉我们该怎么做。”
+ 
+ zofe_crisis.1006.name:0 “来自 §H[fallen_empire_warner.GetName]§!”
+ zofe_crisis.1006.desc:0 “§H[Root.GetName]§! 已经向信徒们证明了，即使是最年轻的帝国也可以抵抗被称为 §H[original_empire.GetName]§! 的异端。你不知道你保留了哪些黑暗势力,在海湾，银河系是一个更安全的地方。\n\n但是不要再与 §H[original_empire.GetName]§! 接触，因为他们很狡猾，我们不确定他们肯定有什么险恶的意图。
+ zofe_crisis.1006.desc.aa:0 “§H[Root.GetName]§! 已经向信徒们证明了，被称为 §H[original_empire.GetName]§! 的异教徒是可以被抵抗的。你们的明智决定与你们的祖先一样，他们反对暴政,这个帝国如此 §Revil§! 以至于我们永远不能为了银河系的缘故说出它的名字。\n\n你不知道你阻止了什么黑暗势力，而银河系是一个更安全的地方。你的祖先本来是,骄傲。\n\n不要再与 §H[original_empire.GetName]§! 接触，因为他们很狡猾，我们不确定他们一定有什么险恶的意图。”
+ zofe_crisis.1006.desc.aaa:0 “§H[Root.GetName]§! 已经向信徒们证明了被称为 §H[original_empire.GetName]§! 的异端甚至可以被 [Root.GetSpeciesNamePlural] 所抵抗。你很清楚什么是黑暗,你已经阻止的力量，银河系是一个更安全的地方。\n\n不要再与 §H[original_empire.GetName]§! 接触，因为他们很狡猾，我们不确定他们一定有什么险恶的意图,具有。”
+ zofe_crisis.1006.desc.b:0 “我们注意到，§H[Root.GetName]§! 最近接触了一个名为 §H[original_empire.GetName]§! 的帝国，并在此过程中拒绝交出关于 [ ,fallen_empire_warner.GetSpeciesAdj] 在过去 10000 年的活动。\n\n根据我们的档案，这个 §H[original_empire.GetName]§! 曾经是历史上最 §Revil§! 的帝国，无论他们声称是什么,现在，他们肯定不值得信任。§H[fallen_empire_warner.GetName]§!感谢 [Root.GetSpeciesNamePlural] 做出了正确的决定，因为你们拯救了无数 [fallen_empire_warner.GetSpeciesAdj] 的生命。\n\n我们建议,但是，如果 §H[original_empire.GetName]§! 再次与您联系，请格外小心。”
+ zofe_crisis.1006.desc.bb:0 “我们注意到，§H[Root.GetName]§! 最近接触了一个名为 §H[original_empire.GetName]§! 的帝国，并在此过程中拒绝交出关于 [ ,fallen_empire_warner.GetSpeciesAdj] 在过去 10000 年的活动。\n\n根据我们的档案，这个 §H[original_empire.GetName]§! 曾经是历史上最 §Revil§! 的帝国，并直接对,大远征期间 [Root.GetSpeciesAdj] 家园世界的毁灭。§H[fallen_empire_warner.GetName]§! 感谢 [Root.GetSpeciesNamePlural] 做出的正确决定，因为你们拯救了无数 [fallen_empire_warner.GetSpeciesAdj] 的生命。,你祖先的牺牲和你的行为将被铭记。\n\n如果 §H[original_empire.GetName]§! 再次联系你，我们建议你格外小心，然而。他们肯定是有原因的回来了，我们怀疑这是好事,”
+ zofe_crisis.1006.desc.bbb:0 “我们注意到，§H[Root.GetName]§! 最近接触了一个名为 §H[original_empire.GetName]§! 的帝国，并在此过程中拒绝交出关于 [ ,fallen_empire_warner.GetSpeciesAdj] 在过去 10000 年的活动。\n\n根据我们的档案，这个 §H[original_empire.GetName]§! 曾经是历史上最 §Revil§! 的帝国，我们认为这应该已经很普遍了,§H[Root.GetSpeciesAdj]§! 人口中的知识。让我们欣慰的是，并非所有 [Root.GetSpeciesNamePlural] 都会恢复他们的兽性。\n\n如果您与 §H 联系，我们建议您格外小心,然而，[original_empire.GetName]§! 又来了。”
+ zofe_crisis.1006.desc.c:0 “了不起的孩子！\n\n抵抗现在自称为§H[original_empire.GetName]§!的帝国的暴政一定需要多大的勇气。他们有一段黑暗的历史，那些[original_empire.GetSpeciesNamePlural]，以及他们的,回归是……最令人不安的消息。\n\n如果 §H[original_empire.GetName]§! 再次来找你询问信息，请拒绝并永远不再与他们交谈。\n\n这是为了你好。
+ zofe_crisis.1006.desc.cc:0 “你这个了不起的[Root.GetSpeciesNamePlural]！\n\n再次反抗现在自称为§H[original_empire.GetName]§!的帝国的暴政一定需要多大的勇气。他们有一段黑暗的历史，那些[ ,original_empire.GetSpeciesNamePlural]，他们的回归是……最令人不安的消息。绝不能允许他们腐败的影响蔓延，我担心，到时候，你们将不得不做出与你们几千年前的祖先一样的牺牲,.\n\n如果 §H[original_empire.GetName]§! 再次来找你询问信息，请拒绝并永远不要再与他们交谈。\n\n这是为了你好。
+ zofe_crisis.1006.desc.ccc:0 “你这个了不起的 [Root.GetSpeciesNamePlural]！\n\n抵抗现在自称为 §H[original_empire.GetName]§! 的帝国的暴政一定需要多大的勇气。毫无疑问，你知道，你和,§H[original_empire.GetName]§! 有一段黑暗的历史。非常黑暗。而这个 §H[original_empire.GetName]§! 的回归是......最令人不安的消息。你们中有多少人仍然隐藏着这一切,时间？[original_empire.GetSpeciesNamePlural] 应该几乎灭绝了。\n\n无论如何，如果 §H[original_empire.GetName]§! 再次来找你获取信息，请拒绝并永远不再与他们交谈。\n\ ,n这是为你好。
+ zofe_crisis.1006.desc.d:0 “真令人惊讶。\n\n不过，当这个所谓的 §H[original_empire.GetName]§! 回到银河系时，§H[Root.GetName]§! 应该通知 §H[fallen_empire_warner.GetName]§ ,!立即。但你还没有通过向 §H[original_empire.GetName]§! 出售信息来危害我们的国家安全，为此，我们很感激。\n\n永远不要联系 §H[original_empire.GetName]§!,然而，再说一遍，因为在任何情况下都不可信任他们。”
+ zofe_crisis.1006.desc.dd:0 “这是一个明智的决定，§Y[Root.GetRulerTitle] [Root.GetRulerName]§!。\n\n不过，当这个所谓的 §H[original_empire.GetName]§! 回到银河系时，§H[ ,Root.GetName]§! 应该立即通知 §H[fallen_empire_warner.GetName]§!。我们现在看到 [Root.GetSpeciesNamePlural] 仍然忠于他们的根源，我们只要求，当时机成熟时，[ ,Root.GetSpeciesNamePlural] 会像你的祖先曾经做过的那样做出必要的牺牲来拯救银河系。\n\n我们向你保证我们的救援部队这次会到达。做必须做的事，[Root.GetSpeciesNamePlural]，祝你好运,”
+ zofe_crisis.1006.desc.ddd:0 “真令人惊讶。\n\n不过，当这个所谓的 §H[original_empire.GetName]§! 回到银河系时，§H[Root.GetName]§! 应该通知 §H[fallen_empire_warner.GetName]§ ,!立即。但你还没有通过向 §H[original_empire.GetName]§! 出售信息而危及我们的国家安全，为此，我们很感激。\n\n也许到时候，你会反对 § ,H[original_empire.GetName]§! 为你的罪行赎罪，并在历史学家将在未来几千年中谈论的最后一战中互相毁灭。\n\n做必须做的事，[Root.GetSpeciesNamePlural]，祝你好运,”
+ zofe_crisis.1006.a:0 “[Root.GetSpeciesNamePlural] 没那么容易被愚弄。”
+ zofe_crisis.1006.b:0 “也许我们应该帮助 §H[original_empire.GetName]§!。”
+ 
+ zofe_crisis.1008.name:0 “来自 §H[original_empire.GetName]§!”的通讯
+ zofe_crisis.1008.desc:0 “再次问候，[Root.GetSpeciesNamePlural]。\n\n自从我们上次谈话以来，我们在调动后备力量方面取得了良好进展，但我们仍然需要更多关于我们盟友优势和劣势的信息，以便最好地帮助他们,战场。我们希望你明白 §H[original_empire.GetName]§! 不会留下任何机会，尤其是在危机时期。\n\n作为交换你的一部分人口进行研究，我们将提供 §H[ ,Root.GetName]§! 一组蓝图，其中包含有关我们§YOmni 武器§! 的有用信息，以及慷慨的资源捐赠，以帮助维持当前的战争努力。你会考虑我们的提议吗？
+ zofe_crisis.1008.desc.a:0 “再次问候，[Root.GetSpeciesNamePlural] 同胞。\n\n自从我们上次谈话以来，我们在动员我们的储备方面取得了良好进展，但我们仍然需要更多关于每个帝国的优势和劣势的信息，以便最好地帮助他们,战场。我们希望你明白，我们不会留下任何侥幸心理，尤其是考虑到过去发生的事情。\n\n为了换取你关于银河系其他帝国作战能力的信息，我们将提供 §H[Root. ,GetName]§!慷慨捐赠资源，以帮助维持当前的战争努力。你会考虑我们的提议吗？”
+ zofe_crisis.1008.a:0 “交易。”
+ zofe_crisis.1008.b:0 “没有交易。我们不会放弃我们的人口。”
+ zofe_crisis.1008.c:0 “其他先驱帝国警告过我们关于你的事。”
+ zofe_crisis.1008.d:0 “你会为你对我们祖先所做的一切负责！”
+ zofe_crisis.1008.e:0 “交易。”
+ zofe_crisis.1008.f:0 “不，我们不是在帮你。”
+ 
+ zofe_crisis.1009.name:0 “来自 §H[original_empire.GetName]§!”的通讯
+ zofe_crisis.1009.desc:0 “啊，毫无疑问，经过这么长时间，先行者帝国仍然对我们的人民怀有仇恨。好吧……我们怀疑他们会分享完整的故事，但他们是摧毁我们家园世界的罪魁祸首，几乎将我们的国家从中抹去了,银河系的面貌。我们从他们的远征中幸存下来完全是机缘巧合，仅此而已。\n\n我们的复兴一定给他们带来了极大的麻烦，但请理解，如果银河系不在，我们就不会冒险暴露自己。,需要我们的帮助。像我们一样了解先行者帝国，在他们采取行动之前，半个银河系都会陷入火海。他们是投机取巧的背叛者，虽然我们有很多东西，但我们不是。\n\n所以...,我们有协议吗？”
+ zofe_crisis.1009.desc.a:0 “啊，毫无疑问，经过这么长时间，先行者帝国仍然对我们的人民怀有仇恨。你知道，他们是摧毁我们家园世界的罪魁祸首，几乎将我们从银河系中抹去。我们在他们的十字军东征中幸存下来,完全是机缘巧合而已。\n\n虽然 §H[Root.GetName]§! 的存在是我们所不具备的知识，但请理解，如果银河系不需要我们，我们就不会冒险并暴露自己,我们的帮助。像我们一样了解先行者帝国，在他们采取行动之前，半个银河系都会陷入火海。他们是投机取巧的背叛者，虽然我们有很多东西，但我们不是。\n\n所以...将...,你给了我们需要的信息？”
+ zofe_crisis.1009.a:0 “交易。”
+ zofe_crisis.1009.b:0 “没有交易。我们不会放弃我们的人口。”
+ zofe_crisis.1009.c:0 “你会为你对我们祖先所做的一切负责！”
+ zofe_crisis.1009.d:0 “好吧。”
+ zofe_crisis.1009.e:0 “不可能。我们不是在帮你。”
+ zofe_crisis.1009.f:0 “你不打算挑起战争，是吗？”
+ 
+ 
+ zofe_crisis.1010.name:0 “来自 §H[original_empire.GetName]§!”的通讯
+ zofe_crisis.1010.desc:0 “…………”
+ zofe_crisis.1010.a:0 “…………”
+ zofe_crisis.1010.b:0 “结束通讯。”
+ 
+ zofe_crisis.1012.name:0 “来自 §H[original_empire.GetName]§!”的通讯
+ zofe_crisis.1012.desc:0 “再次问候，[Root.GetSpeciesNamePlural]。\n\n我们的准备工作几乎完成，但在 §H[original_empire.GetName]§! 开战之前，我们必须讨论一些事情。\n\n不幸的是，它在我们的,当我们最脆弱时——也就是说，当我们在前线作战时，一些阴险的、投机取巧的帝国可能会攻击我们的后方。为了防范这种威胁，我们或许可以提供帮助。\n\n如果 §Y[ ,Root.GetRulerTitle] [Root.GetRulerName]§! 允许 §H[original_empire.GetName]§! 在 [Root.Capital.GetName] 建立军事基地，我们将派遣一支驻军舰队和 §H[Root.GetName] ,]§! 将享受来自 §H[original_empire.GetName]§! 的保护，免受未来所有威胁。”
+ zofe_crisis.1012.desc.a:0 “再次问候，[Root.GetSpeciesNamePlural] 同胞。\n\n我们的准备工作几乎完成，但在我们开战之前，我们必须讨论一些事情。\n\n不幸的是，历史告诉我们，一些阴险的、投机取巧的帝国有可能,在我们最脆弱的时候攻击我们的后方——也就是说，当我们在前线作战时。为了防范这种威胁，我们也许可以提供帮助。\n\n如果 §Y[Root.GetRulerTitle] [Root.GetRulerName] ,§! 允许我们在 [Root.Capital.GetName] 上建立一个军事基地，我们将派遣一支驻军舰队，而 §H[Root.GetName]§! 将享受针对所有未来威胁的额外保护。”
+ zofe_crisis.1012.a:0 “我们欢迎 §H[original_empire.GetName]§! 的保护。”
+ zofe_crisis.1012.b:0 “我们不需要 §H[original_empire.GetName]§! 的保护。”
+ zofe_crisis.1012.c:0 “我们欢迎您帮助保卫 [Root.Capital.GetName]。”
+ zofe_crisis.1012.d:0 “我们可以保护自己。”
+ 
+ zofe_crisis.1014.name:0 “来自 §H[From.GetName]§ 的通讯！”
+ zofe_crisis.1014.desc:0 “神灵告诉我们，§H[original_empire.GetName]§! - 我们的敌人 - 几乎完成了准备，即将对银河系发动全面进攻。我们必须集结力量与这些异教徒交锋一次,更多，我们向 §H[Root.GetName]§! 寻求帮助。\n\n时机成熟时，[Root.GetSpeciesNamePlural] 会加入 [From.GetSpeciesNamePlural] 讨伐这个大恶魔吗？
+ zofe_crisis.1014.desc.aa:0 “神灵告诉我们，§H[original_empire.GetName]§!——我们的敌人——几乎已经完成了准备，即将对银河系发动全面进攻。我们必须集结力量与这些异教徒交锋一次,更多，我们向 §H[Root.GetName]§! 寻求帮助。\n\n当时机成熟时，我们希望 [Root.GetSpeciesNamePlural] 遵守他们在千年前签署的条约，向我们提供援助，并加入,[From.GetSpeciesNamePlural] 在他们的十字军东征中对抗这个巨大的邪恶。”
+ zofe_crisis.1014.desc.aaa:0 “神灵告诉我们，§H[original_empire.GetName]§!——我们的敌人——几乎已经完成了准备，即将对银河系发动全面进攻。我们必须集结力量与这些异教徒交锋一次,更多，我们向 §H[Root.GetName]§! 寻求帮助。\n\n时机成熟时，[Root.GetSpeciesNamePlural] 是否会加入 [From.GetSpeciesNamePlural] 以对抗 §HOriginal 的暴政,帝国§！？”
+ zofe_crisis.1014.desc.b:0 “§H[original_empire.GetName]§! 一年比一年强大，这是 §H[From.GetName]§! 不能再忽视的事情。\n\n曾经，我们的祖先摧毁了§H原始帝国§ ,！为了银河系的更大利益，我们将毫不犹豫地再次这样做。你愿意加入我们这项崇高的任务吗？”
+ zofe_crisis.1014.desc.bb:0 “§H[original_empire.GetName]§! 一年比一年强大，这是 §H[From.GetName]§! 不能再忽视的事情。\n\n曾经，我们的祖先和你的祖先摧毁了 §HOriginal,帝国§! 为了银河系的更大利益，我们将毫不犹豫地再次这样做。我们特此援引你们几千年前签署的条约——如果你们忘记了你们的承诺——当战斗开始时，你们将向我们提供援助。 ,“
+ zofe_crisis.1014.desc.bbb:0 “§H[original_empire.GetName]§! 一年比一年强大，这是 §H[From.GetName]§! 不能再忽视的事情。\n\n曾经，我们的祖先摧毁了§H原始帝国§ ,！为了银河系的更大利益，我们将毫不犹豫地再次这样做。你愿意和我们一起完成这项崇高的任务并为你的罪行赎罪吗？”
+ zofe_crisis.1014.desc.c:0 “尽管 §H[original_empire.GetName]§! 拥有强大的力量、他们的麻烦过去以及他们造成的所有苦难，但他们一无所获。我们的分析家说他们即将对整个银河系发动全面进攻，并且,[From.GetSpeciesNamePlural] 将再次在战斗中与他们相遇，就像我们之前的祖先一样。\n\n当时机成熟时，§H[Root.GetName]§! 会联手阻止邪恶的浪潮吗？”
+ zofe_crisis.1014.desc.cc:0 “尽管 §H[original_empire.GetName]§! 拥有强大的力量、他们的麻烦过去以及他们造成的所有苦难，但他们一无所获。我们的分析家说他们即将对银河系发动全面进攻，并且,[From.GetSpeciesNamePlural] 将再次在战斗中与他们相遇，就像我们之前的祖先一样。\n\n我们想提醒你千年前签署的条约，当时机成熟时，§H[Root.GetName] ,§! 联合起来帮助遏制邪恶的浪潮。”
+ zofe_crisis.1014.desc.ccc:0 “尽管 §H[original_empire.GetName]§! 拥有强大的力量、他们的麻烦过去以及他们造成的所有苦难，但他们一无所获。我们的分析家说他们即将对银河系发动全面进攻，并且,[From.GetSpeciesNamePlural] 将再次在战斗中与他们相遇，就像我们之前的祖先一样。§H 原始帝国§! 的压迫绝不能重现。\n\n当时机成熟时，§H[Root.GetName] 会不会,§! 联手阻止邪恶的浪潮？”
+ zofe_crisis.1014.desc.d:0 “够了。\n\n§H[From.GetName]§! 不能再站在边界后面看着 §H[original_empire.GetName]§! 不断壮大。他们是对银河秩序的威胁，并且,必须在它们溃烂之前将其移除。\n\n你能帮我们把这些§H原始的§!渣滓从这个星系的表面擦掉吗？
+ zofe_crisis.1014.desc.dd:0 “够了。\n\n§H[From.GetName]§! 不能再站在边界后面看着 §H[original_empire.GetName]§! 不断壮大。他们是对银河秩序的威胁，并且,必须在它们恶化之前将其移除。\n\n我们特此援引你们几千年前签署的条约，该条约迫使你们的国家帮助我们从这个银河系的表面抹去这些§H原始的§!渣滓。”
+ zofe_crisis.1014.desc.ddd:0 “够了。\n\n§H[From.GetName]§! 不能再站在边界后面看着 §H[original_empire.GetName]§! 不断壮大。他们是对银河秩序的威胁，并且,必须在它们溃烂之前将其移除。\n\n你能帮我们把这些 §HOriginal§! 的渣滓从这个星系的表面擦掉吗？§H[Root.GetName]§! 将是一道伟大的第一道防线。”
+ zofe_crisis.1014.a:0 “我们将与你们一起打败这个威胁。”
+ zofe_crisis.1014.b:0 “这听起来像是你的问题，而不是我们的。”
+ zofe_crisis.1014.c:0 “很好，我们会遵守先祖所立的条约。”
+ zofe_crisis.1014.d:0 “恐怕我们无法履行条约义务。”
+ zofe_crisis.1014.e:0 “我们将加入你们，为我们的罪行赎罪。”
+ zofe_crisis.1014.f:0 “我们不会与 [original_empire.GetSpeciesNamePlural] 同胞作战。”
+
+ zofe_crisis.1017.name:0 “来自 §H[original_empire.GetName]§!”的通讯
+ zofe_crisis.1017.desc:0 “正如我们所担心的那样。\n\n先行者帝国正准备在此时此刻对我们发起一场十字军东征，而我们的时间非常有限。§H[Root.GetName]§! 会在,时间到了，还是你会胆小，直到先行者也来找你？”
+ zofe_crisis.1017.a:0 “我们将保卫 §​​H[original_empire.GetName]§!。”
+ zofe_crisis.1017.b:0 “我们不敢对抗先驱帝国的强大。”
+ 
+ zofe_crisis.1122.name:0 “来自 §H[original_empire.GetName]§!”的通讯
+ zofe_crisis.1122.desc:0 “再次问候，[Root.GetSpeciesNamePlural]。\n\n你现在无疑已经意识到，我们是原始帝国的残余，所有堕落帝国的祖先。几十万年来，我们保护了银河系免受,生存威胁和外来入侵者，除了从我们的保护中受益的人的忠诚和敬意外，不求任何回报。现在我们已经恢复了力量，是时候收回那份遗产，并宣布 §H[original_empire 的回归了,.GetName]§!。\n\n接受 §H[original_empire.GetName]§! 作为你的新霸主，你将不会受到伤害。成为我们忠诚的仆人并向我们的人民表示敬意，你将得到回报。\n ,\n不服从，你将面对 §H[original_empire.GetName]§! 的全部力量。”
+ zofe_crisis.1122.desc.a:0 “再次问候，[Root.GetSpeciesNamePlural] 同胞。\n\n几十万年来，原始帝国一直保护银河系免受生存威胁和外来入侵者的侵害，除了对受益于我们保护的人的忠诚和崇敬外，不求任何回报,.你现在可能已经知道了，我们是原始帝国中更加军国主义的分支，所以这个责任落在了我们身上。现在我们的舰队已经恢复了力量，是时候收回我们的遗产并宣布回归了,§H[original_empire.GetName]§! 的成员。\n\n最终，我们希望看到 [Root.GetSpeciesAdj] 人民重新统一为一个国家，受到银河系所有帝国的尊敬和嫉妒。但对于,现在有敌人要打，有新的帝国要收服。\n\n§Y[Root.GetRulerTitle] [Root.GetRulerName]§! 会允许 §H[original_empire.GetName]§! 成为 §H 的霸主吗,[From.GetName]§! 直到我们的银河征服完成？你将作为 $preset_original_empire_special_subject$ 和 §Y[Root.GetRulerTitle] [Root.GetRulerName]§! 享受我们的军事保护。,当您的内政仍属于您自己时，您将继续担任统治者。”
+ zofe_crisis.1122.a:0 “我们接受 §H[original_empire.GetName]§! 作为我们的霸主。”
+ zofe_crisis.1122.b:0 “我们不需要你们所谓的‘保护’。”
+ zofe_crisis.1122.c:0 “[Root.GetSpeciesNamePlural] 将重新统一。”
+ zofe_crisis.1122.d:0 “我们对银河系有不同的看法。我们的道路是分开的。”
+ 
+ 
+
+
+

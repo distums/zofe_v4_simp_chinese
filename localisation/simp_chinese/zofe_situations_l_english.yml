@@ -7,7 +7,7 @@ l_simp_chinese:
  situation_zofe_ascension_monthly_change_tooltip:0 “这种§Y情况§!的进展取决于我们选择的§Y方法§!。增加我们的投资以加速扬升过程。”
  
  zofe_ascension_stage_0_tooltip:0 “社会各阶层都将动员起来，为 §Y$tech_dark_matter_power_core$§! 的发现所带来的革命做好准备。”
- zofe_ascension_stage_1_tooltip:0 “使用一种高级形式的暗物质操纵，先驱者对技术的掌握使整个行业能够自主运行，让他们的人民以自主和享乐的方式度过余生。\n\n如果我们致力于研究,如何以这种方式操纵暗物质，我们将能够复制和重建这些技术奇迹，以实现完全高效的经济。”
+ zofe_ascension_stage_1_tooltip:0 “使用一种高级形式的暗物质操纵，先驱者对技术的掌握使整个行业能够自主运行，使他们的人民能够以自主和享乐的方式度过余生。\n\n如果我们致力于研究,如何以这种方式操纵暗物质，我们将能够复制和重建这些技术奇迹，以实现完全高效的经济。”
  zofe_ascension_stage_2_tooltip:0 “在文明的顶峰，公民们被一个单一的、狂热的理想团结在一起。在他们雷鸣般的掌声中，我们的社会将发生转变，为我们的扬升社会解锁新的公民和建筑。”
  zofe_ascension_stage_3_tooltip:0 “不幸的是，我们的船只和城市仍然采用与我们实现太空飞行的第一天相同的外观，这不再反映我们当前地位的帝国。也许从我们的前身邻居那里借来的一些设计既可以用来恐吓我们的敌人，也可以阻止未来的入侵,.\n\n这些优雅的先驱设计的蓝图和技术数据可以通过跨越数年的各种秘密行动获得。”
  zofe_ascension_stage_4_tooltip:0 “前身帝国是战争大师，他们的学说经过大远征的战火考验。研究前身的战术和武器装备将极大地提高我们自己的能力，使我们能够凭借千年的经验和教训进行战斗。,伟大的十字军东征。”
@@ -20,7 +20,7 @@ l_simp_chinese:
  approach_ascension_high_priority:0 “重投资”
  ascension_low_priority_effect:0 “提供我们能节省的，但不能再多了！我们将优先考虑我们帝国的其他项目。\n\n我们提升所需的资源与我们帝国的殖民地数量成比例。”
  ascension_moderate_priority_effect:0 “我们将为我们的飞升提供足够的资源，以确保它在合理的时间内完成。\n\n我们飞升所需的资源与我们帝国的殖民地数量成比例。”
- ascension_high_priority_effect:0 “不惜一切代价！我们越早飞升，我们的帝国就能越早开始新的繁荣时代。\n\n我们飞升所需的资源与我们帝国的殖民地数量成正比。”
+ ascension_high_priority_effect:0 “不惜一切代价！我们越早飞升，我们的帝国就能越早开启新的繁荣时代。\n\n我们飞升所需的资源与我们帝国的殖民地数量成正比。”
  war_during_ascension:0 “我们在打仗！资源被转移用于战争”
  complied_fallen_empire:0 “我们正在遵守要求中止我们的扬升努力......至少在纸面上”
  does_not_meet_ascension_fleet_power_requirement:0 “我们没有足够的舰队力量成为优势”
@@ -32,7 +32,7 @@ l_simp_chinese:
  situation_re_ascension_monthly_change_tooltip:0 “这种§Y情况§!的进展取决于我们选择的§Y方法§!。增加我们的投资以加速扬升过程。”
  
  re_ascension_stage_0_tooltip:0 “社会各阶层都将动员起来，为 §Y$tech_dark_matter_power_core$§! 的发现所带来的革命做好准备。”
- re_ascension_stage_1_tooltip:0 “使用一种高级形式的暗物质操纵，我们祖先的技术掌握使整个行业能够自主运行，使他们的人民能够以自主和享乐的方式度过余生。\n\n如果我们致力于研究,如何以这种方式操纵暗物质，我们将能够复制和重建这些技术奇迹，以实现完全高效的经济。”
+ re_ascension_stage_1_tooltip:0 “使用一种高级形式的暗物质操纵，我们祖先的技术掌握使整个行业能够自主运行，让他们的人民以自主和享乐的方式度过余生。\n\n如果我们致力于研究,如何以这种方式操纵暗物质，我们将能够复制和重建这些技术奇迹，以实现完全高效的经济。”
  re_ascension_stage_2_tooltip:0 “在文明的顶峰，公民们被一个单一的、狂热的理想团结在一起。在他们雷鸣般的掌声中，我们的社会将发生转变，为我们的扬升社会解锁新的公民和建筑。”
  re_ascension_stage_3_tooltip:0 “不幸的是，我们的船只和城市仍然保持着我们实现太空飞行的第一天的样子，不再反映我们现在的帝国地位。也许从我们祖先那里借来的一些设计既可以威慑我们的敌人，又可以阻止未来的入侵。 ,“
  re_ascension_stage_4_tooltip:0 “祖先是战争大师，他们的学说经过大远征的战火考验。研究他们的战术和武器装备将极大地提高我们自己的能力，使我们能够凭借伟大的千年经验和教训进行战斗,运动。”
@@ -61,9 +61,9 @@ l_simp_chinese:
  situation_zofe_dark_matter_monthly_change_tooltip:0 “这种§Y情况§!的进展取决于我们选择的§Y方法§!。”
  
  zofe_dark_matter_stage_0_tooltip:0 “作为第一步，我们的 [GetScientistPlural] 建议我们建立一个实验室来研究 §Y$sr_dark_matter$§! 的所有属性。毕竟，如果是的话，我们怎么能做出 §Y$sr_dark_matter$§! 的东西，,根据定义，隐形？\n\n在此期间将发表许多关于 §Y$sr_dark_matter$§! 特性的论文，我们的科学团队将尝试建造新仪器以进一步研究和理解这种难以捉摸的物质。”
- zofe_dark_matter_stage_1_tooltip:0 “既然我们已经了解如何激活 §Y$sr_dark_matter$§! 使其可用，我们需要一个新的反应堆设计来存储它们。还有工程挑战需要克服，因为 §Y$sr_dark_matter$§! 只能是,在极端温度下使用特定压力下的试剂激活。\n\n尽管这是我们研究的潜在危险阶段，但我们的 [GetScientistPlural] 对未来的挑战并不担心。”
+ zofe_dark_matter_stage_1_tooltip:0 “既然我们已经了解如何激活 §Y$sr_dark_matter$§! 使其可用，我们需要一个新的反应堆设计来存储它们。仍有工程挑战需要克服，因为 §Y$sr_dark_matter$§! 只能是,在极端温度下使用特定压力下的试剂激活。\n\n尽管这是我们研究的潜在危险阶段，但我们的 [GetScientistPlural] 对未来的挑战并不担心。”
  zofe_dark_matter_stage_2_tooltip:0 “要释放 §Y$sr_dark_matter$§! 的真正潜力，它必须首先被激活，然后通过向它发射粒子来分裂以产生裂变，释放出足够的能量来为整个文明和一个新时代提供动力。\n\ ,nHowever, 找到正确的粒子并准确地发射它是很棘手的，除非我们找到一种方法来弯曲发生聚变的地方周围的引力场。如果这个难题得到解决，我们将离实现真正的突破更近一步。”
- zofe_dark_matter_stage_3_tooltip:0 “在成功克服创建 §Y$sr_dark_matter$§! 裂变的挑战后，我们的 [GetScientistPlural] 现在将目光投向了创建一个可以自行维持 §Y$sr_dark_matter$§! 裂变的功能原型。这可不是一件小事，,因为一旦实验室的防护措施被取消，极有可能发生爆炸并导致人员伤亡。”
+ zofe_dark_matter_stage_3_tooltip:0 “在成功克服创建 §Y$sr_dark_matter$§! 裂变的挑战后，我们的 [GetScientistPlural] 现在将目光投向创建一个可以单独维持 §Y$sr_dark_matter$§! 裂变的功能原型。这可不是一件小事，,因为一旦实验室的防护措施被取消，极有可能发生爆炸并导致人员伤亡。”
  zofe_dark_matter_finish_tooltip:0 “我们将取得科学突破并获得 §Y$tech_dark_matter_power_core$§!。”
  zofe_dark_matter_fail_tooltip:0 “我们将无法开发 §Y$tech_dark_matter_power_core$§!。”
  
@@ -77,7 +77,7 @@ l_simp_chinese:
  
  situation_zofe_decadence_type:0 《颓废》
  situation_zofe_decadence:0 《颓废》
- situation_zofe_decadence_desc:0 “不再处于其权力的顶峰，优势必须考虑下一步行动。\n\n最后，一旦你到达了宇宙中的最高点，唯一剩下的地方就是下降。但以什么方式？ ,“
+ situation_zofe_decadence_desc:0 “不再处于权力的顶峰，优势必须考虑下一步行动。\n\n最后，一旦你到达了宇宙中的最高点，唯一剩下的地方就是下降。但以什么方式？ ,“
  situation_zofe_decadence_monthly_change_tooltip:0 “这种§Y情况§!的进展取决于我们选择的§Y方法§!。拥抱社会颓废以加速我们向堕落帝国的过渡。”
  
  situation_zofe_decadence_machine_type:0 “恶意软件感染”
@@ -87,7 +87,7 @@ l_simp_chinese:
  
  situation_zofe_decadence_hive_type:0 “虫体感染”
  situation_zofe_decadence_hive:0 “虫体感染”
- situation_zofe_decadence_hive_desc:0 “一种神秘的真菌感染了我们的蜂群思维，逐渐损害我们的功能，以生物量为食。随着这种情况的继续，越来越多的无人机将变得混乱，并在思维的控制之外运作。”
+ situation_zofe_decadence_hive_desc:0 “一种神秘的真菌感染了我们的蜂巢思维，逐渐损害我们的功能，以生物量为食。随着这种情况的继续，越来越多的无人机将变得混乱，并在思维的控制之外运作。”
  situation_zofe_decadence_hive_monthly_change_tooltip:0 “这种§Y情况§!的进展取决于我们选择的§Y方法§!。拥抱疾病以加速我们向堕落帝国的过渡。”
 
  become_lost_empire:2 “我们将成为§H堕落帝国§！”

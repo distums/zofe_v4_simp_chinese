@@ -1,0 +1,394 @@
+l_simp_chinese:
+
+ col_ae_capital_utopian:0 “乌托邦之都”
+ col_ae_capital_utopian_desc:0 “崛起帝国的乌托邦之都。”
+ col_ae_colony_utopian:0 《乌托邦世界》
+ col_ae_colony_utopian_desc:0 “帝国崛起的乌托邦世界。”
+ col_ae_capital_utopian_machine:0 《登临机都》
+ col_ae_capital_utopian_machine_desc:0 “升华机械帝国的活金属机械世界首都。”
+ col_ae_colony_utopian_machine:0 《飞升机械世界》
+ col_ae_colony_utopian_machine_desc:0 “升华机械帝国的活金属机械世界。”
+ col_ae_capital_utopian_hive:0 “乌托邦蜂巢之都”
+ col_ae_capital_utopian_hive_desc:0 “升华蜂巢帝国的乌托邦式蜂巢之都。”
+ col_ae_colony_utopian_hive:0 “乌托邦蜂巢世界”
+ col_ae_colony_utopian_hive_desc:0 “升华蜂巢帝国的乌托邦蜂巢世界。”
+
+ district_utopian_housing:0 “乌托邦住宅区”
+ district_utopian_housing_desc:0 “乌托邦住宅区提供分布在广阔平原上的宽敞住宅。它的结构和共享空间允许种植食物和自由采摘以供消费。”
+ district_utopian_housing_plural:0 “乌托邦住宅区”
+ district_idyllic_spaces:0 “田园诗般的空间”
+ district_idyllic_spaces_desc:0 “田园诗般的空间吸引当地人和游客来欣赏这个星球的完美景观，并为市民提供风景优美的地方来度过美好时光。”
+ district_idyllic_spaces_plural:0 “田园诗般的空间”
+ district_utopian_production:0 《乌托邦生产区》
+ district_utopian_production_desc:0 “乌托邦生产区是工程学的杰作，将奇点发电机与维度采集器整合到一个区域中。”
+ district_utopian_production_plural:0 《乌托邦生产区》
+ district_utopian_manufacture:0 “乌托邦制造区”
+ district_utopian_manufacture_desc:0 “乌托邦制造区为利用自动化行业最新技术的帝国提供了理想的基础设施。”
+ district_utopian_manufacture_plural:0 “乌托邦制造区”
+ district_utopian_science:0 “乌托邦科学区”
+ district_utopian_science_desc:0 “乌托邦科学区是技术创新的理想中心，拥有丰富的设施来进行研究和科学实验——即使对于希望找点乐子的普通市民来说也是如此！”
+ district_utopian_science_plural:0 “乌托邦科学区”
+ 
+ district_utopian_city:0 “乌托邦住宅生态学”
+ district_utopian_city_desc:0 “乌托邦城市世界的住宅生态建筑经过完美建造和设计。螺旋塔内的住房单元设计为自给自足，允许从其结构中自由采摘食物以供消费。”
+ district_utopian_city_plural:0 “乌托邦住宅生态学”
+ district_utopian_leisure:0 “乌托邦休闲生态学”
+ district_utopian_leisure_desc:0 “乌托邦城市世界的休闲生态学让游客得到娱乐，并在完全幸福中度过余生，不受外界烦恼的困扰。”
+ district_utopian_leisure_plural:0 “乌托邦休闲生态学”
+ district_utopian_financial:0 “乌托邦金融生态学”
+ district_utopian_financial_desc:0 “乌托邦城市世界的金融生态将大量帝国财富储存在地表之下的安全保险库中。其中大部分用于投资，其回报随后用于资助国家及其公民的奢华生活方式。”
+ district_utopian_financial_plural:0 “乌托邦金融生态学”
+ district_utopian_foundry:0 “乌托邦铸造生态学”
+ district_utopian_foundry_desc:0 “乌托邦城市世界的铸造厂生态学使用最新技术以最高效率自动化合金生产，同时还为战略资源的高度专业化生产提供辅助设施。”
+ district_utopian_foundry_plural:0 “乌托邦铸造生态学”
+ district_utopian_science_city:0 “乌托邦科学生态学”
+ district_utopian_science_city_desc:0 “乌托邦科学生态学作为城市的技术中心，令人敬畏的尖顶充满了奇特的发明，充分展示了帝国的技术霸权。”
+ district_utopian_science_city_plural:0 “乌托邦科学生态学”
+ 
+ district_utopian_city_rw:0 《乌托邦城市段》
+ district_utopian_city_rw_desc:0 “环形世界上的乌托邦城市区段最大限度地利用了独特的地理环境，提供既紧凑又宽敞的住房。食物在公共区域种植，可以自由采摘用于消费。”
+ district_utopian_city_rw_plural:0 “乌托邦城市片段”
+ district_utopian_leisure_rw:0 《乌托邦休闲片断》
+ district_utopian_leisure_rw_desc:0 “环形世界上的乌托邦式休闲区拥有银河系中最丰富的娱乐活动，使这里成为商家和消费者的热门目的地。一旦进入，游客往往找不到出口。”
+ district_utopian_leisure_rw_plural:0 “乌托邦式休闲片断”
+ district_utopian_production_rw:0 《乌托邦生产环节》
+ district_utopian_production_rw_desc:0 “环形世界上的乌托邦式生产区段是一个复杂的、相互关联的基础设施，它结合了先进的奇点和维度收割机，大量生产能源和矿物。”
+ district_utopian_production_rw_plural:0 “乌托邦生产环节”
+ district_utopian_foundry_rw:0 “乌托邦铸造厂片段”
+ district_utopian_foundry_rw_desc:0 “环形世界上的乌托邦铸造厂区段是一项工程杰作，它利用最新的自动化技术生产大量合金。”
+ district_utopian_foundry_rw_plural:0 “乌托邦铸造厂片段”
+ district_utopian_science_rw:0 “乌托邦科学片段”
+ district_utopian_science_rw_desc:0 “环形世界上的乌托邦科学区拥有银河系中最集中的研究人员和科学爱好者，许多顶级设施随时开放供观察和学习。”
+ district_utopian_science_rw_plural:0 “乌托邦科学片段”
+ 
+ district_utopian_machine_nexus:0 “Living Metal Nexus 区”
+ district_utopian_machine_nexus_desc:0 “控制无人机并将其部署到其工作任务的集中区域。”
+ district_utopian_machine_nexus_plural:0 “Living Metal Nexus 区”
+ district_utopian_machine_production:0 “自动化生产区”
+ district_utopian_machine_production_desc:0 “自动化生产区是工程学的杰作，将奇点发电机与维度采集器整合到一个区域中。”
+ district_utopian_machine_production_plural:0 “自动化生产区”
+ district_utopian_machine_foundry:0 “自动化铸造区”
+ district_utopian_machine_foundry_desc:0 “自动化铸造区使用最新技术以最高效率自动化合金生产，同时还为战略资源的高度专业化生产提供辅助设施。”
+ district_utopian_machine_foundry_plural:0 “自动化铸造区”
+ district_utopian_machine_science:0 “科学区”
+ district_utopian_machine_science_desc:0 “科学区拥有丰富的设施，可以为计算器无人机进行研究和科学实验。”
+ district_utopian_machine_science_plural:0 “科学区”
+ 
+ district_rw_utopian_machine_nexus:0 “Living Metal Nexus Segment”
+ district_rw_utopian_machine_nexus_desc:0 “Living Metal Nexus Segment 是一个集中的部分，从中可以控制无人机并将其部署到他们的工作任务中。”
+ district_rw_utopian_machine_nexus_plural:0 “Living Metal Nexus 片段”
+ district_utopian_machine_production_rw:0 《自动化生产环节》
+ district_utopian_machine_production_rw_desc:0 “环形世界上的自动化生产部分是一个复杂的、相互关联的基础设施，它结合了先进的奇点和维度采集器，大量生产能源和矿物。”
+ district_utopian_machine_production_rw_plural:0 “自动化生产环节”
+ district_utopian_machine_foundry_rw:0 “自动化铸造部分”
+ district_utopian_machine_foundry_rw_desc:0 “环形世界上的自动化铸造部分是一项工程杰作，它利用最新的自动化技术生产大量合金。”
+ district_utopian_machine_foundry_rw_plural:0 “自动化铸造环节”
+ district_utopian_machine_science_rw:0 “科学板块”
+ district_utopian_machine_science_rw_desc:0 “环形世界上的科学区拥有银河系中计算器无人机最集中的地方，许多顶级设施随时开放，可以进行复杂的模拟和计算。”
+ district_utopian_machine_science_rw_plural:0 “科学板块”
+ 
+ district_utopian_hive:0 “乌托邦蜂巢区”
+ district_utopian_hive_desc:0 “这些高耸的尖顶是无人机在不工作以恢复活力和消耗营养时聚集的地方。”
+ district_utopian_hive_plural:0 “乌托邦蜂巢区”
+ district_utopian_hive_production:0 “自动化生产区”
+ district_utopian_hive_production_desc:0 “自动化生产区是工程学的杰作，将奇点发电机与维度采集器整合到一个区域中。”
+ district_utopian_hive_production_plural:0 “自动化生产区”
+ district_utopian_hive_foundry:0 “自动化铸造区”
+ district_utopian_hive_foundry_desc:0 “自动化铸造区使用最新技术以最高效率自动化合金生产，同时还为战略资源的高度专业化生产提供辅助设施。”
+ district_utopian_hive_foundry_plural:0 “自动化铸造区”
+ district_utopian_hive_science:0 “科学区”
+ district_utopian_hive_science_desc:0 “科学区拥有丰富的设施，可以对大脑无人机进行研究和科学实验。”
+ district_utopian_hive_science_plural:0 “科学区”
+ 
+ district_rw_utopian_hive:0 “乌托邦蜂巢区段”
+ district_rw_utopian_hive_desc:0 “一个乌托邦式的蜂巢区段是无人机在不工作时聚集的地方，以恢复和消耗生长在其结构上的养分。”
+ district_rw_utopian_hive_plural:0 “乌托邦蜂巢片段”
+ district_utopian_hive_production_rw:0 《自动化生产环节》
+ district_utopian_hive_production_rw_desc:0 “环形世界上的自动化生产部分是一个复杂的、相互关联的基础设施，它结合了先进的奇点和维度采集器，大量生产能源和矿物。”
+ district_utopian_hive_production_rw_plural:0 “自动化生产环节”
+ district_utopian_hive_foundry_rw:0 “自动化铸造部分”
+ district_utopian_hive_foundry_rw_desc:0 “环形世界上的自动化铸造部分是一项工程杰作，它利用最新的自动化技术生产大量合金。”
+ district_utopian_hive_foundry_rw_plural:0 “自动化铸造环节”
+ district_utopian_hive_science_rw:0 “科学板块”
+ district_utopian_hive_science_rw_desc:0 “环形世界上的科学区拥有银河系中最集中的大脑无人机，许多顶级设施随时开放，可以进行复杂的模拟和计算。”
+ district_utopian_hive_science_rw_plural:0 “科学板块”
+
+ 
+ mod_pc_utopian_city_habitability:0 “乌托邦城市宜居性”
+ mod_pc_utopian_gaia_habitability:0 “乌托邦世界宜居性”
+ mod_pc_utopian_ringworld_habitability:0 “乌托邦环形世界宜居性”
+ mod_pc_utopian_machine_habitability:0 “活金属机器世界宜居性”
+ mod_pc_utopian_machine_ringworld_habitability:0 《活金属机环世界宜居性》
+ mod_pc_utopian_hive_habitability:0 “乌托邦蜂巢世界宜居性”
+ mod_pc_utopian_hive_ringworld_habitability:0 “乌托邦蜂巢环世界宜居性”
+ 
+ trait_pc_utopian_city_preference:0 “乌托邦式的 Ecumenpolis 偏好”
+ trait_pc_utopian_city_preference_desc:0 “$trait_pc_arctic_preference_desc$”
+ trait_pc_utopian_gaia_preference:0 《乌托邦世界偏好》
+ trait_pc_utopian_gaia_preference_desc:0 “$trait_pc_arctic_preference_desc$”
+ trait_pc_utopian_ringworld_preference:0 《乌托邦环形世界偏好》
+ trait_pc_utopian_ringworld_preference_desc:0 “$trait_pc_arctic_preference_desc$”
+ trait_pc_utopian_machine_preference:0 “活金属机械世界偏好”
+ trait_pc_utopian_machine_preference_desc:0 “$trait_pc_arctic_preference_desc$”
+ trait_pc_utopian_machine_ringworld_preference:0 《活金属机环世界优选》
+ trait_pc_utopian_machine_ringworld_preference_desc:0 “$trait_pc_arctic_preference_desc$”
+ trait_pc_utopian_hive_preference:0 “乌托邦蜂巢世界偏好”
+ trait_pc_utopian_hive_preference_desc:0 “$trait_pc_arctic_preference_desc$”
+ trait_pc_utopian_hive_ringworld_preference:0 《乌托邦蜂巢环世界偏好》
+ trait_pc_utopian_hive_ringworld_preference_desc:0 “$trait_pc_arctic_preference_desc$”
+ 
+ 
+ pc_utopian_city:0 “$pc_city$”
+ pc_utopian_city_desc:0 “$pc_city_desc$”
+ pc_utopian_gaia:0 “$pc_gaia$”
+ pc_utopian_gaia_desc:0 “$pc_gaia_desc$”
+ pc_utopian_ringworld:0 “$pc_ringworld_habitable$”
+ pc_utopian_ringworld_desc:0 “$pc_ringworld_habitable$”
+ pc_utopian_machine:0 “$pc_machine$”
+ pc_utopian_machine_desc:0 “$pc_machine_desc$”
+ pc_utopian_machine_ringworld:0 “$pc_ringworld_habitable$”
+ pc_utopian_machine_ringworld_desc:0 “$pc_ringworld_habitable$”
+ pc_utopian_hive:0 “$pc_hive$”
+ pc_utopian_hive_desc:0 “$pc_hive_desc$”
+ pc_utopian_hive_ringworld:0 “$pc_ringworld_habitable$”
+ pc_utopian_hive_ringworld_desc:0 “$pc_ringworld_habitable$”
+ 
+ decision_paradise_creation_no_districts:0 “£trigger_no£ 星球必须有完整的地区发展。”
+ 
+ decision_paradise_creation_effects:0 “将 $pc_gaia$ 变成美丽的 §Y 乌托邦世界§!，成为宇宙真正的奇迹。解锁支持自动化行业的特殊区域，同时允许流行音乐以自我决定论的方式度过余生。\n\ ,n"
+ decision_paradise_creation_2_effects:0 “将 $pc_city$ 变成一个美丽的 §Y 乌托邦世界§!，成为宇宙真正的奇迹。解锁支持自动化行业的特殊区域，同时允许流行音乐以自我决定的方式度过余生。\n\ ,n"
+ decision_paradise_creation_3_effects:0 “将 $pc_ringworld_habitable$ 变成一个美丽的§YUtopian Ring World Segment§!，成为宇宙真正的奇迹。解锁支持自动化工业的特殊区域，同时允许流行音乐以自我决定的方式度过余生。\ ,n\n"
+
+ decision_paradise_creation_machine_effects:0 “将 $pc_machine$ 变成一个 §Y 金属世界 §!，成为宇宙真正的奇迹。解锁支持自动化工业的特殊区域。\n\n”
+ decision_paradise_creation_machine_2_effects:0 ""将 $pc_ringworld_habitable$ 变成一个§Y金属环世界区段§!，成为宇宙真正的奇迹。,解锁支持自动化工业的特区。\n\n"
+
+ decision_paradise_creation_hive_effects:0 “将 $pc_hive$ 变成一个 §Y 乌托邦蜂巢世界§!，成为宇宙真正的奇迹。解锁支持自动化工业的特殊区域。\n\n”
+ decision_paradise_creation_hive_2_effects:0 ""将 $pc_ringworld_habitable$ 变成一个§Y乌托邦式的蜂巢世界§!，成为宇宙真正的奇迹。,解锁支持自动化工业的特区。\n\n"
+
+ zofe_utopian_world_decisions:0 《乐园创造》
+ 
+ decision_paradise_creation:0 《乐园创造》
+ decision_paradise_creation_desc:0 “当大自然被设计成完美时，它在已知宇宙中无与伦比的美丽将是留给我们年轻人的合适遗产。乌托邦天堂世界是从 §Y$pc_gaia$§!、§Y$pc_city$§! 或 § ,Y$pc_ringworld_habitable$§!。”
+ 
+ decision_paradise_creation_city:0 “$decision_paradise_creation$”
+ decision_paradise_creation_city_desc:0 “$decision_paradise_creation_desc$”
+ 
+ decision_paradise_creation_rw:0 “$decision_paradise_creation$”
+ decision_paradise_creation_rw_desc:0 “$decision_paradise_creation_desc$”
+ 
+ decision_paradise_creation_machine:0 “活金属灌注”
+ decision_paradise_creation_machine_desc:0 “启动一个项目，为殖民地注入精心制作的 Living Metal，以创造一个具有前所未有生产力的动画实体。Living Metal Machine Worlds 是从 §Y$pc_machine$§! 或 §Y$pc_ringworld_habitable$§! 创建的。”
+ 
+ decision_paradise_creation_machine_rw:0 “$decision_paradise_creation_machine$”
+ decision_paradise_creation_machine_rw_desc:0 “$decision_paradise_creation_machine_desc$”
+ 
+ decision_paradise_creation_hive:0 “乌托邦蜂巢世界创造”
+ decision_paradise_creation_hive_desc:0 “当大自然被设计成完美时，它在已知宇宙中无与伦比的美丽将是留给我们年轻人的遗产。乌托邦蜂巢世界是从 §Y$pc_hive$§! 或 §Y$pc_ringworld_habitable$§! 创造的。”
+
+ decision_paradise_creation_hive_rw:0 “$decision_paradise_creation_hive$”
+ decision_paradise_creation_hive_rw_desc:0 “$decision_paradise_creation_hive_desc$”
+ 
+# fe_automated_generator_district_desc:0 "Each district now contains a §Y$tech_fe_class_5_singularity$§!.\n\n"
+# fe_automated_mining_district_desc:0 "A §Y$tech_fe_dimensional_harvester$§! has been installed in each district.\n\n"
+# fe_automated_farming_district_desc:0 "Each district now houses a §Y$tech_fe_gourmet_center$§!.\n\n"
+# fe_automated_industrial_district_desc:0 "These districts now utilize §Y$tech_fe_opulent_plaza$§! and §Y$tech_fe_nano_forge_2$§! technologies to enhance production.\n\n"
+# fe_automated_foundry_district_desc:0 "These districts now utilize the §Y$tech_fe_nano_forge_2$§! technology to automate production.\n\n"
+# fe_automated_factory_district_desc:0 "These districts now utilize the §Y$tech_fe_opulent_plaza$§! technology to automate production.\n\n"
+ 
+# fe_automated_generator_segment_desc:0 "Each segment now utilizes the §Y$tech_fe_class_5_singularity$§! technology.\n\n"
+# fe_automated_farming_segment_desc:0 "The §Y$tech_fe_gourmet_center$§! technology now fills each segment."
+# fe_automated_industrial_segment_desc:0 "Each segment now utilizes §Y$tech_fe_opulent_plaza$§! and §Y$tech_fe_nano_forge_2$§! technologies to enhance production.\n\n"
+ 
+ utopian_production_district_1_desc:0 “现在每个区都包含一个 §Y$tech_fe_class_5_singularity$§! 和一个 §Y$tech_fe_dimensional_harvester$§!。\n\n”
+ utopian_production_district_1a_desc:0 “每个地区现在都包含一个 §Y$tech_fe_class_5_singularity$§! 和一个 §Y$tech_fe_dimensional_harvester$§!。\n\n我们拥有 §Y$tech_fe_dark_matter_power_plant$§! 技术，但需要 §Y$tech_fe_autonomous_fabricator$§! 才能解锁,下一级生产。\n\n"
+ utopian_production_district_1b_desc:0 “每个地区现在都包含一个 §Y$tech_fe_class_5_singularity$§! 和一个 §Y$tech_fe_dimensional_harvester$§!。\n\n我们拥有 §Y$tech_fe_autonomous_fabricator$§! 技术，但需要 §Y$tech_fe_dark_matter_power_plant$§! 才能解锁,下一级生产。\n\n"
+ 
+ utopian_production_district_2_desc:0 “现在每个区都包含一个 §Y$tech_fe_dark_matter_power_plant$§! 和一个 §Y$tech_fe_autonomous_fabricator$§!。\n\n”
+ utopian_production_district_2a_desc:0 “每个地区现在都包含一个 §Y$tech_fe_dark_matter_power_plant$§! 和一个 §Y$tech_fe_autonomous_fabricator$§!。\n\n我们拥有 §Y$tech_original_empire_sun_generator$§! 技术，但需要 §Y$tech_original_empire_siphoner$§! 才能解锁,下一级生产。\n\n"
+ utopian_production_district_2b_desc:0 “每个地区现在都包含一个 §Y$tech_fe_dark_matter_power_plant$§! 和一个 §Y$tech_fe_autonomous_fabricator$§!。\n\n我们拥有 §Y$tech_original_empire_siphoner$§! 技术，但需要 §Y$tech_original_empire_sun_generator$§! 才能解锁,下一级生产。\n\n"
+ 
+ utopian_production_district_3_desc:0 “每个地区现在都包含一个 §Y$tech_original_empire_sun_generator$§! 和一个 §Y$tech_original_empire_siphoner$§!。\n\n”
+ 
+ utopian_manufacture_district_1_desc:0 “一个 §Y$tech_fe_opulent_plaza$§! 和一个 §Y$tech_fe_nano_forge_2$§! 已经安装在每个区。\n\n”
+ utopian_manufacture_district_1a_desc:0 “一个 §Y$tech_fe_opulent_plaza$§! 和一个 §Y$tech_fe_nano_forge_2$§! 已经安装在每个地区。\n\n我们有 §Y$tech_fe_opulent_tower$§! 技术，但需要 §Y$tech_fe_pico_forge$§!,解锁下一级别的严格生产。\n\n"
+ utopian_manufacture_district_1b_desc:0 “每个地区都安装了一个 §Y$tech_fe_opulent_plaza$§! 和一个 §Y$tech_fe_nano_forge_2$§!。\n\n我们有 §Y$tech_fe_pico_forge$§! 科技，但需要 §Y$tech_fe_opulent_tower$§!,解锁下一级别的严格生产。\n\n"
+ 
+ utopian_manufacture_district_2_desc:0 “每个地区都安装了一个 §Y$tech_fe_opulent_tower$§! 和一个 §Y$tech_fe_pico_forge$§!。\n\n”
+ utopian_manufacture_district_2a_desc:0 “每个地区都安装了 §Y$tech_fe_opulent_tower$§! 和 §Y$tech_fe_pico_forge$§!。\n\n我们拥有 §Y$tech_original_empire_pleasure_palace$§! 科技，但需要 §Y$tech_original_empire_star_forge$§!,解锁下一级别的严格生产。\n\n"
+ utopian_manufacture_district_2b_desc:0 “每个地区都安装了 §Y$tech_fe_opulent_tower$§! 和 §Y$tech_fe_pico_forge$§!。\n\n我们拥有 §Y$tech_original_empire_star_forge$§! 技术，但需要 §Y$tech_original_empire_pleasure_palace$§!,解锁下一级别的严格生产。\n\n"
+ 
+ utopian_manufacture_district_3_desc:0 “一个 §Y$tech_original_empire_pleasure_palace$§! 和一个 §Y$tech_original_empire_star_forge$§! 已经安装在每个地区。\n\n”
+ 
+ utopian_leisure_district_1_desc:0 “这些地区现在利用 §Y$tech_fe_opulent_plaza$§! 来提升客户体验。\n\n”
+ utopian_leisure_district_2_desc:0 “这些地区现在利用 §Y$tech_fe_opulent_tower$§! 来增强客户体验。\n\n”
+ utopian_leisure_district_3_desc:0 “这些地区现在利用 §Y$tech_original_empire_pleasure_palace$§! 来增强客户体验。\n\n”
+ 
+ utopian_foundry_district_1_desc:0 “这些地区现在利用 §Y$tech_fe_nano_forge_2$§! 来自动化生产。\n\n”
+ utopian_foundry_district_2_desc:0 “这些地区现在利用 §Y$tech_fe_pico_forge$§! 来自动化生产。\n\n”
+ utopian_foundry_district_3_desc:0 “这些地区现在利用 §Y$tech_original_empire_star_forge$§! 来自动化生产。\n\n”
+ 
+ utopian_leisure_rw_district_1_desc:0 “每个细分市场都充满了 §Y$tech_fe_opulent_plaza$§!，以最大限度地提高客户满意度。\n\n”
+ utopian_leisure_rw_district_2_desc:0 “每个部分都充满了 §Y$tech_fe_opulent_tower$§! 以最大限度地提高客户满意度。\n\n”
+ utopian_leisure_rw_district_3_desc:0 “每个部分都充满了 §Y$tech_original_empire_pleasure_palace$§! 以最大限度地提高客户的满意度。\n\n”
+ 
+ utopian_production_rw_district_1_desc:0 “每个部分现在都使用 §Y$tech_fe_class_5_singularity$§! 和 §Y$tech_fe_dimensional_harvester$§! 技术。\n\n”
+ utopian_production_rw_district_1a_desc:0 “每个部分现在都使用 §Y$tech_fe_class_5_singularity$§! 和 §Y$tech_fe_dimensional_harvester$§! 技术。\n\n我们拥有 §Y$tech_fe_dark_matter_power_plant$§! 技术，但需要 §Y$tech_fe_autonomous_fabricator$§! 来解锁,下一级生产。\n\n"
+ utopian_production_rw_district_1b_desc:0 “每个部分现在都使用 §Y$tech_fe_class_5_singularity$§! 和 §Y$tech_fe_dimensional_harvester$§! 技术。\n\n我们拥有 §Y$tech_fe_autonomous_fabricator$§! 技术，但需要 §Y$tech_fe_dark_matter_power_plant$§! 来解锁,下一级生产。\n\n"
+ 
+ utopian_production_rw_district_2_desc:0 “每个部分现在都使用 §Y$tech_fe_dark_matter_power_plant$§! 和 §Y$tech_fe_autonomous_fabricator$§! 技术。\n\n”
+ utopian_production_rw_district_2a_desc:0 “每个部分现在都使用 §Y$tech_fe_dark_matter_power_plant$§! 和 §Y$tech_fe_autonomous_fabricator$§! 技术。\n\n我们拥有 §Y$tech_original_empire_sun_generator$§! 技术，但需要 §Y$tech_original_empire_siphoner$§! 来解锁,下一级生产。\n\n"
+ utopian_production_rw_district_2b_desc:0 “每个部分现在都使用 §Y$tech_fe_dark_matter_power_plant$§! 和 §Y$tech_fe_autonomous_fabricator$§! 技术。\n\n我们拥有 §Y$tech_original_empire_siphoner$§! 技术，但需要 §Y$tech_original_empire_sun_generator$§! 来解锁,下一级生产。\n\n"
+ 
+ utopian_production_rw_district_3_desc:0 “每个部分现在都使用 §Y$tech_original_empire_sun_generator$§! 和 §Y$tech_original_empire_siphoner$§! 技术。\n\n”
+ 
+ utopian_foundry_rw_district_1_desc:0 “每个部分现在都使用 §Y$tech_fe_nano_forge_2$§! 来增强生产能力。\n\n”
+ utopian_foundry_rw_district_2_desc:0 “每个部门现在都使用 §Y$tech_fe_pico_forge$§! 来增强生产能力。\n\n”
+ utopian_foundry_rw_district_3_desc:0 “每个部门现在都利用 §Y$tech_original_empire_star_forge$§! 来增强生产能力。\n\n”
+ 
+ living_metal_district_1_desc:0 “现在每个区都有一个 §Y$building_synthetic_living_metal$§!。\n\n”
+ living_metal_district_1a_desc:0 “现在每个区都有两个 §Y$building_synthetic_living_metal$§!。\n\n”
+ living_metal_district_1b_desc:0 “现在每个区都有五个 §Y$building_synthetic_living_metal$§!。\n\n”
+ dark_matter_district_1_desc:0 “每个地区都安装了 §Y$building_synthetic_dark_matter$§!。\n\n”
+ dark_matter_district_1a_desc:0 “每个地区都安装了两个 §Y$building_synthetic_dark_matter$§!。\n\n”
+ dark_matter_district_1b_desc:0 “每个区都安装了五个 §Y$building_synthetic_dark_matter$§!。\n\n”
+ dark_matter_district_2_desc:0 “每个地区都安装了 §Y$building_synthetic_dark_matter_2$§!。\n\n”
+ dark_matter_district_2a_desc:0 “每个地区都安装了两个 §Y$building_synthetic_dark_matter_2$§!。\n\n”
+ dark_matter_district_2b_desc:0 “每个地区都安装了五个 §Y$building_synthetic_dark_matter_2$§!。\n\n”
+ dark_matter_district_3_desc:0 “每个地区都安装了 §Y$building_synthetic_dark_matter_3$§!。\n\n”
+ dark_matter_district_3a_desc:0 “每个地区都安装了两个 §Y$building_synthetic_dark_matter_3$§!。\n\n”
+ dark_matter_district_3b_desc:0 “每个区都安装了五个 §Y$building_synthetic_dark_matter_3$§!。\n\n”
+ 
+ 
+ tech_paradise_creation:0 “乌托邦世界”
+ tech_paradise_creation_desc:0 “结合我们在地形改造、景观美化和工程方面的精通，我们可以创造一个真正的宇宙奇迹和一个供我们公民居住的乌托邦世界。”
+ 
+ tech_paradise_creation_machine:0 “生活金属世界”
+ tech_paradise_creation_machine_desc:0 “结合我们在地形改造、材料和工程方面的精通，我们可以在宇宙中创造一个真正的奇迹和一个生产力极高的活金属世界。”
+ 
+ tech_paradise_creation_hive:0 “乌托邦蜂巢世界”
+ tech_paradise_creation_hive_desc:0 “结合我们在地形改造、景观美化和工程方面的精通，我们可以在宇宙中创造一个真正的奇迹，并为我们的无人机创造一个乌托邦式的蜂巢世界。”
+ 
+  
+ edict_paradise_creation:0 《乐园创造》
+ edict_paradise_creation_desc:0 “当大自然被设计成完美时，它在已知宇宙中无与伦比的美丽将是留给我们年轻人的合适遗产。乌托邦天堂世界是从 §Y$pc_gaia$§!、§Y$pc_city$§! 或 § ,Y$pc_ringworld_habitable$§!。”
+ 
+ pm_Living_Metal_Architecture:0 “活的金属建筑”
+ pm_Living_Metal_Architecture_desc:0 “这个世界独特的基础设施允许使用先进的技术，为深奥的活金属赋予形状和形式，这非常适合快速重新利用。”
+ 
+ pm_New_Utopian_World:0 《新乌托邦世界》
+ pm_New_Utopian_World_desc:0 “这个新乌托邦世界上的活金属花环仍处于起步阶段，使其更具可塑性和建筑许可性。临时住房和设施不断根据需要建造和销毁。”
+ 
+ pm_New_Utopian_World_Machine:0 “新生活金属世界”
+ pm_New_Utopian_World_Machine_desc:0 “这个世界上的活金属花环仍处于起步阶段，使其更具可塑性和建筑许可性。临时住房和设施不断根据需要建造和销毁。”
+ 
+ pm_New_Utopian_World_Hive:0 《新乌托邦蜂巢世界》
+ pm_New_Utopian_World_Hive_desc:0 “这个新的乌托邦式蜂巢世界上的活金属花环仍处于起步阶段，使其更具可塑性，更适合建造。临时住房和设施不断根据需要建造和销毁。”
+ 
+ pm_Utopian_Paradise:0 “乌托邦天堂”
+ pm_living_metal_apprenticeship:0 “活金属学徒”
+ pm_living_metal_apprenticeship_desc:0 “所有 [GetAlloyProducerPlural] 现在都在 $building_synthetic_living_metal$ 上夜班，以了解更多有关制作活金属动画的精湛工艺的信息。”
+ 
+ utopian_paradise.1.name:0 “活金属潜力”
+ utopian_paradise.1.desc:0 “我们的 [Root.GetScientistPlural] 从之前寻求发现先驱者遗失技术的探险中回来，现在发表了一项关于 Living Metal 在行星范围内应用潜力的开创性研究。\n\n尽管 Living Metal 的一些应用已经,我们所知，主要是在大型工程领域，到目前为止，我们的使用仅限于材料的惰性形式，即使在昏睡状态下，这种材料也显示出显着的延展性和自我改造。我们的 [Root.GetScientistPlural] 现在已经发现,Living Metal 可以进一步制作动画以展示前所未有的变形能力，古人档案中的碎片记录表明它们在创造难以想象的舒适和生产力的世界中的用途。\n\n几乎一致认为这是一项值得追求的事业,通过我们的 [Root.GetScientistPlural]，我们的顾问委员会已经委托进行这项艰巨但有价值的任务所需的初步工作。”
+ utopian_paradise.1.desc.01:0 “虽然我们已经知道活金属的几种应用，主要是在大型工程领域，但到目前为止，我们的使用仅限于材料的惰性形式，即使在昏昏欲睡的状态下，它也显示出显着的延展性和自我改造能力。,从我们收集的大量文物中，我们的 [Root.GetScientistPlural] 现在发现活金属可以被进一步激活以展示前所未有的变形能力，古人档案中的碎片记录表明它们在创造世界中的用途,难以想象的舒适度和生产力。\n\n我们的 [Root.GetScientistPlural] 几乎一致认为这是一项值得追求的工作，我们的顾问委员会已经委托进行这项艰巨但有价值的任务所需的初步工作。”
+ utopian_paradise.1.a:0 “批准项目，我们自己掌握Living Metal。”
+ utopian_paradise.1.b:0 “训练更多 [Root.GetScientistPlural]，找到更多要征服的古老文化！”
+ 
+ utopian_paradise.2.name:0 《研究组集结》
+ utopian_paradise.2.desc:0 “在为该项目筹集到初始资金并召集了一组科学专家之后，对 §Y$sr_living_metal$§! 特性的实验室测试终于可以开始了。随着该实验的潜在危害为人所知，几个主要成员,研究团队对他们是否愿意从事这样一个高风险的项目表示怀疑。”
+ utopian_paradise.2.a:0 “给团队施加压力。”
+ utopian_paradise.2.b:0 “给团队加薪，他们无法拒绝。”
+ utopian_paradise.2.c:0 “找到另一个愿意工作的团队。”
+ utopian_paradise.2.d:0 “忽略他们的担忧。”
+ 
+ utopian_paradise.3.name:0 “现场测试准备就绪”
+ utopian_paradise.3.desc:0 “在团队准备在小行星表面开始 Living Metal 实验的最后阶段，一位 [Owner.GetScientist] 注意到一个奇怪的现象，即 Living Metal ‘说话’的实例。当 [Owner.GetScientist] 回应时， ,Living Metal 刚刚吞下了 [Owner.GetScientist] 整个！我们不确定如何看待这起事件，或者如果类似情况再次出现，团队应该如何应对。”
+ utopian_paradise.3.a:0 “研究被吞噬者 [Owner.GetScientist] 的雕像。”
+ utopian_paradise.3.b:0 “炸毁雕像，重新利用材料。”
+ utopian_paradise.3.c:0 “告诉团队采取一切必要的预防措施。”
+ utopian_paradise.3.d:0 “从我们的文物收藏中找到更多关于 Living Metal 的信息。”
+ 
+ utopian_paradise.4.name:0 “提议的行星实验”
+ utopian_paradise.4.desc:0 “活金属实验进展顺利，正在为全球范围的测试做准备。我们的团队已经提出了几项建议，§Y[Owner.GetRulerTitle] [Owner.GetRulerName]§! 必须决定进行哪个实验,”
+ utopian_paradise.4.a:0 “在贫瘠星球上进行实验。”
+ utopian_paradise.4.b:0 “在熔化星球上进行实验。”
+ utopian_paradise.4.c:0 “在冰冻星球上进行实验。”
+ utopian_paradise.4.d:0 “在殖民地进行实验。”
+ living_metal_planet_experiment_tooltip:0 “团队将在选定的 §H[event_target:living_metal_experiment_planet.GetName]§! 行星上开始测试。热烈邀请 [Owner.GetRulerTitle] [Owner.GetRulerName] 参加启动过程。”
+ 
+ utopian_paradise.41.name:0 “行星实验灾难！”
+ utopian_paradise.41.desc:0 “在 [event_target:living_metal_experiment_planet.GetName] 上进行的活金属实验以灾难和地球的毁灭而告终。我们的乌托邦梦想仍然遥不可及。”
+ utopian_paradise.41.a:0 “不！”
+ 
+ utopian_paradise.5.name:0 “活金属实验完成”
+ utopian_paradise.5.desc:0 “随着实验终于接近尾声，我们的研究团队得出结论，确实有可能使用 Living Metal 创建一个 §YUtopian World§!。也许是时候让我们创建自己的世界了。”
+ utopian_paradise.5.a:0 “走向乌托邦。”
+ 
+ 
+ situation_utopian_paradise_type:0 “活金属实验”
+ situation_utopian_paradise:0 “活金属实验”
+ situation_utopian_paradise_desc:0 “关于 Living Metal 特性的实验及其将我们的世界塑造成乌托邦天堂的潜在应用。”
+ situation_utopian_paradise_monthly_change_tooltip:0 ” “这§Y情况的进展§！,取决于我们的投资重点。”
+ 
+ 
+ utopian_paradise_stage_1_tooltip:0 “将为这项实验收集初始资金和研究团队。”
+ utopian_paradise_stage_2_tooltip:0 “有关活性金属特性的实验将在我们新建的最先进的科学实验室中进行。”
+ utopian_paradise_stage_3_tooltip:0 “对小行星的现场测试正在进行中，因此我们可以了解更多有关 Living Metal 在广阔表面上的应用。”
+ utopian_paradise_stage_4_tooltip:0 “进行了全球范围的实验，用活金属覆盖了整个行星，我们可以根据需要塑造、动画和重新雕刻。”
+ utopian_paradise_finish_tooltip:0 “活金属实验完成！”
+ utopian_paradise_fail_tooltip:0 “我们将取消活金属实验”
+ approach_utopian_low_priority:0 “低优先级”
+ approach_utopian_moderate_priority:0 “中等优先”
+ approach_utopian_high_priority:0 “高优先级”
+ utopian_paradise_low_priority_effect:0 “他们需要§R什么§！？？只给他们最低限度，告诉他们用他们拥有的东西来凑合！”
+ utopian_paradise_moderate_priority_effect:0 “我们将提供适度的投资，为该项目提供所需的资源。”
+ utopian_paradise_high_priority_effect:0 “不惜重金，早日完成工程，早日开启帝国新的繁荣时代。”
+ 
+ 
+ utopian_paradise.100.name:0 “一个新的§H乌托邦世界§!：[Root.GetName]”
+ utopian_paradise.100.desc:0 “在去除了我们之前建造的不完美星球和老化的基础设施后，我们的 §HUtopian World§! 终于完成了。\n\n我们的 [GetEngineerPlural] 创造了完美的天堂，郁郁葱葱的山脉构成了精致住宅区的背景,, 使用 Living Metal 创建，可以随着人口的增长而改变和改变用途。市区旨在支持我们不断发展的自动化工业和最新技术。\n\n从今天起，[Root.GetName] 将成为一个奇迹,宇宙的。”
+ utopian_paradise.100.a:0 “它很美。”
+ 
+ utopian_paradise.200.name:0 “一个新的§Htopian Ecumenopolis§!：[Root.GetName]”
+ utopian_paradise.200.desc:0 “在去除了我们之前建造的不完美星球和陈旧的生态建筑之后，我们的 §HUtopian Ecumenopolis§! 终于完成了。\n\n我们的 [GetEngineerPlural] 创造了完美的天堂，金色的尖顶构成了乌托邦城区的背景,, 使用 Living Metal 创建，随着人口的增长，它可以被塑造和改变用途。市中心的金融建筑存储和投资大量帝国和公民的财富，这些投资的回报推动了这个乌托邦城市的生活方式。\n ,\n从今天起，[Root.GetName] 将被称为宇宙奇迹。”
+ utopian_paradise.200.a:0 “我们的乌托邦城市完蛋了！”
+ 
+ utopian_paradise.300.name:0 “一个新的§Htopian Ringworld Segment§!：[Root.GetName]”
+ utopian_paradise.300.desc:0 “在去除地球上的不完美和我们之前建造的老化部分后，我们的 §HUtopian Ringworld Segment§! 终于完成了。\n\n我们的 [GetEngineerPlural] 创造了完美的天堂，风景优美的景观构成了乌托邦城市的背景,部分，使用 Living Metal 创建，可以随着人口的增长而改变和改变用途。市中心，休闲部分形成了银河系有史以来最集中的娱乐场所，而科学部分总是对想要涉足奇怪实验的热切市民开放。 ,\n\n从今天起，[Root.GetName] 将被称为宇宙奇迹。”
+ utopian_paradise.300.a:0 “这是一个奇妙的天堂。”
+ 
+ utopian_paradise.400.name:0 “一个新的§H金属机械世界§!：[Root.GetName]”
+ utopian_paradise.400.desc:0 “在去除了地球上的缺陷和我们之前建造的老化基础设施后，我们的 §H 金属机械世界 §! 终于完成了。\n\n我们的无人机为我们的机器智能创造了完美的星球，使用金属机械可以,随着我们需求的扩大而改变和改变用途。各种区域旨在支持我们不断发展的自动化工业和最新技术。\n\n从今天起，[Root.GetName] 将被称为宇宙奇迹。”
+ utopian_paradise.400.a:0 “它终于完成了。”
+ 
+ utopian_paradise.500.name:0 “一个新的§H金属环世界区段§!：[Root.GetName]”
+ utopian_paradise.500.desc:0 “在去除星球上的缺陷和我们之前建造的老化部分后，我们的 §H 生命金属机环世界部分 §! 终于完成了。\n\n我们的无人机使用生命金属创造了完美的结构，可以塑造和改变用途,随着我们需求的扩大。各种地区旨在支持我们不断发展的自动化工业和最新技术。\n\n从今天起，[Root.GetName] 将被称为宇宙奇迹。”
+ utopian_paradise.500.a:0 “出色的。”
+ 
+ utopian_paradise.600.name:0 “一个新的 §Htopian 蜂巢世界§!：[Root.GetName]”
+ utopian_paradise.600.desc:0 “在去除了我们之前建造的星球上的不完美和老化的基础设施后，我们的 §HUtopian 蜂巢世界§! 终于完成了。\n\n我们的无人机为我们的蜂巢思维创造了完美的星球，使用可以塑造的生命金属,并随着我们需求的扩大而改变用途。各种区域旨在支持我们不断发展的自动化工业和最新技术。\n\n从今天起，[Root.GetName] 将被称为宇宙奇迹。”
+ utopian_paradise.600.a:0 “它终于完成了。”
+ 
+ utopian_paradise.700.name:0 “一个新的§Htopian Hive Ring World Segment§!：[Root.GetName]”
+ utopian_paradise.700.desc:0 “在去除星球上的缺陷和我们之前建造的老化部分后，我们的 §HUtopian Hive Ring World Segment§! 终于完成了。\n\n我们的无人机使用 Living Metal 创造了完美的结构，它可以被塑造和重新用作,我们的需求不断扩大。各个地区都旨在支持我们不断发展的自动化工业和最新技术。\n\n从今天起，[Root.GetName] 将被称为宇宙奇迹。”
+ utopian_paradise.700.a:0 “出色的。”
+ 
+ 
+ d_singing_towers:0 “歌唱塔”
+ d_singing_towers_desc:0 “据说，穿过洞穴系统的风会与洞穴的水晶层和谐相处，创造出交织的旋律，似乎在整个山谷中歌唱。无尽的美妙音乐常常吸引游客选择入住附近的豪华酒店。”
+ 
+ d_golden_fields:0 “金色田野”
+ d_golden_fields_desc:0 “这里种植了一种稀有的金色草，坐起来很舒服，这些田地非常适合全家出游。”
+ 
+ d_golden_spire:0 “金色尖塔”
+ d_golden_spire_desc:0 “Golden Spires 延伸到眼睛看不见的大气层，同时为富人和名人提供优质的住房和娱乐场所。”
+ 
+ d_ornate_streets:0 “华丽的街道”
+ d_ornate_streets_desc:0 “华丽的街道上铺有黄金的人行道，其奢华的奢华不断提醒市民帝国的金融实力。”
+ 
+ d_magnificent_waterfalls:0 “雄伟的瀑布”
+ d_magnificent_waterfalls_desc:0 “只有环形世界的独特地理条件才有可能出现雄伟的瀑布，让巨大的河流落入下面的部分。对于所有来访者来说，这是一个令人敬畏、难忘的景象，许多人会选择住在附近的豪华酒店。”
+ 
+ d_endless_fields:0 《永远的青山》
+ d_endless_fields_desc:0 “这些路段上一望无际的青山永远是绿色的，美丽的。”
+ 

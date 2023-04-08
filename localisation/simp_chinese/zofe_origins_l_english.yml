@@ -1,0 +1,257 @@
+l_simp_chinese:
+
+ original_people_init_01_NAME:0 《原始人》
+ original_people_init_01_DESC:0 “原始人开始于 §Y$pc_gaia$§!，但他们的真正起源仍然是个谜。”
+
+ d_original_people_ship_graveyard:0 《不寻常的废墟》
+ d_original_people_ship_graveyard_desc:0 “由于不明原因，我们的新传感器检测到这些废墟下隐藏着一些不寻常的东西。”
+
+ origin_original_people:0 《原始人》
+ origin_original_people_desc:0 “在大远征结束时逃离战争，少数不为敌人所知的原住民设法逃脱，并在 §Y$pc_gaia$§! 上找到了避难所。面对濒临灭绝的原住民发誓永远不会,告诉他们的孩子他们的历史——以免他们找到他们古老的敌人——同时试图从他们过去的废墟中重建他们的文明。”
+
+ origin_ringworld_empire:0 《环世界帝国》
+ origin_ringworld_empire_desc:0 “假设环形世界帝国在 10000 年前的大远征中灭亡，连同他们的遗产和对银河共同体的贡献。假设，毁灭的环形世界是这个曾经强大的帝国的全部。但假设是错误的,，对于还活着的人来说，在重建他们的技术之后，他们准备好返回银河社区。”
+
+ civic_tooltip_original_people_effects:3 “§R- 警告：具有挑战性的起源§!\n- Homeworld 是一个 §Y$pc_gaia$§!（大小：£planetsize£ §Y30§!），具有多个 §YRare Planetary Features§!\n- 邻近星系中被毁的巨型建筑,.\n - 获得 §Y$trait_punctual$§! 特质\n - 获得 §Y$trait_patriotic$§! 特质\n - 获得 §Y$trait_disciplined$§! 特质\n- 原始人的远古敌人可能,还活着。”
+ civic_tooltip_ancestors_effects:3 "- 以 §Y 破碎的环世界 §! 作为你的家园。\n- 邻近星系中被毁的巨型建筑。\n - 获得 §Y$trait_ringworld_empire$§! 特质\n- 以少量堕落帝国建筑开始。 ,\n- 宜居性偏好设置为 §Y$trait_pc_ringworld_habitable_preference$§!，使得其他类型的定居点不受欢迎。\n- 由于他们共同的历史，堕落帝国可能会记住你的物种。”
+
+ NAME_The_Wrath_Of_The_Ancients:0 “第二次十字军东征”
+ NAME_Second_Coalition: “第二次十字军东征大联盟”
+ 
+
+ trait_punctual:0 “准时”
+ trait_punctual_desc:0 “§L这个物种的成员总是守时，有助于提高社会各阶层的生产力。§!”
+ trait_patriotic:0 “爱国”
+ trait_patriotic_desc:0 “§L这个物种的成员为他们的国家感到无比自豪，将遵守命令视为他们的责任。§!”
+ trait_disciplined:0 “纪律严明”
+ trait_disciplined_desc:0 “§L这个物种的成员是训练有素的士兵，使他们在战斗中很有效率。§!”
+ trait_ringworld_empire:0 “先行者”
+ trait_ringworld_empire_desc:0 “§L这个物种的成员是几千年前消失的前身文明的后裔。§!”
+
+ opinion_original_people:0 《原始人》
+
+ opinion_shared_history:0 “共同的历史”
+
+ opinion_shadows_of_the_original_empire:0 《原始帝国的影子》
+
+ ORIGINAL:0 “原来的”
+
+ original_people.1.desc:0 “愚蠢的 [Root.GetSpeciesName]。你们对强者缺乏尊重将是你们的祸根。向我们俯伏并请求我们的宽恕，我们可以避免毁灭你们毫无价值的帝国。”
+
+ original_people.3.desc:0 “原始帝国是腐败的。§H你§!是腐败的。精神要求必须有平衡，我们将服从。”
+ original_people.3.desc.b:0 “[Root.GetSpeciesNamePlural] 继续以他们拒绝接受现实的方式震惊我们——我们为了更大的利益而摧毁了你们的帝国。回来是 [Root.GetSpeciesNamePlural] 将永远犯下的最后一个错误。”
+ original_people.3.desc.c:0 “尽管你拥有所有的力量，你的麻烦过去，以及你造成的所有痛苦，但你什么也没学到。原始帝国的压迫永远不会回来，我们会确保这一点。”
+ original_people.3.desc.d:0 “原始的败类。我们将完成我们祖先开始的工作，并从这个星系的表面抹去每一个发臭的 [Root.GetSpeciesName]。”
+ original_people.3.a:0 “就这样吧。”
+ 
+ original_people.50.desc:0 “一万年来，银河系享有真正的和平，学会了在没有你的同类和你的邪恶影响的情况下生活。自从你回来后，银河系再次爆发了战争——你是一场瘟疫，你必须被制止。作为我们的,祖先们曾经被要求履行他们的职责，为自由献出生命，我们也不会逃避我们的。\n\n是时候了。判决已经作出。第二次十字军东征已经被召集，大联盟已经成立,更多的是为了确保原始帝国的压迫永远不会回来。你......已经§Hlost§!！
+ original_people.50.a:0 “不不不！”
+ original_people.50.b:0 “你会死！”
+ original_people.50.c:0 “不，这才刚刚开始！”
+ original_people.50.d:0 “就这样吧。我们会做我们必须做的。”
+
+
+ original_people.60.name:0 “[Root.GetName] 上的不寻常废墟”
+ original_people.60.desc:0 “新的传感器技术使我们能够在地球的偏远地区发现另一个异常现象，直到现在，该地区仍未被探索过。然而，金属传感器无法告诉我们更多信息，一组科学家希望进行调查。但首先，废墟必须,被清除。”
+ original_people.60.a:0 “去吧。清理废墟。”
+
+ original_people.6.name:0 《星舰墓地》
+ original_people.6.desc:0 “在清除了过去 10000 年的表面碎片和生物生长后，我们发现了一艘古老星舰的遗迹。但不知为何，它感觉很熟悉，好像我们应该认出它一样。一组考古学家很快加入了调查，,令人不安的是，这艘船与 §H[Root.GetName]§! 的第一批定居者绘制的原始图纸相吻合。这怎么可能？\n\n当这一发现的消息传开后，物理学家和工程师对在这艘船上发现的技术感到兴奋,飞船。武器装备超出了我们目前对物理学的理解，而且这艘船的组装方式和太空飞行能力似乎远远超出了我们的工程经验。为了一劳永逸地解决这个问题，我们的顶尖科学家提出了一项修复计划。这将,当然，这需要大量资源。\n\n它是从哪里来的？为什么它看起来如此眼熟？也许这艘沉船包含了我们过去的所有答案。
+ original_people.6.a:0 “我们能修好吗？”
+ original_people.6.b:0 “为了金属而报废。”
+ original_people.6.c:0 “研究它的技术。”
+ original_people.6.d:0 “别管它。这无关紧要。”
+
+ ORIGINAL_PEOPLE_ESCORT:0 《唤醒古船》
+ ORIGINAL_PEOPLE_ESCORT_DESC:0 “这艘船看起来很旧......真的很旧。但它看起来却奇怪地熟悉。在这个可怕的外壳上发现的铭文与目前在我们国家博物馆展出的古代文字有着惊人的相似之处，但我们还没有实现完整的太空飞行,直到大约十年前。\n\n研究这艘船的运作需要时间，同时确保它不会在按错按钮时意外爆炸。”
+
+
+ original_people.7.name:0 《古船觉醒》
+ original_people.7.desc:0 “它开始嗡嗡作响。起初很微弱，就像来自我们遥远而神秘的过去的回声。但随后引擎轰鸣起来，唤醒了一艘被认为早已死去的战舰。武器、生命支持、超空间引擎，所有,上线，由飞船的 AI 用古老的 §H[Root.Owner.GetSpeciesAdj]§! 方言宣布。它已被掩埋，不再被遗忘。\n\n飞船的内部和控制似乎与我们独特的 §H[Root ,.Owner.GetSpeciesAdj]§! 生理学，我们的海军上将看到它在行动时非常兴奋。然而，我们的科学家警告不要对任何船舶技术进行逆向工程，或安装我们自己的修改，因为它们的工作原理仍然不,被现代科学所理解。“我不知道它是如何工作的，但它有效而且不会爆炸，”一位工程师脾气暴躁地说。“所以不要毁了它。”\n\n现在越来越明显的是，我们曾经,一个太空帝国。证据是无法逾越的。但是发生了什么？§H[Root.Owner.GetSpeciesAdj]§! 这个星球上第一批定居者之后的历史根本不存在。,在他们出现之前没有记录存在。,我们那里还有更多人吗？\n\n查看飞船的黑匣子，它收到的最后一条命令是护送一群殖民船，很可能是我们的祖先。,从某种意义上说，这艘船在轨道上遭遇某种致命事故之前，守护着我们最终定居在这个星球上的祖先。,不管怎样，我们似乎注定要再次驾驶这艘船进入未知的太空，揭开我们的起源之谜。”
+ original_people.7.a:0 “让这艘船进入轨道！”
+
+
+
+ 01_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 “也许你的种族还活着是有原因的，[From.GetSpeciesName]。”
+ 02_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 “你……你让我们想起了我们历史档案中一些绝对§H可怕的§!人。”
+ 03_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 “我们没有忘记，[From.GetSpeciesNamePlural]。你会从过去的错误中吸取教训。”
+ 04_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 “所以原始帝国还活着。很难知道我们的祖先为什么没有完成这项工作。”
+
+ 01_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_GREETING:0 “为你的罪孽赎罪，[From.GetSpeciesNamePlural]。也许你终究会得到救赎。”
+ 02_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_GREETING:0 “看到 [From.GetSpeciesNamePlural] 乘坐如此粗糙的金属外壳旅行，强者是如何陨落的。”
+ 03_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_GREETING:0 “我很高兴 [From.GetSpeciesNamePlural] 没有灭绝。看看你！太可爱了！你将为我们的快乐宫殿增光添彩。”
+ 04_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_GREETING:0 “也许 [From.GetSpeciesNamePlural] 并非完全没用。也许你会成为好奴隶……是的，[From.GetSpeciesNamePlural] 修复它们在数千年前造成的破坏是合适的。”
+
+ 01_ORIGINAL_FALLEN_EMPIRE_ANGRY_GREETING:0 “也许这是你的本性。你永远不会改变，[From.GetSpeciesNamePlural]。”
+ 02_ORIGINAL_FALLEN_EMPIRE_ANGRY_GREETING:0 “永远不要忘记历史的教训，[From.GetSpeciesNamePlural]。我们让你失望过一次，我们可以再次这样做。”
+ 03_ORIGINAL_FALLEN_EMPIRE_ANGRY_GREETING:0 “他们在 [From.Capital.GetName] 的学校里教你什么？显然你不了解自己的历史，注定要重蹈覆辙。”
+ 04_ORIGINAL_FALLEN_EMPIRE_ANGRY_GREETING:0 “唯一好的 [From.GetSpeciesName] 是死的 [From.GetSpeciesName]。”
+
+ 01_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_WAR_GREETING:0 “历史会重演。我们必须提醒你上次是怎么回事吗？”
+ 02_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_WAR_GREETING:0 “你必须受到惩罚。”
+ 01_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_WAR_GREETING:0 “这是为了银河系的更大利益。”
+ 02_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_WAR_GREETING:0 “再也不。”
+ 01_ORIGINAL_FALLEN_EMPIRE_ANGRY_WAR_GREETING:0 “你从你的黑暗历史中什么都没学到吗，[From.GetSpeciesName]？”
+ 02_ORIGINAL_FALLEN_EMPIRE_ANGRY_WAR_GREETING:0 “[From.Capital.GetName] 将会燃烧。我们将确保原始帝国永远无法回归。”
+
+
+
+ 01_ANCESTOR_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 “先知们谈到了你的回归，[From.GetSpeciesName]。但你有足够的力量来完成这项任务吗？”
+ 02_ANCESTOR_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 “是的，[From.GetSpeciesNamePlural] 曾经参加过大远征。档案中说的很多。”
+ 03_ANCESTOR_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 “我们一直想知道是否有 [From.GetSpeciesNamePlural] 在大远征中幸存下来。我们的异种动物园还没有建成。”
+ 04_ANCESTOR_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 “所以 [From.GetSpeciesNamePlural] 仍然存在。我们在我们的档案中读到过你，但我们高度怀疑你的任何成就是否真的存在。”
+
+ 01_ANCESTOR_FALLEN_EMPIRE_PATRONIZING_GREETING:0 “先知是对的，[From.GetSpeciesNamePlural]。你会让裹尸布恢复平衡。”
+ 02_ANCESTOR_FALLEN_EMPIRE_PATRONIZING_GREETING:0 “我们非常担心 [From.GetSpeciesNamePlural] 在这段时间里几乎没有取得任何科学进展。”
+ 03_ANCESTOR_FALLEN_EMPIRE_PATRONIZING_GREETING:0 “我们很想念你们，朋友们！还有很多事情要赶上。自大远征以来已经过去了许多个世纪。”
+ 04_ANCESTOR_FALLEN_EMPIRE_PATRONIZING_GREETING:0 “我们从来没有意识到我们的老盟友会如此顺从。尽管你的外表很奇怪，但我们现在明白了为什么我们的祖先是盟友。”
+
+
+ 01_ANCESTOR_FALLEN_EMPIRE_ANGRY_GREETING:0 “也许我们的先知对 [From.GetSpeciesNamePlural] 的看法是错误的。他们不会恢复裹尸布的平衡。”
+ 02_ANCESTOR_FALLEN_EMPIRE_ANGRY_GREETING:0 “不要考验我们，朋友们。我们的耐心不是无限的。”
+ 03_ANCESTOR_FALLEN_EMPIRE_ANGRY_GREETING:0 “为什么 [From.GetSpeciesNamePlural] 今天会如此急切地破坏他们伟大祖先的遗产？”
+ 04_ANCESTOR_FALLEN_EMPIRE_ANGRY_GREETING:0 “我们在历史上从未与 [From.GetSpeciesNamePlural] 作战，但如果必须的话，我们会的。”
+
+ 01_ANCESTOR_FALLEN_EMPIRE_DISMISSIVE_WAR_GREETING:0 “不幸的是，[From.GetSpeciesName]，这必须完成。”
+ 02_ANCESTOR_FALLEN_EMPIRE_DISMISSIVE_WAR_GREETING:0 “看到 [From.Capital.GetName] 再次燃烧将令人难过。”
+ 01_ANCESTOR_FALLEN_EMPIRE_PATRONIZING_WAR_GREETING:0 “我们希望有另一种方式。”
+ 02_ANCESTOR_FALLEN_EMPIRE_PATRONIZING_WAR_GREETING:0 “别逼我们这么做。”
+ 01_ANCESTOR_FALLEN_EMPIRE_ANGRY_WAR_GREETING:0 “看起来，[From.GetSpeciesName] 在他们离开银河社区的时间里已经严重退化了。”
+ 02_ANCESTOR_FALLEN_EMPIRE_ANGRY_WAR_GREETING:0 “你用错误的议程滥用我们共同的历史。我们必须阻止你。”
+
+ START_SCREEN_ORIGINAL_PEOPLE:0 “几个世纪以来，[GetSpeciesAdj] 生物学家都知道 [GetSpeciesNamePlural] 实际上并不是从 [GetHomeWorldName] 的生物圈进化而来的。事实上，直到大约 10000 年前才有 [GetSpeciesName] 存在的记录。它们的突然出现导致了,一个流行的理论 - [GetSpeciesNamePlural] 可能起源于太空的其他地方。\n\n但如果我们已经是一个太空文明，为什么第一批 [GetSpeciesName] 殖民者没有继承任何先进技术，为什么我们被留在这儿，看起来,忘记了？[GetSpeciesNamePlural]从何而来，其他人又如何？为什么我们的祖先只字不提他们的过去？\n\n近年来，[GetRulerTitle][GetRulerName]在掌声如雷的情况下上台，承诺,找到 [GetAdj] 神秘过去的答案。”
+ START_SCREEN_ANCESTORS:0 “几个世纪以来，我们知道我们的世界不像我们在宇宙中观察到的大多数行星体那样是球形的。有人 - 或某些东西 - 建造了这个巨大的结构，我们现在居住的这个环形世界，这不可能是偶然的。 ,\n\n但是谁会做这样的事，他们又能从我们这里得到什么？在 [GetHomeWorldName] 破碎的地块、古​​老的废墟和破旧的隧道中，我们几乎找不到关于我们起源的答案。古老的建筑指引着我们,进化和进步，而他们的内部运作在很大程度上混淆了我们的许多 [GetScientistPlural]。我们从哪里来？如果在这里找不到答案，那么也许终于到了我们仰望星空的时候了。”
+ 
+ ringworld_empire_chain_title:0 《环世界帝国》
+ ringworld_empire_chain_desc:0 “我们居住的巨大结构与前身帝国本身一样古老。但建造它的人仍然是个谜，当我们到达星星时，我们将发现建造这个环形世界的 [GetEngineerPlural] 发生了什么事。”
+ 
+ original_people_chain_title:0 《原始人》
+ original_people_chain_desc:0 “第一个 [From.GetSpeciesNamePlural] 大约在 10000 年前出现在 [From.Capital.GetName] 上，但在此之前对他们知之甚少。找到一个人的根源就是找到一个人的真实自我，长期以来一直是,梦想 [Root.GetAdj] 人民找到他们的家，他们真正的家 - 因为一棵树没有根怎么能活？俗话说：\n\n'所有的金子都不会闪闪发光，\n不是所有的那些,漂泊的人迷路了；\n坚强的人不会枯萎，\n深根不会被霜冻到达。\n\n'从灰烬中点燃一团火，\n阴影中的光将绽放；\n更新,将是被折断的刀刃，\n无冠者将再次成为国王。'”
+ 
+ original_people_digsite_1:0 “寻找我们的根”
+ original_people_digsite_1_desc:0 “不寻常的金属读数来自地球最深的海洋。我们能够检测到这一点的事实在很大程度上归功于改进的扫描仪和传感器技术。然而，组装一艘能够承受这种压力的船只有足够的科学依据,船上的设备将是一项不小的任务。”
+ original_people_digsite_2:0 《无人接听的电话》
+ original_people_digsite_2_desc:0 “在我们祖先的殖民船英年早逝之前，曾向这颗星球发出过求救信号，但殖民船没有收到任何回复，也没有任何救援到来，我们想查明原因。”
+ original_people_digsite_3:0 《难民星球》
+ original_people_digsite_3_desc:0 “不知怎么的，出现在小城市世界的难民，大部分都是这个星球的，我们应该查清楚原因。”
+ original_people_digsite_4:0 “黄金城”
+ original_people_digsite_4_desc:0 “黄金城已不复存在，但行星周围的行星碎片可能包含我们遥远过去的信息，并告诉我们很多关于发生的事情。”
+ 
+ original_people.100.name:0 “在 [From.Capital.GetName] 上的发现”
+ original_people.100.desc:0 “最近对 [From.Capital.GetName] 最深海的一次游览返回了一些相当不寻常的金属读数，但我们不完全确定那里可能有什么。我们的考古学家建议我们调查该位置。”
+ original_people.100.a:0 “海底可能有什么？”
+
+ original_people.101.name:0 《海底船只》
+ original_people.101.desc:0 “在进行了迄今为止最复杂的水下探索之后，我们的考古学家到达现场后，可以确认这种不寻常的金属读数的来源实际上是某种类型的船只，这种船只与某种殖民船没有什么不同。,这能找到我们起源的答案吗？\n\n我们的团队提出了一个计划，首先要回收这艘船，因为我们可以在地面上用它做更多的事情。”
+ original_people.101.a:0 “我们能以某种方式恢复它吗？”
+
+ original_people.102.name:0 “航天器恢复”
+ original_people.102.desc:0 “经过巨大的努力，这艘神秘船只的残骸已被打捞上岸。经过大约 10000 年的时间，尽管受到海洋低温的保护，这艘船的状况……是可行的。然而，毫无疑问，,这艘船将永远不会再飞了。\n\n在里面，我们发现了 [From.Owner.GetSpeciesNamePlural] 的微小遗骸，很可能是我们的祖先在即将坠毁前被困在船上。从逃生舱的抛弃情况来看，少数乘客,设法逃脱并可能逃到安全地带；其余的随船沉没到海底。我们的科学家想回收黑匣子来检查坠机原因，看看是否有我们可以吸取的教训,”
+ original_people.102.a:0 “关于我们的过去，它能告诉我们什么？”
+
+ original_people.103.name:0 《破译黑匣子》
+ original_people.103.desc:0 “我们回收的黑匣子形状很糟糕，但最后的损坏条目提供了关于最后几分钟发生的事情的线索。殖民船在坠毁在 [From.Owner.Capital.GetName] 之前遭到不明敌人的火力攻击。,最后一条消息是向附近的系统发出的绝望求救电话。这条消息没有得到回复。”
+ original_people.103.a:0 “那我们就去这个系统吧。”
+
+ original_people.200.name:0 “从未有过的帮助”
+ original_people.200.desc:0 “殖民者的求救信号被发送到附近的一个系统，我们设法将坐标精确定位到 [event_target:original_people_digsite_2.GetName] 的行星。我们应该立即派出一个团队，找出为什么我们祖先的求救电话被忽略的原因,”
+ original_people.200.a:0 “他们为什么不回答？”
+
+ original_people.201.name:0 “[From.Planet.GetName] 之战”
+ original_people.201.desc:0 “从巨大的陨石坑和明显的破坏程度，我们的考古团队推断出这个小城市世界曾遭受如此强烈的轨道轰炸，这与我们见过的任何东西都不一样。奇怪的是，没有街头战斗的迹象——,这是一场毁灭性的战争。在废墟下进行更深入的探索，发现了更多似乎是 [From.Owner.GetSpeciesNamePlural] 的尸体遗骸，他们在死亡前被困在摇摇欲坠的建筑下。\n\n在北半球，我们的团队,发现了一片残骸场，这似乎是在这颗行星遭遇命运之前发生的一场太空战的结果——一场单方面的战斗，保卫者的几艘船只迅速被冲到一边并炸成碎片。难怪殖民者没有收到,当他们寻求帮助时回答。”
+ original_people.201.a:0 “太可怕了。”
+
+ original_people.202.name:0 《恐慌中的城市》
+ original_people.202.desc:0 “这座城市最后几天的几个全息记录仍然存在。当 [From.Owner.GetSpeciesAdj] 居民得知舰队即将到来时，他们知道随之而来的破坏肯定会发生。那些负担得起的人登上了殖民船，而那些,谁不能留下来。\n\n对于一个如此小的城市来说，平民伤亡是天文数字，而这个城市的人口远远超过当时的容纳能力，而现在这仍然是个谜。没有增援来缓解,被围困的城市，这个星球被不分青红皂白地轰炸，直到没有生命迹象。”
+ original_people.202.a:0 “谁对我们的祖先做了这样的事？”
+
+ original_people.203.name:0 《发现迁徙记录》
+ original_people.203.desc:0 “在一座古老宫殿的废墟中，我们发现了似乎是 [From.Planet.GetName] 的政府记录，上面有一些关于当时人口统计和人口的相当有趣的数据。这座小城市已经陷入危机,从应对来自帝国各个角落的 [From.Owner.GetSpeciesAdj] 难民的涌入，导致这个曾经被冠以王冠的殖民地出现严重的住房和食物短缺。,来了。不久之后，敌对舰队抵达并使他们都摆脱了苦难。\n\n根据记录，有一个星球向 [From.Planet.GetName] 输出了最多的难民。它是否遭受了,一样的命运？说不定我们会在那里找到更多的线索，指引我们回到自己的家。”
+ original_people.203.a:0 “让我们找到这个星球。”
+
+ 
+ original_people.3000.name:0 《屏蔽世界》
+ original_people.3000.desc:0 “[From.GetName] 被发现完全被某种能量屏障包围。[Root.GetName] 试图用其传感器穿透屏障的所有尝试都失败了 - 扫描光束只是偏转回飞船，,就像它在照镜子一样。\n\n屏障的能量读数有些波动，可能是数千年衰变的结果，但用原始火力突破它仍然是不可能的。科学官 [Root.GetLeaderName] 已经,提出了一个特殊的项目来研究消除障碍的方法……但假设它是为了将某些东西留在里面而不是放在外面？”
+ original_people.3000.a:0 “那个障碍正在下降。为了科学！”
+ 
+ ORIGINAL_PEOPLE_SHIELD_PROJECT:0 “在 [event_target:original_people_shielded_planet.GetName] 上降低护盾”
+ ORIGINAL_PEOPLE_SHIELD_PROJECT_DESC:0 “出于未知原因，某人或某物将 [event_target:original_people_shielded_planet.GetName] 包裹在一个无法穿透的能量护盾中。它的能量水平在波动，表明护盾已经激活了数千年。我们必须找到一些方法来抵消,屏障并发现下面的东西！”
+
+ original_people.3001.name:0 “封存的船只”
+ original_people.3001.desc:0 “我们 [From.From.GetName] 上面的科学家终于成功地降低了能量壁垒。当它消失时，我们发现一艘封存的战舰在低轨道上缓慢漂浮在一块原本微不足道的岩石上方。\n\n它似乎是,某种海军后备舰队，但我们不知道它是如何被困在盾牌屏障内的。虽然无人驾驶，但这艘船似乎回应了我们的冰雹并接受了我们的命令。
+ original_people.3001.a:0 “派遣船员为这些船配备人员。”
+ original_people.3002.name:0 “封存船”
+ original_people.3002.desc:0 “我们 [From.From.GetName] 上面的科学家终于成功地降低了能量壁垒。当它消失时，我们发现一艘封存的战舰在低轨道上缓慢漂浮在一块原本微不足道的岩石上方。\n\n它似乎是,某种海军后备舰队，但我们不知道它是如何被困在盾牌屏障内的。虽然无人驾驶，但这艘船似乎回应了我们的冰雹并接受了我们的命令。
+ original_people.3002.a:0 “这将是对我们舰队的一个很好的补充。”
+ original_people.3003.name:0 “封存舰队”
+ original_people.3003.desc:0 “我们 [From.From.GetName] 上面的科学家终于成功地降低了能量壁垒。当它消失时，我们发现一支封存的战斗舰队在低轨道上缓慢漂浮在一块原本微不足道的岩石上方。\n\n它似乎是残余物,“是某种海军后备舰队，但我们不知道它是如何被困在盾牌屏障内的。虽然无人驾驶，但这些船只似乎对我们的冰雹做出了反应并接受了我们的命令。”
+ original_people.3003.a:0 “它们将是我们舰队的一个很好的补充。”
+ 
+ original_people.300.name:0 《难民星球》
+ original_people.300.desc:0 “许多最终来到这个小城市世界的难民来自 [event_target:original_people_digsite_3.GetName] 星球。随着星球周围的护盾屏障成功降低，我们现在能够调查它的表面以了解发生了什么,殖民地。”
+ original_people.300.a:0 “我们应该马上去那儿。”
+
+ original_people.301.name:0 “死亡星球”
+ original_people.301.desc:0 “在 [From.Planet.GetName] 寒冷、贫瘠的地表上，曾经居住着数十亿 [From.Owner.GetSpeciesNamePlural] 的巨大殖民地几乎没有留下任何痕迹。厚厚的积雪覆盖了这个星球，这也许是由于防护罩的作用,屏障阻挡了大部分阳光，导致温度骤降。\n\n我们的团队将继续在雪中挖掘文明的迹象，看看是否有更多的祖先埋葬在这里，或者是否有重要的文化文物,恢复。”
+ original_people.301.a:0 “继续挖。”
+
+ original_people.302.name:0 “[From.Planet.GetName] 之战”
+ original_people.302.desc:0 “在挖掘积雪层时，我们发现了更多 [From.Owner.GetSpeciesAdj] 的尸体，它们在这种冰冷的环境中得到了一定程度的保存。他们身上装饰着珠宝，穿着漂亮的衣服。这个社会的物质似乎很丰富，至少在灾难发生之前是这样的,这个星球。\n\n我们还在 [From.Planet.GetName] 找到了记载这场战斗的日记条目。尽管进行了激烈的抵抗，但防御者人数远远超过并最终被击败。根据我们的估计，这一定是一个重要的系统,对于当时的帝国来说，也是帝国输不起的。\n\n据信袭击者明白陷入巷战的弊端，所以他们部署了一种被称为§H巨像§的武器！ ,，一个可以摧毁整个星球的可怕结构。他们在更多援军到达之前使用了它。在它激活后，[From.Planet.GetName] 的居民被困住了。在这个星球上又匆忙建造了几艘战舰，但护盾,根本无法从内部穿透。\n\n虽然那些可以逃跑的人在敌方舰队进入轨道之前就已经逃走了，但那些留下来的人最终被冻死了，这就是这个 [From.Owner.GetSpeciesAdj] 的结局,] 殖民地。”
+ original_people.302.a:0 “悲惨。”
+
+ original_people.303.name:0 《最后的日记》
+ original_people.303.desc:0 “我们发现的几篇日记都提到了§Y黄金城§!，从他们崇敬的语气来看，它很可能是帝国的首都。也许是想家，以及意识到自己处境的绝望，许多居民表示,他们渴望回到§Y黄金之城§!并再次看到它雄伟的尖顶。其中一个甚至绘制了系统的精确坐标，目前我们的传感器上没有。\n\n最后，有了这个重要的部分,信息，我们将带着我们祖先的希望，我们终于可以回家了——一起。”
+ original_people.303.a:0 “让我们回家吧——回到黄金之城。”
+
+ original_people.4000.name:0 《沉睡的巨人》
+ original_people.4000.desc:0 “进入星系后，一艘巨大的飞船映入眼帘，静静地围绕着曾被称为§Y黄金之城§!的星球运行。我们怀疑它已经围绕该星球运行了一段时间，但不清楚其目的是什么，或者,如果它这样做会有所作为。\n\n尽管如此，我们还是应该谨慎行事。不管这——东西——是什么，如果我们激怒它，它肯定能把我们炸成碎片。”
+ original_people.4000.a:0 “我们应该谨慎行事。”
+ 
+ original_people.4001.name:0 《巨人苏醒》
+ original_people.4001.desc:0 “§YThe Golden City§! 有访客这一事实并没有逃过轨道上这艘巨舰的注意。一直以来，它都在分析我们的信号，阅读我们的签名，并立即启动它所有的引擎和武器系统。\ ,n\n当我们的科学船注意到这一点时，我们向这艘巨舰招手说明了我们的意图，然后它才开始……跟着我们。就好像我们的部分能量签名唤醒了船数据库深处的某样东西。\n ,\n看来这艘船现在无论我们走到哪里都会跟着我们。”
+ original_people.4001.a:0 “这艘巨舰跟着我们有什么用？”
+ 
+ original_people.400.name:0 “黄金城”
+ original_people.400.desc:0 “§Y黄金城§! 是古代 [From.Owner.GetSpeciesAdj] 帝国的首都，早已化为破碎的岩石块，但它的碎片可以提供大量关于它的时代、它在当时的技术进步的洞察力,时间，可以告诉我们很多关于我们失踪文化的信息。我们应该派一个团队去那里检查行星碎片。”
+ original_people.400.a:0 “让我们看看能找到什么。”
+
+ original_people.401.name:0 《乌托邦世界》
+ original_people.401.desc:0 “研究了§Y黄金城§!的遗迹，我们了解到它曾经是一个乌托邦世界，金色草地和歌塔孕育了古老的[From.Owner.GetSpeciesNamePlural]。他们的文明发展迅速，,大约3万年前实现太空飞行。在他们遇到的众多原始帝国中，[From.Owner.GetSpeciesNamePlural]被视为天上来的神，原始人成群结队地进贡。用这些财富建造了雄伟的尖塔——其中之一,银河系的奇观——但现在看不到了。”
+ original_people.401.a:0 “多么悲伤。”
+
+ original_people.402.name:0 “第一银河帝国”
+ original_people.402.desc:0 “大约 20000 年前，在银河共同体的支持下，古老的 [From.Owner.GetSpeciesAdj] 帝国成为第一银河帝国，以实现一个安全可靠的社会。原始帝国就这样诞生了，,而[From.Owner.GetSpeciesNamePlural]被简称为原始人。作为唯一实现暗物质融合的物种，每当危机出现时，总是[From.Owner.GetSpeciesNamePlural]保护银河免于毁灭，并且,在接下来的 10000 年里，原始帝国统治至高无上，似乎几乎是不可战胜的。\n\n在原始帝国统治的末期，[From.Owner.GetSpeciesNamePlural] 发现自己在多条战线上作战。比预期更早的激活,异变者、异次元侵略者、来自星际空间的‘恐怖生物’同时袭来，遍及银河各个角落，舰队和补给变得捉襟见肘，而他们的附庸却对战争贡献甚微。,帝国无敌舰队开始失去船只的速度超过了他们可以更换的速度，对一些人来说，这成了一个机会。”
+ original_people.402.a:0 “我们是第一银河帝国？”
+
+ original_people.403.name:0 《最后一战》
+ original_people.403.desc:0 “大远征的最后一场战斗是在 §Y 黄金城 §! 上进行的。恢复的全息记录告诉我们，天沟被激活，五百层交织的行星护盾保护 §Y 黄金城 §! 免受轰炸。求救信号,被派往前线舰队：返回并拯救城市。\n\n但在做出最后的救援行动之前，一种可怕的武器被释放到§Y黄金城§!，将地球分成两半。数十亿[From. ,Owner.GetSpeciesNamePlural]瞬间灭亡。随着信号塔被毁，除了孤军奋战的歌利亚外，没有更多的援军到达，但到那时，联军舰队已经继续前进，原始帝国的心脏和灵魂已不复存在,”
+ original_people.403.a:0 “要是我们能复制求救信号就好了……”
+ original_people.403.b:0 “太冒险了。”
+ 
+ ORIGINAL_PEOPLE_DISTRESS_SIGNAL:0 “求救信号塔”
+ ORIGINAL_PEOPLE_DISTRESS_SIGNAL_DESC:0 “如果我们能以某种方式复制求救信号模式，使用熟悉的能量信号，我们就可以将其广播到太空的空隙中。如果古代帝国舰队的船只仍然存在，它们可能会响应我们的信号并返回。”
+
+ original_people.5000.name:0 “求救信号复制”
+ original_people.5000.desc:0 “在将 §Y 黄金城 §! 的残骸中发现的数据与我们收集的各种战舰进行交叉引用后，我们的工程师已经能够建造一座信号塔，能够向深空和未知的空间发出信号。如果我们的任何祖先,’船只还在外面，一旦收到我们的求救信号，它们可能会返回，并在未来的战斗中帮助我们。”
+ original_people.5000.a:0 “启动它！”
+ 
+ original_people.5004.name:0 “一艘船回应”
+ original_people.5004.desc:0 “早些时候，一艘船出现在 [Root.Capital.GetName] 附近，绕着它转，似乎是在回应我们的求救信号。也许有足够的时间，旧帝国无敌舰队的残余会一个接一个地回到我们身边，当他们,齐聚一堂，初代帝国将重生。”
+ original_people.5004.a:0 “欢迎回家！”
+ 
+ original_people.6000.name:0 “原始帝国结构”
+ original_people.6000.desc:0 “在收集了我们之前挖掘的更多数据之后，我们的科学家有理由相信，原始帝国实际上拥有高度先进的自动化工业，这与我们所见过的任何事物都不一样。也许我们应该找到方法来重现这些过去的奇迹技术。 ,“
+ original_people.6000.a:0 “我们应该恢复我们所有的技术。”
+ original_people.6000.b:0 “不行，太费劲了。”
+ 
+ original_people.6001.name:0 “恢复成功”
+ original_people.6001.desc:0 “我们的科学家已经成功地恢复了几个古老的原始帝国结构的蓝图。它们的功能和能力显示出我们当前经济的巨大潜力。”
+ original_people.6001.a:0 “好的！”
+ 
+ 
+ 
+ 
+
+
+
+

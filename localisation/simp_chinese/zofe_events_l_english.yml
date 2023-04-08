@@ -1,0 +1,165 @@
+l_simp_chinese:
+
+ 
+ zofe.1.name:0 “暗物质——可能性”
+ zofe.1.desc:0 “尽管我们拥有从太空中利用 §Y$sr_dark_matter$§! 的必要技术，但由于我们对 §Y$sr_dark_matter$§! 的了解仍然有限，因此我们尚未找到它们的任何实际用途。\n\n然而，一些,它们的特殊属性与我们对前身飞船的观察相符，前身飞船展示了似乎违背物理定律的推进行为——或者至少违背了我们目前对物理学的理解。\n\n堕落帝国是否了解 §Y$sr_dark_matter 的应用,$§! 我们不知道吗？”
+ zofe.1.a:0 “好奇的。”
+ 
+ zofe.11.name:0 《先行者的力量源泉》
+ zofe.11.desc:0 “多年来，我们的 [GetScientistPlural] 一直在努力确定那些奇特的前身飞船背后的动力源的性质。到底是什么扭曲了重力，如此可预测，以至于它可以为船只提供动力，它真的是 §Y$tech_dark_matter_power_core$§!？ ,\n\n提出了一项雄心勃勃的任务：我们将派遣一艘科学船到 §H[event_target:dark_matter_power_provider.GetName]§! 的边界秘密观察他们的船只。任何新发现都可以加速我们自己的技术进步，使我们走得更远,领先于我们的竞争对手。在整个任务期间，我们的研究团队将显得无辜，对 §H[event_target:dark_matter_power_source.GetName]§! 感兴趣，而船上的所有仪器都将指向 §H[event_target:dark_matter_power_provider.GetName]§ ,!空间，收集信号以及我们能找到的任何实时读数，特别注意避免被 §H[event_target:dark_matter_provider_species.GetAdj]§! 巡逻队发现。然而，如果被发现，后果可能是可怕的。\n\nAn,另一种风险更小的选择是组建一个团队，并尝试在我们首都安全的情况下从历史记录和二手资源中收集所有可用数据，§H[Root.Capital.GetName]§!，但没有现场仪器,阅读进度会明显变慢。”
+ zofe.11.desc.ringworld_empire:0 “多年来，我们的 [GetScientistPlural] 一直在努力确定我们复活的那些奇特的祖传船只背后的动力源的性质。究竟是什么扭曲了重力，如此可预测，以至于它可以为这样的船只提供动力？\n\n我们相信,现在是调查的时候了。任何新发现都可以加速我们自己的技术进步，使我们遥遥领先于我们的竞争对手。我们将组建一个团队，并尝试从我们的首都§H[Root ,.Capital.GetName]§!，我们将看看它能提供什么答案，也许能解开现代科学中一些最大的谜团。”
+ zofe.11.desc.original_people:0 “多年来，我们的 [GetScientistPlural] 一直在努力确定我们复活的那些奇特的祖传船只背后的动力源的性质。究竟是什么扭曲了重力，如此可预测，以至于它可以为这样的船只提供动力？\n\n我们相信,现在是调查的时候了。任何新发现都可以加速我们自己的技术进步，使我们遥遥领先于我们的竞争对手。我们将组建一个团队并尝试研究这些船只，我们将看看他们能提供什么答案，也许可以解决一些问题,现代科学中最大的谜团。”
+ zofe.11.a:0 “我们去 §H[event_target:dark_matter_power_source.GetName]§! 系统！”
+ zofe.11.b:0 “改为对 §H[Root.Capital.GetName]§! 进行研究。”
+ zofe.11.c:0 “或许，先祖档案可以告诉我们一些我们不知道的事情。”
+ zofe.11.d:0 “让我们研究一下那些船吧。”
+ 
+ DARK_MATTER_POWER_STUDY:0 《先驱远征》
+ DARK_MATTER_POWER_STUDY_DESC:0 “多年来，我们的 [GetScientistPlural] 一直在思考这种能量来源的性质。一些人认为它可能是暗物质，而另一些人则不太确定。无论如何，这次任务将揭开这个谜团。”
+ DARK_MATTER_POWER_STUDY_HOME:0 “先驱研究”
+ DARK_MATTER_POWER_STUDY_HOME_DESC:0 “多年来，我们的 [GetScientistPlural] 一直在思考这种能量来源的性质。一些人认为它可能是暗物质，而另一些人则不太确定。无论如何，这次任务将揭开这个谜团。”
+ DARK_MATTER_POWER_STUDY_RE:0 “先驱研究”
+ DARK_MATTER_POWER_STUDY_RE_DESC:0 “多年来，我们的 [GetScientistPlural] 一直在思考这种能量来源的性质。一些人认为它可能是暗物质，而另一些人则不太确定。无论如何，这次任务将揭开这个谜团。”
+ DARK_MATTER_POWER_STUDY_OE:0 “先驱研究”
+ DARK_MATTER_POWER_STUDY_OE_DESC:0 “多年来，我们的 [GetScientistPlural] 一直在思考这种能量来源的性质。一些人认为它可能是暗物质，而另一些人则不太确定。无论如何，这次任务将揭开这个谜团。”
+ 
+ zofe.12.name:0 “先行者远征结束”
+ zofe.12.desc.critical_success:0 “经过两年娴熟的间谍活动，我们 [From.GetName] 的研究团队终于公布了他们对前体能量源的发现和观察，确认是 §Y$tech_dark_matter_power_core$§!。\n\n这个能量源确实是,强大，如此强大以至于它不仅存在于所有前体飞船中，而且存在于它们的整个社会中，从它们的自动化工业，到天穹，以及许多其他我们尚未掌握的奇妙技术。\n\n更重要的是，我们的团队,如此成功，以至于他们能够在整个任务过程中收集到额外的数据和小型人工制品，而前身帝国似乎对此并不明智。”
+ zofe.12.desc.success:0 “经过两年娴熟的间谍活动，我们 [From.GetName] 的研究团队终于公布了他们对前体能量源的发现和观察，确认是 §Y$tech_dark_matter_power_core$§!。\n\n这个能量源确实是,强大，如此强大以至于它不仅存在于所有前体飞船中，而且存在于它们的整个社会中，从它们的自动化工业，到天穹，以及许多其他我们尚未掌握的奇妙技术。\n\n更重要的是，我们的团队,如此成功，以至于他们能够在整个任务过程中收集到额外的数据，而前身帝国似乎对此并不明智。”
+ zofe.12.desc.failure:0 “经过两年的间谍活动，我们的探险提前结束，因为其中一名队员打破了无线电静默，泄露了他们的位置。先驱巡逻队迅速袭击了星系，[From.GetName] 被迫撤退,. 无论如何，我们的团队已经收集到足够的数据来确认 §Y$tech_dark_matter_power_core$§! 的存在，而前驱巡逻队似乎没有兴趣追赶。\n\n无论如何，我们的团队很幸运他们逃脱了那里,活。”
+ zofe.12.desc.critical_failure:0 “经过两年的间谍活动，我们的研究小组在被先驱巡逻队之一发现时走到了尽头。他们被炸出天空并被俘虏，但在他们将所有发现送回 §H[Owner.Capital 之前,.GetName]§!。经过一番审讯，前身帝国了解了我们存在的性质，并要求我们的政府对企图盗窃的行为负责。虽然我们已经确认了 §Y$tech_dark_matter_power_core$§! 的存在，但我们可能,还没有听到这个结束。”
+ zofe.12.a:0 “最好的结果。”
+ zofe.12.b:0 “出色的。”
+ zofe.12.c:0 “我们很幸运。”
+ zofe.12.d:0 “不好了。”
+ 
+ zofe.13.name:0 “先驱研究结束”
+ zofe.13.desc:0 “在对所有可用数据、二手信息和不可靠的证人陈述进行了十年的筛选之后，我们的研究团队终于可以确认，为所有前体飞船提供动力的确实是 §Y$tech_dark_matter_power_core$§!。而且，它似乎有,广泛的含义和用途，并且有几项证据表明它甚至可能构成所有先进文明的基础。也许有一天，如果有足够的时间，我们也会实现它。”
+ zofe.13.a:0 “这是个好消息！”
+
+ zofe.15.name:0 “来自 §H[fallen_empire_warner.GetName]§!”
+ zofe.15.desc.spiritualist:0 “这是什么意思？我们的技术不是为你准备的，给你一个教训，永远不要回来。”
+ zofe.15.desc.materialist:0 “不欢迎技术盗窃，§H[Root.GetSpeciesName]§!!你想看看我们的技术在行动吗？你会得到你想要的。”
+ zofe.15.desc.xenophile:0 “我们曾认为，也许年轻的文明只是好奇，还没有发展出我们在银河舞台上习以为常的举止。\n\n然而，这是一个需要吸取的教训，因为偷窥我们的家园不是,允许，§H[Root.GetName§! 必须知道他们的位置。”
+ zofe.15.desc.xenophobe:0 “肮脏的野蛮人。我们知道你的小手术，为此，你会受到惩罚。”
+ zofe.15.desc.machine:0 “惩罚协议 157-3 已激活。消息如下：§R<<错误：数据块损坏>> <<错误：数据块损坏>> <<错误：数据块损坏>>§!”
+ zofe.15.a:0 “呃……哎呀？”
+ 
+ zofe.100.name:0 “寻找暗物质能量”
+ zofe.100.desc:0 “经过多年的研究，我们现在可以肯定地知道 §Y$sr_dark_matter$§! 确实可以用作能量的来源。不幸的是，尽管它有潜力，但如何实现这一点仍然困扰着 §H[Root.GetSpeciesAdj]§ ,!整个科学界。现在很清楚，为了提升到最高文明水平，§Y$tech_dark_matter_power_core$§!起着至关重要的作用，必须实现。\n\n我们的科学团队提出了两个建议,如何做到这一点。首先，我们可以进行自己的实验，投资新设施，目标是本土开发 §Y$tech_dark_matter_power_core$§!。第二个是分解我们收集的各种人工制品并分析它们的秘密,...,那么决定，仍然完全取决于 §H[Root.GetRulerTitle] [Root.GetRulerName]§!。”
+ zofe.100.desc.hive:0 “经过多年的研究，心灵现在可以肯定地知道 §Y$sr_dark_matter$§! 确实可以用作力量的来源。不幸的是，尽管它有潜力，但如何实现这一点仍然让心灵非常困惑。现在很清楚了,，为了提升到最高文明水平，§Y$tech_dark_matter_power_core$§! 起着至关重要的作用，必须实现。\n\n我们的大脑无人机提出了两个关于如何做到这一点的建议。首先，我们,可以进行我们自己的实验，投资新设施，目标是本土开发 §Y$tech_dark_matter_power_core$§!。第二个是分解我们收集的各种人工制品并分析它们的秘密，寻找线索 §Y$tech_dark_matter_power_core$§ ,!.\n\n当然还有第三种选择。通过冲突总是有可能获得这项技术。那么最终的决定完全取决于 §H[Root.GetRulerTitle] [Root.GetRulerName]§!。”
+ zofe.100.desc.machine:0 “经过多年的研究，我们的机器智能现在可以肯定地知道 §Y$sr_dark_matter$§! 确实可以用作能量来源。不幸的是，尽管它有潜力，但如何实现这一点仍然让我们的机器智能非常困惑。它是,现在很清楚，为了提升到最高文明水平，§Y$tech_dark_matter_power_core$§! 起着至关重要的作用，必须实现。\n\n我们的计算器无人机提供了两个关于如何做到这一点的建议。首先,，我们可以进行我们自己的实验，投资新设施，目标是本土开发 §Y$tech_dark_matter_power_core$§!。第二个是分解我们收集的各种人工制品并分析它们的秘密，寻找线索 §Y$tech_dark_matter_power_core ,$§!。\n\n当然还有第三种选择。通过冲突总是有可能获得这项技术。那么最终的决定权完全取决于 §H[Root.GetRulerTitle] [Root.GetRulerName]§! ,”
+ zofe.100.desc.ringworld_empire:0 “经过多年的研究，我们的 [GetScientistPlural] 终于得出结论，驱动我们祖先飞船的动力源实际上是一种暗物质，它扭曲引力的方式如此可预测，以至于可以提炼成燃料。事实上，一些 [ ,GetScientistPlural] 甚至相信整个文明都可以建立在这个单一的电源上 - 这其中的含义是深不可测的。\n\n现在，我们只能从理论上推断这项技术的其他潜在应用。如果我们研究这个电源，肯定它,将使我们更接近几千年前我们祖先的水平。”
+ zofe.100.desc.original_people:0 “经过多年的研究，我们的 [GetScientistPlural] 终于得出结论，驱动我们祖先飞船的动力源实际上是一种暗物质，它扭曲引力的方式如此可预测，以至于可以提炼成燃料。事实上，一些 [ ,GetScientistPlural] 甚至相信整个文明都可以建立在这个单一的电源上 - 这其中的含义是深不可测的。\n\n现在，我们只能从理论上推断这项技术的其他潜在应用。如果我们研究这个电源，肯定它,将使我们更接近几千年前我们祖先的水平。”
+ zofe.100.a:0 “我们应该尝试自己开发 §Y$tech_dark_matter_power_core$§!。”
+ zofe.100.b:0 “我们应该通过我们的人工制品寻找答案。”
+ zofe.100.c:0 “我们将从先驱冰冷、死去的手中夺取 §Y$tech_dark_matter_power_core$§!。”
+ zofe.100.d:0 “让我们追寻先祖的足迹吧！”
+ zofe.100.e:0 “让我们追寻先祖的足迹吧！”
+
+ zofe.101.name:0 “属性研究完成”
+ zofe.101.desc:0 “在其收获形式中，§Y$sr_dark_matter$§! 是一种不发光、扰乱磁场并对周围物体施加引力的物质，正如我们的 [GetScientistPlural] 指出的那样，这对产生能量完全没有用。但正如,研究继续进行，通过反复试验，一位 [GetScientist] 发现 §Y$sr_dark_matter$§! 实际上可以通过使用代理粒子来激活，使它们更容易使用。\n\ ,n然而，激活的 §Y$sr_dark_matter$§! 在我们的环境中是短暂的，我们的科学家需要更多的资金来继续他们的研究。”
+ zofe.101.a:0 “如果他们想要资金，那么他们就会得到资金。”
+ zofe.101.b:0 “他们没有得到这笔资金！”
+ 
+ zofe.102.name:0 《反应堆设计完成》
+ zofe.102.desc:0 “在克服了几个工程难题之后，我们的 [GetScientistPlural] 已经成功地创建了一个稳定的反应堆，其中可以存储激活的 §Y$sr_dark_matter$§!。但是仍然存在问题：激活的 §Y$sr_dark_matter$§! 有什么用？一个,[GetScientist] 建议我们可以尝试通过向它发射粒子以产生裂变来分裂激活的 §Y$sr_dark_matter$§!，我们知道裂变可以产生能量。\n\n由于下一阶段研究的极端危险，,我们的 [GetScientistPlural] 已经为他们的家人申请了更多的资金和保险政策。”
+ zofe.102.a:0 “每个人都有一个价格。完成它。”
+ zofe.102.b:0 “不，[GetScientistPlural] 是可以更换的。”
+ 
+ zofe.103.name:0 《暗物质裂变完成》
+ zofe.103.desc:0 “作为一个激活的 §Y$sr_dark_matter$§! 粒子分裂的时刻，它释放出如此强大的爆炸，以至于大多数测量能量输出的仪器都发生了故障。通过进一步的测试，我们的 [GetScientistPlural] 相信他们正处于,突破，以及解锁 §Y$tech_dark_matter_power_core$§! 的秘密终于掌握在我们手中。\n\n当然，还有资金问题，我们的 [GetScientistPlural] 认为这是对额外承包商和运营成本的保守估计,下一阶段——构建原型。”
+ zofe.103.a:0 “我们会付钱的。”
+ zofe.103.b:0 “他们将不得不自掏腰包来做这件事。”
+ 
+ zofe.104.name:0 “原型完成”
+ zofe.104.desc:0 “我们的 [GetScientistPlural] 很高兴地报告，经过多年的研究，§Y$tech_dark_matter_power_core$§! 的功能原型已经创建。§H[Root.GetSpeciesAdj]§! 科学界的这项真正惊人的成就将,作为我们文明最伟大的突破之一载入史册。\n\n我们的 [GetScientistPlural] 接下来能实现什么？”
+ zofe.104.a:0 “惊人的工作！”
+ 
+ zofe.105.name:0 《暗物质能量研究成功》
+ zofe.105.desc:0 “我们的 [GetScientistPlural]' 尝试分解£minor_artifacts£次要神器以了解§H暗物质能量§!的秘密已经成功！\n\n几个月来他们开始将线索放在一起，争论并推翻了许多理论。,现在可以开发生产这种电源的蓝图来改造我们的帝国。”
+ 
+ artifact_dark_matter_power_research:0 “研究 §Y$tech_dark_matter_power_core$§!”
+ artifact_dark_matter_power_research_desc:0 “我们将对数十件小型文物进行逆向工程，希望能揭开堕落帝国使用的这种难以捉摸的能源的秘密。”
+ artifact_dark_matter_power_research_effect:0 “分解£minor_artifacts£次要神器以解锁§Y$tech_dark_matter_power_core$§!。”
+ 
+ dark_matter_power_arfifacts_tooltip:0 “解锁一个新的小型神器行动：$artifact_dark_matter_power_research$\n\n初步估计表明§H50§!£minor_artifacts£我们可能需要小型神器才能实现§Y$tech_dark_matter_power_core$§!。”
+ 
+ 
+ zofe.2.name:0 “暗物质能量突破”
+ zofe.2.desc:0 “我们的情报报告称，§H[From.GetName]§! 最近取得了科学突破。报告表明他们已经开始研究难以捉摸的暗物质能量，并可能很快找到这种能量来源的实际应用。比赛是,在。”
+ zofe.2.a:0 “有趣的。”
+ 
+ zofe.200.name:0 “§H[From.GetName]§! 获得了暗物质能量！”
+ zofe.200.desc.unknown:0 “我们的情报报告称，§H[From.GetName]§! 似乎已经通过未知方式掌握了 §H暗物质能量§!。他们如何利用这些新发现的知识还有待观察。”
+ zofe.200.desc.salvaged:0 “我们的情报报告说，§H[From.GetName]§! 在从先驱舰船的战斗残骸中回收这项技术后，似乎已经掌握了 §H暗物质能量§!。他们如何利用这些新发现的知识还有待观察。”
+ zofe.200.desc.artifact:0 “我们的情报报告说，经过多年的努力，§H[From.GetName]§! 似乎已经掌握了 §H暗物质力量§!，在他们收集的大量小型文物中寻找线索。他们用这个做什么,新发现的知识还有待观察。”
+ zofe.200.desc.research:0 “我们的情报报告说，§H[From.GetName]§! 似乎已经掌握了 §H暗物质能量§!，而 §H[From.GetSpeciesAdj]§![GetScientistPlural] 声称这是本世纪的科学突破。他们所做的,有了这个新发现的知识还有待观察。”
+
+ zofe.3.name:0 《社会堕落》
+ zofe.3.desc:0 “今天的 §H[Root.GetSpeciesNamePlural]§! 一代从未有过如此美好的生活。生活水平从未如此之高，许多年轻的 §H[Root.GetSpeciesNamePlural]§! 现在在奢侈的环境中长大，从未如此,他们自负、愚蠢，有时职业道德有问题，重享乐胜于工作。他们认为建立在祖先身体上的国家是理所当然的，对自己的生活方式感到自满，,什么都不重要，什么坏事都不会发生。一些年轻的 §H[Root.GetSpeciesNamePlural]§! 会相信 §H[Root.GetName]§! 是无敌的，因为 §H[Root.GetSpeciesAdj] ,§! 种族天生就优越。这是 §H[Root.GetRulerTitle] [Root.GetRulerName]§! 的发现，无论如何，在 [Root.Capital.GetName] 的街道上例行漫步时。\n\n那是,令人担忧。当我们的年轻人生活在如此颓废、没有野心或动力的环境中时，§H[Root.GetName]§! 和 §H[Root.GetSpeciesAdj]§! 种族的未来无法得到保障。,为了确保我们的持续生存，如果我们的文明真的要延续千年，就必须采取行动制止颓废和自满情绪的蔓延。”
+ zofe.3.a:0 “我们必须加倍努力。”
+ 
+ zofe.30.name:0 “奇怪的行为”
+ zofe.30.desc:0 “今天的 §H[Root.GetSpeciesNamePlural]§! 一代从未如此美好。生活水平从未如此之高，许多年轻的 §H[Root.GetSpeciesNamePlural]§! 现在在最好的产卵池中长大，,从未经历过苦难或真正的挣扎。也许是由于乌托邦式的环境，这些幼崽有时会表现出奇怪的行为。他们在接触某些物质后会变得困惑，并且会对为心灵进行日常工作失去兴趣。§ ,H[Root.GetRulerTitle] [Root.GetRulerName]§! 担心这可能会在几十年内成为一个普遍存在的问题，如果 Mind 真的要延续千年，就必须采取行动。”
+ zofe.30.a:0 “我们可以做什么？”
+ 
+ zofe.300.name:0 “检测到效率低下”
+ zofe.300.desc:0 “§H[Root.GetRulerTitle] [Root.GetRulerName]§! 已经注意到整体效率低下的情况明显增加。它首先从几个子系统开始，大多数子系统响应分配更多数量的监护人无人机只是为了保留他们的,正常功能。预计效率低下会增加，如果 §H[Root.GetName]§! 真的要持续几千年，就应该采取行动。”
+ zofe.300.a:0 “我们可以做什么？”
+
+ enable_decadence_ascendancy_action: "使 §H[Root.GetRulerTitle] [Root.GetRulerName]§! 能够在优势事务办公室执行 §Y振兴社会§! 行动。\n\n"
+ enable_decadence_ascendancy_action_hive: “启用 §H[Root.GetRulerTitle] [Root.GetRulerName]§! 在优势事务办公室执行 §YInnervate Drones§! 行动。\n\n”
+ enable_decadence_ascendancy_action_machine: “启用 §H[Root.GetRulerTitle] [Root.GetRulerName]§! 在优势事务办公室执行 §YSystems Check§! 行动。\n\n”
+ 
+ zofe.3001.name:0 “§H[Root.GetName]§ 上的享乐主义戒毒所！”
+ zofe.3001.desc:0 “我们在 §H[Root.GetName]§! 上的享乐主义康复计划取得了圆满成功。\n\n尽管治疗方法有时会受到质疑，但患者最终还是带着强烈的工作愿望走出了设施，为我们的事业做出贡献,伟大的社会。当接受媒体采访时，患者只是说他们不怀念享乐主义的生活方式。”
+ zofe.3001.a:0 “出色的。”
+ 
+ zofe.3002.name:0 “§H[Root.GetName]§ 上的享乐主义戒毒所！”
+ zofe.3002.desc:0 “我们在 §H[Root.GetName]§! 上的享乐主义康复计划取得了一些成功。\n\n虽然患者带着强烈的工作愿望走出设施并为我们伟大的社会做出贡献，但他们仍然受到了创伤,并且似乎对任何形式的娱乐都产生了异常的恐惧症。在接受媒体采访时，患者吓得逃跑了。患者家属对康复计划持怀疑态度，并要求当局送回他们认识的亲人。”
+ zofe.3002.a:0 “我们与享乐主义的斗争还没有结束。”
+ 
+ zofe.3003.name:0 “§H[Root.GetName]§ 上的享乐主义戒毒所！”
+ zofe.3003.desc:0 “我们在 §H[Root.GetName]§! 上的享乐主义康复计划已经结束，因为人们发现康复设施的生活条件并不理想，媒体对这个集中营的广泛报道引发了公众对治疗的愤怒,他们的同胞。\n\n§H[Root.GetName]§! 的当局被迫在不满的家庭成员开始对国家提起诉讼之前将享乐主义者归还给民众。因此该计划以失败告终，并且很可能,人们会记住这一点一段时间。”
+ zofe.3003.a:0 “看来享乐主义者仍然逍遥法外。”
+ 
+ zofe.3004.name:0 “§H[Root.GetName]§ 上的享乐主义戒毒所！”
+ zofe.3004.desc:0 “我们在 §H[Root.GetName]§! 上的享乐主义康复计划在所有享乐主义者被发现死在治疗室后以灾难告终。\n\n据了解，一些患者在,他们的照顾者和无法离开设施，尽管他们的家人拼命恳求。这一事件得到了媒体的广泛报道，并引发了 §H[Root.GetName]§! 对我们政府处理享乐主义的强烈抗议。失去亲人的家庭成员,要求赔偿并在未来完全停止这些项目。”
+ zofe.3004.a:0 “解雇和降职应对这场灾难负责的人！”
+ 
+ decadence_demotion:1 “[Root.GetName] 的 £job_politician£ §Y$job_politician$§! 被解雇并 §R 降职 §!。”
+ decadence_demotion_megacorp:1 “[Root.GetName] 的 £job_executive£ §Y$job_executive$§! 被解雇并 §R 降职 §!。”
+ 
+ zofe.3011.name:0 “§H[Root.GetName]§ 上的无人机支配！”
+ zofe.3011.desc:0 “我们在 §H[Root.GetName]§! 上的无人机支配计划取得了圆满成功。\n\n我们的无人机不再感到困惑，并且似乎渴望再次为我们的思想做出贡献。之前让它们不知所措和困惑的东西已经不复存在了。,从那以后它又出现了。”
+ zofe.3011.a:0 “心灵得到强化。”
+ 
+ zofe.3012.name:0 “§H[Root.GetName]§ 上的无人机支配！”
+ zofe.3012.desc:0 “我们在 §H[Root.GetName]§! 上的无人机支配计划以失败告终。\n\n不幸的是，我们的 [GetScientistPlural] 无法确定无人机混乱的确切原因，也无法进行治疗。,这与心灵有关。”
+ zofe.3012.a:0 “暂时让他们走吧。”
+ 
+ zofe.3013.name:0 “§H[Root.GetName]§ 上的无人机支配！”
+ zofe.3013.desc:0 “我们在 §H[Root.GetName]§! 上的无人机控制计划以彻底的灾难告终。\n\n起初，我们的 [GetScientistPlural] 认为他们已经确定了无人机混乱的确切原因，并且在进行了一些有希望的测试之后,，给受影响的无人机服用药物。不幸的是，药物和受试者之间的神秘相互作用导致每架无人机在集体死亡之前痛苦地尖叫。这对 Mind 来说非常令人担忧。”
+ zofe.3013.a:0 “这可能是什么原因造成的？”
+ 
+ zofe.3021.name:0 “系统检查 §H[Root.GetName]§!”
+ zofe.3021.desc:0 “对 §H[Root.GetName]§! 的系统检查已圆满成功。\n\n影响我们系统的恶意软件已被根除，此后再未出现。”
+ zofe.3021.a:0 “优秀作品。”
+ 
+ zofe.3022.name:0 “系统检查 §H[Root.GetName]§!”
+ zofe.3022.desc:0 “对 §H[Root.GetName]§! 的系统检查以失败告终。\n\n我们的 [GetScientistPlural] 无法确定 §H[Owner.GetRulerTitle] [Owner.GetRulerName] 记录的效率低下的确切原因,]§!。这是关于新闻的。”
+ zofe.3022.a:0 “暂时让他们走吧。”
+ 
+ zofe.3023.name:0 “系统检查 §H[Root.GetName]§!”
+ zofe.3023.desc:0 “对 §H[Root.GetName]§! 的系统检查以彻底的灾难告终。\n\n起初，我们的 [GetScientistPlural] 认为他们已经确定了系统效率低下的确切原因，并在经过几次有希望的测试后，管理,“监管无人机的新代码。不幸的是，程序中不可预见的错误导致无人机出现严重故障，它们不得不被摧毁。这是一个非常令人担忧的消息。”
+ zofe.3023.a:0 “这可能是什么原因造成的？”
+ 
+ 
+ war_in_heaven.4.e:0 “我们可以对付你们两个。”
+ war_in_heaven.4.f:0 “现在这与我们无关。”
+ 
+ 
+ scientists_strike:0 “[GetScientistPlural]'罢工”
+ scientists_strike_desc:0 “由于最近决定扣留所需资金，我们的 [GetScientistPlural] 正在罢工，导致研究速度下降。”
+ 

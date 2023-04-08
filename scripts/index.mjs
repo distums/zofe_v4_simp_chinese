@@ -49,11 +49,10 @@ const processLine = async (line) => {
 };
 
 const run = async () => {
+  const startTime = Date.now();
   await rm(`localisation/${target}`, { recursive: true, force: true });
-  const files = await glob(
-    `localisation/${source}/**/zofe_situations_l_english.yml`
-  );
-  files.forEach(async (file) => {
+  const files = await glob(`localisation/${source}/**/*.yml`);
+  for (const file of files) {
     console.log("开始翻译文件{%s}", file);
     const relativePath = path.relative(`localisation/${source}`, file);
     const dirName = path.dirname(relativePath);
@@ -81,7 +80,9 @@ const run = async () => {
       console.log(file);
       console.error(ex);
     }
-  });
+  }
+  const duration = Math.ceil((Date.now() - startTime) / 1000);
+  console.log("用时：%s秒", duration);
 };
 
 run();

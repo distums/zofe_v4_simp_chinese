@@ -1,0 +1,69 @@
+l_simp_chinese:
+ 
+
+ zofe_awakening.100.name:0 “来自 §H[fallen_empire_warner.GetName]§!”
+ zofe_awakening.100.desc:0 “没有灵魂的机器！\n\n你胆敢玩弄不属于你自己的技术，那东西太神圣了，不能被肮脏的 [Root.GetSpeciesAdj] 之手...或任何你称之为的东西所篡改。现在放弃你的追求,：§H[fallen_empire_warner.GetName]§! 和 §H[fallen_empire_warner.GetSpeciesAdj]§! 人民不会接受另一个机器霸权干涉银河事务。”
+ zofe_awakening.100.a:0 “§H[Root.GetName]§! 必须满足您的要求……”
+ zofe_awakening.100.b:0 “§H[fallen_empire_warner.GetName]§! 不会阻止我们的飞升！”
+ fallen_empire_warning_happy_tooltip:0 “§H[fallen_empire_warner.GetName]§! 会很高兴，并可能在未来对我们表示好感。”
+ fallen_empire_warning_unhappy_tooltip:0 “§H[fallen_empire_warner.GetName]§! 会不高兴的。”
+ 
+ zofe_awakening.102.name:0 “来自 §H[fallen_empire_warner.GetName]§!”
+ zofe_awakening.102.desc.a:0 “你胆敢违抗神灵？\n\n也许是时候给你们这些肮脏的机器上一课了。是的...迅速战胜你们这些没有灵魂的躯壳会让 §H[fallen_empire_warner.GetSpeciesAdj]§! 民众高兴，并向他们展示,粗制滥造的金属永远无法战胜忠实的银河系。”
+ zofe_awakening.102.desc.b:0 “神灵已经发话了，§H[fallen_empire_warner.GetSpeciesAdj]§! 人们应该服从，因为现在是我们的人民和 §H[Root.GetName]§! 的邪恶机器之间的战争！我们怀疑 [Root. ,GetSpeciesNamePlural] 会感到恐惧，因为它们不过是生活的可恶复制品。§H[Root.GetName]§! 的末日临近了！”
+ zofe_awakening.102.a:0 “§H[Root.GetRulerTitle] [Root.GetRulerName]§! 计算得出 §H[Root.GetAdj]§! 胜利的几率为 89.357%。”
+ zofe_awakening.102.b:0 “§H[Root.GetRulerTitle] [Root.GetRulerName]§! 计算得出 §H[Root.GetAdj]§! 胜利的几率为 76.185%。”
+ 
+ zofe_awakening.105.name:0 “来自 §H[fallen_empire_supporter.GetName]§!”
+ zofe_awakening.105.desc:0 “注意 §H[Root.GetSpeciesNamePlural]§!。我们已经了解了你们目前的困境，灵魂们非常愤怒，以至于另一个前身帝国可以对信徒采取这种行动。\n\n虽然我们无法干预这场冲突,如果 [Root.GetRulerTitle] [Root.GetRulerName] 允许，许多 [fallen_empire_supporter.GetSpeciesNamePlural] 已经准备好并愿意保卫你们的世界，直接由于事先达成的协议。我们向你们保证，我们的志愿者训练有素并且渴望战斗。”
+ zofe_awakening.105.a:0 “我们欢迎你们的志愿者加入我们的保卫战。”
+ zofe_awakening.105.b:0 “我们不需要帮助。”
+ 
+ NAME_FE_ZEALOTS:0 “志愿狂热者”
+ 
+ zofe_awakening.200.name:0 “来自 §H[fallen_empire_warner.GetName]§!”
+ zofe_awakening.200.desc:0 “停下来，[Root.GetSpeciesNamePlural]。\n\n你最近在暗物质技术方面的研究和可怜的进步并没有在 §H[fallen_empire_warner.GetAdj]§! 社会中被忽视，因为我们已经找到了滥用的证据，这需要我们尽最大努力,担心。§H[Root.GetName]§! 的科学进步已经有一段时间不受管制了，你们对危险技术的不计后果的追求不仅威胁到我们的国家安全，也威胁到银河系的和平。\n\n现在必须结束。,我们的监督员正在前往负责你们的研究机构，以确保未来的技术进步是安全和合乎道德的。”
+ zofe_awakening.200.a:0 “§H[Root.GetName]§! 将遵守您的规定……”
+ zofe_awakening.200.b:0 “不管有没有 [fallen_empire_warner.GetSpeciesAdj] 批准，我们都会成为优势。”
+ 
+ zofe_awakening.202.name:0 “来自 §H[fallen_empire_warner.GetName]§!”
+ zofe_awakening.202.desc.a:0 “§H[fallen_empire_warner.GetRulerTitle] [fallen_empire_warner.GetRulerName]§! 最不高兴的是得知我们对 [Root.GetName] 遵守科学法规的要求被忽视了。\n\n看来 §H[Root ,.GetSpeciesNamePlural]§! 不会放弃对危险技术的追求，直到他们看到危险技术就在他们面前。我们非常乐意安排一次演示，让 [Root.GetAdj] 的野心落空。”
+ zofe_awakening.202.desc.b:0 “够了！\n\n你对科学的不计后果的追求和你想在技术上与 §H[fallen_empire_warner.GetName]§! 平起平坐的野心必须停止。既然你不会接受我们提供的和平监管，我们的监督者现在必须进入,与我们的舰队。像你们这样的年轻文明永远不会吸取教训。”
+ zofe_awakening.202.a:0 “我们别无选择，只能捍卫我们的科学进步。”
+ zofe_awakening.202.b:0 “§H[Root.GetName]§! 不得服从你的规定！”
+ 
+ zofe_awakening.205.name:0 “来自 §H[fallen_empire_supporter.GetName]§!”
+ zofe_awakening.205.desc:0 “哼，那些狂热者似乎又来了。\n\n听着，[Root.GetSpeciesNamePlural]，我们发现自己非常需要娱乐，而且我们这里恰好有一些多余的船只，你可能会发现它们对我们的先驱最有用,对你有问题的朋友。自然地，反修补设备已经安装，它的许多高级组件已被更粗糙、不太复杂的技术所取代，所以你不会对他们的操作感到过度困惑。\n\n你应该成功吗？,打败狂热者，事实证明这确实是最有趣的。”
+ zofe_awakening.205.a:0 “我们接受您慷慨捐赠的硬件。”
+ zofe_awakening.205.b:0 “我们不需要帮助。”
+ 
+ NAME_FE_ZEALOTS:0 “剩余的堕落帝国船只”
+ 
+ zofe_awakening.300.name:0 “来自 §H[fallen_empire_warner.GetName]§!”
+ zofe_awakening.300.desc:0 “长期以来，§H[fallen_empire_warner.GetName]§! 一直非常关注 [Root.GetName] 对银河系生物和社会多样性的影响。虽然我们致力于保护,所有形式的生命，我们研究了你们的物种，并确定必须在此时此地制止你们的恶行，以免你们成为银河系所有生命的威胁。,做正确的事。”
+ zofe_awakening.300.a:0 “§H[Root.GetName]§! 将签署你的条约……”
+ zofe_awakening.300.b:0 “§H[Root.GetName]§! 不会被欺负！”
+ 
+ zofe_awakening.302.name:0 “来自 §H[fallen_empire_warner.GetName]§!”
+ zofe_awakening.302.desc.a:0 “§H[fallen_empire_warner.GetRulerTitle] [fallen_empire_warner.GetRulerName]§! 得知我们要求 [Root.GetName] 停止暴行的要求被置若罔闻，这让我们非常不高兴。\n\n看来 §H[ ,Root.GetSpeciesNamePlural]§! 除非他们被迫这样做，否则他们不会放弃他们的邪恶行为。我们很乐意给你上一课，让 [Root.GetAdj] 的优势得到休息。”
+ zofe_awakening.302.desc.b:0 “够了！\n\n你们的暴行必须停止。既然你们不接受我们的和平提议，你们就迫使我们的手直接介入。准备开战吧！”
+ zofe_awakening.302.a:0 “§H[fallen_empire_warner.GetName]§! 的时代结束了。”
+ zofe_awakening.302.b:0 “我们将享受从银河表面抹去 §H[fallen_empire_warner.GetName]§! 的乐趣。”
+ 
+ zofe_awakening.305.name:0 “来自 §H[fallen_empire_supporter.GetName]§!”
+ zofe_awakening.305.desc:0 “你们好，我们在 §H[Root.GetName]§! 的朋友们。\n\n我们对最近的事态发展深感不安，绝对不会允许一个拥有我们共同价值观的年轻文明被另一个前身帝国撕裂。\ ,n\n虽然我们不能根据先前的条约直接干预这场冲突，但上述条约并未提及军事援助或志愿者参与。许多 [fallen_empire_supporter.GetSpeciesNamePlural] 将蜂拥而至捍卫我们的共同价值观和充满异种多样性的星系，如果 [ ,Root.GetRulerTitle] [Root.GetRulerName] 允许。我们向您保证，我们的志愿者训练有素并且渴望战斗。”
+ zofe_awakening.305.a:0 “那么我们将欢迎 [fallen_empire_supporter.GetSpeciesAdj] 志愿者加入我们，成为朋友。”
+ zofe_awakening.305.b:0 “谢谢，但不需要帮助。”
+ 
+ NAME_FE_VOLUNTEERS:0 “先驱志愿者”
+ 
+ zofe_awakening.400.name:0 “来自 §H[fallen_empire_warner.GetName]§!”
+ zofe_awakening.400.desc:0 “§H[fallen_empire_warner.GetRulerTitle] [fallen_empire_warner.GetRulerName]§! 敏锐地意识到最近 §H[Root.GetName]§! 的海军集结，破坏了我们在银河系的国家利益。\n\n§H ,[fallen_empire_warner.GetName]§! 不会允许这种集结不受控制地增长。我们要求 [Root.GetAdj] 海军完全无条件投降，然后将所有军舰移交给我们控制，以妥善保管。不遵守将,对你来说不是好兆头。”
+ zofe_awakening.400.a:0 “我们别无选择，只能放弃我们的舰队……”
+ zofe_awakening.400.b:0 “我们不会被剥夺自卫的手段！”
+ 
+ zofe_awakening.402.name:0 “来自 §H[fallen_empire_warner.GetName]§!”
+ zofe_awakening.402.desc.a:0 “§H[Root.GetName]§! 的野蛮人，你被警告过！如果你不把你的海军舰艇交给我们保管，那么我们将亲自前来摧毁它们！”
+ zofe_awakening.402.desc.b:0 “肮脏的 [Root.GetSpeciesNamePlural]。你已经是最后一次与我们作对了。向你的宗主屈服，我们可能不会毁灭你毫无价值的帝国！”
+ zofe_awakening.402.a:0 “§H[Root.GetName]§! 将在战斗中与你会面！”
+ zofe_awakening.402.b:0 “§H[Root.GetName]§! 不会屈服于你的暴政！”
