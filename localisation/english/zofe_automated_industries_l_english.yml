@@ -1,0 +1,45 @@
+﻿l_english:
+ 
+ 
+ automated_industries.1.name:0 "Working as Intended?"
+ automated_industries.1.desc:0 "For centuries, the Fallen Empires had operated impressive automated facilities across their worlds that required no workers, and their entire economy relied on them. However, recent papers published by our scientists theorized that perhaps the buildings might not be functioning as originally designed. For example, the size of the buildings seemed to suggest a greater output capacity, and there are unexplained presence of ports and ducts that seemed to suggest other resources are being mixed in to the production process, but have simply fallen into disrepair.\n\nPerhaps if we take a closer look at the buildings' schematics, combining our considerable knowledge and experience in engineering, we can search for clues as to what resources they used to achieve peak efficiency."
+
+ automated_industries.1.a:0 "Study the schematics closely."
+ automated_industries.1.b:0 "The buildings are perfect - no need for improvements."
+ 
+ automated_industries.2.name:0 "Schematics Reviewed"
+ automated_industries.2.desc:0 "As our scientists suspected, due to a gradual loss of territory over the years, the resulting lack of resources meant it had become increasingly difficult for the Fallen Empires to maintain their automated buildings, and thus, allowed these marvels of engineering to run themselves into disrepair. But once given the proper §Hstrategic resources§!, the automated facilities seemed to be given a new life, and its output began to skyrocket beyond our scientists' wildest dreams.\n\nIn addition, we seemed to have made another discovery: the schematics themselves seemed to suggest that another building, likely a type of control center, was used to coordinate the facilities' production on a planetwide level in order to maximize output. Our scientists are already drawing up plans to integrate such a system into our automated buildings, which could boost our economy significantly."
+ automated_industries.2.a:0 "Excellent."
+ 
+# automated_industries.3.name:0 "Automated Industries Expansion"
+# automated_industries.3.desc:0 "Given the right planning and resources, our planetary districts could be converted to house the latest innovations of automated production. The new industrial revolution is finally upon us."
+# automated_industries.3.a:0 "Let the age of automation begin."
+# automated_districts:0 "Planetary Decision Unlocked: §Y$decision_automated_districts$§!"
+# automated_industries.3.b:0 "There will be no revolution. Keep our districts the way they are."
+ 
+ 
+ AUTOMATED_INDUSTRIES_UPGRADE:0 "Review the Schematics"
+ AUTOMATED_INDUSTRIES_UPGRADE_DESC:0 "For centuries, the Fallen Empires had operated impressive automated facilities across their worlds that required no workers, and their entire economy relied on them. However, recent papers published by our scientists theorized that perhaps the buildings might not be functioning as originally designed.\n\nPerhaps if we take a closer look at the buildings' schematics, combining our considerable knowledge and experience in engineering, we can search for clues as to what resources they used to achieve peak efficiency."
+ 
+# decision_automated_districts:0 "Automated Districts"
+# decision_automated_districts_desc:0 "Having restored the precursor's automated buildings to their original designs, we may house these facilities within our districts to improve productivity, bringing our empire towards the zenith of civilization."
+# decision_automated_districts_effects:0 "Production districts of this planet will be upgraded to use the latest §YDark Matter§! technologies, if we have them researched."
+ 
+ planet_zofe_automated_buildings:0 "Automated Buildings"
+ planet_zofe_automated_districts:0 "Automated Districts"
+ 
+ fe_automated_generator_district_desc:0 "Each district now contains a §Y$tech_fe_class_5_singularity$§!.\n\n"
+ fe_automated_mining_district_desc:0 "A §Y$tech_fe_dimensional_harvester$§! has been installed in each district.\n\n"
+ fe_automated_farming_district_desc:0 "Each district now houses a §Y$tech_fe_gourmet_center$§!.\n\n"
+ fe_automated_industrial_district_desc:0 "These districts now utilize §Y$tech_fe_opulent_plaza$§! and §Y$tech_fe_nano_forge_2$§! technologies to enhance production.\n\n"
+ fe_automated_foundry_district_desc:0 "These districts now utilize the §Y$tech_fe_nano_forge_2$§! technology to automate production.\n\n"
+ fe_automated_factory_district_desc:0 "These districts now utilize the §Y$tech_fe_opulent_plaza$§! technology to automate production.\n\n"
+ 
+ fe_automated_generator_segment_desc:0 "Each segment now utilizes the §Y$tech_fe_class_5_singularity$§! technology.\n\n"
+ fe_automated_farming_segment_desc:0 "The §Y$tech_fe_gourmet_center$§! technology now fills each segment."
+ fe_automated_industrial_segment_desc:0 "Each segment now utilizes §Y$tech_fe_opulent_plaza$§! and §Y$tech_fe_nano_forge_2$§! technologies to enhance production.\n\n"
+ 
+ 
+ 
+ 
+ 

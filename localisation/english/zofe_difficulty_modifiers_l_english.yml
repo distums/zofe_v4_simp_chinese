@@ -1,0 +1,74 @@
+﻿l_english:
+
+
+ normal_difficulty:0 "Normal Difficulty"
+ normal_difficulty_desc:0 "I have full confidence in your courage, devotion to duty, and skill in battle. We will accept nothing less than full victory. Good Luck!"
+ 
+ precursor_maneuvers:0 "Precursor Maneuvers"
+ precursor_maneuvers_desc:0 "The battle maneuvers of this empire are filled with ancient wisdom and the experiences of the Great Crusade."
+ 
+ seen_it_once:0 "Seen it once"
+ seen_it_once_desc:0 "Whichever tactics an enemy employs, this Precursor Empire always seemed to know exactly how to respond."
+ 
+ ancient_building:0 "Ancient Building"
+ ancient_building_desc:0 "The ancient citadels of this Precursor Empire have stood for thousands of years, enduring even the most ferocious assaults during this time."
+ 
+ ancient_adversary:0 "Ancient Adversary"
+ ancient_adversary_desc:0 "This adversary is ancient, having built its strength over thousands of years."
+
+
+ hard_difficulty:0 "Hard Difficulty"
+ hard_difficulty_desc:0 "For the enemy is strong. He may hurl back our forces. Success may not come with rushing speed, but we shall return again and again."
+ 
+ precursor_tactics:0 "Precursor Tactics"
+ precursor_tactics_desc:0 "The battle tactics of this empire are filled with ancient wisdom and the experiences of the Great Crusade."
+ 
+ seen_it_before:0 "Seen it before"
+ seen_it_before_desc:0 "Whichever tactics an enemy employs, this Precursor Empire always seemed to know exactly how to respond."
+ 
+ ancient_construct:0 "Ancient Construct"
+ ancient_construct_desc:0 "The ancient citadels of this Precursor Empire have stood for thousands of years, enduring even the most ferocious assaults during this time."
+ 
+ ancient_foe:0 "Ancient Foe"
+ ancient_foe_desc:0 "This foe is ancient, having built its strength over thousands of years."
+ 
+ 
+ veteran_difficulty:0 "Veteran Difficulty"
+ veteral_difficulty_desc:0 "Thirty years from now when you're sitting by your fireside with your grandson on your knee and he asks 'What did you do in Stellaris?' you won't have to cough and say, 'Well, your granddaddy just stacked Hedonists.'"
+ 
+ precursor_doctrine:0 "Precursor Doctrine"
+ precursor_doctrine_desc:0 "The war doctrine of this empire is filled with ancient wisdom and the experiences of the Great Crusade."
+ 
+ seen_it_all_before:0 "Seen it all before"
+ seen_it_all_before_desc:0 "Whichever tactics an enemy employs, this Precursor Empire always seemed to know exactly how to respond."
+ 
+ ancient_fortification:0 "Ancient Fortification"
+ ancient_fortification_desc:0 "The ancient citadels of this Precursor Empire have stood for thousands of years, enduring even the most ferocious assaults during this time."
+ 
+ ancient_enemy:0 "Ancient Enemy"
+ ancient_enemy_desc:0 "This enemy is ancient, having built its strength over thousands of years."
+ 
+ 
+ nightmare_difficulty:0 "Nightmare Difficulty"
+ nightmare_difficulty_desc:0 "I have nothing to offer but blood toil, tears, and sweat."
+ 
+ precursor_warfare:0 "Precursor Warfare"
+ precursor_warfare_desc:0 "Warfare conducted by this empire is filled with ancient wisdom and the experiences of the Great Crusade."
+ 
+ seen_it_all_before_2:0 "Seen it all before"
+ seen_it_all_before_2_desc:0 "Whichever tactics an enemy employs, this Precursor Empire always seemed to know exactly how to respond."
+ 
+ ancient_bastion:0 "Ancient Bastion"
+ ancient_bastion_desc:0 "The ancient citadels of this Precursor Empire have stood for thousands of years, enduring even the most ferocious assaults during this time."
+ 
+ ancient_nemesis:0 "Ancient Nemesis"
+ ancient_nemesis_desc:0 "This enemy is ancient, having built its strength over thousands of years."
+ 
+ 
+ ##Fixes
+ mod_damage_vs_country_type_marauder_raiders_mult:0 "Damage vs Marauders"
+ stop_killing_your_own_raiders:0 "Stop Killing your own raiders"
+ marauder_raiders_fixed:0 "Marauders fixed"
+ 
+ 
+ 

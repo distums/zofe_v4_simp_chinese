@@ -1,0 +1,365 @@
+﻿l_english:
+
+ tech_lost_technologies_1:0 "Lost Technologies: Automated Industries"
+ tech_lost_technologies_1_desc:0 "The blueprints of these advanced automated buildings were once thought lost to history, along with the knowledge of how to build them." 
+ tech_lost_technologies_2:0 "Lost Technologies: Ancient Weaponry"
+ tech_lost_technologies_2_desc:0 "Combining our recent successes in piecing together the corrupted data caches as well as the gathered clues from various artifacts, ancient weapons which had not been seen in millennia can yet be brought back to life."
+ tech_lost_technologies_3:0 "Lost Technologies: Superior Designs"
+ tech_lost_technologies_3_desc:0 "Blueprints from corrupted data reveals the original designs of many Fallen Empire ship types such as Escorts, Battlecruisers and Fallen Empire Titans. These more powerful designs were apparently deemed lost to the ages until now."
+ 
+ ###Lost Technologies: Automated Buildings
+ 
+ advanced_automated_industries:0 "Lost Technologies: Automated Industries"
+ advanced_automated_industries_DESC:0 "For millennia, the Fallen Empires have relied upon their automated industries to fuel their economy and satisfy demands of their population. However, our archaeological teams have now found evidence that suggest even more powerful versions of their surviving buildings had existed in the past, with the technology to build them since lost to the ages.\n\nPiecing together clues from ancient artifacts and combining our current knowledge of automated buildings, our [GetScientistPlural] believe we may yet have a shot at recovering the lost technologies of these powerful constructs."
+ 
+ tech_fe_dark_matter_power_plant:0 "Dark Matter Power Plant"
+ tech_fe_dark_matter_power_plant_desc:0 "The Dark Matter Power Plant existed well before the standard classification were used for Singularities. Due to its sheer output, it would easily outproduce a Class-5 Singularity today.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+  
+ tech_fe_pico_forge:0 "Pico Forge"
+ tech_fe_pico_forge_desc:0 "The Pico Forge was the legendary variant of the Nano Forge, which processed minerals with extreme precision and speed, greatly reducing the strain of building multiple megastructures for ancient civilizations.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ tech_fe_agri_processing_complex:0 "Agri-Processing Complex"
+ tech_fe_agri_processing_complex_desc:0 "The Agri-Processing Complex was a long forgotten technology which 'prints' foods according to its databse at all hours on-demand. There was no food it could not print.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ tech_fe_opulent_tower:0 "Tower of Opulence"
+ tech_fe_opulent_tower_desc:0 "The extravagance of the Tower of Opulence had not been seen in the galaxy for a millennia. Only empires that spend lavishly would build this to make the rest of the galaxy look like slums.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ tech_fe_autonomous_fabricator:0 "Autonomous Fabricator"
+ tech_fe_autonomous_fabricator_desc:0 "According to our [GetScientistPlural], a functioning Autonomous Fabricator had not been seen for thousands of years. However, when the Fallen Empires were at their prime, Autonomous Fabricators were the backbone of their war machine during the Great Crusade.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ building_fe_dark_matter_power_plant:0 "$tech_fe_dark_matter_power_plant$"
+ building_fe_dark_matter_power_plant_desc:0 "$tech_fe_dark_matter_power_plant_desc$"
+ building_fe_pico_forge:0 "$tech_fe_pico_forge$"
+ building_fe_pico_forge_desc:0 "$tech_fe_pico_forge_desc$"
+ building_fe_agri_processing_complex:0 "$tech_fe_agri_processing_complex$"
+ building_fe_agri_processing_complex_desc:0 "$tech_fe_agri_processing_complex_desc$"
+ building_fe_opulent_tower:0 "$tech_fe_opulent_tower$"
+ building_fe_opulent_tower_desc:0 "$tech_fe_opulent_tower_desc$"
+ building_fe_autonomous_fabricator:0 "$tech_fe_autonomous_fabricator$"
+ building_fe_autonomous_fabricator_desc:0 "$tech_fe_autonomous_fabricator_desc$"
+ 
+ 
+ 
+ ###Lost Technologies: Ancient Weaponry
+ 
+ ancient_weaponry:0 "Lost Technologies: Ancient Weaponry"
+ ancient_weaponry_DESC:0 "During an archaelogical excursions, our [GetScientistPlural] discovered the shattered components of an ancient databank, containing nonsensical, albeit corrupted data. Early investigations suggest blueprints of powerful weapons could yet be discovered within."
+ 
+ DARK_ENERGY_POWER_CORE:0 "Dark Energy Reactor"
+ DARK_ENERGY_POWER_CORE_DESC:0 "The technology to power advanced spaceships with Dark Energy had long been lost, until now.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ tech_dark_energy_power_core:0 "Dark Energy Power"
+ tech_dark_energy_power_core_desc:0 "The technology to power advanced spaceships with Dark Energy had long been lost, until now.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ FE_ESCORT_DARK_ENERGY_REACTOR:0 "Dark Energy Reactor"
+ FE_ESCORT_DARK_ENERGY_REACTOR_DESC:0 "Dark Energy can be used to power this advanced ship.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ FE_BATTLECRUISER_DARK_ENERGY_REACTOR:0 "Dark Energy Reactor"
+ FE_BATTLECRUISER_DARK_ENERGY_REACTOR_DESC:0 "Dark Energy can be used to power this advanced ship.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ FE_TITAN_DARK_ENERGY_REACTOR:0 "Dark Energy Reactor"
+ FE_TITAN_DARK_ENERGY_REACTOR_DESC:0 "Dark Energy can be used to power this advanced ship.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ FE_GOLIATH_DARK_ENERGY_REACTOR:0 "Dark Energy Reactor"
+ FE_GOLIATH_DARK_ENERGY_REACTOR_DESC:0 "Dark Energy can be used to power this advanced ship.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ FE_STATIONS_DARK_ENERGY_REACTOR:0 "Dark Energy Reactor"
+ FE_STATIONS_DARK_ENERGY_REACTOR_DESC:0 "Dark Energy can be used to power this advanced ship.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ FE_LARGE_STATIONS_DARK_ENERGY_REACTOR:0 "Dark Energy Reactor"
+ FE_LARGE_STATIONS_DARK_ENERGY_REACTOR_DESC:0 "Dark Energy can be used to power this advanced ship.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ DARK_ENERGY_SHIELD:0 "Dark Energy Deflectors"
+ DARK_ENERGY_SHIELD_DESC:0 "These shields utilize dark energy to repel incoming projectiles in a way that seems to utterly defy the laws of physics.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ MEDIUM_DARK_ENERGY_SHIELD:0 "Medium Dark Energy Deflectors"
+ MEDIUM_DARK_ENERGY_SHIELD_DESC:0 "These shields utilize dark energy to repel incoming projectiles in a way that seems to utterly defy the laws of physics.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ LARGE_DARK_ENERGY_SHIELD:0 "Large Dark Energy Deflectors"
+ LARGE_DARK_ENERGY_SHIELD_DESC:0 "These shields utilize dark energy to repel incoming projectiles in a way that seems to utterly defy the laws of physics.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+
+ tt_MEDIUM_DARK_ENERGY_SHIELD_AP:0 "[GetArchaeoengineersEffectMediumDarkEnergyShield]"
+ tt_MEDIUM_DARK_ENERGY_SHIELD:0 "From §Y$ap_archaeoengineers$§!:\nShield Hit Points: §G+720§!"
+ tt_LARGE_DARK_ENERGY_SHIELD_AP:0 "[GetArchaeoengineersEffectLargeDarkEnergyShield]"
+ tt_LARGE_DARK_ENERGY_SHIELD:0 "From §Y$ap_archaeoengineers$§!:\nShield Hit Points: §G+1800§!"
+ 
+ tech_dark_energy_shield:0 "Dark Energy Deflectors"
+ tech_dark_energy_shield_desc:0 "These shields utilize dark energy to repel incoming projectiles in a way that seems to utterly defy the laws of physics.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ TITAN_ARMOR:0 "Titan Armor"
+ TITAN_ARMOR_DESC:0 "The Titan series utilize the long-lost technologies of infusing living-metal into armored platings; its self-repairing properties make vessels that mount them extremely difficult to penetrate.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ MEDIUM_TITAN_ARMOR:0 "Medium Titan Armor"
+ MEDIUM_TITAN_ARMOR_DESC:0 "The Titan series utilize the long-lost technologies of infusing living-metal into armored platings; its self-repairing properties make vessels that mount them extremely difficult to penetrate.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ LARGE_TITAN_ARMOR:0 "Large Titan Armor"
+ LARGE_TITAN_ARMOR_DESC:0 "The Titan series utilize the long-lost technologies of infusing living-metal into armored platings; its self-repairing properties make vessels that mount them extremely difficult to penetrate.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+
+ tt_MEDIUM_TITAN_ARMOR_AP:0 "[GetArchaeoengineersEffectMediumTitanArmor]"
+ tt_MEDIUM_TITAN_ARMOR:0 "From §Y$ap_archaeoengineers$§!:\nArmor Hit Points: §G+960§!"
+ tt_LARGE_TITAN_ARMOR_AP:0 "[GetArchaeoengineersEffectLargeTitanArmor]"
+ tt_LARGE_TITAN_ARMOR:0 "From §Y$ap_archaeoengineers$§!:\nArmor Hit Points: §G+2400§!"
+ 
+ tech_titan_armor:0 "Titan Armor"
+ tech_titan_armor_desc:0 "The Titan series utilize the long-lost technologies of infusing living-metal into armored platings; its self-repairing properties make vessels that mount them extremely difficult to penetrate.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!" 
+ 
+ TITAN_PLATING:0 "Titan Plating"
+ TITAN_PLATING_DESC:0 "The Titan series utilize the long-lost technologies of infusing living-metal into armored hulls; its self-repairing properties make vessels that mount them extremely difficult to destroy.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!" 
+ MEDIUM_TITAN_PLATING:0 "Medium Titan Plating"
+ MEDIUM_TITAN_PLATING_DESC:0 "The Titan series utilize the long-lost technologies of infusing living-metal into armored hulls; its self-repairing properties make vessels that mount them extremely difficult to destroy.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!" 
+ LARGE_TITAN_PLATING:0 "Large Titan Plating"
+ LARGE_TITAN_PLATING_DESC:0 "The Titan series utilize the long-lost technologies of infusing living-metal into armored hulls; its self-repairing properties make vessels that mount them extremely difficult to destroy.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!" 
+
+ tt_MEDIUM_TITAN_PLATING_AP:0 "[GetArchaeoengineersEffectMediumTitanPlating]"
+ tt_MEDIUM_TITAN_PLATING:0 "From §Y$ap_archaeoengineers$§!:\nHull Hit Points: §G+480§!"
+ tt_LARGE_TITAN_PLATING_AP:0 "[GetArchaeoengineersEffectLargeTitanPlating]"
+ tt_LARGE_TITAN_PLATING:0 "From §Y$ap_archaeoengineers$§!:\nArmor Hit Points: §G+1200§!"
+ 
+ tech_titan_plating:0 "Titan Plating"
+ tech_titan_plating_desc:0 "The Titan series utilize the long-lost technologies of infusing living-metal into armored hulls; its self-repairing properties make vessels that mount them extremely difficult to destroy.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!" 
+ 
+ PSI_MISSILE_SYSTEM:0 "Psionic Missile System"
+ PSI_MISSILE_SYSTEM_DESC:0 "An experimental missile system controlled by psionic abilities, allowing full control of the missiles through willpower of the crew.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ tech_psi_missile_system:0 "Psionic Missile System"
+ tech_psi_missile_system_desc:0 "An experimental missile system controlled by psionic abilities, allowing full control of the missiles through willpower of the crew.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ SHADOW_STRIKE_CRAFT:0 "Shadow Strike Craft"
+ SHADOW_STRIKE_CRAFT_DESC:0 "Inspired by the Infinity Machine, the next generation of versatile strike crafts are hard to detect and even harder to hit.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ tech_shadow_strike_craft:0 "Shadow Strike Craft"
+ tech_shadow_strike_craft_desc:0 "Inspired by the Infinity Machine, the next generation of versatile strike crafts are hard to detect and even harder to hit.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+
+ HELLFIRE_AUTOCANNONS:0 "Hellfire Autocannon"
+ HELLFIRE_AUTOCANNONS_DESC:0 "This autocannon rains hellfire upon our enemies.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ tech_hellfire_autocannons:0 "Hellfire Autocannons"
+ tech_hellfire_autocannons_desc:0 "This autocannon rains hellfire upon our enemies.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ TERROR_CANNON:0 "Terror Cannon"
+ TERROR_CANNON_DESC:0 "This deadly cannon inspires utter terror with its size.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ tech_terror_cannon:0 "Terror Cannon"
+ tech_terror_cannon_desc:0 "This deadly cannon inspires utter terror with its size.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ DARK_ENERGY_DISRUPTOR:0 "Dark Energy Disruptor"
+ DARK_ENERGY_DISRUPTOR_DESC:0 "An experimental disruptor that fires dark energy beams to devastate enemy vessels.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ tech_dark_energy_disruptor:0 "Dark Energy Disruptor"
+ tech_dark_energy_disruptor_desc:0 "An experimental disruptor that fires dark energy beams to devastate enemy vessels.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ tech_titan_missile:0 "Titan Missile"
+ tech_titan_missile_desc:0 "Designs of the titan missile had been missing for millennia, with ability to track and hit targets greater than even of the sentinel missile.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ TITAN_MISSILE:0 "$tech_titan_missile$"
+ TITAN_MISSILE_DESC:0 "$tech_titan_missile_desc$"
+ 
+ tech_annihilator_torpedo:0 "Annihilator Torpedoes"
+ tech_annihilator_torpedo_desc:0 "The designs of this ancient torpedo has resurfaced once more with our efforts, promising the ability to annihilate enemy vessels.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ ANNIHILATOR_TORPEDO:0 "$tech_annihilator_torpedo$"
+ ANNIHILATOR_TORPEDO_DESC:0 "$tech_annihilator_torpedo_desc$"
+ 
+ tech_dark_energy_torpedo:0 "Dark Energy Torpedoes"
+ tech_dark_energy_torpedo_desc:0 "The technology to launch dark energy projectiles in space had been lost for some time, but the potential implications are enormous for space combat.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ DARK_ENERGY_TORPEDO:0 "$tech_dark_energy_torpedo$"
+ DARK_ENERGY_TORPEDO_DESC:0 "$tech_dark_energy_torpedo_desc$"
+ 
+ tech_titan_point_defence:0 "Titan Point Defence System"
+ tech_titan_point_defence_desc:0 "Titan Point Defence was an extremely powerful defense and interception system used during the Great Crusade. The technology had been lost for reasons unknown.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ TITAN_POINT_DEFENCE:0 "Titan Point Defence"
+ TITAN_POINT_DEFENCE_DESC:0 "$tech_titan_point_defence_desc$"
+ 
+ tech_dark_energy_flak_battery:0 "Dark Energy Flak Artillery"
+ tech_dark_energy_flak_battery_desc:0 "Dark Energy Flak Artillery was last used during the Great Crusade, when strike crafts of immense speed ruled space combat. There had been no need for such powerful systems for millennia.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ DARK_ENERGY_FLAK_BATTERY:0 "$tech_dark_energy_flak_battery$"
+ DARK_ENERGY_FLAK_BATTERY_DESC:0 "$tech_dark_energy_flak_battery_desc$"
+ 
+ tech_dark_energy_accelerator:0 "Dark Energy Accelerator"
+ tech_dark_energy_accelerator_desc:0 "Plasma accelerator powered by dark energy was one of the designs we recovered amongst the latest archaelogical excavations.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ DARK_ENERGY_ACCELERATOR:0 "$tech_dark_energy_accelerator$"
+ DARK_ENERGY_ACCELERATOR_DESC:0 "$tech_dark_energy_accelerator_desc$"
+ DARK_ENERGY_ACCELERATOR_S:0 "Small Dark Energy Accelerator"
+ DARK_ENERGY_ACCELERATOR_M:0 "Medium Dark Energy Accelerator"
+ DARK_ENERGY_ACCELERATOR_L:0 "Large Dark Energy Accelerator"
+ 
+ DIMENSIONAL_WEAPON:0 "Dimensional Beam"
+ DIMENSIONAL_WEAPON_DESC:0 "The Dimensional Beam is a type of 5th dimensional weaponry designed to cause significant damage to enemy vessels from every dimension.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ tech_dimensional_weapon:0 "Dimensional Beam"
+ tech_dimensional_weapon_desc:0 "The Dimensional Beam is a type of 5th dimensional weaponry designed to cause significant damage to enemy vessels from every dimension.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+
+ 
+ psi_deflector:0 "Psionic Deflector"
+ psi_deflector_DESC:0 "A Psionic Deflector draws power from the minds its own crew.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ MEDIUM_psi_deflector:0 "Medium Psionic Deflector"
+ MEDIUM_psi_deflector_DESC:0 "A Psionic Deflector draws power from the minds its own crew.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ LARGE_psi_deflector:0 "Large Psionic Deflector"
+ LARGE_psi_deflector_DESC:0 "A Psionic Deflector draws power from the minds its own crew.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ tech_psi_deflector:0 "Psionic Deflector"
+ tech_psi_deflector_desc:0 "A Psionic Deflector draws power from the minds its own crew.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ 
+ DARK_ENERGY_SHIELD_BOOSTER:0 "Dark Energy Shield Booster"
+ DARK_ENERGY_SHIELD_BOOSTER_DESC:0 "This shield booster uses Dark Energy to power its manipulation fields, allowing greater shield boosting capacity.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ tech_dark_energy_shield_booster:0 "Dark Energy Shield Booster"
+ tech_dark_energy_shield_booster_desc:0 "This shield booster uses Dark Energy to power its manipulation fields, allowing greater shield boosting capacity.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ 
+ DARK_ENERGY_JUMP_DRIVE:0 "Dark Energy Jump Drive"
+ DARK_ENERGY_JUMP_DRIVE_DESC:0 "This Jump Drive warps Dark Energy, making immediate travel between distant star systems far safer than previously thought possible.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ tech_dark_energy_jump_drive:0 "Dark Energy Jump Drive"
+ tech_dark_energy_jump_drive_desc:0 "This Jump Drive warps Dark Energy, making immediate travel between distant star systems far safer than previously thought possible.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ 
+ DARK_ENERGY_THRUSTER:0 "Dark Energy Thruster"
+ DARK_ENERGY_THRUSTER_DESC:0 "Seemingly defying the laws of physics to a whole new level, the Dark Energy Thrusters provide greater maneuverability than was previously thought possible.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ tech_dark_energy_thruster:0 "Dark Energy Thruster"
+ tech_dark_energy_thruster_desc:0 "Seemingly defying the laws of physics to a whole new level, the Dark Energy Thrusters provide greater maneuverability than was previously thought possible.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ DARK_ENERGY_AFTERBURNERS:0 "Dark Energy Afterburners"
+ DARK_ENERGY_AFTERBURNERS_DESC:0 "The Dark Energy Afterburners are among the fastest afterburners ever created, allowing ships to charge at breakneck speed towards their targets.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ tech_dark_energy_afterburners:0 "Dark Energy Afterburners"
+ tech_dark_energy_afterburners_desc:0 "The Dark Energy Afterburners are powered by dark energy, making them among the fastest afterburners ever created, allowing ships to charge at breakneck speed towards their targets.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ DARK_ENERGY_SENSORS:0 "Dark Energy Sensor"
+ DARK_ENERGY_SENSORS_DESC:0 "The Dark Energy Sensor harnesses dark energy to amplify its scopes, making it capable to detect all movements at a far greater range.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ tech_dark_energy_sensors:0 "Dark Energy Sensor"
+ tech_dark_energy_sensors_desc:0 "The Dark Energy Sensor harnesses dark energy to amplify its scopes, making it capable to detect all movements at a far greater range.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ DARK_ENERGY_POWER_BOOSTER:0 "Dark Energy Reactor Booster"
+ DARK_ENERGY_POWER_BOOSTER_DESC:0 "The discovery of dark energy as a form of power allows for highly advanced reactor boosters that can greatly enhance ship reactors.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ tech_dark_energy_power_booster:0 "Dark Energy Reactor Booster"
+ tech_dark_energy_power_booster_desc:0 "The discovery of dark energy as a form of power allows for highly advanced reactor boosters that can greatly enhance ship reactors.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ INFINITY_DECODER:0 "Infinity Decoder"
+ INFINITY_DECODER_DESC:0 "The Infinity Decoder's algorithms can predict the flight paths of multiple targets simultaneously, giving an edge in target acquisition and weapon accuracy.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ tech_infinity_decoder:0 "Infinity Decoder"
+ tech_infinity_decoder_desc:0 "The Infinity Decoder's algorithms can predict the flight paths of multiple targets simultaneously, giving an edge in target acquisition and weapon accuracy.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+
+ INFINITY_ENCODER:0 "Infinity Encoder"
+ INFINITY_ENCODER_DESC:0 "The Infinity Encoder scrambles flight path data into a code that is believed to be unhackable, before feeding it back to fleet command.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ tech_infinity_encoder:0 "Infinity Encoder"
+ tech_infinity_encoder_desc:0 "The Infinity Encoder scrambles flight path data into a code that is believed to be unhackable, before feeding it back to fleet command.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+
+ 
+ FE_ESCORT_SHIP_THRUSTER_2:0 "Dark Energy Thrusters"
+ FE_ESCORT_SHIP_THRUSTER_2_DESC:0 "Seemingly defying the laws of physics to a whole new level, the Dark Energy Thrusters provide greater maneuverability than was previously thought possible.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ FE_BATTLECRUISER_SHIP_THRUSTER_2:0 "Dark Energy Thrusters"
+ FE_BATTLECRUISER_SHIP_THRUSTER_2_DESC:0 "Seemingly defying the laws of physics to a whole new level, the Dark Energy Thrusters provide greater maneuverability than was previously thought possible.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ FE_TITAN_SHIP_THRUSTER_2:0 "Dark Energy Thrusters"
+ FE_TITAN_SHIP_THRUSTER_2_DESC:0 "Seemingly defying the laws of physics to a whole new level, the Dark Energy Thrusters provide greater maneuverability than was previously thought possible.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ FE_GOLIATH_SHIP_THRUSTER_2:0 "Dark Energy Thrusters"
+ FE_GOLIATH_SHIP_THRUSTER_2_DESC:0 "Seemingly defying the laws of physics to a whole new level, the Dark Energy Thrusters provide greater maneuverability than was previously thought possible.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+
+ 
+ 
+ ###Lost Technologies: Omni Weapons
+ 
+ omni_weapons:0 "Lost Technologies: Omni Weapons"
+ omni_weapons_DESC:0 "The Omni Weapons are a class of semi-sentient weapons capable of sensing its user's alignment, changing their colours to match. Only the most civilized would use them as weapons of choice. Due their costly nature, Omni weapons were soon decomissioned from service soon after the ending of the Great Crusade."
+ 
+ tech_omni_lance:0 "Omni Lance"
+ tech_omni_lance_desc:0 "An elegant weapon, for a more civilized age.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ tech_compact_omni_lance:0 "Compact Omni Lance"
+ tech_compact_omni_lance_desc:0 "Compact Omni Lances are small-scaled versions of their counterpart - Omni Lances.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ tech_omni_emitter:0 "Omni Arc Emitters"
+ tech_omni_emitter_desc:0 "A powerful symbols of an empire's might, capable of smiting enemy fleets from afar.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ tech_compact_omni_emitter:0 "Compact Omni Emitters"
+ tech_compact_omni_emitter_desc:0 "Compact Omni Emitters are small-scaled versions of their counterpart - Omni Arc Emitters.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ tech_omni_cannon:0 "Omni Cannon"
+ tech_omni_cannon_desc:0 "A titanic gun capable of launching projectiles across vast distances.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ tech_compact_omni_cannon:0 "Compact Omni Cannon"
+ tech_compact_omni_cannon_desc:0 "Compact Omni Cannons are small-scaled versions of their counterpart - Omni Cannons.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ tech_massive_autocannons:0 "Omni Autocannons"
+ tech_massive_autocannons_desc:0 "Designed to cause maximum destruction and mayhem at close range.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ tech_compact_massive_autocannons:0 "Compact Omni Autocannons"
+ tech_compact_massive_autocannons_desc:0 "Compact Omni Autocannons are small-scaled versions of their counterpart - Omni Autocannons.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ tech_omni_titan_lance:0 "Omni Titan Lance"
+ tech_omni_titan_lance_desc:0 "Only the most civilized would use the Omni Titan Lance as their weapon of choice.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ tech_compact_omni_titan_lance:0 "Omni Titan Laser"
+ tech_compact_omni_titan_lance_desc:0 "Omni Titan Laser are small-scaled versions of their counterpart - Omni Titan Lance.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ OMNI_LANCE:0 "Omni Lance"
+ OMNI_LANCE_DESC:0 "An elegant weapon, for a more civilized age.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ COMPACT_OMNI_LANCE:0 "Compact Omni Lance"
+ COMPACT_OMNI_LANCE_DESC:0 "Compact Omni Lances are small-scaled versions of their counterpart - Omni Lances.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ COMPACT_OMNI_LANCE_M:0 "Compact Omni Lance"
+ COMPACT_OMNI_LANCE_M_DESC:0 "Compact Omni Lances are small-scaled versions of their counterpart - Omni Lances.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ COMPACT_OMNI_LANCE_S:0 "Compact Omni Lance"
+ COMPACT_OMNI_LANCE_S_DESC:0 "Compact Omni Lances are small-scaled versions of their counterpart - Omni Lances.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ OMNI_EMITTER:0 "Omni Arc Emitters"
+ OMNI_EMITTER_DESC:0 "A powerful symbols of an empire's might, capable of smiting enemy fleets from afar.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ COMPACT_OMNI_EMITTER:0 "Compact Omni Emitters"
+ COMPACT_OMNI_EMITTER_DESC:0 "Compact Omni Emitters are small-scaled versions of their counterpart - Omni Arc Emitters.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ COMPACT_OMNI_EMITTER_M:0 "Compact Omni Emitters"
+ COMPACT_OMNI_EMITTER_M_DESC:0 "Compact Omni Emitters are small-scaled versions of their counterpart - Omni Arc Emitters.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ COMPACT_OMNI_EMITTER_S:0 "Compact Omni Emitters"
+ COMPACT_OMNI_EMITTER_S_DESC:0 "Compact Omni Emitters are small-scaled versions of their counterpart - Omni Arc Emitters.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ OMNI_CANNON:0 "Omni Cannon"
+ OMNI_CANNON_DESC:0 "A titanic gun capable of launching projectiles across vast distances.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ COMPACT_OMNI_CANNON:0 "Compact Omni Cannon"
+ COMPACT_OMNI_CANNON_DESC:0 "Compact Omni Cannons are small-scaled versions of their counterpart - Omni Cannons.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ COMPACT_OMNI_CANNON_M:0 "Compact Omni Cannon"
+ COMPACT_OMNI_CANNON_M_DESC:0 "Compact Omni Cannons are small-scaled versions of their counterpart - Omni Cannons.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ COMPACT_OMNI_CANNON_S:0 "Compact Omni Cannon"
+ COMPACT_OMNI_CANNON_S_DESC:0 "Compact Omni Cannons are small-scaled versions of their counterpart - Omni Cannons.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ MASSIVE_AUTOCANNONS:0 "Omni Autocannon"
+ MASSIVE_AUTOCANNONS_DESC:0 "Designed to cause maximum destruction and mayhem at close range.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ COMPACT_MASSIVE_AUTOCANNONS:0 "Compact Omni Autocannon"
+ COMPACT_MASSIVE_AUTOCANNONS_DESC:0 "Compact Omni Autocannons are small-scaled versions of their counterpart - Omni Autocannons.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ MASSIVE_AUTOCANNONS_L:0 "Compact Omni Autocannon"
+ MASSIVE_AUTOCANNONS_L_DESC:0 "Compact Omni Autocannons are small-scaled versions of their counterpart - Omni Autocannons.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ MASSIVE_AUTOCANNONS_M:0 "Compact Omni Autocannon"
+ MASSIVE_AUTOCANNONS_M_DESC:0 "Compact Omni Autocannons are small-scaled versions of their counterpart - Omni Autocannons.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ MASSIVE_AUTOCANNONS_S:0 "Compact Omni Autocannon"
+ MASSIVE_AUTOCANNONS_S_DESC:0 "Compact Omni Autocannons are small-scaled versions of their counterpart - Omni Autocannons.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ OMNI_TITAN_LANCE:0 "Omni Titan Lance"
+ OMNI_TITAN_LANCE_DESC:0 "Only the most civilized would use the Omni Titan Lance as their weapon of choice.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ COMPACT_OMNI_TITAN_LANCE:0 "Omni Titan Laser"
+ COMPACT_OMNI_TITAN_LANCE_DESC:0 "Omni Titan Laser are small-scaled versions of their counterpart - Omni Titan Lance.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ 
+ 
+ 
+ 
+ 
+ 
+ ###Lost Technologies: Goliath
+ 
+ goliath:0 "Lost Technologies: Goliath"
+ goliath_DESC:0 "Among the valuable data obtained from precursor artifacts, we uncovered something that shocked us and contradicted everything we knew about the Fallen Empires - a warship design of gigantic proportions unlike anything we had ever seen.\n\nWe do not yet understand why the precursor felt this was a good idea to build these at some point during the Great Crusade. Nevertheless, with our current ability in engineering, this project is one that is within our capabilities."
+  
+ tech_fe_goliath:0 "Goliath"
+ tech_fe_goliath_desc:0 "Designs obtained from Precursor artifacts detail the construction of the monstrous Goliath-class military vessels.\n\n§MThis Lost Technology was once thought irrecoverably lost to history.§!"
+ TECH_UNLOCK_FE_GOLIATH_CONSTRUCTION_TITLE:0 "§HUnlocks Ship Type:§! Goliath"
+ TECH_UNLOCK_FE_GOLIATH_CONSTRUCTION_DESC:1 "§HGoliaths§!\nThis gigantic warship clearly serves no other purpose than to intimidate smaller opponents."
+ 
+ fe_goliath:1 "Goliath"
+ fe_goliath_plural:1 "Goliaths"
+ 
+ FE_GOLIATH_BOW_KEY:1 "Goliath Bow"
+ FE_GOLIATH_KEY:1 "Goliath"
+ FE_GOLIATH_HANGAR:1 "Goliath Hangar"
+ FE_GOLIATH_STERN:1 "Goliath Stern"
+ 
+ 
+ ###Lost Technologies: Legendary Weapons
+ 
+ legendary_weapons:0 "Lost Technologies: Legendary Weapons"
+ legendary_weapons_DESC:0 "According to legends, powerful weapons may have been developed in the past and our [GetScientistPlural] suggest we investigate these myths."
+ 
+ PORTAL_GENERATOR:0 "Portal Generator"
+ PORTAL_GENERATOR_DESC:0 "§YLegendary Weapon:§! The Portal Generator rips open the fabric of space-time, creating a temporary portal for an unknown, extra-dimensional being to target enemy positions."
+ 
+ tech_portal_generator:0 "Portal Generator"
+ tech_portal_generator_desc:0 "§YLegendary Weapon:§! The Portal Generator rips open the fabric of space-time, creating a temporary portal for an unknown, extra-dimensional being to target enemy positions."
+ 
+ 
+ 
+ ###Lost Technologies: Superior Designs
+ 
+ superior_designs:0 "Lost Technologies: Superior Designs"
+ superior_designs_DESC:0 "Our [GetScientistPlural] had uncovered corrupted schematics of the precursor ship designs that were used during the Great Crusade. Despite its age, the schematics gave us insight into the ferocity of that war, and it seems uniquely relevant to the improvement of our current fleet of Escorts, Battlecruisers and Fallen Empire Titans - we can restore them to the specifications of those same ships as seen in the Great Crusade." 
+ 
+ 
+ weapon_lost_tech:0 "§MLost Technology§!"
+ mod_weapon_lost_tech_weapon_damage_mult:0 "Lost Technologies Weapon Damage"
+ mod_weapon_lost_tech_weapon_fire_rate_mult:0 "Lost Technologies Weapon Attack Speed"

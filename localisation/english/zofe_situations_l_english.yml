@@ -1,0 +1,151 @@
+﻿l_english:
+ 
+
+ situation_zofe_ascension_type:0 "The Zenith of Fallen Empires"
+ situation_zofe_ascension:0 "The Zenith of Fallen Empires"
+ situation_zofe_ascension_desc:0 "At the height of their power, the Fallen Empires were masters of the galaxy and all possibilities were within reach.\n\nBut the path to greatness is not always linear, and at times choices and sacrifices must be made. Now it is our turn to choose."
+ situation_zofe_ascension_monthly_change_tooltip:0 "The progress of this §YSituation§! is dependent on the §YApproach§! we pick. Increase our investments to speed up the ascension process."
+ 
+ zofe_ascension_stage_0_tooltip:0 "All levels of society are to be mobilized, bracing themselves for a revolution brought about by the discovery of §Y$tech_dark_matter_power_core$§!."
+ zofe_ascension_stage_1_tooltip:0 "Using an advanced form of Dark Matter manipulation, the precursors' technological mastery enabled entire industries to run autonomously, freeing their population to live out the rest of their lives in self-determined and hedonistic ways.\n\nIf we apply ourselves to study how Dark Matter is manipulated in this way, we will be able to replicate and rebuild these technological marvels for a fully efficient economy."
+ zofe_ascension_stage_2_tooltip:0 "At the zenith of civilisation, citizens are united by a single, fanatical ideal. With their thunderous applause, our society will transform, unlocking new civics and buildings for our Ascended Society."
+ zofe_ascension_stage_3_tooltip:0 "Unfortunately, our ships and cities still take the same appearance as the first day we achieved spaceflight, which no longer reflect an empire of our current stature. Perhaps some designs borrowed from our precursor neighbours would both serve to intimidate our enemies and deter future invasions.\n\nBlueprints and technical data for these elegant precursor designs can be obtained through various covert operations spanning several years."
+ zofe_ascension_stage_4_tooltip:0 "The precursor empires were masters of warfare, their doctrines tried and tested by the fires of the Great Crusade. Studying precursor combat tactics and their weaponry will greatly enhance our own capabilities, allowing us to fight with a millennia of experience and lessons born of the Great Crusade."
+ zofe_ascension_stage_5_tooltip:0 "We must have galactic ambitions befitting of our stature and power, projecting our influence across all edges of the galaxy. New edicts and campaigns would ensure the continued prosperity and stability of our empire."
+ zofe_ascension_stage_6_tooltip:0 "Perfection can be engineered, when our engineering skills are in turn perfected. This will allow us to create true wonders of the universe."
+
+ zofe_ascension_fail_tooltip:0 "We will abandon our ambitions to become an ascendancy. It will be unlikely for our empire to be able to mobilize its population and undertake such a gargantuan reform ever again."
+ approach_ascension_low_priority:0 "Minimal Investment"
+ approach_ascension_moderate_priority:0 "Moderate Investment"
+ approach_ascension_high_priority:0 "Heavy Investment"
+ ascension_low_priority_effect:0 "Provide what we can spare, but no more! We will prioritize other projects in our empire.\n\nThe resources required for our ascension are scaled to the number of colonies in our empire."
+ ascension_moderate_priority_effect:0 "We will give our ascension adequate resources to ensure it is completed in a reasonable timeframe.\n\nThe resources required for our ascension are scaled to the number of colonies in our empire."
+ ascension_high_priority_effect:0 "Spare no expense! The sooner we ascend, the sooner our empire can begin a new era of prosperity.\n\nThe resources required for our ascension are scaled to the number of colonies in our empire."
+ war_during_ascension:0 "We are at war! Resources are diverted to supply the war effort"
+ complied_fallen_empire:0 "We are complying with the request to abort our ascension efforts...at least on paper"
+ does_not_meet_ascension_fleet_power_requirement:0 "We don't have enough fleet power to become an Ascendancy"
+ subject_ascension_disallowed:0 "Subject Ascension Disallowed"
+ 
+ situation_re_ascension_type:0 "The Return of the Ringworld Empire"
+ situation_re_ascension:0 "The Return of the Ringworld Empire"
+ situation_re_ascension_desc:0 "At the height of their power, our ancestors were masters of the galaxy and all possibilities were within reach.\n\nBut the path to greatness is not always linear, and at times choices and sacrifices must be made. Now it is our turn to choose."
+ situation_re_ascension_monthly_change_tooltip:0 "The progress of this §YSituation§! is dependent on the §YApproach§! we pick. Increase our investments to speed up the ascension process."
+ 
+ re_ascension_stage_0_tooltip:0 "All levels of society are to be mobilized, bracing themselves for a revolution brought about by the discovery of §Y$tech_dark_matter_power_core$§!."
+ re_ascension_stage_1_tooltip:0 "Using an advanced form of Dark Matter manipulation, our ancestors' technological mastery enabled entire industries to run autonomously, freeing their population to live out the rest of their lives in self-determined and hedonistic ways.\n\nIf we apply ourselves to study how Dark Matter is manipulated in this way, we will be able to replicate and rebuild these technological marvels for a fully efficient economy."
+ re_ascension_stage_2_tooltip:0 "At the zenith of civilisation, citizens are united by a single, fanatical ideal. With their thunderous applause, our society will transform, unlocking new civics and buildings for our Ascended Society."
+ re_ascension_stage_3_tooltip:0 "Unfortunately, our ships and cities still take the same appearance as the first day we achieved spaceflight, which no longer reflect an empire of our current stature. Perhaps some designs borrowed from our ancestors would both serve to intimidate our enemies and deter future invasions."
+ re_ascension_stage_4_tooltip:0 "The Ancestors were masters of warfare, their doctrines tried and tested by the fires of the Great Crusade. Studying their combat tactics and their weaponry will greatly enhance our own capabilities, allowing us to fight with a millennia of experience and lessons born of the Great Crusade."
+ re_ascension_stage_5_tooltip:0 "We must have galactic ambitions befitting of our stature and power, projecting our influence across all edges of the galaxy. New edicts and campaigns would ensure the continued prosperity and stability of our empire."
+ re_ascension_stage_6_tooltip:0 "Perfection can be engineered, when our engineering skills are in turn perfected. This will allow us to create true wonders of the universe."
+ ringworld_empire_ascension:0 "We are the Ringworld Empire"
+ 
+ situation_oe_ascension_type:0 "The Return of the Original Empire"
+ situation_oe_ascension:0 "The Return of the Original Empire"
+ situation_oe_ascension_desc:0 "At the height of its power, the Original Empire was the sole superpower in the galaxy and all civilizations bowed to its might.\n\nBut repeating the past is no simple task, and at times choices and sacrifices must be made. Now it is our turn to choose."
+ situation_oe_ascension_monthly_change_tooltip:0 "The progress of this §YSituation§! is dependent on the §YApproach§! we pick. Increase our investments to speed up the ascension process."
+ 
+ oe_ascension_stage_0_tooltip:0 "All levels of society are to be mobilized, bracing themselves for a revolution brought about by the discovery of §Y$tech_dark_matter_power_core$§!."
+ oe_ascension_stage_1_tooltip:0 "Using an advanced form of Dark Matter manipulation, the Original Empire's technological mastery enabled entire industries to run autonomously, freeing their population to live out the rest of their lives in self-determined and hedonistic ways.\n\nIf we apply ourselves to study how Dark Matter is manipulated in this way, we will be able to replicate and rebuild these technological marvels for a fully efficient economy."
+ oe_ascension_stage_2_tooltip:0 "At the zenith of civilisation, citizens are united by a single, fanatical ideal. With their thunderous applause, our society will transform, unlocking new civics and buildings for our Ascended Society."
+ oe_ascension_stage_3_tooltip:0 "Unfortunately, our ships and cities still take the same appearance as the first day we achieved spaceflight, which no longer reflect an empire of our current stature. Perhaps some designs borrowed from our ancestors would both serve to intimidate our enemies and deter future invasions."
+ oe_ascension_stage_4_tooltip:0 "The Original People were masters of warfare, their doctrines tried and tested by the fires of the Great Crusade. Studying their combat tactics and their weaponry will greatly enhance our own capabilities, allowing us to fight with a millennia of experience and lessons born of the Great Crusade."
+ oe_ascension_stage_5_tooltip:0 "We must have galactic ambitions befitting of our stature and power, projecting our influence across all edges of the galaxy. New edicts and campaigns would ensure the continued prosperity and stability of our empire."
+ oe_ascension_stage_6_tooltip:0 "Perfection can be engineered, when our engineering skills are in turn perfected. This will allow us to create true wonders of the universe."
+ original_empire_ascension:0 "We are the Original People"
+
+ situation_zofe_dark_matter_type:0 "The Quest for §Y$tech_dark_matter_power_core$§!"
+ situation_zofe_dark_matter:0 "The Quest for §Y$tech_dark_matter_power_core$§!"
+ situation_zofe_dark_matter_desc:0 "Our [GetScientistPlural] have concluded that §Y$tech_dark_matter_power_core$§! is in fact the foundation of precursor empires and their wonderous technologies. Unlocking its secrets would in turn, propel our civilization to be amongst the most advanced in this galaxy."
+
+ situation_zofe_dark_matter_monthly_change_tooltip:0 "The progress of this §YSituation§! is dependent on the §YApproach§! we pick."
+ 
+ zofe_dark_matter_stage_0_tooltip:0 "As a first step, our [GetScientistPlural] propose we set up a lab to study all the properties of §Y$sr_dark_matter$§!. After all, how could we make something of §Y$sr_dark_matter$§! if it is, by definition, invisible?\n\nMany papers will be published during this periord about the characteristics of §Y$sr_dark_matter$§!, and our science team will attempt to build new instruments to further our research and understanding of this elusive substance."
+ zofe_dark_matter_stage_1_tooltip:0 "Now that we have understood how to activate §Y$sr_dark_matter$§! for it to be usable, we require a new reactor design to store them. There remain engineering challenges to overcome, since §Y$sr_dark_matter$§! can only be activated at extreme temperatures with agents at a specific pressure.\n\nDespite being a potentially dangerous phase of our research, our [GetScientistPlural] are unfazed by the challenges ahead."
+ zofe_dark_matter_stage_2_tooltip:0 "To unlock the true potential of §Y$sr_dark_matter$§!, it must first be activated and then split up by firing particles at it to create fission, releasing enough energy to power a whole civilization, and a new age.\n\nHowever, finding the right particles and firing at it accurately is tricky, unless we find a way to bend the gravitational fields around where the fusion takes place. If this conundrum is solved, we will be one step closer to achieving a real breakthrough."
+ zofe_dark_matter_stage_3_tooltip:0 "Having successfully overcome the challenges in creating §Y$sr_dark_matter$§! Fission, our [GetScientistPlural] now set their sights on creating a functioning prototype that could sustain §Y$sr_dark_matter$§! Fission by itself. This is no small feat, because there is a high probability of explosion resulting in loss of lives, once the safeguards of a lab is taken away."
+ zofe_dark_matter_finish_tooltip:0 "We will achieve a scientific breakthrough and acquire §Y$tech_dark_matter_power_core$§!."
+ zofe_dark_matter_fail_tooltip:0 "We will fail to develop §Y$tech_dark_matter_power_core$§!."
+ 
+ approach_dark_matter_low_priority:0 "Low Focus"
+ approach_dark_matter_moderate_priority:0 "Moderate Focus"
+ approach_dark_matter_high_priority:0 "High Focus"
+ 
+ dark_matter_low_priority_effect:0 "We're not in a rush. Invest what we can spare."
+ dark_matter_moderate_priority_effect:0 "The project will receive the funding and resources it needs."
+ dark_matter_high_priority_effect:0 "We will make achieving §Y$tech_dark_matter_power_core$§! our top priority." 
+ 
+ situation_zofe_decadence_type:0 "Decadence"
+ situation_zofe_decadence:0 "Decadence"
+ situation_zofe_decadence_desc:0 "No longer at the height of its power, an Ascendancy must contemplate its next move.\n\nIn the end, once you have reached the highest places in the universe, the only place left is to go down. But in what way?"
+ situation_zofe_decadence_monthly_change_tooltip:0 "The progress of this §YSituation§! is dependent on the §YApproach§! we pick. Embrace societal decadence to speed up our transition to a Fallen Empire."
+ 
+ situation_zofe_decadence_machine_type:0 "Malware Infection"
+ situation_zofe_decadence_machine:0 "Malware Infection"
+ situation_zofe_decadence_machine_desc:0 "A mysterious virus has infected our Machine Intelligence, progressively impairing our functions. While this continues, increasing number of Caretake drones will be required to maintain the basic functions that we once took for granted."
+ situation_zofe_decadence_machine_monthly_change_tooltip:0 "The progress of this §YSituation§! is dependent on the §YApproach§! we pick. Embrace the virus to speed up our transition to a Fallen Empire."
+ 
+ situation_zofe_decadence_hive_type:0 "Cordyceptic Infection"
+ situation_zofe_decadence_hive:0 "Cordyceptic Infection"
+ situation_zofe_decadence_hive_desc:0 "A mysterious fungi has infected our Hive Mind, progressively impairing our functions, feeding off of the bio-mass. While this continues, increasing number of drones will become confused and operate outside of the Mind's control."
+ situation_zofe_decadence_hive_monthly_change_tooltip:0 "The progress of this §YSituation§! is dependent on the §YApproach§! we pick. Embrace the sickness to speed up our transition to a Fallen Empire."
+
+ become_lost_empire:2 "We will become a §HFallen Empire§!"
+ describe_lost_empire:0 "\nNo longer at the zenith of civilization, citizens nevertheless cling to their single, fanatical ideal. §HFallen Empires§! are content to sit within the comfort of its borders and observe the galaxy for its own amusement.\n"
+ become_lost_hive_mind:2 "We will become an §HFallen Empire§!"
+ describe_lost_hive_mind:0 "\nSuccumbed to the sickness, the abilities of the Mind has weakened. §HFallen Hive Minds§! will instead attempt to maintain connection to the remaining drones under its command to prevent further decay.\n"
+ become_lost_machine:2 "We will become an §HFallen Empire§!"
+ describe_lost_machine:0 "\nSuccumbed to the virus, the Machine Consciousness has weakened. §HFallen Machine Empires§! will instead direct the majority of efforts towards maintaining existing functionalities to prevent further decay.\n"
+
+# zofe_decadence_stage_0_tooltip:0 "All levels of society are motivated and ready for a new era of renewed Ascendancy."
+# zofe_decadence_stage_1_tooltip:0 "Getting Better"
+# zofe_decadence_stage_2_tooltip:0 "Not Bad"
+# zofe_decadence_stage_3_tooltip:0 "Could be Worse"
+# zofe_decadence_stage_4_tooltip:0 "Bad"
+# zofe_decadence_stage_5_tooltip:0 "Not Too Bad"
+# zofe_decadence_stage_6_tooltip:0 "Very Bad."
+# zofe_decadence_stage_7_tooltip:0 "Very, Very Bad."
+
+ zofe_decadence_fail_tooltip:0 "We will retain our status as an Ascendancy, for a time. There is no telling if societal decadence would ever return in the future."
+ zofe_decadence_machine_fail_tooltip:0 "We will retain our status as an Ascendancy, for a time. There is no telling if the virus would return in the future."
+ zofe_decadence_hive_fail_tooltip:0 "We will retain our status as an Ascendancy, for a time. There is no telling if the sickness would return in the future."
+ 
+ approach_decadence_low_priority:0 "Do Nothing"
+ approach_decadence_moderate_priority:0 "Moderate Intervention"
+ approach_decadence_high_priority:0 "Heavy Intervention"
+ 
+ approach_decadence_machine_low_priority:0 "Do Nothing"
+ approach_decadence_machine_moderate_priority:0 "Moderate Intervention"
+ approach_decadence_machine_high_priority:0 "Heavy Intervention"
+ 
+ approach_decadence_hive_low_priority:0 "Do Nothing"
+ approach_decadence_hive_moderate_priority:0 "Moderate Intervention"
+ approach_decadence_hive_high_priority:0 "Heavy Intervention"
+ 
+ decadence_low_priority_effect:0 "Our time as an Ascendancy is over. We will accept our time has passed and bow out of the galactic stage."
+ decadence_moderate_priority_effect:0 "Our time as an Ascendancy is over, but we can delay our fall through state intervention."
+ decadence_high_priority_effect:0 "We refuse to believe our time is over, and we will do everything we can to rejuvenate our Ascendancy."
+ 
+ decadence_machine_low_priority_effect:0 "Our time as an Ascendancy is over. We will accept our time has passed and allow the virus to take root."
+ decadence_machine_moderate_priority_effect:0 "Our time as an Ascendancy is over, but we can delay and slow down the spread of the virus."
+ decadence_machine_high_priority_effect:0 "Our time is not over! The virus must be rooted out and removed from the system at all costs!"
+ 
+ decadence_hive_low_priority_effect:0 "Our time as an Ascendancy is over. We will accept our time has passed and allow the sickness to take root."
+ decadence_hive_moderate_priority_effect:0 "Our time as an Ascendancy is over, but we can delay and slow down the spread of this sickness."
+ decadence_hive_high_priority_effect:0 "Our time is not over! This sickness must be cured at all costs!"
+ 
+ war_during_decadence:0 "We are at war! It will unite our empire for a time."
+ war_during_decadence_machine:0 "We are at war! The virus is suppressed by overdrives in other functions for now."
+ war_during_decadence_hive:0 "We are at war! The senses of the Mind is temporarily heightened, surpressing the spread of the sickness."
+ 
+ does_not_meet_ascension_fleet_power_requirement:0 "We don't have enough fleet power to remain our Ascendancy!"
+ meet_ascension_fleet_power_requirement:0 "We have enough fleet power to remain as an Ascendancy."
+ 
+ situation_zofe_descension_type:0 "The Fall of an Ascendancy"
+ situation_zofe_descension:0 "The Fall of an Ascendancy"
+ situation_zofe_descension_desc:0 "The lack of naval assets to maintain an Ascendancy leads to multiple questions regarding the future of [Owner.GetName] and its role within the wider galaxy."
+ situation_zofe_descension_monthly_change_tooltip:0 "The progress of this §YSituation§! is dependent on the §YApproach§! we pick. Increase our the size of our fleets at once to avoid becoming a Fallen Empire."
+ 
+ zofe_descension_fail_tooltip:0 "We will retain our status as an Ascendancy, backed by a large naval force."
+ deficit_approach_rebuild_navy:0 "Invest in Ship Building"
+ 

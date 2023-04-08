@@ -1,0 +1,257 @@
+﻿l_english:
+
+ original_people_init_01_NAME:0 "Original People"
+ original_people_init_01_DESC:0 "The Original People start on a §Y$pc_gaia$§!, but their true origin remains a mystery."
+
+ d_original_people_ship_graveyard:0 "Unusual Ruins"
+ d_original_people_ship_graveyard_desc:0 "For reasons unknown, our new sensors detected something unusual hidden beneath these ruins."
+
+ origin_original_people:0 "Original People"
+ origin_original_people_desc:0 "Fleeing from war at the end of the Great Crusade, a small number of Original People unbeknownst to their enemies had managed to escape, and found sanctuary on a §Y$pc_gaia$§!. Having faced near annihilation, the Original People vowed never to tell their young of their history - lest they seek out their ancient enemies - while attempting to rebuild their civilization from the ashes of their past."
+
+ origin_ringworld_empire:0 "Ringworld Empire"
+ origin_ringworld_empire_desc:0 "It was assumed that the Ringworld Empire perished in the Great Crusade 10000 years ago, along with their legacy and contributions to the galactic community. It was assumed, that ruined ringworlds were all that remained of this once mighty empire. But the assumptions were wrong, for the people yet live, and after rebuilding their technologies, they are ready to return to the galactic community."
+
+ civic_tooltip_original_people_effects:3 "§R- WARNING: Challenging Origin§!\n- Homeworld is a §Y$pc_gaia$§! (Size: £planetsize£ §Y30§!) with several §YRare Planetary Features§!\n - Ruined Megastructures in neighboring systems.\n -Gain the §Y$trait_punctual$§! trait\n -Gain the §Y$trait_patriotic$§! trait\n -Gain the §Y$trait_disciplined$§! trait\n- Ancient Enemies of the Original People may yet live."
+ civic_tooltip_ancestors_effects:3 "- Start with a §YShattered Ring World§! as your homeworld.\n- Ruined Megastructures in neighboring systems.\n -Gain the §Y$trait_ringworld_empire$§! trait\n- Start with a small number of Fallen Empire buildings.\n- Habitability preference is set to §Y$trait_pc_ringworld_habitable_preference$§!, making other types of settlement undesirable.\n- Due to their shared history, Fallen Empires may remember your species."
+
+ NAME_The_Wrath_Of_The_Ancients:0 "The Second Crusade"
+ NAME_Second_Coalition: "Grand Coalition of the Second Crusade"
+ 
+
+ trait_punctual:0 "Punctual"
+ trait_punctual_desc:0 "§LMembers of this species are always punctual, lending to increased productivity across all strata of society.§!"
+ trait_patriotic:0 "Patriotic"
+ trait_patriotic_desc:0 "§LMembers of this species are extremely proud of their nation, viewing it as their duty to follow orders.§!"
+ trait_disciplined:0 "Disciplined"
+ trait_disciplined_desc:0 "§LMembers of this species make disciplined soldiers, making them effective in combat.§!"
+ trait_ringworld_empire:0 "Precursor"
+ trait_ringworld_empire_desc:0 "§LMembers of this species are descendants of a precursor civilization that had vanished many millennia ago.§!"
+
+ opinion_original_people:0 "Original People"
+
+ opinion_shared_history:0 "Shared History"
+
+ opinion_shadows_of_the_original_empire:0 "Shadows of the Original Empire"
+
+ ORIGINAL:0 "Original"
+
+ original_people.1.desc:0 "Foolish [Root.GetSpeciesName]. The lack of respect you show for your betters will be your undoing. Prostrate yourselves before us and beg our forgiveness, and we MAY refrain from annihilating your worthless empire."
+
+ original_people.3.desc:0 "The Original Empire was corrupt. §HYou§! are corrupt. Spirits demand there must be balance, and we shall obey."
+ original_people.3.desc.b:0 "The [Root.GetSpeciesNamePlural] continue to astound us with their refusal to accept reality - that we have destroyed your empire for the greater good. Coming back was the last mistake the [Root.GetSpeciesNamePlural] will ever make."
+ original_people.3.desc.c:0 "For all your power, your troubled past, and all the sufferings you have caused, you have learned nothing. The oppression of the Original Empire will never return, and we will make sure of it."
+ original_people.3.desc.d:0 "Original scum. We will finish the job our ancestors started, and wipe every stinking [Root.GetSpeciesName] from the face of this galaxy."
+ original_people.3.a:0 "So be it."
+ 
+ original_people.50.desc:0 "For 10000 years, the galaxy had enjoyed genuine peace, and had learned to live without your kind and your malign influence. Since your return, war has erupted in the galaxy once more - you are a plague and you must be stopped. As our ancestors were once called upon to do their duty, and gave their lives for freedom, we too shall not shirk ours.\n\nIt is time. The verdict is cast. The Second Crusade has been called, and the Grand Coalition is formed once more to ensure the oppression of the Original Empire will never return. You...have §Hlost§!!"
+ original_people.50.a:0 "No...no...no!"
+ original_people.50.b:0 "You will die!"
+ original_people.50.c:0 "No. This is just the beginning!"
+ original_people.50.d:0 "So be it. We will do what we must."
+
+
+ original_people.60.name:0 "Unusual Ruins on [Root.GetName]"
+ original_people.60.desc:0 "New sensor technology allowed us to pick up another anomaly on a remote part of the planet that is, until now, unexplored. The metallic sensors however, cannot tell us more and a team of scientists wishes to investigate. But first, the ruins must be cleared."
+ original_people.60.a:0 "Go ahead. Clear the ruins."
+
+ original_people.6.name:0 "Starship Graveyard"
+ original_people.6.desc:0 "Upon clearing away the surface debris and biological growth of the last 10000 years, we discovered remnants of an ancient starship. Yet for some unknown reason, it felt familiar, as if we should recognize it. A team of archaeologists soon joined the investigation and disturbingly, this ship match the primitive drawings made by the first settlers of §H[Root.GetName]§!. How can this be?\n\nWhen news of this discovery spread, physicists and engineers became excited by the technologies found on this ship. The weaponry are beyond our current understanding of physics, and the way this ship was assembled and made capable of spaceflight seemed well beyond our experience in engineering. To settle this once and for all, our top scientists proposed a restoration project. This would require significant resources, of course.\n\nWhere did it come from? Why did it look so familiar? Perhaps this wreck of a ship holds all the answers to our past."
+ original_people.6.a:0 "Can we fix it?"
+ original_people.6.b:0 "Scrap it for metals."
+ original_people.6.c:0 "Study its technology."
+ original_people.6.d:0 "Leave it alone. It is irrelevant."
+
+ ORIGINAL_PEOPLE_ESCORT:0 "Awakening an Ancient Ship"
+ ORIGINAL_PEOPLE_ESCORT_DESC:0 "This ship looks old...really old. Yet it seems strangely familiar to the eye. The inscriptions found on this ghastly husk share uncanny resemblances to the ancient texts currently on display in our national museum, yet we haven't achieved full spaceflight until a decade or so ago.\n\nIt will take time to study the ship's operations while ensuring it does not accidentally explode on the touch of a wrong button."
+
+
+ original_people.7.name:0 "Ancient Ship Awakened"
+ original_people.7.desc:0 "It started to hum. It was faint at first, like an echo coming from our distant yet mysterious past. But then the engine roared to life, awakening a warship that was thought long-dead. Weapons, life-support, hyperdrive, all came online, announced by the ship's AI in ancient §H[Root.Owner.GetSpeciesAdj]§! dialect. It is buried and forgotten no more.\n\nThe ship's interior and controls seemed to fit intimately with our unique §H[Root.Owner.GetSpeciesAdj]§! physiology, and our admirals could not be more excited to see it in action. However, our scientists warned against reverse-engineering any of the ship's technologies, or install our own modifications, as their workings are still not understood by modern science. 'I don't know how, but it works and it doesn't explode,' one engineer said grumpily. 'So don't ruin it.'\n\nIt is now increasingly evident that we were once a spacefaring empire. The evidence is insurmountable. But what happened? §H[Root.Owner.GetSpeciesAdj]§! history beyond the first settlers here on this planet is simply non-existent. No records prior to their appearance exist. Are there more of us out there?\n\nGoing through what remained of the vessel's black box, the last order it received was to escort a group of colony ships, likely our ancestors. In a sense, this ship guarded our ancestors who eventually settled on this planet, before it encountered some sort of fatal accident in orbit. Either case, it seems like we are destined to fly this ship again into uncharted space, and uncover the mystery of our origin."
+ original_people.7.a:0 "Get this ship to orbit!"
+
+
+
+ 01_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "Perhaps there is a reason why your kind yet lives, [From.GetSpeciesName]."
+ 02_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "You... You remind us of some absolutely §Hhorrible§! people from our history archives."
+ 03_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "We have not forgotten, [From.GetSpeciesNamePlural]. You will do well to learn from mistakes of the past."
+ 04_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "So the Original Empire still lives. Hard to know why our ancestors didn't finish the job." 
+
+ 01_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "Atone for your sins, [From.GetSpeciesNamePlural]. Perhaps there shall be salvation for you after all."
+ 02_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "How the mighty have fallen, to see [From.GetSpeciesNamePlural] travel in such crude metal husks."
+ 03_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "I am glad the [From.GetSpeciesNamePlural] are not extinct. Look at you! So cute! You will make a fine addition to our pleasure palace."
+ 04_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "Perhaps [From.GetSpeciesNamePlural] are not entirely useless. Maybe you will make good slaves...yes, it will be fitting for [From.GetSpeciesNamePlural] to repair the damage they have caused thousands of years ago."
+
+ 01_ORIGINAL_FALLEN_EMPIRE_ANGRY_GREETING:0 "Perhaps it's in your nature. You never change, [From.GetSpeciesNamePlural]."
+ 02_ORIGINAL_FALLEN_EMPIRE_ANGRY_GREETING:0 "Never forget the lessons of history, [From.GetSpeciesNamePlural]. We've put you down once, we can do so again."
+ 03_ORIGINAL_FALLEN_EMPIRE_ANGRY_GREETING:0 "What do they teach you in schools on [From.Capital.GetName]? Clearly you don't know your own history and are doomed to repeat it."
+ 04_ORIGINAL_FALLEN_EMPIRE_ANGRY_GREETING:0 "The only good [From.GetSpeciesName] is a dead [From.GetSpeciesName]."
+
+ 01_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_WAR_GREETING:0 "History repeats itself. Must we remind you how that went last time?"
+ 02_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_WAR_GREETING:0 "You must be punished."
+ 01_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_WAR_GREETING:0 "This is for the greater good of the galaxy."
+ 02_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_WAR_GREETING:0 "Never again."
+ 01_ORIGINAL_FALLEN_EMPIRE_ANGRY_WAR_GREETING:0 "Have you learned nothing from your dark history, [From.GetSpeciesName]?"
+ 02_ORIGINAL_FALLEN_EMPIRE_ANGRY_WAR_GREETING:0 "[From.Capital.GetName] shall burn. We will see to it that the Original Empire can never return."
+
+
+
+ 01_ANCESTOR_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "The prophets spoke of your return, [From.GetSpeciesName]. But are you strong enough to carry out the task?"
+ 02_ANCESTOR_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "Yes, the [From.GetSpeciesNamePlural] once fought in the Great Crusade. The archives said as much."
+ 03_ANCESTOR_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "We have always wondered if any [From.GetSpeciesNamePlural] survived the Great Crusade. Our xeno zoo is not yet complete."
+ 04_ANCESTOR_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "So the [From.GetSpeciesNamePlural] still lives. We read about you in our archives, but we highly doubt any of your achievements were actually true."
+
+ 01_ANCESTOR_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "The prophets were right, [From.GetSpeciesNamePlural]. You will return balance to the shroud."
+ 02_ANCESTOR_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "We are severely concerned that the [From.GetSpeciesNamePlural] made virtually no scientific progress during all this time."
+ 03_ANCESTOR_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "We've missed you, friends! There's a lot to catch up. Many centuries have passed since the Great Crusade."
+ 04_ANCESTOR_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "We've never realised our old allies could be such amenable. Despite your rather odd appearances, we now see why our ancestors were allies together." 
+
+
+ 01_ANCESTOR_FALLEN_EMPIRE_ANGRY_GREETING:0 "Perhaps our prophets were wrong about the [From.GetSpeciesNamePlural]. They would not restore balance to the shroud."
+ 02_ANCESTOR_FALLEN_EMPIRE_ANGRY_GREETING:0 "Do not test us, friends. Our patience is not unlimited."
+ 03_ANCESTOR_FALLEN_EMPIRE_ANGRY_GREETING:0 "Why is it the [From.GetSpeciesNamePlural] today would so eagerly sabotage the legacy of their great ancestors?"
+ 04_ANCESTOR_FALLEN_EMPIRE_ANGRY_GREETING:0 "We've never battled the [From.GetSpeciesNamePlural] in history, but we will, if we must."
+
+ 01_ANCESTOR_FALLEN_EMPIRE_DISMISSIVE_WAR_GREETING:0 "Unfortunately, [From.GetSpeciesName], this has to be done."
+ 02_ANCESTOR_FALLEN_EMPIRE_DISMISSIVE_WAR_GREETING:0 "It will be sad to see [From.Capital.GetName] burn once more."
+ 01_ANCESTOR_FALLEN_EMPIRE_PATRONIZING_WAR_GREETING:0 "We wished there were another way."
+ 02_ANCESTOR_FALLEN_EMPIRE_PATRONIZING_WAR_GREETING:0 "Don't make us do this."
+ 01_ANCESTOR_FALLEN_EMPIRE_ANGRY_WAR_GREETING:0 "It seemed, the [From.GetSpeciesName] have devolved severely during their time away from the galactic community."
+ 02_ANCESTOR_FALLEN_EMPIRE_ANGRY_WAR_GREETING:0 "You abuse our shared history with false agendas. We must stop you."
+
+ START_SCREEN_ORIGINAL_PEOPLE:0 "For centuries, [GetSpeciesAdj] biologists knew that the [GetSpeciesNamePlural] did not in fact evolve from the biosphere of [GetHomeWorldName]. In fact, there were no records of [GetSpeciesName] existence until roughly 10000 years ago. Their sudden appearance led to a popular theory - that [GetSpeciesNamePlural] perhaps originated from elsewhere in space.\n\nBut if we were already a spacefaring civilization, why did the first [GetSpeciesName] colonists inherit none of the advanced technologies, and why were we left here, seemingly forgotten? Where did [GetSpeciesNamePlural] come from and what happened to the others? Why did our ancestors make no mention of their past?\n\nIn recent years, [GetRulerTitle] [GetRulerName] has risen to power with thunderous applause, promising to find answers to the [GetAdj]'s mysterious past."
+ START_SCREEN_ANCESTORS:0 "For centuries now, we knew our world was not spherical like most planetary bodies we observed in the universe. Someone - or some thing - had built this massive structure, this Ringworld that we now inhabit, and it could not have been an accident.\n\nBut who would do such a thing, and what could they possibly want from our kind? Among the shattered segments, ancient ruins, and decrepit tunnels of [GetHomeWorldName], we have found few answers to our origin. Ancient structures guided our evolution and advancements, while their inner-workings largely confounded many of our [GetScientistPlural]. Where did we come from? And if the answers could not be found here, then perhaps the time has finally come for us to look to the stars."
+ 
+ ringworld_empire_chain_title:0 "Ringworld Empire"
+ ringworld_empire_chain_desc:0 "The massive structure that we inhabit is as ancient as the precursor empires themselves. But who built it remained a mystery, and as we reach for the stars, and we shall discover what had happened to the [GetEngineerPlural] who built this Ringworld."
+ 
+ original_people_chain_title:0 "Original People"
+ original_people_chain_desc:0 "The first [From.GetSpeciesNamePlural] appeared on [From.Capital.GetName] roughly 10000 years ago, but little is known about them prior to this time. To find one's roots is to find one's true self, and it has long been a dream of the [Root.GetAdj] people to find their home, their true home - for how can a tree live without its roots? As the saying goes:\n\n'All that is gold does not glitter,\nNot all those who wander are lost;\nThe old that is strong does not wither,\nDeep roots are not reached by the frost.\n\n'From the ashes a fire shall be woken,\nA light from the shadows shall spring;\nRenewed shall be blade that was broken,\nThe crownless again shall be king.'"
+ 
+ original_people_digsite_1:0 "In Search of our Roots"
+ original_people_digsite_1_desc:0 "The unusual metallic readings originated from the deepest ocean of the planet. The fact we are able to detect this is in no small part due to improved scanner and sensor technologies. However, assembling a vessel that can withstand this amount of pressure with enough scientific equipment on board will be no small task."
+ original_people_digsite_2:0 "The Unanswered Call"
+ original_people_digsite_2_desc:0 "Before the untimely demise of our ancestor's colony ship, a distress call was sent to this planet. However, the colony ship received no reply, and no help came. We want to find out why."
+ original_people_digsite_3:0 "The Refugee Planet"
+ original_people_digsite_3_desc:0 "Somehow, the majority of the refugees that showed up on the small city world were from this planet. We should find out why."
+ original_people_digsite_4:0 "The Golden City"
+ original_people_digsite_4_desc:0 "The Golden City is no more, but the planetary debris surrounding the planet could contain information on our distant past, and tell us a lot about what happened."
+ 
+ original_people.100.name:0 "Discovery on [From.Capital.GetName]"
+ original_people.100.desc:0 "A recent excursion to the deepest ocean of [From.Capital.GetName] has returned some rather unusual metallic readings, but we're not entirely sure what could be down there. Our archaelogists recommend that we investigate the location."
+ original_people.100.a:0 "What could be under the ocean?"
+
+ original_people.101.name:0 "Vessel Under the Sea"
+ original_people.101.desc:0 "Upon arriving on site after what must have been the most sophisticated underwater exploration to date, our archaelogists can confirm that the source of this unusual metallic reading was in fact, some type of vessel, a vessel not unlike a colony ship of some sort. Could this hold the answers to our origin?\n\nOur team proposes a plan to recover the vessel first, since we could do more with it on the ground."
+ original_people.101.a:0 "Can we recover it somehow?"
+
+ original_people.102.name:0 "Spacecraft Recovered"
+ original_people.102.desc:0 "With a gargantuan effort, remnants of the mysterious vessel have been brought to ground. After some 10000 years, although preserved by the low temperatures of the ocean, the condition of this vessel is... workable. There is however absolutely no doubt that this vessel will never fly again.\n\nInside, we found tiny remains of [From.Owner.GetSpeciesNamePlural], likely our ancestors who were trapped in the vessel before its imminent crash. Judging by escape pod jettisons, a small number of passengers managed to escape and likely made their way to safety; the rest sank with the vessel to the bottom of the ocean. Our scientists would like to recover the black box to examine the cause of the crash, to see if there were lessons we could learn."
+ original_people.102.a:0 "What can it tell us about our past?"
+
+ original_people.103.name:0 "Black Box Deciphered"
+ original_people.103.desc:0 "The black box we recovered was in terrible shape, but the final albeit corrupted entries provided clues as to what happened in the final minutes. The colony ship was under fire by unknown hostiles before crashing on [From.Owner.Capital.GetName]. The final message was a desperate call for help sent to a system nearby. That message received no reply." 
+ original_people.103.a:0 "Then we shall go to this system."
+
+ original_people.200.name:0 "Help that never came"
+ original_people.200.desc:0 "The colonists' distress call was sent to a nearby system and we managed to pinpoint the coordinates to the planet of [event_target:original_people_digsite_2.GetName]. We should send in a team immediately and find out why our ancestors' call for help was ignored."
+ original_people.200.a:0 "Why didn't they answer?"
+
+ original_people.201.name:0 "The Battle of [From.Planet.GetName]"
+ original_people.201.desc:0 "From the massive craters and the apparent level of devastation, our archaeological team deduced that this small city world had been the subject of orbital bombardment so intense, it was unlike anything we had ever seen. Strangely, there were no signs of street combat - it was a war of annihilation. A deeper exploration beneath the ruins revealed yet more bodily remains of what appeared to be [From.Owner.GetSpeciesNamePlural], trapped under the crumbling structures before their deaths.\n\nIn the northern hemisphere, our team found fields of debris that seemed to be the result of a space battle that occurred before this planet met its fate - a one-sided battle, with the few vessels of the defenders quickly swept aside and blasted to pieces. No wonder the colonists received no answer when they asked for help."
+ original_people.201.a:0 "How horrible."
+
+ original_people.202.name:0 "City in Panic"
+ original_people.202.desc:0 "Several holo-records of the city's final days remained. When the [From.Owner.GetSpeciesAdj] residents learned of an incoming fleet, they knew the resulting devastation that was sure to follow. Those who could afford it boarded colony ships, while those who could not stayed behind.\n\nThe civilian casualties were astronomical for a city so small, which was housing a much larger population than it had the capacity for at the time, and that for now remains a mystery. Without reinforcements to relieve the beseiged city, the planet was indiscriminately bombed until there were no signs of life."
+ original_people.202.a:0 "Who did this to our ancestors?"
+
+ original_people.203.name:0 "Migration Records Found"
+ original_people.203.desc:0 "Amidst the ruins of an ancient palace, we found what appeared to be governmental records of [From.Planet.GetName], and on it were some rather interesting data on demographics and the population at the time. The small city was already in crisis from dealing with an influx of [From.Owner.GetSpeciesAdj] refugees from all corners of the empire, causing a massive housing and food shortage for the once crowned colony. The governor noted how the living situation had become desperate, but yet the refugees kept coming. Not long after that, the hostile fleet arrived and put them all out of their misery.\n\nWhile going through the records, one planet in particular exported the most refugees to [From.Planet.GetName]. Did it suffer the same fate? Perhaps we will find more clues there, and it will lead us to our home."
+ original_people.203.a:0 "Let us find this planet."
+
+ 
+ original_people.3000.name:0 "Shielded World"
+ original_people.3000.desc:0 "[From.GetName] has been found to be completely enveloped in some kind of energy barrier. All attempts by the [Root.GetName] to penetrate the barrier with its sensors have failed - the scanning beam is simply deflected back at the ship, as though it was looking at a mirror.\n\nThe barrier's energy readings are fluctuating somewhat, possibly as a result of thousands of years of decay, but breaching it with raw firepower would still be impossible. Science Officer [Root.GetLeaderName] has proposed a special project to investigate ways of removing the barrier... but suppose it was created to keep something in, rather than out?"
+ original_people.3000.a:0 "That barrier is coming down. For science!"
+ 
+ ORIGINAL_PEOPLE_SHIELD_PROJECT:0 "Lower Shield on [event_target:original_people_shielded_planet.GetName]"
+ ORIGINAL_PEOPLE_SHIELD_PROJECT_DESC:0 "For reasons unknown, someone or something has encased [event_target:original_people_shielded_planet.GetName] in an impenetrable energy shield. Its energy levels are fluctuating, suggesting that the shield has been active for many thousands of years. We must find some way to nullify the barrier and discover what lies beneath!"
+
+ original_people.3001.name:0 "Mothballed Ships"
+ original_people.3001.desc:0 "Our scientists above [From.From.GetName] have finally succeeded in lowering the energy barrier. When it disappeared, we discovered a mothballed warship slowly drifting in low orbit above an otherwise insignificant rock.\n\nIt appears to be the remnants of some kind of naval reserve fleet, but we have no idea how it became trapped within the shield barrier. Although unmanned, the ship seemed to respond to our hails and accepted our orders."
+ original_people.3001.a:0 "Send in crews to man these ships."
+ original_people.3002.name:0 "Mothballed Ship"
+ original_people.3002.desc:0 "Our scientists above [From.From.GetName] have finally succeeded in lowering the energy barrier. When it disappeared, we discovered a mothballed warship slowly drifting in low orbit above an otherwise insignificant rock.\n\nIt appears to be the remnants of some kind of naval reserve fleet, but we have no idea how it became trapped within the shield barrier. Although unmanned, the ship seemed to respond to our hails and accepted our orders."
+ original_people.3002.a:0 "It will be a fine addition to our fleets."
+ original_people.3003.name:0 "Mothballed Fleet"
+ original_people.3003.desc:0 "Our scientists above [From.From.GetName] have finally succeeded in lowering the energy barrier. When it disappeared, we discovered a mothballed battle fleet slowly drifting in low orbit above an otherwise insignificant rock.\n\nIt appears to be the remnants of some kind of naval reserve fleet, but we have no idea how it became trapped within the shield barrier. Although unmanned, the ships seemed to respond to our hails and accepted our orders."
+ original_people.3003.a:0 "They will be a fine addition to our fleets."
+ 
+ original_people.300.name:0 "The Refugee Planet"
+ original_people.300.desc:0 "Many of the refugees that ended up on the small city world were from the planet of [event_target:original_people_digsite_3.GetName]. With the shield barrier around the planet successfully lowered, we are now able to investigate its surfaces to find out what happened to the colony."
+ original_people.300.a:0 "We should go there at once."
+
+ original_people.301.name:0 "Planet of the Dead"
+ original_people.301.desc:0 "On the cold, barren surface of [From.Planet.GetName], there were little traces of the massive colony that once housed billions of [From.Owner.GetSpeciesNamePlural]. Deep snow covered the planet, perhaps as a result of the shield barrier blocking out much of the sunlight, causing the temperature to plummet.\n\nOur team will continue to dig through the snow for signs of civilization, to see if more of our ancestors are buried here, or if there are important cultural artifacts to recover."
+ original_people.301.a:0 "Keep digging."
+
+ original_people.302.name:0 "The Battle at [From.Planet.GetName]"
+ original_people.302.desc:0 "While digging through layers of snow, we found more [From.Owner.GetSpeciesAdj] bodies that were somewhat preserved in this icy environment. They were adorned with jewels and wore pretty clothing. Material seemed abundant in this society, at least before what befell this planet.\n\nWe also found journal entries with accounts of this battle at [From.Planet.GetName]. Despite fierce resistance, the defenders were greatly outnumbered and were eventually defeated. By our estimates, this must have been an important system for the empire at that time, and one the empire could not afford to lose.\n\nIt was believed that the attackers understood the disadvantages of being bogged down in street fighting, and so they deployed a weapon known as the §HColossus§!, a terrifying construct that can destroy an entire planet. They used this before more reinforcements could arrive. Upon its activation, the residents of [From.Planet.GetName] became trapped. Several more warships were hastily constructed on the planet itself but the shield simply could not be penetrated from the inside.\n\nWhile those who can flee had fled well before the enemy fleets came into orbit, those who remained were eventually frozen to death, and that was the end of this [From.Owner.GetSpeciesAdj] colony."
+ original_people.302.a:0 "Tragic."
+
+ original_people.303.name:0 "The Last Journals"
+ original_people.303.desc:0 "Several of the journal entries we discovered mentioned §YThe Golden City§!, and judging by the reverence in their tone, it was likely the capital of the empire. Perhaps homesick, as well as realising the hopelessness of their situation, many residents expressed their longing to return to §YThe Golden City§! and see its majestic spires once more. One of entires even plotted the exact coordinates of the system, which is currently not on our sensors.\n\nAt last, with this vital piece of information, we shall take our ancestors' hopes with us, and we can finally go home - together."
+ original_people.303.a:0 "Let us go home - to The Golden City."
+
+ original_people.4000.name:0 "The Sleeping Giant"
+ original_people.4000.desc:0 "Upon entering the system, a gargantuan ship came into view, orbiting in silence the planet once known as §YThe Golden City§!. We suspect it has been orbiting the planet for some time, but it was unclear as to what purpose, or if it would achieve anything by doing so.\n\nNevertheless, we should approach with caution. Whatever this - thing - is, it is certainly capable of blasting us to bits if we provoke it."
+ original_people.4000.a:0 "We should proceed with caution."
+ 
+ original_people.4001.name:0 "The Giant Wakes"
+ original_people.4001.desc:0 "The fact §YThe Golden City§! had visitors did not escape the notice of the gargantuan ship in its orbit. All the while, it was analysing our signals, reading our signatures, and immediately activated all of its engines and weapon systems.\n\nWhen our science vessel noticed this, we hailed the giant ship to state our intentions, and then it just started... following us. It was almost as if parts of our energy signatures awoke something deep within the ship's databank.\n\nIt seems this ship will now follow us wherever we go."
+ original_people.4001.a:0 "What use is this massive ship following us?"
+ 
+ original_people.400.name:0 "The Golden City"
+ original_people.400.desc:0 "§YThe Golden City§! that was the capital of the ancient [From.Owner.GetSpeciesAdj] empire had long been reduced to shattered lumps of rocks, but its debris could provide a great deal of insight on its age, its technological progress at the time, and could tell us a lot about our missing culture. We should send a team there and examine the planetary debris."
+ original_people.400.a:0 "Let's see what we can find."
+
+ original_people.401.name:0 "Utopian World"
+ original_people.401.desc:0 "Having studied the remains of §YThe Golden City§!, we have learned that it was once a Utopian World, where fields of golden grass and singing towers gave birth to the ancient [From.Owner.GetSpeciesNamePlural]. Their civilization developed quickly, achieving spaceflight roughly 30000 years ago. Among the many primitive empires they encountered, [From.Owner.GetSpeciesNamePlural] were regarded as gods from heaven, and the primitives paid tribute in droves. With all this wealth, majestic spires were built - one of the wonders of the galaxy - but there is no sight of that now."
+ original_people.401.a:0 "How sad."
+
+ original_people.402.name:0 "The First Galactic Imperium"
+ original_people.402.desc:0 "Around some 20000 years ago, with the backing of the galactic community, the ancient [From.Owner.GetSpeciesAdj] empire became the First Galactic Imperium, in a bid to achieve a safe and secure society. And thus the Original Empire was born, and [From.Owner.GetSpeciesNamePlural] became known as simply the Original People. As the only species to have achieved Dark Matter Fusion, whenever crises arose, it was always the [From.Owner.GetSpeciesNamePlural] that protected the galaxy from annihilation, and for the next 10000 years, the Original Empire reigned supreme and seemed all but invincible.\n\nTowards the end of the Original Empire's reign, the [From.Owner.GetSpeciesNamePlural] found themselves fighting on multiple fronts. An earlier than anticipated activation of the Contingency, extra-dimensional invaders, and 'terrifying creatures' from interstellar space had struck simultaneously in all corners of the galaxy. Their fleets and supplies became overstretched, while their vassals contributed little to the war effort. The Imperial Armada began losing ships faster than they could replace, and for some, this became an opportunity."
+ original_people.402.a:0 "We were the First Galactic Imperium?"
+
+ original_people.403.name:0 "The Last Battle"
+ original_people.403.desc:0 "The last battle of the Great Crusade was fought over §YThe Golden City§!. Recovered holorecords tell us that Sky Trench was activated, where five-hundred interwoven layers of planetary shield protected the §YThe Golden City§! from bombardment. Distress signals were sent to the frontline fleets: return and save the city.\n\nBut before a final relief effort could be made, a terrible weapon was unleashed on §YThe Golden City§!, cracking the planet in half. Billions of [From.Owner.GetSpeciesNamePlural] perished in an instant. With the signal tower destroyed, no further reinforcements were to arrive aside from a lone Goliath, but by then, the coalition fleets have moved on, and the heart and soul of the Original Empire was no more."
+ original_people.403.a:0 "If only we could replicate the distress signal..."
+ original_people.403.b:0 "It's too risky."
+ 
+ ORIGINAL_PEOPLE_DISTRESS_SIGNAL:0 "Distress Signal Tower"
+ ORIGINAL_PEOPLE_DISTRESS_SIGNAL_DESC:0 "If we could somehow replicate the distress signal patterns, using familiar energy signatures, we could broadcast it into the voids of space. If there were still ships of the ancient Imperial Armada remain, they might respond to our signal and return."
+
+ original_people.5000.name:0 "Distress Signal Replicated"
+ original_people.5000.desc:0 "After cross-referencing data found on the debris of §YThe Golden City§! with the various warships we have collected, our engineers have been able to build a signal tower capable of calling out into deep and uncharted space. If any of our ancestors' ships are still out there, they might return once they receive our distress signal, and aid us in the battles to come."
+ original_people.5000.a:0 "Activate it!"
+ 
+ original_people.5004.name:0 "A Vessel Responded"
+ original_people.5004.desc:0 "Earlier, a vessel showed up to [Root.Capital.GetName], orbiting it, seemingly in response to our distress signal. Perhaps given enough time, the remnants of the old Imperial Armada will return to us one by one, and when they are gathered, the Original Empire shall be reborn."
+ original_people.5004.a:0 "Welcome home!"
+ 
+ original_people.6000.name:0 "Original Empire Structures"
+ original_people.6000.desc:0 "After compiling more of the data from our previous excavations, our scientists are reasonably certain that the Original Empire in fact, had highly advanced automated industries unlike anything we had ever seen. Perhaps we should find ways to recreate these miracle technologies of the past."
+ original_people.6000.a:0 "We should recover all of our technologies."
+ original_people.6000.b:0 "No, it's too much effort."
+ 
+ original_people.6001.name:0 "Recovery Successful"
+ original_people.6001.desc:0 "Our scientists have been successful in their recovery of blueprints for several ancient Original Empire structures. Their functions and capabilities show great potential for our present economy."
+ original_people.6001.a:0 "Good!"
+ 
+ 
+ 
+ 
+
+
+
+

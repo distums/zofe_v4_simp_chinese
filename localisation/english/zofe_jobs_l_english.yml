@@ -1,0 +1,95 @@
+﻿l_english:
+ 
+ job_ae_xeno_keeper:0 "Xeno-Keeper"
+ job_ae_xeno_keeper_plural:0 "Xeno-Keepers"
+ job_ae_xeno_keeper_desc:0 "These zookeepers look after the needs of the Xeno-Wards under their care."
+ mod_job_ae_xeno_keeper_add:0 "$job_ae_xeno_keeper$ Jobs"
+ mod_job_ae_xeno_keeper_add:0 "$job_ae_xeno_keeper$ Jobs" 
+ job_ae_xeno_ward:1 "Xeno-Ward"
+ job_ae_xeno_ward_plural:2 "Xeno-Wards"
+ job_ae_xeno_ward_desc:1 "These specimens have been gathered here, in settings that approximate their natural environments, to ensure the preservation of their species in an often chaotic and destructive galaxy."
+
+ 
+ job_ae_hedonist:0 "Hedonist"
+ job_ae_hedonist_plural:0 "Hedonists"
+ job_ae_hedonist_desc:1 "A life of total opulence, where every possible material need or desire can be satisfied."
+ mod_job_ae_hedonist_add:0 "$job_fe_hedonist$ Jobs"
+ HEDONIST_UTOPIAN:0 "Decadent Lifestyle"
+ HEDONIST_UTOPIAN_DESC:0 "Letting our main species live in §YUtopian Abundance§! or the §YDecadent Lifestyle§! will greatly please the [Root.GetName]."
+ HEDONIST_NO_UTOPIAN:0 "$HEDONIST_UTOPIAN$"
+ 
+ job_ae_maintenance_bot:0 "Caretaker"
+ job_ae_maintenance_bot_plural:0 "Caretakers"
+ job_ae_maintenance_bot_desc:0 "These ancient machines tirelessly maintain and repair the decaying machinery of the worlds on which they reside."
+ mod_job_ae_maintenance_bot_add:0 "$job_ae_maintenance_bot$ Drones"
+ 
+ job_ae_confused_drone:0 "Confused Drone"
+ job_ae_confused_drone_plural:0 "Confused Drones"
+ job_ae_confused_drone_desc:0 "Confused Drones are infected with some sort of mysterious sickness, consuming resources and wondering aimlessly about."
+ mod_job_ae_confused_drone_add:0 "$job_ae_confused_drone$"
+ 
+ pft_hedonist:0 "Hedonist Faction"
+ pft_hedonist_desc:0 "Hedonist Factions desire the highest possible living standards and the right to enjoy life without work. They dislike wars, and would prefer to keep their lives to explore all forms of pleasure that the galaxy might offer.\n\n§LPacifist Ethos§!"
+ 
+ factions.1.desc.hedonist:0 "Their members work part-time to secure the liberties and rights of hedonists in our empire.\n\n"
+ 
+ format.pop_faction.hedonist:0 "<hedonist_names_1> <hedonist_names_2>"
+ 
+ promoted_hedonist:0 "Hedonism Promoted"
+ promoted_hedonist_desc:0 "The Hedonist lifestyle is being promoted by the government."
+ suppressed_hedonist:0 "Hedonism Suppressed"
+ suppressed_hedonist_desc:0 "The Hedonist lifestyle is being suppressed by the government."
+ 
+ job_ae_dark_matter_technician:0 "Dark Matter Technician"
+ job_ae_dark_matter_technician_plural:0 "Dark Matter Technicians" 
+ job_ae_dark_matter_technician_desc:0 "$job_ae_dark_matter_technician_plural$ oversee and perform the dangerous task of converting visible matter into dark matter."
+ job_ae_dark_matter_technician_effect_desc:0 "£sr_dark_matter£ $job_ae_dark_matter_technician_plural$ turn £minerals£ §Y$minerals$§! into £sr_dark_matter£ §Y$sr_dark_matter$§!"
+ mod_job_ae_dark_matter_technician_add:0 "£sr_dark_matter£ $job_ae_dark_matter_technician$ Jobs"
+ planet_dm_technician:0 "Dark Matter Technician Jobs"
+ 
+ job_ae_dark_matter_drone:0 "Dark Matter Fabricator Drone"
+ job_ae_dark_matter_drone_plural:0 "Dark Matter Fabricator Drones"
+ job_ae_dark_matter_drone_desc: "$job_ae_dark_matter_drone_plural$ oversee and perform the dangerous task of converting visible matter into dark matter."
+ job_ae_dark_matter_drone_effect_desc: "£sr_dark_matter£ $job_ae_dark_matter_drone_plural$ turn £minerals£ §Y$minerals$§! into £sr_dark_matter£ §Y$sr_dark_matter$§!"
+ mod_job_ae_dark_matter_drone_add:0 "£sr_dark_matter£ $job_ae_dark_matter_drone$ Jobs"
+
+ job_ae_living_metal_smith:0 "Living Metal Mastersmith"
+ job_ae_living_metal_smith_plural:0 "Living Metal Mastersmiths"
+ job_ae_living_metal_smith_desc:0 "Living Metal Mastersmiths are expert engineers capable of seemingly infuse life into crude metal."
+ job_ae_living_metal_smith_effect_desc:0 "£sr_living_metal£ $job_ae_living_metal_smith_plural$ turn £alloys£ §Y$alloyss$§! and £sr_dark_matter£ §Y$sr_dark_matter$§! into £sr_living_metal£ §Y$sr_living_metal$§!"
+ mod_job_ae_living_metal_smith_add:0 "£sr_living_metal£ $job_ae_living_metal_smith$ Jobs"
+ planet_lm_smith:0 "Living Metal Mastersmith Jobs"
+
+ job_ae_living_metal_drone:0 "Living Metal Transmuter Drone"
+ job_ae_living_metal_drone_plural:0 "Living Metal Transmuter Drones"
+ job_ae_living_metal_drone_desc:0 "$job_ae_living_metal_drone_plural$ are expert drones capable of seemingly infuse life into crude metal."
+ job_ae_living_metal_drone_effect_desc:0 "£sr_living_metal£ $job_ae_living_metal_drone_plural$ turn £alloys£ §Y$alloyss$§! and £sr_dark_matter£ §Y$sr_dark_matter$§! into £sr_living_metal£ §Y$sr_living_metal$§!"
+ mod_job_ae_living_metal_drone_add:0 "£sr_living_metal£ $job_ae_living_metal_drone$ Jobs"
+
+ job_ae_zro_alchemist:0 "Zro Alchemist"
+ job_ae_zro_alchemist_plural:0 "Zro Alchemists"
+ job_ae_zro_alchemist_desc:0 "Zro Alchemists mixes minerals with exotic particles to create Zro."
+ job_ae_zro_alchemist_effect_desc:0 "£sr_zro£ $job_ae_zro_alchemist_plural$ turn £minerals£ §Y$minerals$§! into £sr_zro£ §Y$sr_zro$§!"
+ mod_job_ae_zro_alchemist_add:0 "$job_ae_zro_alchemist$ Jobs"
+ planet_zro_alchemist:0 "Zro Alchemist Jobs"
+ 
+ job_ae_zro_drone:0 "Zro Refiner Drone"
+ job_ae_zro_drone_plural:0 "Zro Refiner Drone"
+ job_ae_zro_drone_desc:0 "$job_ae_zro_drone_plural$ mixes minerals with exotic particles to create Zro."
+ job_ae_zro_drone_effect_desc:0 "£sr_zro£ $job_ae_zro_drone_plural$ turn £minerals£ §Y$minerals$§! into £sr_zro£ §Y$sr_zro$§!"
+ mod_job_ae_zro_drone_add:0 "$job_ae_zro_drone$ Jobs"
+
+ job_ae_artifact_curator:0 "Artifact Curator"
+ job_ae_artifact_curator_plural:0 "Artifact Curators"
+ job_ae_artifact_curator_desc:0 "Artifact Curators are constantly on the lookout for fine additions to our growing collection of ancient artifacts."
+ job_ae_artifact_curator_effect_desc:0 "£minor_artifacts£ $job_ae_artifact_curator_plural$ trade £energy£ §Y$energy$§! and £consumer_goods£ §Y$consumer_goods$§! for £minor_artifacts£ §Y$minor_artifacts$§!"
+ mod_job_ae_artifact_curator_add:0 "£minor_artifacts£ $job_ae_artifact_curator$ Jobs"
+ planet_artifact_curator:0 "Artifact Curator Jobs"
+
+ job_ae_artifact_curator_drone:0 "Artifact Curator Drone"
+ job_ae_artifact_curator_drone_plural:0 "Artifact Curator Drones"
+ job_ae_artifact_curator_drone_desc:0 "$job_ae_artifact_curator_drone_plural$ are constantly on the lookout for fine additions to our growing collection of ancient artifacts."
+ job_ae_artifact_curator_drone_effect_desc:0 "£minor_artifacts£ $job_ae_artifact_curator_drone_plural$ trade £energy£ §Y$energy$§! and £alloys£ §Y$alloys$§! for £minor_artifacts£ §Y$minor_artifacts$§!"
+ mod_job_ae_artifact_curator_drone_add:0 "£minor_artifacts£ $job_ae_artifact_curator_drone$ Jobs"
+ 
+ 

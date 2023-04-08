@@ -1,0 +1,108 @@
+﻿l_english:
+
+
+ decision_paradise_creation_habitat:0 "Paradise Creation"
+ decision_paradise_creation_habitat_desc:0 "When nature is engineered to perfection, its unparalleled beauty among the known universe would be a fitting a legacy to leave for our young. Utopian Paradise Worlds are created from §Y$pc_gaia$§!, §Y$pc_city$§!, §Y$pc_ringworld_habitable$§! or §Y$pc_habitat$§!."
+
+ decision_paradise_creation_habitat_effects:0 "Turns the $pc_habitat$ into a beautiful §YUtopian Habitat§!, becoming a true wonder of the universe. Unlocks special districts that support automated industries while allowing pops to live out the rest of their lives in self-deterministic ways.\n\n"
+
+ decision_paradise_creation_habitat_machine:0 "Living Metal Infusion"
+ decision_paradise_creation_habitat_machine_desc:0 "Start a project to infuse the colony with expertly crafted Living Metal to create an animated entity of unprecedented productivity. Living Metal Machine Worlds are created from §Y$pc_machine$§!, §Y$pc_ringworld_habitable$§ or §Y$pc_habitat$§!."
+# WIP still missing hive content
+ decision_paradise_creation_habitat_hive:0 "REPLACE_ME"
+ decision_paradise_creation_habitat_hive_desc:0 "REPLACE_ME"
+
+ pc_utopian_habitat:0 "Utopian Habitat"
+ pc_utopian_habitat_desc:0 "An ideal deep-space artificial arcology offering planet-like, if decidedly urban, living conditions. Hydroponics and advanced filtering technologies make it self-sustaining. The infusion of living metal allows its inhabitants to shape the arcology, allowing a utopian-like setting."
+ pc_utopian_habitat_adj:0 "Utopian Habitat"
+
+ mod_pc_utopian_habitat_habitability:0 "Utopian Habitat Habitability"
+ trait_pc_utopian_habitat_preference:0 "Utopian Habitat Preference"
+ trait_pc_utopian_habitat_preference_desc:0 "$trait_pc_arctic_preference_desc$"
+
+ d_everlasting_gardens:0 "Idyllic Garden"
+ d_everlasting_gardens_desc:0 "A central garden in the heart of this habitat, paved with silver ornamental walkways, benches and golden pillars. The garden  itself shapes the very center of this paradise, providing peace and harmony, just outside of the garden, luxury housings are lined around the center, for the most fortunate citizens."
+ d_synthetic_sky:0 "Synthetic Skies"
+ d_synthetic_sky_desc:0 "Our Mastery of Nature allows this Habitat to provide near-natural like atmosphere and weather for its inhabitants."
+
+ d_utopian_hab_machine_1:0 "Continual Station"
+ d_utopian_hab_machine_1_desc:0 "A station where the Machine Consciousness can store its drones and units, as well as a cargo hold for its own ships, the living metal constantly changes for whatever the Machine Consciousness wills."
+ d_utopian_hab_machine_2:0 "Arcane Generator"
+ d_utopian_hab_machine_2_desc:0 "A complex reactor core, where the Machine Consciousness siphons it for power generation, allowing efficiency of all things in the Habitat."
+ d_utopian_hab_hive_1:0 "Fungal Centrum"
+ d_utopian_hab_hive_1_desc:0 "A central fungal ecosystem in the heart of this habitat, providing food, dwellings for the Consciousness' Drones."
+ d_utopian_hab_hive_2:0 "Synthetic Skies"
+ d_utopian_hab_hive_2_desc:0 "The Mastery of Nature allows us to provide a near-natural like atmosphere and weather for this Habitat. This will give us room to grow and nurture our own Utopian Ecosystem."
+
+ district_utopian_housing_hab:0 "Utopian Housing District"
+ district_utopian_housing_hab_desc:0 "The Utopian Housing Districts provides ideal homes that rows in-line with the Utopian Habitat, it's spaceous and tidy. The communal gardens provides food for the populace, free for plucking and consumption."
+ district_utopian_housing_hab_plural:0 "Utopian Housing Districts"
+
+ district_utopian_production_hab:0 "Utopian Production District"
+ district_utopian_production_hab_desc:0 "The Utopian Production Districts are the pinnacle of technological advancements, housing intricate singularities and dimensional harvesters in one district."
+ district_utopian_production_hab_plural:0 "Utopian Production Districts"
+ 
+ district_utopian_manufacture_hab:0 "Utopian Manufacture District"
+ district_utopian_manufacture_hab_desc:0 "The Utopian Industrial District provides the proper infrastructure for the automated buildings, which can now be housed within the districts for ease of production."
+ district_utopian_manufacture_hab_plural:0 "Utopian Industrial Districts"
+
+ district_utopian_military_hab:0 "Utopian Military District"
+ district_utopian_military_hab_desc:0 "The Utopian Military Districts provides a fortified area within the Utopian Habitat, training facilities, practice range and landing docks are housed here, along with a specialized variant for the Aegis Complex."
+ district_utopian_military_hab_plural:0 "Utopian Military Districts"
+ utopian_military_district_1_desc:0 "This district now utilizes the §Y$tech_fe_aegis_complex$§!.\n"
+ utopian_military_district_2_desc:0 "This district now utilizes the §Y$tech_fe_aegis_complex_2$§!.\n"
+ utopian_military_district_3_desc:0 "This district now utilizes the §Y$tech_fe_aegis_complex_3$§!.\n"
+ utopian_military_district_4_desc:0 "This district now utilizes the §Y$tech_original_empire_star_forts$§!.\n"
+
+ district_utopian_science_hab:0 "Utopian Science District"
+ district_utopian_science_hab_desc:0 "The Utopian Science District is home to [GetScientistPlural] and [GetResearchers] alike, all working towards the betterment of our empire."
+ district_utopian_science_hab_plural:0 "Utopian Science Districts"
+
+ utopian_paradise.800.name:0 "A New §HUtopian Habitat§!: [Root.GetName]"
+ utopian_paradise.800.desc:0 "Upon stripping the habitat of imperfections and the aged districts we had built previously, our §HUtopian World§! is at last complete.\n\nOur [GetEngineerPlural] have created the perfect paradise, where evergreen gardens, glorious silver dome villages and floating sky homes form the backdrop to sophisticated home and garden districts, created using Living Metal which can be shaped and repurposed as the population expands. Downtown districts are designed to support our growing automated industries and the latest technologies.\n\nFrom this day forth, [Root.GetName] shall be known as a wonder of the universe."
+ utopian_paradise.800.a:0 "A Utopian Home... amongst the stars!"
+ 
+ 
+ #################
+## Colony Type ##
+#################
+ col_zofeproject_ascended_empire:0 "Ascended Empire Colony"
+ col_zofeproject_ascended_empire_desc:0 "The Colony planet of an Ascended Empire, the pinnacle of evolutionary technologies bestows wonders to its citizens."
+ col_zofeproject_lost_empire:0 "Lost Empire Colony"
+ col_zofeproject_lost_empire_desc:0 "Though its empire may be in decline, the pinnacle revolution of technological advancement on this world is astounding."
+ col_zofeproject_lost_empire_origin:0 "Lost Empire Colony"
+ col_zofeproject_lost_empire_origin_desc:0 "Though its empire may be in decline, the technological advancement on this world is astounding."
+ col_zofeproject_bad_lost_empire:0 "Lost Empire Colony"
+ col_zofeproject_bad_lost_empire_desc:0 "Though its empire is in decline, the citizens are disillusioned despite their technological advancements."
+ col_zofeproject_ascended_robot_empire:0 "Ascended Machine Colony"
+ col_zofeproject_ascended_robot_empire_desc:0 "The Colony planet of an Ascended Machine Empire, simple central networks commands the drones and units here for whatever the consciousness needs."
+ col_zofeproject_ascended_hive_empire_colony:0 "Ascended Hive Colony"
+ col_zofeproject_ascended_hive_empire_colony_desc:0 "The Colony planet of an Ascended Hive Empire, the collective thoughts patrols the drones in this colony for whatever the mind needs."
+ col_ascended_research:0 "Knowledge World"
+ col_ascended_research_desc:0 "This world is a center of knowledge for an Ascendancy, the marvels of technology are ever advance on this world."
+ col_ascended_industrial:0 "Industrial Hub"
+ col_ascended_industrial_desc:0 "This world is a hub for industries for an Ascendancy, the technology advancement is astonishing for this world."
+
+ col_zofeproject_ascended_empire_original:0 "Ascended Original Empire Colony"
+ col_zofeproject_ascended_empire_original_desc:0 "The Colony planet of an Ascended Original Empire, the pinnacle of evolutionary technologies bestows wonders to its citizens."
+ col_zofeproject_original_empire_colony:0 "Original Empire Colony"
+ col_zofeproject_original_empire_colony_desc:0 "The Colony planet of an Original Empire, frontier spirit and daring colonists of the Original Empire are bestowed wonders by its new foundation."
+
+### Utopian Worlds
+
+ col_zofeproject_utopian_colony:0 "Utopian Colony"
+ col_zofeproject_utopian_colony_desc:0 "A Utopian World. Perfection, beauty and revolutionary technology bestows awe to those that lives here."
+ col_zofeproject_utopian_entertainment:0 "Paradise Island"
+ col_zofeproject_utopian_entertainment_desc:0 "A bread basket of entertainment. The districts are cluttered with Holo-Theatres, Casinos and Night Clubs. This is the true home of Hedonism."
+ col_zofeproject_utopian_trade:0 "Utopian Trade Hub"
+ col_zofeproject_utopian_trade_desc:0 "A sprawling network of Corporate Warehouses and Facilities, countless adverts and thousands of Corporate Superchains. This planet is highly involved in galactic commerce."
+ col_zofeproject_utopian_research:0 "Research Hub"
+ col_zofeproject_utopian_research_desc:0 "Home to the most enthusiasts in the scientific world, districts are filled with research labs and experimenter alike."
+
+
+ col_zofeproject_utopian_living_metal:0 "Living Metal Central"
+ col_zofeproject_utopian_living_metal_desc:0 "A Utopian World filled with the masterminds of the Living Metal architecture, the world is always shaped constantly to show their mastery."
+ col_zofeproject_utopian_darkmatter:0 "Dark Matter Centrum"
+ col_zofeproject_utopian_darkmatter_desc:0 "A network of laboratories for Dark Matter Technicians and Scientists alike, caution is advised."
+ 
+ 
