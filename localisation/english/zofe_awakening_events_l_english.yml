@@ -1,0 +1,69 @@
+﻿l_english:
+ 
+
+ zofe_awakening.100.name:0 "Communication from §H[fallen_empire_warner.GetName]§!"
+ zofe_awakening.100.desc:0 "Souless machines!\n\nYou dare toy with technologies not of your own, and that which is far too sacred to be tampered by the filthy, [Root.GetSpeciesAdj] hands...or whatever you call those. Abandon your pursuits now: the §H[fallen_empire_warner.GetName]§! and the §H[fallen_empire_warner.GetSpeciesAdj]§! people will not accept another Machine Ascendancy meddling in galactic affairs."
+ zofe_awakening.100.a:0 "The §H[Root.GetName]§! must comply with your demands..."
+ zofe_awakening.100.b:0 "The §H[fallen_empire_warner.GetName]§! will not stop our ascension!"
+ fallen_empire_warning_happy_tooltip:0 "§H[fallen_empire_warner.GetName]§! will be pleased, and may show us favor in the future."
+ fallen_empire_warning_unhappy_tooltip:0 "§H[fallen_empire_warner.GetName]§! will be displeased."
+ 
+ zofe_awakening.102.name:0 "Communication from §H[fallen_empire_warner.GetName]§!"
+ zofe_awakening.102.desc.a:0 "You dare disobey the spirits?\n\nPerhaps it is time to teach you foul machines a lesson. Yes...a swift victory over you soulless husks would please the §H[fallen_empire_warner.GetSpeciesAdj]§! populace, and demonstrate to the galaxy once and for all that crude metal constructs can never triumph over the faithful."
+ zofe_awakening.102.desc.b:0 "The spirits have spoken and the §H[fallen_empire_warner.GetSpeciesAdj]§! people shall obey, for it is now war between our people and the unholy machines of the §H[Root.GetName]§!! We doubt the [Root.GetSpeciesNamePlural] can feel fear, for they are but abominable facsimiles of life. The end of the §H[Root.GetName]§! is nigh!"
+ zofe_awakening.102.a:0 "§H[Root.GetRulerTitle] [Root.GetRulerName]§! calculates a 89.357% chance of §H[Root.GetAdj]§! victory."
+ zofe_awakening.102.b:0 "§H[Root.GetRulerTitle] [Root.GetRulerName]§! calculates a 76.185% chance of §H[Root.GetAdj]§! victory."
+ 
+ zofe_awakening.105.name:0 "Communication from §H[fallen_empire_supporter.GetName]§!"
+ zofe_awakening.105.desc:0 "Attention §H[Root.GetSpeciesNamePlural]§!. We have learned of your current predicament and the spirits were ever so indignant that such actions against the faithful can be taken by another precursor empire.\n\nWhile we cannot intervene in this conflict directly due to prior agreements, many [fallen_empire_supporter.GetSpeciesNamePlural] are ready and willing to defend your worlds, if [Root.GetRulerTitle] [Root.GetRulerName] allows it. We assure you our volunteers are well trained and eager for battle."
+ zofe_awakening.105.a:0 "We welcome your volunteers to join our defence."
+ zofe_awakening.105.b:0 "We do not need help."
+ 
+ NAME_FE_ZEALOTS:0 "Volunteering Zealots"
+ 
+ zofe_awakening.200.name:0 "Communication from §H[fallen_empire_warner.GetName]§!"
+ zofe_awakening.200.desc:0 "Halt, [Root.GetSpeciesNamePlural].\n\nYour recent research and pitiful progress with Dark Matter Technologies have not gone unnoticed in the §H[fallen_empire_warner.GetAdj]§! society, as we have found evidence of misuse that warrant our utmost concern. The scientific progress of the §H[Root.GetName]§! had been unregulated for some time, and your reckless pursuit of dangerous technologies threaten not only our national security, but also galactic peace.\n\nThis must end now. Our overseers are on their way to take charge of your research institutes, to ensure future technological progress are obtained safely and ethically."
+ zofe_awakening.200.a:0 "The §H[Root.GetName]§! will comply with your regulations..."
+ zofe_awakening.200.b:0 "We'll become an Ascendancy with or without [fallen_empire_warner.GetSpeciesAdj] approval."
+ 
+ zofe_awakening.202.name:0 "Communication from §H[fallen_empire_warner.GetName]§!"
+ zofe_awakening.202.desc.a:0 "§H[fallen_empire_warner.GetRulerTitle] [fallen_empire_warner.GetRulerName]§! is most displeased to learn that our demands for the [Root.GetName]'s compliance with scientific regulations have been ignored.\n\nIt seemed the §H[Root.GetSpeciesNamePlural]§! will not give up the pursuit of dangerous technologies until they see it right in front of them. We would be all too happy to arrange a demonstration, and put [Root.GetAdj] ambitions to rest."
+ zofe_awakening.202.desc.b:0 "Enough!\n\nYour reckless pursuit of science and your ambition to achieve technological parity with the §H[fallen_empire_warner.GetName]§! must be stopped. Since you will not accept our offers of regulation in peace, our overseers must now enter with our fleets. Young civilizations such as yours never learn."
+ zofe_awakening.202.a:0 "We have no choice but to defend our scientific progress."
+ zofe_awakening.202.b:0 "The §H[Root.GetName]§! shall not submit to your regulations!"
+ 
+ zofe_awakening.205.name:0 "Communication from §H[fallen_empire_supporter.GetName]§!"
+ zofe_awakening.205.desc:0 "Hmph, it seems those zealots are at it again.\n\nListen, [Root.GetSpeciesNamePlural], we found ourselves sorely in need of entertainment and, we happen to have some surplus vessels here that you may find most useful against our precursor friend that had taken an issue with you. Naturally, anti-tinkering devices have been installed and many of its advanced components had been replaced with cruder, less sophisticated technology, so you are not overly confused by their operations.\n\nShould you succeed and defeat the zealots, it would prove most amusing indeed."
+ zofe_awakening.205.a:0 "We accept your generous donation of hardware."
+ zofe_awakening.205.b:0 "We do not need help."
+ 
+ NAME_FE_ZEALOTS:0 "Surplus Fallen Empire Ships"
+ 
+ zofe_awakening.300.name:0 "Communication from §H[fallen_empire_warner.GetName]§!"
+ zofe_awakening.300.desc:0 "For a long time, the §H[fallen_empire_warner.GetName]§! has watched with great concern as to the [Root.GetName]'s effects on the biological and social diversity of the galaxy. While we are dedicated to the conservation of all forms of life, we have studied your species and determined that your evil deeds must be stopped, here and now, before you become a threat to all life in the galaxy. If you are amenable to reason, you will see that it is the right thing to do."
+ zofe_awakening.300.a:0 "The §H[Root.GetName]§! will sign your treaty..."
+ zofe_awakening.300.b:0 "The §H[Root.GetName]§! will not be bullied!"
+ 
+ zofe_awakening.302.name:0 "Communication from §H[fallen_empire_warner.GetName]§!"
+ zofe_awakening.302.desc.a:0 "§H[fallen_empire_warner.GetRulerTitle] [fallen_empire_warner.GetRulerName]§! is most displeased to learn that our demands for the [Root.GetName]'s cessation of atrocities have fallen on deaf ears.\n\nIt seemed the §H[Root.GetSpeciesNamePlural]§! will not give up their evil practices until they are forced to do so. We would be all too happy to teach you a lesson, and put the [Root.GetAdj] ascendancy to rest."
+ zofe_awakening.302.desc.b:0 "Enough!\n\nYour atrocities must be stopped. Since you will not accept our offers of peace, you have forced our hand to intervene directly. Prepare for war!"
+ zofe_awakening.302.a:0 "The time of the §H[fallen_empire_warner.GetName]§! is over."
+ zofe_awakening.302.b:0 "We will enjoy wiping the §H[fallen_empire_warner.GetName]§! from the face of the galaxy."
+ 
+ zofe_awakening.305.name:0 "Communication from §H[fallen_empire_supporter.GetName]§!"
+ zofe_awakening.305.desc:0 "Greetings, our friends in the §H[Root.GetName]§!.\n\nWe are greatly troubled by the recent developments, and will absolutely not allow a young civilization with our shared values be torn apart by another precursor empire.\n\nWhile we cannot intervene in this conflict directly due to prior treaties, those aforementioned treaties said nothing of military aid or volunteers involvement. Many [fallen_empire_supporter.GetSpeciesNamePlural] will flock to defend our shared values and a galaxy full of xeno diversity, if [Root.GetRulerTitle] [Root.GetRulerName] allows it. We assure you our volunteers are well trained and eager for battle."
+ zofe_awakening.305.a:0 "Then we shall welcome [fallen_empire_supporter.GetSpeciesAdj] volunteers to join us, as friends."
+ zofe_awakening.305.b:0 "Thanks, but no help is necessary."
+ 
+ NAME_FE_VOLUNTEERS:0 "Precursor Volunteers"
+ 
+ zofe_awakening.400.name:0 "Communication from §H[fallen_empire_warner.GetName]§!"
+ zofe_awakening.400.desc:0 "§H[fallen_empire_warner.GetRulerTitle] [fallen_empire_warner.GetRulerName]§! is acutely aware of the recent naval build up of the §H[Root.GetName]§!, undermining our national interests in the galaxy.\n\nThe §H[fallen_empire_warner.GetName]§! will not allow this build up to grow unchecked. We demand the complete and unconditional surrender of the [Root.GetAdj] naval forces, then transfer all military vessels to our control, for safekeeping. Failure to comply will not bode well for you."
+ zofe_awakening.400.a:0 "We have no choice but to relinquish our fleets..."
+ zofe_awakening.400.b:0 "We will not be deprived of the means to defend ourselves!"
+ 
+ zofe_awakening.402.name:0 "Communication from §H[fallen_empire_warner.GetName]§!"
+ zofe_awakening.402.desc.a:0 "Savages of the §H[Root.GetName]§!, you had been warned! If you will not surrender your naval vessels to our custody, then we shall come and destroy them ourselves!"
+ zofe_awakening.402.desc.b:0 "Filthy [Root.GetSpeciesNamePlural]. You have crossed us for the last time. Submit to your overlords, and we might refrain from annihilating your worthless empire!"
+ zofe_awakening.402.a:0 "The §H[Root.GetName]§! shall meet you in battle!"
+ zofe_awakening.402.b:0 "The §H[Root.GetName]§! will not submit to your tyranny!"

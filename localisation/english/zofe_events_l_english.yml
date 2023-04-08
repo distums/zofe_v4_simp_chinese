@@ -1,0 +1,165 @@
+﻿l_english:
+
+ 
+ zofe.1.name:0 "Dark Matter - Possibilities"
+ zofe.1.desc:0 "Although we have the technologies necessary to harness §Y$sr_dark_matter$§! from space, we have yet to find any real uses for them as our knowledge of §Y$sr_dark_matter$§! remains limited.\n\nHowever, some of their special properties match our observations of precursor ships, which demonstrated propulsion behaviours that seem to defy the laws of physics - or at least, our current understanding of physics.\n\nDo the Fallen Empires know something about the application of §Y$sr_dark_matter$§! that we don't?"
+ zofe.1.a:0 "Curious."
+ 
+ zofe.11.name:0 "Precursors' Power Source"
+ zofe.11.desc:0 "For years, our [GetScientistPlural] struggled to determine the nature of the power source behind those fancy, precursor ships. What exactly distorts gravity so predictably, that it could power ships, and could it really be §Y$tech_dark_matter_power_core$§!?\n\nAn ambitious mission was proposed: we will send a science vessel to the border of §H[event_target:dark_matter_power_provider.GetName]§! to observe their ships in secret. Any new findings could accelerate our own technological progress, putting us far ahead of our rivals. Throughout the mission, our research team will appear innocent, taking an interest in §H[event_target:dark_matter_power_source.GetName]§! while all instruments aboard would be directed towards the §H[event_target:dark_matter_power_provider.GetName]§! space, collecting signals as well as any live reading we could find, taking extra care to avoid detection by the §H[event_target:dark_matter_provider_species.GetAdj]§! patrols. If discovered however, the consequences could be dire.\n\nAn alternative, far less risky option would be to assemble a team and try to compile all available data from historical records and second-hand sources in the safety of our capital, §H[Root.Capital.GetName]§!, but without live instrument readings the progress would be significantly slower."
+ zofe.11.desc.ringworld_empire:0 "For years, our [GetScientistPlural] struggled to determine the nature of the power source behind those fancy, ancestral ships we have brought back to life. What exactly distorts gravity so predictably, that it could power ships like that?\n\nWe believe it is now time to investigate. Any new findings could accelerate our own technological progress, putting us far ahead of our rivals. We will assemble a team and try to compile all available data from the Ancestor's Ancient Archives on our capital, §H[Root.Capital.GetName]§!, and we shall see what answers it could provide, perhaps solving some of the biggest mysteries in modern day science."
+ zofe.11.desc.original_people:0 "For years, our [GetScientistPlural] struggled to determine the nature of the power source behind those fancy, ancestral ships we have brought back to life. What exactly distorts gravity so predictably, that it could power ships like that?\n\nWe believe it is now time to investigate. Any new findings could accelerate our own technological progress, putting us far ahead of our rivals. We will assemble a team and try to study these ships, and we shall see what answers they could provide, perhaps solving some of the biggest mysteries in modern day science."
+ zofe.11.a:0 "Let's go to the §H[event_target:dark_matter_power_source.GetName]§! system!"
+ zofe.11.b:0 "Conduct the studies on §H[Root.Capital.GetName]§! instead."
+ zofe.11.c:0 "Perhaps the Ancestor's Archives can tell us something we don't know."
+ zofe.11.d:0 "Let's study those ships."
+ 
+ DARK_MATTER_POWER_STUDY:0 "Precursor Expedition"
+ DARK_MATTER_POWER_STUDY_DESC:0 "For years our [GetScientistPlural] pondered the nature of this power source. Some theorized it could be Dark Matter, while others not so sure. In any case, this mission will get to the bottom of this mystery."
+ DARK_MATTER_POWER_STUDY_HOME:0 "Precursor Studies"
+ DARK_MATTER_POWER_STUDY_HOME_DESC:0 "For years our [GetScientistPlural] pondered the nature of this power source. Some theorized it could be Dark Matter, while others not so sure. In any case, this mission will get to the bottom of this mystery."
+ DARK_MATTER_POWER_STUDY_RE:0 "Precursor Studies"
+ DARK_MATTER_POWER_STUDY_RE_DESC:0 "For years our [GetScientistPlural] pondered the nature of this power source. Some theorized it could be Dark Matter, while others not so sure. In any case, this mission will get to the bottom of this mystery."
+ DARK_MATTER_POWER_STUDY_OE:0 "Precursor Studies"
+ DARK_MATTER_POWER_STUDY_OE_DESC:0 "For years our [GetScientistPlural] pondered the nature of this power source. Some theorized it could be Dark Matter, while others not so sure. In any case, this mission will get to the bottom of this mystery."
+ 
+ zofe.12.name:0 "Precursor Expedition Concluded"
+ zofe.12.desc.critical_success:0 "After two years of skilful espionage, our research team at [From.GetName] has finally published their findings and observations of the precursors' power source, confirmed to be §Y$tech_dark_matter_power_core$§!.\n\nThis power source is indeed powerful, so powerful that it was found not only in all precursor ships, but across their entire society too, from their automated industries, to sky domes, and many other wonderous technologies we have yet to grasp.\n\nWhat's more, our team had been so successful that they were able to gather extra data as well as minor artifacts throughout their mission, and the precursor empire seemed none the wiser for it."
+ zofe.12.desc.success:0 "After two years of skilful espionage, our research team at [From.GetName] has finally published their findings and observations of the precursors' power source, confirmed to be §Y$tech_dark_matter_power_core$§!.\n\nThis power source is indeed powerful, so powerful that it was found not only in all precursor ships, but across their entire society too, from their automated industries, to sky domes, and many other wonderous technologies we have yet to grasp.\n\nWhat's more, our team had been so successful that they were able to gather extra data throughout their mission, and the precursor empire seemed none the wiser for it."
+ zofe.12.desc.failure:0 "After two years of espionage, our expedition had come to an early end as the radio silence was broken by one of the team members, letting slip of their location. Precursor patrols quickly stormed the system and [From.GetName] was forced into retreat. In any case, our team had gathered enough data to confirm the existence of §Y$tech_dark_matter_power_core$§!, and the precursor patrols seemed uninterested to give chase.\n\nIn any case, our team was lucky they got out of there alive."
+ zofe.12.desc.critical_failure:0 "After two years of espionage, our research team met their end when they were spotted by one of the precursor patrols. They were blasted out of the sky and captured, but not before they sent all their findings back to §H[Owner.Capital.GetName]§!. After some interrogation, the precursor empire has learned of the nature of our presence there and demanded our government be held accountable for attempted theft. Although we have confirmed the existence of §Y$tech_dark_matter_power_core$§!, we may not hear the end of this just yet."
+ zofe.12.a:0 "Best possible outcome."
+ zofe.12.b:0 "Excellent."
+ zofe.12.c:0 "We were lucky."
+ zofe.12.d:0 "Oh no."
+ 
+ zofe.13.name:0 "Precursor Studies Concluded"
+ zofe.13.desc:0 "After a decade of sifting through all available data, second-hand information, and unreliable witness accounts, our research team can confirm at last that which power all precursor ships is indeed §Y$tech_dark_matter_power_core$§!. Moreover, it seemed to have a wide implication and usage, and several pieces of evidence suggest it may even form the foundation of all advanced civilizations. Perhaps one day, given enough time, we will achieve it too."
+ zofe.13.a:0 "This is great news!"
+
+ zofe.15.name:0 "Communication from §H[fallen_empire_warner.GetName]§!"
+ zofe.15.desc.spiritualist:0 "What is the meaning of this? Our technologies are not for you. Let this be a lesson and never come back."
+ zofe.15.desc.materialist:0 "Technological theft is not welcomed, §H[Root.GetSpeciesName]§!! You wish to see our technologies in action? You'll get what you wish for."
+ zofe.15.desc.xenophile:0 "We had thought that perhaps young civilizations were merely curious, and had not yet developed the manners we were accustomed to on the galactic stage.\n\nNevertheless, it is a lesson that needs to be taught, because leering into our homes is not permitted, and the §H[Root.GetName§! must learn their place."
+ zofe.15.desc.xenophobe:0 "Filthy savages. We know about your little operation, and for that, you will be punished."
+ zofe.15.desc.machine:0 "Punishment protocol 157-3 activated. Message follows: §R<<ERROR: DATA BLOCK CORRUPTED>> <<ERROR: DATA BLOCK CORRUPTED>> <<ERROR: DATA BLOCK CORRUPTED>>§!"
+ zofe.15.a:0 "Uh... oops?"
+ 
+ zofe.100.name:0 "The Quest for Dark Matter Power"
+ zofe.100.desc:0 "After years of study, we now know for certain that §Y$sr_dark_matter$§! can indeed be used as a source of power. Unfortunately, despite its potential, how this is achieved still puzzled the §H[Root.GetSpeciesAdj]§! scientific community at large. It is clear now, that in order to be elevated to the highest level of civilization, §Y$tech_dark_matter_power_core$§! plays a crucial role and must be achieved.\n\nOur science team offered two proposals as to how this could be done. First, we could conduct our own experiments, investing in new facilities with the goal of developing §Y$tech_dark_matter_power_core$§! indigenously. The second would involve breaking down the various artifacts we have gathered and analyse their secrets, searching for clues §Y$tech_dark_matter_power_core$§!.\n\nThere is of course, a third option. The more hawkish of our admirals advocate for a full frontal assault against a Precursor Empire and obtain their ship debris from battle. The final decision then, remains entirely up to §H[Root.GetRulerTitle] [Root.GetRulerName]§!."
+ zofe.100.desc.hive:0 "After years of study, the Mind now knows for certain that §Y$sr_dark_matter$§! can indeed be used as a source of power. Unfortunately, despite its potential, how this is achieved still puzzled the Mind greatly. It is clear now, that in order to be elevated to the highest level of civilization, §Y$tech_dark_matter_power_core$§! plays a crucial role and must be achieved.\n\nOur brain drones offered two proposals as to how this could be done. First, we could conduct our own experiments, investing in new facilities with the goal of developing §Y$tech_dark_matter_power_core$§! indigenously. The second would involve breaking down the various artifacts we have gathered and analyse their secrets, searching for clues §Y$tech_dark_matter_power_core$§!.\n\nThere is of course, a third option. It is always possible to acquire this technology through conflict. The final decision then, remains entirely up to §H[Root.GetRulerTitle] [Root.GetRulerName]§!."
+ zofe.100.desc.machine:0 "After years of study, our Machine Intelligence now knows for certain that §Y$sr_dark_matter$§! can indeed be used as a source of power. Unfortunately, despite its potential, how this is achieved still puzzled our Machine Intelligence greatly. It is clear now, that in order to be elevated to the highest level of civilization, §Y$tech_dark_matter_power_core$§! plays a crucial role and must be achieved.\n\nOur calculator drones offered two proposals as to how this could be done. First, we could conduct our own experiments, investing in new facilities with the goal of developing §Y$tech_dark_matter_power_core$§! indigenously. The second would involve breaking down the various artifacts we have gathered and analyse their secrets, searching for clues §Y$tech_dark_matter_power_core$§!.\n\nThere is of course, a third option. It is always possible to acquire this technology through conflict. The final decision then, remains entirely up to §H[Root.GetRulerTitle] [Root.GetRulerName]§!."
+ zofe.100.desc.ringworld_empire:0 "After years of research, our [GetScientistPlural] have finally concluded that the power source which flies our Ancestors' ships is in fact, a form of dark matter that distorts gravity so predictably that it can be refined into fuel. In fact, some [GetScientistPlural] even believe a whole civilization can be founded upon this single power source - the implications of this is just unfathomable.\n\nRight now, we can only theorize other potential applications of this technology. If we research this power source, surely it would bring us one step closer to the level of our Ancestors several millennia ago."
+ zofe.100.desc.original_people:0 "After years of research, our [GetScientistPlural] have finally concluded that the power source which flies our Ancestors' ships is in fact, a form of dark matter that distorts gravity so predictably that it can be refined into fuel. In fact, some [GetScientistPlural] even believe a whole civilization can be founded upon this single power source - the implications of this is just unfathomable.\n\nRight now, we can only theorize other potential applications of this technology. If we research this power source, surely it would bring us one step closer to the level of our Ancestors several millennia ago."
+ zofe.100.a:0 "We should try to develop §Y$tech_dark_matter_power_core$§! ourselves."
+ zofe.100.b:0 "We should look through our artifacts for answers."
+ zofe.100.c:0 "We'll take §Y$tech_dark_matter_power_core$§! from the precursors' cold, dead hands."
+ zofe.100.d:0 "Let us retrace the steps of our Ancestors!"
+ zofe.100.e:0 "Let us retrace the steps of our Ancestors!"
+
+ zofe.101.name:0 "Properties Research Completed"
+ zofe.101.desc:0 "In its harvested form, §Y$sr_dark_matter$§! is a substance that emit no light, disturbs magnetic fields, and exert gravitational pull on surrounding objects which, as our [GetScientistPlural] noted, is completely useless in energy generation. But as the study went on, through a combination of trial and error, one [GetScientist] discover that §Y$sr_dark_matter$§! can in fact, be activated with the use of agent particles, making them far easier to work with.\n\nHowever, the activated §Y$sr_dark_matter$§! is short-lived in our environment, and our scientists would like more funding to continue their research."
+ zofe.101.a:0 "If it is funding they want, then funding they shall receive."
+ zofe.101.b:0 "They're not getting that funding!"
+ 
+ zofe.102.name:0 "Reactor Design Completed"
+ zofe.102.desc:0 "After overcoming several engineering dilemma, our [GetScientistPlural] have managed to create a stable reactor in which activated §Y$sr_dark_matter$§! can be stored. There remain issues however: what use is activated §Y$sr_dark_matter$§!? One [GetScientist] propose that we could attempt to split activated §Y$sr_dark_matter$§! by firing particles at it to create fission, which we know can produce energy.\n\nDue to the extreme dangers of this next phase of the research, our [GetScientistPlural] have requested yet more funding and insurance policies for their families."
+ zofe.102.a:0 "Everyone has a price. Just get it done."
+ zofe.102.b:0 "No, [GetScientistPlural] are replaceable."
+ 
+ zofe.103.name:0 "Dark Matter Fission Completed"
+ zofe.103.desc:0 "As the moment of an activated §Y$sr_dark_matter$§! particle split, it released a blast so powerful that most of the instruments measuring energy output had malfunctioned. With further tests, our [GetScientistPlural] believe they are on the verge of a breakthrough, and the secrets to unlocking §Y$tech_dark_matter_power_core$§! are finally within our grasp.\n\nNaturally, there is the issue of funding, which our [GetScientistPlural] believe are conservative estimates of the extra contractors and operational costs of the next phase - building a prototype."
+ zofe.103.a:0 "We will pay."
+ zofe.103.b:0 "They're just going to have to do this out of their own pockets."
+ 
+ zofe.104.name:0 "Prototype Completed"
+ zofe.104.desc:0 "Our [GetScientistPlural] are happy to report that after many years of research, a functional prototype of a §Y$tech_dark_matter_power_core$§! has been created. This truly astonishing achievement by the §H[Root.GetSpeciesAdj]§! scientific community will go down in history as one of the greatest breakthroughs of our civilization.\n\nWhat can our [GetScientistPlural] achieve next?"
+ zofe.104.a:0 "Astonishing work!"
+ 
+ zofe.105.name:0 "Dark Matter Power Research Success"
+ zofe.105.desc:0 "Our[GetScientistPlural]' attempts to break down £minor_artifacts£Minor Artifacts to learn the secrets of §HDark Matter Power§! have been successful!\n\nFor months they began putting clues together, debated and overturned many theories along the way. Blueprints for the production of this power source can now be developed to transform our empire."
+ 
+ artifact_dark_matter_power_research:0 "Research §Y$tech_dark_matter_power_core$§!"
+ artifact_dark_matter_power_research_desc:0 "We will reverse-engineer dozens of minor artifacts, hoping to uncover the secrets to this elusive power source used by the Fallen Empires."
+ artifact_dark_matter_power_research_effect:0 "Break down £minor_artifacts£Minor Artifacts to unlock §Y$tech_dark_matter_power_core$§!."
+ 
+ dark_matter_power_arfifacts_tooltip:0 "Unlocks a new minor artifact action: $artifact_dark_matter_power_research$\n\nInitial estimates suggest §H50§! £minor_artifacts£Minor Artifacts may be needed for us to achieve §Y$tech_dark_matter_power_core$§!."
+ 
+ 
+ zofe.2.name:0 "Dark Matter Power Breakthrough"
+ zofe.2.desc:0 "Our intelligence report that there has been a recent scientific breakthrough in §H[From.GetName]§!. Reports suggest that they have begun research into the elusive Dark Matter Power and may soon find practical applications for this power source. The race is on."
+ zofe.2.a:0 "Interesting."
+ 
+ zofe.200.name:0 "§H[From.GetName]§! has acquired Dark Matter Power!"
+ zofe.200.desc.unknown:0 "Our intelligence report that §H[From.GetName]§! seemed to have mastered §HDark Matter Power§! through unknown means. What they do with this new found knowledge remains to be seen."
+ zofe.200.desc.salvaged:0 "Our intelligence report that §H[From.GetName]§! seemed to have mastered §HDark Matter Power§! after salvaging this technology from the battle debris of precursor ships. What they do with this new found knowledge remains to be seen."
+ zofe.200.desc.artifact:0 "Our intelligence report that §H[From.GetName]§! seemed to have mastered §HDark Matter Power§! after years of of hard work, searching for clues within the vast collection of minor artifacts they have gathered. What they do with this new found knowledge remains to be seen."
+ zofe.200.desc.research:0 "Our intelligence report that §H[From.GetName]§! seemed to have mastered §HDark Matter Power§! after what §H[From.GetSpeciesAdj]§! [GetScientistPlural] claimed was the scientific breakthrough of the century. What they do with this new found knowledge remains to be seen."
+
+ zofe.3.name:0 "Societal Decadence"
+ zofe.3.desc:0 "Today's generation of §H[Root.GetSpeciesNamePlural]§! has never had it so good. The standard of living has never been higher, and many young §H[Root.GetSpeciesNamePlural]§! now grow up in laps of luxury, never experiencing hardship or real struggle. They are conceited, foolish, and sometimes possess questionable work ethics, favoring of pleasure over work. They take for granted the nation that was built on the bodies of their ancestors, and feel complacent about their way of life, that nothing matters and nothing bad would ever happen. Some young §H[Root.GetSpeciesNamePlural]§! would go so far as to believe that the §H[Root.GetName]§! is invincible because the §H[Root.GetSpeciesAdj]§! race is inherently superior. That was the finding of §H[Root.GetRulerTitle] [Root.GetRulerName]§! anyway, during a routine stroll through the streets of [Root.Capital.GetName].\n\nAnd that is worrying. The §H[Root.GetName]§! and the future of the §H[Root.GetSpeciesAdj]§! race cannot be assured when our young live in such decadence with no ambition or drive. To ensure our continued survival, actions must be taken to halt the spread of decadence and complacency, if our civilization is truly to last millennia."
+ zofe.3.a:0 "We must re-double our efforts."
+ 
+ zofe.30.name:0 "Strange Behaviors"
+ zofe.30.desc:0 "Today's generation of §H[Root.GetSpeciesNamePlural]§! has never had it so good. The standard of living has never been higher, and many young §H[Root.GetSpeciesNamePlural]§! now grow up in the best spawning pools, never experiencing hardship or real struggle. Perhaps due to the utopian environment, sometimes strange behaviors of these young spawnlings are exhibited. They would become confused after being exposed to certain substances, and would lose interest in carrying out their daily work for the Mind. §H[Root.GetRulerTitle] [Root.GetRulerName]§! is concerned that this could become a widespread issue in several decades, and actions must be taken if the Mind is truly to last millennia."
+ zofe.30.a:0 "What can we do?"
+ 
+ zofe.300.name:0 "Inefficiencies Detected"
+ zofe.300.desc:0 "§H[Root.GetRulerTitle] [Root.GetRulerName]§! has noticed a marked increase in inefficiencies across the board. It began with several subsystems at first, with most subsystems responding with assigning an increased number of Custodians Drones just to retain their normal functions. The inefficiencies are projected to increase and actions should be taken if the §H[Root.GetName]§! are truly to last millennia."
+ zofe.300.a:0 "What can we do?"
+
+ enable_decadence_ascendancy_action: "Enables §H[Root.GetRulerTitle] [Root.GetRulerName]§! to perform the §YRejuvenate Society§! action in the Ascendancy Affairs Office.\n\n"
+ enable_decadence_ascendancy_action_hive: "Enables §H[Root.GetRulerTitle] [Root.GetRulerName]§! to perform the §YInnervate Drones§! action in the Ascendancy Affairs Office.\n\n"
+ enable_decadence_ascendancy_action_machine: "Enables §H[Root.GetRulerTitle] [Root.GetRulerName]§! to perform the §YSystems Check§! action in the Ascendancy Affairs Office.\n\n"
+ 
+ zofe.3001.name:0 "Hedonists Rehab on §H[Root.GetName]§!"
+ zofe.3001.desc:0 "Our Hedonism rehabilitation program on §H[Root.GetName]§! has concluded with complete success.\n\nDespite the sometimes questionable treatment methods, the patients eventually walked out of the facility with a deep desire to do work and contribute to our great society. When interveiwed by the media, the patients simply remarked that they do not miss the hedonistic lifestyle whatsoever."
+ zofe.3001.a:0 "Excellent."
+ 
+ zofe.3002.name:0 "Hedonists Rehab on §H[Root.GetName]§!"
+ zofe.3002.desc:0 "Our Hedonism rehabilitation program on §H[Root.GetName]§! has concluded with some success.\n\nWhile the patients walked out of the facility with a deep desire to do work and contribute to our great society, they were nevertheless traumatised and have seemingly developed an unusual phobia towards any form of entertainment. When interveiwed by the media, the patients ran away scared. The patients' familities are suspicious of rehabilitation program, and demand the authorities return the loved ones they knew."
+ zofe.3002.a:0 "Our struggle with hedonism isn't over."
+ 
+ zofe.3003.name:0 "Hedonists Rehab on §H[Root.GetName]§!"
+ zofe.3003.desc:0 "Our Hedonism rehabilitation program on §H[Root.GetName]§! has ended after it has come to light that the living conditions at the rehab facility were sub-optimal and the widespread media coverage of this concentration camp sparked public anger over the treatment of their fellow citizens.\n\nAuthorities on §H[Root.GetName]§! are forced to return the Hedonists to the population before disgruntled family members begin filing lawsuits against the state. The program has therefore ended in failure and it is likely the population will remember this for some time."
+ zofe.3003.a:0 "It seems the hedonists are still at large."
+ 
+ zofe.3004.name:0 "Hedonists Rehab on §H[Root.GetName]§!"
+ zofe.3004.desc:0 "Our Hedonism rehabilitation program on §H[Root.GetName]§! has ended in disaster after all the hedonists were found dead in the therapy chamber.\n\nIt has come to light that some of the patients suffered abuse in the hands of their carers and were unable to leave the facility despite desperate pleas from their families. This incident has received widespread media coverage and sparked a public outcry on §H[Root.GetName]§! over the handling of hedonism by our government. Bereaved family members demand compensation and the complete cessastion of these programs in the future."
+ zofe.3004.a:0 "Fire and demote those responsible for this catastrophe!"
+ 
+ decadence_demotion:1 "A £job_politician£ §Y$job_politician$§! on [Root.GetName] is fired and §Rdemoted§!."
+ decadence_demotion_megacorp:1 "An £job_executive£ §Y$job_executive$§! on [Root.GetName] is fired and §Rdemoted§!."
+ 
+ zofe.3011.name:0 "Drone Innervation on §H[Root.GetName]§!"
+ zofe.3011.desc:0 "Our Drone Innervation program on §H[Root.GetName]§! has concluded with complete success.\n\nOur drones are no longer confused and seemingly eager to contribute to our mind once more. That which overwhelmed and confused them earlier had not made its reappearance since."
+ zofe.3011.a:0 "The Mind is strengthened."
+ 
+ zofe.3012.name:0 "Drone Innervation on §H[Root.GetName]§!"
+ zofe.3012.desc:0 "Our Drone Innervation program on §H[Root.GetName]§! has ended in failure.\n\nUnfortunately, our [GetScientistPlural] were not able to determine the exact cause of the drones' confusion and were unable to administer a cure. This is concerning for the Mind."
+ zofe.3012.a:0 "Let them go for now."
+ 
+ zofe.3013.name:0 "Drone Innervation on §H[Root.GetName]§!"
+ zofe.3013.desc:0 "Our Drone Innervation program on §H[Root.GetName]§! has ended in complete disaster.\n\nAt first, our [GetScientistPlural] thought they had determined the exact cause of the drones' confusion and, after a few promising tests, administered medication to the affected drones. Unfortunately, a mysterious interaction between the medication and the subject caused each drone to scream out in pain, before dying en masse. This is extremely concerning for the Mind."
+ zofe.3013.a:0 "What could possibly cause this?"
+ 
+ zofe.3021.name:0 "Systems Check on §H[Root.GetName]§!"
+ zofe.3021.desc:0 "The Systems Check on §H[Root.GetName]§! has concluded with complete success.\n\nThe malware that had affected our systems had been eradicated, and had not made a reappearance since."
+ zofe.3021.a:0 "Excellent work."
+ 
+ zofe.3022.name:0 "Systems Check on §H[Root.GetName]§!"
+ zofe.3022.desc:0 "The Systems Check on §H[Root.GetName]§! has ended in failure.\n\nOur [GetScientistPlural] were not able to determine the exact cause of the inefficiencies recorded by §H[Owner.GetRulerTitle] [Owner.GetRulerName]§!. This is concerning news."
+ zofe.3022.a:0 "Let them go for now."
+ 
+ zofe.3023.name:0 "Systems Check on §H[Root.GetName]§!"
+ zofe.3023.desc:0 "The Systems Check on §H[Root.GetName]§! has ended in complete disaster.\n\nAt first, our [GetScientistPlural] thought they had determined the exact cause of the system's inefficiencies and, after a few promising tests, administered new code to the Custodian Drones. Unfortunately, unforseen bugs in the program caused a severe malfunction in the drones and they had to be destroyed. This is very concerning news."
+ zofe.3023.a:0 "What could possibly cause this?"
+ 
+ 
+ war_in_heaven.4.e:0 "We can take on the both of you."
+ war_in_heaven.4.f:0 "This is none of our concern right now."
+ 
+ 
+ scientists_strike:0 "[GetScientistPlural]' Strike"
+ scientists_strike_desc:0 "Due to recent decisions to withhold the demanded funding, our [GetScientistPlural] are on strike, leading to a loss in research speed."
+ 

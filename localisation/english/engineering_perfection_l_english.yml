@@ -1,0 +1,394 @@
+﻿l_english:
+
+ col_ae_capital_utopian:0 "Utopian Capital"
+ col_ae_capital_utopian_desc:0 "The Utopian Capital of an Ascended Empire."
+ col_ae_colony_utopian:0 "Utopian World"
+ col_ae_colony_utopian_desc:0 "A Utopian World of an Ascended Empire."
+ col_ae_capital_utopian_machine:0 "Ascended Machine Capital"
+ col_ae_capital_utopian_machine_desc:0 "The Living Metal Machine World Capital of an Ascended Machine Empire."
+ col_ae_colony_utopian_machine:0 "Ascended Machine World"
+ col_ae_colony_utopian_machine_desc:0 "A Living Metal Machine World of an Ascended Machine Empire."
+ col_ae_capital_utopian_hive:0 "Utopian Hive Capital"
+ col_ae_capital_utopian_hive_desc:0 "The Utopian Hive Capital of an Ascended Hive Empire."
+ col_ae_colony_utopian_hive:0 "Utopian Hive World"
+ col_ae_colony_utopian_hive_desc:0 "A Utopian Hive World of an Ascended Hive Empire."
+
+ district_utopian_housing:0 "Utopian Housing District"
+ district_utopian_housing_desc:0 "Utopian Housing Districts provide spacious homes spread along vast plains. Its structures and shared spaces allow food to be grown and freely plucked for consumption."
+ district_utopian_housing_plural:0 "Utopian Housing Districts"
+ district_idyllic_spaces:0 "Idyllic Spaces"
+ district_idyllic_spaces_desc:0 "Idyllic Spaces attract locals and visitors alike to admire the planet's perfect landscape and provide scenic locations for citizens to spend quality time."
+ district_idyllic_spaces_plural:0 "Idyllic Spaces"
+ district_utopian_production:0 "Utopian Production District"
+ district_utopian_production_desc:0 "Utopian Production Districts are masterpieces of engineering, integrating singularity power generators with dimensional harvestors into one district."
+ district_utopian_production_plural:0 "Utopian Production Districts"
+ district_utopian_manufacture:0 "Utopian Manufacturing District"
+ district_utopian_manufacture_desc:0 "The Utopian Manufacturing Districts provide the ideal infrastructures for empires that utilize the latest technologies in automated industries."
+ district_utopian_manufacture_plural:0 "Utopian Manufacturing Districts"
+ district_utopian_science:0 "Utopian Science District"
+ district_utopian_science_desc:0 "The Utopian Science Districts form ideal centers for technological innovation, with an abundance of facilities to conduct research and scientific experiments - even for an average citizen looking to have some fun!"
+ district_utopian_science_plural:0 "Utopian Science Districts"
+ 
+ district_utopian_city:0 "Utopian Residential Arcology"
+ district_utopian_city_desc:0 "The Residential Arcologies of a Utopian City World are built and engineered to perfection. Housing units inside the spiral towers are designed to be self-sufficient, allowing food to be freely plucked from its structures for consumption."
+ district_utopian_city_plural:0 "Utopian Residential Arcologies"
+ district_utopian_leisure:0 "Utopian Leisure Arcology"
+ district_utopian_leisure_desc:0 "The Leisure Arcologies of a Utopian City World keep its visitors enteretained and live out the rest of their lives in total bliss, untroubled by worries from the outside world."
+ district_utopian_leisure_plural:0 "Utopian Leisure Arcologies"
+ district_utopian_financial:0 "Utopian Financial Arcology"
+ district_utopian_financial_desc:0 "The Financial Arcologies of a Utopian City World store massive amounts of the empire's wealth beneath the surface in their security vaults. Much of it is invested and its returns are then used to fund the state and its citizens' lavish lifestyles."
+ district_utopian_financial_plural:0 "Utopian Financial Arcologies"
+ district_utopian_foundry:0 "Utopian Foundry Arcology"
+ district_utopian_foundry_desc:0 "The Foundry Arcologies of a Utopian City World use the latest technologies to automate alloy production with maximum efficiency, while also providing side facilities for highly-specialized productions of strategic resources."
+ district_utopian_foundry_plural:0 "Utopian Foundry Acologies"
+ district_utopian_science_city:0 "Utopian Science Arcology"
+ district_utopian_science_city_desc:0 "The Utopian Science Arcologies serve as technological hubs of the city, with awesome spires filled to the brim with fancy inventions, putting into full view the technological supremacy of the empire."
+ district_utopian_science_city_plural:0 "Utopian Science Arcologies"
+ 
+ district_utopian_city_rw:0 "Utopian City Segment"
+ district_utopian_city_rw_desc:0 "A Utopian City Segment on a Ring World makes maximum use of the unique geography to provide housing that is both compact and spacious. Food is grown in the communal areas and may be freely plucked for consumption."
+ district_utopian_city_rw_plural:0 "Utopian City Segments"
+ district_utopian_leisure_rw:0 "Utopian Leisure Segment"
+ district_utopian_leisure_rw_desc:0 "A Utopian Leisure Segment on a Ring World hosts the greatest collection of entertainment in the galaxy, making this a popular destination for merchants and consumers alike. Once inside, visitors often fail to find the exit."
+ district_utopian_leisure_rw_plural:0 "Utopian Leisure Segments"
+ district_utopian_production_rw:0 "Utopian Production Segment"
+ district_utopian_production_rw_desc:0 "A Utopian Production Segment on a Ring World is a complex, interconnected piece of infrastructure that combines advanced singularities with dimensional harvestors, producing both energy and minerals in massive quantities."
+ district_utopian_production_rw_plural:0 "Utopian Production Segments"
+ district_utopian_foundry_rw:0 "Utopian Foundry Segment"
+ district_utopian_foundry_rw_desc:0 "A Utopian Foundry Segment on a Ring World is a masterpiece of engineering that produces a large amount of alloys by utilizing the latest automated technologies."
+ district_utopian_foundry_rw_plural:0 "Utopian Foundry Segments"
+ district_utopian_science_rw:0 "Utopian Science Segment"
+ district_utopian_science_rw_desc:0 "A Utopian Science Segment on a Ring World hosts the highest concentration of researchers and science enthusiasts in the galaxy, where many top facilities are open at all times for observation and learning."
+ district_utopian_science_rw_plural:0 "Utopian Science Segments"
+ 
+ district_utopian_machine_nexus:0 "Living Metal Nexus District"
+ district_utopian_machine_nexus_desc:0 "Centralized districts from which drones are controlled and deployed to their work assignments."
+ district_utopian_machine_nexus_plural:0 "Living Metal Nexus Districts"
+ district_utopian_machine_production:0 "Automated Production District"
+ district_utopian_machine_production_desc:0 "Automated Production Districts are masterpieces of engineering, integrating singularity power generators with dimensional harvestors into one district."
+ district_utopian_machine_production_plural:0 "Automated Production Districts"
+ district_utopian_machine_foundry:0 "Automated Foundry District"
+ district_utopian_machine_foundry_desc:0 "The Automated Foundry District uses the latest technologies to automate alloy production with maximum efficiency, while also providing side facilities for highly-specialized productions of strategic resources."
+ district_utopian_machine_foundry_plural:0 "Automated Foundry Districts"
+ district_utopian_machine_science:0 "Science Districts"
+ district_utopian_machine_science_desc:0 "The Science Districts come with an abundance of facilities to conduct research and scientific experiments for calculator drones."
+ district_utopian_machine_science_plural:0 "Science Districts"
+ 
+ district_rw_utopian_machine_nexus:0 "Living Metal Nexus Segment"
+ district_rw_utopian_machine_nexus_desc:0 "A Living Metal Nexus Segment is a centralized segment from which drones are controlled and deployed to their work assignments."
+ district_rw_utopian_machine_nexus_plural:0 "Living Metal Nexus Segments"
+ district_utopian_machine_production_rw:0 "Automated Production Segment"
+ district_utopian_machine_production_rw_desc:0 "An Automated Production Segment on a Ring World is a complex, interconnected piece of infrastructure that combines advanced singularities with dimensional harvestors, producing both energy and minerals in massive quantities."
+ district_utopian_machine_production_rw_plural:0 "Autoamted Production Segments"
+ district_utopian_machine_foundry_rw:0 "Automated Foundry Segment"
+ district_utopian_machine_foundry_rw_desc:0 "An Automated Foundry Segment on a Ring World is a masterpiece of engineering that produces a large amount of alloys by utilizing the latest automated technologies."
+ district_utopian_machine_foundry_rw_plural:0 "Automated Foundry Segments"
+ district_utopian_machine_science_rw:0 "Science Segment"
+ district_utopian_machine_science_rw_desc:0 "A Science Segment on a Ring World hosts the highest concentration of calculator drones in the galaxy, where many top facilities are open at all times to make complex simulations and calculations."
+ district_utopian_machine_science_rw_plural:0 "Science Segments"
+ 
+ district_utopian_hive:0 "Utopian Hive District"
+ district_utopian_hive_desc:0 "These towering spires are where the drones gather when not working to rejuvenate and consume nutrients."
+ district_utopian_hive_plural:0 "Utopian Hive Districts"
+ district_utopian_hive_production:0 "Automated Production District"
+ district_utopian_hive_production_desc:0 "Automated Production Districts are masterpieces of engineering, integrating singularity power generators with dimensional harvestors into one district."
+ district_utopian_hive_production_plural:0 "Automated Production Districts"
+ district_utopian_hive_foundry:0 "Automated Foundry District"
+ district_utopian_hive_foundry_desc:0 "The Automated Foundry District uses the latest technologies to automate alloy production with maximum efficiency, while also providing side facilities for highly-specialized productions of strategic resources."
+ district_utopian_hive_foundry_plural:0 "Automated Foundry Districts"
+ district_utopian_hive_science:0 "Science Districts"
+ district_utopian_hive_science_desc:0 "The Science Districts come with an abundance of facilities to conduct research and scientific experiments for brain drones."
+ district_utopian_hive_science_plural:0 "Science Districts"
+ 
+ district_rw_utopian_hive:0 "Utopian Hive Segment"
+ district_rw_utopian_hive_desc:0 "A Utopian Hive Segment is where the drones gather when not working to rejuvenate and consume nutrients, which are grown on its structures."
+ district_rw_utopian_hive_plural:0 "Utopian Hive Segments"
+ district_utopian_hive_production_rw:0 "Automated Production Segment"
+ district_utopian_hive_production_rw_desc:0 "An Automated Production Segment on a Ring World is a complex, interconnected piece of infrastructure that combines advanced singularities with dimensional harvestors, producing both energy and minerals in massive quantities."
+ district_utopian_hive_production_rw_plural:0 "Autoamted Production Segments"
+ district_utopian_hive_foundry_rw:0 "Automated Foundry Segment"
+ district_utopian_hive_foundry_rw_desc:0 "An Automated Foundry Segment on a Ring World is a masterpiece of engineering that produces a large amount of alloys by utilizing the latest automated technologies."
+ district_utopian_hive_foundry_rw_plural:0 "Automated Foundry Segments"
+ district_utopian_hive_science_rw:0 "Science Segment"
+ district_utopian_hive_science_rw_desc:0 "A Science Segment on a Ring World hosts the highest concentration of brain drones in the galaxy, where many top facilities are open at all times to make complex simulations and calculations."
+ district_utopian_hive_science_rw_plural:0 "Science Segments"
+
+ 
+ mod_pc_utopian_city_habitability:0 "Utopian City Habitability"
+ mod_pc_utopian_gaia_habitability:0 "Utopian World Habitability"
+ mod_pc_utopian_ringworld_habitability:0 "Utopian Ring World Habitability"
+ mod_pc_utopian_machine_habitability:0 "Living Metal Machine World Habitability"
+ mod_pc_utopian_machine_ringworld_habitability:0 "Living Metal Machine Ring World Habitability"
+ mod_pc_utopian_hive_habitability:0 "Utopian Hive World Habitability"
+ mod_pc_utopian_hive_ringworld_habitability:0 "Utopian Hive Ring World Habitability"
+ 
+ trait_pc_utopian_city_preference:0 "Utopian Ecumenpolis Preference"
+ trait_pc_utopian_city_preference_desc:0 "$trait_pc_arctic_preference_desc$"
+ trait_pc_utopian_gaia_preference:0 "Utopian World Preference"
+ trait_pc_utopian_gaia_preference_desc:0 "$trait_pc_arctic_preference_desc$"
+ trait_pc_utopian_ringworld_preference:0 "Utopian Ring World Preference"
+ trait_pc_utopian_ringworld_preference_desc:0 "$trait_pc_arctic_preference_desc$"
+ trait_pc_utopian_machine_preference:0 "Living Metal Machine World Preference"
+ trait_pc_utopian_machine_preference_desc:0 "$trait_pc_arctic_preference_desc$"
+ trait_pc_utopian_machine_ringworld_preference:0 "Living Metal Machine Ring World Preference"
+ trait_pc_utopian_machine_ringworld_preference_desc:0 "$trait_pc_arctic_preference_desc$"
+ trait_pc_utopian_hive_preference:0 "Utopian Hive World Preference"
+ trait_pc_utopian_hive_preference_desc:0 "$trait_pc_arctic_preference_desc$"
+ trait_pc_utopian_hive_ringworld_preference:0 "Utopian Hive Ring World Preference"
+ trait_pc_utopian_hive_ringworld_preference_desc:0 "$trait_pc_arctic_preference_desc$"
+ 
+ 
+ pc_utopian_city:0 "$pc_city$"
+ pc_utopian_city_desc:0 "$pc_city_desc$"
+ pc_utopian_gaia:0 "$pc_gaia$"
+ pc_utopian_gaia_desc:0 "$pc_gaia_desc$"
+ pc_utopian_ringworld:0 "$pc_ringworld_habitable$"
+ pc_utopian_ringworld_desc:0 "$pc_ringworld_habitable$"
+ pc_utopian_machine:0 "$pc_machine$"
+ pc_utopian_machine_desc:0 "$pc_machine_desc$"
+ pc_utopian_machine_ringworld:0 "$pc_ringworld_habitable$"
+ pc_utopian_machine_ringworld_desc:0 "$pc_ringworld_habitable$"
+ pc_utopian_hive:0 "$pc_hive$"
+ pc_utopian_hive_desc:0 "$pc_hive_desc$"
+ pc_utopian_hive_ringworld:0 "$pc_ringworld_habitable$"
+ pc_utopian_hive_ringworld_desc:0 "$pc_ringworld_habitable$"
+ 
+ decision_paradise_creation_no_districts:0 "£trigger_no£ The planet must have full districts development."
+ 
+ decision_paradise_creation_effects:0 "Turns the $pc_gaia$ into a beautiful §YUtopian World§!, becoming a true wonder of the universe. Unlocks special districts that support automated industries while allowing pops to live out the rest of their lives in self-deterministic ways.\n\n"
+ decision_paradise_creation_2_effects:0 "Turns the $pc_city$ into a beautiful §YUtopian World§!, becoming a true wonder of the universe. Unlocks special districts that support automated industries while allowing pops to live out the rest of their lives in self-deterministic ways.\n\n"
+ decision_paradise_creation_3_effects:0 "Turns the $pc_ringworld_habitable$ into a beautiful §YUtopian Ring World Segment§!, becoming a true wonder of the universe. Unlocks special districts that support automated industries while allowing pops to live out the rest of their lives in self-deterministic ways.\n\n"
+
+ decision_paradise_creation_machine_effects:0 "Turns the $pc_machine$ into a §YLiving Metal World§!, becoming a true wonder of the universe. Unlocks special districts that support automated industries.\n\n"
+ decision_paradise_creation_machine_2_effects:0 ""Turns the $pc_ringworld_habitable$ into a §YLiving Metal Ring World Segment§!, becoming a true wonder of the universe. Unlocks special districts that support automated industries.\n\n"
+
+ decision_paradise_creation_hive_effects:0 "Turns the $pc_hive$ into a §YUtopian Hive World§!, becoming a true wonder of the universe. Unlocks special districts that support automated industries.\n\n"
+ decision_paradise_creation_hive_2_effects:0 ""Turns the $pc_ringworld_habitable$ into a §YUtopian Hive World§!, becoming a true wonder of the universe. Unlocks special districts that support automated industries.\n\n"
+
+ zofe_utopian_world_decisions:0 "Paradise Creation"
+ 
+ decision_paradise_creation:0 "Paradise Creation"
+ decision_paradise_creation_desc:0 "When nature is engineered to perfection, its unparalleled beauty among the known universe would be a fitting a legacy to leave for our young. Utopian Paradise Worlds are created from §Y$pc_gaia$§!, §Y$pc_city$§! or §Y$pc_ringworld_habitable$§!."
+ 
+ decision_paradise_creation_city:0 "$decision_paradise_creation$"
+ decision_paradise_creation_city_desc:0 "$decision_paradise_creation_desc$"
+ 
+ decision_paradise_creation_rw:0 "$decision_paradise_creation$"
+ decision_paradise_creation_rw_desc:0 "$decision_paradise_creation_desc$"
+ 
+ decision_paradise_creation_machine:0 "Living Metal Infusion"
+ decision_paradise_creation_machine_desc:0 "Start a project to infuse the colony with expertly crafted Living Metal to create an animated entity of unprecedented productivity. Living Metal Machine Worlds are created from §Y$pc_machine$§! or §Y$pc_ringworld_habitable$§!."
+ 
+ decision_paradise_creation_machine_rw:0 "$decision_paradise_creation_machine$"
+ decision_paradise_creation_machine_rw_desc:0 "$decision_paradise_creation_machine_desc$"
+ 
+ decision_paradise_creation_hive:0 "Utopian Hive World Creation"
+ decision_paradise_creation_hive_desc:0 "When nature is engineered to perfection, its unparalleled beauty among the known universe would be a fitting a legacy to leave for our young. Utopian Hive Worlds are created from §Y$pc_hive$§! or §Y$pc_ringworld_habitable$§!."
+
+ decision_paradise_creation_hive_rw:0 "$decision_paradise_creation_hive$"
+ decision_paradise_creation_hive_rw_desc:0 "$decision_paradise_creation_hive_desc$"
+ 
+# fe_automated_generator_district_desc:0 "Each district now contains a §Y$tech_fe_class_5_singularity$§!.\n\n"
+# fe_automated_mining_district_desc:0 "A §Y$tech_fe_dimensional_harvester$§! has been installed in each district.\n\n"
+# fe_automated_farming_district_desc:0 "Each district now houses a §Y$tech_fe_gourmet_center$§!.\n\n"
+# fe_automated_industrial_district_desc:0 "These districts now utilize §Y$tech_fe_opulent_plaza$§! and §Y$tech_fe_nano_forge_2$§! technologies to enhance production.\n\n"
+# fe_automated_foundry_district_desc:0 "These districts now utilize the §Y$tech_fe_nano_forge_2$§! technology to automate production.\n\n"
+# fe_automated_factory_district_desc:0 "These districts now utilize the §Y$tech_fe_opulent_plaza$§! technology to automate production.\n\n"
+ 
+# fe_automated_generator_segment_desc:0 "Each segment now utilizes the §Y$tech_fe_class_5_singularity$§! technology.\n\n"
+# fe_automated_farming_segment_desc:0 "The §Y$tech_fe_gourmet_center$§! technology now fills each segment."
+# fe_automated_industrial_segment_desc:0 "Each segment now utilizes §Y$tech_fe_opulent_plaza$§! and §Y$tech_fe_nano_forge_2$§! technologies to enhance production.\n\n"
+ 
+ utopian_production_district_1_desc:0 "Each district now contains a §Y$tech_fe_class_5_singularity$§! and a §Y$tech_fe_dimensional_harvester$§!.\n\n"
+ utopian_production_district_1a_desc:0 "Each district now contains a §Y$tech_fe_class_5_singularity$§! and a §Y$tech_fe_dimensional_harvester$§!.\n\nWe have the §Y$tech_fe_dark_matter_power_plant$§! technology, but require the §Y$tech_fe_autonomous_fabricator$§! to unlock the next level of dsitrict production.\n\n"
+ utopian_production_district_1b_desc:0 "Each district now contains a §Y$tech_fe_class_5_singularity$§! and a §Y$tech_fe_dimensional_harvester$§!.\n\nWe have the §Y$tech_fe_autonomous_fabricator$§! technology, but require the §Y$tech_fe_dark_matter_power_plant$§! to unlock the next level of dsitrict production.\n\n"
+ 
+ utopian_production_district_2_desc:0 "Each district now contains a §Y$tech_fe_dark_matter_power_plant$§! and a §Y$tech_fe_autonomous_fabricator$§!.\n\n"
+ utopian_production_district_2a_desc:0 "Each district now contains a §Y$tech_fe_dark_matter_power_plant$§! and a §Y$tech_fe_autonomous_fabricator$§!.\n\nWe have the §Y$tech_original_empire_sun_generator$§! technology, but require the §Y$tech_original_empire_siphoner$§! to unlock the next level of dsitrict production.\n\n"
+ utopian_production_district_2b_desc:0 "Each district now contains a §Y$tech_fe_dark_matter_power_plant$§! and a §Y$tech_fe_autonomous_fabricator$§!.\n\nWe have the §Y$tech_original_empire_siphoner$§! technology, but require the §Y$tech_original_empire_sun_generator$§! to unlock the next level of dsitrict production.\n\n"
+ 
+ utopian_production_district_3_desc:0 "Each district now contains a §Y$tech_original_empire_sun_generator$§! and a §Y$tech_original_empire_siphoner$§!.\n\n"
+ 
+ utopian_manufacture_district_1_desc:0 "A §Y$tech_fe_opulent_plaza$§! and a §Y$tech_fe_nano_forge_2$§! have been installed in each district.\n\n"
+ utopian_manufacture_district_1a_desc:0 "A §Y$tech_fe_opulent_plaza$§! and a §Y$tech_fe_nano_forge_2$§! have been installed in each district.\n\nWe have the §Y$tech_fe_opulent_tower$§! technology, but require the §Y$tech_fe_pico_forge$§! to unlock the next level of dsitrict production.\n\n"
+ utopian_manufacture_district_1b_desc:0 "A §Y$tech_fe_opulent_plaza$§! and a §Y$tech_fe_nano_forge_2$§! have been installed in each district.\n\nWe have the §Y$tech_fe_pico_forge$§! technology, but require the §Y$tech_fe_opulent_tower$§! to unlock the next level of dsitrict production.\n\n"
+ 
+ utopian_manufacture_district_2_desc:0 "A §Y$tech_fe_opulent_tower$§! and a §Y$tech_fe_pico_forge$§! have been installed in each district.\n\n"
+ utopian_manufacture_district_2a_desc:0 "A §Y$tech_fe_opulent_tower$§! and a §Y$tech_fe_pico_forge$§! have been installed in each district.\n\nWe have the §Y$tech_original_empire_pleasure_palace$§! technology, but require the §Y$tech_original_empire_star_forge$§! to unlock the next level of dsitrict production.\n\n"
+ utopian_manufacture_district_2b_desc:0 "A §Y$tech_fe_opulent_tower$§! and a §Y$tech_fe_pico_forge$§! have been installed in each district.\n\nWe have the §Y$tech_original_empire_star_forge$§! technology, but require the §Y$tech_original_empire_pleasure_palace$§! to unlock the next level of dsitrict production.\n\n"
+ 
+ utopian_manufacture_district_3_desc:0 "A §Y$tech_original_empire_pleasure_palace$§! and a §Y$tech_original_empire_star_forge$§! have been installed in each district.\n\n"
+ 
+ utopian_leisure_district_1_desc:0 "These districts now utilize §Y$tech_fe_opulent_plaza$§! to enhance customer experience.\n\n"
+ utopian_leisure_district_2_desc:0 "These districts now utilize §Y$tech_fe_opulent_tower$§! to enhance customer experience.\n\n"
+ utopian_leisure_district_3_desc:0 "These districts now utilize §Y$tech_original_empire_pleasure_palace$§! to enhance customer experience.\n\n"
+ 
+ utopian_foundry_district_1_desc:0 "These districts now utilize the §Y$tech_fe_nano_forge_2$§! to automate production.\n\n"
+ utopian_foundry_district_2_desc:0 "These districts now utilize the §Y$tech_fe_pico_forge$§! to automate production.\n\n"
+ utopian_foundry_district_3_desc:0 "These districts now utilize the §Y$tech_original_empire_star_forge$§! to automate production.\n\n"
+ 
+ utopian_leisure_rw_district_1_desc:0 "Each segment is filled with §Y$tech_fe_opulent_plaza$§! to maximize customer happiness.\n\n"
+ utopian_leisure_rw_district_2_desc:0 "Each segment is filled with §Y$tech_fe_opulent_tower$§! to maximize customer happiness.\n\n"
+ utopian_leisure_rw_district_3_desc:0 "Each segment is filled with §Y$tech_original_empire_pleasure_palace$§! to maximize customer happiness.\n\n"
+ 
+ utopian_production_rw_district_1_desc:0 "Each segment now utilizes §Y$tech_fe_class_5_singularity$§! and §Y$tech_fe_dimensional_harvester$§! technologies.\n\n"
+ utopian_production_rw_district_1a_desc:0 "Each segment now utilizes §Y$tech_fe_class_5_singularity$§! and §Y$tech_fe_dimensional_harvester$§! technologies.\n\nWe have the §Y$tech_fe_dark_matter_power_plant$§! technology, but require the §Y$tech_fe_autonomous_fabricator$§! to unlock the next level of dsitrict production.\n\n"
+ utopian_production_rw_district_1b_desc:0 "Each segment now utilizes §Y$tech_fe_class_5_singularity$§! and §Y$tech_fe_dimensional_harvester$§! technologies.\n\nWe have the §Y$tech_fe_autonomous_fabricator$§! technology, but require the §Y$tech_fe_dark_matter_power_plant$§! to unlock the next level of dsitrict production.\n\n"
+ 
+ utopian_production_rw_district_2_desc:0 "Each segment now utilizes §Y$tech_fe_dark_matter_power_plant$§! and §Y$tech_fe_autonomous_fabricator$§! technologies.\n\n"
+ utopian_production_rw_district_2a_desc:0 "Each segment now utilizes §Y$tech_fe_dark_matter_power_plant$§! and §Y$tech_fe_autonomous_fabricator$§! technologies.\n\nWe have the §Y$tech_original_empire_sun_generator$§! technology, but require the §Y$tech_original_empire_siphoner$§! to unlock the next level of dsitrict production.\n\n"
+ utopian_production_rw_district_2b_desc:0 "Each segment now utilizes §Y$tech_fe_dark_matter_power_plant$§! and §Y$tech_fe_autonomous_fabricator$§! technologies.\n\nWe have the §Y$tech_original_empire_siphoner$§! technology, but require the §Y$tech_original_empire_sun_generator$§! to unlock the next level of dsitrict production.\n\n"
+ 
+ utopian_production_rw_district_3_desc:0 "Each segment now utilizes §Y$tech_original_empire_sun_generator$§! and §Y$tech_original_empire_siphoner$§! technologies.\n\n"
+ 
+ utopian_foundry_rw_district_1_desc:0 "Each segment now utilizes the §Y$tech_fe_nano_forge_2$§! to enhance production capabilities.\n\n"
+ utopian_foundry_rw_district_2_desc:0 "Each segment now utilizes the §Y$tech_fe_pico_forge$§! to enhance production capabilities.\n\n"
+ utopian_foundry_rw_district_3_desc:0 "Each segment now utilizes the §Y$tech_original_empire_star_forge$§! to enhance production capabilities.\n\n"
+ 
+ living_metal_district_1_desc:0 "Each district now houses a §Y$building_synthetic_living_metal$§!.\n\n"
+ living_metal_district_1a_desc:0 "Each district now houses two §Y$building_synthetic_living_metal$§!.\n\n"
+ living_metal_district_1b_desc:0 "Each district now houses five §Y$building_synthetic_living_metal$§!.\n\n"
+ dark_matter_district_1_desc:0 "A §Y$building_synthetic_dark_matter$§! has been installed in each district.\n\n"
+ dark_matter_district_1a_desc:0 "Two §Y$building_synthetic_dark_matter$§! have been installed in each district.\n\n"
+ dark_matter_district_1b_desc:0 "Five §Y$building_synthetic_dark_matter$§! have been installed in each district.\n\n"
+ dark_matter_district_2_desc:0 "A §Y$building_synthetic_dark_matter_2$§! has been installed in each district.\n\n"
+ dark_matter_district_2a_desc:0 "Two §Y$building_synthetic_dark_matter_2$§! have been installed in each district.\n\n"
+ dark_matter_district_2b_desc:0 "Five §Y$building_synthetic_dark_matter_2$§! have been installed in each district.\n\n"
+ dark_matter_district_3_desc:0 "A §Y$building_synthetic_dark_matter_3$§! has been installed in each district.\n\n"
+ dark_matter_district_3a_desc:0 "Two §Y$building_synthetic_dark_matter_3$§! have been installed in each district.\n\n"
+ dark_matter_district_3b_desc:0 "Five §Y$building_synthetic_dark_matter_3$§! have been installed in each district.\n\n"
+ 
+ 
+ tech_paradise_creation:0 "Utopian Worlds"
+ tech_paradise_creation_desc:0 "Combining our mastery in terraforming, landscaping and engineering, we can create a true wonder in the universe and a Utopian World for our citizens to live." 
+ 
+ tech_paradise_creation_machine:0 "Living Metal Worlds"
+ tech_paradise_creation_machine_desc:0 "Combining our mastery in terraforming, materials and engineering, we can create a true wonder in the universe and a Living Metal World of extreme productivity." 
+ 
+ tech_paradise_creation_hive:0 "Utopian Hive Worlds"
+ tech_paradise_creation_hive_desc:0 "Combining our mastery in terraforming, landscaping and engineering, we can create a true wonder in the universe and a Utopian Hive World for our drones to live." 
+ 
+  
+ edict_paradise_creation:0 "Paradise Creation"
+ edict_paradise_creation_desc:0 "When nature is engineered to perfection, its unparalleled beauty among the known universe would be a fitting a legacy to leave for our young. Utopian Paradise Worlds are created from §Y$pc_gaia$§!,  §Y$pc_city$§! or §Y$pc_ringworld_habitable$§!."
+ 
+ pm_Living_Metal_Architecture:0 "Living Metal Architecture"
+ pm_Living_Metal_Architecture_desc:0 "The unique infrastructure of this world allows the use of advanced techniques that give shape and form to the esoteric Living Metal, which lends itself well to repurposing quickly."
+ 
+ pm_New_Utopian_World:0 "New Utopian World"
+ pm_New_Utopian_World_desc:0 "The living metal wreath on this new Utopian World is still in its infancy, making it more malleable and permissive for construction. Temporary housing and facilities are constantly being made and destroyed on an on-need basis."
+ 
+ pm_New_Utopian_World_Machine:0 "New Living Metal World"
+ pm_New_Utopian_World_Machine_desc:0 "The living metal wreath on this world is still in its infancy, making it more malleable and permissive for construction. Temporary housing and facilities are constantly being made and destroyed on an on-need basis."
+ 
+ pm_New_Utopian_World_Hive:0 "New Utopian Hive World"
+ pm_New_Utopian_World_Hive_desc:0 "The living metal wreath on this new Utopian Hive World is still in its infancy, making it more malleable and permissive for construction. Temporary housing and facilities are constantly being made and destroyed on an on-need basis."
+ 
+ pm_Utopian_Paradise:0 "Utopian Paradise"
+ pm_living_metal_apprenticeship:0 "Living Metal Apprenticeships"
+ pm_living_metal_apprenticeship_desc:0 "All [GetAlloyProducerPlural] now work night shifts at the $building_synthetic_living_metal$ to learn more about the exquisite craft of animating Living Metal."
+ 
+ utopian_paradise.1.name:0 "Living Metal Potential"
+ utopian_paradise.1.desc:0 "Returning from a previous expedition seeking to uncover the precursors' lost technologies, our [Root.GetScientistPlural] have now published a groundbreaking study on the potential of Living Metal applications on a planetary scale.\n\nThough several applications of Living Metal are already known to us, primarily in the field of megascale engineering, our use so far has been limited to the inert form of the material which displays remarkable malleability and self-reformation even in a state of somnolence. Our [Root.GetScientistPlural] have now uncovered that Living Metal can be animated even further to demonstrate unprecedented capacity for shape-shifting, with fragmented records from the ancients' archives suggesting their use in the creation of worlds of unimaginable comfort and productivity.\n\nAlmost unanimously considered to be a worthwhile pursuit by our [Root.GetScientistPlural], our council of advisors have already commissioned the preliminary work required for this arduous but worthwhile task."
+ utopian_paradise.1.desc.01:0 "Though several applications of Living Metal are already known to us, primarily in the field of megascale engineering, our use so far has been limited to the inert form of the material which displays remarkable malleability and self-reformation even in a state of somnolence. From our vast collection of artifacts, our [Root.GetScientistPlural] have now uncovered that Living Metal can be animated even further to demonstrate unprecedented capacity for shape-shifting, with fragmented records from the ancients' archives suggesting their use in the creation of worlds of unimaginable comfort and productivity.\n\nAlmost unanimously considered to be a worthwhile pursuit by our [Root.GetScientistPlural], our council of advisors have already commissioned the preliminary work required for this arduous but worthwhile task."
+ utopian_paradise.1.a:0 "Approve the project. We will master Living Metal on our own."
+ utopian_paradise.1.b:0 "Train more [Root.GetScientistPlural], and find more ancient cultures to vanquish!"
+ 
+ utopian_paradise.2.name:0 "Research Team Assembled"
+ utopian_paradise.2.desc:0 "After the initial funding for the project had been raised and a team of scientific experts gathered, lab tests on the properties of §Y$sr_living_metal$§! can finally begin. As the potential hazards of this experiment became known, several key members of the research team have expressed doubt as to whether they want to work on such a high-risk project."
+ utopian_paradise.2.a:0 "Apply pressure to the team."
+ utopian_paradise.2.b:0 "Give the team a raise they cannot refuse."
+ utopian_paradise.2.c:0 "Find another team that is willing to work."
+ utopian_paradise.2.d:0 "Ignore their concerns."
+ 
+ utopian_paradise.3.name:0 "Field Tests Ready"
+ utopian_paradise.3.desc:0 "During the final stages of the team's prepartions to start Living Metal experiments on asteroids surfaces, a [Owner.GetScientist] noted a strange phenomenon of an instance where the Living Metal 'spoke'. When the [Owner.GetScientist] spoke back, the Living Metal just swallowed the [Owner.GetScientist] whole! We are unsure what to make of this incident or how the team should respond should similar situations arise again."
+ utopian_paradise.3.a:0 "Study the statue of the swallowed [Owner.GetScientist]."
+ utopian_paradise.3.b:0 "Blow up the statue and reuse the materials."
+ utopian_paradise.3.c:0 "Tell the team to take all necessary precautions."
+ utopian_paradise.3.d:0 "Find more information on Living Metal from our artifacts collection."
+ 
+ utopian_paradise.4.name:0 "Planetary Experiments Proposed"
+ utopian_paradise.4.desc:0 "The Living Metal Experiments are going well and preparations are underway for a planet-wide test. Several proposals have been brought forward by our team and §Y[Owner.GetRulerTitle] [Owner.GetRulerName]§! must decide which experiment would go ahead."
+ utopian_paradise.4.a:0 "Conduct the experiment on the barren planet."
+ utopian_paradise.4.b:0 "Conduct the experiment on the molten planet."
+ utopian_paradise.4.c:0 "Conduct the experiment on the frozen planet."
+ utopian_paradise.4.d:0 "Conduct the experiment on the colony."
+ living_metal_planet_experiment_tooltip:0 "The team will commence testing on the chosen planet of §H[event_target:living_metal_experiment_planet.GetName]§!. [Owner.GetRulerTitle] [Owner.GetRulerName] is warmly invited to attend the initiation process."
+ 
+ utopian_paradise.41.name:0 "Planetary Experiment Disaster!"
+ utopian_paradise.41.desc:0 "The Living Metal Experiments conducted on [event_target:living_metal_experiment_planet.GetName] has ended in disaster and the destruction of the planet. Our Utopian Dream remains far from our reach."
+ utopian_paradise.41.a:0 "No!"
+ 
+ utopian_paradise.5.name:0 "Living Metal Experiments Complete"
+ utopian_paradise.5.desc:0 "With the experiments finally coming to an end, our research team concluded that it is indeed possible to create a §YUtopian World§! using Living Metal. Perhaps it is time for us to create our own."
+ utopian_paradise.5.a:0 "Onwards to Utopia."
+ 
+ 
+ situation_utopian_paradise_type:0 "Living Metal Experiments"
+ situation_utopian_paradise:0 "Living Metal Experiments"
+ situation_utopian_paradise_desc:0 "An experiment on the properties of Living Metal and its potential application to shape our worlds into a utopian paradise."
+ situation_utopian_paradise_monthly_change_tooltip:0 ""The progress of this §YSituation§! depends on our investment priorities."
+ 
+ 
+ utopian_paradise_stage_1_tooltip:0 "Initial funding and research team will be gathered for this experiment."
+ utopian_paradise_stage_2_tooltip:0 "Experiments on Living Metal properties will be conducted in our newly built, state-of-the-art science lab."
+ utopian_paradise_stage_3_tooltip:0 "Field tests on asteroids are underway, so we can learn more about applications of Living Metal over a wide surface."
+ utopian_paradise_stage_4_tooltip:0 "Planet-wide experiments are conducted, covering an entire planet with Living Metal that we can shape, animate and resculpt as needed."
+ utopian_paradise_finish_tooltip:0 "Living Metal Experiments Complete!"
+ utopian_paradise_fail_tooltip:0 "We will cancel the Living Metal Experiments"
+ approach_utopian_low_priority:0 "Low Priority"
+ approach_utopian_moderate_priority:0 "Moderate Priority"
+ approach_utopian_high_priority:0 "High Priority"
+ utopian_paradise_low_priority_effect:0 "They need §Rwhat§!?? Just give them the minimum, tell them to make do with what they have!"
+ utopian_paradise_moderate_priority_effect:0 "We will provide moderate investments to give this project the resources it needs."
+ utopian_paradise_high_priority_effect:0 "Spare no expense. The sooner we complete the project, the sooner our empire can begin a new era of prosperity."
+ 
+ 
+ utopian_paradise.100.name:0 "A New §HUtopian World§!: [Root.GetName]"
+ utopian_paradise.100.desc:0 "Upon stripping the planet of imperfections and the aged infrastructure we had built previously, our §HUtopian World§! is at last complete.\n\nOur [GetEngineerPlural] have created the perfect paradise, where lush mountains form the backdrop to sophisticated housing districts, created using Living Metal which can be shaped and repurposed as the population expands. Downtown districts are designed to support our growing automated industries and the latest technologies.\n\nFrom this day forth, [Root.GetName] shall be known as a wonder of the universe."
+ utopian_paradise.100.a:0 "It is...beautiful."
+ 
+ utopian_paradise.200.name:0 "A New §HUtopian Ecumenopolis§!: [Root.GetName]"
+ utopian_paradise.200.desc:0 "Upon stripping the planet of imperfections and the aged arcologies we had built previously, our §HUtopian Ecumenopolis§! is at last complete.\n\nOur [GetEngineerPlural] have created the perfect paradise, where golden spires form the backdrop to utopian city districts, created using Living Metal which can be shaped and repurposed as the population expands. Downtown, financial arcologies store and invest massive amount of the empire's and the citizens' wealth, with the returns from these investments fueling the lifestyle of this utopian city.\n\nFrom this day forth, [Root.GetName] shall be known as a wonder of the universe."
+ utopian_paradise.200.a:0 "Our Utopian City is finished!"
+ 
+ utopian_paradise.300.name:0 "A New §HUtopian Ringworld Segment§!: [Root.GetName]"
+ utopian_paradise.300.desc:0 "Upon stripping the planet of imperfections and the aged segments we had built previously, our §HUtopian Ringworld Segment§! is at last complete.\n\nOur [GetEngineerPlural] have created the perfect paradise, where scenic landscapes form the backdrop to utopian city segments, created using Living Metal which can be shaped and repurposed as the population expands. Downtown, leisure segments form the greatest concentration of entertainment the galaxy had ever seen, while the science segments are always open to eager citizens wanting to dabble in strange experiments.\n\nFrom this day forth, [Root.GetName] shall be known as a wonder of the universe."
+ utopian_paradise.300.a:0 "It is a wonderous paradise."
+ 
+ utopian_paradise.400.name:0 "A New §HLiving Metal Machine World§!: [Root.GetName]"
+ utopian_paradise.400.desc:0 "Upon stripping the planet of imperfections and the aged infrastructure we had built previously, our §HLiving Metal Machine World§! is at last complete.\n\nOur drones have created the perfect planet for our machine intelligence, using Living Metal which can be shaped and repurposed as our needs expand. Various districts are designed to support our growing automated industries and the latest technologies.\n\nFrom this day forth, [Root.GetName] shall be known as a wonder of the universe."
+ utopian_paradise.400.a:0 "It is at last complete."
+ 
+ utopian_paradise.500.name:0 "A New §HLiving Metal Ring World Segment§!: [Root.GetName]"
+ utopian_paradise.500.desc:0 "Upon stripping the planet of imperfections and the aged segments we had built previously, our §HLiving Metal Machine Ring World Segment§! is at last complete.\n\nOur drones have created the perfect construction using Living Metal which can be shaped and repurposed as our needs expand. Various districts are designed to support our growing automated industries and the latest technologies.\n\nFrom this day forth, [Root.GetName] shall be known as a wonder of the universe."
+ utopian_paradise.500.a:0 "Excellent." 
+ 
+ utopian_paradise.600.name:0 "A New §HUtopian Hive World§!: [Root.GetName]"
+ utopian_paradise.600.desc:0 "Upon stripping the planet of imperfections and the aged infrastructure we had built previously, our §HUtopian Hive World§! is at last complete.\n\nOur drones have created the perfect planet for our hive mind, using Living Metal which can be shaped and repurposed as our needs expand. Various districts are designed to support our growing automated industries and the latest technologies.\n\nFrom this day forth, [Root.GetName] shall be known as a wonder of the universe."
+ utopian_paradise.600.a:0 "It is at last complete."
+ 
+ utopian_paradise.700.name:0 "A New §HUtopian Hive Ring World Segment§!: [Root.GetName]"
+ utopian_paradise.700.desc:0 "Upon stripping the planet of imperfections and the aged segments we had built previously, our §HUtopian Hive Ring World Segment§! is at last complete.\n\nOur drones have created the perfect construction using Living Metal which can be shaped and repurposed as our needs expand. Various districts are designed to support our growing automated industries and the latest technologies.\n\nFrom this day forth, [Root.GetName] shall be known as a wonder of the universe."
+ utopian_paradise.700.a:0 "Excellent." 
+ 
+ 
+ d_singing_towers:0 "Singing Towers"
+ d_singing_towers_desc:0 "It was said that the wind passing through the cave systems would harmonise with the cave's crystal layers, creating interweaving melodies that seem to sing across the valley. The endless, beautiful music often attract visitors who choose to stay at the luxurious hotels nearby."
+ 
+ d_golden_fields:0 "Golden Fields"
+ d_golden_fields_desc:0 "A rare type of golden grass is grown here that is comfortable to sit on, and these fields are perfect for a family day out."
+ 
+ d_golden_spire:0 "Golden Spires"
+ d_golden_spire_desc:0 "The Golden Spires stretch towards the atmosphere beyond the eyes can see, yet provide quality housing and entertainment for the rich and famous."
+ 
+ d_ornate_streets:0 "Ornate Streets"
+ d_ornate_streets_desc:0 "The Ornate Streets have walkways paved with gold, and its lavish opulence constantly remind the citizens the financial might of the empire."
+ 
+ d_magnificent_waterfalls:0 "Majestic Falls"
+ d_magnificent_waterfalls_desc:0 "The Majestic Falls is possible only with the unique geography of a ringworld, allowing massive rivers to fall to the segment below. An awesome, memorable sight for all who visit, many will choose to stay at the luxurious hotels nearby."
+ 
+ d_endless_fields:0 "Forever Green Hills"
+ d_endless_fields_desc:0 "The endless stretches of green hills on these segments are forever green, and beautiful."
+ 

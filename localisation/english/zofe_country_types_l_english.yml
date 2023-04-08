@@ -1,0 +1,47 @@
+﻿l_english:
+ 
+ COUNTRY_ASCENDED_EMPIRE:0 "Ascended Empire"
+ COUNTRY_ASCENDED_EMPIRE_DESC:0 "An Ascended Empire at the zenith of its power."
+ COUNTRY_LOST_EMPIRE:0 "$COUNTRY_FALLEN_EMPIRE$"
+ COUNTRY_LOST_EMPIRE_DESC:0 "$COUNTRY_FALLEN_EMPIRE_DESC$"
+ COUNTRY_ORIGINAL_EMPIRE:0 "$COUNTRY_FALLEN_EMPIRE$"
+ COUNTRY_ORIGINAL_EMPIRE_DESC:0 "$COUNTRY_FALLEN_EMPIRE_DESC$"
+ COUNTRY_AWAKENED_ORIGINAL_EMPIRE:0 "Original Empire"
+ COUNTRY_AWAKENED_ORIGINAL_EMPIRE_DESC:0 "The Original Empire, the progenitor empire of all Fallen Empires."
+ 
+ ascended_empire:0 "Ascended Empire"
+ ascended_empire_admiral:0 "Admiral"
+ ascended_empire_general:0 "General"
+ ascended_empire_scientist:0 "Scientist"
+ ascended_empire_governor:0 "Governor"
+ ascended_empire_ruler:0 "Ruler"
+ ascended_empire_envoy:0 "Envoy"
+ 
+ lost_empire:0 "$COUNTRY_FALLEN_EMPIRE$"
+ lost_empire_admiral:0 "Admiral"
+ lost_empire_general:0 "General"
+ lost_empire_scientist:0 "Scientist"
+ lost_empire_governor:0 "Governor"
+ lost_empire_ruler:0 "Ruler"
+ lost_empire_envoy:0 "Envoy"
+ 
+ original_empire:0 "$COUNTRY_FALLEN_EMPIRE$"
+ original_empire_admiral:0 "Admiral"
+ original_empire_general:0 "General"
+ original_empire_scientist:0 "Scientist"
+ original_empire_governor:0 "Governor"
+ original_empire_ruler:0 "Ruler"
+ original_empire_envoy:0 "Envoy"
+ 
+ awakened_original_empire:0 "Original Empire"
+ awakened_original_empire_admiral:0 "Admiral"
+ awakened_original_empire_general:0 "General"
+ awakened_original_empire_scientist:0 "Scientist"
+ awakened_original_empire_governor:0 "Governor"
+ awakened_original_empire_ruler:0 "Ruler"
+ awakened_original_empire_envoy:0 "Envoy"
+ 
+ 
+ 
+
+ 

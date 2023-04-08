@@ -1,0 +1,40 @@
+﻿l_english:
+ 
+ ap_galactic_ascendancy:0 "Galactic Ascendancy"
+ ap_galactic_ascendancy_desc:0 "When we possess the technologies required to found a civilization that spans millennia, younger races will learn of our achievements for centuries to come."
+ ap_galactic_consciousness:0 "Galactic Consciousness"
+ ap_galactic_consciousness_desc:0 "When we possess the technologies required to found a civilization that spans millennia, our mind will unite the stars under a single entity."
+ ap_galactic_intelligence:0 "Galactic Intelligence"
+ ap_galactic_intelligence_desc:0 "When we possess the technologies required to found a civilization that spans millennia, our intelligence will unite the stars under a single processor core."
+ 
+ become_ascended_empire:2 "We will become an §HAscended Empire§!"
+ describe_ascended_empire:0 "\nAt the zenith of civilization, citizens are united by a single, fanatical ideal. §HAscended Empires§! will sire their own subjects like Awakened Empires and pursue their own vision of the galaxy.\n"
+ become_galactic_ascendancy:0 "We will become a §HGalactic Ascendancy§!"
+ describe_galactic_ascendancy:0 "\nAs we march to the zenith of civilization, our empire shall possess technologies that rival even that of the precursor empires, and become a §HGalactic Ascendancy§!.\n"
+ 
+ become_ascended_hive_mind:2 "We will become an §HAscended Empire§!"
+ describe_ascended_hive_mind:0 "\nAt the apex of its power, the abilities of the Mind is heightened. §HAscended Hive Minds§! may sire their own subjects like Awakened Empires or become a devouring, galactic scourge.\n"
+ become_galactic_consciousness:0 "We will become a §HGalactic Consciousness§!"
+ describe_galactic_consciousness:0 "\nAs our Mind approaches the apex of its power, our abilities will be heightened. The Mind shall possess technologies that rival even that of the precursor empires, and become a §HGalactic Consciousness§!\n"
+ 
+ become_ascended_machine:2 "We will become an §HAscended Empire§!"
+ describe_ascended_machine:0 "\nAt the apex of its power, the Machine Consciousness possess both unrivalled intelligence and processing power. §HAscended Machine Empires§! will pursue their vision for the galaxy like Awakened Empires or become a ruthless organic exterminator.\n"
+ become_galactic_intelligence:2 "We will become a §HGalactic Intelligence§!"
+ describe_galactic_intelligence:0 "\nAs our Machine Intelligence reaches the apex of its power, our processors will become more efficient still. Our Machine Consciousness shall possess both unrivalled intelligence and the technologies that rival even that of the precursor empires, and become a §HGalactic Intelligence§!\n"
+ 
+ requires_technology_dark_matter_power:0 "$TRIGGER_FAIL$Requires the £physics  §Y$tech_dark_matter_power_core$§! technology."
+ requires_technology_ascension_theory:0 "$TRIGGER_FAIL$Requires the £society  §Y$tech_ascension_theory$§! technology."
+ requires_ascension_perks_4:1 "$TRIGGER_FAIL$Requires four other Ascension Perks to be selected first."
+ requires_ascension_perks_5:1 "$TRIGGER_FAIL$Requires five other Ascension Perks to be selected first."
+ requires_ascension_perks_6:1 "$TRIGGER_FAIL$Requires six other Ascension Perks to be selected first."
+ requires_ascension_perks_7:1 "$TRIGGER_FAIL$Requires seven other Ascension Perks to be selected first."
+
+ requires_min_navy_1:0 "$TRIGGER_FAIL$Requires our empire to have a minimum of §H125k§! fleet power."
+ requires_min_navy_2:0 "$TRIGGER_FAIL$Requires our empire to have a minimum of §H250k§! fleet power."
+ requires_min_navy_3:0 "$TRIGGER_FAIL$Requires our empire to have a minimum of §H500k§! fleet power."
+ requires_min_navy_4:0 "$TRIGGER_FAIL$Requires our empire to have a minimum of §H750k§! fleet power."
+ requires_min_navy_5:0 "$TRIGGER_FAIL$Requires our empire to have a minimum of §H1M§! fleet power."
+ requires_min_navy_6:0 "$TRIGGER_FAIL$Requires our empire to have a minimum of §H2M§! fleet power."
+ 
+ too_many_ai:0 "$TRIGGER_FAIL$Too many AI Ascended Empires in the galaxy!"
+ 

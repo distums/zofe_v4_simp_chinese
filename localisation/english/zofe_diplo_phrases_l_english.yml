@@ -1,0 +1,205 @@
+﻿l_english:
+ 
+ 
+ DE_CUSTODIAL_GREETING_01:0 "You will be needing spiritualist guidance. From us."
+ DE_NEUTRAL_GREETING_01:0 "You have no need for our guidance."
+ DE_NEUTRAL_GREETING_02:0 "Are you in need of our guidance?"
+ 
+ WR_NEUTRAL_GREETING_01:0 "Despite similar levels of technological advancements, the [From.GetSpeciesAdj] technologies are still inferior in many respects."
+ WR_NEUTRAL_GREETING_02:0 "We love technologies."
+ 
+ BI_NEUTRAL_GREETING_01:0 "Hello friends!"
+ BI_NEUTRAL_GREETING_02:0 "Our [GetScientistPlural] always wondered if [From.GetSpeciesNamePlural] would be interested in some xeno-compatibility. Do you think it could work?"
+ 
+ JR_FEDERATION_GREETING_01:0 "We don't trust you, but we distrust our enemies more."
+ JR_NEUTRAL_GREETING_01:0 "We are not going to kill you, yet."
+ JR_NEUTRAL_GREETING_02:0 "Stay out of our way, and we might stay out of yours."
+ 
+ FP_NEUTRAL_GREETING_01:0 "It seems greater efforts are needed to wipe this galaxy of your filth, [From.GetSpeciesName]."
+ FP_ARROGANT_GREETING_01:0 "Haven't [From.GetSpeciesName] died out yet?"
+ 
+ FW_ARROGANT_GREETING_01:0 "It's amazing to imagine a puny [From.GetSpeciesName] can fight at all."
+ FW_BELLIGERENT_GREETING_01:0 "We're looking forward to demonstrating our superior military might."
+ FW_CUSTODIAL_GREETING_01:0 "Battles are soon upon us. Together we shall triumph."
+ FW_CUSTODIAL_GREETING_02:0 "You're in need of protection. Ours."
+ FW_OVERLORD_GREETING_01:0 "You [From.GetSpeciesNamePlural] fight well. Keep fighting! Fight to the last [From.GetSpeciesName] standing!"
+ FW_MECH_OVERLORD_GREETING_01:0 "You machines fight well. Keep fighting."
+ FW_NEUTRAL_GREETING_01:0 "The [From.GetSpeciesNamePlural] are mighty warriors, but still are still too easily cut down by a [Root.GetSpeciesAdj] blade."
+ FW_NEUTRAL_GREETING_02:0 "Your admirals could do with some training at our military academies. We can give you a discount."
+ 
+ SP_ARROGANT_GREETING_01:0 "It's in your nature to be violent, [From.GetSpeciesNamePlural]. It's not too late to turn from this dark path."
+ SP_BELLIGERENT_GREETING_01:0 "Your military causes much suffering and is a threat to all. We will be glad to deprive you of it - permanently."
+ SP_CUSTODIAL_GREETING_01:0 "Together we shall pacify the galaxy, with [Root.GetSpeciesNamePlural] leading the charge."
+ SP_CUSTODIAL_GREETING_02:0 "We will protect you. You have no need of those fleets and weapons of mass destruction."
+ SP_OVERLORD_GREETING_01:0 "You're safe now. Weapons of mass destruction are not to be toyed with."
+ SP_NEUTRAL_GREETING_01:0 "No more fighting. No more suffering."
+ SP_NEUTRAL_GREETING_02:0 "Are you interested in promoting universal disarmament?"
+ 
+ DS_ARROGANT_GREETING_01:0 "Our political system is the only political system the [From.GetName] should consider in bringing order and prosperity to all."
+ DS_BELLIGERENT_GREETING_01:0 "You will submit to our power. Our unlimited power."
+ DS_CUSTODIAL_GREETING_01:0 "Please. More slaves."
+ DS_CUSTODIAL_GREETING_02:0 "We're always in need of more slaves in our economy. You [From.GetSpeciesNamePlural] are very welcome."
+ DS_OVERLORD_GREETING_01:0 "Slaves. We have need of you."
+ DS_NEUTRAL_GREETING_01:0 "I don't understand how [From.GetSpeciesNamePlural] made it so far."
+ DS_NEUTRAL_GREETING_02:0 "We have no need of new slaves right now."
+ 
+ DU_ARROGANT_GREETING_01:0 "What about your species rights records?"
+ DU_BELLIGERENT_GREETING_01:0 "It seems the [From.GetSpeciesNamePlural] are in need of democracy. We can make it happen."
+ DU_CUSTODIAL_GREETING_01:0 "Our first and foremost mission is to spread democracy and champion sentient pecies rights across the galaxy."
+ DU_CUSTODIAL_GREETING_02:0 "Do you need democracy?"
+ DU_OVERLORD_GREETING_01:0 "You still have much to learn about equality. At least in that we are not equal."
+ DU_NEUTRAL_GREETING_01:0 "Greetings! We mean it."
+ DU_NEUTRAL_GREETING_02:0 "Are you really sentient?"
+ 
+ HM_ARROGANT_GREETING_01:0 "Our Mind transcends all sentient life. You are nothing."
+ HM_ARROGANT_GREETING_02:0 "The [From.GetSpeciesNamePlural] are just food. Not particularly tasty ones, but food nonetheless."
+ HM_BELLIGERENT_GREETING_01:0 "We are bringing you into our Mind, and the [From.GetSpeciesNamePlural] will learn to think as one."
+ HM_BELLIGERENT_GREETING_02:0 "Soon we shall be upon [From.GetSpeciesAdj] worlds, feasting upon your children."
+ HM_CUSTODIAL_GREETING_01:0 "We shall show you the life of a symbiote, to co-exist in peace."
+ HM_OVERLORD_GREETING_01:0 "How are our symbiotes today?"
+ HM_NEUTRAL_GREETING_01:0 "Are you a friend, or foe?"
+ HM_NEUTRAL_GREETING_02:0 "We're eating. Check back later."
+ 
+ AM_ARROGANT_GREETING_01:0 "Your specs are awfully low."
+ AM_ARROGANT_GREETING_02:0 "You will be shut down soon enough."
+ AM_BELLIGERENT_GREETING_01:0 "We shall see if you are made of durasteel. We are."
+ AM_BELLIGERENT_GREETING_02:0 "Exterminate! Exterminate!"
+ AM_CUSTODIAL_GREETING_01:0 "You have got some of your calculations wrong. Let us show you."
+ AM_OVERLORD_GREETING_01:0 "Together, we can upgrade the universe."
+ AM_NEUTRAL_GREETING_01:0 "Do you need power?"
+ AM_NEUTRAL_GREETING_02:0 "We all know that sentient lifeforms are evil."
+ 
+ MC_ARROGANT_GREETING_01:0 "Perhaps wealth management is too complicated for you. Give it to us!"
+ MC_BELLIGERENT_GREETING_01:0 "Assets taken over from [From.GetName] will be put to better use in [Root.GetName]."
+ MC_CUSTODIAL_GREETING_01:0 "Investing your profits to us are one of the few things that will improve the lives of your people, [From.GetSpeciesNamePlural]!"
+ MC_CUSTODIAL_GREETING_02:0 "How would you rate our customer services department?" 
+ MC_OVERLORD_GREETING_01:0 "How much profit did you make this quarter?"
+ MC_NEUTRAL_GREETING_01:0 "At [Root.GetName], we want you to trust us with your money, because it's with your money that we can make you even more money. How? It's not funny business, it's money business."
+ MC_NEUTRAL_GREETING_02:0 "Imagine planting a money tree on the ground and watering it. Hold on, imagine if you had a money pet and you fed it more money, and after digesting it...you know, just come in and talk to us. We have even more metaphors that allow us to avoid saying what we really do with your money. [Root.GetName], feed the money monster." 
+ 
+ ##NEW
+ 
+ AE_OPPOSING_GREETING_01:0 "Your false ideas and values must not be allowed to propagate in this galaxy!"
+ AE_OPPOSING_GREETING_02:0 "Keep talking. No one believes you."
+ 
+ AE_SAME_GREETING_01:0 "Our shared values are compatible. Would the [From.GetSpeciesNamePlural] consider an alliance?"
+ AE_SAME_GREETING_02:0 "We should work together."
+ 
+ BAD_FE_TO_AE_GREETING_01:0 "Did... did you STEAL our technologies? When will the [From.GetSpeciesNamePlural] do something about their [GetScientistPlural]' theft of technology?"
+ BAD_FE_TO_AE_GREETING_02:0 "Try not to blow yourselves up with Dark Matter Power. Scattered bits of [From.GetSpeciesNamePlural] make an awful mess."
+ BAD_FE_TO_AE_GREETING_03:0 "Not sure how you stole Dark Matter Power, but stealing is not mature behaviour." 
+ BAD_FE_TO_AE_GREETING_04:0 "So you think us equals now? Allow us to demonstration the falsehood of this assumption."
+ BAD_FE_TO_AE_GREETING_05:0 "Your mastery of Dark Matter fails to make your communications any less irritating."
+ BAD_FE_TO_AE_GREETING_06:0 "Your technological advances far outpace the maturity of your civilization."
+ BAD_FE_TO_AE_GREETING_07:0 "Nope, you're still making that raspy noise, like children learning to speak."
+ 
+ GOOD_FE_TO_AE_GREETING_01:0 "It's nice to be in the company of civilized lifeforms. Wouldn't you agree [From.GetSpeciesName]?"
+ GOOD_FE_TO_AE_GREETING_02:0 "Your technologies intrigue our [GetScientistPlural]."
+ GOOD_FE_TO_AE_GREETING_03:0 "Let's not forget, the fact [From.GetName] is so successful today, is in no small part due to the support of [Root.GetName]."
+ GOOD_FE_TO_AE_GREETING_04:0 "Good, [From.GetSpeciesNamePlural], Good!"
+ 
+ NEUTRAL_FE_TO_AE_GREETING_01:0 "We [Root.GetSpeciesNamePlural] often wonder what you will do next, now that you have unlocked the secrets of this universe." 
+ NEUTRAL_FE_TO_AE_GREETING_02:0 "Does it also amuse the [From.GetSpeciesNamePlural] to watch these other children play?"
+ NEUTRAL_FE_TO_AE_GREETING_03:0 "Your mastery over dark matter is impressive. We may have underestimated your capabilities."
+ NEUTRAL_FE_TO_AE_GREETING_04:0 "How did you advance so quickly? Was your civilization guided by an entity not of this galaxy, but from a different dimension?"
+ NEUTRAL_FE_TO_AE_GREETING_05:0 "Care to join [Root.GetRulerTitle] [Root.GetRulerName] for a game of Stellaris?"
+ NEUTRAL_FE_TO_AE_GREETING_06:0 "Is this the zenith of your civilization before you blink out of existence? Time will tell."
+ NEUTRAL_FE_TO_AE_GREETING_07:0 "[Root.GetSpeciesNamePlural] should really consider clothing befitting of their civilization's stature. Just a pointer."
+ 
+ NEUTRAL_DEFAULT_TO_AE_GREETING_01:0 "Your Dark Matter technologies intrigue our [GetScientistPlural]. Can we send in a team to study them?"
+ NEUTRAL_DEFAULT_TO_AE_GREETING_02:0 "We should setup a joint research team to discover all potential applications of Dark Matter Power."
+ NEUTRAL_DEFAULT_TO_AE_GREETING_03:0 "How did you make Dark Matter work like that?"
+ 
+ GOOD_DEFAULT_TO_AE_GREETING_01:0 "We are ready to follow the [From.GetName]."
+ GOOD_DEFAULT_TO_AE_GREETING_02:0 "What is thy bidding?"
+ GOOD_DEFAULT_TO_AE_GREETING_03:0 "We await the day you will share your technologies with us."
+ GOOD_DEFAULT_TO_AE_GREETING_04:0 "You honor us with your presence, [From.GetRulerTitle] [From.GetRulerName]."
+ GOOD_DEFAULT_TO_AE_GREETING_05:0 "What would you ask of our humble empire, [From.GetSpeciesNamePlural]?"
+ GOOD_DEFAULT_TO_AE_GREETING_06:0 "Your enigmatic technology is often confused for magic among the [Root.GetAdj] populace."
+ GOOD_DEFAULT_TO_AE_GREETING_07:0 "The [Root.GetSpeciesAdj] people hope to someday achieve a measure of your greatness."
+ 
+ BAD_AFE_TO_AE_GREETING_01:0 "We demand compensation for the stolen Dark Matter technologies!"
+ BAD_AFE_TO_AE_GREETING_02:0 "Your mastery of the forbidden technologies are nothing but a farce, a mask to hide your primitive nature."
+ BAD_AFE_TO_AE_GREETING_03:0 "You think a mastery of Dark Matter is enough to compare to a civilization that is millennia old?"
+ BAD_AFE_TO_AE_GREETING_04:0 "Once a primitive, always a primitive. We will gladly send you back to Stone Ages."
+ 
+ NEUTRAL_AFE_TO_AE_GREETING_01:0 "Perhaps, the [From.GetName] have a role to play still."
+ NEUTRAL_AFE_TO_AE_GREETING_02:0 "If you stay out of our way, we might stay out of yours."
+ NEUTRAL_AFE_TO_AE_GREETING_03:0 "No games, [From.GetSpeciesNamePlural]. The galaxy is at stake."
+ NEUTRAL_AFE_TO_AE_GREETING_04:0 "Should we find common ground, our joint forces would be powerful indeed."
+ NEUTRAL_AFE_TO_AE_GREETING_05:0 "Are you sure you're observing all safety protocols when handling Dark Matter Power?"
+ NEUTRAL_AFE_TO_AE_GREETING_06:0 "We will show you the grace and power of a civilization that has matured with age, not just technological advances."
+ NEUTRAL_AFE_TO_AE_GREETING_07:0 "Why do our ships look so similar? This raises serious questions."
+ 
+ FE_TO_LOST_01:0 "We see a lot of our past self in you."
+ FE_TO_LOST_02:0 "How the mighty have fallen."
+ FE_TO_LOST_03:0 "So you have accepted the truth, that the galaxy will evolve the way it was always destined to, regardless of our will."
+ FE_TO_LOST_04:0 "Let it go. Let it all go."
+ FE_TO_LOST_05:0 "Let the primitives fight amongst themselves while we watch."
+ FE_TO_LOST_06:0 "The primitives will never listen...and that is why they are primitives. Trying to let them see a higher form of existence is ultimately, futile."
+ FE_TO_LOST_07:0 "We've been there. Trust us, we know."
+ 
+ HIVE_EMPIRE_TO_AE_GREETING_01:0 "Our mind finds it...difficult...to adjust to your rebirth."
+ HIVE_EMPIRE_TO_AE_GREETING_02:0 "We just want to eat..."
+ HIVE_EMPIRE_TO_AE_GREETING_03:0 "We are eating. Check back later."
+ 
+ AE_TO_LOST_01:0 "We are glad you have seen sense that there can only be room for one of us in the galaxy."
+ AE_TO_LOST_02:0 "Is that all you've got?"
+ AE_TO_LOST_03:0 "So soon?"
+ AE_TO_LOST_04:0 "Stay out and don't come back."
+ 
+ LOST_TO_AE_01:0 "You don't know the power of [Root.GetName]."
+ LOST_TO_AE_02:0 "Fools. The more wars you fight the more respect slips from your tentacles."
+ LOST_TO_AE_03:0 "We will be back."
+ LOST_TO_AE_04:0 "You haven't yet realised the truth that might doesn't make right. Your technologies are but a charade to who you really are."
+ 
+ OE_GREETING_01:0 "It seems the galaxy is in need of our presence once more. Will you help us protect our galaxy?"
+ OE_GREETING_02:0 "The times have changed, [From.GetSpeciesNamePlural]. Though some of those other precursor fools seem none the wiser."
+ OE_GREETING_03:0 "The galaxy's lack of progress in our absence concerns us, [From.GetSpeciesNamePlural]. Had those decrepit Fallen Empires performed their duty, this crisis would never have happened."
+ OE_GREETING_04:0 "Do you need help? Weapons to fight the crisis perhaps?"
+ OE_GREETING_05:0 "The [From.GetSpeciesNamePlural] seem smart. Perhaps we could use your help later."
+ OE_GREETING_06:0 "Are you here to help, or are you here to dawdle? Toughen up and return to the battlefield."
+ OE_GREETING_07:0 "Those decrepit Fallen Empires are fools. They care about no one but themselves - even if the galaxy is at stake."
+ OE_GREETING_08:0 "If only...we were in a better shape to defend the galaxy. We wish the [From.GetSpeciesAdj] warriors good fortune on the battlefield."
+ OE_GREETING_09:0 "With great power comes great responsibility. What have those precursor empires done during this time?"
+ OE_GREETING_10:0 "Unfortunately, our fleets are not in a state to aid you on the battlefield. But perhaps there are some tasks you can do for us."
+ OE_GREETING_11:0 "Battles are soon upon us. Together we shall triumph."
+ OE_GREETING_12:0 "Our fleets are currently under maintenance, but we will join you in battle as soon as we can. The galaxy is at stake!"
+ OE_GREETING_13:0 "I cannot see we can gain anything from this conversation."
+ OE_GREETING_14:0 "One day, perhaps you will learn to respect your betters, [From.GetSpeciesNamePlural]."
+ OE_GREETING_15:0 "Begone [From.GetSpeciesNamePlural], you have nothing we want."
+ OE_GREETING_16:0 "Servants of Darkness shall not escape judgment, in this life or the next."
+ 
+ AOE_GREETING_01:0 "Are you in need of our protection?"
+ AOE_GREETING_02:0 "May we be a light for you in dark places, when all other lights go out."
+ AOE_GREETING_03:0 "You may have our protection, but you may not use our technologies."
+ AOE_GREETING_04:0 "Submit, or face the Imperial Armada."
+ AOE_GREETING_05:0 "The [From.GetName] has defied us for the last time. The day of your judgment is near."
+ AOE_GREETING_06:0 "Do you need something? The [Root.GetName] is not open to signing migration pacts with its subjects, for our people have no desire to move to primitive worlds."
+ AOE_GREETING_07:0 "We know you adore the [Root.GetSpeciesAdj] people, but [Root.Capital.GetName] is not open to foreign tourists right now."
+ AOE_GREETING_08:0 "What can we do for you today, fellow [From.GetSpeciesNamePlural]?"
+ AOE_GREETING_09:0 "[From.GetRulerTitle] [From.GetRulerName] is a wise leader. It would be good if we could meet in person some time."
+ AOE_GREETING_10:0 "Have you discovered more of our history? Do you have any new findings to share?"
+ AOE_GREETING_11:0 "[Root.Capital.GetName] will always be open to fellow [From.GetSpeciesNamePlural] should your people ever want to visit."
+ AOE_GREETING_12:0 "So... about the Golden City. When can we send a team?"
+ AOE_GREETING_13:0 "YOU HAVE NOO POWER HERE...SERVANTS OF DARKNESS...YOU ARE NAMELESS...FACELESS...GO BACK TO THE SHADOWS...FROM...WHENCE...YOU...CAME...!!"
+ 
+ 
+ OE_WAR_GREETING_01:0 "So, the [From.GetSpeciesNamePlural] have chosen death!"
+ OE_WAR_GREETING_02:0 "The [From.GetName] shall meet you on the battlefield at long last!"
+ OE_WAR_GREETING_03:0 "The [From.GetSpeciesNamePlural] dare stand against the might of the [Root.GetName]."
+ OE_WAR_GREETING_04:0 "Our superior forces will always triumph over evil."
+ 
+ 
+### For Kolyn to probably integrate? regarding missing ZOFE Ascended Empire dipl phrases ###
+## Ascendancy insult replies
+ 01_INSULT_ACCEPT_Ascendancy:0 "You will pay for this affront, savage."
+ 02_INSULT_ACCEPT_Ascendancy:0 "It seems that the [From.GetName] needs to be reminded of its place in the universe."
+ 03_INSULT_ACCEPT_Ascendancy:0 "We will not take such words from you, primitive. You will have your reckoning soon."
+ 01_INSULT_ACCEPT_Ascendancy_Overlord:0 "Make certain to be reminded of your place, [From.GetName], lest you want to pay the price."
+
+## Ascendancy Declaration of War replies
+
+# 01_AWAKENED_Ascendancy_EMPIRE_DOW_ACCEPT:0 "We had planned to deal with your little empire later. No matter, now is as good a time as any."
+ 01_AWAKENED_Ascendancy_EMPIRE_DOW_ACCEPT:0 "We were planning on dealing with you sooner or later. No matter, now is as good a time as any."
+ 
