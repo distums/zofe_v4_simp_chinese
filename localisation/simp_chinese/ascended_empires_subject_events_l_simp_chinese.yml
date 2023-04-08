@@ -16,7 +16,7 @@ l_simp_chinese:
  ascended_empires_subject.3.b:0 “非常感谢！”
  
  ascended_empires_subject.5.name:0 “恐怖袭击迫在眉睫”
- ascended_empires_subject.5.desc:0 “一个持激进观点的邪教组织的成员正计划在 §H[NoobEmpire.GetName]§! 的首都对平民发动前所未有的恐怖袭击。我们的情报部门已经拦截了肇事者之间的传输，并确定了最可能的时间和地点,袭击。不幸的是，由于监视技术不佳，我们的对象似乎没有意识到即将发生的袭击。我们可以向他们的安全部队提供匿名举报，以便在他们的阴谋得逞之前将这些恐怖分子绳之以法，或者我们袖手旁观,§H[NoobEmpire.GetName]§! 得到他们应得的惩罚。”
+ ascended_empires_subject.5.desc:0 “一个持有激进观点的邪教组织的成员正计划在 §H[NoobEmpire.GetName]§! 的首都对平民发动前所未有的恐怖袭击。我们的情报部门已经拦截了肇事者之间的传输，并确定了最可能的时间和地点,袭击。不幸的是，由于监控技术不佳，我们的对象似乎没有意识到即将发生的袭击。我们可以向他们的安全部队提供匿名举报，以便在他们的阴谋得逞之前将这些恐怖分子绳之以法，或者我们袖手旁观,§H[NoobEmpire.GetName]§! 得到他们应得的惩罚。”
  
  ascended_empires_subject.5.a:0 “告密他们的安全。”
  ascended_empires_subject.5.b:0 “他们是时候为过去的许多罪行受到惩罚了。”

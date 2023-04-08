@@ -141,7 +141,7 @@ l_simp_chinese:
  
  lost_empire.10.name:0 《湮灭的霸权》
  lost_empire.10.desc:0 “在一场漫长而血腥的歼灭战争之后，§H[Annihilator.GetName]§! 取得了胜利，而 §H[Annihilated.GetName]§! 作为一个银河力量被彻底摧毁。在他们的胜利之后，§H[ ,Annihilator.GetName]§! 开始破坏 §H[Annihilated.GetName]§! 的遗产，并将他们的人民赶到灭绝营。这就是胜利者感受到的仇恨和敌意的程度，他们打算消除一切痕迹,§H[Annihilated.GetName]§! 的存在来自银河系和历史书籍。\n\n几百年后，§H[Annihilated.GetName]§! 就好像从未存在过一样。”
- lost_empire.10.a:0 “嗯，他们到此为止了。”
+ lost_empire.10.a:0 “好吧，他们到此为止了。”
  
  lost_empire.11.name:0 “被放逐的优势”
  lost_empire.11.desc:0 “经过漫长而血腥的战争，§H[Banisher.GetName]§! 取得了胜利。尽管 §H[Banisher.GetName]§! 曾经是银河霸主，但它被迫签署了一项屈辱性的条约，剥夺了它的权力基础,及其作为银河势力的地位。\n\n此外，该条约规定，在 §H[Banisher.GetName]§! 保留期间，§H[Banisher.GetName]§! 不得返回银河事务，或扮演任何角色。,看。战争造成的损害和这个特别严厉的条约导致许多人质疑 §H[Banished.GetName]§! 是否会从这一切中恢复过来。”
@@ -157,7 +157,7 @@ l_simp_chinese:
  lost_empire.13.a:0 “是谁带领我们走上了这条毁灭之路，为什么？”
  
  lost_empire.14.name:0 《全军覆没》
- lost_empire.14.desc:0 “在一场毁灭性的歼灭战之后，§H[Annihilator.GetName]§! 取得了胜利。作为银河力量的 §H[Annihilated.GetName]§! 已经被彻底摧毁，而我们也随之而来。\n\ ,n尽管进行了勇敢的抵抗，但我们的力量无法与决心抹杀我们存在的升华帝国的无尽愤怒相抗衡。对于我们所有的罪恶和我们作为附属国家的困境，§H[Annihilator.GetName]§!,不为所动。\n\n到头来，我们不过是微尘，只是巨人之战中的附带伤害。”
+ lost_empire.14.desc:0 “在一场毁灭性的歼灭战争之后，§H[Annihilator.GetName]§! 取得了胜利。作为银河力量的 §H[Annihilated.GetName]§! 已经被彻底摧毁，而我们也随之而来。\n\ ,n尽管进行了勇敢的抵抗，但我们的力量无法对抗决心抹杀我们存在的升华帝国的无尽愤怒。对于我们所有的罪恶和我们作为附属国家的困境，§H[Annihilator.GetName]§!,不为所动。\n\n到头来，我们不过是微尘，只是巨人之战中的附带伤害。”
  lost_empire.14.a:0 “我们选错了边。”
  
  lost_empire.15.name:0 “胜利 - §H[Banished.GetName]§! 放逐”

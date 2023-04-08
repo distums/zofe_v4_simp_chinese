@@ -70,14 +70,18 @@ const run = async () => {
       console.log("文件{%s}翻译完成", file);
       const newDirName = path.join(`localisation/${target}`, dirName);
       await mkdir(newDirName, { recursive: true });
-      const newFileName = path.join(newDirName, `${fileName}.yml`);
+      const newFileName = path.join(
+        newDirName,
+        `${fileName.replace(source, target)}.yml`
+      );
       console.log("开始写入新文件{%s}", newFileName);
       await writeFile(newFileName, result.join(os.EOL), {
         encoding: "utf8",
       });
       console.log("文件{%s}写入完成", newFileName);
+      console.log("\n");
     } catch (ex) {
-      console.log(file);
+      console.error("翻译文件{%s}过程中出错", file);
       console.error(ex);
     }
   }
