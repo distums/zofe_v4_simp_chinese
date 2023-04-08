@@ -1,101 +1,101 @@
-﻿l_simp_chinese:
+l_simp_chinese:
  
 
- situation_zofe_ascension_type:0 "The Zenith of Fallen Empires"
- situation_zofe_ascension:0 "The Zenith of Fallen Empires"
- situation_zofe_ascension_desc:0 "At the height of their power, the Fallen Empires were masters of the galaxy and all possibilities were within reach.\n\nBut the path to greatness is not always linear, and at times choices and sacrifices must be made. Now it is our turn to choose."
- situation_zofe_ascension_monthly_change_tooltip:0 "The progress of this §YSituation§! is dependent on the §YApproach§! we pick. Increase our investments to speed up the ascension process."
+ situation_zofe_ascension_type:0 “堕落帝国的顶峰”
+ situation_zofe_ascension:0 “堕落帝国的顶峰”
+ situation_zofe_ascension_desc:0 “在他们的鼎盛时期，堕落帝国是银河系的主宰，所有的可能性都触手可及。\n\n但通往伟大的道路并不总是直线的，有时必须做出选择和牺牲。现在是我们的,转身选择。”
+ situation_zofe_ascension_monthly_change_tooltip:0 “这种§Y情况§!的进展取决于我们选择的§Y方法§!。增加我们的投资以加速扬升过程。”
  
- zofe_ascension_stage_0_tooltip:0 "All levels of society are to be mobilized, bracing themselves for a revolution brought about by the discovery of §Y$tech_dark_matter_power_core$§!."
- zofe_ascension_stage_1_tooltip:0 "Using an advanced form of Dark Matter manipulation, the precursors' technological mastery enabled entire industries to run autonomously, freeing their population to live out the rest of their lives in self-determined and hedonistic ways.\n\nIf we apply ourselves to study how Dark Matter is manipulated in this way, we will be able to replicate and rebuild these technological marvels for a fully efficient economy."
- zofe_ascension_stage_2_tooltip:0 "At the zenith of civilisation, citizens are united by a single, fanatical ideal. With their thunderous applause, our society will transform, unlocking new civics and buildings for our Ascended Society."
- zofe_ascension_stage_3_tooltip:0 "Unfortunately, our ships and cities still take the same appearance as the first day we achieved spaceflight, which no longer reflect an empire of our current stature. Perhaps some designs borrowed from our precursor neighbours would both serve to intimidate our enemies and deter future invasions.\n\nBlueprints and technical data for these elegant precursor designs can be obtained through various covert operations spanning several years."
- zofe_ascension_stage_4_tooltip:0 "The precursor empires were masters of warfare, their doctrines tried and tested by the fires of the Great Crusade. Studying precursor combat tactics and their weaponry will greatly enhance our own capabilities, allowing us to fight with a millennia of experience and lessons born of the Great Crusade."
- zofe_ascension_stage_5_tooltip:0 "We must have galactic ambitions befitting of our stature and power, projecting our influence across all edges of the galaxy. New edicts and campaigns would ensure the continued prosperity and stability of our empire."
- zofe_ascension_stage_6_tooltip:0 "Perfection can be engineered, when our engineering skills are in turn perfected. This will allow us to create true wonders of the universe."
+ zofe_ascension_stage_0_tooltip:0 “社会各阶层都将动员起来，为 §Y$tech_dark_matter_power_core$§! 的发现所带来的革命做好准备。”
+ zofe_ascension_stage_1_tooltip:0 “使用一种高级形式的暗物质操纵，先驱者对技术的掌握使整个行业能够自主运行，让他们的人民以自主和享乐的方式度过余生。\n\n如果我们致力于研究,如何以这种方式操纵暗物质，我们将能够复制和重建这些技术奇迹，以实现完全高效的经济。”
+ zofe_ascension_stage_2_tooltip:0 “在文明的顶峰，公民们被一个单一的、狂热的理想团结在一起。在他们雷鸣般的掌声中，我们的社会将发生转变，为我们的扬升社会解锁新的公民和建筑。”
+ zofe_ascension_stage_3_tooltip:0 “不幸的是，我们的船只和城市仍然采用与我们实现太空飞行的第一天相同的外观，这不再反映我们当前地位的帝国。也许从我们的前身邻居那里借来的一些设计既可以用来恐吓我们的敌人，也可以阻止未来的入侵,.\n\n这些优雅的先驱设计的蓝图和技术数据可以通过跨越数年的各种秘密行动获得。”
+ zofe_ascension_stage_4_tooltip:0 “前身帝国是战争大师，他们的学说经过大远征的战火考验。研究前身的战术和武器装备将极大地提高我们自己的能力，使我们能够凭借千年的经验和教训进行战斗。,伟大的十字军东征。”
+ zofe_ascension_stage_5_tooltip:0 “我们必须拥有与我们的地位和权力相称的银河野心，将我们的影响力投射到银河系的所有边缘。新的法令和运动将确保我们帝国的持续繁荣和稳定。”
+ zofe_ascension_stage_6_tooltip:0 “当我们的工程技能反过来完善时，可以设计出完美。这将使我们能够创造出真正的宇宙奇迹。”
 
- zofe_ascension_fail_tooltip:0 "We will abandon our ambitions to become an ascendancy. It will be unlikely for our empire to be able to mobilize its population and undertake such a gargantuan reform ever again."
- approach_ascension_low_priority:0 "Minimal Investment"
- approach_ascension_moderate_priority:0 "Moderate Investment"
- approach_ascension_high_priority:0 "Heavy Investment"
- ascension_low_priority_effect:0 "Provide what we can spare, but no more! We will prioritize other projects in our empire.\n\nThe resources required for our ascension are scaled to the number of colonies in our empire."
- ascension_moderate_priority_effect:0 "We will give our ascension adequate resources to ensure it is completed in a reasonable timeframe.\n\nThe resources required for our ascension are scaled to the number of colonies in our empire."
- ascension_high_priority_effect:0 "Spare no expense! The sooner we ascend, the sooner our empire can begin a new era of prosperity.\n\nThe resources required for our ascension are scaled to the number of colonies in our empire."
- war_during_ascension:0 "We are at war! Resources are diverted to supply the war effort"
- complied_fallen_empire:0 "We are complying with the request to abort our ascension efforts...at least on paper"
- does_not_meet_ascension_fleet_power_requirement:0 "We don't have enough fleet power to become an Ascendancy"
- subject_ascension_disallowed:0 "Subject Ascension Disallowed"
+ zofe_ascension_fail_tooltip:0 “我们将放弃成为霸主的野心。我们的帝国不太可能再次动员其人口并进行如此庞大的改革。”
+ approach_ascension_low_priority:0 “最小投资”
+ approach_ascension_moderate_priority:0 “适度投资”
+ approach_ascension_high_priority:0 “重投资”
+ ascension_low_priority_effect:0 “提供我们能节省的，但不能再多了！我们将优先考虑我们帝国的其他项目。\n\n我们提升所需的资源与我们帝国的殖民地数量成比例。”
+ ascension_moderate_priority_effect:0 “我们将为我们的飞升提供足够的资源，以确保它在合理的时间内完成。\n\n我们飞升所需的资源与我们帝国的殖民地数量成比例。”
+ ascension_high_priority_effect:0 “不惜一切代价！我们越早飞升，我们的帝国就能越早开始新的繁荣时代。\n\n我们飞升所需的资源与我们帝国的殖民地数量成正比。”
+ war_during_ascension:0 “我们在打仗！资源被转移用于战争”
+ complied_fallen_empire:0 “我们正在遵守要求中止我们的扬升努力......至少在纸面上”
+ does_not_meet_ascension_fleet_power_requirement:0 “我们没有足够的舰队力量成为优势”
+ subject_ascension_disallowed:0 “不允许主体提升”
  
- situation_re_ascension_type:0 "The Return of the Ringworld Empire"
- situation_re_ascension:0 "The Return of the Ringworld Empire"
- situation_re_ascension_desc:0 "At the height of their power, our ancestors were masters of the galaxy and all possibilities were within reach.\n\nBut the path to greatness is not always linear, and at times choices and sacrifices must be made. Now it is our turn to choose."
- situation_re_ascension_monthly_change_tooltip:0 "The progress of this §YSituation§! is dependent on the §YApproach§! we pick. Increase our investments to speed up the ascension process."
+ situation_re_ascension_type:0 《环界帝国归来》
+ situation_re_ascension:0 《环界帝国归来》
+ situation_re_ascension_desc:0 “在他们权力的巅峰时期，我们的祖先是银河系的主宰，所有的可能性都触手可及。\n\n但通往伟大的道路并不总是直线的，有时必须做出选择和牺牲。现在轮到我们了,去选择。”
+ situation_re_ascension_monthly_change_tooltip:0 “这种§Y情况§!的进展取决于我们选择的§Y方法§!。增加我们的投资以加速扬升过程。”
  
- re_ascension_stage_0_tooltip:0 "All levels of society are to be mobilized, bracing themselves for a revolution brought about by the discovery of §Y$tech_dark_matter_power_core$§!."
- re_ascension_stage_1_tooltip:0 "Using an advanced form of Dark Matter manipulation, our ancestors' technological mastery enabled entire industries to run autonomously, freeing their population to live out the rest of their lives in self-determined and hedonistic ways.\n\nIf we apply ourselves to study how Dark Matter is manipulated in this way, we will be able to replicate and rebuild these technological marvels for a fully efficient economy."
- re_ascension_stage_2_tooltip:0 "At the zenith of civilisation, citizens are united by a single, fanatical ideal. With their thunderous applause, our society will transform, unlocking new civics and buildings for our Ascended Society."
- re_ascension_stage_3_tooltip:0 "Unfortunately, our ships and cities still take the same appearance as the first day we achieved spaceflight, which no longer reflect an empire of our current stature. Perhaps some designs borrowed from our ancestors would both serve to intimidate our enemies and deter future invasions."
- re_ascension_stage_4_tooltip:0 "The Ancestors were masters of warfare, their doctrines tried and tested by the fires of the Great Crusade. Studying their combat tactics and their weaponry will greatly enhance our own capabilities, allowing us to fight with a millennia of experience and lessons born of the Great Crusade."
- re_ascension_stage_5_tooltip:0 "We must have galactic ambitions befitting of our stature and power, projecting our influence across all edges of the galaxy. New edicts and campaigns would ensure the continued prosperity and stability of our empire."
- re_ascension_stage_6_tooltip:0 "Perfection can be engineered, when our engineering skills are in turn perfected. This will allow us to create true wonders of the universe."
- ringworld_empire_ascension:0 "We are the Ringworld Empire"
+ re_ascension_stage_0_tooltip:0 “社会各阶层都将动员起来，为 §Y$tech_dark_matter_power_core$§! 的发现所带来的革命做好准备。”
+ re_ascension_stage_1_tooltip:0 “使用一种高级形式的暗物质操纵，我们祖先的技术掌握使整个行业能够自主运行，使他们的人民能够以自主和享乐的方式度过余生。\n\n如果我们致力于研究,如何以这种方式操纵暗物质，我们将能够复制和重建这些技术奇迹，以实现完全高效的经济。”
+ re_ascension_stage_2_tooltip:0 “在文明的顶峰，公民们被一个单一的、狂热的理想团结在一起。在他们雷鸣般的掌声中，我们的社会将发生转变，为我们的扬升社会解锁新的公民和建筑。”
+ re_ascension_stage_3_tooltip:0 “不幸的是，我们的船只和城市仍然保持着我们实现太空飞行的第一天的样子，不再反映我们现在的帝国地位。也许从我们祖先那里借来的一些设计既可以威慑我们的敌人，又可以阻止未来的入侵。 ,“
+ re_ascension_stage_4_tooltip:0 “祖先是战争大师，他们的学说经过大远征的战火考验。研究他们的战术和武器装备将极大地提高我们自己的能力，使我们能够凭借伟大的千年经验和教训进行战斗,运动。”
+ re_ascension_stage_5_tooltip:0 “我们必须拥有与我们的地位和权力相称的银河野心，将我们的影响力投射到银河系的所有边缘。新的法令和运动将确保我们帝国的持续繁荣和稳定。”
+ re_ascension_stage_6_tooltip:0 “当我们的工程技能反过来完善时，可以设计出完美。这将使我们能够创造出真正的宇宙奇迹。”
+ ringworld_empire_ascension:0 “我们是环世界帝国”
  
- situation_oe_ascension_type:0 "The Return of the Original Empire"
- situation_oe_ascension:0 "The Return of the Original Empire"
- situation_oe_ascension_desc:0 "At the height of its power, the Original Empire was the sole superpower in the galaxy and all civilizations bowed to its might.\n\nBut repeating the past is no simple task, and at times choices and sacrifices must be made. Now it is our turn to choose."
- situation_oe_ascension_monthly_change_tooltip:0 "The progress of this §YSituation§! is dependent on the §YApproach§! we pick. Increase our investments to speed up the ascension process."
+ situation_oe_ascension_type:0 《回归原始帝国》
+ situation_oe_ascension:0 《回归原始帝国》
+ situation_oe_ascension_desc:0 "在其权力的鼎盛时期，原始帝国是银河系中唯一的超级大国，所有文明都屈服于它的力量。\n\n但重蹈覆辙并非易事，有时必须做出选择和牺牲。现在,轮到我们选择了。”
+ situation_oe_ascension_monthly_change_tooltip:0 “这种§Y情况§!的进展取决于我们选择的§Y方法§!。增加我们的投资以加速扬升过程。”
  
- oe_ascension_stage_0_tooltip:0 "All levels of society are to be mobilized, bracing themselves for a revolution brought about by the discovery of §Y$tech_dark_matter_power_core$§!."
- oe_ascension_stage_1_tooltip:0 "Using an advanced form of Dark Matter manipulation, the Original Empire's technological mastery enabled entire industries to run autonomously, freeing their population to live out the rest of their lives in self-determined and hedonistic ways.\n\nIf we apply ourselves to study how Dark Matter is manipulated in this way, we will be able to replicate and rebuild these technological marvels for a fully efficient economy."
- oe_ascension_stage_2_tooltip:0 "At the zenith of civilisation, citizens are united by a single, fanatical ideal. With their thunderous applause, our society will transform, unlocking new civics and buildings for our Ascended Society."
- oe_ascension_stage_3_tooltip:0 "Unfortunately, our ships and cities still take the same appearance as the first day we achieved spaceflight, which no longer reflect an empire of our current stature. Perhaps some designs borrowed from our ancestors would both serve to intimidate our enemies and deter future invasions."
- oe_ascension_stage_4_tooltip:0 "The Original People were masters of warfare, their doctrines tried and tested by the fires of the Great Crusade. Studying their combat tactics and their weaponry will greatly enhance our own capabilities, allowing us to fight with a millennia of experience and lessons born of the Great Crusade."
- oe_ascension_stage_5_tooltip:0 "We must have galactic ambitions befitting of our stature and power, projecting our influence across all edges of the galaxy. New edicts and campaigns would ensure the continued prosperity and stability of our empire."
- oe_ascension_stage_6_tooltip:0 "Perfection can be engineered, when our engineering skills are in turn perfected. This will allow us to create true wonders of the universe."
- original_empire_ascension:0 "We are the Original People"
+ oe_ascension_stage_0_tooltip:0 “社会各阶层都将动员起来，为 §Y$tech_dark_matter_power_core$§! 的发现所带来的革命做好准备。”
+ oe_ascension_stage_1_tooltip:0 “使用一种高级形式的暗物质操纵，原始帝国的技术掌握使整个行业能够自主运行，让他们的人民以自主和享乐的方式度过余生。\n\n如果我们致力于研究,如何以这种方式操纵暗物质，我们将能够复制和重建这些技术奇迹，以实现完全高效的经济。”
+ oe_ascension_stage_2_tooltip:0 “在文明的顶峰，公民们被一个单一的、狂热的理想团结在一起。在他们雷鸣般的掌声中，我们的社会将发生转变，为我们的扬升社会解锁新的公民和建筑。”
+ oe_ascension_stage_3_tooltip:0 “不幸的是，我们的船只和城市仍然保持着我们实现太空飞行的第一天的样子，不再反映我们现在的帝国地位。也许从我们祖先那里借来的一些设计既可以威慑我们的敌人，又可以阻止未来的入侵。 ,“
+ oe_ascension_stage_4_tooltip:0 “原住民是战争大师，他们的学说经过大远征的战火考验。研究他们的作战策略和武器装备将极大地提高我们自己的能力，使我们能够凭借数千年的经验和教训进行战斗,伟大的十字军东征。”
+ oe_ascension_stage_5_tooltip:0 “我们必须拥有与我们的地位和权力相称的银河野心，将我们的影响力投射到银河系的所有边缘。新的法令和运动将确保我们帝国的持续繁荣和稳定。”
+ oe_ascension_stage_6_tooltip:0 “当我们的工程技能反过来完善时，可以设计出完美。这将使我们能够创造出真正的宇宙奇迹。”
+ original_empire_ascension:0 “我们是原始人”
 
- situation_zofe_dark_matter_type:0 "The Quest for §Y$tech_dark_matter_power_core$§!"
- situation_zofe_dark_matter:0 "The Quest for §Y$tech_dark_matter_power_core$§!"
- situation_zofe_dark_matter_desc:0 "Our [GetScientistPlural] have concluded that §Y$tech_dark_matter_power_core$§! is in fact the foundation of precursor empires and their wonderous technologies. Unlocking its secrets would in turn, propel our civilization to be amongst the most advanced in this galaxy."
+ situation_zofe_dark_matter_type:0 “寻找 §Y$tech_dark_matter_power_core$§！”
+ situation_zofe_dark_matter:0 “寻找 §Y$tech_dark_matter_power_core$§！”
+ situation_zofe_dark_matter_desc:0 “我们的 [GetScientistPlural] 已经得出结论，§Y$tech_dark_matter_power_core$§! 实际上是先驱帝国及其奇妙技术的基础。解开它的秘密将反过来推动我们的文明跻身于这个银河系中最先进的文明行列。”
 
- situation_zofe_dark_matter_monthly_change_tooltip:0 "The progress of this §YSituation§! is dependent on the §YApproach§! we pick."
+ situation_zofe_dark_matter_monthly_change_tooltip:0 “这种§Y情况§!的进展取决于我们选择的§Y方法§!。”
  
- zofe_dark_matter_stage_0_tooltip:0 "As a first step, our [GetScientistPlural] propose we set up a lab to study all the properties of §Y$sr_dark_matter$§!. After all, how could we make something of §Y$sr_dark_matter$§! if it is, by definition, invisible?\n\nMany papers will be published during this periord about the characteristics of §Y$sr_dark_matter$§!, and our science team will attempt to build new instruments to further our research and understanding of this elusive substance."
- zofe_dark_matter_stage_1_tooltip:0 "Now that we have understood how to activate §Y$sr_dark_matter$§! for it to be usable, we require a new reactor design to store them. There remain engineering challenges to overcome, since §Y$sr_dark_matter$§! can only be activated at extreme temperatures with agents at a specific pressure.\n\nDespite being a potentially dangerous phase of our research, our [GetScientistPlural] are unfazed by the challenges ahead."
- zofe_dark_matter_stage_2_tooltip:0 "To unlock the true potential of §Y$sr_dark_matter$§!, it must first be activated and then split up by firing particles at it to create fission, releasing enough energy to power a whole civilization, and a new age.\n\nHowever, finding the right particles and firing at it accurately is tricky, unless we find a way to bend the gravitational fields around where the fusion takes place. If this conundrum is solved, we will be one step closer to achieving a real breakthrough."
- zofe_dark_matter_stage_3_tooltip:0 "Having successfully overcome the challenges in creating §Y$sr_dark_matter$§! Fission, our [GetScientistPlural] now set their sights on creating a functioning prototype that could sustain §Y$sr_dark_matter$§! Fission by itself. This is no small feat, because there is a high probability of explosion resulting in loss of lives, once the safeguards of a lab is taken away."
- zofe_dark_matter_finish_tooltip:0 "We will achieve a scientific breakthrough and acquire §Y$tech_dark_matter_power_core$§!."
- zofe_dark_matter_fail_tooltip:0 "We will fail to develop §Y$tech_dark_matter_power_core$§!."
+ zofe_dark_matter_stage_0_tooltip:0 “作为第一步，我们的 [GetScientistPlural] 建议我们建立一个实验室来研究 §Y$sr_dark_matter$§! 的所有属性。毕竟，如果是的话，我们怎么能做出 §Y$sr_dark_matter$§! 的东西，,根据定义，隐形？\n\n在此期间将发表许多关于 §Y$sr_dark_matter$§! 特性的论文，我们的科学团队将尝试建造新仪器以进一步研究和理解这种难以捉摸的物质。”
+ zofe_dark_matter_stage_1_tooltip:0 “既然我们已经了解如何激活 §Y$sr_dark_matter$§! 使其可用，我们需要一个新的反应堆设计来存储它们。还有工程挑战需要克服，因为 §Y$sr_dark_matter$§! 只能是,在极端温度下使用特定压力下的试剂激活。\n\n尽管这是我们研究的潜在危险阶段，但我们的 [GetScientistPlural] 对未来的挑战并不担心。”
+ zofe_dark_matter_stage_2_tooltip:0 “要释放 §Y$sr_dark_matter$§! 的真正潜力，它必须首先被激活，然后通过向它发射粒子来分裂以产生裂变，释放出足够的能量来为整个文明和一个新时代提供动力。\n\ ,nHowever, 找到正确的粒子并准确地发射它是很棘手的，除非我们找到一种方法来弯曲发生聚变的地方周围的引力场。如果这个难题得到解决，我们将离实现真正的突破更近一步。”
+ zofe_dark_matter_stage_3_tooltip:0 “在成功克服创建 §Y$sr_dark_matter$§! 裂变的挑战后，我们的 [GetScientistPlural] 现在将目光投向了创建一个可以自行维持 §Y$sr_dark_matter$§! 裂变的功能原型。这可不是一件小事，,因为一旦实验室的防护措施被取消，极有可能发生爆炸并导致人员伤亡。”
+ zofe_dark_matter_finish_tooltip:0 “我们将取得科学突破并获得 §Y$tech_dark_matter_power_core$§!。”
+ zofe_dark_matter_fail_tooltip:0 “我们将无法开发 §Y$tech_dark_matter_power_core$§!。”
  
- approach_dark_matter_low_priority:0 "Low Focus"
- approach_dark_matter_moderate_priority:0 "Moderate Focus"
- approach_dark_matter_high_priority:0 "High Focus"
+ approach_dark_matter_low_priority:0 “低焦点”
+ approach_dark_matter_moderate_priority:0 “适度专注”
+ approach_dark_matter_high_priority:0 “高度专注”
  
- dark_matter_low_priority_effect:0 "We're not in a rush. Invest what we can spare."
- dark_matter_moderate_priority_effect:0 "The project will receive the funding and resources it needs."
- dark_matter_high_priority_effect:0 "We will make achieving §Y$tech_dark_matter_power_core$§! our top priority." 
+ dark_matter_low_priority_effect:0 “我们并不着急。投资我们可以节省的东西。”
+ dark_matter_moderate_priority_effect:0 “该项目将获得所需的资金和资源。”
+ dark_matter_high_priority_effect:0 “我们将把实现 §Y$tech_dark_matter_power_core$§! 作为我们的首要任务。”
  
- situation_zofe_decadence_type:0 "Decadence"
- situation_zofe_decadence:0 "Decadence"
- situation_zofe_decadence_desc:0 "No longer at the height of its power, an Ascendancy must contemplate its next move.\n\nIn the end, once you have reached the highest places in the universe, the only place left is to go down. But in what way?"
- situation_zofe_decadence_monthly_change_tooltip:0 "The progress of this §YSituation§! is dependent on the §YApproach§! we pick. Embrace societal decadence to speed up our transition to a Fallen Empire."
+ situation_zofe_decadence_type:0 《颓废》
+ situation_zofe_decadence:0 《颓废》
+ situation_zofe_decadence_desc:0 “不再处于其权力的顶峰，优势必须考虑下一步行动。\n\n最后，一旦你到达了宇宙中的最高点，唯一剩下的地方就是下降。但以什么方式？ ,“
+ situation_zofe_decadence_monthly_change_tooltip:0 “这种§Y情况§!的进展取决于我们选择的§Y方法§!。拥抱社会颓废以加速我们向堕落帝国的过渡。”
  
- situation_zofe_decadence_machine_type:0 "Malware Infection"
- situation_zofe_decadence_machine:0 "Malware Infection"
- situation_zofe_decadence_machine_desc:0 "A mysterious virus has infected our Machine Intelligence, progressively impairing our functions. While this continues, increasing number of Caretake drones will be required to maintain the basic functions that we once took for granted."
- situation_zofe_decadence_machine_monthly_change_tooltip:0 "The progress of this §YSituation§! is dependent on the §YApproach§! we pick. Embrace the virus to speed up our transition to a Fallen Empire."
+ situation_zofe_decadence_machine_type:0 “恶意软件感染”
+ situation_zofe_decadence_machine:0 “恶意软件感染”
+ situation_zofe_decadence_machine_desc:0 “一种神秘的病毒感染了我们的机器智能，逐渐削弱了我们的功能。随着这种情况的继续，将需要越来越多的 Caretake 无人机来维持我们曾经认为理所当然的基本功能。”
+ situation_zofe_decadence_machine_monthly_change_tooltip:0 “这种§Y情况§!的进展取决于我们选择的§Y方法§!。拥抱病毒以加速我们向堕落帝国的过渡。”
  
- situation_zofe_decadence_hive_type:0 "Cordyceptic Infection"
- situation_zofe_decadence_hive:0 "Cordyceptic Infection"
- situation_zofe_decadence_hive_desc:0 "A mysterious fungi has infected our Hive Mind, progressively impairing our functions, feeding off of the bio-mass. While this continues, increasing number of drones will become confused and operate outside of the Mind's control."
- situation_zofe_decadence_hive_monthly_change_tooltip:0 "The progress of this §YSituation§! is dependent on the §YApproach§! we pick. Embrace the sickness to speed up our transition to a Fallen Empire."
+ situation_zofe_decadence_hive_type:0 “虫体感染”
+ situation_zofe_decadence_hive:0 “虫体感染”
+ situation_zofe_decadence_hive_desc:0 “一种神秘的真菌感染了我们的蜂群思维，逐渐损害我们的功能，以生物量为食。随着这种情况的继续，越来越多的无人机将变得混乱，并在思维的控制之外运作。”
+ situation_zofe_decadence_hive_monthly_change_tooltip:0 “这种§Y情况§!的进展取决于我们选择的§Y方法§!。拥抱疾病以加速我们向堕落帝国的过渡。”
 
- become_lost_empire:2 "We will become a §HFallen Empire§!"
- describe_lost_empire:0 "\nNo longer at the zenith of civilization, citizens nevertheless cling to their single, fanatical ideal. §HFallen Empires§! are content to sit within the comfort of its borders and observe the galaxy for its own amusement.\n"
- become_lost_hive_mind:2 "We will become an §HFallen Empire§!"
- describe_lost_hive_mind:0 "\nSuccumbed to the sickness, the abilities of the Mind has weakened. §HFallen Hive Minds§! will instead attempt to maintain connection to the remaining drones under its command to prevent further decay.\n"
- become_lost_machine:2 "We will become an §HFallen Empire§!"
- describe_lost_machine:0 "\nSuccumbed to the virus, the Machine Consciousness has weakened. §HFallen Machine Empires§! will instead direct the majority of efforts towards maintaining existing functionalities to prevent further decay.\n"
+ become_lost_empire:2 “我们将成为§H堕落帝国§！”
+ describe_lost_empire:0 “\n不再处于文明的顶峰，公民们仍然坚持他们单一的、狂热的理想。§HFallen Empires§! 满足于坐在舒适的边界内，观察银河系以自娱自乐。\n”
+ become_lost_hive_mind:2 “我们将成为一个§H堕落的帝国§！”
+ describe_lost_hive_mind:0 “\n屈服于疾病，心灵的能力已经减弱。§H堕落的虫巢思想§!将改为尝试与它指挥下的剩余无人机保持联系，以防止进一步衰退。\n”
+ become_lost_machine:2 “我们将成为一个§H堕落的帝国§！”
+ describe_lost_machine:0 “\n受病毒影响，机器意识已经减弱。§H堕落的机器帝国§!将把大部分精力用于维护现有功能以防止进一步衰退。\n”
 
 # zofe_decadence_stage_0_tooltip:0 "All levels of society are motivated and ready for a new era of renewed Ascendancy."
 # zofe_decadence_stage_1_tooltip:0 "Getting Better"
@@ -106,46 +106,46 @@
 # zofe_decadence_stage_6_tooltip:0 "Very Bad."
 # zofe_decadence_stage_7_tooltip:0 "Very, Very Bad."
 
- zofe_decadence_fail_tooltip:0 "We will retain our status as an Ascendancy, for a time. There is no telling if societal decadence would ever return in the future."
- zofe_decadence_machine_fail_tooltip:0 "We will retain our status as an Ascendancy, for a time. There is no telling if the virus would return in the future."
- zofe_decadence_hive_fail_tooltip:0 "We will retain our status as an Ascendancy, for a time. There is no telling if the sickness would return in the future."
+ zofe_decadence_fail_tooltip:0 “我们将在一段时间内保持优势地位。不知道社会颓废是否会在未来卷土重来。”
+ zofe_decadence_machine_fail_tooltip:0 “我们将在一段时间内保持优势地位。不知道病毒是否会在未来卷土重来。”
+ zofe_decadence_hive_fail_tooltip:0 “我们将在一段时间内保持优势地位。不知道这种疾病是否会在未来复发。”
  
- approach_decadence_low_priority:0 "Do Nothing"
- approach_decadence_moderate_priority:0 "Moderate Intervention"
- approach_decadence_high_priority:0 "Heavy Intervention"
+ approach_decadence_low_priority:0 “没做什么”
+ approach_decadence_moderate_priority:0 “适度干预”
+ approach_decadence_high_priority:0 “强干预”
  
- approach_decadence_machine_low_priority:0 "Do Nothing"
- approach_decadence_machine_moderate_priority:0 "Moderate Intervention"
- approach_decadence_machine_high_priority:0 "Heavy Intervention"
+ approach_decadence_machine_low_priority:0 “没做什么”
+ approach_decadence_machine_moderate_priority:0 “适度干预”
+ approach_decadence_machine_high_priority:0 “强干预”
  
- approach_decadence_hive_low_priority:0 "Do Nothing"
- approach_decadence_hive_moderate_priority:0 "Moderate Intervention"
- approach_decadence_hive_high_priority:0 "Heavy Intervention"
+ approach_decadence_hive_low_priority:0 “没做什么”
+ approach_decadence_hive_moderate_priority:0 “适度干预”
+ approach_decadence_hive_high_priority:0 “强干预”
  
- decadence_low_priority_effect:0 "Our time as an Ascendancy is over. We will accept our time has passed and bow out of the galactic stage."
- decadence_moderate_priority_effect:0 "Our time as an Ascendancy is over, but we can delay our fall through state intervention."
- decadence_high_priority_effect:0 "We refuse to believe our time is over, and we will do everything we can to rejuvenate our Ascendancy."
+ decadence_low_priority_effect:0 “我们作为优势的时代结束了。我们将接受我们的时代已经过去，并退出银河舞台。”
+ decadence_moderate_priority_effect:0 “我们作为统治者的时代已经结束，但我们可以通过国家干预来延缓我们的衰落。”
+ decadence_high_priority_effect:0 “我们不相信我们的时代已经结束，我们将竭尽所能重振我们的统治地位。”
  
- decadence_machine_low_priority_effect:0 "Our time as an Ascendancy is over. We will accept our time has passed and allow the virus to take root."
- decadence_machine_moderate_priority_effect:0 "Our time as an Ascendancy is over, but we can delay and slow down the spread of the virus."
- decadence_machine_high_priority_effect:0 "Our time is not over! The virus must be rooted out and removed from the system at all costs!"
+ decadence_machine_low_priority_effect:0 “我们作为统治者的时代结束了。我们将接受我们的时代已经过去，让病毒生根发芽。”
+ decadence_machine_moderate_priority_effect:0 “我们作为统治者的时代已经结束，但我们可以延缓和减缓病毒的传播。”
+ decadence_machine_high_priority_effect:0 “我们的时代还没有结束！病毒必须被根除，不惜一切代价从系统中清除！”
  
- decadence_hive_low_priority_effect:0 "Our time as an Ascendancy is over. We will accept our time has passed and allow the sickness to take root."
- decadence_hive_moderate_priority_effect:0 "Our time as an Ascendancy is over, but we can delay and slow down the spread of this sickness."
- decadence_hive_high_priority_effect:0 "Our time is not over! This sickness must be cured at all costs!"
+ decadence_hive_low_priority_effect:0 “我们作为统治者的时代结束了。我们将接受我们的时代已经过去，让疾病生根发芽。”
+ decadence_hive_moderate_priority_effect:0 “我们作为统治者的时代已经结束，但我们可以延缓和减缓这种疾病的传播。”
+ decadence_hive_high_priority_effect:0 “我们的时代还没有结束！这个病必须不惜一切代价治好！”
  
- war_during_decadence:0 "We are at war! It will unite our empire for a time."
- war_during_decadence_machine:0 "We are at war! The virus is suppressed by overdrives in other functions for now."
- war_during_decadence_hive:0 "We are at war! The senses of the Mind is temporarily heightened, surpressing the spread of the sickness."
+ war_during_decadence:0 “我们在打仗！它将暂时统一我们的帝国。”
+ war_during_decadence_machine:0 “我们处于战争状态！病毒暂时被其他功能的超速驱动所抑制。”
+ war_during_decadence_hive:0 “我们处于战争状态！心灵的感觉暂时增强，抑制了疾病的蔓延。”
  
- does_not_meet_ascension_fleet_power_requirement:0 "We don't have enough fleet power to remain our Ascendancy!"
- meet_ascension_fleet_power_requirement:0 "We have enough fleet power to remain as an Ascendancy."
+ does_not_meet_ascension_fleet_power_requirement:0 “我们没有足够的舰队力量来维持我们的优势！”
+ meet_ascension_fleet_power_requirement:0 “我们有足够的舰队力量来保持优势地位。”
  
- situation_zofe_descension_type:0 "The Fall of an Ascendancy"
- situation_zofe_descension:0 "The Fall of an Ascendancy"
- situation_zofe_descension_desc:0 "The lack of naval assets to maintain an Ascendancy leads to multiple questions regarding the future of [Owner.GetName] and its role within the wider galaxy."
- situation_zofe_descension_monthly_change_tooltip:0 "The progress of this §YSituation§! is dependent on the §YApproach§! we pick. Increase our the size of our fleets at once to avoid becoming a Fallen Empire."
+ situation_zofe_descension_type:0 “优势的衰落”
+ situation_zofe_descension:0 “优势的衰落”
+ situation_zofe_descension_desc:0 “缺乏维持优势的海军资产导致了关于 [Owner.GetName] 的未来及其在更广泛银河系中的作用的多重问题。”
+ situation_zofe_descension_monthly_change_tooltip:0 “这种§Y情况§!的进展取决于我们选择的§Y方法§!。立即增加我们舰队的规模以避免成为堕落的帝国。”
  
- zofe_descension_fail_tooltip:0 "We will retain our status as an Ascendancy, backed by a large naval force."
- deficit_approach_rebuild_navy:0 "Invest in Ship Building"
+ zofe_descension_fail_tooltip:0 “我们将在一支庞大的海军力量的支持下，保持优势地位。”
+ deficit_approach_rebuild_navy:0 “投资造船”
  

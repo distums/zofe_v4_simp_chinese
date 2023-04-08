@@ -9,7 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=19"
+  },
   "dependencies": {
-    "glob": "^9.3.4"
+    "glob": "^9.3.4",
+    "translate": "^1.4.1"
   }
 }
