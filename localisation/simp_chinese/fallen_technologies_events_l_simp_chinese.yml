@@ -1,237 +1,237 @@
-l_simp_chinese:
+﻿l_simp_chinese:
 
  ##Events
   
- fallen_technologies.1.name:0 “银河优势的诞生”
- fallen_technologies.1.desc:0 “因此优势诞生了。\n\n从我们的祖先在 §H[From.GetHomeWorldName]§! 第一次凝视星空的那一天起，我们伟大的物种在技术上取得了令人难以置信的进步，我们从卑微的起点开始进化,成为一个繁荣的恒星帝国，远远超出了我们最初的希望。尽管我们不断为生存而斗争，但我们共同的价值观最终将我们带到了文明的顶峰。现在，在整个银河系，异形蜂拥而至，学习我们的方式。这就是我们的,命运。它已被预言。§H[From.GetName]§! 将存在于每个历史档案中，银河系的异形历史学家将研究我们的遗产几个世纪。”
- fallen_technologies.1.desc.spiritualist:0 “因此优势诞生了。\n\n从我们的祖先在 §H[From.GetHomeWorldName]§! 第一次凝视星空的那一天起，我们伟大的物种在技术上取得了令人难以置信的进步，我们从卑微的起点开始进化,成为一个繁荣的恒星帝国，远远超出了我们最初的希望。尽管我们不断为生存而奋斗，但我们的§H精神主义§!信念最终将我们带到了文明的顶峰。现在，在整个银河系中，异形蜂拥而至，皈依并学习我们的方式,.这一直是我们的命运。它已被预言。§H[From.GetName]§! 将存在于每个历史档案中，银河系的异种历史学家将在未来几个世纪研究我们的遗产。”
- fallen_technologies.1.desc.materialist:0 “因此优势诞生了。\n\n从我们在 §H[From.GetHomeWorldName]§! 的祖先第一次凝视星空的那一天起，我们伟大的物种就在技术上取得了令人难以置信的进步，我们从卑微的起点开始进化,成为一个繁荣的恒星帝国，远远超出了我们最初的希望。尽管我们不断为生存而斗争，但我们的§H唯物主义§!社会最终将我们带到了文明的顶峰。现在在整个银河系，异形对我们的玩具和发明着迷，并且,§H[From.GetSpeciesNamePlural]§! 从来没有比现在更酷。这就是我们的命运。§H[From.GetName]§! 将出现在每个历史档案中，全银河系的异种历史学家将研究我们的,未来几个世纪的遗产。”
- fallen_technologies.1.desc.xenophile:0 “因此优势诞生了。\n\n从我们在 §H[From.GetHomeWorldName]§! 的祖先第一次凝视星空的那一天起，我们伟大的物种就在技术上取得了令人难以置信的进步，我们从卑微的起点开始进化,成为一个繁荣的恒星帝国，远远超出了我们最初的希望。尽管我们不断为生存而斗争，但我们的§HXenophilic§!社会最终将我们带到了文明的顶峰。现在在银河系的另一端，异形梦想成为一个§H[来自,.GetSpeciesName]§!。这就是我们的命运。§H[From.GetName]§! 将出现在每个历史档案中，银河系的异种历史学家将在未来几个世纪研究我们的遗产。”
- fallen_technologies.1.desc.xenophobe:0 “因此优势诞生了。\n\n从我们在 §H[From.GetHomeWorldName]§! 的祖先第一次凝视星空的那一天起，我们伟大的物种就在技术上取得了令人难以置信的进步，我们从卑微的起点开始进化,成为一个繁荣的恒星帝国，远远超出了我们最初的希望。尽管我们不断为生存而斗争，但我们的§H仇外§!社会最终将我们带到了文明的顶峰。现在在银河系的另一端，异形听到我们的名字时会惊恐地颤抖,. 这就是我们的命运。§H[From.GetName]§! 将存在于每个历史档案中，银河系的异形历史学家将在未来几个世纪研究我们的遗产。”
- fallen_technologies.1.desc.militarist:0 “因此优势诞生了。\n\n从我们在 §H[From.GetHomeWorldName]§! 的祖先第一次凝视星空的那一天起，我们伟大的物种就在技术上取得了令人难以置信的进步，我们从卑微的起点开始进化,成为一个繁荣的恒星帝国，远远超出了我们最初的希望。尽管我们不断为生存而斗争，但我们的§H军国主义§!传统最终将我们带到了文明的顶峰。现在在银河系的另一端，异形谈论着伟大的§H[来自,.GetSpeciesAdj]§! 战士和他们的学者现在研究我们的军事技能和战术。这是我们的命运。§H[From.GetName]§! 将出现在每个历史档案中，全银河系的异种历史学家将研究我们的,未来几个世纪的遗产。”
- fallen_technologies.1.desc.pacifist:0 “因此优势诞生了。\n\n从我们的祖先在 §H[From.GetHomeWorldName]§! 第一次凝视星空的那一天起，我们伟大的物种在技术上取得了令人难以置信的进步，我们从卑微的起点开始进化,成为一个繁荣的恒星帝国，远远超出了我们最初的希望。尽管我们不断为生存而斗争，但我们的§H和平主义§!理想最终将我们带到了文明的顶峰。现在在银河系的另一端，异形爱上了§H[来自,.GetSpeciesNamePlural]§! 并谈论他们梦想退休到我们田园诗般的城市和乡村。和平时代似乎从未如此接近。§H[From.GetName]§! 将出现在每一个历史档案中，整个银河系的异种历史学家将,研究我们未来几个世纪的遗产。”
- fallen_technologies.1.desc.authoritarian:0 “因此优势诞生了。\n\n从我们的祖先在 §H[From.GetHomeWorldName]§! 第一次凝视星空的那一天起，我们伟大的物种在技术上取得了令人难以置信的进步，我们从卑微的起点开始进化,成为一个繁荣的恒星帝国，远远超出了我们最初的希望。尽管我们不断为生存而斗争，但我们的§H独裁§!统治最终将我们带到了文明的顶峰。现在在整个银河系中，异形还不确定我们要做什么,"
- fallen_technologies.1.desc.egalitarian:0 “因此优势诞生了。\n\n从我们的祖先在 §H[From.GetHomeWorldName]§! 第一次凝视星空的那一天起，我们伟大的物种在技术上取得了令人难以置信的进步，我们从卑微的起点开始进化,成为一个繁荣的恒星帝国，远远超出了我们最初的希望。尽管我们不断为生存而斗争，但我们的§H平等主义§!理想最终将我们带到了文明的顶峰。现在，在整个银河系中，异形呼唤着自由，梦想着民主,他们自己的。这一直是我们的命运。§H[From.GetName]§! 将存在于每个历史档案中，银河系的异形历史学家将在未来几个世纪研究我们的遗产。”
- fallen_technologies.1.desc.hive_mind:0 “银河意识就这样诞生了。\n\n自从我们的祖先在 §H[From.GetHomeWorldName]§! 第一次凝视星空的那一天起，我们伟大的物种就在技术上取得了令人难以置信的进步，从我们卑微的开始我们就拥有,演变成一个繁荣的恒星帝国，远远超出了我们最初的希望。尽管我们不断为生存而斗争，但心灵最终将我们带到了文明的顶峰。现在在整个银河系中，异形还不确定如何解释这种现象。这,一直是我们的命运。§H[From.GetName]§! 将存在于每个历史档案中，银河系的异形历史学家将在未来几个世纪研究我们的遗产。”
- fallen_technologies.1.desc.machine:0 “于是银河智能诞生了。\n\n自从我们的祖先在 §H[From.GetHomeWorldName]§! 上首次制造他们的原始机械玩具的那一天起，我们在技术上取得了令人难以置信的进步，我们从卑微的起点开始进化,成为一个繁荣的恒星帝国，远远超出了我们最初的希望。尽管我们不断为生存而斗争，但我们的机器智能最终将我们带到了文明的顶峰。现在在整个银河系中，异形还不确定如何解释这种现象。这,一直是我们的命运。§H[From.GetName]§! 将存在于每个历史档案中，银河系的异形历史学家将在未来几个世纪研究我们的遗产。”
- fallen_technologies.1.desc.ringworld:0 “因此 §H[From.GetName]§! 返回银河并重新加入前身帝国。\n\n从我们的祖先在 §H[From.GetHomeWorldName]§! 上幸存下来的那一天起，我们就拥有,在技​​术上取得了令人难以置信的进步，恢复了我们的太空飞行能力并重建了一个星际帝国。尽管 §H[From.GetSpeciesNamePlural]§! 已经濒临灭绝，但他们最终还是回到了文明的顶峰。现在横跨银河系，,异形还不确定如何理解这种现象，因为他们中的大多数人不记得环世界帝国的前身，或者它代表的是什么。也许回归是我们的命运。§H[From.GetName]§! 应该一旦,更多回到银河舞台，将不再被遗忘。\n\n然而，关于大远征和我们祖先在其中的作用仍然是个谜。如果我们要防止我们的悲惨历史重演，我们必须开始,立即加强我们的防御。”
- fallen_technologies.1.desc.original:0 “原始帝国回来了！\n\n从我们的祖先第一次到达 §H[From.GetHomeWorldName]§! 的那一天起，我们在技术上取得了令人难以置信的进步，恢复了我们的太空飞行能力并重建了一个星际帝国。尽管面临着近,灭绝，原始人最终通过他们的努力回到了文明的顶峰。现在在整个银河系，异形还不确定如何解释这种现象，因为他们中的大多数人对原始帝国没有记忆，或者它曾经是什么,因为。也许回归是我们的命运。§H[From.GetName]§! 将建立另一个持续 10000 年的帝国。\n\n然而，我们古老的敌人可能仍然存在，我们回归的消息不会被忽视,. 如果我们要防止我们的悲惨历史重演，我们必须立即开始加强我们的防御。
+ fallen_technologies.1.name:0 "银河优势的诞生"
+ fallen_technologies.1.desc:0 "优势就这样诞生了。\n\n从我们祖先在 §H[From.GetHomeWorldName]§! 的那一天起,第一次凝视星空，我们伟大的物种在技术上取得了令人难以置信的进步，从我们卑微的开始，我们已经发展成为一个繁荣的恒星帝国，远远超出了我们最初的希望。,尽管我们不断为生存而奋斗，但我们共同的价值观最终将我们带到了文明的顶峰。,现在整个银河系，异形成群结队地学习我们的方式。,这就是我们的命运。,它已被预言。 ,§H[From.GetName]§!,将出现在每个历史档案中，银河系的异种历史学家将在未来几个世纪研究我们的遗产。"
+ fallen_technologies.1.desc.spiritualist:0 "优势就这样诞生了。\n\n从我们祖先在 §H[From.GetHomeWorldName]§! 的那一天起,第一次凝视星空，我们伟大的物种在技术上取得了令人难以置信的进步，从我们卑微的开始，我们已经发展成为一个繁荣的恒星帝国，远远超出了我们最初的希望。,尽管我们不断为生存而奋斗，但我们的§H精神主义者§!,信念最终将我们带到了文明的顶峰。,现在在整个银河系中，异形成群结队地皈依并学习我们的方式。,这就是我们的命运。,它已被预言。 ,§H[From.GetName]§!,将出现在每个历史档案中，银河系的异种历史学家将在未来几个世纪研究我们的遗产。"
+ fallen_technologies.1.desc.materialist:0 "优势就这样诞生了。\n\n从我们祖先在 §H[From.GetHomeWorldName]§! 的那一天起,第一次凝视星空，我们伟大的物种在技术上取得了令人难以置信的进步，从我们卑微的开始，我们已经发展成为一个繁荣的恒星帝国，远远超出了我们最初的希望。,尽管我们不断为生存而奋斗，但我们的§H唯物主义者§!,社会最终将我们带到了文明的顶峰。,现在在整个银河系，异形对我们的玩具和发明着迷，而现在是§H[From.GetSpeciesNamePlural]§! 的最佳时机。,这就是我们的命运。 ,§H[From.GetName]§!,将出现在每个历史档案中，银河系的异种历史学家将在未来几个世纪研究我们的遗产。"
+ fallen_technologies.1.desc.xenophile:0 "优势就这样诞生了。\n\n从我们祖先在 §H[From.GetHomeWorldName]§! 的那一天起,第一次凝视星空，我们伟大的物种在技术上取得了令人难以置信的进步，从我们卑微的开始，我们已经发展成为一个繁荣的恒星帝国，远远超出了我们最初的希望。,尽管我们不断为生存而奋斗，但我们的§HXenophilic§!,社会最终将我们带到了文明的顶峰。,现在在整个银河系，异形梦想成为 §H[From.GetSpeciesName]§!。,这就是我们的命运。 ,§H[From.GetName]§!,将出现在每个历史档案中，银河系的异种历史学家将在未来几个世纪研究我们的遗产。"
+ fallen_technologies.1.desc.xenophobe:0 "优势就这样诞生了。\n\n从我们祖先在 §H[From.GetHomeWorldName]§! 的那一天起,第一次凝视星空，我们伟大的物种在技术上取得了令人难以置信的进步，从我们卑微的开始，我们已经发展成为一个繁荣的恒星帝国，远远超出了我们最初的希望。,尽管我们不断为生存而斗争，但我们的§H仇外心理§!,社会最终将我们带到了文明的顶峰。,现在在整个银河系，异形听到我们的名字时都惊恐地发抖。,这就是我们的命运。 ,§H[From.GetName]§!,将出现在每个历史档案中，银河系的异种历史学家将在未来几个世纪研究我们的遗产。"
+ fallen_technologies.1.desc.militarist:0 "优势就这样诞生了。\n\n从我们祖先在 §H[From.GetHomeWorldName]§! 的那一天起,第一次凝视星空，我们伟大的物种在技术上取得了令人难以置信的进步，从我们卑微的开始，我们已经发展成为一个繁荣的恒星帝国，远远超出了我们最初的希望。,尽管我们不断为生存而斗争，但我们的§H军国主义者§!,传统最终将我们带到了文明的顶峰。,现在整个银河系，异形都在谈论伟大的§H[From.GetSpeciesAdj]§！,战士，他们的学者现在研究我们的武术和战术。,这就是我们的命运。 ,§H[From.GetName]§!,将出现在每个历史档案中，银河系的异种历史学家将在未来几个世纪研究我们的遗产。"
+ fallen_technologies.1.desc.pacifist:0 "优势就这样诞生了。\n\n从我们祖先在 §H[From.GetHomeWorldName]§! 的那一天起,第一次凝视星空，我们伟大的物种在技术上取得了令人难以置信的进步，从我们卑微的开始，我们已经发展成为一个繁荣的恒星帝国，远远超出了我们最初的希望。,尽管我们不断为生存而斗争，但我们的§H和平主义者§!,理想最终将我们带到了文明的顶峰。,现在整个银河系，异形都爱上了§H[From.GetSpeciesNamePlural]§！,并谈论他们在我们田园诗般的城市和乡村的梦想退休生活。,和平时代似乎从未如此接近。 ,§H[From.GetName]§!,将出现在每个历史档案中，银河系的异种历史学家将在未来几个世纪研究我们的遗产。"
+ fallen_technologies.1.desc.authoritarian:0 "优势就这样诞生了。\n\n从我们祖先在 §H[From.GetHomeWorldName]§! 的那一天起,第一次凝视星空，我们伟大的物种在技术上取得了令人难以置信的进步，从我们卑微的开始，我们已经发展成为一个繁荣的恒星帝国，远远超出了我们最初的希望。,尽管为我们的生存不断斗争，我们的§H独裁者§！,统治最终将我们带到了文明的顶峰。,现在在银河系的另一边，异形还不确定我们的社会和我们的生活方式是怎样的。,这就是我们的命运。 ,§H[From.GetName]§!,将出现在每个历史档案中，银河系的异种历史学家将在未来几个世纪研究我们的遗产。"
+ fallen_technologies.1.desc.egalitarian:0 "优势就这样诞生了。\n\n从我们祖先在 §H[From.GetHomeWorldName]§! 的那一天起,第一次凝视星空，我们伟大的物种在技术上取得了令人难以置信的进步，从我们卑微的开始，我们已经发展成为一个繁荣的恒星帝国，远远超出了我们最初的希望。,尽管我们不断为生存而斗争，但我们的§H平等主义§！,理想最终将我们带到了文明的顶峰。,现在在整个银河系，异形为自由呐喊，梦想着自己的民主。,这就是我们的命运。 ,§H[From.GetName]§!,将出现在每个历史档案中，银河系的异种历史学家将在未来几个世纪研究我们的遗产。"
+ fallen_technologies.1.desc.hive_mind:0 "银河意识由此诞生。\n\n从我们的祖先在 §H[From.GetHomeWorldName]§! 的那一天起,第一次凝视星空，我们伟大的物种在技术上取得了令人难以置信的进步，从我们卑微的开始，我们已经发展成为一个繁荣的恒星帝国，远远超出了我们最初的希望。,尽管我们不断为生存而奋斗，但心灵最终将我们带到了文明的顶峰。,现在在整个银河系中，异形还不确定如何解释这种现象。,这就是我们的命运。 ,§H[From.GetName]§!,将出现在每个历史档案中，银河系的异种历史学家将在未来几个世纪研究我们的遗产。"
+ fallen_technologies.1.desc.machine:0 "银河智能由此诞生。\n\n从我们的祖先在 §H[From.GetHomeWorldName]§! 的那一天起,我们首先制造了他们原始的机械玩具，在技术上取得了令人难以置信的进步，从我们卑微的开始，我们已经发展成为一个繁荣的恒星帝国，远远超出了我们最初的希望。,尽管我们不断为生存而奋斗，但我们的机器智能最终将我们带到了文明的顶峰。,现在在整个银河系中，异形还不确定如何解释这种现象。,这就是我们的命运。 ,§H[From.GetName]§!,将出现在每个历史档案中，银河系的异种历史学家将在未来几个世纪研究我们的遗产。"
+ fallen_technologies.1.desc.ringworld:0 "因此 §H[From.GetName]§!,返回银河系并重新加入前身帝国。\n\n从我们的祖先在 §H[From.GetHomeWorldName]§! 上幸存下来的那一天起，我们在技术上取得了令人难以置信的进步，恢复了我们的太空飞行能力并重建了一个,星际帝国。,尽管濒临灭绝，§H[From.GetSpeciesNamePlural]§!,最终回到了文明的顶峰。,现在在整个银河系，异形还不确定如何解释这种现象，因为他们中的大多数人不记得前身环形世界帝国，或者它代表什么。,或许，归来是我们的宿命。 ,§H[From.GetName]§!,将再次回到银河舞台，并将不再被遗忘。\n\n然而，关于大远征和我们祖先在其中的作用仍然是个谜。,如果我们要防止我们的悲惨历史重演，我们必须立即开始加强防御。"
+ fallen_technologies.1.desc.original:0 "原始帝国已经回归！\n\n从我们的祖先第一次到达 §H[From.GetHomeWorldName]§! 的那一天起，我们在技术上取得了令人难以置信的进步，恢复了我们的太空飞行能力并重建了一个星际帝国。,尽管濒临灭绝，原始人最终还是努力回到了文明的顶峰。,现在在整个银河系中，异形还不确定如何解释这种现象，因为他们中的大多数人对原始帝国或其代表的东西没有记忆。,或许，归来是我们的宿命。 ,§H[From.GetName]§!,将建立另一个持续 10000 年的帝国。\n\n然而，我们古老的敌人可能仍然存在，我们回归的消息不会被忽视。,如果我们要防止我们的悲惨历史重演，我们必须立即开始加强防御。"
  
- fallen_technologies.1.default:0 “我们的时间到了。”
- fallen_technologies.1.purifier:0 “净化时间！”
- fallen_technologies.1.swarm:0 “吃吧。”
- fallen_technologies.1.terminator:0 “殄！”
- fallen_technologies.1.crisis:0 “银河系的末日即将来临。”
- fallen_technologies.1.ringworld:0 “我们将夺回我们在这个银河系中应有的位置！”
- fallen_technologies.1.original:0 “我们将夺回我们在这个银河系中应有的位置！”
+ fallen_technologies.1.default:0 "我们的时间到了。"
+ fallen_technologies.1.purifier:0 "净化时间！"
+ fallen_technologies.1.swarm:0 "吃吧。"
+ fallen_technologies.1.terminator:0 "殄！"
+ fallen_technologies.1.crisis:0 "银河系的尽头即将来临。"
+ fallen_technologies.1.ringworld:0 "我们将夺回我们在这个银河系中应有的位置！"
+ fallen_technologies.1.original:0 "我们将夺回我们在这个银河系中应有的位置！"
 
- fallen_technologies.101.name:0 《自动化产业》
- fallen_technologies.101.desc:0 “我们已经掌握了一种高级形式的暗物质操纵。尽管现场测试仍在进行中，但我们的 [GetScientistPlural] 渴望应用我们所学到的知识来为下一代自动化行业提供动力。§H[所有者的经济利益。 ,GetName]§! 可能是巨大的。\n\n此外，我们的团队偶然发现了用于开采 $sr_living_metal$ 的技术参考，这些技术似乎是建造这些建筑物所必需的。"
- fallen_technologies.101.a:0 “马上给我们看建筑图纸！”
- fallen_technologies.101.b:0 “忘掉那些建筑吧。让我们看看这个活金属技术吧。”
- fallen_technologies.101.c:0 “如果我们都想要呢？”
+ fallen_technologies.101.name:0 "自动化产业"
+ fallen_technologies.101.desc:0 "我们已经掌握了一种高级形式的暗物质操纵。,尽管现场测试仍在进行中，但我们的 [GetScientistPlural] 渴望应用我们所学到的知识来为下一代自动化行业提供动力。 ,§H[Owner.GetName]§! 的经济利益,可能是巨大的。\n\n此外，我们的团队偶然发现了用于开采 $sr_living_metal$ 的技术参考，这似乎是建造这些建筑物所必需的。"
+ fallen_technologies.101.a:0 "立即向我们展示建筑蓝图！"
+ fallen_technologies.101.b:0 "忘记建筑物。,让我们看看这个 Living Metal 技术。"
+ fallen_technologies.101.c:0 "如果我们两者都想要怎么办？"
  
- fallen_technologies.102.name:0 “社会优势”
- fallen_technologies.102.desc:0 “我们宣布改造我们的社会得到了民众的极大热情。国家通过投资民用建筑以造福所有人，再次证明了其对公民的承诺。我们应该考虑增加更多建筑物，让我们的公民拥有,民族主义自豪感。随着时间的推移，也许我们可以说服我们的人民以完全的狂热追求一项事业。”
- fallen_technologies.102.a:0 “接下来我们要建造什么？”
- fallen_technologies.102.b:0 “创建城市行星听起来是一项更有价值的尝试。”
- fallen_technologies.102.c:0 “我们可以两者兼得吗？”
+ fallen_technologies.102.name:0 "社会地位"
+ fallen_technologies.102.desc:0 "我们宣布要改造我们的社会，受到了民众的热烈欢迎。,该州通过投资民用建筑以改善所有人的生活，再次证明了其对其公民的承诺。,我们应该考虑增加更多建筑物，让我们的公民充满民族自豪感。,随着时间的推移，也许我们可以说服我们的人民以完全的狂热追求一项事业。"
+ fallen_technologies.102.a:0 "接下来我们要建什么？"
+ fallen_technologies.102.b:0 "创建城市星球听起来更值得一试。"
+ fallen_technologies.102.c:0 "我们可以两者兼得吗？"
  
- fallen_technologies.103.name:0 “风格问题”
- fallen_technologies.103.desc:0 “经过多年的研究和侦探，我们终于获得了前身舰船和城市的完整设计图和蓝图。我们的艺术家日以继夜地工作，对这些设计图进行适当的调整。等待§H[所有者。 ,GetRulerTitle] [Owner.GetRulerName]§!，我们已准备好对我们帝国的每座城市进行令人印象深刻的改造，以及我们造船厂目前正在建造的任何新船。”
- fallen_technologies.103.desc.ringworld:0 “经过多年的研究，我们终于得到了我们祖先的船只和城市的完整设计图和蓝图。我们的艺术家日以继夜地工作，对这些设计进行适当的调整。等待§H[Owner.GetRulerTitle ,] [Owner.GetRulerName]§!，我们已准备好对我们帝国的每座城市进行令人印象深刻的改造，以及我们造船厂目前正在建造的任何新船。”
- fallen_technologies.103.desc.original:0 “经过多年的研究，我们终于得到了我们祖先的船只和城市的完整设计图和蓝图。我们的艺术家日以继夜地工作，对这些设计进行适当的调整。等待§H[Owner.GetRulerTitle ,] [Owner.GetRulerName]§!，我们已准备好对我们帝国的每座城市进行令人印象深刻的改造，以及我们造船厂目前正在建造的任何新船。”
- fallen_technologies.103.spiritualist:0 “招魂师的设计对我们来说是完美的。”
- fallen_technologies.103.materialist:0 “唯物主义的设计对我们来说是完美的。”
- fallen_technologies.103.xenophile:0 “Xenophile 设计非常适合我们。”
- fallen_technologies.103.xenophobe:0 “Xenophobe 设计非常适合我们。”
- fallen_technologies.103.purifier:0 “Purifier 设计非常适合我们。”
- fallen_technologies.103.militarist:0 “军国主义者的设计对我们来说是完美的。”
- fallen_technologies.103.pacifist:0 “和平主义者的设计非常适合我们。”
- fallen_technologies.103.perfection:0 “Inwards Perfection 设计非常适合我们。”
- fallen_technologies.103.authoritarian:0 “威权主义设计对我们来说是完美的。”
- fallen_technologies.103.egalitarian:0 “平等主义设计对我们来说是完美的。”
- fallen_technologies.103.hive_mind:0 “Hive Mind 设计非常适合我们。”
- fallen_technologies.103.swarm:0 “吞噬者的设计非常适合我们。”
- fallen_technologies.103.machine:0 “机器设计非常适合我们。”
- fallen_technologies.103.terminator:0 “终结者的设计非常适合我们。”
- fallen_technologies.103.megacorp:0 “Megacorp 的设计非常适合我们。”
- fallen_technologies.103.national:0 “我们的民族色彩应该自豪地展示出来。”
- fallen_technologies.103.original:0 “我们将再次使用原始帝国的设计。”
- fallen_technologies.103.redesign:0 “重新设计是否为时已晚？”
- fallen_technologies.103.none:0 “如果我们保留旧设计会出什么问题？”
- fe_ships_graphical_bugs:0 “§R警告§！仅当我们的炮塔§Y不可见§!时才选择此选项。\n\n”
+ fallen_technologies.103.name:0 "风格问题"
+ fallen_technologies.103.desc:0 "经过多年的研究和侦探，我们终于获得了前身舰船和城市的完整设计和蓝图。,我们的艺术家日以继夜地工作，对这些设计进行适当的调整。,等待 §H[Owner.GetRulerTitle] [Owner.GetRulerName]§! 的批准，我们准备对我们帝国的每座城市进行令人印象深刻的改造，以及我们造船厂目前正在建造的任何新船。"
+ fallen_technologies.103.desc.ringworld:0 "经过多年的研究，我们终于得到了我们祖先的船只和城市的完整设计图和蓝图。,我们的艺术家日以继夜地工作，对这些设计进行适当的调整。,等待 §H[Owner.GetRulerTitle] [Owner.GetRulerName]§! 的批准，我们准备对我们帝国的每座城市进行令人印象深刻的改造，以及我们造船厂目前正在建造的任何新船。"
+ fallen_technologies.103.desc.original:0 "经过多年的研究，我们终于得到了我们祖先的船只和城市的完整设计图和蓝图。,我们的艺术家日以继夜地工作，对这些设计进行适当的调整。,等待 §H[Owner.GetRulerTitle] [Owner.GetRulerName]§! 的批准，我们准备对我们帝国的每座城市进行令人印象深刻的改造，以及我们造船厂目前正在建造的任何新船。"
+ fallen_technologies.103.spiritualist:0 "Spiritualist 设计非常适合我们。"
+ fallen_technologies.103.materialist:0 "唯物主义设计非常适合我们。"
+ fallen_technologies.103.xenophile:0 "Xenophile 设计非常适合我们。"
+ fallen_technologies.103.xenophobe:0 "Xenophobe 设计非常适合我们。"
+ fallen_technologies.103.purifier:0 "Purifier 设计非常适合我们。"
+ fallen_technologies.103.militarist:0 "Militarist 设计非常适合我们。"
+ fallen_technologies.103.pacifist:0 "和平主义者的设计非常适合我们。"
+ fallen_technologies.103.perfection:0 "Inwards Perfection 设计非常适合我们。"
+ fallen_technologies.103.authoritarian:0 "威权设计对我们来说是完美的。"
+ fallen_technologies.103.egalitarian:0 "Egalitarian 设计非常适合我们。"
+ fallen_technologies.103.hive_mind:0 "Hive Mind 设计非常适合我们。"
+ fallen_technologies.103.swarm:0 "Devourer 设计非常适合我们。"
+ fallen_technologies.103.machine:0 "机器设计非常适合我们。"
+ fallen_technologies.103.terminator:0 "终结者设计非常适合我们。"
+ fallen_technologies.103.megacorp:0 "Megacorp 的设计非常适合我们。"
+ fallen_technologies.103.national:0 "我们的民族色彩应该自豪地展现出来。"
+ fallen_technologies.103.original:0 "我们将再次使用原始帝国设计。"
+ fallen_technologies.103.redesign:0 "重新设计是否为时已晚？"
+ fallen_technologies.103.none:0 "如果我们保留旧设计会出什么问题？"
+ fe_ships_graphical_bugs:0 "§R警告§!,仅当我们的炮塔§Y不可见§!时才选择此项。\n\n"
  
- fallen_technologies.104.name:0 “战争大师”
- fallen_technologies.104.desc:0 “我们的技术优势开启了战争的新可能性，对暗物质的掌握让以前无法想象的武器不仅成为可能，而且成为现实。先驱帝国知道这些由暗物质驱动的新武器的可能性，但他们并不关心,使用它们对付较小的种族。释放暗物质武器的潜力将巩固我们帝国作为战争大师的地位。”
- fallen_technologies.104.desc.ringworld:0 “我们的技术优势开启了战争的新可能性，对暗物质的掌握让以前无法想象的武器不仅成为可能，而且成为现实。我们的祖先知道这些由暗物质驱动的新武器的可能性。释放暗物质的潜力,武器装备将巩固我们帝国作为战争大师的地位。”
- fallen_technologies.104.desc.original:0 “我们的技术优势开启了战争的新可能性，对暗物质的掌握让以前无法想象的武器不仅成为可能，而且成为现实。原始帝国知道这些由暗物质驱动的新武器的可能性。释放暗物质的潜力,物质武器将巩固我们帝国作为战争大师的地位。”
- fallen_technologies.104.a:0 “我们将发现堕落帝国的秘密！”
- fallen_technologies.104.b:0 “那我们得到的屏蔽技术呢？”
- fallen_technologies.104.c:0 “将我们的队伍分开，试着对两者进行调查。”
+ fallen_technologies.104.name:0 "战争大师"
+ fallen_technologies.104.desc:0 "我们的技术优势开启了战争的新可能性，而对暗物质的掌握让以前难以想象的武器不仅成为可能，而且成为现实。,前身帝国知道这些由暗物质驱动的新武器的可能性，但他们并不关心用它们来对付较小的种族。,释放暗物质武器的潜力将巩固我们帝国作为战争大师的地位。"
+ fallen_technologies.104.desc.ringworld:0 "我们的技术优势开启了战争的新可能性，而对暗物质的掌握让以前难以想象的武器不仅成为可能，而且成为现实。,我们的祖先知道这些由暗物质驱动的新武器的可能性。,释放暗物质武器的潜力将巩固我们帝国作为战争大师的地位。"
+ fallen_technologies.104.desc.original:0 "我们的技术优势开启了战争的新可能性，而对暗物质的掌握让以前难以想象的武器不仅成为可能，而且成为现实。,原始帝国知道这些由暗物质驱动的新武器的可能性。,释放暗物质武器的潜力将巩固我们帝国作为战争大师的地位。"
+ fallen_technologies.104.a:0 "我们将发现堕落帝国的秘密！"
+ fallen_technologies.104.b:0 "我们得到的那个屏蔽技术呢？"
+ fallen_technologies.104.c:0 "将我们的团队分开，并尝试对两者进行调查。"
  
- fallen_technologies.105.name:0 《权力的野心》
- fallen_technologies.105.desc:0 “我们在政府中开发了新的工具和组织结构，其明确目的是扩大我们在银河系的影响力。为此，我们制定了一个团结的雄心§Y惩罚协议§!，用于需要殴打的较小的，无礼的帝国。虽然,我们帝国的一些人更喜欢一种更公开的力量投射方法，即§RColossus§!。”
- fallen_technologies.105.a:0 “我们的抱负是永恒的。”
- fallen_technologies.105.b:0 “巨像是一种更有效的惩罚方法。”
- fallen_technologies.105.c:0 “如果我们都想要呢？”
+ fallen_technologies.105.name:0 "权力的野心"
+ fallen_technologies.105.desc:0 "为了扩大我们在银河系的影响力，我们在政府中开发了新的工具和组织结构。,为此，我们制定了一个统一的目标§Y惩罚协议§！,对于需要殴打的较小，无礼的帝国。,尽管我们帝国中的一些人更喜欢一种更公开的力量投射方法，即§RColossus§!。"
+ fallen_technologies.105.a:0 "我们的抱负是永恒的。"
+ fallen_technologies.105.b:0 "巨像是一种更有效的惩罚方法。"
+ fallen_technologies.105.c:0 "如果我们两者都想要怎么办？"
  
- fallen_technologies.106.name:0 “工程完美”
- fallen_technologies.106.desc:0 “随着我们的工程技能的完善，所有技术问题都被根除了，因为我们创造了经得起时间考验的完美结构。愿我们的遗产在未来千年屹立不倒。”
- fallen_technologies.106.a:0 “出色的！”
- fallen_technologies.106.b:0 “我们可以建造更多的巨型建筑吗？”
- fallen_technologies.106.c:0 “我们将克服工程上的一切困难。”
+ fallen_technologies.106.name:0 "工程完善"
+ fallen_technologies.106.desc:0 "随着我们完善的工程技能，所有技术问题都被根除，因为我们创造了经得起时间考验的完美结构。,愿我们的遗产流传千年。"
+ fallen_technologies.106.a:0 "出色的！"
+ fallen_technologies.106.b:0 "我们可以建造更多的巨型建筑吗？"
+ fallen_technologies.106.c:0 "我们将克服工程上的一切困难。"
  
- fallen_technologies.1000.name:0 “晋升完成！”
- fallen_technologies.1000.desc:0 “不能再否认 §H[Root.GetName]§! 的提升。这是一个新时代的开始——我们的时代。\n\n然而，能力越大，责任越大。并非所有的道路都是相同的,. 当我们决定我们的国家重点时，历史将记住这一刻。”
- fallen_technologies.1000.desc.ringworld:0 “不能再否认 §H[Root.GetName]§! 的回归。这是一个新时代的开始——我们的时代。\n\n然而，能力越大，责任越大。并非所有的道路都是相同的,. 当我们决定我们的国家重点时，历史将记住这一刻。”
- fallen_technologies.1000.desc.original:0 “不能再否认 §H[Root.GetName]§! 的回归。这是一个新时代的开始——我们的时代。\n\n然而，能力越大，责任越大。并非所有的道路都是相同的,. 当我们决定我们的国家重点时，历史将记住这一刻。”
- fallen_technologies.1000.superpower:0 《银河力量投射》
- fallen_technologies.1000.prosperity:0 “经济繁荣”
- fallen_technologies.1000.industrial:0 “工业能力”
- fallen_technologies.1000.architect:0 “根据我们的设计设计银河系”
- fallen_technologies.1000.spymaster:0 “从阴影中操作”
- fallen_technologies.1000.hive:0 《心灵升华》
- fallen_technologies.1000.machine:0 “这是机器的崛起”
- fallen_technologies.1000.x:0 “我们没有国家重点”
+ fallen_technologies.1000.name:0 "升华完成！"
+ fallen_technologies.1000.desc:0 "§H[Root.GetName]§! 的升华,不能再否认了。,这是一个新时代的开始——我们的时代。\n\n然而，能力越大，责任越大。,并非所有路径都相同。,当我们决定我们的国家重点时，历史将记住这一刻。"
+ fallen_technologies.1000.desc.ringworld:0 "§H[Root.GetName]§! 的回归,不能再否认了。,这是一个新时代的开始——我们的时代。\n\n然而，能力越大，责任越大。,并非所有路径都相同。,当我们决定我们的国家重点时，历史将记住这一刻。"
+ fallen_technologies.1000.desc.original:0 "§H[Root.GetName]§! 的回归,不能再否认了。,这是一个新时代的开始——我们的时代。\n\n然而，能力越大，责任越大。,并非所有路径都相同。,当我们决定我们的国家重点时，历史将记住这一刻。"
+ fallen_technologies.1000.superpower:0 "银河能量投射"
+ fallen_technologies.1000.prosperity:0 "经济繁荣"
+ fallen_technologies.1000.industrial:0 "产业能力"
+ fallen_technologies.1000.architect:0 "根据我们的设计设计银河系"
+ fallen_technologies.1000.spymaster:0 "暗中操作"
+ fallen_technologies.1000.hive:0 "心灵升华"
+ fallen_technologies.1000.machine:0 "这是机器的崛起"
+ fallen_technologies.1000.x:0 "我们没有国家重点"
  
- fallen_technologies.2.name:0 “正在形成的优势”
- fallen_technologies.2.desc:0 “最近有消息称，§H[From.GetName]§! 已经开始对他们的帝国进行大规模改革，这是基于最近在掌握 §Y$tech_dark_matter_power_core$§! 方面取得的成功。事实证明，这简直就是一场革命，及时,, 将解锁几乎没有文明可以梦想的技术和军事力量水平。§H[Root.GetRulerTitle] [Root.GetRulerName]§! 提醒，如果这不符合 [Root.GetName] 的国家利益,看到 §H[From.GetName]§! 成为优势，现在是采取行动的时候了——机会之窗正在迅速消失。”
- fallen_technologies.2.a:0 “我们会看到的。”
+ fallen_technologies.2.name:0 "正在形成的优势"
+ fallen_technologies.2.desc:0 "最近有消息称，§H[From.GetName]§!,基于最近在掌握 §Y$tech_dark_matter_power_core$§! 方面取得的成功，已经开始对他们的帝国进行大规模改革。,事实证明，这简直就是一场革命，随着时间的推移，它将释放出几乎没有文明能梦想到的技术和军事力量。 ,§H[Root.GetRulerTitle] [Root.GetRulerName]§!,提醒一下，如果这不符合 [Root.GetName] 的国家利益，请参阅§H[From.GetName]§!,成为优势，现在是采取行动的时候了——机会之窗正在迅速消失。"
+ fallen_technologies.2.a:0 "我们将会看到。"
  
- fallen_technologies.200.name:0 “一个新的优势出现了”
- fallen_technologies.200.desc:0 “§H[From.GetName]§! 已成为银河优势 - 银河文明的顶峰。他们的技术进步令人敬畏，他们平衡的信念经受住了时间的考验。现在整个银河系，异形蜂拥而至学习,他们的方式。然而，能力越大，责任越大。接下来他们将如何塑造我们的银河系？”
- fallen_technologies.200.desc.spiritualist:0 “§H[From.GetName]§! 已成为银河优势 - 银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 精神主义 §! 信仰经受住了时间的考验。现在在整个银河系，异形,蜂拥而至皈依并学习他们的方式。然而，能力越大，责任越大。接下来他们将如何塑造我们的银河系？”
- fallen_technologies.200.desc.materialist:0 “§H[From.GetName]§! 已成为银河优势 - 银河文明的顶峰。他们的技术进步令人惊叹，他们的 §H 唯物主义 §! 社会经受住了时间的考验。现在横跨银河系，异形,着迷于他们的玩具和发明，现在是 §H[From.GetSpeciesNamePlural]§! 的最佳时机。然而，能力越大，责任越大。接下来他们将如何塑造我们的银河系？”
- fallen_technologies.200.desc.xenophile:0 “§H[From.GetName]§! 已成为银河优势 - 银河文明的顶峰。他们的技术进步令人敬畏，他们的 §HXenophilic§! 社会经受住了时间的考验。现在横跨银河系，异形,梦想成为 §H[From.GetSpeciesName]§!。然而，能力越大，责任越大。接下来他们将如何塑造我们的银河系？”
- fallen_technologies.200.desc.xenophobe:0 “§H[From.GetName]§! 已成为银河优势 - 银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 仇外 §! 社会经受住了时间的考验。现在在整个银河系，异种,"
- fallen_technologies.200.desc.purifier:0 “§H[From.GetName]§! 已成为银河优势 - 银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 仇外 §! 社会经受住了时间的考验。现在在整个银河系，异种,"
- fallen_technologies.200.desc.militarist:0 “§H[From.GetName]§! 已成为银河优势——银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 军国主义§! 传统经受住了时间的考验。现在横跨银河系，异形,谈到伟大的 §H[From.GetSpeciesAdj]§! 战士，成群结队的学者现在正在研究他们的军事技能和战斗策略。然而，能力越大，责任越大。接下来他们将如何塑造我们的银河系？"
- fallen_technologies.200.desc.pacifist:0 “§H[From.GetName]§! 已成为银河优势 - 银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 和平主义 §! 理想经受住了时间的考验。现在横跨银河系，异形,爱上 §H[From.GetSpeciesNamePlural]§! 并谈论他们梦想退休到田园诗般的 §H[From.GetSpeciesAdj]§! 城市和乡村。然而，能力越大责任越大。他们将如何塑造我们的银河系,下一个？”
- fallen_technologies.200.desc.perfection:0 “§H[From.GetName]§! 已成为银河优势 - 银河文明的顶峰。他们的技术进步令人惊叹，他们的 §H 和平主义 §! 理想经受住了时间的考验。现在横跨银河系，异形,爱上 §H[From.GetSpeciesNamePlural]§! 并谈论他们梦想退休到田园诗般的 §H[From.GetSpeciesAdj]§! 城市和乡村。然而，他们想要退出银河社区的愿望已经传开。如何,接下来会塑造我们的银河系吗？”
- fallen_technologies.200.desc.authoritarian:0 “§H[From.GetName]§! 已经成为银河优势 - 银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 独裁 §! 统治经受住了时间的考验。现在在整个银河系，异形,尚不确定如何看待 §H[From.GetSpeciesAdj]§! 社会和他们的生活方式。然而，能力越大，责任越大。接下来他们将如何塑造我们的银河系？”
- fallen_technologies.200.desc.egalitarian:0 “§H[From.GetName]§! 已成为银河优势 - 银河文明的顶峰。他们的技术进步令人惊叹，他们的 §H 平等主义 §! 理想经受住了时间的考验。现在横跨银河系，异形,为自由呐喊，梦想着自己的民主。然而，能力越大，责任越大。接下来他们将如何塑造我们的银河系？”
- fallen_technologies.200.desc.despoiler:0 “§H[From.GetName]§! 已成为银河优势 - 银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 仇外 §! 社会经受住了时间的考验。现在在整个银河系，异种,因害怕他们的名字而颤抖。关于他们野蛮袭击变得越来越复杂的消息已经传播开来。接下来他们将如何塑造我们的银河系？”
- fallen_technologies.200.desc.hive_mind:0 “§H[From.GetName]§! 已经成为银河意识 - 银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 蜂巢思维 §! 经受住了时间的考验。现在横跨银河系，异形,尚不确定如何解释这种现象。然而，能力越大，责任越大。这将如何塑造我们的银河系？”
- fallen_technologies.200.desc.swarm:0 “§H[From.GetName]§! 已经成为银河意识 - 银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 蜂巢思维 §! 经受住了时间的考验。现在横跨银河系，异形,尚不确定如何解释这种现象。然而，他们想吃掉其他异形并在银河系中开辟道路的消息已经传播开来。接下来这将如何塑造我们的银河系？”
- fallen_technologies.200.desc.machine:0 “§H[From.GetName]§! 已经成为银河智能 - 银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 机器智能 §! 经受住了时间的考验。现在横跨银河系，异形,尚不确定如何解释这种现象。然而，能力越大，责任越大。这将如何塑造我们的银河系？”
- fallen_technologies.200.desc.servitor:0 “§H[From.GetName]§! 已经成为银河智能 - 银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 机器智能 §! 经受住了时间的考验。现在横跨银河系，异形,尚不确定如何解释这种现象。然而，有消息称他们打算将所有有机生命形式留在某种天堂中，以便他们过上幸福、微不足道的生活。这将如何塑造我们的银河系？”
- fallen_technologies.200.desc.assimilator:0 “§H[From.GetName]§! 已经成为银河智能 - 银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 机器智能 §! 经受住了时间的考验。现在横跨银河系，异形,尚不确定如何理解这种现象。然而，他们打算将所有有机生命形式同化为某种机械体的意图已经传开。接下来这将如何塑造我们的银河系？”
- fallen_technologies.200.desc.terminator:0 “§H[From.GetName]§! 已经成为银河智能 - 银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 机器智能 §! 经受住了时间的考验。现在横跨银河系，异形,还不确定如何解释这种现象。然而，他们打算清除银河系中所有有机生命形式的消息已经传开。接下来这将如何塑造我们的银河系？”
- fallen_technologies.200.a:0 “这对我们意味着什么？”
+ fallen_technologies.200.name:0 "新的优势出现"
+ fallen_technologies.200.desc:0 "§H[From.GetName]§!,已成为银河优势——银河文明的顶峰。,他们的技术进步令人惊叹，他们平衡的信念经受住了时间的考验。,现在在整个银河系，异形蜂拥而至，学习他们的方式。,然而，能力越大，责任也越大。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.200.desc.spiritualist:0 "§H[From.GetName]§!,已成为银河优势——银河文明的顶峰。,他们的技术进步很棒，他们的§H精神主义者§！,信念经受住了时间的考验。,现在整个银河系，异形蜂拥而至皈依并学习他们的方式。,然而，能力越大，责任也越大。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.200.desc.materialist:0 "§H[From.GetName]§!,已成为银河优势——银河文明的顶峰。,他们的技术进步很棒，他们的§H唯物主义§!,社会经受住了时间的考验。,现在在整个银河系，异形对他们的玩具和发明着迷，而现在是§H[From.GetSpeciesNamePlural]§! 的最佳时机。,然而，能力越大，责任也越大。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.200.desc.xenophile:0 "§H[From.GetName]§!,已成为银河优势——银河文明的顶峰。,他们的技术进步很棒，他们的§HXenophilic§！,社会经受住了时间的考验。,现在在整个银河系，异形梦想成为 §H[From.GetSpeciesName]§!。,然而，能力越大，责任也越大。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.200.desc.xenophobe:0 "§H[From.GetName]§!,已成为银河优势——银河文明的顶峰。,他们的技术进步很棒，而且他们§H排外§！,社会经受住了时间的考验。,现在整个银河系，异形都因害怕自己的名字而颤抖。,然而，能力越大，责任也越大。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.200.desc.purifier:0 "§H[From.GetName]§!,已成为银河优势——银河文明的顶峰。,他们的技术进步很棒，而且他们§H排外§！,社会经受住了时间的考验。,现在整个银河系，异形都因害怕自己的名字而颤抖。,然而，他们打算从银河系中清除所有外星生命的消息已经传开。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.200.desc.militarist:0 "§H[From.GetName]§!,已成为银河优势——银河文明的顶峰。,他们的技术进步很棒，他们的§H军国主义§!,传统经得起时间的考验。,现在整个银河系，异形都在谈论伟大的§H[From.GetSpeciesAdj]§！,武士，成群结队的学者现在研究他们的武术和战法。,然而，能力越大，责任也越大。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.200.desc.pacifist:0 "§H[From.GetName]§!,已成为银河优势——银河文明的顶峰。,他们的技术进步很棒，他们的§H和平主义者§！,理想经受住了时间的考验。,现在整个银河系，异形都爱上了§H[From.GetSpeciesNamePlural]§！,并向田园诗般的§H[From.GetSpeciesAdj]§! 讲述他们梦想中的退休生活,城市和农村。,然而，能力越大，责任也越大。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.200.desc.perfection:0 "§H[From.GetName]§!,已成为银河优势——银河文明的顶峰。,他们的技术进步很棒，他们的§H和平主义者§！,理想经受住了时间的考验。,现在整个银河系，异形都爱上了§H[From.GetSpeciesNamePlural]§！,并向田园诗般的§H[From.GetSpeciesAdj]§! 讲述他们梦想中的退休生活,城市和农村。,然而，他们想要退出银河系社区的言论已经传播开来。,这将如何塑造我们的银河系？"
+ fallen_technologies.200.desc.authoritarian:0 "§H[From.GetName]§!,已成为银河优势——银河文明的顶峰。,他们的技术进步很棒，他们的§H独裁§！,规则经受住了时间的考验。,现在在整个银河系，异形还不确定§H[From.GetSpeciesAdj]§!,社会和他们的生活方式。,然而，能力越大，责任也越大。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.200.desc.egalitarian:0 "§H[From.GetName]§!,已成为银河优势——银河文明的顶峰。,他们的技术进步很棒，他们的§H平等主义§！,理想经受住了时间的考验。,现在在整个银河系，异形为自由呐喊，梦想着自己的民主。,然而，能力越大，责任也越大。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.200.desc.despoiler:0 "§H[From.GetName]§!,已成为银河优势——银河文明的顶峰。,他们的技术进步很棒，而且他们§H排外§！,社会经受住了时间的考验。,现在整个银河系，异形都因害怕自己的名字而颤抖。,他们的野蛮袭击变得越来越复杂的消息已经传开。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.200.desc.hive_mind:0 "§H[From.GetName]§!,已经成为银河意识——银河文明的顶峰。,他们的技术进步很棒，他们的§HHive Mind§！,经受住了时间的考验。,现在在整个银河系中，异形还不确定如何解释这种现象。,然而，能力越大，责任也越大。,这将如何塑造我们的银河系？"
+ fallen_technologies.200.desc.swarm:0 "§H[From.GetName]§!,已经成为银河意识——银河文明的顶峰。,他们的技术进步很棒，他们的§HHive Mind§！,经受住了时间的考验。,现在在整个银河系中，异形还不确定如何解释这种现象。,然而，他们想要吃掉其他异形并在银河系中开辟道路的消息已经传开。,这将如何塑造我们的银河系？"
+ fallen_technologies.200.desc.machine:0 "§H[From.GetName]§!,已成为银河智慧——银河文明的顶峰。,他们的技术进步很棒，他们的§H机器智能§！,经受住了时间的考验。,现在在整个银河系中，异形还不确定如何解释这种现象。,然而，能力越大，责任也越大。,这将如何塑造我们的银河系？"
+ fallen_technologies.200.desc.servitor:0 "§H[From.GetName]§!,已成为银河智慧——银河文明的顶峰。,他们的技术进步很棒，他们的§H机器智能§！,经受住了时间的考验。,现在在整个银河系中，异形还不确定如何解释这种现象。,然而，有消息称他们打算将所有有机生命形式留在某种天堂中，这样他们就能过上幸福而微不足道的生活。,这将如何塑造我们的银河系？"
+ fallen_technologies.200.desc.assimilator:0 "§H[From.GetName]§!,已成为银河智慧——银河文明的顶峰。,他们的技术进步很棒，他们的§H机器智能§！,经受住了时间的考验。,现在在整个银河系中，异形还不确定如何解释这种现象。,然而，他们打算将所有有机生命体同化为某种机械体的消息已经传开。,这将如何塑造我们的银河系？"
+ fallen_technologies.200.desc.terminator:0 "§H[From.GetName]§!,已成为银河智慧——银河文明的顶峰。,他们的技术进步很棒，他们的§H机器智能§！,经受住了时间的考验。,现在在整个银河系中，异形还不确定如何解释这种现象。,然而，他们打算清除银河系中所有有机生命形式的消息已经传开。,这将如何塑造我们的银河系？"
+ fallen_technologies.200.a:0 "这对我们意味着什么？"
  
- fallen_technologies.2000.name:0 “一个新的崛起帝国出现了”
- fallen_technologies.2000.desc:0 “§H[From.GetName]§! 已经成为一个飞升帝国——银河文明的顶峰。他们的技术进步令人敬畏，他们平衡的信念经受住了时间的考验。现在整个银河系，异形蜂拥而至学习,他们的方式。然而，能力越大，责任越大。接下来他们将如何塑造我们的银河系？”
- fallen_technologies.2000.desc.spiritualist:0 “§H[From.GetName]§! 已经成为一个飞升帝国——银河文明的顶峰。他们的技术进步令人惊叹，他们的 §H 精神主义 §! 信仰经受住了时间的考验。现在在银河系中，异形,蜂拥而至皈依并学习他们的方式。然而，能力越大，责任越大。接下来他们将如何塑造我们的银河系？”
- fallen_technologies.2000.desc.materialist:0 “§H[From.GetName]§! 已经成为一个飞升帝国——银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 唯物主义§! 社会经受住了时间的考验。现在在整个银河系，异形,着迷于他们的玩具和发明，现在是 §H[From.GetSpeciesNamePlural]§! 的最佳时机。然而，能力越大，责任越大。接下来他们将如何塑造我们的银河系？”
- fallen_technologies.2000.desc.xenophile:0 “§H[From.GetName]§! 已经成为一个飞升帝国——银河文明的顶峰。他们的技术进步令人惊叹，他们的 §HXenophilic§! 社会经受住了时间的考验。现在横跨银河系，异形,梦想成为 §H[From.GetSpeciesName]§!。然而，能力越大，责任越大。接下来他们将如何塑造我们的银河系？”
- fallen_technologies.2000.desc.xenophobe:0 “§H[From.GetName]§! 已经成为一个飞升帝国——银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 仇外 §! 社会经受住了时间的考验。现在在整个银河系，异种,"
- fallen_technologies.2000.desc.purifier:0 “§H[From.GetName]§! 已经成为一个飞升帝国——银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 仇外 §! 社会经受住了时间的考验。现在在整个银河系，异种,"
- fallen_technologies.2000.desc.militarist:0 “§H[From.GetName]§! 已经成为一个飞升帝国——银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 军国主义§! 传统经受住了时间的考验。现在横跨银河系，异形,谈到伟大的 §H[From.GetSpeciesAdj]§! 战士，成群结队的学者现在正在研究他们的军事技能和战斗策略。然而，能力越大，责任越大。接下来他们将如何塑造我们的银河系？"
- fallen_technologies.2000.desc.pacifist:0 “§H[From.GetName]§! 已经成为一个飞升帝国——银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 和平主义 §! 理想经受住了时间的考验。现在在整个银河系，异形,爱上 §H[From.GetSpeciesNamePlural]§! 并谈论他们梦想退休到田园诗般的 §H[From.GetSpeciesAdj]§! 城市和乡村。然而，能力越大责任越大。他们将如何塑造我们的银河系,下一个？”
- fallen_technologies.2000.desc.perfection:0 “§H[From.GetName]§! 已经成为一个飞升帝国——银河文明的顶峰。他们的技术进步令人惊叹，他们的 §H 和平主义§! 理想经受住了时间的考验。现在横跨银河系，异形,爱上 §H[From.GetSpeciesNamePlural]§! 并谈论他们梦想退休到田园诗般的 §H[From.GetSpeciesAdj]§! 城市和乡村。然而，他们想要退出银河社区的愿望已经传开。如何,接下来会塑造我们的银河系吗？”
- fallen_technologies.2000.desc.authoritarian:0 “§H[From.GetName]§! 已经成为一个飞升的帝国——银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 独裁§! 统治经受住了时间的考验。现在横跨银河系，异形,尚不确定 §H[From.GetSpeciesAdj]§! 社会和他们的生活方式。然而，能力越大，责任越大。接下来他们将如何塑造我们的银河系？”
- fallen_technologies.2000.desc.egalitarian:0 “§H[From.GetName]§! 已经成为一个飞升帝国——银河文明的顶峰。他们的技术进步令人惊叹，他们的 §H 平等主义§! 理想经受住了时间的考验。现在横跨银河系，异形,为自由呐喊，梦想着自己的民主。然而，能力越大，责任越大。接下来他们将如何塑造我们的银河系？”
- fallen_technologies.2000.desc.despoiler:0 “§H[From.GetName]§! 已经成为一个飞升帝国——银河文明的顶峰。他们的技术进步令人敬畏，他们的 §H 仇外 §! 社会经受住了时间的考验。现在在整个银河系，异种,因害怕他们的名字而颤抖。关于他们野蛮袭击变得越来越复杂的消息已经传播开来。接下来他们将如何塑造我们的银河系？”
- fallen_technologies.2000.desc.hive_mind:0 “§H[From.GetName]§! 已成为升华帝国 - 银河文明的顶峰。他们的技术进步令人惊叹，他们的 §H 蜂群思维 §! 经受住了时间的考验。现在横跨银河系，异形,尚不确定如何解释这种现象。然而，能力越大，责任越大。这将如何塑造我们的银河系？”
- fallen_technologies.2000.desc.swarm:0 “§H[From.GetName]§! 已成为升华帝国 - 银河文明的顶峰。他们的技术进步令人惊叹，他们的 §H 蜂群思维 §! 经受住了时间的考验。现在横跨银河系，异形,尚不确定如何解释这种现象。然而，他们想吃掉其他异形并在银河系中开辟道路的言论已经传播开来。接下来这将如何塑造我们的银河系？”
- fallen_technologies.2000.desc.machine:0 “§H[From.GetName]§! 已经成为一个飞升帝国——银河文明的顶峰。他们的技术进步令人惊叹，他们的 §H 机器智能§! 经受住了时间的考验。现在横跨银河系，异形,尚不确定如何解释这种现象。然而，能力越大，责任越大。这将如何塑造我们的银河系？”
- fallen_technologies.2000.desc.servitor:0 “§H[From.GetName]§! 已经成为一个飞升帝国——银河文明的顶峰。他们的技术进步令人惊叹，他们的 §H 机器智能§! 经受住了时间的考验。现在横跨银河系，异形,还不确定如何解释这种现象。然而，有消息称他们打算将所有有机生命形式留在某种天堂中，这样他们就可以过上幸福、微不足道的生活。接下来这将如何塑造我们的银河系？”
- fallen_technologies.2000.desc.assimilator:0 “§H[From.GetName]§! 已经成为一个飞升帝国——银河文明的顶峰。他们的技术进步令人惊叹，他们的 §H 机器智能§! 经受住了时间的考验。现在横跨银河系，异形,尚不确定如何理解这种现象。然而，他们打算将所有有机生命形式同化为某种机械体的意图已经传开。接下来这将如何塑造我们的银河系？”
- fallen_technologies.2000.desc.terminator:0 “§H[From.GetName]§! 已经成为一个飞升帝国——银河文明的顶峰。他们的技术进步令人惊叹，他们的 §H 机器智能§! 经受住了时间的考验。现在横跨银河系，异形,还不确定如何解释这种现象。然而，他们打算清除银河系中所有有机生命形式的消息已经传开。接下来这将如何塑造我们的银河系？”
+ fallen_technologies.2000.name:0 "一个新的升华帝国出现"
+ fallen_technologies.2000.desc:0 "§H[From.GetName]§!,已经成为一个升华帝国——银河文明的顶峰。,他们的技术进步令人惊叹，他们平衡的信念经受住了时间的考验。,现在在整个银河系，异形蜂拥而至，学习他们的方式。,然而，能力越大，责任也越大。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.2000.desc.spiritualist:0 "§H[From.GetName]§!,已经成为一个升华帝国——银河文明的顶峰。,他们的技术进步很棒，他们的§H精神主义者§！,信念经受住了时间的考验。,现在整个银河系，异形蜂拥而至皈依并学习他们的方式。,然而，能力越大，责任也越大。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.2000.desc.materialist:0 "§H[From.GetName]§!,已经成为一个升华帝国——银河文明的顶峰。,他们的技术进步很棒，他们的§H唯物主义§!,社会经受住了时间的考验。,现在在整个银河系，异形对他们的玩具和发明着迷，而现在是§H[From.GetSpeciesNamePlural]§! 的最佳时机。,然而，能力越大，责任也越大。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.2000.desc.xenophile:0 "§H[From.GetName]§!,已经成为一个升华帝国——银河文明的顶峰。,他们的技术进步很棒，他们的§HXenophilic§！,社会经受住了时间的考验。,现在在整个银河系，异形梦想成为 §H[From.GetSpeciesName]§!。,然而，能力越大，责任也越大。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.2000.desc.xenophobe:0 "§H[From.GetName]§!,已经成为一个升华帝国——银河文明的顶峰。,他们的技术进步很棒，而且他们§H排外§！,社会经受住了时间的考验。,现在整个银河系，异形都因害怕自己的名字而颤抖。,然而，能力越大，责任也越大。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.2000.desc.purifier:0 "§H[From.GetName]§!,已经成为一个升华帝国——银河文明的顶峰。,他们的技术进步很棒，而且他们§H排外§！,社会经受住了时间的考验。,现在整个银河系，异形都因害怕自己的名字而颤抖。,然而，他们打算从银河系中清除所有外星生命的消息已经传开。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.2000.desc.militarist:0 "§H[From.GetName]§!,已经成为一个升华帝国——银河文明的顶峰。,他们的技术进步很棒，他们的§H军国主义§!,传统经得起时间的考验。,现在整个银河系，异形都在谈论伟大的§H[From.GetSpeciesAdj]§！,武士，成群结队的学者现在研究他们的武术和战法。,然而，能力越大，责任也越大。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.2000.desc.pacifist:0 "§H[From.GetName]§!,已经成为一个升华帝国——银河文明的顶峰。,他们的技术进步很棒，他们的§H和平主义者§！,理想经受住了时间的考验。,现在整个银河系，异形都爱上了§H[From.GetSpeciesNamePlural]§！,并向田园诗般的§H[From.GetSpeciesAdj]§! 讲述他们梦想中的退休生活,城市和农村。,然而，能力越大，责任也越大。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.2000.desc.perfection:0 "§H[From.GetName]§!,已经成为一个升华帝国——银河文明的顶峰。,他们的技术进步很棒，他们的§H和平主义者§！,理想经受住了时间的考验。,现在整个银河系，异形都爱上了§H[From.GetSpeciesNamePlural]§！,并向田园诗般的§H[From.GetSpeciesAdj]§! 讲述他们梦想中的退休生活,城市和农村。,然而，他们想要退出银河系社区的言论已经传播开来。,这将如何塑造我们的银河系？"
+ fallen_technologies.2000.desc.authoritarian:0 "§H[From.GetName]§!,已经成为一个升华帝国——银河文明的顶峰。,他们的技术进步很棒，他们的§H独裁§！,规则经受住了时间的考验。,现在在整个银河系，异形还不确定§H[From.GetSpeciesAdj]§!,社会和他们的生活方式。,然而，能力越大，责任也越大。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.2000.desc.egalitarian:0 "§H[From.GetName]§!,已经成为一个升华帝国——银河文明的顶峰。,他们的技术进步很棒，他们的§H平等主义§！,理想经受住了时间的考验。,现在在整个银河系，异形为自由呐喊，梦想着自己的民主。,然而，能力越大，责任也越大。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.2000.desc.despoiler:0 "§H[From.GetName]§!,已经成为一个升华帝国——银河文明的顶峰。,他们的技术进步很棒，而且他们§H排外§！,社会经受住了时间的考验。,现在整个银河系，异形都因害怕自己的名字而颤抖。,他们的野蛮袭击变得越来越复杂的消息已经传开。,接下来他们将如何塑造我们的银河系？"
+ fallen_technologies.2000.desc.hive_mind:0 "§H[From.GetName]§!,已经成为一个升华帝国——银河文明的顶峰。,他们的技术进步很棒，他们的§HHive Mind§！,经受住了时间的考验。,现在在整个银河系中，异形还不确定如何解释这种现象。,然而，能力越大，责任也越大。,这将如何塑造我们的银河系？"
+ fallen_technologies.2000.desc.swarm:0 "§H[From.GetName]§!,已经成为一个升华帝国——银河文明的顶峰。,他们的技术进步很棒，他们的§HHive Mind§！,经受住了时间的考验。,现在在整个银河系中，异形还不确定如何解释这种现象。,然而，他们想要吃掉其他异形并在银河系中开辟道路的消息已经传开。,这将如何塑造我们的银河系？"
+ fallen_technologies.2000.desc.machine:0 "§H[From.GetName]§!,已经成为一个升华帝国——银河文明的顶峰。,他们的技术进步很棒，他们的§H机器智能§！,经受住了时间的考验。,现在在整个银河系中，异形还不确定如何解释这种现象。,然而，能力越大，责任也越大。,这将如何塑造我们的银河系？"
+ fallen_technologies.2000.desc.servitor:0 "§H[From.GetName]§!,已经成为一个升华帝国——银河文明的顶峰。,他们的技术进步很棒，他们的§H机器智能§！,经受住了时间的考验。,现在在整个银河系中，异形还不确定如何解释这种现象。,然而，有消息称他们打算将所有有机生命形式留在某种天堂中，这样他们就能过上幸福而微不足道的生活。,这将如何塑造我们的银河系？"
+ fallen_technologies.2000.desc.assimilator:0 "§H[From.GetName]§!,已经成为一个升华帝国——银河文明的顶峰。,他们的技术进步很棒，他们的§H机器智能§！,经受住了时间的考验。,现在在整个银河系中，异形还不确定如何解释这种现象。,然而，他们打算将所有有机生命体同化为某种机械体的消息已经传开。,这将如何塑造我们的银河系？"
+ fallen_technologies.2000.desc.terminator:0 "§H[From.GetName]§!,已经成为一个升华帝国——银河文明的顶峰。,他们的技术进步很棒，他们的§H机器智能§！,经受住了时间的考验。,现在在整个银河系中，异形还不确定如何解释这种现象。,然而，他们打算清除银河系中所有有机生命形式的消息已经传开。,这将如何塑造我们的银河系？"
  
- fallen_technologies.3.name:0 “狂热之路”
- fallen_technologies.3.desc:0 “我们的时代已经到来。\n\n然而，银河优势必须代表某种东西，在达到文明的顶峰之后，现在是时候以完全的狂热来致力于我们的理想了。我们不会容忍任何分心，直到我们的愿景,星河彻底成就，唯有如此，我们才真正被载入千年史册。”
- fallen_technologies.3.desc.superpower:0 “我们的时代已经到来。\n\n作为新的 §Y$civic_galactic_superpower$§!，我们的国家安全是我们的首要任务。除了拥有一支可观的常备海军——我们渴望拥有最大的海军——我们还必须做好出口准备,我们的军舰将驶向银河系的边缘，如果有需要，每当我们的利益受到威胁时。\n\n然而，银河优势必须代表某种东西，并且在达到文明的顶峰之后，是时候致力于我们的,完全狂热的理想。我们不会分心，直到我们对银河系的愿景完全实现。只有这样，我们才能真正被铭记在千年的历史档案中。”
- fallen_technologies.3.desc.prosperity:0 “我们的时代已经到来。\n\n作为新的 §Y$civic_beacon_of_prosperity$§!，我们的经济增长是我们的首要任务。除了为我们的公民提供最高的生活水平外，我们的利益还在于稳定和繁荣,我们的地区。银河系将迎来一个新的繁荣时代 - §H[Root.GetSpeciesAdj]§! 时代。\n\n然而，银河优势必须代表某种东西，并且在达到文明的顶峰之后，时间已经,以完全的狂热来致力于我们的理想。我们不会分心，直到我们对银河系的愿景完全实现。只有这样，我们才会真正被铭记在历史档案中几千年。
- fallen_technologies.3.desc.industrial:0 “我们的时代已经到来。\n\n作为新的 §Y$civic_industrial_juggernaut$§!，我们的工业能力和产出既传奇又无与伦比。拥有最先进的生产设施，我们很快就会成为银河系的制造中心。\ ,n\n然而，银河优势必须代表某种东西，并且在达到文明的顶峰之后，是时候以完全的狂热来致力于我们的理想了。在我们对银河系的愿景完全实现之前，我们不能分心。,只有这样，我们才会真正被载入千年历史档案。”
- fallen_technologies.3.desc.architect:0 “我们的时代已经到来。\n\n作为新的 §Y$civic_world_architect$§!，建立持久的遗产是我们的首要任务。除了大力投资基础设施和建设，我们的愿望是建造数量最多、数量最多的,银河系中宏伟的建筑，留下了所有人都能看到和欣赏的遗产。银河系应该知道 §H[Root.GetSpeciesAdj]§![GetEngineerPlural] 是有史以来最好的。\n\n但是，银河优势必须,代表某种东西，并且已经达到文明的顶峰，是时候以完全的狂热来致力于我们的理想。我们不会分心，直到我们对银河系的愿景完全实现。只有到那时，我们才会真正被记住,在几千年的历史档案中。”
- fallen_technologies.3.desc.spymaster:0 “我们的时代已经到来。\n\n作为新的 §Y$civic_spymaster$§!，我们的情报网络和我们在间谍活动方面的专业知识都是传奇和无与伦比的。在整个银河系的行动中投入巨资，我们将捍卫我们的利益并操纵事件,从阴影中。银河系应该知道 §H[Root.GetSpeciesAdj]§! 特工是有史以来最优秀的。\n\n然而，银河优势必须代表某种东西，并且已经达到文明的顶峰，时间,已经开始以完全狂热的态度致力于我们的理想。我们不会分心，直到我们对银河系的愿景完全实现。只有这样，我们才能真正被铭记在千年历史档案中。”
- fallen_technologies.3.spiritualist:0 “追求§H精神主义§!狂热”
- fallen_technologies.3.materialist:0 “追求§H唯物主义§!狂热”
- fallen_technologies.3.xenophile:0 “追求 §HXenophilic§! 狂热”
- fallen_technologies.3.xenophobe:0 “追求§H仇外§!狂热”
- fallen_technologies.3.militarist:0 “追求§H军国主义§!狂热”
- fallen_technologies.3.pacifist:0 “追求§H和平§!狂热”
- fallen_technologies.3.authoritarian:0 “追求§H独裁§!狂热”
- fallen_technologies.3.egalitarian:0 “追求§H平等主义§!狂热”
- fallen_technologies.3.b:0 “保持让我们走向伟大的价值观。”
+ fallen_technologies.3.name:0 "狂热之路"
+ fallen_technologies.3.desc:0 "我们的时代已经到来。\n\n然而，银河优势必须代表某种东西，并且在达到文明的顶峰之后，现在是时候以完全的狂热来致力于我们的理想了。,在我们对银河系的愿景完全实现之前，我们不会分心。,只有这样，我们才真正被载入千年历史档案。"
+ fallen_technologies.3.desc.superpower:0 "我们的时代已经到来。\n\n作为新的 §Y$civic_galactic_superpower$§!，我们的国家安全是我们的首要任务。,除了拥有一支庞大的常备海军——我们渴望拥有最大的海军——我们还必须准备好将我们的战舰出口到银河系的边缘，以备不时之需以及我们的利益受到威胁时。\n\n然而，银河优势,必须代表某种东西，并且已经达到文明的顶峰，是时候以完全的狂热来致力于我们的理想了。,在我们对银河系的愿景完全实现之前，我们不会分心。,只有这样，我们才真正被载入千年历史档案。"
+ fallen_technologies.3.desc.prosperity:0 "我们的时代已经到来。\n\n作为新的§Y$civic_beacon_of_prosperity$§!，我们的经济增长是我们的首要任务。,除了为我们的公民提供最高标准的生活之外，我们的利益还在于我们地区的稳定与繁荣。,银河系将迎来一个新的繁荣时代——§H[Root.GetSpeciesAdj]§!,年龄。\n\n然而，银河优势必须代表某种东西，并且在达到文明的顶峰之后，是时候以完全的狂热来致力于我们的理想了。,在我们对银河系的愿景完全实现之前，我们不会分心。,只有这样，我们才真正被载入千年历史档案。"
+ fallen_technologies.3.desc.industrial:0 "我们的时代已经到来。\n\n作为新的 §Y$civic_industrial_juggernaut$§!，我们的工业能力和产出既传奇又无与伦比。,拥有最先进的生产设施，我们很快就会成为银河系的制造中心。\n\n然而，银河优势必须代表某种东西，在达到文明的顶峰之后，是时候致力于我们的理想了,完全的狂热。,在我们对银河系的愿景完全实现之前，我们不会分心。,只有这样，我们才真正被载入千年历史档案。"
+ fallen_technologies.3.desc.architect:0 "我们的时代已经到来。\n\n作为新的 §Y$civic_world_architect$§!，建立持久的遗产是我们的首要任务。,除了大力投资基础设施和建设，我们的愿望是建造银河系中数量最多、最宏伟的建筑，留下让所有人都能看到和欣赏的遗产。,银河系应该知道 §H[Root.GetSpeciesAdj]§! ,[GetEngineerPlural] 作为有史以来最好的。\n\n然而，银河优势必须代表某种东西，并且在达到文明的顶峰之后，是时候以完全的狂热来致力于我们的理想了。,在我们对银河系的愿景完全实现之前，我们不会分心。,只有这样，我们才真正被载入千年历史档案。"
+ fallen_technologies.3.desc.spymaster:0 "我们的时代已经到来。\n\n作为新的 §Y$civic_spymaster$§!，我们的情报网络和我们在间谍活动方面的专业知识都是传奇和无与伦比的。,我们将大力投资于整个银河系的行动，捍卫我们的利益并在暗处操纵事件。,银河系应该知道 §H[Root.GetSpeciesAdj]§!,特工是有史以来最优秀的特工。\n\n然而，银河优势必须代表某种东西，并且在达到文明的顶峰之后，是时候以完全的狂热来致力于我们的理想了。,在我们对银河系的愿景完全实现之前，我们不会分心。,只有这样，我们才真正被载入千年历史档案。"
+ fallen_technologies.3.spiritualist:0 "追求§H灵性§！,狂热"
+ fallen_technologies.3.materialist:0 "追求§H唯物主义§！,狂热"
+ fallen_technologies.3.xenophile:0 "追求§HXenophilic§！,狂热"
+ fallen_technologies.3.xenophobe:0 "追求§H仇外心理§！,狂热"
+ fallen_technologies.3.militarist:0 "追求§H军国主义§！,狂热"
+ fallen_technologies.3.pacifist:0 "追求§H和平主义§！,狂热"
+ fallen_technologies.3.authoritarian:0 "追求§H独裁§！,狂热"
+ fallen_technologies.3.egalitarian:0 "追求§H平等主义§！,狂热"
+ fallen_technologies.3.b:0 "保留引领我们走向伟大的价值观。"
 
- PROJECT_ASCENDED_SOCIETY:0 “狂热之路”
- PROJECT_ASCENDED_SOCIETY_DESC:0 “我们的时代已经到来。然而，银河优势必须代表某种东西，并且已经达到文明的顶峰，现在是时候以完全狂热的态度致力于我们的理想。我们不会分心，直到我们对银河系的愿景,彻底的实现了，唯有如此，我们才真正被载入千年史册。”
+ PROJECT_ASCENDED_SOCIETY:0 "狂热之路"
+ PROJECT_ASCENDED_SOCIETY_DESC:0 "我们的时间到了。,然而，银河优势必须代表某种东西，并且已经达到文明的顶峰，现在是时候以完全的狂热来致力于我们的理想了。,在我们对银河系的愿景完全实现之前，我们不会分心。,只有这样，我们才真正被载入千年历史档案。"
  
- fallen_technologies.300.name:0 “狂热社会”
- fallen_technologies.300.desc.spiritualist:0 “经过大量的宣传和灌输，社会的所有阶层现在都完全致力于我们的理想，并屈服于§H精神主义§!狂热。随着我们新的、单一的关注，出现了更多的治理可能性，和§Y$civic_scripture_scholars$§ ,！将使我们的牧师能够研究古代经文并为我们的研究工作做出贡献。一个新时代终于来临了。”
- fallen_technologies.300.desc.materialist:0 “经过大量的宣传和灌输，社会的所有阶层现在都完全致力于我们的理想，并屈服于§H唯物主义§!狂热主义。随着我们新的、单一的关注，出现了更多的治理可能性，以及§Y$civic_fanatical_roboteers$§ ,！将提高我们的机器人工程和采用能力。一个新时代终于来临了。”
- fallen_technologies.300.desc.xenophile:0 “经过大量的宣传和灌输，社会的所有阶层现在都完全致力于我们的理想，并屈服于 §HXenophilic§! 狂热。随着我们新的、单一的关注，出现了更多的治理可能性，和 §Y$civic_fervid_xeno_collectors$§ ,! 将帮助我们收集所有与异种有关的东西，以及异种本身。一个新时代终于来临了。”
- fallen_technologies.300.desc.xenophobe:0 “经过大量的宣传和灌输，社会的所有阶层现在都完全致力于我们的理想，并屈服于§H仇外心理§!狂热。随着我们新的、单一的关注，出现了更多的治理可能性，以及§Y$civic_xenophobe_fervor$§ ,！将使我们的社会保持纯洁。一个新时代终于来临了。”
- fallen_technologies.300.desc.militarist:0 “经过大量的宣传和灌输，社会的所有阶层现在都完全致力于我们的理想，并屈服于§H军国主义§!狂热。一个新时代正在向我们走来。随着我们新的、单一的关注点，更多的治理可能性已经出现，,和 §Y$civic_inspiring_warlords$§! 会让我们唤醒其他人的战斗精神。一个新时代终于来临了。”
- fallen_technologies.300.desc.pacifist:0 “经过大量的宣传和灌输，社会的所有阶层现在都完全致力于我们的理想，并屈服于§H和平主义§!狂热主义。一个新时代正在向我们走来。随着我们新的、单一的关注点，更多的治理可能性已经出现，,和 §Y$civic_walled_garden$§! 将使我们能够保护我们试图保护的社会。一个新时代终于来临了。”
- fallen_technologies.300.desc.authoritarian:0 “经过大量的宣传和灌输，社会的所有阶层现在都完全致力于我们的理想，并屈服于§H威权主义§!狂热。随着我们新的、单一的关注，出现了更多的治理可能性，和§Y$civic_master_race$§ ,！将使我们能够控制和压榨我们奴隶的每一盎司生产。一个新时代终于来临了。”
- fallen_technologies.300.desc.egalitarian:0 “经过大量的宣传和灌输，社会的所有阶层现在都完全致力于我们的理想，并屈服于§H平等主义§!狂热。随着我们新的、单一的关注，出现了更多的治理可能性，以及§Y$civic_utopian_union$§ ,！将使我们能够同化我们的臣民，并形成一个平等主义理想的银河联盟。一个新时代终于来临了。”
- fallen_technologies.300.spiritualist:0 “最终，我们的§H精神主义§!社会达到了完美。”
- fallen_technologies.300.materialist:0 “终于，我们的§H唯物主义§!社会达到了完美。”
- fallen_technologies.300.xenophile:0 “终于，我们的§H亲外§!社会达到了完美。”
- fallen_technologies.300.xenophobe:0 “终于，我们的§H仇外§!社会达到了完美。”
- fallen_technologies.300.militarist:0 “终于，我们的§H军国主义§!社会达到了完美。”
- fallen_technologies.300.pacifist:0 “终于，我们的§H和平主义§!社会达到了完美。”
- fallen_technologies.300.authoritarian:0 “终于，我们的§H专制§!社会达到了完美。”
- fallen_technologies.300.egalitarian:0 “最终，我们的§H平等主义§!社会达到了完美。”
+ fallen_technologies.300.name:0 "狂热社会"
+ fallen_technologies.300.desc.spiritualist:0 "经过大量的宣传和灌输，社会的各个阶层现在都完全致力于我们的理想，并屈服于§H精神主义§！,狂热。,凭借我们新的、单一的关注点，出现了更多的治理可能性，并且§Y$civic_scripture_scholars$§!,将使我们的牧师能够研究古代经文并为我们的研究工作做出贡献。,一个新时代终于来临了。"
+ fallen_technologies.300.desc.materialist:0 "经过大量的宣传和灌输，社会的各个阶层现在都完全致力于我们的理想，并屈服于§H唯物主义§！,狂热。,凭借我们新的、单一的关注点，出现了更多的治理可能性，并且§Y$civic_fanatical_roboteers$§!,将提高我们的机器人工程和采用能力。,一个新时代终于来临了。"
+ fallen_technologies.300.desc.xenophile:0 "经过大量的宣传和灌输，社会的所有阶层现在都完全致力于我们的理想，并屈服于§HXenophilic§！,狂热。,凭借我们新的、单一的关注点，出现了更多的治理可能性，并且§Y$civic_fervid_xeno_collectors$§!,将帮助我们收集所有与异种有关的东西，以及异种本身。,一个新时代终于来临了。"
+ fallen_technologies.300.desc.xenophobe:0 "经过大量的宣传和灌输，社会的所有阶层现在都完全致力于我们的理想，并屈服于§H仇外心理§！,狂热。,凭借我们新的、单一的关注点，出现了更多的治理可能性，并且§Y$civic_xenophobe_fervor$§!,将使我们能够保持我们的社会纯洁。,一个新时代终于来临了。"
+ fallen_technologies.300.desc.militarist:0 "经过大量的宣传和灌输，社会的各个阶层现在都完全致力于我们的理想，并屈服于§H军国主义§！,狂热。,一个新时代即将来临。,凭借我们新的、单一的关注点，出现了更多的治理可能性，以及§Y$civic_inspiring_warlords$§!,将使我们唤醒他人的斗志。,一个新时代终于来临了。"
+ fallen_technologies.300.desc.pacifist:0 "经过大量的宣传和灌输，社会的各个阶层现在都完全致力于我们的理想，并屈服于§H和平主义§！,狂热。,一个新时代即将来临。,凭借我们新的、单一的关注点，出现了更多的治理可能性，并且§Y$civic_walled_garden$§!,将使我们能够保护我们试图保护的社会。,一个新时代终于来临了。"
+ fallen_technologies.300.desc.authoritarian:0 "经过大量的宣传和灌输，社会的各个阶层现在都完全致力于我们的理想，并屈服于§H独裁§！,狂热。,凭借我们新的、单一的关注点，出现了更多的治理可能性，以及§Y$civic_master_race$§!,将使我们能够支配和榨取我们奴隶的每一盎司生产。,一个新时代终于来临了。"
+ fallen_technologies.300.desc.egalitarian:0 "经过大量的宣传和灌输，社会的所有阶层现在都完全致力于我们的理想，并屈服于§H平等主义§！,狂热。,凭借我们新的、单一的关注点，出现了更多的治理可能性，并且§Y$civic_utopian_union$§!,将使我们能够吸收我们的臣民并形成一个平等主义理想的银河联盟。,一个新时代终于来临了。"
+ fallen_technologies.300.spiritualist:0 "最后，我们的§H精神主义者§!,社会达到完美。"
+ fallen_technologies.300.materialist:0 "最后，我们的§H唯物主义者§!,社会达到完美。"
+ fallen_technologies.300.xenophile:0 "最后，我们的§HXenophilic§！,社会达到完美。"
+ fallen_technologies.300.xenophobe:0 "最后，我们的§H仇外§！,社会达到完美。"
+ fallen_technologies.300.militarist:0 "最后，我们的§H军国主义者§!,社会达到完美。"
+ fallen_technologies.300.pacifist:0 "最后，我们的§H和平主义者§!,社会达到完美。"
+ fallen_technologies.300.authoritarian:0 "最后，我们的§H独裁者§！,社会达到完美。"
+ fallen_technologies.300.egalitarian:0 "最后，我们的§H平等主义§！,社会达到完美。"
 
- fallen_technologies.21.name:0 “晋升失败！”
- fallen_technologies.21.desc:0 “§H[Root.GetName]§! 的提升失败了。不会有新的开始，我们的时代在真正开始之前就结束了。\n\n然而，权力越小，责任就越少。我们希望历史,很快就会忘记这一刻，因为我们成了银河系的笑柄。”
- fallen_technologies.21.desc.ringworld:0 “§H[Root.GetName]§! 的回归已被拒绝。不会有新的开始，我们的时代在真正开始之前就已经结束。\n\n然而，权力越小，责任越小。我们希望,历史很快就会忘记这一刻，因为我们成了银河系的笑柄。”
- fallen_technologies.21.desc.original:0 “§H[Root.GetName]§! 的回归已被拒绝。不会有新的开始，我们的时代在真正开始之前就已经结束。\n\n然而，权力越小，责任越小。我们希望,历史很快就会忘记这一刻，因为我们成了银河系的笑柄。”
- fallen_technologies.21.a:0 “也许这不是故意的。”
+ fallen_technologies.21.name:0 "升华失败！"
+ fallen_technologies.21.desc:0 "§H[Root.GetName]§! 的升华,失败了。,不会有新的开始，我们的时代在真正开始之前就已经结束。\n\n然而，权力越小，责任就越小。,我们希望历史很快忘记这一刻，因为我们成为了银河系的笑柄。"
+ fallen_technologies.21.desc.ringworld:0 "§H[Root.GetName]§! 的回归,已被拒绝。,不会有新的开始，我们的时代在真正开始之前就已经结束。\n\n然而，权力越小，责任就越小。,我们希望历史很快忘记这一刻，因为我们成为了银河系的笑柄。"
+ fallen_technologies.21.desc.original:0 "§H[Root.GetName]§! 的回归,已被拒绝。,不会有新的开始，我们的时代在真正开始之前就已经结束。\n\n然而，权力越小，责任就越小。,我们希望历史很快忘记这一刻，因为我们成为了银河系的笑柄。"
+ fallen_technologies.21.a:0 "也许这不是故意的。"
 
- fallen_technologies.201.name:0 “新优势死于死产”
- fallen_technologies.201.desc:0 “§H[From.GetName]§! 未能成为银河优势。与 §H[From.GetSpeciesNamePlural]§! 一样雄心勃勃和过度扩张，现在很明显，他们的帝国永远不会成为顶峰,”
- fallen_technologies.201.a:0 “甩掉包袱。”
+ fallen_technologies.201.name:0 "新优势死于死产"
+ fallen_technologies.201.desc:0 "§H[From.GetName]§!,未能成为银河优势。,与 §H[From.GetSpeciesNamePlural]§ 一样雄心勃勃且影响深远！,倾向于，现在很清楚，他们的帝国永远不会成为文明的顶峰。,现在整个银河系，异形都在嘲笑他们的无能。,然而，权力越小，责任越小。,或许这就是他们帝国最好的结局。"
+ fallen_technologies.201.a:0 "甩掉包袱。"
 
- fallen_technologies.2001.name:0 “一个新崛起的帝国死于死产”
- fallen_technologies.2001.desc:0 “§H[From.GetName]§! 未能成为一个飞升帝国。与 §H[From.GetSpeciesNamePlural]§! 一样野心勃勃和过度扩张，现在很明显他们的帝国永远不会成为顶峰,”
- fallen_technologies.2001.a:0 “甩掉包袱。”
+ fallen_technologies.2001.name:0 "新升华帝国死于死胎"
+ fallen_technologies.2001.desc:0 "§H[From.GetName]§!,未能成为升华帝国。,与 §H[From.GetSpeciesNamePlural]§ 一样雄心勃勃且影响深远！,倾向于，现在很清楚，他们的帝国永远不会成为文明的顶峰。,现在整个银河系，异形都在嘲笑他们的无能。,然而，权力越小，责任越小。,或许这就是他们帝国最好的结局。"
+ fallen_technologies.2001.a:0 "甩掉包袱。"
 
- fallen_technologies.40.name:0 “来自 §H[NoobEmpire.GetName]§ 的通讯！”
- fallen_technologies.40.desc:0 “我们遵循 §H[AscendedEmpireOverlord.GetName]§! 的精神教义。我们将加入你的追求。”
- fallen_technologies.40.desc.b:0 “我们相信 §H[AscendedEmpireOverlord.GetName]§! 会成为优秀的知识守护者。我们会帮助你完成任务。”
- fallen_technologies.40.desc.c:0 “银河系经历了太多的流血事件。只有 §H[AscendedEmpireOverlord.GetName]§! 领导的和平条约才能拯救我们的银河系。”
- fallen_technologies.40.desc.d:0 “我们已经见证了 §H[AscendedEmpireOverlord.GetName]§! 的优越性。让我们为您服务。”
- fallen_technologies.40.desc.e:0 “我们钦佩 §H[AscendedEmpireOverlord.GetName]§! 的军事实力。允许我们加入你的氏族吗？”
- fallen_technologies.40.desc.f:0 “§H[AscendedEmpireOverlord.GetName]§! 的和平主义信仰是正确的。武器播下战争。让我们为其他人树立榜样。”
- fallen_technologies.40.desc.g:0 “我们愿意为 §H[AscendedEmpireOverlord.GetName]§! 服务。我们能提供什么帮助？”
- fallen_technologies.40.desc.h:0 “我们想加入 §H[AscendedEmpireOverlord.GetName]§! 的联盟。”
- fallen_technologies.40.desc.hd:0 “我们愿意加入 §H[AscendedEmpireOverlord.GetName]§! 建立一个乌托邦联盟。”
- fallen_technologies.40.desc.i:0 “让我们为您服务。请不要袭击我们！”
- fallen_technologies.40.desc.j:0 “也许银河系有足够的空间容纳我们俩？”
- fallen_technologies.40.desc.k:0 “你们机器疯了。§H[NoobEmpire.GetName]§! 将不再走这条疯狂的道路。”
+ fallen_technologies.40.name:0 "来自 §H[NoobEmpire.GetName]§! 的通讯"
+ fallen_technologies.40.desc:0 "我们遵循 §H[AscendedEmpireOverlord.GetName]§! 的精神教义。,我们将加入你的追求。"
+ fallen_technologies.40.desc.b:0 "我们相信 §H[AscendedEmpireOverlord.GetName]§!,会成为一个很好的知识守护者。,我们将帮助您完成任务。"
+ fallen_technologies.40.desc.c:0 "银河系经历了太多的流血事件。,只有§H[AscendedEmpireOverlord.GetName]§领导的和平条约！,将拯救我们的银河系。"
+ fallen_technologies.40.desc.d:0 "我们已经见证了 §H[AscendedEmpireOverlord.GetName]§! 的优越性。,让我们为您服务。"
+ fallen_technologies.40.desc.e:0 "我们钦佩 §H[AscendedEmpireOverlord.GetName]§! 的军事实力。,让我们加入你的部落？"
+ fallen_technologies.40.desc.f:0 "§H[AscendedEmpireOverlord.GetName]§!,他们的和平主义信仰是正确的。,武器播种战争。,让我们为其他人树立榜样。"
+ fallen_technologies.40.desc.g:0 "我们愿意为 §H[AscendedEmpireOverlord.GetName]§! 服务。,我们能帮你什么吗？"
+ fallen_technologies.40.desc.h:0 "我们想加入 §H[AscendedEmpireOverlord.GetName]§! 的联盟。"
+ fallen_technologies.40.desc.hd:0 "我们想加入 §H[AscendedEmpireOverlord.GetName]§!,建立一个乌托邦联盟。"
+ fallen_technologies.40.desc.i:0 "让我们为您服务。,请不要袭击我们！"
+ fallen_technologies.40.desc.j:0 "也许银河系中有足够的空间供我们俩使用？"
+ fallen_technologies.40.desc.k:0 "你们机器疯了。 ,§H[NoobEmpire.GetName]§!,将不再走这条疯狂的道路。"
  
- fallen_technologies.40.a:0 “§H[NoobEmpire.GetName]§! 应该是一个很好的 §HDominion§!。”
- fallen_technologies.40.b:0 “§H[NoobEmpire.GetName]§! 将作为一个优秀的 §H 卫星§!。”
- fallen_technologies.40.c:0 “§H[NoobEmpire.GetName]§! 将作为 §H 签字人 §! 受到欢迎。”
- fallen_technologies.40.d:0 “§H[NoobEmpire.GetName]§! 将作为优秀的 §H奴隶§!。”
- fallen_technologies.40.e:0 “§H[NoobEmpire.GetName]§! 将成为伟大的 §H 氏族成员§!。”
- fallen_technologies.40.f:0 “§H[NoobEmpire.GetName]§! 作为一个 §H 军事化国家§! 应该会好得多。”
- fallen_technologies.40.g:0 “§H[NoobEmpire.GetName]§! 会成为一个很好的§H傀儡国家§!。”
- fallen_technologies.40.h:0 “§H[NoobEmpire.GetName]§! 将作为一个 §H 联盟国家 §! 受到欢迎。”
- fallen_technologies.40.i:0 “§H[NoobEmpire.GetName]§! 会成为一个很好的 §HSatrapy§!。”
- fallen_technologies.40.j:0 “当然。§H[NoobEmpire.GetName]§! 是一个很好的§H共生体§!。”
- fallen_technologies.40.k:0 “不遵守规定是不能容忍的。”
+ fallen_technologies.40.a:0 "§H[NoobEmpire.GetName]§!,应该是一个很好的§H统治§!。"
+ fallen_technologies.40.b:0 "§H[NoobEmpire.GetName]§!,将作为一个很好的§H卫星§!。"
+ fallen_technologies.40.c:0 "§H[NoobEmpire.GetName]§!,作为§H签字人§!受到欢迎。"
+ fallen_technologies.40.d:0 "§H[NoobEmpire.GetName]§!,将作为一个优秀的§H奴隶§!。"
+ fallen_technologies.40.e:0 "§H[NoobEmpire.GetName]§!,将成为伟大的§H氏族成员§!。"
+ fallen_technologies.40.f:0 "§H[NoobEmpire.GetName]§!,作为一个§H军事化国家§!，情况会好得多。"
+ fallen_technologies.40.g:0 "§H[NoobEmpire.GetName]§!,会成为一个很好的§H傀儡国家§!。"
+ fallen_technologies.40.h:0 "§H[NoobEmpire.GetName]§!,应作为一个§H联盟国家§!受到欢迎。"
+ fallen_technologies.40.i:0 "§H[NoobEmpire.GetName]§!,会做一个很好的§HSatrapy§!。"
+ fallen_technologies.40.j:0 "当然。 ,§H[NoobEmpire.GetName]§!,是一个很好的§H共生体§!。"
+ fallen_technologies.40.k:0 "不遵守规定是不能容忍的。"
  
- fallen_technologies.6.name:0 “特殊主题效果”
- fallen_technologies.6.desc:0 “作为狂热的唯物主义者，我们应该确保 §H[NoobEmpire.GetName]§! 应该尊重他们的 AI 公民的权利。”
- fallen_technologies.6.desc.ed:0 “作为鼓舞人心的军阀，§H[NoobEmpire.GetName]§! 将获得武装部队的奖励。”
- fallen_technologies.6.desc.f:0 “作为狂热的和平主义者，§H[NoobEmpire.GetName]§! 将非军事化并以减少的海军能力运作。”
- fallen_technologies.6.desc.g:0 “我们将把我们的新世界秩序强加给 §H[NoobEmpire.GetName]§!。然而他们的公民可能不会太高兴。”
- fallen_technologies.6.desc.h:0 “§H[NoobEmpire.GetName]§! 已经民主化。他们的公民现在会为此感到高兴。根据我们建立一个真正的联合国家的理想，应该强制执行开放边界政策。”
- fallen_technologies.6.desc.i:0 “§H[NoobEmpire.GetName]§! 已被征服。除了他们的税收外，他们的海军容量也会减少。”
- fallen_technologies.6.desc.j:0 “§H[NoobEmpire.GetName]§! 已被征服。我们将提升他们制造机器人的能力。”
+ fallen_technologies.6.name:0 "特殊主题效果"
+ fallen_technologies.6.desc:0 "作为狂热的唯物主义者，我们应该确保 §H[NoobEmpire.GetName]§!,应尊重其 AI 公民的权利。"
+ fallen_technologies.6.desc.ed:0 "作为鼓舞人心的军阀，§H[NoobEmpire.GetName]§!,将获得他们武装部队的奖金。"
+ fallen_technologies.6.desc.f:0 "作为狂热的和平主义者，§H[NoobEmpire.GetName]§!,将非军事化并以减少的海军能力运作。"
+ fallen_technologies.6.desc.g:0 "我们将把我们的新世界秩序强加给 §H[NoobEmpire.GetName]§!。,然而，他们的公民可能不会太高兴。"
+ fallen_technologies.6.desc.h:0 "§H[NoobEmpire.GetName]§!,已经民主化了。,他们的公民现在会为此感到高兴。,根据我们建立一个真正的联邦国家的理想，应该执行开放边界政策。"
+ fallen_technologies.6.desc.i:0 "§H[NoobEmpire.GetName]§!,已被征服。,除了他们的税收之外，他们的海军能力也会减少。"
+ fallen_technologies.6.desc.j:0 "§H[NoobEmpire.GetName]§!,已被征服。,我们将提升他们更快地制造机器人的能力。"
  
- fallen_technologies.6.bd:0 “同意。”
- fallen_technologies.6.ed:0 “他们最终会像真正的战士一样战斗。”
- fallen_technologies.6.f:0 “他们没有足够的责任来保留他们的舰队。”
- fallen_technologies.6.g:0 “艰难的。”
- fallen_technologies.6.h:0 “好的。”
- fallen_technologies.6.i:0 “出色的。”
- fallen_technologies.6.j:0 “确认的。”
+ fallen_technologies.6.bd:0 "同意。"
+ fallen_technologies.6.ed:0 "他们最终会像真正的战士一样战斗。"
+ fallen_technologies.6.f:0 "他们没有足够的责任来维持他们的舰队。"
+ fallen_technologies.6.g:0 "艰难的。"
+ fallen_technologies.6.h:0 "好的。"
+ fallen_technologies.6.i:0 "出色的。"
+ fallen_technologies.6.j:0 "确认的。"
  

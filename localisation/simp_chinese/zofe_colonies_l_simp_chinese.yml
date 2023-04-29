@@ -1,23 +1,23 @@
-l_simp_chinese:
+﻿l_simp_chinese:
 
- col_ae_capital:0 《登上帝都》
- col_ae_capital_desc:0 “升华帝国的首都星球是一个由政府大楼、局和机构总部组成的庞大综合体。”
- col_ae_capital_machine:0 《机器之都》
- col_ae_capital_machine_desc:1 “扬升机器智能的首都星球是其中央网络意识的主要场所，所有单位和无人机都从那里接受任务、控制和管理。”
- col_ae_capital_hive:0 “蜂巢资本”
- col_ae_capital_hive_desc:1 “提升蜂巢思维的首都行星是思维的主要所在地，集体的思想和行动从那里涌现。”
- col_le_capital:0 《失落的帝国之都》
- col_le_capital_desc:1 “虽然它的帝国可能正在衰落，但这个世界的技术进步水平令人震惊。”opinion_took_from_us:0 “从我们这里偷来的”
+ col_ae_capital:0 "升华帝都"
+ col_ae_capital_desc:0 "Ascended Empire 的首都星球是一个由政府大楼、局和机构总部组成的庞大综合体。"
+ col_ae_capital_machine:0 "机器之都"
+ col_ae_capital_machine_desc:1 "扬升机器智能的首都星球是其中央网络意识的主要场所，所有单位和无人机都从那里接受任务、控制和管理。"
+ col_ae_capital_hive:0 "蜂巢资本"
+ col_ae_capital_hive_desc:1 "提升蜂巢思维的首都行星是思维的主要所在地，集体的思想和行动从那里涌现。"
+ col_le_capital:0 "失落帝国之都"
+ col_le_capital_desc:1 "虽然它的帝国可能正在衰落，但这个世界的技术进步水平是惊人的。"opinion_took_from_us:0 "偷走了我们"
  
- opinion_mean_to_us:0 “对我们意味着”
+ opinion_mean_to_us:0 "对我们意味着"
  
- opinion_gifted_us:0 “给我们礼物”
+ opinion_gifted_us:0 "送我们礼物"
  
- opinion_nice_to_us:0 “对我们好”
+ opinion_nice_to_us:0 "对我们很好"
  
  
- opinion_ascended_empire_opposing:0 “反对狂热的信仰”
- opinion_ascended_empire_same:0 “同样狂热的信仰”
+ opinion_ascended_empire_opposing:0 "反对狂热的信仰"
+ opinion_ascended_empire_same:0 "相同的狂热信念"
  
  
 

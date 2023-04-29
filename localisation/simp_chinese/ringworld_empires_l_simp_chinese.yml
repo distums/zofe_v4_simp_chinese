@@ -1,141 +1,141 @@
-l_simp_chinese:
+﻿l_simp_chinese:
 
- beacon_of_infinity_system_initializer_NAME:0 “无限灯塔”
- beacon_of_infinity_system_initializer_DESC:0 “Ringworld 开始 (4) 在一颗黄色的星星上，有 1 个 Ringworld (4) 邻居和 1 个损坏的 Ringworld。”
- dystopia_system_system_initializer_NAME:0 “反乌托邦”
- dystopia_system_system_initializer_DESC:0 “Ringworld 开始 (1) 在一颗带有毁坏的戴森球体的红星上，有一个毁坏的哨兵阵列和科学中心的邻居，以及 2 个毁坏的 Dyson Ringworlds。”
- eternal_system_system_initializer_NAME:0 《永恒之光》
- eternal_system_system_initializer_DESC:0 “环形世界开始 (4) 在一颗中子星上，有 1 个环形世界 (4) 邻居和 1 个毁坏的环形世界。”
- fynri_system_system_initializer_NAME:0 《宁静的花园》
- fynri_system_system_initializer_DESC:0 “环形世界开始 (4) 在一颗中子星上，有 1 个环形世界 (4) 邻居和 1 个毁坏的环形世界。”
- immortal_system_system_initializer_NAME:0 “不朽王座”
- immortal_system_system_initializer_DESC:0 “Ringworld start (4) on a pulsar, with 1 Ringworld (4) neighbor and 1 ruined Ringworld.”
- infinity_system_system_initializer_NAME:0 “无限熔炉”
- infinity_system_system_initializer_DESC:0 “Ringworld 开始 (4) 在一个黑洞上，有 1 个 Ringworld (4) 邻居和 1 个毁坏的 Ringworld。”
- random_ringworld_system_initializer_NAME:0 《随机环世界》
- random_ringworld_system_initializer_DESC:0 “Ringworld 在随机星上开始 (4)。”
- shadow_system_system_initializer_NAME:0 《暗影国度》
+ beacon_of_infinity_system_initializer_NAME:0 "无限灯塔"
+ beacon_of_infinity_system_initializer_DESC:0 "环形世界开始 (4) 在一颗黄色的星星上，有 1 个环形世界 (4) 邻居和 1 个损坏的环形世界。"
+ dystopia_system_system_initializer_NAME:0 "反乌托邦"
+ dystopia_system_system_initializer_DESC:0 "Ringworld 开始 (1) 在一颗红色恒星上，有一个被毁坏的戴森球体，有一个被毁坏的哨兵阵列和科学中心的邻居，以及 2 个被毁坏的戴森环形世界。"
+ eternal_system_system_initializer_NAME:0 "永恒之光"
+ eternal_system_system_initializer_DESC:0 "环形世界开始 (4) 在一颗中子星上，有 1 个环形世界 (4) 邻居和 1 个毁坏的环形世界。"
+ fynri_system_system_initializer_NAME:0 "宁静花园"
+ fynri_system_system_initializer_DESC:0 "环形世界开始 (4) 在一颗中子星上，有 1 个环形世界 (4) 邻居和 1 个毁坏的环形世界。"
+ immortal_system_system_initializer_NAME:0 "不朽王座"
+ immortal_system_system_initializer_DESC:0 "环形世界开始 (4) 在一个脉冲星上，有 1 个环形世界 (4) 邻居和 1 个毁坏的环形世界。"
+ infinity_system_system_initializer_NAME:0 "无限熔炉"
+ infinity_system_system_initializer_DESC:0 "Ringworld 开始 (4) 在一个黑洞上，有 1 个 Ringworld (4) 邻居和 1 个毁坏的 Ringworld。"
+ random_ringworld_system_initializer_NAME:0 "随机环形世界"
+ random_ringworld_system_initializer_DESC:0 "环世界开始 (4) 在随机星上。"
+ shadow_system_system_initializer_NAME:0 "暗影国度"
  shadow_system_system_initializer_DESC:0 “Ringworld 开始 (4) 在一个黑洞上，有 1 个被毁坏的 Science Nexus Ringworld 邻居和 1 个黑洞邻居。”
 
- NAME_Beacon_of_Infinity:0 “无限灯塔”
- NAME_Ring_Section_A:0 “环A区”
- NAME_Palatial_District:0 《富丽堂皇》
- NAME_Ring_Section_B:0 “环B节”
- NAME_Ring_Section_C:0 《环段C》
- NAME_Ring_Section_D:0 《环段D》
- NAME_Trade_District:0 “贸易区”
- NAME_Ring_Section_E:0 “环E节”
- NAME_Ring_Section_F:0 《环段F》
- NAME_Ring_Section_G:0 《环段G》
- NAME_Industrial_District:0 “工业区”
- NAME_Ring_Section_H:0 《环段H》
- NAME_Ring_Section_I:0 《环形第一节》
- NAME_Ring_Section_J:0 《环J节》
- NAME_Agrarian_District:0 “农业区”
- NAME_Ring_Section_K:0 “环K节”
- NAME_Ring_Section_L:0 “环段L”
- NAME_Beacon_of_Stability:0 “稳定灯塔”
- NAME_Eternal_Bastion:0 《永恒堡垒》
+ NAME_Beacon_of_Infinity:0 "无限灯塔"
+ NAME_Ring_Section_A:0 "环形部分A"
+ NAME_Palatial_District:0 "富丽堂皇的地区"
+ NAME_Ring_Section_B:0 "环段B"
+ NAME_Ring_Section_C:0 "环形段C"
+ NAME_Ring_Section_D:0 "环段D"
+ NAME_Trade_District:0 "贸易区"
+ NAME_Ring_Section_E:0 "环形段E"
+ NAME_Ring_Section_F:0 "环形段F"
+ NAME_Ring_Section_G:0 "环形段G"
+ NAME_Industrial_District:0 "工业区"
+ NAME_Ring_Section_H:0 "环形截面 H"
+ NAME_Ring_Section_I:0 "环形第一节"
+ NAME_Ring_Section_J:0 "环段 J"
+ NAME_Agrarian_District:0 "农业区"
+ NAME_Ring_Section_K:0 "环形截面K"
+ NAME_Ring_Section_L:0 "环形截面 L"
+ NAME_Beacon_of_Stability:0 "稳定灯塔"
+ NAME_Eternal_Bastion:0 "永恒堡垒"
  NAME_Beacon_of_Perpetuity:0 “永恒的灯塔”
- NAME_Dystopia:0 “反乌托邦”
- NAME_Light_of_Eternity:0 《永恒之光》
- NAME_Eternal_Light:0 《永恒之光》
- NAME_Eternal_Power:0 “永恒的力量”
- NAME_Eternal_Knowledge:0 “永恒的知识”
- NAME_Eternal_Valor:0 “永恒的勇气”
- NAME_Light_of_Majesty:0 《王者之光》
- NAME_Majestic_Light:0 “伟大的光”
- NAME_Light_of_Triumph:0 《胜利之光》
- NAME_Garden_of_Serenity:0 《宁静的花园》
- NAME_Serenity_Garden:0 《宁静花园》
- NAME_Serenity_College:0 《宁静学院》
- NAME_Serenity_Spire:0 “宁静尖塔”
- NAME_Serenity_Grid:0 “宁静网格”
- NAME_Garden_of_Tranquility:0 《宁静的花园》
- NAME_Tranquility_Garden:0 《宁静花园》
- NAME_Garden_of_Harmony:0 “和谐花园”
- NAME_Throne_of_Immortality:0 “不朽王座”
- NAME_Immortal_Throne:0 《不朽的王座》
- NAME_Shipyard_District:0 《造船区》
- NAME_University_District:0 “大学区”
- NAME_Banking_District:0 “银行区”
- NAME_Throne_of_Prosperity:0 “繁荣宝座”
- NAME_Prosperity_Throne:0 《繁荣宝座》
- NAME_Throne_of_Sempiternity:0 “永恒王座”
- NAME_Forge_of_Infinity:0 “无限熔炉”
- NAME_Infinite_Horizon:0 《无限地平线》
- Name_Ancient_Forge:0 “远古熔炉”
- NAME_Star_Forge:0 “星锻”
- Name_Black_Forge:0 “黑熔炉”
- NAME_Forge_of_Justice:0 《正义熔炉》
- NAME_Justice_Forge:0 《正义熔炉》
- NAME_Forge_of_Glory:0 “荣耀熔炉”
- NAME_The_Fountain:0 “喷泉”
- NAME_Fountain_of_Knowledge:0 “知识之泉”
- NAME_Shadowland:0 《暗影国度》
- NAME_Vortex:0 “涡流”
- NAME_Nexus:0 “关系”
- NAME_Abyss:0 “深渊”
- NAME_Rift:0 “裂痕”
- NAME_Darkness:0 “黑暗”
+ NAME_Dystopia:0 "反乌托邦"
+ NAME_Light_of_Eternity:0 "永恒之光"
+ NAME_Eternal_Light:0 "永恒之光"
+ NAME_Eternal_Power:0 "永恒的力量"
+ NAME_Eternal_Knowledge:0 "永恒的知识"
+ NAME_Eternal_Valor:0 "永恒的勇气"
+ NAME_Light_of_Majesty:0 "威严之光"
+ NAME_Majestic_Light:0 "雄伟之光"
+ NAME_Light_of_Triumph:0 "凯旋之光"
+ NAME_Garden_of_Serenity:0 "宁静花园"
+ NAME_Serenity_Garden:0 "宁静花园"
+ NAME_Serenity_College:0 "宁静学院"
+ NAME_Serenity_Spire:0 "宁静尖塔"
+ NAME_Serenity_Grid:0 "宁静网格"
+ NAME_Garden_of_Tranquility:0 "宁静花园"
+ NAME_Tranquility_Garden:0 "宁静花园"
+ NAME_Garden_of_Harmony:0 "和谐花园"
+ NAME_Throne_of_Immortality:0 "不朽王座"
+ NAME_Immortal_Throne:0 "不朽王座"
+ NAME_Shipyard_District:0 "造船厂区"
+ NAME_University_District:0 "大学区"
+ NAME_Banking_District:0 "银行区"
+ NAME_Throne_of_Prosperity:0 "繁荣王座"
+ NAME_Prosperity_Throne:0 "繁荣宝座"
+ NAME_Throne_of_Sempiternity:0 "永恒王座"
+ NAME_Forge_of_Infinity:0 "无限熔炉"
+ NAME_Infinite_Horizon:0 "无限地平线"
+ Name_Ancient_Forge:0 "远古熔炉"
+ NAME_Star_Forge:0 "星际锻造"
+ Name_Black_Forge:0 "黑熔炉"
+ NAME_Forge_of_Justice:0 "正义熔炉"
+ NAME_Justice_Forge:0 "正义熔炉"
+ NAME_Forge_of_Glory:0 "荣耀熔炉"
+ NAME_The_Fountain:0 "喷泉"
+ NAME_Fountain_of_Knowledge:0 "知识之泉"
+ NAME_Shadowland:0 "暗影国度"
+ NAME_Vortex:0 "涡流"
+ NAME_Nexus:0 "关系"
+ NAME_Abyss:0 "深渊"
+ NAME_Rift:0 "裂痕"
+ NAME_Darkness:0 "黑暗"
 
- d_ancestor_ruins:0 “古遗址”
- d_ancestor_ruins_desc:0 “有迹象表明，在这些古代废墟下生活着孤立的社区。”
- d_ancestor_ruins_custom_tooltip:0 “§Y1§! £pop£ Pop 已创建”
- d_ancestor_mineral_vault:0 《远古矿藏》
- d_ancestor_mineral_vault_desc:0 “扫描仪探测到隐藏在地表下的大量矿物质。”
- d_ancestor_ship_graveyard:0 《远古星舰墓地》
- d_ancestor_ship_graveyard_desc:0 “表面散落着似乎是古代星舰的残余物。”
- d_ancestor_archives:0 《祖宗档案》
- d_ancestor_archives_desc:0 “这个古老的数据库似乎包含着大量的知识。”
+ d_ancestor_ruins:0 "古遗址"
+ d_ancestor_ruins_desc:0 "有迹象表明，在这些古老的废墟下生活着孤立的社区。"
+ d_ancestor_ruins_custom_tooltip:0 "§Y1§! ,£pop£ Pop 诞生"
+ d_ancestor_mineral_vault:0 "古代矿库"
+ d_ancestor_mineral_vault_desc:0 "扫描仪检测到隐藏在地表下的大量矿物质。"
+ d_ancestor_ship_graveyard:0 "远古星舰墓地"
+ d_ancestor_ship_graveyard_desc:0 "似乎是古老星舰的残余物散布在整个表面。"
+ d_ancestor_archives:0 "祖先档案"
+ d_ancestor_archives_desc:0 "这个古老的数据库似乎包含了大量的知识。"
 
- ringworld_empire.1.name:0 “在 [Root.GetName] 上的发现”
- ringworld_empire.1.desc:0 “传感器报告来自 §H[Root.GetName]§! 未探索区域的一些不寻常的金属读数。在该区域进行一些挖掘后，我们的团队有了发现。古代战舰的遗迹埋在这里，但出于某种未知原因，它们,似乎奇怪的熟悉。一组考古学家很快加入了调查，令人不安的是，这些设计与我们的 §H[Root.Owner.GetSpeciesAdj]§! 祖先绘制的原始图纸相符。这怎么可能？这些船早于我们对 § 的最早记录,H[Root.Owner.GetSpeciesAdj]§! 历史，那时太空飞行本来是不可能的。\n\n虽然生物学家对修改有关 §H[Root.Owner.GetSpeciesAdj]§! 进化的现有理论感到不安，但物理学家和工程师对,在这些飞船上发现的技术。这些武器超出了我们目前对物理学的理解，这些飞船的组装方式和太空飞行能力似乎远远超出了我们的工程经验。为了一劳永逸地解决这个问题，我们的顶级科学家提出了修复,项目以确定这些机器是否真的能够进行太空飞行。,当然，这需要大量资源。\n\n我们的祖先是谁？,谁建造了我们赖以生存的庞大结构？,这些沉船似乎包含了我们过去的所有答案。”
- ringworld_empire.1.desc.hive:0 “传感器报告来自 §H[Root.GetName]§! 未探索区域的一些不寻常的金属读数。在进一步挖掘后，我们的无人机有了发现。古代战舰的遗迹埋藏在这里，但出于某种未知原因，它们似乎隐约似曾相识。 ,[GetArchaeologistPlural] 的一个团队进一步研究了这些发现，并在我们的集体记忆中发现了这些容器的痕迹，这些容器在蜂巢已知的觉醒之前就存在了。虽然我们的自主无人机普遍不安地搅动 [Root.Owner ,.GetRulerTitle] 的记忆更进一步，我们的 [Root.GetScientistPlural] 渴望剖析船只的秘密并将这些知识带到蜂巢。武器装备超出了我们目前对物理的理解，这些船只的组装方式似乎也超出了我们的理解范围,目前的工程经验。为了正确了解这些飞船和其中的技术，我们的 [Root.Owner.GetScientistPlural] 召集了其中最聪明的飞船，以确定这些飞船是否曾经能够进行太空飞行，以及它们是否可以恢复功能。,当然，这样的任务需要大量资源。\n\n为什么这些船只如此熟悉？,谁建造了我们居住的这个巨大结构？,这些沉船可能会找到答案。”
- ringworld_empire.1.desc.machine:0 “在回扫中，传感器无人机在 §H[Root.GetName]§! 上先前调查的网格位置检测到不寻常的物质成分。在对异常进行粗略调查后，挖掘无人机有了一个发现。古代战舰的遗迹被掩埋,在这里，然而他们的设计唤起了我们最古老的数据日志中的认可。一个 [GetArchaeologistPlural] 团队被派往进一步调查，并确认这些船只早于我们最古老的时间戳，从第一个 [Root.Owner.GetSpeciesName] 单元激活之前,在这个环形世界上。这些船只拥有的武器无法量化物理理解，并且应用于它们的建造技术超出了我们复制的能力。在第一个在线单位之前存在的物质证据促使 [Root.Owner. ,GetRulerTitle]，并且已经收集了最具适应性的研究子程序来进一步研究工艺品——如果可能的话，恢复它们的功能。,这样的事业需要大量的物质投资。”
- ringworld_empire.1.a:0 “我们能让他们以某种方式再次飞行吗？”
- ringworld_empire.1.b:0 “为了金属而报废它们。”
- ringworld_empire.1.c:0 “研究他们的技术。”
- ringworld_empire.1.d:0 “别管他们了。古代历史无关紧要。”
+ ringworld_empire.1.name:0 "[Root.GetName] 上的发现"
+ ringworld_empire.1.desc:0 "传感器报告来自 §H[Root.GetName]§! 上未探索区域的一些异常金属读数。,在该区域进行一些挖掘后，我们的团队有了发现。,古老战舰的残骸埋藏在这里，却不知为何，有种莫名的熟悉感。,一组考古学家很快加入了调查，令人不安的是，这些设计与我们的§H[Root.Owner.GetSpeciesAdj]§!,祖先。,怎么会这样？,这些船只早于我们对 §H[Root.Owner.GetSpeciesAdj]§! 的最早记录！,历史上，太空飞行本来是不可能的。\n\n虽然生物学家在 §H[Root.Owner.GetSpeciesAdj]§! 上修改现有理论看起来很不自在。,进化、物理学家和工程师对这些船上发现的技术感到兴奋。,这些武器超出了我们目前对物理学的理解，这些飞船的组装方式和太空飞行能力似乎也超出了我们的工程经验。,为了一劳永逸地解决这个问题，我们的顶尖科学家提出了一项修复计划，以确定这些机器是否真的能够进行太空飞行。,当然，这需要大量资源。\n\n我们的祖先是谁？,谁建造了我们赖以生存的庞大结构？,这些沉船似乎包含了我们过去的所有答案。"
+ ringworld_empire.1.desc.hive:0 "传感器报告来自 §H[Root.GetName]§! 上未探索区域的一些异常金属读数。,经过进一步挖掘，我们的无人机有了发现。,这里埋藏着古代战舰的残骸，但不知为何，它们似乎有些眼熟。 ,[GetArchaeologistPlural] 的一个团队进一步研究了这些发现，并在我们的集体记忆中发现了这些器皿的痕迹，这些器皿是在已知的蜂巢觉醒之前的。,虽然我们的自主无人机普遍对进一步搅动 [Root.Owner.GetRulerTitle] 的记忆感到不安，但我们的 [Root.GetScientistPlural] 渴望剖析飞船的秘密并将这些知识带入蜂巢。,武器装备超出了我们目前对物理学的理解，这些船的组装方式似乎也远远超出了我们目前的工程经验。,为了正确了解这些飞船和其中的技术，我们的 [Root.Owner.GetScientistPlural] 召集了其中最聪明的飞船，以确定这些飞船是否曾经能够进行太空飞行，以及它们是否可以恢复功能。,当然，这样的任务需要大量资源。\n\n为什么这些船只如此熟悉？,谁建造了我们居住的这个巨大结构？,这些沉船可能会找到答案。"
+ ringworld_empire.1.desc.machine:0 "返回扫描中的传感器无人机在 §H[Root.GetName]§! 上先前调查的网格位置内检测到异常物质成分。,在对异常进行粗略调查后，挖掘无人机有了发现。,古代战舰的残骸埋在这里，但它们的设计在我们最古老的数据日志中唤起了人们的认可。,一支 [GetArchaeologistPlural] 团队被派往进一步调查，并确认这些船只早于我们最古老的时间戳，从第一个 [Root.Owner.GetSpeciesName] 单位在这个环世界上激活之前。,这些船只拥有的武器无法量化物理理解，应用于它们的建造技术超出了我们的复制能力。,在第一个在线单位之前出现的物证促使 [Root.Owner.GetRulerTitle] 内部的优先级转移，并且已经收集了最具适应性的研究子程序以进一步调查工艺品 - 如果可能的话，恢复它们的功能。,这样的事业需要大量的物质投资。"
+ ringworld_empire.1.a:0 "我们能让他们以某种方式再次飞行吗？"
+ ringworld_empire.1.b:0 "将它们报废为金属。"
+ ringworld_empire.1.c:0 "研究他们的技术。"
+ ringworld_empire.1.d:0 "别管他们了。,古老的历史是无关紧要的。"
  
- RINGWORLD_FLEET:0 《修复古船》
- RINGWORLD_FLEET_DESC:0 “这些船看起来很旧……真的很旧。然而，它们的设计似乎并非起源于外星人。在这些可怕的外壳上发现的铭文与目前在我们国家博物馆展出的古代文字有着惊人的相似之处，但我们的祖先是,没有想象中的太空飞行能力。\n\n研究飞船的操作需要时间，同时确保它们不会在按错按钮时意外爆炸。”
+ RINGWORLD_FLEET:0 "修复古船"
+ RINGWORLD_FLEET_DESC:0 "这些船看起来很旧……真的很旧。,然而，他们的设计似乎并非起源于外星人。,在这些可怕的外壳上发现的铭文与目前在我们国家博物馆展出的古代文字有着惊人的相似之处，但我们的祖先并不被认为有能力进行太空飞行。\n\n研究飞船的运作需要时间，同时确保它们,不要在按错按钮时意外爆炸。"
 
- ringworld_empire.2.name:0 《修复古船》
- ringworld_empire.2.desc:0 “它开始嗡嗡作响。起初很微弱，就像来自我们遥远而神秘的过去的回声。但随后引擎轰鸣起来，唤醒了一艘被认为早已死去的战舰。武器、生命支持、超空间引擎，所有,上线，由船上的 AI 用古老的 §H[Root.Owner.GetSpeciesAdj]§! 方言宣布。它已被掩埋，不再被遗忘。\n\n我们通过这种方式成功地重新激活了几艘船，我们的海军上将无法,亲身体验这些飞船并看到它们在行动时会更加兴奋。然而，我们的科学家警告不要对任何飞船技术进行逆向工程，或安装我们自己的改装件，因为现代科学仍无法理解它们的工作原理。,我不知道它是怎么做到的，但它起作用了，而且它不会爆炸，”一位工程师脾气暴躁地说。“所以不要毁了它。”\n\n现在越来越明显的是，我们并不是像我们想象的那样起源于原始人,. 在那些原始人之前我们真正的祖先拥有的技术远远超过我们自己，构建我们现在赖以生存的环形世界不会凌驾于他们之上。,一些考古学家认为我们曾经是银河系中的一个重要力量，但由于某种原因，我们的祖先失去了一切，变成了我们所知道的原始人。,但是如何呢？\n\n有意无意，我们的祖先留给我们这些战舰去寻找。,这是一个错误，还是他们希望子孙后代有一天能夺回他们在银河系中应有的地位？,他们是发现了什么难以言喻的恐怖，还是遇到了太多的敌人，以至于出于自保而放弃了自己的帝国？,无论答案是什么，我们似乎都将重新为自己寻找答案。”
- ringworld_empire.2.desc.hive:0 “我们的无人机首先将其报告为嗡嗡声。起初它很微弱，就像蜂巢思维的思想回声，即使在最远的无人机上也会滚动。但随后船只的引擎轰鸣起来，唤醒了一艘长期以来被认为已经死亡的战舰,武器、生命维持系统、超光速引擎——全部都上线了，通过船上的无人机感受到了，就像我们的突触节点一样，飞船与他们交谈。它被掩埋，不再被遗忘。\n\n我们的无人机成功地重新激活了一些,以这种方式运送，我们的无人机战士几乎无法抑制对武器库中这种致命添加剂的兴奋。然而，我们的 [GetScientistPlural] 警告不要进行任何篡改 - 这些船只可能定制适合 §H[Root.Owner.GetSpeciesAdj]§!,生理学，但我们还不了解它们的构造或技术。改装可能会导致无法弥补的损坏或伤害，我们被鼓励对这些船只上的任何功能给予“温和”的触碰。\n\n现在越来越多,显然，Hive 并没有像我们曾经认为的那样从这种结构的生态中出现。,我们曾经在星空漫游，凭借这些飞船所拥有的技术，不难想象我们的思想塑造了我们居住的这个巨型建筑。,我们的一些考古无人机表明我们曾经是银河系中的重要力量，但由于某种原因，思想变得支离破碎和野蛮，退化到我们现在存在的状态。,但是怎么做呢？\n\n我们有意无意地把这些容器留给了我们自己去寻找。,这是一个错误，还是他们希望未来的后裔能夺回他们在银河系中应有的位置？,头脑是否找到了可以与自己竞争的智慧，或者没有无数敌人，他们为了自我保护而故意撤退到这个被毁坏的据点？,无论答案是什么，我们似乎都将重新为自己寻找答案。”
- ringworld_empire.2.desc.machine:0 “废弃船只的最佳功能已经恢复。指定的无人机机组人员的本地音频接收器报告说，发动机的主要输出微弱但稳定地增加，在整个船上回荡，终止于经过适当调整的一致音频放电。以下,主电源恢复后，辅助系统以出乎意料的完整性恢复功能，由船只的集成智能协调，采用过时但可识别的 §H[Root.Owner.GetSpeciesAdj]§! 编码语言。船只被掩埋并停止使用,不再。\n\n其他几艘船只以类似的方式恢复运作，舰队管理算法相应地更新了我们预计的战斗力。分配给这次恢复工作的研究子程序为这次成功输入了警示性附录；修改和,在役船只上尝试对技术进行逆向工程是绝对不明智的。我们还不了解建造背后的方法或技术，尽管与§H[Root.Owner.GetSpeciesName]§! 的物理和网络兼容性。,单位，船只的许多次要功能尚不清楚。,正如一个子程序所假设的那样，修改可能会导致功能意外终止。\n\n船只的存在，以及与联网单元的集成兼容性的证据，已经确定了我们起源的可能可能性；,我们并非起源于此，我们在此结构上的激活已被重新归类为响应中的重新激活。,凭借这些船只拥有的技术，我们可以假设我们居住的环形世界也在我们的能力范围内建造。,我们智能的前一次迭代似乎已经取得了显着进步，将我们的研究子程序引向了另一个问题。,为什么会发生这种降级？\n\n是否有外部因素破坏了我们？,在完全彻底破坏的情况下，我们中央处理的这个实例是否只是一个备份启动？,这些船只处于闲置状态，安全地等待我们的无人机发现。,也许我们毕竟是一个应急计划，我们终于完成了我们之前迭代的指令。”
- ringworld_empire.2.a:0 “让这些飞船进入轨道！”
+ ringworld_empire.2.name:0 "修复的古船"
+ ringworld_empire.2.desc:0 "它开始嗡嗡作响。,起初它很微弱，就像我们遥远而神秘的过去传来的回声。,但随后引擎轰鸣起来，唤醒了一艘被认为早已死亡的战舰。,武器、生命维持系统、超光速引擎，全部上线，由飞船的 AI 在古代§H[Root.Owner.GetSpeciesAdj]§!,方言。,它已被掩埋，不再被遗忘。\n\n我们设法以这种方式重新激活了几艘船，我们的海军上将们非常兴奋地亲眼目睹这些船的行动。,然而，我们的科学家警告不要对飞船的任何技术进行逆向工程，或安装我们自己的改装件，因为现代科学仍无法理解它们的工作原理。 ,“我不知道是怎么做到的，但它起作用了，而且不会爆炸，”一位工程师脾气暴躁地说。 ,“所以不要毁了它。”\n\n现在越来越明显的是，我们并不像我们想象的那样起源于原始人。,在那些原始人之前，我们真正的祖先拥有的技术远远超过我们自己的技术，构建我们现在赖以生存的环形世界也不会凌驾于他们之上。,一些考古学家认为我们曾经是银河系中的一个重要力量，但由于某种原因，我们的祖先失去了一切，变成了我们所知道的原始人。,但是如何呢？\n\n有意无意，我们的祖先留给我们这些战舰去寻找。,这是一个错误，还是他们希望子孙后代有一天能夺回他们在银河系中应有的地位？,他们是发现了什么难以言喻的恐怖，还是遇到了太多的敌人，以至于出于自保而放弃了自己的帝国？,无论答案是什么，我们似乎都将重新为自己寻找答案。"
+ ringworld_empire.2.desc.hive:0 "我们的无人机首先将其报告为嗡嗡声。,一开始它很微弱，就像来自蜂巢意志的思想回声，即使在最远的无人机上也能滚动。,但随后船只的引擎轰鸣起来，唤醒了一艘长期以来被认为已经死亡和掩埋的战舰。,武器、生命维持系统、超光速引擎——所有这些都上线了，通过船上的无人机感受到了，因为这艘船就像我们的突触节点一样与他们交谈。,它不再被掩埋和遗忘。\n\n我们的无人机设法以这种方式重新激活了更多的船只，我们的战士无人机几乎无法抑制他们对武器库中这种致命添加剂的兴奋。,然而，我们的 [GetScientistPlural] 警告不要进行任何篡改 - 这些容器可能适合 §H[Root.Owner.GetSpeciesAdj]§!,生理学，但我们还不了解它们的结构或技术。,改装可能会导致无法弥补的损坏或伤害，我们被鼓励对这些船只上的任何功能进行“温和”处理。\n\n现在越来越明显的是，蜂巢并不是从这种结构的生态中出现的，,正如我们曾经想的那样。,我们曾经在星空漫游，凭借这些飞船所拥有的技术，不难想象我们的思想塑造了我们居住的这个巨型建筑。,我们的一些考古无人机表明我们曾经是银河系中的重要力量，但由于某种原因，思想变得支离破碎和野蛮，退化到我们现在存在的状态。,但是怎么做呢？\n\n我们有意无意地把这些容器留给了我们自己去寻找。,这是一个错误，还是他们希望未来的后裔能夺回他们在银河系中应有的地位？,头脑是否找到了可以与自己或无数敌人竞争的智慧，他们故意撤退到这个被毁的据点以求自我保护？,无论答案是什么，我们似乎都将重新为自己寻找答案。"
+ ringworld_empire.2.desc.machine:0 "已恢复废弃船只的最佳功能。,指定的无人机机组人员的本地音频接收器报告说，发动机的主要输出微弱但稳定地增加，在整个船上回荡，以适当调整的一致声音放电终止。,在主电源恢复后，辅助系统以出乎意料的完整性恢复功能，由船只的集成智能以过时但可识别的§H[Root.Owner.GetSpeciesAdj]§! 进行协调。,编码语言。,该船只已被掩埋，不再使用。\n\n其他几艘船只以类似方式恢复运作，舰队管理算法相应地更新了我们预计的战斗力。,分配给这项修复工作的研究子程序已为这一成功输入了警示性附录；,严禁对现役船只上的技术进行修改和逆向工程。,我们还不了解构建背后的方法或技术，尽管与 §H[Root.Owner.GetSpeciesName]§! 的物理和网络兼容性！,单位，船只的许多次要功能尚不清楚。,正如一个子程序所假设的那样，修改可能会导致功能意外终止。\n\n船只的存在，以及与联网单元的集成兼容性的证据，已经确定了我们起源的可能可能性；,我们并非起源于此，我们在此结构上的激活已被重新归类为响应中的重新激活。,凭借这些船只拥有的技术，我们可以假设我们居住的环形世界也在我们的能力范围内建造。,我们智能的前一次迭代似乎已经取得了显着进步，将我们的研究子程序引向了另一个问题。,为什么会发生这种降级？\n\n是否有外部因素破坏了我们？,在完全彻底破坏的情况下，我们中央处理的这个实例是否只是一个备份启动？,这些船只处于闲置状态，安全地等待我们的无人机发现。,也许我们毕竟是一个应急计划，我们终于完成了我们之前迭代的指令。"
+ ringworld_empire.2.a:0 "让这些飞船进入轨道！"
 
- ringworld_empire.3.name:0 “敌人暴露”
- ringworld_empire.3.desc:0 “在存储在我们祖先战舰上的高度加密文件中，经常提到§H复仇女神§!。翻译软件的最新升级使我们能够更多地了解我们祖先的时代和将许多文明化为尘埃的大远征。然而，,我们仍然无法确定这个 §HNemesis§! 的起源，或者我们是如何开始战斗的。\n\n在一个异次元入侵者、星际恐怖和偶然事件同时肆虐银河系的时期，我们的祖先在很大程度上做到了,远离危险，这本身就是一项了不起的壮举，如果这些邪恶怪物的记载是真实的。我们知道“伟大的十字军东征”在幸存的文明中很快就开始了，§HColossus World Destroyer§! 是其中之一,这种武器在大远征期间首次部署。另一种由我们祖先的敌人部署的代号为“毁灭者”的武器在战斗中被俘虏，并被我们的祖先打捞起来用于研究。\n\n毁灭者的下落是绝密的，,但经过多年的调查，我们能够在 §H[Root.GetName]§! 上找到这个隐藏设施。,科学家们请求允许像我们对我们祖先的战舰所做的那样修复这种武器。”
- ringworld_empire.3.desc.hive:0 “在我们古代战舰上存储的高度加密的文件中，经常提到 §HNemesis§!。最近对我们的翻译软件和突触整合的升级使我们能够发现更多关于心灵的上一个时代，以及伟大的远征,将许多文明化为尘埃。然而，我们仍然无法确定这个§H宿敌§!的起源，或者我们是如何开始战斗的。\n\n在一个异次元入侵者、星际访客和杀人机器智能同时肆虐的时期,银河系中，心灵在很大程度上设法避开了伤害，如果我们对这些恐怖的古老记忆是真实的，这本身就是一个了不起的壮举。我们知道“伟大的远征”在幸存的文明之后不久就开始了,, 而§HColossus World Destroyer§! 是大远征期间首次部署的武器之一。另一件由心灵之敌部署的此类武器，被命名为“毁灭者”，在战斗中被摧毁，其残骸被我们的无人机打捞出来用于研究。 ,\n\n毁灭之神的下落在我们的记忆中是模糊的，但经过多年的调查，我们能够找到隐藏在 §H[Root.GetName]§! 上的设施。,我们的 [Root.Owner.GetScientistPlural] 请求允许恢复这件武器，就像我们对以前的船只所做的那样。”
- ringworld_empire.3.desc.machine:0 “在我们之前迭代的战舰上存储的高度加密的文件中，经常提到 §HNemesis§!。最近对我们网络集成的精简使我们能够发现更多关于之前迭代的时代，以及改变了许多人的大远征,文明化为尘埃。然而，研究子程序无法确定这个§H宿敌§!的起源，或者我们是如何开始战斗的。\n\n在一个异次元入侵者、星际恐怖和 §R[数据污染被清除的时期,]§! 同时摧毁了银河系，我们之前的迭代成功地避开了伤害，这很可能是统计上的异常结果。我们知道“伟大的远征”在幸存的文明之后不久就开始了，§HColossus World Destroyer ,§! 是大远征期间首次部署的武器之一。上一次迭代的敌人部署的另一种此类武器，指定为“末日赐予者”，在战斗中被摧毁，其残骸被迭代的无人机打捞用于研究。\n\n下落,Doomgiver 的机密信息仍在我们幸存的数据库中，但经过多年的调查和密码破译，我们能够将其位置隔离到 §H[Root.GetName]§! 上的一个隐藏设施中。,我们的研究子程序请求允许恢复这种武器，以符合在我们之前迭代的战舰上进行的尝试。”
- ringworld_empire.3.a:0 “我们可以试一试。”
- ringworld_empire.3.b:0 “不。为了金属而报废它。”
- ringworld_empire.3.c:0 “只研究它的技术。”
- ringworld_empire.3.d:0 “别管它，这把武器太危险了。”
+ ringworld_empire.3.name:0 "敌人现身"
+ ringworld_empire.3.desc:0 "在存储在我们祖先战舰上的高度加密的文件中，经常提到§H复仇女神§!。,最近翻译软件的升级使我们能够更多地了解我们祖先的时代和将许多文明化为尘埃的大远征。,然而，我们仍然无法确定这个 §HNemesis§! 的起源，或者我们是如何开始战斗的。\n\n在一个异次元入侵者、星际恐怖和偶然事件同时肆虐银河的时期，我们的祖先设法,大部分是为了远离伤害，如果这些邪恶怪物的记载是真实的，这本身就是一项了不起的壮举。,我们知道“伟大的远征”在幸存的文明和§H巨像世界毁灭者§！,是在大远征期间首次部署的此类武器之一。,我们祖先的敌人部署的另一种此类武器，代号为“毁灭者”，在战斗中被俘获，并被我们的祖先打捞起来用于研究。\n\n毁灭者的下落是绝密的，但经过多年的调查，我们能够,在 §H[Root.GetName]§! 找到这个隐藏设施。,科学家请求允许恢复这种武器，就像我们对我们祖先的战舰所做的那样。"
+ ringworld_empire.3.desc.hive:0 "在我们古代战舰上存储的高度加密文件中，经常提到§H复仇女神§!。,最近对我们的翻译软件和突触整合的升级让我们能够更多地了解 Mind 的上一个时代，以及将许多文明化为尘土的大远征。,然而，我们仍然无法确定这个 §HNemesis§! 的起源，或者我们是如何开始战斗的。\n\n在一个异次元入侵者、星际访客和凶残的机器智能同时肆虐银河系的时期，心灵设法,大部分是为了远离伤害，如果我们对这些恐怖的古老记忆是真实的话，这本身就是一项了不起的壮举。,我们知道“伟大的远征”在幸存的文明和§H巨像世界毁灭者§！,是大远征期间首次部署的武器之一。,另一个由心灵之敌部署的此类武器，指定为“毁灭者”，在战斗中被摧毁，其残骸被我们的无人机打捞起来用于研究。\n\n毁灭者的下落在我们的记忆中变得模糊不清，但经过多年的调查，我们能够,找到隐藏在 §H[Root.GetName]§! 上的隐藏设施。,我们的 [Root.Owner.GetScientistPlural] 请求允许恢复这件武器，就像我们对以前的船只所做的那样。"
+ ringworld_empire.3.desc.machine:0 "在我们之前迭代的战舰上存储的高度加密的文件中，经常提到§H复仇女神§!。,最近对我们网络集成的精简让我们能够更多地了解上一次迭代的时代，以及将许多文明化为尘土的大远征。,然而，研究子程序无法确定这个 §H复仇者§! 的起源，或者我们是如何开始战斗的。\n\n在一个存在超维入侵者、星际恐怖和 §R[数据污染已清除]§! 的时期。,同时破坏了银河系，我们之前的迭代设法保持安全，这在统计上很可能是异常的结果。,我们知道“伟大的远征”在幸存的文明和§H巨像世界毁灭者§！,是大远征期间首次部署的武器之一。,前一次迭代的敌人部署的另一种此类武器，指定为“毁灭者”，在战斗中被摧毁，它的残骸被迭代的无人机打捞起来用于研究。\n\n毁灭者的下落仍然在我们幸存的数据库中分类，但在之后,经过多年的调查和破译密码，我们能够将其位置隔离到 §H[Root.GetName]§! 上的一个隐藏设施。,我们的研究子程序请求允许恢复此武器，以符合在我们之前迭代的战舰上进行的尝试。"
+ ringworld_empire.3.a:0 "我们可以试一试。"
+ ringworld_empire.3.b:0 "不。报废它的金属。"
+ ringworld_empire.3.c:0 "只研究它的技术。"
+ ringworld_empire.3.d:0 "不要管它。,这种武器太危险了。"
  
- RINGWORLD_TITAN:0 “祖先的祸根”
- RINGWORLD_TITAN_DESC:0 “虽然我们的祖先竭尽全力用他们古老的语言记录‘末日赐予者’的工作原理，但事实证明，这艘船的 AI 在它灭亡前已经摧毁了船上的大部分技术，很明显，我们的祖先试图用他们的语言改造这艘船,拥有自己的技术，以便可以对其进行进一步研究。如果我们向该项目投入大量资源，我们可以尝试恢复“毁灭战士”的力量。\n\n一如既往，我们将采取预防措施并花费大量时间，以确保这件事不会发生,不小心爆炸了。”
+ RINGWORLD_TITAN:0 "先祖之祸"
+ RINGWORLD_TITAN_DESC:0 "虽然我们的祖先竭尽全力用他们古老的语言记录“厄运赐予者”的工作原理，但事实证明，这艘船的 AI 在它灭亡前已经摧毁了船上的大部分技术，很明显，我们的祖先试图用他们自己的方式改造这艘船,技术，以便进一步研究。,如果我们为该项目投入大量资源，我们可以尝试恢复“毁灭战士”的力量。\n\n一如既往，我们会采取预防措施并留出大量时间，以确保这东西不会意外爆炸。"
 
- ringworld_empire.4.name:0 “毁灭者修复”
- ringworld_empire.4.desc:0 “当末日赐予者飞上 §H[Root.GetName]§! 的天空时，我们的科学家不禁怀疑这是否一直是我们祖先的计划：拯救末日赐予者不仅是为了研究敌人的弱点,，但很明显我们的祖先希望它在他们的旗帜下再次飞翔。仍然自豪地佩戴着这个§HNemesis§!的徽章，Doomgiver会伏击跳出超空间的敌方舰队，用它的武器炸毁他们，并震惊敌人,海军上将们说他们被自己的一艘船炸毁了。至少，那是我们祖先的报复想法。\n\n在某个时候，修复项目被放弃了。我们的祖先可能输掉了战争，变成了我们所知道的原始人,§H[Root.Owner.GetSpeciesAdj]§! 历史。人们不得不怀疑，如果他们没有输掉战争，我们现在会在哪里？更重要的是，毁灭我们祖先的 §HNemesis§! 发生了什么事？,他们还在这个银河系的某个地方吗？如果是的话，他们还会把我们当成劲敌吗，我们还会为了生存而战吗？”
- ringworld_empire.4.desc.hive:0 “当末日赐予者翱翔于 §H[Root.GetName]§! 的天空时，我们的 [Root.Owner.GetScientistPlural] 忍不住想知道这是否一直是心灵的计划。拯救末日赐予者的目的不仅仅是为了,研究敌人的弱点，但很明显，心灵希望它再次在我们的蜂群下飞行。仍然穿着这个§H复仇女神§!的颜色和纹章，毁灭战士会从超空间出现在敌人舰队后面，向他们开火,用它的武器在他们的舰队指挥官中播下恐怖和混乱的种子。至少，这是心灵的报复想法。\n\n在某个时候，这个修复项目被放弃了，被掩埋以供我们的无人机再次找到。它代表,蜂巢被打败的原因，我们的思想被隔离到这个孤立的撤退和转移，直到我们的雄蜂再次唤醒感知 - 作为 §H[Root.Owner.GetSpeciesAdj]§! 历史。虽然思想想知道，如果它没有,输了战争，我们现在会在哪里？更重要的是，§H复仇女神§!,谁毁了我们的蜂巢？,他们还在这个银河系的某个地方吗？,如此一来，他们还会对我们不屑一顾，逼迫我们再次为生存而战吗？”
- ringworld_empire.4.desc.machine:0 “当末日赐予者翱翔于 §H[Root.GetName]§! 的天空时，我们的 [Root.Owner.GetScientistPlural] 假设这一直是前一次迭代的意图的理论。救助末日赐予者不仅是为了帮助研究,他们的技术，但很可能迭代计划也将其用于舰队作战。仍然装饰着这个§HNemesis§!的视觉标记，Doomgiver 会对参与的舰队资产进行欺骗性打击，将其有效载荷发射到,毫无戒心的舰队指挥单位认为它是一艘盟军船只。无论哪种方式，这种策略都是最合乎逻辑的解释。\n\n由于未知因素，这个策略被放弃，船只被埋葬并被遗忘，让我们重新发现。它是与,我们之前的迭代很可能很快就失去了宏观参与，并被迫激活其备用核心，将我们降为我们从§H[Root.Owner.GetSpeciesAdj]§! 历史中了解到的劣等单位。中央情报局,奇迹虽然 - 如果我们之前的迭代没有输掉战争，现在会在哪里？,更重要的是，§H宿敌§!,谁毁了它？,他们还在这个银河系的某个地方吗？,如果是这样，他们是否仍然对我们充满敌意，是否不可避免地会再次发生冲突？”
- ringworld_empire.4.a:0 “我想我们会知道的。”
+ ringworld_empire.4.name:0 "毁灭战士已修复"
+ ringworld_empire.4.desc:0 "当末日赐予者翱翔于 §H[Root.GetName]§! 的天空时，我们的科学家不禁怀疑这是否一直是我们祖先的计划：拯救末日赐予者不仅是为了研究敌人的弱点，,但很明显，我们的祖先希望它在他们的旗帜下再次飞翔。,仍然自豪地佩戴着这个§HNemesis§! 的徽章，毁灭战士会伏击跳出超空间的敌方舰队，用它的武器炸毁它们，并让敌方海军上将震惊他们正在被他们自己的一艘船炸毁。,至少，那是我们祖先的报复想法。\n\n在某个时候，修复项目被放弃了。,我们的祖先大概输掉了战争，变成了我们在 §H[Root.Owner.GetSpeciesAdj]§!,历史。,但是，人们不得不怀疑，如果他们没有输掉战争，我们现在会在哪里？,更重要的是，§H宿敌§!,谁毁了我们的祖先？,他们还在这个银河系的某个地方吗？,如果是这样，他们还把我们当劲敌吗，我们还会为了生存而战吗？"
+ ringworld_empire.4.desc.hive:0 "当末日赐予者飞上 §H[Root.GetName]§! 的天空时，我们的 [Root.Owner.GetScientistPlural] 忍不住怀疑这是否一直是 Mind 的计划。 ,Doomgiver 被救出不仅是为了研究敌人的弱点，而且很明显 Mind 希望它再次在我们的蜂群下飞行。,仍然穿着这个 §HNemesis§! 的颜色和纹章，Doomgiver 会从敌人舰队后面的超空间出现，用它的武器向他们开火，并在他们的舰队指挥官中播下恐惧和混乱。,至少，这是 Mind 的报复想法。\n\n在某个时候，这个修复项目被放弃了，被掩埋起来等待我们的无人机再次找到。,蜂巢被打败是理所当然的，我们的思想被隔离到这个孤立的撤退处并转移，直到我们的雄蜂再次唤醒知觉 - 作为 §H[Root.Owner.GetSpeciesAdj]§!,历史。,不过，The Mind 想知道，如果它没有输掉战争，我们现在会在哪里？,更重要的是，§H宿敌§!,谁毁了我们的蜂巢？,他们还在这个银河系的某个地方吗？,如果是这样，他们是否还会对我们不屑一顾，还要逼迫我们再次为生存而战？"
+ ringworld_empire.4.desc.machine:0 "当末日赐予者飞上 §H[Root.GetName]§! 的天空时，我们的 [Root.Owner.GetScientistPlural] 假设这一直是上一次迭代的意图。 ,Doomgiver 被打捞起来不仅是为了帮助研究他们的技术，而且迭代很可能也计划将其用于舰队作战。,仍然装饰着这个§HNemesis§! 的视觉标记，Doomgiver 会对参与的舰队资产进行欺骗性打击，将其有效载荷发射到毫无戒心的舰队指挥单位，认为它是盟军船只。,无论哪种方式，这个策略都是最合乎逻辑的解释。\n\n由于未知因素，这个策略被放弃，船只被埋葬并被遗忘，让我们重新发现。,很可能我们之前的迭代很快就失去了宏观参与，并被迫激活其备用核心，将我们降为我们从 §H[Root.Owner.GetSpeciesAdj]§! 中了解到的劣等单位。,历史。,中央情报局想知道——如果我们之前的迭代没有输掉战争，现在会在哪里？,更重要的是，§H宿敌§!,谁毁了它？,他们还在这个银河系的某个地方吗？,如果是这样，他们是否仍然对我们充满敌意，是否不可避免地会再次发生冲突？"
+ ringworld_empire.4.a:0 "我想我们会知道的。"
 
- ringworld_empire.5.name:0 “新环世界设计”
- ringworld_empire.5.desc:0 “自从我们提升以来，我们的建筑师一直在努力为我们的环形世界设计新外观。这些设计现在已经准备就绪。也许是时候对我们的环形世界进行改造了？”
- ringworld_empire.5.a:0 “做吧。”
- ringworld_empire.5.b:0 “将它用于未来的建设。”
+ ringworld_empire.5.name:0 "新的环世界设计"
+ ringworld_empire.5.desc:0 "自从我们提升以来，我们的建筑师一直在努力为我们的环形世界设计新外观。,这些设计现已准备就绪。,也许是时候对我们的环形世界进行改造了？"
+ ringworld_empire.5.a:0 "做吧。"
+ ringworld_empire.5.b:0 "将其用于未来的建设。"
 
- ringworld_empire.6.name:0 “暗物质之力？”
- ringworld_empire.6.desc:0 “经过多年的研究，我们的 [Root.GetScientistPlural] 终于得出结论，驱动我们祖先船只的动力源实际上是一种暗物质，它可以如此可预测地扭曲引力，以至于可以提炼成燃料。事实上，,一些 [GetScientistPlural] 甚至相信整个文明都可以建立在这个单一的能源之上——其含义是深不可测的。\n\n现在，我们只能从理论上推断这项技术的其他潜在应用。如果我们研究这个能源，,它肯定会让我们更接近几千年前我们祖先的水平。”
- ringworld_empire.6.a:0 “立即开始研究！”
- ringworld_empire.6.b:0 “这是什么？把这些东西报废。矿物赢得战争。”
- ringworld_empire.6.c:0 “理论化，但不要做任何愚蠢的事情，好吗？”
- ringworld_empire.6.d:0 “也许有些秘密最好还是埋起来……”
+ ringworld_empire.6.name:0 "暗物质能量？"
+ ringworld_empire.6.desc:0 "经过多年的研究，我们的 [Root.GetScientistPlural] 最终得出结论，驱动我们祖先飞船的动力源实际上是一种暗物质，它可以如此可预测地扭曲引力，以至于可以提炼成燃料。,事实上，一些 [GetScientistPlural] 甚至相信整个文明都可以建立在这个单一的能源之上——其含义是深不可测的。\n\n现在，我们只能对这项技术的其他潜在应用进行理论化。,如果研究出这种能量源，那肯定会让我们更接近几千年前我们祖先的水平。"
+ ringworld_empire.6.a:0 "立即开始研究！"
+ ringworld_empire.6.b:0 "这是什么？,废了这东西,矿物赢得战争。"
+ ringworld_empire.6.c:0 "理论化，但不要做任何愚蠢的事情，好吗？"
+ ringworld_empire.6.d:0 "也许最好把一些秘密埋起来……"
 
 
  

@@ -13,17 +13,24 @@ const apiUrl = "https://translate.googleapis.com/translate_a/single";
  */
 const translate = async (text) => {
   try {
+    const inQuotes = text[0] === '"' && text[text.length - 1] === '"';
+    const textPart = inQuotes ? text.slice(1, -1) : text;
+    if (textPart.trim() === "") {
+      return text;
+    }
     const params = new URLSearchParams({
       client: "gtx",
       sl: "en",
       tl: "zh",
       dt: "t",
-      q: text,
+      q: textPart,
     });
     const res = await fetch(`${apiUrl}?${params.toString()}`);
-    const [arr] = await res.json();
+    const json = await res.json();
+    const [arr] = json;
     const strs = arr.map((item) => item[0]);
-    return strs.join();
+    const sentense = strs.join();
+    return inQuotes ? `"${sentense}"` : sentense;
   } catch (ex) {
     console.log("====> 翻译失败");
     console.error(ex);
@@ -51,7 +58,9 @@ const processLine = async (line) => {
 const run = async () => {
   const startTime = Date.now();
   await rm(`localisation/${target}`, { recursive: true, force: true });
-  const files = await glob(`localisation/${source}/**/*.yml`);
+  const files = await glob(
+    `localisation/${source}/**/*.yml`
+  );
   for (const file of files) {
     console.log("开始翻译文件{%s}", file);
     const relativePath = path.relative(`localisation/${source}`, file);
@@ -75,7 +84,7 @@ const run = async () => {
         `${fileName.replace(source, target)}.yml`
       );
       console.log("开始写入新文件{%s}", newFileName);
-      await writeFile(newFileName, result.join(os.EOL), {
+      await writeFile(newFileName, "\ufeff" + result.join(os.EOL), {
         encoding: "utf8",
       });
       console.log("文件{%s}写入完成", newFileName);

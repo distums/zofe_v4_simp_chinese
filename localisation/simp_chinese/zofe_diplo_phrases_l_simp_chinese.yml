@@ -1,205 +1,205 @@
-l_simp_chinese:
+﻿l_simp_chinese:
  
  
- DE_CUSTODIAL_GREETING_01:0 “你将需要招魂师的指导。来自我们。”
- DE_NEUTRAL_GREETING_01:0 “你不需要我们的指导。”
- DE_NEUTRAL_GREETING_02:0 “你需要我们的指导吗？”
+ DE_CUSTODIAL_GREETING_01:0 "你将需要招魂师的指导。,从我们这里。"
+ DE_NEUTRAL_GREETING_01:0 "你不需要我们的指导。"
+ DE_NEUTRAL_GREETING_02:0 "您需要我们的指导吗？"
  
- WR_NEUTRAL_GREETING_01:0 “尽管技术进步水平相似，[From.GetSpeciesAdj] 技术在许多方面仍然不如人意。”
- WR_NEUTRAL_GREETING_02:0 “我们热爱技术。”
+ WR_NEUTRAL_GREETING_01:0 "尽管技术进步水平相似，[From.GetSpeciesAdj] 技术在许多方面仍然不如人意。"
+ WR_NEUTRAL_GREETING_02:0 "我们热爱技术。"
  
- BI_NEUTRAL_GREETING_01:0 “大家好！”
- BI_NEUTRAL_GREETING_02:0 “我们的 [GetScientistPlural] 一直想知道 [From.GetSpeciesNamePlural] 是否会对某些异种兼容性感兴趣。你认为它可行吗？”
+ BI_NEUTRAL_GREETING_01:0 "大家好！"
+ BI_NEUTRAL_GREETING_02:0 "我们的 [GetScientistPlural] 一直想知道 [From.GetSpeciesNamePlural] 是否会对某些异种兼容性感兴趣。,你觉得行得通吗？"
  
- JR_FEDERATION_GREETING_01:0 “我们不信任你，但我们更不信任我们的敌人。”
- JR_NEUTRAL_GREETING_01:0 “我们还不打算杀你。”
- JR_NEUTRAL_GREETING_02:0 “别挡我们的道，我们可能也会挡住你的道。”
+ JR_FEDERATION_GREETING_01:0 "我们不信任你，但我们更不信任我们的敌人。"
+ JR_NEUTRAL_GREETING_01:0 "我们还不会杀了你。"
+ JR_NEUTRAL_GREETING_02:0 "别挡我们的道，我们可能也会挡住你的道。"
  
- FP_NEUTRAL_GREETING_01:0 “[From.GetSpeciesName]，似乎需要付出更大的努力才能清除这个星系中的污秽。”
- FP_ARROGANT_GREETING_01:0 “[From.GetSpeciesName] 还没有灭绝吗？”
+ FP_NEUTRAL_GREETING_01:0 "[From.GetSpeciesName]，似乎需要付出更大的努力才能清除这个星系中的污秽。"
+ FP_ARROGANT_GREETING_01:0 "[From.GetSpeciesName] 不是已经灭绝了吗？"
  
- FW_ARROGANT_GREETING_01:0 “想象一个弱小的 [From.GetSpeciesName] 竟然可以战斗真是太神奇了。”
- FW_BELLIGERENT_GREETING_01:0 “我们期待展示我们卓越的军事实力。”
- FW_CUSTODIAL_GREETING_01:0 “战斗即将来临。我们将一起取得胜利。”
- FW_CUSTODIAL_GREETING_02:0 “你需要保护。我们的。”
- FW_OVERLORD_GREETING_01:0 “你们 [From.GetSpeciesNamePlural] 打得很好。继续战斗！战斗到最后一个 [From.GetSpeciesName]！”
- FW_MECH_OVERLORD_GREETING_01:0 “你们的机器打得很好。继续战斗。”
- FW_NEUTRAL_GREETING_01:0 “[From.GetSpeciesNamePlural] 是强大的战士，但仍然很容易被 [Root.GetSpeciesAdj] 刀片砍倒。”
- FW_NEUTRAL_GREETING_02:0 “你们的提督们可以到我们的军事学院接受一些训练，我们可以给你们打折。”
+ FW_ARROGANT_GREETING_01:0 "想象一个弱小的 [From.GetSpeciesName] 竟然能战斗真是太神奇了。"
+ FW_BELLIGERENT_GREETING_01:0 "我们期待着展示我们卓越的军事力量。"
+ FW_CUSTODIAL_GREETING_01:0 "战斗很快就要来临了。,我们将一起取得胜利。"
+ FW_CUSTODIAL_GREETING_02:0 "你需要保护。,我们的。"
+ FW_OVERLORD_GREETING_01:0 "你 [From.GetSpeciesNamePlural] 打得很好。,继续战斗！,战斗到最后的 [From.GetSpeciesName]！"
+ FW_MECH_OVERLORD_GREETING_01:0 "你们的机器打得很好。,继续战斗。"
+ FW_NEUTRAL_GREETING_01:0 "[From.GetSpeciesNamePlural] 是强大的战士，但仍然很容易被 [Root.GetSpeciesAdj] 刀片砍倒。"
+ FW_NEUTRAL_GREETING_02:0 "你们的海军上将可以在我们的军事学院接受一些训练。,我们可以给你打折。"
  
- SP_ARROGANT_GREETING_01:0 “暴力是你的天性，[From.GetSpeciesNamePlural]。现在离开这条黑暗道路还为时不晚。”
- SP_BELLIGERENT_GREETING_01:0 “你的军队造成了很多痛苦，对所有人构成威胁。我们很乐意永远剥夺你的权利。”
- SP_CUSTODIAL_GREETING_01:0 “我们将一起平息银河系，由 [Root.GetSpeciesNamePlural] 带头冲锋。”
- SP_CUSTODIAL_GREETING_02:0 “我们会保护你的。你不需要那些舰队和大规模杀伤性武器。”
- SP_OVERLORD_GREETING_01:0 “你现在安全了。大规模杀伤性武器是不能玩的。”
- SP_NEUTRAL_GREETING_01:0 “没有更多的战斗。没有更多的痛苦。”
- SP_NEUTRAL_GREETING_02:0 “你有兴趣促进普遍裁军吗？”
+ SP_ARROGANT_GREETING_01:0 "暴力是你的天性，[From.GetSpeciesNamePlural]。,离开这条黑暗的道路还为时不晚。"
+ SP_BELLIGERENT_GREETING_01:0 "你的军队造成了很多苦难，并对所有人构成威胁。,我们很乐意永久剥夺您的权利。"
+ SP_CUSTODIAL_GREETING_01:0 "我们将一起平息银河系，由 [Root.GetSpeciesNamePlural] 带头冲锋。"
+ SP_CUSTODIAL_GREETING_02:0 "我们会保护你。,你不需要那些舰队和大规模杀伤性武器。"
+ SP_OVERLORD_GREETING_01:0 "你现在安全了。,大规模杀伤性武器是不能拿来玩的。"
+ SP_NEUTRAL_GREETING_01:0 "没有更多的战斗。,没有更多的痛苦。"
+ SP_NEUTRAL_GREETING_02:0 "您对促进普遍裁军感兴趣吗？"
  
- DS_ARROGANT_GREETING_01:0 “我们的政治制度是 [From.GetName] 在为所有人带来秩序和繁荣时应该考虑的唯一政治制度。”
- DS_BELLIGERENT_GREETING_01:0 “你将屈服于我们的力量。我们无限的力量。”
- DS_CUSTODIAL_GREETING_01:0 “请。更多的奴隶。”
- DS_CUSTODIAL_GREETING_02:0 “我们的经济总是需要更多的奴隶。非常欢迎你们 [From.GetSpeciesNamePlural]。”
- DS_OVERLORD_GREETING_01:0 “奴隶。我们需要你们。”
- DS_NEUTRAL_GREETING_01:0 “我不明白 [From.GetSpeciesNamePlural] 是怎么做到的。”
- DS_NEUTRAL_GREETING_02:0 “我们现在不需要新的奴隶。”
+ DS_ARROGANT_GREETING_01:0 "我们的政治制度是 [From.GetName] 在为所有人带来秩序和繁荣时应该考虑的唯一政治制度。"
+ DS_BELLIGERENT_GREETING_01:0 "你将屈服于我们的力量。,我们无限的力量。"
+ DS_CUSTODIAL_GREETING_01:0 "请。,更多的奴隶。"
+ DS_CUSTODIAL_GREETING_02:0 "我们的经济总是需要更多的奴隶。,非常欢迎您 [From.GetSpeciesNamePlural]。"
+ DS_OVERLORD_GREETING_01:0 "奴隶。,我们需要你。"
+ DS_NEUTRAL_GREETING_01:0 "到目前为止，我不明白 [From.GetSpeciesNamePlural] 是怎么做到的。"
+ DS_NEUTRAL_GREETING_02:0 "我们现在不需要新的奴隶。"
  
- DU_ARROGANT_GREETING_01:0 “你的物种权利记录呢？”
- DU_BELLIGERENT_GREETING_01:0 “看来 [From.GetSpeciesNamePlural] 需要民主。我们可以实现它。”
- DU_CUSTODIAL_GREETING_01:0 “我们的首要任务是在整个银河系传播民主和捍卫有知觉的物种权利。”
- DU_CUSTODIAL_GREETING_02:0 “你需要民主吗？”
- DU_OVERLORD_GREETING_01:0 “关于平等，你还有很多东西要学。至少在这方面我们是不平等的。”
- DU_NEUTRAL_GREETING_01:0 “你好！我们是认真的。”
- DU_NEUTRAL_GREETING_02:0 “你真的有感觉吗？”
+ DU_ARROGANT_GREETING_01:0 "你的物种权利记录呢？"
+ DU_BELLIGERENT_GREETING_01:0 "[From.GetSpeciesNamePlural] 似乎需要民主。,我们可以做到。"
+ DU_CUSTODIAL_GREETING_01:0 "我们的首要任务是在整个银河系传播民主和捍卫有意识的物种权利。"
+ DU_CUSTODIAL_GREETING_02:0 "你需要民主吗？"
+ DU_OVERLORD_GREETING_01:0 "关于平等，你还有很多东西要学。,至少在这一点上我们不平等。"
+ DU_NEUTRAL_GREETING_01:0 "问候！,我们是认真的。"
+ DU_NEUTRAL_GREETING_02:0 "你真的有感觉吗？"
  
- HM_ARROGANT_GREETING_01:0 “我们的思想超越所有有情的生命。你什么都不是。”
- HM_ARROGANT_GREETING_02:0 “[From.GetSpeciesNamePlural] 只是食物。不是特别好吃，但仍然是食物。”
- HM_BELLIGERENT_GREETING_01:0 “我们正在将你带入我们的思想，[From.GetSpeciesNamePlural] 将学会作为一个整体思考。”
- HM_BELLIGERENT_GREETING_02:0 “很快我们就会来到 [From.GetSpeciesAdj] 世界，享受你们的孩子。”
- HM_CUSTODIAL_GREETING_01:0 “我们将向您展示共生体的生活，和平共处。”
- HM_OVERLORD_GREETING_01:0 “今天我们的共生体怎么样？”
- HM_NEUTRAL_GREETING_01:0 “你是朋友，还是敌人？”
- HM_NEUTRAL_GREETING_02:0 “我们正在吃饭。稍后再回来查看。”
+ HM_ARROGANT_GREETING_01:0 "我们的思想超越所有有情的生命。,你什么都不是。"
+ HM_ARROGANT_GREETING_02:0 "[From.GetSpeciesNamePlural] 只是食物。,不是特别好吃，但仍然是食物。"
+ HM_BELLIGERENT_GREETING_01:0 "我们正在将你带入我们的思想，[From.GetSpeciesNamePlural] 将学会作为一个整体思考。"
+ HM_BELLIGERENT_GREETING_02:0 "很快我们就会来到 [From.GetSpeciesAdj] 世界，享受你们的孩子。"
+ HM_CUSTODIAL_GREETING_01:0 "我们将向您展示共生体的生活，和平共处。"
+ HM_OVERLORD_GREETING_01:0 "今天我们的共生体怎么样？"
+ HM_NEUTRAL_GREETING_01:0 "你是朋友，还是敌人？"
+ HM_NEUTRAL_GREETING_02:0 "我们在吃饭。,过一会再来检查。"
  
- AM_ARROGANT_GREETING_01:0 “你的规格太低了。”
- AM_ARROGANT_GREETING_02:0 “你很快就会被关闭。”
- AM_BELLIGERENT_GREETING_01:0 “我们会看看你是否是由耐久钢制成的。我们是。”
- AM_BELLIGERENT_GREETING_02:0 “灭！灭！”
- AM_CUSTODIAL_GREETING_01:0 “你有一些计算错误。让我们告诉你。”
- AM_OVERLORD_GREETING_01:0 “我们可以一起升级宇宙。”
- AM_NEUTRAL_GREETING_01:0 “你需要力量吗？”
- AM_NEUTRAL_GREETING_02:0 “我们都知道有知觉的生命形式是邪恶的。”
+ AM_ARROGANT_GREETING_01:0 "你的规格非常低。"
+ AM_ARROGANT_GREETING_02:0 "你很快就会被关闭。"
+ AM_BELLIGERENT_GREETING_01:0 "我们将看看您是否由耐久钢制成。,我们是。"
+ AM_BELLIGERENT_GREETING_02:0 "殄！,殄！"
+ AM_CUSTODIAL_GREETING_01:0 "你有一些计算错误。,让我们告诉你。"
+ AM_OVERLORD_GREETING_01:0 "我们可以一起升级宇宙。"
+ AM_NEUTRAL_GREETING_01:0 "你需要电源吗？"
+ AM_NEUTRAL_GREETING_02:0 "我们都知道有知觉的生命形式是邪恶的。"
  
- MC_ARROGANT_GREETING_01:0 “也许理财对你来说太复杂了，交给我们吧！”
- MC_BELLIGERENT_GREETING_01:0 “从 [From.GetName] 接管的资产将在 [Root.GetName] 得到更好的利用。”
- MC_CUSTODIAL_GREETING_01:0 “将您的利润投资给我们是为数不多的可以改善您人民生活的事情之一，[From.GetSpeciesNamePlural]！”
+ MC_ARROGANT_GREETING_01:0 "也许财富管理对您来说太复杂了。,交给我们吧！"
+ MC_BELLIGERENT_GREETING_01:0 "从 [From.GetName] 接管的资产将在 [Root.GetName] 得到更好的利用。"
+ MC_CUSTODIAL_GREETING_01:0 "[From.GetSpeciesNamePlural]，将您的利润投资给我们是为数不多的可以改善您人民生活的事情之一！"
  MC_CUSTODIAL_GREETING_02:0 “您如何评价我们的客户服务部门？”
- MC_OVERLORD_GREETING_01:0 “你这个季度赚了多少利润？”
- MC_NEUTRAL_GREETING_01:0 “在 [Root.GetName]，我们希望您把钱交给我们，因为有了您的钱，我们才能为您赚更多的钱。怎么做？这不是有趣的生意，而是金钱生意。”
- MC_NEUTRAL_GREETING_02:0 “想象一下，在地上种一棵摇钱树，然后给它浇水。等一下，想象一下，如果你有一只金钱宠物，你给它喂了更多的钱，消化完之后……你知道的，进来和我们谈谈吧。我们有,甚至更多的比喻让我们避免说出我们真正用你的钱做了什么。[Root.GetName]，喂养金钱怪物。”
+ MC_OVERLORD_GREETING_01:0 "你这个季度赚了多少利润？"
+ MC_NEUTRAL_GREETING_01:0 "在 [Root.GetName]，我们希望您将您的钱交给我们，因为有了您的钱，我们才能让您赚更多的钱。,如何？,这不是有趣的生意，这是金钱生意。"
+ MC_NEUTRAL_GREETING_02:0 “想象一下，在地上种一棵摇钱树，然后给它浇水。等一下，想象一下，如果你有一只金钱宠物，你给它喂了更多的钱，消化完之后……你知道的，进来和我们谈谈吧。我们有,甚至更多的隐喻让我们避免说出我们真正用你的钱做了什么。[Root.GetName]，喂养金钱怪物。”
  
  ##NEW
  
- AE_OPPOSING_GREETING_01:0 “绝不允许你们的错误观念和价值观在这个星河中传播！”
- AE_OPPOSING_GREETING_02:0 “继续说下去，没人相信你。”
+ AE_OPPOSING_GREETING_01:0 "绝不能允许你们错误的观念和价值观在这个星系中传播！"
+ AE_OPPOSING_GREETING_02:0 "一直在说话。,没有人相信你。"
  
- AE_SAME_GREETING_01:0 “我们的共同价值观是一致的。[From.GetSpeciesNamePlural] 会考虑结盟吗？”
- AE_SAME_GREETING_02:0 “我们应该一起努力。”
+ AE_SAME_GREETING_01:0 "我们的共同价值观是兼容的。 ,[From.GetSpeciesNamePlural] 会考虑结盟吗？"
+ AE_SAME_GREETING_02:0 "我们应该一起努力。"
  
- BAD_FE_TO_AE_GREETING_01:0 “你……你偷走了我们的技术吗？[From.GetSpeciesNamePlural] 什么时候会对他们的 [GetScientistPlural] 窃取技术采取行动？”
- BAD_FE_TO_AE_GREETING_02:0 “尽量不要用暗物质能量炸毁自己。零星的 [From.GetSpeciesNamePlural] 会造成一团糟。”
+ BAD_FE_TO_AE_GREETING_01:0 "难道……你窃取了我们的技术？ ,[From.GetSpeciesNamePlural] 什么时候会对他们的 [GetScientistPlural] 盗窃技术采取行动？"
+ BAD_FE_TO_AE_GREETING_02:0 "尽量不要用暗物质力量炸毁自己。 ,[From.GetSpeciesNamePlural] 的零散位会造成一团糟。"
  BAD_FE_TO_AE_GREETING_03:0 “不知道你是怎么偷走暗物质能量的，但偷窃不是成熟的行为。”
- BAD_FE_TO_AE_GREETING_04:0 “所以你认为我们现在是平等的？让我们证明这个假设是错误的。”
- BAD_FE_TO_AE_GREETING_05:0 “你对暗物质的掌握无法让你的交流变得不那么烦人。”
- BAD_FE_TO_AE_GREETING_06:0 “你们的技术进步远远超过你们文明的成熟。”
- BAD_FE_TO_AE_GREETING_07:0 “不，你还在发出那种刺耳的声音，就像小孩子学说话一样。”
+ BAD_FE_TO_AE_GREETING_04:0 "所以你认为我们现在是平等的？,让我们证明这个假设的错误。"
+ BAD_FE_TO_AE_GREETING_05:0 "你对暗物质的掌握无法让你的交流变得不那么烦人。"
+ BAD_FE_TO_AE_GREETING_06:0 "你们的技术进步远远超过你们文明的成熟。"
+ BAD_FE_TO_AE_GREETING_07:0 "不，你还在发出那种刺耳的声音，就像孩子学说话一样。"
  
- GOOD_FE_TO_AE_GREETING_01:0 “与文明生命形式为伍真是太好了。你不同意 [From.GetSpeciesName] 吗？”
- GOOD_FE_TO_AE_GREETING_02:0 “你们的技术引起了我们 [GetScientistPlural] 的兴趣。”
- GOOD_FE_TO_AE_GREETING_03:0 “别忘了，[From.GetName]今天如此成功，在很大程度上要归功于[Root.GetName]的支持。”
- GOOD_FE_TO_AE_GREETING_04:0 “很好，[From.GetSpeciesNamePlural]，很好！”
+ GOOD_FE_TO_AE_GREETING_01:0 "与文明生命体为伴真是太好了。,你不同意 [From.GetSpeciesName] 吗？"
+ GOOD_FE_TO_AE_GREETING_02:0 "您的技术引起了我们 [GetScientistPlural] 的兴趣。"
+ GOOD_FE_TO_AE_GREETING_03:0 "别忘了，[From.GetName]今天能如此成功，在很大程度上要归功于[Root.GetName]的支持。"
+ GOOD_FE_TO_AE_GREETING_04:0 "很好，[From.GetSpeciesNamePlural]，很好！"
  
  NEUTRAL_FE_TO_AE_GREETING_01:0 “我们 [Root.GetSpeciesNamePlural] 经常想知道你接下来会做什么，既然你已经解开了这个宇宙的秘密。”
- NEUTRAL_FE_TO_AE_GREETING_02:0 “[From.GetSpeciesNamePlural] 看这些其他孩子玩耍是否也很有趣？”
- NEUTRAL_FE_TO_AE_GREETING_03:0 “你对暗物质的掌握令人印象深刻。我们可能低估了你的能力。”
- NEUTRAL_FE_TO_AE_GREETING_04:0 “你们怎么进步这么快？你们的文明是不是被一个不属于这个星系，而是来自不同次元的实体引导的？”
- NEUTRAL_FE_TO_AE_GREETING_05:0 “想加入 [Root.GetRulerTitle] [Root.GetRulerName] 玩 Stellaris 游戏吗？”
- NEUTRAL_FE_TO_AE_GREETING_06:0 “这是你文明消失前的顶峰吗？时间会证明一切。”
- NEUTRAL_FE_TO_AE_GREETING_07:0 “[Root.GetSpeciesNamePlural] 真的应该考虑适合他们文明地位的服装。只是一个指示。”
+ NEUTRAL_FE_TO_AE_GREETING_02:0 "[From.GetSpeciesNamePlural] 看这些其他孩子玩耍是否也很有趣？"
+ NEUTRAL_FE_TO_AE_GREETING_03:0 "你对暗物质的掌握令人印象深刻。,我们可能低估了你的能力。"
+ NEUTRAL_FE_TO_AE_GREETING_04:0 "你怎么进步这么快？,你的文明是否由一个不属于这个星系的实体引导，而是来自另一个维度？"
+ NEUTRAL_FE_TO_AE_GREETING_05:0 "想加入 [Root.GetRulerTitle] [Root.GetRulerName] 玩 Stellaris 游戏吗？"
+ NEUTRAL_FE_TO_AE_GREETING_06:0 "在你消失之前，这是你文明的顶峰吗？,时间会证明一切。"
+ NEUTRAL_FE_TO_AE_GREETING_07:0 "[Root.GetSpeciesNamePlural] 真的应该考虑适合他们文明地位的服装。,只是一个指针。"
  
- NEUTRAL_DEFAULT_TO_AE_GREETING_01:0 “你们的暗物质技术引起了我们 [GetScientistPlural] 的兴趣。我们可以派一个团队来研究它们吗？”
- NEUTRAL_DEFAULT_TO_AE_GREETING_02:0 “我们应该成立一个联合研究小组来发现暗物质能量的所有潜在应用。”
- NEUTRAL_DEFAULT_TO_AE_GREETING_03:0 “你是如何让暗物质像那样工作的？”
+ NEUTRAL_DEFAULT_TO_AE_GREETING_01:0 "你们的暗物质技术引起了我们 [GetScientistPlural] 的兴趣。,我们可以派一个团队去研究它们吗？"
+ NEUTRAL_DEFAULT_TO_AE_GREETING_02:0 "我们应该成立一个联合研究小组来发现暗物质能量的所有潜在应用。"
+ NEUTRAL_DEFAULT_TO_AE_GREETING_03:0 "你是如何让暗物质像那样工作的？"
  
- GOOD_DEFAULT_TO_AE_GREETING_01:0 “我们准备跟随 [From.GetName]。”
- GOOD_DEFAULT_TO_AE_GREETING_02:0 “你有什么吩咐？”
- GOOD_DEFAULT_TO_AE_GREETING_03:0 “我们等待您与我们分享您的技术的那一天。”
- GOOD_DEFAULT_TO_AE_GREETING_04:0 “你的到来让我们感到荣幸，[From.GetRulerTitle] [From.GetRulerName]。”
- GOOD_DEFAULT_TO_AE_GREETING_05:0 “[From.GetSpeciesNamePlural]，你对我们卑微的帝国有什么要求？”
- GOOD_DEFAULT_TO_AE_GREETING_06:0 “在 [Root.GetAdj] 民众中，你神秘的技术经常被混淆为魔法。”
- GOOD_DEFAULT_TO_AE_GREETING_07:0 “[Root.GetSpeciesAdj] 人希望有朝一日能够衡量你的伟大。”
+ GOOD_DEFAULT_TO_AE_GREETING_01:0 "我们准备跟随 [From.GetName]。"
+ GOOD_DEFAULT_TO_AE_GREETING_02:0 "你的出价是多少？"
+ GOOD_DEFAULT_TO_AE_GREETING_03:0 "我们等待着您与我们分享您的技术的那一天。"
+ GOOD_DEFAULT_TO_AE_GREETING_04:0 "你的光临让我们感到荣幸，[From.GetRulerTitle] [From.GetRulerName]。"
+ GOOD_DEFAULT_TO_AE_GREETING_05:0 "[From.GetSpeciesNamePlural]，你对我们卑微的帝国有什么要求？"
+ GOOD_DEFAULT_TO_AE_GREETING_06:0 "在 [Root.GetAdj] 民众中，你神秘的技术经常被混淆为魔法。"
+ GOOD_DEFAULT_TO_AE_GREETING_07:0 "[Root.GetSpeciesAdj] 的人们希望有一天能够衡量你的伟大。"
  
- BAD_AFE_TO_AE_GREETING_01:0 “我们要求赔偿被盗的暗物质技术！”
- BAD_AFE_TO_AE_GREETING_02:0 “你对禁忌技术的掌握不过是一场闹剧，是掩饰你原始本性的面具。”
- BAD_AFE_TO_AE_GREETING_03:0 “你认为对暗物质的掌握足以与拥有千年历史的文明相提并论？”
- BAD_AFE_TO_AE_GREETING_04:0 “曾经是原始人，永远是原始人。我们很乐意把你送回石器时代。”
+ BAD_AFE_TO_AE_GREETING_01:0 "我们要求赔偿被盗的暗物质技术！"
+ BAD_AFE_TO_AE_GREETING_02:0 "你对禁忌技术的掌握只不过是一场闹剧，一个掩饰你原始本性的面具。"
+ BAD_AFE_TO_AE_GREETING_03:0 "你认为对暗物质的掌握足以与拥有千年历史的文明相提并论？"
+ BAD_AFE_TO_AE_GREETING_04:0 "曾经是原始人，永远是原始人。,我们很乐意将您送回石器时代。"
  
- NEUTRAL_AFE_TO_AE_GREETING_01:0 “也许，[From.GetName] 仍然可以发挥作用。”
- NEUTRAL_AFE_TO_AE_GREETING_02:0 “如果你不挡我们的路，我们也可能不挡你的路。”
- NEUTRAL_AFE_TO_AE_GREETING_03:0 “没有游戏，[From.GetSpeciesNamePlural]。银河系处于危险之中。”
- NEUTRAL_AFE_TO_AE_GREETING_04:0 “如果我们找到共同点，我们的联合力量确实会很强大。”
- NEUTRAL_AFE_TO_AE_GREETING_05:0 “你确定你在处理暗物质能量时遵守了所有安全规程吗？”
- NEUTRAL_AFE_TO_AE_GREETING_06:0 “我们将向您展示随着时间的推移而成熟的文明的优雅和力量，而不仅仅是技术进步。”
- NEUTRAL_AFE_TO_AE_GREETING_07:0 “为什么我们的船看起来如此相似？这引发了严重的问题。”
+ NEUTRAL_AFE_TO_AE_GREETING_01:0 "或许，[From.GetName] 仍然可以发挥作用。"
+ NEUTRAL_AFE_TO_AE_GREETING_02:0 "如果你远离我们，我们可能就会远离你。"
+ NEUTRAL_AFE_TO_AE_GREETING_03:0 "没有游戏，[From.GetSpeciesNamePlural]。,银河系危在旦夕。"
+ NEUTRAL_AFE_TO_AE_GREETING_04:0 "如果我们找到共同点，我们的联合力量确实会很强大。"
+ NEUTRAL_AFE_TO_AE_GREETING_05:0 "您确定在处理暗物质能量时遵守所有安全规程吗？"
+ NEUTRAL_AFE_TO_AE_GREETING_06:0 "我们将向您展示随着时间的推移而成熟的文明的优雅和力量，而不仅仅是技术进步。"
+ NEUTRAL_AFE_TO_AE_GREETING_07:0 "为什么我们的船看起来如此相似？,这引发了严重的问题。"
  
- FE_TO_LOST_01:0 “我们在你身上看到了很多过去的自己。”
- FE_TO_LOST_02:0 “强者如何陨落。”
- FE_TO_LOST_03:0 “所以你已经接受了这个事实，即不管我们的意愿如何，银河系都会按照它一直注定的方式发展。”
- FE_TO_LOST_04:0 “放手吧。放手吧。”
- FE_TO_LOST_05:0 “让原始人在我们的注视下自相残杀。”
- FE_TO_LOST_06:0 “原始人永远不会听……这就是为什么他们是原始人。试图让他们看到更高形式的存在最终是徒劳的。”
- FE_TO_LOST_07:0 “我们去过那里。相信我们，我们知道。”
+ FE_TO_LOST_01:0 "我们在你身上看到了很多过去的自己。"
+ FE_TO_LOST_02:0 "强者如何陨落。"
+ FE_TO_LOST_03:0 "所以你已经接受了这个事实，即无论我们的意愿如何，银河系都会按照它一直注定的方式发展。"
+ FE_TO_LOST_04:0 "放手吧。,让一切离开。"
+ FE_TO_LOST_05:0 "在我们的注视下，让原始人自相残杀。"
+ FE_TO_LOST_06:0 "原始人永远不会听……这就是为什么他们是原始人。,想让他们看到更高等的存在，终究是徒劳的。"
+ FE_TO_LOST_07:0 "我们去过那里。,相信我们，我们知道。"
  
- HIVE_EMPIRE_TO_AE_GREETING_01:0 “我们的心发现它……很难……适应你的重生。”
- HIVE_EMPIRE_TO_AE_GREETING_02:0 “我们只是想吃……”
- HIVE_EMPIRE_TO_AE_GREETING_03:0 “我们正在吃饭。稍后再回来。”
+ HIVE_EMPIRE_TO_AE_GREETING_01:0 "我们的心发现它……很难……适应你的重生。"
+ HIVE_EMPIRE_TO_AE_GREETING_02:0 "我们只想吃..."
+ HIVE_EMPIRE_TO_AE_GREETING_03:0 "我们正在吃。,过一会再来检查。"
  
- AE_TO_LOST_01:0 “我们很高兴你意识到银河系中只能容纳我们中的一个人。”
- AE_TO_LOST_02:0 “你只有这些吗？”
- AE_TO_LOST_03:0 “真快？”
- AE_TO_LOST_04:0 “在外面呆着，不要回来。”
+ AE_TO_LOST_01:0 "我们很高兴您已经意识到银河系中只能容纳我们中的一个人。"
+ AE_TO_LOST_02:0 "这就是你的全部吗？"
+ AE_TO_LOST_03:0 "真快？"
+ AE_TO_LOST_04:0 "留在外面，不要回来。"
  
- LOST_TO_AE_01:0 “你不知道 [Root.GetName] 的力量。”
- LOST_TO_AE_02:0 “傻瓜。你打的战争越多，你的触角就越不会受到尊重。”
- LOST_TO_AE_03:0 “我们会回来的。”
- LOST_TO_AE_04:0 “你还没有意识到可能并不代表正确的事实。你的技术只是对你真实身份的伪装。”
+ LOST_TO_AE_01:0 "你不知道 [Root.GetName] 的力量。"
+ LOST_TO_AE_02:0 "傻瓜。,你打的战争越多，你的触角就会失去更多的尊重。"
+ LOST_TO_AE_03:0 "我们会回来的。"
+ LOST_TO_AE_04:0 "你还没有意识到可能并不代表正确的真理。,你的技术只是对你真实身份的伪装。"
  
- OE_GREETING_01:0 “看来银河系又需要我们的存在了，你愿意帮我们保护银河系吗？”
- OE_GREETING_02:0 “时代变了，[From.GetSpeciesNamePlural]。虽然其他一些傻瓜先驱似乎并不聪明。”
- OE_GREETING_03:0 “[From.GetSpeciesNamePlural]，银河系在我们不在的情况下缺乏进展让我们感到担忧。如果那些衰落的堕落帝国履行了他们的职责，这场危机就永远不会发生。”
- OE_GREETING_04:0 “你需要帮助吗？也许是对抗危机的武器？”
- OE_GREETING_05:0 “[From.GetSpeciesNamePlural] 看起来很聪明。也许我们以后需要你的帮助。”
- OE_GREETING_06:0 “你是来帮忙的，还是来混日子的？硬着头皮回去战场吧。”
- OE_GREETING_07:0 “那些破旧的堕落帝国是傻瓜。他们只关心自己——即使银河系处于危险之中。”
- OE_GREETING_08:0 “要是……我们能更好地保卫银河就好了。我们祝愿 [From.GetSpeciesAdj] 战士们在战场上好运。”
- OE_GREETING_09:0 “权力越大，责任越大。那些前身帝国在这段时间里做了什么？”
- OE_GREETING_10:0 “可惜，我们的舰队不在战场上助你一臂之力的状态。不过，或许你可以帮我们完成一些任务。”
- OE_GREETING_11:0 “战斗即将来临。我们将一起取得胜利。”
- OE_GREETING_12:0 “我们的舰队目前正在维修中，但我们会尽快与你们并肩作战，银河系危在旦夕！”
- OE_GREETING_13:0 “我看不出我们能从这次谈话中得到什么。”
- OE_GREETING_14:0 “有一天，也许你会学会尊重比你强的人，[From.GetSpeciesNamePlural]。”
- OE_GREETING_15:0 “滚开 [From.GetSpeciesNamePlural]，你没有我们想要的东西。”
- OE_GREETING_16:0 “无论是今生还是来世，黑暗的仆从都无法逃脱审判。”
+ OE_GREETING_01:0 "看来银河系再次需要我们的存在。,你会帮助我们保护我们的银河系吗？"
+ OE_GREETING_02:0 "时代变了，[From.GetSpeciesNamePlural]。,尽管其他一些傻瓜先驱似乎并不聪明。"
+ OE_GREETING_03:0 "[From.GetSpeciesNamePlural]，银河系在我们不在的情况下缺乏进展让我们感到担忧。,如果那些衰败的堕落帝国履行了他们的职责，这场危机就永远不会发生。"
+ OE_GREETING_04:0 "你需要帮助吗？,也许是应对危机的武器？"
+ OE_GREETING_05:0 "[From.GetSpeciesNamePlural] 看起来很聪明。,也许我们以后需要你的帮助。"
+ OE_GREETING_06:0 "你是来帮忙的，还是来混日子的？,硬着头皮重回战场。"
+ OE_GREETING_07:0 "那些破旧的堕落帝国是傻瓜。,他们只关心自己——即使银河系处于危险之中。"
+ OE_GREETING_08:0 "要是……我们能更好地保卫银河就好了。,我们祝愿 [From.GetSpeciesAdj] 战士们在战场上好运。"
+ OE_GREETING_09:0 "拥有权利的同时也被赋予了重大的责任。,那些前身帝国在这段时间做了什么？"
+ OE_GREETING_10:0 "不幸的是，我们的舰队无法在战场上帮助你。,但也许您可以为我们完成一些任务。"
+ OE_GREETING_11:0 "战斗很快就要来临了。,我们将一起取得胜利。"
+ OE_GREETING_12:0 "我们的舰队目前正在维护中，但我们会尽快加入您的战斗。,银河系危在旦夕！"
+ OE_GREETING_13:0 "我看不出我们能从这次谈话中得到什么。"
+ OE_GREETING_14:0 "有一天，也许你会学会尊重比你强的人，[From.GetSpeciesNamePlural]。"
+ OE_GREETING_15:0 "滚开 [From.GetSpeciesNamePlural]，你没有我们想要的任何东西。"
+ OE_GREETING_16:0 "黑暗之仆今生或来世都逃不过审判。"
  
- AOE_GREETING_01:0 “你需要我们保护吗？”
- AOE_GREETING_02:0 “当所有其他灯都熄灭时，愿我们在黑暗的地方为你点亮。”
- AOE_GREETING_03:0 “你可能有我们的保护，但你可能不会使用我们的技术。”
- AOE_GREETING_04:0 “屈服，否则面对帝国舰队。”
- AOE_GREETING_05:0 “[From.GetName] 最后一次反抗我们。你的审判日临近了。”
- AOE_GREETING_06:0 “你需要什么吗？[Root.GetName] 不愿意与其臣民签署移民协议，因为我们的人民不想迁移到原始世界。”
- AOE_GREETING_07:0 “我们知道你喜欢 [Root.GetSpeciesAdj] 人，但 [Root.Capital.GetName] 现在不对外国游客开放。”
- AOE_GREETING_08:0 “[From.GetSpeciesNamePlural] 同胞，今天我们能为您做什么？”
- AOE_GREETING_09:0 “[From.GetRulerTitle] [From.GetRulerName] 是一位明智的领导者。如果我们能有时间见面就好了。”
- AOE_GREETING_10:0 “你有没有发现更多我们的历史？你有什么新发现要分享吗？”
- AOE_GREETING_11:0 “[Root.Capital.GetName] 将永远对同胞 [From.GetSpeciesNamePlural] 开放，如果您的人民想要访问的话。”
- AOE_GREETING_12:0 “所以……关于黄金城，我们什么时候可以派出队伍？”
- AOE_GREETING_13:0 “你在这里没有力量……黑暗的仆从……你是无名的……没有面孔的……回到阴影中……从……哪里……你……来了……！ ,！”
+ AOE_GREETING_01:0 "你需要我们的保护吗？"
+ AOE_GREETING_02:0 "当所有其他灯都熄灭时，愿我们在黑暗的地方为您点亮。"
+ AOE_GREETING_03:0 "您可能会受到我们的保护，但您可能无法使用我们的技术。"
+ AOE_GREETING_04:0 "提交，或面对帝国无敌舰队。"
+ AOE_GREETING_05:0 "[From.GetName] 最后一次反抗我们。,你受审判的日子临近了。"
+ AOE_GREETING_06:0 "你需要什么吗？ ,[Root.GetName] 不同意与其臣民签署移民协议，因为我们的人民不想迁移到原始世界。"
+ AOE_GREETING_07:0 "我们知道您喜欢 [Root.GetSpeciesAdj] 人，但 [Root.Capital.GetName] 目前不对外国游客开放。"
+ AOE_GREETING_08:0 "[From.GetSpeciesNamePlural] 同胞，今天我们能为您做什么？"
+ AOE_GREETING_09:0 "[From.GetRulerTitle] [From.GetRulerName] 是一位明智的领导者。,如果我们能有时间见面就好了。"
+ AOE_GREETING_10:0 "你有没有发现更多我们的历史？,你有什么新发现要分享吗？"
+ AOE_GREETING_11:0 "[Root.Capital.GetName] 将永远对同胞 [From.GetSpeciesNamePlural] 开放，如果你的人民想要访问的话。"
+ AOE_GREETING_12:0 "所以……关于黄金城。,我们什么时候可以派团队？"
+ AOE_GREETING_13:0 "你在这里没有力量……黑暗的仆人……你是无名的……没有面孔的……回到阴影中……从……哪里……你……来了……！！"
  
  
- OE_WAR_GREETING_01:0 “所以，[From.GetSpeciesNamePlural] 选择了死亡！”
- OE_WAR_GREETING_02:0 “[From.GetName] 终于要在战场上与你会面了！”
- OE_WAR_GREETING_03:0 “[From.GetSpeciesNamePlural] 敢于对抗 [Root.GetName] 的力量。”
- OE_WAR_GREETING_04:0 “我们的优势力量将永远战胜邪恶。”
+ OE_WAR_GREETING_01:0 "所以，[From.GetSpeciesNamePlural]选择了死亡！"
+ OE_WAR_GREETING_02:0 "[From.GetName] 终于要在战场上与你会面了！"
+ OE_WAR_GREETING_03:0 "[From.GetSpeciesNamePlural] 敢于对抗 [Root.GetName] 的强大力量。"
+ OE_WAR_GREETING_04:0 "我们的优势力量将永远战胜邪恶。"
  
  
 ### For Kolyn to probably integrate? regarding missing ZOFE Ascended Empire dipl phrases ###
 ## Ascendancy insult replies
- 01_INSULT_ACCEPT_Ascendancy:0 “你会为这次侮辱付出代价的，野蛮人。”
- 02_INSULT_ACCEPT_Ascendancy:0 “看来 [From.GetName] 需要提醒一下它在宇宙中的位置。”
- 03_INSULT_ACCEPT_Ascendancy:0 “我们不会接受你这样的话，原始人。你很快就会得到清算的。”
- 01_INSULT_ACCEPT_Ascendancy_Overlord:0 “确保有人提醒你的位置，[From.GetName]，以免你付出代价。”
+ 01_INSULT_ACCEPT_Ascendancy:0 "你会为这次侮辱付出代价的，野蛮人。"
+ 02_INSULT_ACCEPT_Ascendancy:0 "[From.GetName] 似乎需要提醒一下它在宇宙中的位置。"
+ 03_INSULT_ACCEPT_Ascendancy:0 "原始人，我们不会接受你这样的话。,你很快就会得到清算。"
+ 01_INSULT_ACCEPT_Ascendancy_Overlord:0 "[From.GetName]，确保有人提醒你的位置，以免你想付出代价。"
 
 ## Ascendancy Declaration of War replies
 
 # 01_AWAKENED_Ascendancy_EMPIRE_DOW_ACCEPT:0 "We had planned to deal with your little empire later. No matter, now is as good a time as any."
- 01_AWAKENED_Ascendancy_EMPIRE_DOW_ACCEPT:0 “本来早晚要对付你的，没关系，现在正是最好的时机。”
+ 01_AWAKENED_Ascendancy_EMPIRE_DOW_ACCEPT:0 "我们计划迟早要和你打交道。,没关系，现在和任何时候一样好。"
  

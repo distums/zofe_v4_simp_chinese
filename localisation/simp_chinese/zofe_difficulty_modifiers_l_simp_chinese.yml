@@ -1,74 +1,74 @@
-l_simp_chinese:
+﻿l_simp_chinese:
 
 
- normal_difficulty:0 《普通难度》
- normal_difficulty_desc:0 “我对你的勇气、忠诚度和战斗技巧充满信心。我们将接受完全胜利。祝你好运！”
+ normal_difficulty:0 "普通难度"
+ normal_difficulty_desc:0 "我对你的勇气、忠于职守和战斗技巧充满信心。,我们只会接受完全的胜利。,祝你好运！"
  
- precursor_maneuvers:0 “先驱演习”
- precursor_maneuvers_desc:0 “这个帝国的战斗演习充满了古老的智慧和大远征的经验。”
+ precursor_maneuvers:0 "先行者机动"
+ precursor_maneuvers_desc:0 "这个帝国的战斗演习充满了古老的智慧和大远征的经验。"
  
- seen_it_once:0 “见过一次”
- seen_it_once_desc:0 “无论敌人使用何种战术，这个先行者帝国似乎总能准确应对。”
+ seen_it_once:0 "看过一次"
+ seen_it_once_desc:0 "无论敌人使用何种战术，这个先行者帝国似乎总能准确应对。"
  
- ancient_building:0 《古建筑》
- ancient_building_desc:0 “这个先行者帝国的古老城堡已经矗立了数千年，在这段时间里甚至经受了最凶猛的袭击。”
+ ancient_building:0 "古建筑"
+ ancient_building_desc:0 "这个先行者帝国的古老城堡已经屹立了数千年，在这段时间里甚至经受了最凶猛的攻击。"
  
- ancient_adversary:0 《远古对手》
- ancient_adversary_desc:0 “这个对手很古老，它的力量已经建立了数千年。”
+ ancient_adversary:0 "远古对手"
+ ancient_adversary_desc:0 "这个对手是古老的，已经建立了数千年的力量。"
 
 
- hard_difficulty:0 《困难重重》
- hard_difficulty_desc:0 “因为敌人很强大。他可能会击退我们的部队。成功可能不会以匆忙的速度到来，但我们会一次又一次地回来。”
+ hard_difficulty:0 "困难难度"
+ hard_difficulty_desc:0 "因为敌人强大。,他可能会击退我们的军队。,成功未必一蹴而就，但我们会一次又一次地回来。"
  
- precursor_tactics:0 “先行者战术”
- precursor_tactics_desc:0 “这个帝国的战术充满了古老的智慧和大远征的经验。”
+ precursor_tactics:0 "先行者战术"
+ precursor_tactics_desc:0 "这个帝国的战术充满了古老的智慧和大远征的经验。"
  
- seen_it_before:0 “以前看过”
- seen_it_before_desc:0 “无论敌人使用何种战术，这个先行者帝国似乎总能准确应对。”
+ seen_it_before:0 "以前看过"
+ seen_it_before_desc:0 "无论敌人使用何种战术，这个先行者帝国似乎总能准确应对。"
  
- ancient_construct:0 “远古建筑”
- ancient_construct_desc:0 “这个先行者帝国的古老城堡已经矗立了数千年，在这段时间里甚至经受了最凶猛的袭击。”
+ ancient_construct:0 "远古建筑"
+ ancient_construct_desc:0 "这个先行者帝国的古老城堡已经屹立了数千年，在这段时间里甚至经受了最凶猛的攻击。"
  
- ancient_foe:0 《远古仇人》
- ancient_foe_desc:0 “这个敌人很古老，它的力量已经积累了数千年。”
- 
- 
- veteran_difficulty:0 “老手难”
- veteral_difficulty_desc:0 “三十年后，当你坐在炉边，孙子跪在你的膝盖上，他问‘你在群星中做了什么？’,你不必咳嗽着说，‘好吧，你的祖父刚刚堆积了享乐主义者。’”
- 
- precursor_doctrine:0 《先驱论》
- precursor_doctrine_desc:0 “这个帝国的战争学说充满了古老的智慧和大远征的经验。”
- 
- seen_it_all_before:0 “以前都看过”
- seen_it_all_before_desc:0 “无论敌人使用何种战术，这个先行者帝国似乎总能准确应对。”
- 
- ancient_fortification:0 《远古要塞》
- ancient_fortification_desc:0 “这个先行者帝国的古老城堡已经矗立了数千年，在这段时间里甚至经受了最凶猛的袭击。”
- 
- ancient_enemy:0 《远古宿敌》
- ancient_enemy_desc:0 “这个敌人很古老，已经建立了数千年的力量。”
+ ancient_foe:0 "远古敌人"
+ ancient_foe_desc:0 "这个敌人是古老的，已经建立了数千年的力量。"
  
  
- nightmare_difficulty:0 “噩梦难度”
- nightmare_difficulty_desc:0 “除了鲜血的辛劳、眼泪和汗水，我没有什么可以奉献的。”
+ veteran_difficulty:0 "老手难度"
+ veteral_difficulty_desc:0 "三十年后，当你坐在炉边，孙子跪在你的膝盖上，他问“你在群星中做了什么？”,你不必咳嗽着说，“好吧，你的祖父只是堆积了享乐主义者。”"
  
- precursor_warfare:0 “先行者战争”
- precursor_warfare_desc:0 “这个帝国进行的战争充满了古老的智慧和大远征的经验。”
+ precursor_doctrine:0 "先驱学说"
+ precursor_doctrine_desc:0 "这个帝国的战争学说充满了古老的智慧和大远征的经验。"
  
- seen_it_all_before_2:0 “以前都看过”
- seen_it_all_before_2_desc:0 “无论敌人使用何种战术，这个先行者帝国似乎总能准确应对。”
+ seen_it_all_before:0 "以前都看过"
+ seen_it_all_before_desc:0 "无论敌人使用何种战术，这个先行者帝国似乎总能准确应对。"
  
- ancient_bastion:0 “远古堡垒”
- ancient_bastion_desc:0 “这个先行者帝国的古老城堡已经矗立了数千年，在这段时间里甚至经受了最凶猛的袭击。”
+ ancient_fortification:0 "古代防御工事"
+ ancient_fortification_desc:0 "这个先行者帝国的古老城堡已经屹立了数千年，在这段时间里甚至经受了最凶猛的攻击。"
  
- ancient_nemesis:0 《远古宿敌》
- ancient_nemesis_desc:0 “这个敌人很古老，已经建立了数千年的力量。”
+ ancient_enemy:0 "远古敌人"
+ ancient_enemy_desc:0 "这个敌人是古老的，已经建立了数千年的力量。"
+ 
+ 
+ nightmare_difficulty:0 "噩梦难度"
+ nightmare_difficulty_desc:0 "除了鲜血、泪水和汗水，我没有什么可以奉献的。"
+ 
+ precursor_warfare:0 "前身战争"
+ precursor_warfare_desc:0 "这个帝国进行的战争充满了古老的智慧和大远征的经验。"
+ 
+ seen_it_all_before_2:0 "以前都看过"
+ seen_it_all_before_2_desc:0 "无论敌人使用何种战术，这个先行者帝国似乎总能准确应对。"
+ 
+ ancient_bastion:0 "古代堡垒"
+ ancient_bastion_desc:0 "这个先行者帝国的古老城堡已经屹立了数千年，在这段时间里甚至经受了最凶猛的攻击。"
+ 
+ ancient_nemesis:0 "远古复仇者"
+ ancient_nemesis_desc:0 "这个敌人是古老的，已经建立了数千年的力量。"
  
  
  ##Fixes
- mod_damage_vs_country_type_marauder_raiders_mult:0 “伤害 vs 掠夺者”
- stop_killing_your_own_raiders:0 “停止杀死你自己的袭击者”
- marauder_raiders_fixed:0 “掠夺者固定”
+ mod_damage_vs_country_type_marauder_raiders_mult:0 "伤害与掠夺者"
+ stop_killing_your_own_raiders:0 "停止杀死你自己的入侵者"
+ marauder_raiders_fixed:0 "掠夺者固定"
  
  
  

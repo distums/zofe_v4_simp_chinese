@@ -1,40 +1,40 @@
-l_simp_chinese:
+﻿l_simp_chinese:
  
- ap_galactic_ascendancy:0 “银河优势”
- ap_galactic_ascendancy_desc:0 “当我们拥有建立跨越千年的文明所需的技术时，年轻的种族将在未来几个世纪中了解我们的成就。”
- ap_galactic_consciousness:0 “银河意识”
- ap_galactic_consciousness_desc:0 “当我们拥有建立跨越千年的文明所需的技术时，我们的思想将把群星统一在一个实体之下。”
- ap_galactic_intelligence:0 “银河情报”
- ap_galactic_intelligence_desc:0 “当我们拥有建立跨越千年的文明所需的技术时，我们的智慧将把星星聚集在一个处理器核心下。”
+ ap_galactic_ascendancy:0 "银河优势"
+ ap_galactic_ascendancy_desc:0 "当我们拥有建立跨越千年的文明所需的技术时，年轻的种族将在未来几个世纪中了解我们的成就。"
+ ap_galactic_consciousness:0 "银河意识"
+ ap_galactic_consciousness_desc:0 "当我们拥有建立跨越千年的文明所需的技术时，我们的思想将把群星统一在一个实体之下。"
+ ap_galactic_intelligence:0 "银河智能"
+ ap_galactic_intelligence_desc:0 "当我们拥有建立跨越千年的文明所需的技术时，我们的智能将把星星聚集在一个处理器核心下。"
  
- become_ascended_empire:2 “我们将成为一个§H帝国§！”
- describe_ascended_empire:0 “\n在文明的顶峰，公民们被一个单一的、狂热的理想团结在一起。§HAscended Empires§! 将培养他们自己的臣民，如觉醒的帝国，并追求他们自己的银河系愿景。\n”
- become_galactic_ascendancy:0 “我们将成为§H银河优势§！”
- describe_galactic_ascendancy:0 “\n随着我们迈向文明的顶峰，我们的帝国将拥有甚至可以与前身帝国相媲美的技术，并成为§H银河优势§!。\n”
+ become_ascended_empire:2 "我们将成为一个§H帝国§！"
+ describe_ascended_empire:0 "\n在文明的顶峰，公民们被一个单一的、狂热的理想团结在一起。 ,§H帝国崛起§!,将培养他们自己的臣民，如觉醒帝国，并追求他们自己的银河系愿景。\n"
+ become_galactic_ascendancy:0 "我们将成为§H银河优势§！"
+ describe_galactic_ascendancy:0 "\n随着我们迈向文明的顶峰，我们的帝国将拥有甚至可以与前身帝国相媲美的技术，并成为§H银河优势§!。\n"
  
- become_ascended_hive_mind:2 “我们将成为一个§H帝国§！”
- describe_ascended_hive_mind:0 “\n在其力量的顶峰，思想的能力得到提升。§H 蜂巢思想 §! 可能会像觉醒帝国一样孕育出他们自己的臣民，或者成为吞噬一切的银河祸害。\n”
- become_galactic_consciousness:0 “我们将成为§H银河意识§！”
- describe_galactic_consciousness:0 “\n随着我们的心智接近其力量的顶点，我们的能力将得到提升。心智将拥有甚至可以与前身帝国相媲美的技术，并成为§H银河意识§!\n”
+ become_ascended_hive_mind:2 "我们将成为一个§H帝国§！"
+ describe_ascended_hive_mind:0 "\n在其力量的顶点，心灵的能力得到提升。 ,§H提升蜂群思维§!,可能会产生自己的臣民，例如觉醒帝国，或者成为吞噬一切的银河祸害。\n"
+ become_galactic_consciousness:0 "我们将成为§H银河意识§！"
+ describe_galactic_consciousness:0 "\n随着我们的心智接近其力量的顶点，我们的能力将得到提升。,心灵将拥有甚至可以与前身帝国相媲美的技术，并成为§H银河意识§!\n"
  
- become_ascended_machine:2 “我们将成为一个§H帝国§！”
- describe_ascended_machine:0 “\n在其力量的顶点，机器意识拥有无与伦比的智慧和处理能力。§H机器帝国§!将像觉醒帝国一样追求他们对银河系的愿景，或者成为无情的有机灭绝者。\n”
- become_galactic_intelligence:2 “我们将成为§H银河智能§！”
- describe_galactic_intelligence:0 “\n随着我们的机器智能达到其力量的顶峰，我们的处理器将变得更加高效。我们的机器意识将拥有无与伦比的智能和甚至可以与先驱帝国相媲美的技术，并成为§H银河智能§!\ ,n"
+ become_ascended_machine:2 "我们将成为一个§H帝国§！"
+ describe_ascended_machine:0 "\n在其力量的顶点，机器意识拥有无与伦比的智能和处理能力。 ,§H飞升的机器帝国§!,将像觉醒帝国一样追求他们对银河系的愿景，或者成为无情的有机灭绝者。\n"
+ become_galactic_intelligence:2 "我们将成为§H银河智能§！"
+ describe_galactic_intelligence:0 "\n随着我们的机器智能达到其能力的顶峰，我们的处理器将变得更加高效。,我们的机器意识将拥有无与伦比的智慧和甚至可以与先驱帝国相媲美的技术，并成为§H银河智能§!\n"
  
- requires_technology_dark_matter_power:0 “$TRIGGER_FAIL$需要 £physics §Y$tech_dark_matter_power_core$§! 技术。”
- requires_technology_ascension_theory:0 “$TRIGGER_FAIL$需要£society §Y$tech_ascension_theory$§!技术。”
- requires_ascension_perks_4:1 “$TRIGGER_FAIL$需要先选择另外四个飞升技能。”
- requires_ascension_perks_5:1 “$TRIGGER_FAIL$需要先选择另外五个飞升技能。”
- requires_ascension_perks_6:1 “$TRIGGER_FAIL$需要先选择其他六个飞升技能。”
- requires_ascension_perks_7:1 “$TRIGGER_FAIL$需要先选择其他七个飞升技能。”
+ requires_technology_dark_matter_power:0 "$TRIGGER_FAIL$需要£物理学§Y$tech_dark_matter_power_core$§！,技术。"
+ requires_technology_ascension_theory:0 "$TRIGGER_FAIL$需要£社会§Y$tech_ascension_theory$§！,技术。"
+ requires_ascension_perks_4:1 "$TRIGGER_FAIL$需要先选择另外四个飞升技能。"
+ requires_ascension_perks_5:1 "$TRIGGER_FAIL$需要先选择另外五个飞升技能。"
+ requires_ascension_perks_6:1 "$TRIGGER_FAIL$需要首先选择其他六个升华津贴。"
+ requires_ascension_perks_7:1 "$TRIGGER_FAIL$需要先选择其他七个升华特权。"
 
- requires_min_navy_1:0 “$TRIGGER_FAIL$要求我们的帝国至少拥有 §H125k§! 的舰队力量。”
- requires_min_navy_2:0 “$TRIGGER_FAIL$要求我们的帝国至少拥有 §H250k§! 的舰队力量。”
- requires_min_navy_3:0 “$TRIGGER_FAIL$要求我们的帝国至少拥有 §H500k§! 的舰队力量。”
- requires_min_navy_4:0 “$TRIGGER_FAIL$要求我们的帝国至少拥有 §H750k§! 的舰队力量。”
- requires_min_navy_5:0 “$TRIGGER_FAIL$要求我们的帝国至少拥有 §H1M§! 的舰队力量。”
- requires_min_navy_6:0 “$TRIGGER_FAIL$要求我们的帝国至少拥有 §H2M§! 舰队力量。”
+ requires_min_navy_1:0 "$TRIGGER_FAIL$要求我们的帝国至少有§H125k§！,舰队力量。"
+ requires_min_navy_2:0 "$TRIGGER_FAIL$要求我们的帝国至少有§H250k§！,舰队力量。"
+ requires_min_navy_3:0 "$TRIGGER_FAIL$要求我们的帝国至少有§H500k§！,舰队力量。"
+ requires_min_navy_4:0 "$TRIGGER_FAIL$要求我们的帝国至少有§H750k§！,舰队力量。"
+ requires_min_navy_5:0 "$TRIGGER_FAIL$要求我们的帝国至少有§H1M§！,舰队力量。"
+ requires_min_navy_6:0 "$TRIGGER_FAIL$要求我们的帝国至少有§H2M§！,舰队力量。"
  
- too_many_ai:0 “$TRIGGER_FAIL$银河系中的 AI 升华帝国太多了！”
+ too_many_ai:0 "$TRIGGER_FAIL$银河系中有太多 AI 升华帝国！"
  

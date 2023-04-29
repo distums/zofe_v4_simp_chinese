@@ -1,95 +1,95 @@
-l_simp_chinese:
+﻿l_simp_chinese:
  
- artifact_lost_technologies_research:0 “恢复丢失的技术”
- artifact_lost_technologies_research_desc:0 “我们的 [GetScientistPlural] 可以对可追溯到几千年前的小型人工制品进行逆向工程，当时堕落帝国正处于鼎盛时期，希望能恢复一些失传已久的技术的秘密。”
- lost_technologies_research_effect:0 “分解 £minor_artifacts£次要神器以发现古代堕落帝国的失落技术。\n\n冷却时间：£time£ §Y720§!”
- lost_technologies_decision_tooltip:0 “解锁一个新的小型神器操作：§Y$artifact_lost_technologies_research$§!\n\n”
+ artifact_lost_technologies_research:0 "恢复丢失的技术"
+ artifact_lost_technologies_research_desc:0 "我们的 [GetScientistPlural] 可以对几千年前的小型人工制品进行逆向工程，当时堕落的帝国正处于鼎盛时期，希望能恢复一些失传已久的技术的秘密。"
+ lost_technologies_research_effect:0 "分解£minor_artifacts£次要神器以发现古代堕落帝国的失落技术。\n\n冷却时间：£time£§Y720§！"
+ lost_technologies_decision_tooltip:0 "解锁一个新的小神器动作：§Y$artifact_lost_technologies_research$§!\n\n"
  
- lost_technologies.1000.name:0 “失落的技术”
- lost_technologies.1000.desc:0 “时间对堕落的帝国并不友善。几个世纪前，他们的文明像黑暗中的灯塔一样闪耀，他们是原始人和野蛮人羡慕的对象。最终，即使是他们最伟大的进步和创新也没有在时间的流逝中幸存下来。,时间是文明的最终评判者。\n\n但如果有办法消除时间造成的破坏呢？如果我们能将剩下的少量信息拼凑起来，这样过去最伟大的发明就可以一次实现,更多？许多秘密埋藏在我们收集的文物中，通常指的是已经失传的技术。然而，这些失传技术的传说及其功绩仍然是 §H[Root.GetSpeciesAdj]§! 科学界的热门讨论,，他们的神话般的存在至今仍在激烈争论。”
- lost_technologies.1000.a:0 “我们会揭开什么秘密？”
- lost_technologies.1000.b:0 “我们将等待突破。”
+ lost_technologies.1000.name:0 "失落的技术"
+ lost_technologies.1000.desc:0 "时间对堕落帝国并不友善。,数百年前，他们的文明犹如黑暗中的灯塔般闪耀，令原始人和野蛮人羡慕不已。,最后，即使是他们最伟大的进步和创新也没有在时间的流逝中幸存下来。,时间是文明的最终裁判。\n\n但如果有办法消除时间造成的破坏呢？,如果我们能将剩下的少量信息拼凑起来，让过去最伟大的发明再次焕发生机，会怎样？,我们收集的文物中隐藏着许多秘密，通常指的是后来失传的技术。,然而，这些失落技术的传说及其成就仍然是 §H[Root.GetSpeciesAdj]§! 的热门讨论。,科学界，他们的神话存在至今仍在激烈争论。"
+ lost_technologies.1000.a:0 "我们将揭开哪些秘密？"
+ lost_technologies.1000.b:0 "我们将等待突破。"
  
- lost_technologies_chain_title:0 “失落的技术”
- lost_technologies_chain_desc:0 “时间对堕落的帝国并不友善。最终，即使是他们最伟大的进步和创新也没有在时间的流逝中幸存下来。但是，如果我们能够将剩下的少量信息拼凑起来，那么过去最伟大的发明就会出现呢？,再次获得生命？许多秘密隐藏在我们收集的神器中，通常指的是已经丢失的技术。\n\n我们可以尝试通过小神器操作解锁这些神秘的失落技术：§Y$artifact_lost_technologies_research$§！ ,”
+ lost_technologies_chain_title:0 "失落的技术"
+ lost_technologies_chain_desc:0 "时间对堕落帝国并不友善。,最后，即使是他们最伟大的进步和创新也没有在时间的流逝中幸存下来。,但是，如果我们能够将剩下的少量信息拼凑起来，让过去最伟大的发明再次焕发生机，会怎样呢？,我们收集的神器中隐藏着许多秘密，通常指的是已经丢失的技术。\n\n我们可以尝试通过小神器操作解锁这些神秘的失落技术：§Y$artifact_lost_technologies_research$§!。"
 
- lost_technologies.1001.name:0 “失落技术研究”
- lost_technologies.1001.desc:0 “几个月来，我们的 [GetArchaeologistPlural] 开始收集 £minor_artifacts£ Minor Artifacts，破译它们的秘密并将线索放在一起。他们争论不休，并在此过程中推翻了许多理论。\n\n现在我们必须决定我们研究的重点方向。 ,“
- lost_technologies.1001.a:0 “失落的技术：自动化行业”
- lost_technologies.1001.b:0 《失落的技术：先驱武器》
- lost_technologies.1001.c:0 《失落的技术：歌利亚》
- lost_technologies.1001.d:0 “失落的技术：卓越的设计”
- lost_technologies.1001.e:0 “失落的技术：乌托邦世界”
- lost_technologies.1001.f:0 “失落的技术：活金属世界”
- lost_technologies.1001.g:0 “失落的技术：乌托邦蜂巢世界”
- lost_technologies.1001.h:0 “我改变主意了...”
+ lost_technologies.1001.name:0 "失落技术研究"
+ lost_technologies.1001.desc:0 "几个月来，我们的 [GetArchaeologistPlural] 开始收集 £minor_artifacts£Minor Artifacts，破译它们的秘密并将线索放在一起。,一路上他们争论不休，推翻了许多理论。\n\n现在我们必须决定我们研究的重点方向。"
+ lost_technologies.1001.a:0 "失落的技术：自动化行业"
+ lost_technologies.1001.b:0 "失落的技术：先行者武器"
+ lost_technologies.1001.c:0 "失落的技术：歌利亚"
+ lost_technologies.1001.d:0 "失落的技术：卓越的设计"
+ lost_technologies.1001.e:0 "失落的技术：乌托邦世界"
+ lost_technologies.1001.f:0 "失落的技术：活金属世界"
+ lost_technologies.1001.g:0 "失落的技术：乌托邦蜂巢世界"
+ lost_technologies.1001.h:0 "我改变主意了..."
  
- lost_technologies.1002.name:0 “失落的技术：自动化行业”
- lost_technologies.1002.desc:0 “几千年来，堕落帝国一直依靠自动化工业来推动经济发展并满足人民的需求。然而，我们的考古团队现在发现的证据表明，过去曾存在过更强大的幸存建筑版本，,建造它们的技术自古以来就已失传。\n\n通过拼凑古代文物的线索并结合我们目前对自动化建筑的了解，我们的 [GetScientistPlural] 相信我们可能仍有机会恢复这些强大构造的失落技术。 ,“
- lost_technologies.1002.a:0 “失落的技术：§Y$tech_fe_dark_matter_power_plant$§!”
- lost_technologies.1002.b:0 “失落的技术：§Y$tech_fe_autonomous_fabricator$§!”
- lost_technologies.1002.c:0 “失落的技术：§Y$tech_fe_agri_processing_complex$§!”
- lost_technologies.1002.d:0 “失落的科技：§Y$tech_fe_opulent_tower$§!”
- lost_technologies.1002.e:0 “失落的技术：§Y$tech_fe_pico_forge$§!”
- lost_technologies.1002.f:0 “失落的技术：§Y$tech_fe_master_archive_3$§!”
- lost_technologies.1002.g:0 “失落的科技：§Y$tech_fe_aegis_complex_3$§!”
- lost_technologies.1002.h:0 “失落的技术：§Y$tech_synthetic_dark_matter_3$§!”
- lost_technologies.1002.i:0 “我改变主意了。”
+ lost_technologies.1002.name:0 "失落的技术：自动化行业"
+ lost_technologies.1002.desc:0 "几千年来，堕落帝国一直依靠自动化工业来推动经济发展并满足人民的需求。,然而，我们的考古团队现在发现的证据表明，他们幸存的建筑在过去曾存在过更强大的版本，而且建造这些建筑的技术已经失传了很久。\n\n将古代文物的线索拼凑起来，并结合我们目前的,自动化建筑的知识，我们的 [GetScientistPlural] 相信我们可能还有机会恢复这些强大结构的丢失技术。"
+ lost_technologies.1002.a:0 "失落的技术：§Y$tech_fe_dark_matter_power_plant$§!"
+ lost_technologies.1002.b:0 "失落的技术：§Y$tech_fe_autonomous_fabricator$§!"
+ lost_technologies.1002.c:0 "失落的技术：§Y$tech_fe_agri_processing_complex$§!"
+ lost_technologies.1002.d:0 "失落的技术：§Y$tech_fe_opulent_tower$§!"
+ lost_technologies.1002.e:0 "失落的技术：§Y$tech_fe_pico_forge$§!"
+ lost_technologies.1002.f:0 "失落的技术：§Y$tech_fe_master_archive_3$§!"
+ lost_technologies.1002.g:0 "失落的技术：§Y$tech_fe_aegis_complex_3$§!"
+ lost_technologies.1002.h:0 "失落的技术：§Y$tech_synthetic_dark_matter_3$§!"
+ lost_technologies.1002.i:0 "我改变主意了。"
  
- lost_technologies.1003.name:0 《失落的技术：先驱武器》
- lost_technologies.1003.desc:0 “经过多年的研究，我们现在知道堕落帝国使用的许多最强大的武器已经失传于历史。然而，我们的考古团队相信，如果我们收集所有已知的文物和碎片，我们也许能够重建,如果共同努力，这些先进技术。一旦恢复，我们应该将这些丢失的技术释放给我们的竞争对手。”
- lost_technologies.1003.a:0 “失落的技术：前体武器”
- lost_technologies.1003.b:0 “失落的技术：船舶部件”
- lost_technologies.1003.c:0 “失落的技术：全能武器”
- lost_technologies.1003.d:0 《失落的技术：传奇武器》
- lost_technologies.1003.e:0 “我改变主意了。”
+ lost_technologies.1003.name:0 "失落的技术：先行者武器"
+ lost_technologies.1003.desc:0 "经过多年的研究，我们现在知道堕落帝国使用的许多最强大的武器已经失传于历史。,然而，我们的考古团队相信，如果我们收集所有已知的人工制品和碎片，并且齐心协力，我们或许能够重建这些先进技术。,一旦恢复，我们应该将这些丢失的技术释放给我们的竞争对手。"
+ lost_technologies.1003.a:0 "失落的技术：前体武器"
+ lost_technologies.1003.b:0 "失落的技术：船舶部件"
+ lost_technologies.1003.c:0 "失落的技术：全能武器"
+ lost_technologies.1003.d:0 "失落的技术：传奇武器"
+ lost_technologies.1003.e:0 "我改变主意了。"
  
- lost_technologies.1004.name:0 “失落的技术：前体武器”
- lost_technologies.1004.desc:0 “我们应该调查哪些武器？”
- lost_technologies.1004.a:0 “失落的技术：§Y$tech_psi_missile_system$§!”
- lost_technologies.1004.b:0 “失落的技术：§Y$tech_shadow_strike_craft$§!”
- lost_technologies.1004.c:0 “失落的技术：§Y$tech_hellfire_autocannons$§!”
- lost_technologies.1004.d:0 “失落的技术：§Y$tech_terror_cannon$§!”
- lost_technologies.1004.e:0 “失落的技术：§Y$tech_dark_energy_disruptor$§!”
- lost_technologies.1004.f:0 “失落的技术：§Y$tech_titan_missile$§!”
- lost_technologies.1004.g:0 “丢失的技术：§Y$tech_annihilator_torpedo$§!”
- lost_technologies.1004.h:0 “丢失的技术：§Y$tech_dark_energy_torpedo$§!”
- lost_technologies.1004.i:0 “失落的科技：§Y$tech_titan_point_defence$§!”
- lost_technologies.1004.j:0 “丢失的技术：§Y$tech_dark_energy_flak_battery$§!”
- lost_technologies.1004.k:0 “失落的技术：§Y$tech_dark_energy_accelerator$§!”
- lost_technologies.1004.l:0 “我改变主意了。”
+ lost_technologies.1004.name:0 "失落的技术：前体武器"
+ lost_technologies.1004.desc:0 "我们应该调查哪些武器？"
+ lost_technologies.1004.a:0 "失落的技术：§Y$tech_psi_missile_system$§!"
+ lost_technologies.1004.b:0 "失落的技术：§Y$tech_shadow_strike_craft$§!"
+ lost_technologies.1004.c:0 "失落的技术：§Y$tech_hellfire_autocannons$§!"
+ lost_technologies.1004.d:0 "失落的技术：§Y$tech_terror_cannon$§!"
+ lost_technologies.1004.e:0 "失落的技术：§Y$tech_dark_energy_disruptor$§!"
+ lost_technologies.1004.f:0 "失落的技术：§Y$tech_titan_missile$§!"
+ lost_technologies.1004.g:0 "失落的技术：§Y$tech_annihilator_torpedo$§!"
+ lost_technologies.1004.h:0 "失落的技术：§Y$tech_dark_energy_torpedo$§!"
+ lost_technologies.1004.i:0 "失落的技术：§Y$tech_titan_point_defence$§!"
+ lost_technologies.1004.j:0 "丢失的技术：§Y$tech_dark_energy_flak_battery$§!"
+ lost_technologies.1004.k:0 "失落的技术：§Y$tech_dark_energy_accelerator$§!"
+ lost_technologies.1004.l:0 "我改变主意了。"
  
- lost_technologies.1005.name:0 “失落的技术：船舶部件”
- lost_technologies.1005.desc:0 “我们应该研究哪些技术？”
- lost_technologies.1005.a:0 “失落的技术：§Y$tech_dark_energy_power_core$§!”
- lost_technologies.1005.b:0 “失落的技术：§Y$tech_dark_energy_power_booster$§!”
- lost_technologies.1005.c:0 “失落的技术：§Y$tech_titan_armor$§!”
- lost_technologies.1005.d:0 “失落的技术：§Y$tech_titan_plating$§!”
- lost_technologies.1005.e:0 “失落的技术：§Y$tech_infinity_encoder$§!”
- lost_technologies.1005.f:0 “失落的技术：§Y$tech_infinity_decoder$§!”
- lost_technologies.1005.g:0 “丢失的技术：§Y$tech_psi_deflector$§!”
- lost_technologies.1005.h:0 “失落的科技：§Y$tech_dark_energy_shield$§!”
- lost_technologies.1005.i:0 “失落的技术：§Y$tech_dark_energy_shield_booster$§!”
- lost_technologies.1005.j:0 “失落的技术：§Y$tech_dark_energy_jump_drive$§!”
- lost_technologies.1005.k:0 “失落的技术：§Y$tech_dark_energy_thruster$§!”
- lost_technologies.1005.l:0 “失落的技术：§Y$tech_dark_energy_afterburners$§!”
- lost_technologies.1005.m:0 “失落的技术：§Y$tech_dark_energy_sensors$§!”
- lost_technologies.1005.n:0 “我改变主意了。”
+ lost_technologies.1005.name:0 "失落的技术：船舶部件"
+ lost_technologies.1005.desc:0 "我们应该研究哪些技术？"
+ lost_technologies.1005.a:0 "失落的技术：§Y$tech_dark_energy_power_core$§!"
+ lost_technologies.1005.b:0 "失落的技术：§Y$tech_dark_energy_power_booster$§!"
+ lost_technologies.1005.c:0 "失落的技术：§Y$tech_titan_armor$§!"
+ lost_technologies.1005.d:0 "失落的技术：§Y$tech_titan_plating$§!"
+ lost_technologies.1005.e:0 "失落的技术：§Y$tech_infinity_encoder$§!"
+ lost_technologies.1005.f:0 "失落的技术：§Y$tech_infinity_decoder$§!"
+ lost_technologies.1005.g:0 "失落的技术：§Y$tech_psi_deflector$§!"
+ lost_technologies.1005.h:0 "失落的技术：§Y$tech_dark_energy_shield$§!"
+ lost_technologies.1005.i:0 "失落的技术：§Y$tech_dark_energy_shield_booster$§!"
+ lost_technologies.1005.j:0 "失落的技术：§Y$tech_dark_energy_jump_drive$§!"
+ lost_technologies.1005.k:0 "失落的技术：§Y$tech_dark_energy_thruster$§!"
+ lost_technologies.1005.l:0 "失落的技术：§Y$tech_dark_energy_afterburners$§!"
+ lost_technologies.1005.m:0 "失落的技术：§Y$tech_dark_energy_sensors$§!"
+ lost_technologies.1005.n:0 "我改变主意了。"
  
- lost_technologies.1006.name:0 “失落的技术：全能武器”
- lost_technologies.1006.desc:0 “我们应该调查哪些武器？”
- lost_technologies.1006.a:0 “失落的技术：§Y$tech_omni_emitter$§!”
- lost_technologies.1006.b:0 “失落的技术：§Y$tech_omni_lance$§!”
- lost_technologies.1006.c:0 “失落的技术：§Y$tech_massive_autocannons$§!”
- lost_technologies.1006.d:0 “失落的技术：§Y$tech_omni_cannon$§!”
- lost_technologies.1006.e:0 “失落的科技：§Y$tech_omni_titan_lance$§!”
- lost_technologies.1006.f:0 “我改变主意了。”
+ lost_technologies.1006.name:0 "失落的技术：全能武器"
+ lost_technologies.1006.desc:0 "我们应该调查哪些武器？"
+ lost_technologies.1006.a:0 "失落的技术：§Y$tech_omni_emitter$§!"
+ lost_technologies.1006.b:0 "失落的技术：§Y$tech_omni_lance$§!"
+ lost_technologies.1006.c:0 "失落的技术：§Y$tech_massive_autocannons$§!"
+ lost_technologies.1006.d:0 "失落的技术：§Y$tech_omni_cannon$§!"
+ lost_technologies.1006.e:0 "失落的技术：§Y$tech_omni_titan_lance$§!"
+ lost_technologies.1006.f:0 "我改变主意了。"
  
- lost_technologies.1007.name:0 《失落的技术：传奇武器》
- lost_technologies.1007.desc:0 “我们应该调查哪些武器？”
- lost_technologies.1007.a:0 “失落的技术：§Y$tech_portal_generator$§!”
- lost_technologies.1007.b:0 “失落的技术：§Y$tech_dimensional_weapon$§!”
- lost_technologies.1007.c:0 “我改变主意了。”
+ lost_technologies.1007.name:0 "失落的技术：传奇武器"
+ lost_technologies.1007.desc:0 "我们应该调查哪些武器？"
+ lost_technologies.1007.a:0 "失落的技术：§Y$tech_portal_generator$§!"
+ lost_technologies.1007.b:0 "失落的技术：§Y$tech_dimensional_weapon$§!"
+ lost_technologies.1007.c:0 "我改变主意了。"
 
  
  
@@ -102,622 +102,622 @@ l_simp_chinese:
 # lost_technologies.1002.a:0 "Disappointing."
  
 
- lost_technologies.1.name:0 “失落的技术：自动化行业”
- lost_technologies.1.desc:0 “几千年来，堕落帝国一直依靠自动化工业来推动经济发展并满足人民的需求。然而，我们的考古团队现在发现的证据表明，过去曾存在过更强大的幸存建筑版本，,建造它们的技术自古以来就已失传。\n\n通过拼凑古代文物的线索并结合我们目前对自动化建筑的了解，我们的科学家相信我们可能仍有机会恢复这些强大结构的失落技术。”
- lost_technologies.1.a:0 “启动项目！”
- lost_technologies.1.b:0 “不，我们不感兴趣。”
+ lost_technologies.1.name:0 "失落的技术：自动化行业"
+ lost_technologies.1.desc:0 "几千年来，堕落帝国一直依靠自动化工业来推动经济发展并满足人民的需求。,然而，我们的考古团队现在发现的证据表明，他们幸存的建筑在过去曾存在过更强大的版本，而且建造这些建筑的技术已经失传了很久。\n\n将古代文物的线索拼凑起来，并结合我们目前的,凭借对自动化建筑的了解，我们的科学家相信我们可能还有机会恢复这些强大建筑的失落技术。"
+ lost_technologies.1.a:0 "启动项目！"
+ lost_technologies.1.b:0 "不，我们不感兴趣。"
  
- lost_technologies.100.name:0 “失落的技术解锁！”
- lost_technologies.100.desc:0 “我们已经成功地拼凑出一些先进的自动化建筑的蓝图。等待进一步的测试和风险评估，我们的自动化建筑可以升级到蓝图的规格。”
- lost_technologies.100.a:0 “精彩的！”
+ lost_technologies.100.name:0 "失落的技术解锁！"
+ lost_technologies.100.desc:0 "我们已经成功地拼凑出了一些先进的自动化建筑的蓝图。,等待进一步的测试和风险评估，我们的自动化建筑可以升级到蓝图的规格。"
+ lost_technologies.100.a:0 "精彩的！"
  
  
  
- lost_technologies.2.name:0 “失落的技术：古代武器”
- lost_technologies.2.desc:0 “在一次考古之旅中，我们的 [GetScientistPlural] 发现了一个古老数据库的破碎部分，其中包含荒谬但已损坏的数据。早期调查表明，如果我们有足够的小型人工制品来修复它，就可以在其中发现强大武器的蓝图。”
- lost_technologies.2.a:0 “启动项目！”
- lost_technologies.2.b:0 “不，我们不感兴趣。”
+ lost_technologies.2.name:0 "失落的技术：古代武器"
+ lost_technologies.2.desc:0 "在一次考古之旅中，我们的 [GetScientistPlural] 发现了一个古老数据库的破碎组件，其中包含荒谬但已损坏的数据。,早期调查表明，如果我们有足够的小型人工制品来修复它，我们可能会在其中发现强大武器的蓝图。"
+ lost_technologies.2.a:0 "启动项目！"
+ lost_technologies.2.b:0 "不，我们不感兴趣。"
  
- lost_technologies.200.name:0 “失落的技术解锁！”
- lost_technologies.200.desc:0 “经过数月的仔细研究，我们的 [GetScientistPlural] 已经成功地重组了古代数据库。将一些损坏的数据拼凑在一起并从文物中破译线索，新的研究选项将变得可用，并且古代武器将出现几千年,或许还能起死回生。”
+ lost_technologies.200.name:0 "失落的技术解锁！"
+ lost_technologies.200.desc:0 "经过数月的仔细研究，我们的 [GetScientistPlural] 成功重组了古老的数据库。,拼凑一些损坏的数据以及破译文物的线索，新的研究选择将变得可用，几千年未见的古代武器可能会复活。"
  lost_technologies.200.a:0 “精彩的！”
  
  
- lost_technologies.210.name:0 “失落的技术：全能武器”
- lost_technologies.210.desc:0 “在我们修复的古代数据库中发现的许多损坏的数据条目中，我们的 [GetScientistPlural] 注意到一个名为'Omni Weapons'的条目，这是一种看似有感知力并在大远征期间被广泛使用的武器。然而，我们可能,必须花费额外的资源来揭开全能武器的秘密。”
- lost_technologies.210.a:0 “启动项目！”
- lost_technologies.210.b:0 “不，我们不感兴趣。”
+ lost_technologies.210.name:0 "失落的技术：全能武器"
+ lost_technologies.210.desc:0 "在我们修复的古代数据库中发现的许多损坏的数据条目中，我们的 [GetScientistPlural] 注意到一个名为“Omni Weapons”的条目，这是一类看似有感知力并在大远征期间被广泛使用的武器。,然而，我们可能不得不花费额外的资源来揭开全能武器的秘密。"
+ lost_technologies.210.a:0 "启动项目！"
+ lost_technologies.210.b:0 "不，我们不感兴趣。"
  
- lost_technologies.2000.name:0 “失落的技术解锁！”
- lost_technologies.2000.desc:0 “经过一些细致的工作，我们的 [GetScientistPlural] 终于解开了全能武器的秘密。它们的能力，正如最近恢复的蓝图所概述的那样，让我们​​的科学界感到震惊和惊讶。以我们目前的技术水平，我们可能还,能够重现其中的一些神秘武器。”
- lost_technologies.2000.a:0 “精彩的！”
+ lost_technologies.2000.name:0 "失落的技术解锁！"
+ lost_technologies.2000.desc:0 "经过一些细致的工作，我们的 [GetScientistPlural] 终于解开了全能武器的秘密。,正如最近恢复的蓝图所概述的那样，它们的能力令我们的科学界感到震惊和惊讶。,以我们目前的技术水平，我们也许还能够重新制造其中的一些神秘武器。"
+ lost_technologies.2000.a:0 "精彩的！"
 
- lost_technologies.3.name:0 《失落的技术：歌利亚》
- lost_technologies.3.desc:0 “在从前身文物中获得的宝贵数据中，我们的 [GetScientistPlural] 发现了一些令他们震惊并与我们对堕落帝国的了解相矛盾的东西 - 一艘与我们所见过的任何东西都不一样的巨大比例的军舰设计。\n\n我们还不明白,为什么先驱者认为在大远征期间的某个时候建造这些是个好主意。\n\n尽管如此，剩下的示意图似乎已经过检验。以我们目前的工程能力，这个项目是我们能力范围内的,”
- lost_technologies.3.a:0 “这听起来像是一个有价值的挑战。”
- lost_technologies.3.b:0 “没有。设计清楚地证明了前驱者是疯了。”
+ lost_technologies.3.name:0 "失落的技术：歌利亚"
+ lost_technologies.3.desc:0 "在从前身文物中获得的宝贵数据中，我们的 [GetScientistPlural] 发现了一些令他们震惊并与我们对堕落帝国的了解相矛盾的东西 - 一艘与我们所见过的任何东西都不一样的巨大比例的战舰设计。\n\n我们还不明白为什么,先驱者认为在大远征期间的某个时候建造这些是个好主意。\n\n尽管如此，剩下的示意图似乎已经过时。,以我们目前的工程能力，这个项目是力所能及的。"
+ lost_technologies.3.a:0 "这听起来像是一个有价值的挑战。"
+ lost_technologies.3.b:0 "不，这个设计清楚地证明了先驱们是疯了。"
  
- lost_technologies.300.name:0 《失落的技术：歌利亚》
- lost_technologies.300.desc:0 “我们的 [GetScientistPlural] 已经成功恢复了传说中的 §HGoliath§! 的完整原理图。虽然 Escort 灵活，Battlecruiser 多才多艺，Titan 火力强大，但这种新设计 §HGoliath§! 似乎没有其他目的，除了,大。\n\n由于其庞大的尺寸，只有少数 §H歌利亚§! 曾被大远征的战斗人员委托。然而，我们现在知道的是，这艘船不仅出现在大远征期间的几场关键战斗中,十字军东征，但也给前身帝国造成了重大损失。鉴于我们对当时武器和战斗强度的了解，这确实是对这艘船的一些有前途的赞誉。”
- lost_technologies.300.a:0 “好大！”
+ lost_technologies.300.name:0 "失落的技术：歌利亚"
+ lost_technologies.300.desc:0 "我们的 [GetScientistPlural] 已成功恢复了传说中的 §HGoliath§! 的完整示意图。,虽然护卫舰灵活、战列巡洋舰多才多艺、泰坦火力强大，但这种新设计，§HGoliath§!，似乎除了变大之外别无他用。\n\n由于其庞大的尺寸，只有少数§HGoliath§!,曾受大十字军东征战士的委托。,然而我们现在知道的是，这艘船不仅出现在大远征时期的几场关键战役中，还让前身帝国损失惨重。,鉴于我们对当时武器的了解和战斗的激烈程度，这确实是对这艘船的一些有希望的赞誉。"
+ lost_technologies.300.a:0 "这是巨大的！"
  
- lost_technologies.310.name:0 《失落的技术：传奇武器》
- lost_technologies.310.desc:0 “根据传说，强大的武器是在伟大的十字军东征期间开发出来的，能够执行我们目前的科学理解无法想象的壮举。我们的 [GetScientistPlural] 建议我们调查这些神话。”
- lost_technologies.310.a:0 “启动项目！”
- lost_technologies.310.b:0 “不，我们不感兴趣。”
+ lost_technologies.310.name:0 "失落的技术：传奇武器"
+ lost_technologies.310.desc:0 "根据传说，强大的武器是在大远征期间开发出来的，能够执行我们目前的科学理解无法想象的壮举。,我们的 [GetScientistPlural] 建议我们调查这些神话。"
+ lost_technologies.310.a:0 "启动项目！"
+ lost_technologies.310.b:0 "不，我们不感兴趣。"
  
- lost_technologies.3000.name:0 “失落的技术解锁！”
- lost_technologies.3000.desc:0 “经过数月的线索追查和未解决的问题，我们能够确定其中一些是在大十字军东征期间开发的‘传奇武器’。然而，还需要进一步的研究，因为它们在如何发挥作用方面仍未得到很好的理解。,功能。不用说，我们的一些 [GetScientistPlural] 对前景感到非常兴奋。”
- lost_technologies.3000.a:0 “精彩的！”
+ lost_technologies.3000.name:0 "失落的技术解锁！"
+ lost_technologies.3000.desc:0 "经过数月的线索追查和未解决的问题，我们能够确定其中一些是在大远征期间开发的“传奇武器”。,然而，还需要进一步的研究，因为就它们的功能而言，它们仍然没有得到很好的理解。,不用说，我们的一些 [GetScientistPlural] 对前景感到非常兴奋。"
+ lost_technologies.3000.a:0 "精彩的！"
  
- lost_technologies.4.name:0 “失落的技术：卓越的设计”
+ lost_technologies.4.name:0 "失落的技术：卓越的设计"
  lost_technologies.4.desc:0 “在对收集到的文物进行例行检查时，我们的 [GetScientistPlural] 发现了大远征期间使用的前身船舶设计的损坏蓝图。无论出于何种原因，这些蓝图似乎很久以前就被堕落帝国遗失了，或者,无论哪种情况，它都让我们洞察了那场战争的残酷性，这些设计似乎与我们目前的护航舰队、战列巡洋舰和堕落帝国泰坦舰队的改进有着独特的相关性。”
- lost_technologies.4.a:0 “启动项目！”
- lost_technologies.4.b:0 “不，我们不感兴趣。”
+ lost_technologies.4.a:0 "启动项目！"
+ lost_technologies.4.b:0 "不，我们不感兴趣。"
  
- lost_technologies.400.name:0 “失落的技术：卓越的设计”
- lost_technologies.400.desc:0 “在清理损坏的原理图后，很明显堕落帝国的船型最初设计的目的是比现在的船型强大得多。可能是由于高维护和维护需求，在经济衰退期间委托了更便宜的船型,在大远征之后，其他的最终被淘汰了。\n\n用我们新发现的知识来升级我们的舰队是可能的。"
- lost_technologies.400.a:0 “我们开始做吧！”
+ lost_technologies.400.name:0 "失落的技术：卓越的设计"
+ lost_technologies.400.desc:0 "清理损坏的示意图后，很快就会发现堕落帝国的舰船类型最初设计的目的是要比现在的舰船强大得多。,也许是由于高维护和维护需求，在大远征之后的经济衰退期间委托了更便宜的变体，而其他变体最终被淘汰了。\n\n也许可以用我们新发现的知识来升级我们的舰队。"
+ lost_technologies.400.a:0 "我们开始做吧！"
  
  
- lost_technology_insights_gained_tooltip:0 “失去的技术洞察力获得”
+ lost_technology_insights_gained_tooltip:0 "失去的技术洞察力获得"
 
  
- fallen_spiritualist_digsite_1:0 “废墟下的神殿”
- fallen_spiritualist_digsite_1_desc:0 “从神殿各个入口仓促竖起的结界来看，前身帝国显然没有打算让任何人玷污这座神殿。\n\n结界自然敌不过我们这支专职的探险队。一旦进入，我们的勇者,团队可以开始寻找关于埋葬在这座巨大神庙中的任何人或任何东西的来源的线索。”
- fallen_materialist_digsite_1:0 “废弃的研究设施”
- fallen_materialist_digsite_1_desc:0 “在前身帝国的废墟中，矗立着一个不起眼的研究设施。从它的废弃状态来看，这个设施显然在几个世纪前就被遗弃了。\n\n或许我们可以派遣一支挖掘队来了解更多它的历史，并且,揭开一个没落帝国的秘密。”
- fallen_xenophile_digsite_1:0 《废弃飞地》
- fallen_xenophile_digsite_1_desc:0 “我们的传感器在 [From.Planet.GetName] 的主要城市外发现了一个废弃的飞地。从结构的遗迹来看，它似乎是某种文化中心或实验室。\n\n如果,我们派出一支挖掘队，我们可以了解更多关于这座建筑的历史，或许还能揭开这片飞地的用途。”
- fallen_xenophobe_digsite_1:0 “先行者的军火库”
- fallen_xenophobe_digsite_1_desc:0 “我们在 [From.Planet.GetName] 上发现了一个似乎是武器库的地方。从它的自动化安全系统和仓促建造的路障来看，这个前身帝国似乎无意让它的任何奇特武器掉落,落入坏人之手。\n\n里面可能有什么？”
- fallen_machine_digsite_1:0 “空段”
- fallen_machine_digsite_1_desc:0 “[From.Planet.GetName] 的环形部分可疑地空着。这种不寻常的现象不能仅仅用巧合来解释。\n\n我们的 [GetScientistPlural] 请求派遣一支探险队来调查这一切的根本原因。”
- fallen_materialist_digsite_2:0 《古代档案》
- fallen_materialist_digsite_2_desc:0 “现在我们完全控制了古老的行星档案馆，很明显其中存储了很多知识和历史。\n\n尽管当地档案馆员抗议可能会损坏奥术设施，但也许我们应该派遣团队来了解我们的一切,可以了解先驱及其历史。”
- fallen_pacifist_digsite_1:0 《来自寂静世界的信号》
- fallen_pacifist_digsite_1_desc:0 “我们的传感器在 [From.Planet.GetName] 上接收到一个不寻常的信号。进一步的检查表明这个墓穴世界并不像它看起来的那样。\n\n如果我们派遣一支挖掘队，我们可以找到更多关于,世界历史，或许还能揭开它的秘密。”
- great_crusade_digsite_1:0 “大十字军之战 I”
- great_crusade_digsite_1_desc:0 “从我们收集的大量文物中，我们有证据表明，大约 10000 年前，在大远征期间，在 [From.Planet.GetName] 上空发生了一场太空战。许多历史都埋葬在这里，也许还有一些技术,在此过程中可能会发现见解。”
- great_crusade_digsite_2:0 “伟大的十字军东征 II”
- great_crusade_digsite_2_desc:0 “从我们收集的大量文物中，我们有证据表明，大约 10000 年前，在大远征期间，在 [From.Planet.GetName] 上空发生了一场太空战。许多历史都埋葬在这里，也许还有一些技术,在此过程中可能会发现见解。”
- great_crusade_digsite_3:0 “伟大的十字军东征 III 之战”
- great_crusade_digsite_3_desc:0 “从我们收集的大量文物中，我们有证据表明，大约 10000 年前，在大远征期间，在 [From.Planet.GetName] 上空发生了一场太空战。许多历史都埋葬在这里，也许还有一些技术,在此过程中可能会发现见解。”
- great_crusade_digsite_4:0 “伟大的十字军东征 IV 之战”
- great_crusade_digsite_4_desc:0 “从我们收集的大量文物中，我们有证据表明，大约 10000 年前，在大远征期间，在 [From.Planet.GetName] 上空发生了一场太空战。许多历史都埋葬在这里，也许还有一些技术,在此过程中可能会发现见解。”
- great_crusade_digsite_5:0 “伟大的十字军东征 V 之战”
- great_crusade_digsite_5_desc:0 “从我们收集的大量文物中，我们有证据表明，大约 10000 年前，在大远征期间，在 [From.Planet.GetName] 上空发生了一场太空战。许多历史都埋葬在这里，也许还有一些技术,在此过程中可能会发现见解。”
- great_crusade_digsite_6:0 “伟大的十字军东征 VI 之战”
- great_crusade_digsite_6_desc:0 “从我们收集的大量文物中，我们有证据表明，大约 10000 年前，在大远征期间，在 [From.Planet.GetName] 上空发生了一场太空战。许多历史都埋葬在这里，也许还有一些技术,在此过程中可能会发现见解。”
+ fallen_spiritualist_digsite_1:0 "废墟下的神殿"
+ fallen_spiritualist_digsite_1_desc:0 "从神殿各个入口仓促竖起的屏障来看，前身帝国显然没有让任何人玷污这座神殿的意思。\n\n屏障自然敌不过我们敬业的探险队。,一旦进入，我们勇敢的团队就可以开始寻找线索，以了解埋葬在这座巨大寺庙中的任何人或任何东西的来源。"
+ fallen_materialist_digsite_1:0 "废弃的研究设施"
+ fallen_materialist_digsite_1_desc:0 "在前身帝国的废墟中，矗立着一座不起眼的研究设施。,从它的废弃状态来看，这个设施显然在几个世纪前就被遗弃了。\n\n或许我们可以派遣一支挖掘队来了解更多关于它的历史，并揭开一个没落帝国的秘密。"
+ fallen_xenophile_digsite_1:0 "废弃飞地"
+ fallen_xenophile_digsite_1_desc:0 "我们的传感器在 [From.Planet.GetName] 的主要城市外发现了一个废弃的飞地。,从建筑的遗迹来看，它似乎是某种文化中心，或者是实验室。\n\n如果我们派出一支挖掘队，我们可以了解更多关于这座建筑的历史，或许还能揭开它的用途,这个飞地。"
+ fallen_xenophobe_digsite_1:0 "先行者的军火库"
+ fallen_xenophobe_digsite_1_desc:0 "我们在 [From.Planet.GetName] 上发现了一个似乎是武器库的地方。,从它的自动化安全系统和仓促建造的路障来看，前身帝国似乎无意让任何它的花哨武器落入坏人之手。\n\n里面可能有什么？"
+ fallen_machine_digsite_1:0 "空段"
+ fallen_machine_digsite_1_desc:0 "[From.Planet.GetName] 的环形部分可疑地空着。,这种不寻常的现象不能仅仅用巧合来解释。\n\n我们的 [GetScientistPlural] 要求派遣远征队调查其根本原因。"
+ fallen_materialist_digsite_2:0 "古代档案馆"
+ fallen_materialist_digsite_2_desc:0 "现在我们完全控制了古老的行星档案馆，很明显其中存储了大量的知识和历史。\n\n尽管当地档案馆员抗议可能会损坏神秘设施，但也许我们应该派遣团队去了解我们能学到的一切,关于前体及其历史。"
+ fallen_pacifist_digsite_1:0 "来自寂静世界的信号"
+ fallen_pacifist_digsite_1_desc:0 "我们的传感器在 [From.Planet.GetName] 上接收到异常信号。,进一步的检查表明这个墓穴世界并不像它看起来的那样。\n\n如果我们派出一支挖掘队，我们可以了解更多关于这个世界的历史，也许还能揭开它的秘密。"
+ great_crusade_digsite_1:0 "伟大的十字军东征 I"
+ great_crusade_digsite_1_desc:0 "从我们收集的大量文物中，我们有证据表明，在大约 10000 年前的大远征时期，在 [From.Planet.GetName] 上空发生了一场太空战。,许多历史被埋葬在这里，也许在此过程中可能会发现一些技术见解。"
+ great_crusade_digsite_2:0 "伟大的十字军东征 II"
+ great_crusade_digsite_2_desc:0 "从我们收集的大量文物中，我们有证据表明，在大约 10000 年前的大远征时期，在 [From.Planet.GetName] 上空发生了一场太空战。,许多历史被埋葬在这里，也许在此过程中可能会发现一些技术见解。"
+ great_crusade_digsite_3:0 "伟大的十字军东征 III"
+ great_crusade_digsite_3_desc:0 "从我们收集的大量文物中，我们有证据表明，在大约 10000 年前的大远征时期，在 [From.Planet.GetName] 上空发生了一场太空战。,许多历史被埋葬在这里，也许在此过程中可能会发现一些技术见解。"
+ great_crusade_digsite_4:0 "伟大的十字军东征 IV"
+ great_crusade_digsite_4_desc:0 "从我们收集的大量文物中，我们有证据表明，在大约 10000 年前的大远征时期，在 [From.Planet.GetName] 上空发生了一场太空战。,许多历史被埋葬在这里，也许在此过程中可能会发现一些技术见解。"
+ great_crusade_digsite_5:0 "伟大的十字军东征 V"
+ great_crusade_digsite_5_desc:0 "从我们收集的大量文物中，我们有证据表明，在大约 10000 年前的大远征时期，在 [From.Planet.GetName] 上空发生了一场太空战。,许多历史被埋葬在这里，也许在此过程中可能会发现一些技术见解。"
+ great_crusade_digsite_6:0 "伟大的十字军东征 VI"
+ great_crusade_digsite_6_desc:0 "从我们收集的大量文物中，我们有证据表明，在大约 10000 年前的大远征时期，在 [From.Planet.GetName] 上空发生了一场太空战。,许多历史被埋葬在这里，也许在此过程中可能会发现一些技术见解。"
  
  
  ##Fallen Spiritualist
  
- fallen_weaponry.100.name:0 “发现隐藏的神殿”
- fallen_weaponry.100.desc:0 “我们在 §H[event_target:fallen_spiritualist_digsite.GetName]§! 星球上找到了一座神殿。隐藏在瓦砾之下的人似乎已经赢得了前身帝国的尊重。\n\n我们的 [GetArchaeologistPlural] 请求,允许挖掘该站点，以便我们可以更多地了解它的历史。”
- fallen_weaponry.100.a:0 “§H神圣守护者§!保护了哪些秘密？”
+ fallen_weaponry.100.name:0 "发现隐藏神殿"
+ fallen_weaponry.100.desc:0 "我们在 §H[event_target:fallen_spiritualist_digsite.GetName]§! 星球上找到了一座神殿。,隐藏在瓦砾之下，无论谁供奉在这里，似乎都赢得了前身帝国的尊重。\n\n我们的 [GetArchaeologistPlural] 请求允许挖掘该遗址，这样我们就可以了解更多关于它的历史。"
+ fallen_weaponry.100.a:0 "§H神圣守护者§!,保护？"
 
- fallen_weaponry.101.name:0 “神医”
- fallen_weaponry.101.desc:0 “我们的发掘团队现在相当有信心，这个神殿属于某位‘§H神医§!’，他因杰出的贡献和创新的天赋而被群众称为——一位科学家成为圣人。”,所有科学领域（或者至少记录上是这样说的），“§HDoctor Divine§!”,会不断收到来自其他领域的创新想法。\n\n在我们的团队发现的一些卷轴中提到了 $psi_deflector$ 及其描述。这激起了我们 [GetScientistPlural] 的兴趣，他们想进一步调查这些。 ,“
- fallen_weaponry.101.a:0 “$psi_deflector$？”
- fallen_weaponry.101.b:0 “我们已经知道 $psi_deflector$。”
+ fallen_weaponry.101.name:0 "神圣博士"
+ fallen_weaponry.101.desc:0 "我们的发掘团队现在相当有把握地认为，这座神殿属于某位“§H神医§!”，他因杰出的贡献和创新的天赋而被群众称为“科学家成圣”。,在所有科学领域都有天赋（或者至少记录是这样说的），“§HDoctor Divine§!”,会不断收到来自其他领域的创新想法。\n\n在我们的团队发现的一些卷轴中提到了 $psi_deflector$ 及其描述。,这激起了我们 [GetScientistPlural] 的兴趣，他们想进一步调查这些。"
+ fallen_weaponry.101.a:0 "$psi_偏转器$？"
+ fallen_weaponry.101.b:0 "我们已经知道 $psi_deflector$。"
 
- PROJECT_psi_deflector:0 “丢失的技术：§Y$tech_psi_deflector$§!”
- PROJECT_psi_deflector_DESC:0 “从 §H[From.Planet.GetName]§! 的秘密神殿获得的卷轴显示了盾牌技术的有趣突破。这项技术的文档非常详细。我们的 [GetScientistPlural] 需要一些时间才能处理和翻译,在它对我们有用之前的所有数据文件。\n\n我们的 [GetScientistPlural] 还不确定 §Y$tech_psi_deflector$§! 的实际功能。”
+ PROJECT_psi_deflector:0 "丢失的技术：§Y$tech_psi_deflector$§!"
+ PROJECT_psi_deflector_DESC:0 "从 §H[From.Planet.GetName]§! 的秘密神殿获得的卷轴,展示了屏蔽技术的有趣突破。,这项技术的文档非常详细。,我们的 [GetScientistPlural] 需要一些时间才能处理和翻译所有数据文件，然后才能对我们有用。\n\n我们的 [GetScientistPlural] 还不确定 §Y$tech_psi_deflector$§!,实际上功能。"
  
- fallen_weaponry.1011.name:0 “丢失的技术：§Y$tech_psi_deflector$§!”
- fallen_weaponry.1011.desc:0 “§Y$tech_psi_deflector$§! 是一种强大的护盾技术，似乎可以从船员身上吸取他们天生的灵能，并将它们放大成某种能够保护整艘宇宙飞船的屏障。\n\n看来‘§H神圣博士§ ,！',意识到他们的敌人过度依赖能量武器，据说 §Y$tech_psi_deflector$§! 参加了大远征期间的许多战斗。”
- fallen_weaponry.1011.a:0 “§Y$tech_psi_deflector$§! 将属于我们！”
- fallen_weaponry.102.name:0 “故障原型”
- fallen_weaponry.102.desc:0 “当我们的团队检查周围环境时，他们发现了一个看起来像是博物馆的房间，里面存放着奇怪的文物。据说在大十字军东征期间，许多原型在没有经过必要的试验或文件记录的情况下就被赶到了前线,. $PSI_MISSILE_SYSTEM$ 就是这样的例子之一。在短短几个月内建成，它能正常工作的事实在很大程度上要归功于“§HDoctor Divine§!”，他在一次可怕的事故发生后负责了这个项目,发生了。要是我们能以某种方式让它再次工作就好了……”
- fallen_weaponry.102.a:0 “$tech_psi_missile_system$？”
- fallen_weaponry.102.b:0 “我们已经知道 $tech_psi_missile_system$。”
+ fallen_weaponry.1011.name:0 "丢失的技术：§Y$tech_psi_deflector$§!"
+ fallen_weaponry.1011.desc:0 "§Y$tech_psi_deflector$§!,是一种强大的护盾技术，似乎可以从船员身上吸取他们与生俱来的灵能，并将它们放大成某种能够保护整个宇宙飞船的屏障。\n\n似乎是“§H神圣博士§!”,意识到他们的敌人过度依赖能量武器，据说 §Y$tech_psi_deflector$§!,参加了大远征期间的许多战役。"
+ fallen_weaponry.1011.a:0 "§Y$tech_psi_deflector$§!,将是我们的！"
+ fallen_weaponry.102.name:0 "故障原型"
+ fallen_weaponry.102.desc:0 "当我们的团队检查周围环境时，他们发现了一个看起来像是博物馆的房间，里面陈列着奇怪的文物。,在大远征期间，据说许多原型在没有经过必要的试验或文件记录的情况下就被赶到了前线。 ,$PSI_MISSILE_SYSTEM$ 就是这样的例子之一。,在短短几个月内建成，它之所以能成功，在很大程度上要归功于“§HDivine§!”，在发生了一些可怕的事故后，他负责了这个项目。,要是我们能以某种方式让它再次工作就好了……"
+ fallen_weaponry.102.a:0 "$tech_psi_missile_system$？"
+ fallen_weaponry.102.b:0 "我们已经知道 $tech_psi_missile_system$。"
  
- PROJECT_PSI_MISSILES:0 “丢失的技术：§Y$tech_psi_missile_system$§!”
- PROJECT_PSI_MISSILES_DESC:0 “从 §H[From.Planet.GetName]§! 的秘密神殿获得的原型显示了蜂群导弹技术的有趣突破。然而，根据记录，这个原型只在前线进行了有限的行动。它需要相当长的时间才能,我们的 [GetScientistPlural] 可以在恢复开发之前处理和翻译所有数据文件。\n\n然而，我们的科学界对 §Y$tech_psi_missile_system$§! 非常感兴趣。”
+ PROJECT_PSI_MISSILES:0 "丢失的技术：§Y$tech_psi_missile_system$§!"
+ PROJECT_PSI_MISSILES_DESC:0 "从 §H[From.Planet.GetName]§! 的秘密神殿获得的原型,展示了 swarmer 导弹技术的有趣突破。,然而，根据记录，这个原型只在前线看到了有限的行动。,在我们的 [GetScientistPlural] 能够处理和翻译所有数据文件并恢复其开发之前需要相当长的时间。\n\n尽管如此，我们的科学界对 §Y$tech_psi_missile_system$§! 非常感兴趣。"
  
- fallen_weaponry.1021.name:0 “丢失的技术：§Y$tech_psi_missile_system$§!”
- fallen_weaponry.1021.desc:0 “Psi 导弹系统旨在对抗最强大的点防御系统，每枚 Psi 导弹都由其机组人员进行灵能控制，使弹头能够改变飞行模式并仅凭心灵的力量进行规避机动。\n\n尽管它,开发周期很短，但它还是在前线进行了战斗，后来由于安全问题而被撤回。不幸的是，这个项目似乎已经以“§HDoctor Divine§!”的名义半途而废了。,被要求研究其他武器，当大十字军东征结束时，该项目就停止了，此后就不再需要此类武器了。”
- fallen_weaponry.1021.a:0 “§Y$tech_psi_missile_system$§! 将属于我们！”
- fallen_weaponry.103.name:0 《计划：神圣防御》
- fallen_weaponry.103.desc:0 “我们在神殿的团队发现了另一个有趣的读物。在大远征期间的某个时刻，启动了‘神圣防御’计划，以应对拥有压倒性火力的未知敌人。‘§H神圣博士§!’,被转移到寻找一种方法来增强他们在前线的 $tech_psi_deflector$ 的性能。因此，§Y$tech_dark_energy_shield_booster$§! 的工作开始了。然而，只剩下工作原型的蓝图。”
+ fallen_weaponry.1021.name:0 "丢失的技术：§Y$tech_psi_missile_system$§!"
+ fallen_weaponry.1021.desc:0 "Psi 导弹系统旨在对抗最强大的点防御系统，每枚 Psi 导弹都由其机组人员进行灵能控制，使弹头能够改变飞行模式并仅通过意念的力量进行规避机动。\n\n尽管它很短,在开发周期中，尽管如此，它还是在前线进行了战斗，之后由于安全问题而被撤回。,不幸的是，这个项目似乎因为“§HDoctor Divine§!”而半途而废。,被要求从事其他武器的工作，并且该项目在大十字军东征结束时停止，此后不再需要此类武器。"
+ fallen_weaponry.1021.a:0 "§Y$tech_psi_missile_system$§!,将是我们的！"
+ fallen_weaponry.103.name:0 "项目：神圣防御"
+ fallen_weaponry.103.desc:0 "我们在神社的团队发现了另一个有趣的读物。,在大远征的某个时刻，为了应对拥有压倒性火力的未知敌人，启动了“神圣防御”计划。 ,“§H神圣博士§!”,被调来寻找一种方法来增强他们在前线的 $tech_psi_deflector$ 的性能。,因此，有关 §Y$tech_dark_energy_shield_booster$§! 的工作开始了。,然而，只剩下工作原型的蓝图。"
  fallen_weaponry.103.a:0 “$tech_dark_energy_shield_booster$？”
- fallen_weaponry.103.b:0 “我们已经知道 $tech_dark_energy_shield_booster$。”
+ fallen_weaponry.103.b:0 "我们已经知道 $tech_dark_energy_shield_booster$。"
  
- PROJECT_DARK_ENERGY_SHIELD_BOOSTER:0 “丢失的技术：§Y$tech_dark_energy_shield_booster$§!”
- PROJECT_DARK_ENERGY_SHIELD_BOOSTER_DESC:0 “从 §H[From.Planet.GetName]§! 的秘密神殿获得的蓝图显示了盾牌技术的有趣突破。然而，蓝图仍然模糊不清。我们的 [GetScientistPlural] 需要相当长的时间才能处理和翻译,在它对我们有用之前的所有数据文件。\n\n我们的 [GetScientistPlural] 还不确定 §Y$tech_dark_energy_shield_booster$§! 是如何运作的。”
+ PROJECT_DARK_ENERGY_SHIELD_BOOSTER:0 "丢失的技术：§Y$tech_dark_energy_shield_booster$§!"
+ PROJECT_DARK_ENERGY_SHIELD_BOOSTER_DESC:0 "从 §H[From.Planet.GetName]§! 的秘密神殿获得的蓝图,展示了屏蔽技术的有趣突破。,然而，这方面的蓝图仍然模糊不清。,我们的 [GetScientistPlural] 需要相当长的时间才能处理和翻译所有数据文件，然后才能对我们有用。\n\n我们的 [GetScientistPlural] 还不确定 §Y$tech_dark_energy_shield_booster$§!,实际上功能。"
  
- fallen_weaponry.1031.name:0 “丢失的技术：§Y$tech_dark_energy_shield_booster$§!”
- fallen_weaponry.1031.desc:0 “虽然 §Y$tech_dark_energy_shield_booster$§! 在大远征期间从未见过战斗，但它的研究和暗能量应用仍然让‘§H神圣博士§!’着迷，他在其中看到了开辟新技术领域的新可能性。它是,说§H神医§!在这个项目上的时间给了他很大的启发，并促使他创造了一些与暗能量有关的技术。”
- fallen_weaponry.1031.a:0 “§Y$tech_dark_energy_shield_booster$§! 将属于我们！”
- fallen_weaponry.104.name:0 《不祥的发现》
- fallen_weaponry.104.desc:0 “当我们的团队继续挖掘神殿时，他们发现了引用‘§Y$tech_omni_emitter$§!’的文件。虽然规格，尤其是伤害输出让我们的 [GetScientistPlural] 感到满意，但更神秘的是,根本没有关于这种武器是如何构思的参考资料，也没有关于其开发过程的任何细节。太奇怪了。”
- fallen_weaponry.104.a:0 “什么是 §Y$tech_omni_emitter$§!？听起来很不祥。”
- fallen_weaponry.104.b:0 “我们已经知道 $tech_omni_emitter$。”
+ fallen_weaponry.1031.name:0 "丢失的技术：§Y$tech_dark_energy_shield_booster$§!"
+ fallen_weaponry.1031.desc:0 "而 §Y$tech_dark_energy_shield_booster$§!,虽然在大远征期间从未见过战斗，但它的研究和暗能量应用仍然让“§H神圣博士§!”着迷，他们从中看到了开辟新技术领域的新可能性。,据说§H神医§!在这个项目上给了他很大的启发，并导致他创造了一些与暗能量有关的技术。"
+ fallen_weaponry.1031.a:0 "§Y$tech_dark_energy_shield_booster$§!,将是我们的！"
+ fallen_weaponry.104.name:0 "不祥的发现"
+ fallen_weaponry.104.desc:0 "当我们的团队继续挖掘神殿时，他们发现了引用“§Y$tech_omni_emitter$§!”的文件。,虽然规格，尤其是伤害输出让我们的 [GetScientistPlural] 感到满意，但更神秘的是，根本没有关于这种武器是如何构思的参考资料，也没有关于其开发过程的任何细节。,最奇怪的。"
+ fallen_weaponry.104.a:0 "什么是§Y$tech_omni_emitter$§!？,听起来不祥。"
+ fallen_weaponry.104.b:0 "我们已经知道 $tech_omni_emitter$。"
  
- PROJECT_OMNI_EMITTER:0 “丢失的技术：§Y$tech_omni_emitter$§!”
- PROJECT_OMNI_EMITTER_DESC:0 “从 §H[From.Planet.GetName]§! 的秘密神殿获得的蓝图显示发射器技术取得了有希望的突破。无论出于何种原因，这种武器的工作都被放弃了。我们的 [GetScientistPlural] 需要相当长的时间才能,处理和翻译与该项目有关的所有数据文件。\n\n我们仍然不知道为什么这种特殊武器被称为 §Y$tech_omni_emitter$§!。”
+ PROJECT_OMNI_EMITTER:0 "丢失的技术：§Y$tech_omni_emitter$§!"
+ PROJECT_OMNI_EMITTER_DESC:0 "从 §H[From.Planet.GetName]§! 的秘密神殿获得的蓝图,显示了发射器技术的有希望的突破。,无论出于何种原因，这种武器的研究都被放弃了。,在我们的 [GetScientistPlural] 处理和翻译与该项目有关的所有数据文件之前需要相当长的时间。\n\n我们仍然不知道为什么将这种特殊武器称为 §Y$tech_omni_emitter$§!。"
  
- fallen_weaponry.1041.name:0 “丢失的技术：§Y$tech_omni_emitter$§!”
- fallen_weaponry.1041.desc:0 “关于‘§Y$tech_omni_emitter$§!’知之甚少。”,或其起源，但我们所知道的是，它们在大十字军东征期间数量有限，在此期间他们看到了广泛的行动，飞行员的激动人心的描述描述了这种武器正在“炸开那些不信者和异教徒，直到王国来临” ,...,成功地复制了这项技术进行大规模生产。当大远征后资金枯竭时，这个项目就被简单地放弃了。”
+ fallen_weaponry.1041.name:0 "丢失的技术：§Y$tech_omni_emitter$§!"
+ fallen_weaponry.1041.desc:0 "关于“§Y$tech_omni_emitter$§!”知之甚少。,或其起源，但我们所知道的是，它们在大十字军东征期间数量有限，在此期间他们看到了广泛的行动，飞行员的激动人心的描述描述了这种武器正在“炸开那些不信者和异教徒，直到王国来临” ,.\n\n我们的 [GetArchaeologistPlural] 因此得出结论，该技术可能是从另一个未知文明转移而来的，而那位§H神圣博士§!,负责对该技术进行逆向工程以了解其秘密。\n\n然而，他未能成功复制该技术进行大规模生产。,当大远征结束后资金枯竭时，这个项目就被简单地放弃了。"
  
- fallen_weaponry.1041.a:0 “§Y$tech_omni_emitter$§! 将属于我们！”
- fallen_weaponry.105.name:0 《先行者的神奇武器》
- fallen_weaponry.105.desc:0 “在阅读秘密神殿中发现的最后一份卷轴时，我们找到了一个可以追溯到大远征之后几年的武器设计，绰号为 §Y$tech_portal_generator$§!。\n\n我们不确定它,之所以如此命名，是因为这确实是它的功能，或者是因为它受到虚拟游戏“门户”的启发，该游戏深受§HDoctor Divine§!的喜爱。无论如何，我们的[GetScientistPlural]无法确定它是否真的是,可以制造这种武器，或者如果“§HDoctor Divine§!”,已经完全疯了。一些发现没有意义，一些重要信息仍然缺失。\n\n如果我们要使这种武器栩栩如生，我们将需要大量时间和资源来进行我们自己的研究。”
- fallen_weaponry.105.a:0 “这 §Y$tech_portal_generator$§! 怎么可能？”
- fallen_weaponry.105.b:0 “我们已经知道 $tech_portal_generator$。”
+ fallen_weaponry.1041.a:0 "§Y$tech_omni_emitter$§!,将是我们的！"
+ fallen_weaponry.105.name:0 "先行者的神奇武器"
+ fallen_weaponry.105.desc:0 "在阅读在秘密神殿中发现的最后一份卷轴时，我们发现了一个可以追溯到大远征之后几年的武器设计，绰号为 §Y$tech_portal_generator$§!。\n\n我们不确定它是,如此命名是因为这确实是它的功能，或者是因为它受到虚拟游戏“门户”的启发，该游戏深受§HDoctor Divine§!的喜爱。,无论如何，我们的 [GetScientistPlural] 无法确定是否真的有可能制造这种武器，或者“§HDoctor Divine§!”,完全疯了。,一些发现没有意义，一些重要信息仍然缺失。\n\n如果我们要将这种武器变为现实，我们将需要花费大量时间和资源来进行自己的研究。"
+ fallen_weaponry.105.a:0 "这个§Y$tech_portal_generator$§怎么样？,甚至可能？"
+ fallen_weaponry.105.b:0 "我们已经知道 $tech_portal_generator$。"
  
- PROJECT_PORTAL_GENERATOR:0 “先行者的神奇武器：§Y$tech_portal_generator$§!”
- PROJECT_PORTAL_GENERATOR_DESC:0 “从 §H[From.Planet.GetName]§! 的秘密神殿获得的概念图设想了这种相当不寻常的武器。然而，这种‘神奇武器’从未实现，开发也从未真正开始。我们需要相当长的时间才能完成,[GetScientistPlural] 可以在开始我们自己对该项目的研究之前收集所有数据文件。\n\n在这个阶段，我们的 [GetScientistPlural] 不知道 §Y$tech_portal_generator$§! 是如何工作的，甚至不知道它是否有效。”
+ PROJECT_PORTAL_GENERATOR:0 "先行者的神奇武器：§Y$tech_portal_generator$§!"
+ PROJECT_PORTAL_GENERATOR_DESC:0 "从 §H[From.Planet.GetName]§! 的秘密神殿获得的概念图！,想象这件相当不寻常的武器。,然而，这个“神奇武器”从未实现，开发从未真正开始。,在我们的 [GetScientistPlural] 开始我们自己对该项目的研究之前收集所有数据文件需要相当长的时间。\n\n在这个阶段，我们的 [GetScientistPlural] 不知道 §Y$tech_portal_generator$§!,有效，或者它是否有效。"
 
- fallen_weaponry.1051.name:0 “先行者的神奇武器：§Y$tech_portal_generator$§!”
- fallen_weaponry.1051.desc:0 “晚年，‘§H神医§!’,似乎要发疯了。他的日记条目变得不稳定，他一直在写的“声音”变得更强。他被 $job_fe_sky_cardinal_plural$ 无法解释的噩梦所困扰，他的身体开始衰竭。\n\n但他还写了,解脱，另一个天使般的声音低声说出它对“§H神圣博士§!”的爱。 ,- 他可以得救，只要它能穿越到这个领域。在他病床上，'§H神医§!',创造了他最后的装置，门户发生器，从另一边带来他的“爱”。他相信他的救赎就在眼前，他的痛苦会结束，这是唯一能把他从迫在眉睫的死亡中拯救出来的东西。 ,\n\n§H神圣博士§! 几天后去世了。”
+ fallen_weaponry.1051.name:0 "先行者的神奇武器：§Y$tech_portal_generator$§!"
+ fallen_weaponry.1051.desc:0 "晚年，“​​§H神医§!”,似乎要发疯了。,他的日记条目变得不稳定，他一直在写的“声音”变得更加强烈。,他被 $job_fe_sky_cardinal_plural$ 无法解释的噩梦所困扰，他的身体开始衰竭。\n\n然而他也写下了解脱，因为另一个天使般的声音低声说出对“§HDoctor Divine§!”的爱。 ,——只要能穿越到这个境界，他就能得救。,在他病床上，“§H神医§!”,创造了他的最后一个装置，门户发生器，从另一边带来他的“爱”。,他确信他的救赎就在眼前，他的痛苦会结束，这是唯一能把他从迫在眉睫的死亡中拯救出来的东西。\n\n§H神圣博士§!,几天后去世了。"
  fallen_weaponry.1051.a:0 “§Y$tech_portal_generator$§! 将属于我们！”
  
  ##Fallen Materialist
  
- fallen_weaponry.200.name:0 “发现废弃的研究设施”
- fallen_weaponry.200.desc:0 “我们在 §H[event_target:fallen_materialist_digsite.GetName]§! 星球上找到了一个废弃的研究设施。它不显眼地矗立在现已沦陷的帝国的废墟中，很明显，这个设施在许多世纪前就被废弃了。\n\ ,n我们的 [GetArchaeologistPlural] 请求允许挖掘该站点，以查看其中是否有有价值的技术。”
- fallen_weaponry.200.a:0 “§H知识守护者§!有什么玩具？”
+ fallen_weaponry.200.name:0 "发现废弃的研究设施"
+ fallen_weaponry.200.desc:0 "我们在 §H[event_target:fallen_materialist_digsite.GetName]§! 星球上找到了一个废弃的研究设施。,不显眼地站在现在没落帝国的废墟中，很明显这个设施在许多世纪前就被遗弃了。\n\n我们的 [GetArchaeologistPlural] 请求允许挖掘该地点，以查看其中是否有有价值的技术。"
+ fallen_weaponry.200.a:0 "§HKeepers of Knowledge§! 玩什么玩具！,具有？"
  
- fallen_weaponry.201.name:0 “外地人”
- fallen_weaponry.201.desc:0 “从一台有数百年历史的机器中检索数据从来都不是一件容易的事，但我们的团队发现了一个与某个‘§H外域人§!’相关的条目。关于她存在的最早记录出现在一个文件中，记录了她聪明的头脑被浪费在了,一些邻近的原始帝国，他们用一些矿物和能源信用额度换取了她。交易，他们评论道。\n\n'§H外域人§!',很快就掌握了暗物质技术的基础知识，并与其他 [GetScientistPlural] 一起努力揭开暗能量的秘密，他们认为暗能量也可以用来为宇宙飞船提供动力。记录表明他们设法创造了一个比以往任何时候都更强大的能量核心,见过。”
- fallen_weaponry.201.a:0 “$tech_dark_energy_power_core$？这可能吗？”
- fallen_weaponry.201.b:0 “我们已经知道 $tech_dark_energy_power_core$。”
+ fallen_weaponry.201.name:0 "外地人"
+ fallen_weaponry.201.desc:0 "从百年历史的机器中检索数据绝非易事，但我们的团队发现了与某个“§HOutlander§!”相关的条目。,关于她存在的最早记录出现在一个文件中，记录了她聪明的头脑被浪费在邻近的某个原始帝国，他们用一些矿物和能源信用换取了她。,很划算，他们说。\n\n“§H外域人§!”,很快就掌握了暗物质技术的基础知识，并与其他 [GetScientistPlural] 一起努力揭开暗能量的秘密，他们认为暗能量也可以用来为宇宙飞船提供动力。,记录显示他们设法创造了一个比以往任何时候都更强大的能量核心。"
+ fallen_weaponry.201.a:0 "$tech_dark_energy_power_core$？,这可能吗？"
+ fallen_weaponry.201.b:0 "我们已经知道 $tech_dark_energy_power_core$。"
 
- PROJECT_DARK_ENERGY_POWER_CORE:0 “丢失的技术：§Y$tech_dark_energy_power_core$§!”
- PROJECT_DARK_ENERGY_POWER_CORE_DESC:0 “从 §H[From.Planet.GetName]§! 上废弃的研究设施收集的样本数据显示了反应堆技术的一个有趣突破，从根本上改变了我们对什么是可能的理解。然而，今天没有任何功能样本幸存下来。,在我们能够重新创建这项技术之前，我们的 [GetScientistPlural] 可以处理和翻译所有数据文件需要相当长的时间。\n\n然而，使用 §Y$tech_dark_energy_power_core$§! 为我们的飞船提供动力的前景可能永远彻底改变太空飞行。 ,“
+ PROJECT_DARK_ENERGY_POWER_CORE:0 "丢失的技术：§Y$tech_dark_energy_power_core$§!"
+ PROJECT_DARK_ENERGY_POWER_CORE_DESC:0 "从 §H[From.Planet.GetName]§! 上废弃的研究设施收集的样本数据,展示了反应堆技术的有趣突破，从根本上改变了我们对实际上可能发生的事情的理解。,然而，今天没有功能样本存活下来。,在我们能够重新创建这项技术之前，我们的 [GetScientistPlural] 可以处理和翻译所有数据文件需要相当长的时间。\n\n尽管如此，使用 §Y$tech_dark_energy_power_core$§ 的前景！,为我们的飞船提供动力可以永远彻底改变太空飞行。"
  
- fallen_weaponry.2011.name:0 “丢失的技术：§Y$tech_dark_energy_power_core$§!”
- fallen_weaponry.2011.desc:0 “随着更多信息的曝光，很明显，§Y$tech_dark_energy_power_core$§! 曾经为堕落帝国的宇宙飞船提供动力，尤其是在大远征期间，那个时代的许多庞大武器都需要大量电力供应。'§HOutlander ,§!',似乎对这个项目做出了重大贡献，因为他发现暗能量实际上可以在暗物质裂变过程中产生，并在项目完成后获得了“最佳异种科学家”奖。\n\n由于不明原因，这个电源,大远征后不久就不再使用了。”
- fallen_weaponry.2011.a:0 “§Y$tech_dark_energy_power_core$§! 将属于我们！”
- fallen_weaponry.202.name:0 “过去的片段”
- fallen_weaponry.202.desc:0 “在成堆的古董武器中，我们在 §H[From.Planet.GetName]§! 废弃研究设施的挖掘小组发现了一块奇怪的金属，其中包含一些不寻常的特征：首先，它非常轻，极难被发现,有了现代传感器技术。我们能不能找到古代 §Y$tech_shadow_strike_craft$§! 的碎片，这些碎片在大远征的太空战中经常被提及以发挥决定性作用？只有时间才能证明……”
- fallen_weaponry.202.a:0 “$tech_shadow_strike_craft$？”
- fallen_weaponry.202.b:0 “我们已经知道 $tech_shadow_strike_craft$。”
+ fallen_weaponry.2011.name:0 "丢失的技术：§Y$tech_dark_energy_power_core$§!"
+ fallen_weaponry.2011.desc:0 "随着更多信息的曝光，很明显§Y$tech_dark_energy_power_core$§!,曾经为堕落帝国的宇宙飞船提供动力，尤其是在大十字军东征期间，那个时代的许多庞大武器都需要大量电力供应。 ,“§H外域人§!”,似乎对这个项目做出了重大贡献，因为他发现暗能量实际上可以在暗物质裂变过程中产生，并在项目完成后获得了“最佳异种科学家”奖。\n\n由于不明原因，这个电源,大十字军东征后不久就停止使用了。"
+ fallen_weaponry.2011.a:0 "§Y$tech_dark_energy_power_core$§!,将是我们的！"
+ fallen_weaponry.202.name:0 "过去的片段"
+ fallen_weaponry.202.desc:0 "在成堆的古董武器中，我们的挖掘团队在 §H[From.Planet.GetName]§！,发现了一块奇怪的金属，其中包含一些不寻常的特征：首先，它非常轻，而且用现代传感器技术极难检测到。,我们能找到古代§Y$tech_shadow_strike_craft$§!的碎片吗？,在大远征的太空战中，它经常被提及而没有发挥决定性作用？,只有时间会给出答案..."
+ fallen_weaponry.202.a:0 "$tech_shadow_strike_craft$？"
+ fallen_weaponry.202.b:0 "我们已经知道 $tech_shadow_strike_craft$。"
  
- PROJECT_SHADOW_STRIKE_CRAFT:0 “丢失的技术：§Y$tech_shadow_strike_craft$§!”
- PROJECT_SHADOW_STRIKE_CRAFT_DESC:0 “从 §H[From.Planet.GetName]§! 的废弃研究设施中获得的碎片显示了攻击机技术的有趣突破。然而，这个碎片仍然只是原始结构的一部分。我们需要相当长的时间才能完成,[GetScientistPlural] 可以在完整重建之前处理和翻译所有数据文件。\n\n尽管如此，毫无疑问，§Y$tech_shadow_strike_craft$§! 优于我们当前的打击工艺技术。”
+ PROJECT_SHADOW_STRIKE_CRAFT:0 "丢失的技术：§Y$tech_shadow_strike_craft$§!"
+ PROJECT_SHADOW_STRIKE_CRAFT_DESC:0 "从 §H[From.Planet.GetName]§! 的废弃研究设施中获得的碎片,展示了打击工艺技术的有趣突破。,然而，这个片段仍然只是原始构造的一部分。,在我们的 [GetScientistPlural] 处理和翻译所有数据文件并重建它之前需要相当长的时间。\n\n尽管如此，毫无疑问，§Y$tech_shadow_strike_craft$§!,优于我们目前的打击工艺技术。"
 
- fallen_weaponry.2021.name:0 “丢失的技术：§Y$tech_shadow_strike_craft$§!”
- fallen_weaponry.2021.desc:0 “§Y$tech_shadow_strike_craft$§! 是新一代的打击工艺，比以前的迭代更隐蔽和规避，也许是对大远征期间敌人的打击工艺的回应。它从传感器盲点进行打击，旨在压倒敌人,在船只对他们的存在做出反应之前。\n\n记录表明“§H外域人§!”,是该项目背后的首席科学家，他在具有传感器隐身特性的材料方面取得了多项突破。然而，由于它们的高维护性，这些攻击工艺在大远征后不久就被废弃了，因为它们没有进一步的用途。
- fallen_weaponry.2021.a:0 “§Y$tech_shadow_strike_craft$§! 将属于我们！”
- fallen_weaponry.203.name:0 “原型蓝图”
- fallen_weaponry.203.desc:0 “我们发现了新的证据，证明某种 §Y$tech_dark_energy_shield$§! 在大远征期间在前线发挥了有限的作用。然而，除了没有材料规格的蓝图外，信息很少。\n\ ,n问题是，它们起作用了吗？如果起作用，效果如何？”
- fallen_weaponry.203.a:0 “$tech_dark_energy_shield$？”
- fallen_weaponry.203.b:0 “我们已经知道 $tech_dark_energy_shield$。”
+ fallen_weaponry.2021.name:0 "丢失的技术：§Y$tech_shadow_strike_craft$§!"
+ fallen_weaponry.2021.desc:0 "§Y$tech_shadow_strike_craft$§!,是新一代的打击工艺品，比以前的迭代更加隐蔽和规避，也许是对大远征期间敌人的打击工艺品的回应。,它从传感器盲点发起攻击，旨在在敌方船只对其存在作出反应之前将其压倒。\n\n记录表明“§H外域人§!”,是该项目背后的首席科学家，他在具有传感器隐身特性的材料方面取得了多项突破。,然而，由于维护成本高，这些打击工艺品在大远征后不久就被废弃，因为它们没有进一步的用途。"
+ fallen_weaponry.2021.a:0 "§Y$tech_shadow_strike_craft$§!,将是我们的！"
+ fallen_weaponry.203.name:0 "原型蓝图"
+ fallen_weaponry.203.desc:0 "我们发现了一种 §Y$tech_dark_energy_shield$§!,在大远征期间在前线看到了有限的行动。,然而，除了没有材料规格的蓝图外，信息很少。\n\n问题是，它们有效吗？,如果是这样，怎么办？"
+ fallen_weaponry.203.a:0 "$tech_dark_energy_shield$？"
+ fallen_weaponry.203.b:0 "我们已经知道 $tech_dark_energy_shield$。"
  
- PROJECT_DARK_ENERGY_SHIELD:0 “丢失的技术：§Y$tech_dark_energy_shield$§!”
- PROJECT_DARK_ENERGY_SHIELD_DESC:0 “从 §H[From.Planet.GetName]§! 的废弃研究设施获得的蓝图显示了护盾技术的有趣突破。然而，该蓝图只有有限的原型信息，在前线进行了有限的战斗。它需要,我们的 [GetScientistPlural] 在恢复开发之前需要相当长的时间才能处理和翻译所有数据文件。\n\n尽管如此，§Y$tech_dark_energy_shield$§! 似乎是我们的舰队可以使用的技术。”
+ PROJECT_DARK_ENERGY_SHIELD:0 "丢失的技术：§Y$tech_dark_energy_shield$§!"
+ PROJECT_DARK_ENERGY_SHIELD_DESC:0 "从 §H[From.Planet.GetName]§! 上废弃的研究设施获得的蓝图,展示了屏蔽技术的有趣突破。,然而，这份蓝图只有有限的前线实战原型机信息。,在我们的 [GetScientistPlural] 处理和翻译所有数据文件并恢复其开发之前需要相当长的时间。\n\n尽管如此，§Y$tech_dark_energy_shield$§!,似乎是我们的舰队可以使用的技术。"
 
- fallen_weaponry.2031.name:0 “丢失的技术：§Y$tech_dark_energy_shield$§!”
- fallen_weaponry.2031.desc:0 “§Y$tech_dark_energy_shield$§! 在大远征的最后阶段见证了战斗，当时战争已经决定性地转向有利于前身帝国的方向。‘§H外域人§!’,和她的团队孜孜不倦地将这个原型推向部署阶段，甚至她也觉得这是她最伟大的作品之一。\n\n大远征结束后，这种护盾的维护成本变得很高，而更便宜的护盾通常更具成本效益,对于饱受战争蹂躏的经济。§Y$tech_dark_energy_shield$§! 很快就从服务舰队中移除，完全支持更便宜的 $tech_dark_matter_deflector$。”
- fallen_weaponry.2031.a:0 “§Y$tech_dark_energy_shield$§! 将属于我们！”
- fallen_weaponry.204.name:0 《不祥的发现》
- fallen_weaponry.204.desc:0 “当我们的团队继续在废弃实验室收集数据时，他们发现了引用‘§Y$tech_omni_lance$§!’的条目。虽然规格，尤其是伤害输出让我们的 [GetScientistPlural] 满意，但添加到,神秘的是，根本没有关于这种武器是如何构思的参考资料，也没有关于它的开发过程的任何细节。最奇怪的是。
- fallen_weaponry.204.a:0 “什么是 §Y$tech_omni_lance$§!？听起来不祥。”
- fallen_weaponry.204.b:0 “我们已经知道 $tech_omni_lance$。”
+ fallen_weaponry.2031.name:0 "丢失的技术：§Y$tech_dark_energy_shield$§!"
+ fallen_weaponry.2031.desc:0 "§Y$tech_dark_energy_shield$§!,在大远征的最后阶段看到了战斗，当时战争已经决定性地转向有利于前身帝国的地方。 ,“§H外地人§!”,和她的团队孜孜不倦地将这个原型推向部署阶段，甚至她也觉得这是她最伟大的作品之一。\n\n大远征结束后，这种护盾的维护成本变得很高，而更便宜的护盾通常更具成本效益,对于饱受战争蹂躏的经济。 ,§Y$tech_dark_energy_shield$§!,很快就完全从服务舰队中移除，取而代之的是更便宜的 $tech_dark_matter_deflector$。"
+ fallen_weaponry.2031.a:0 "§Y$tech_dark_energy_shield$§!,将是我们的！"
+ fallen_weaponry.204.name:0 "不祥的发现"
+ fallen_weaponry.204.desc:0 "随着我们的团队继续在废弃实验室收集数据，他们发现了引用“§Y$tech_omni_lance$§!”的条目。,虽然规格，尤其是伤害输出让我们的 [GetScientistPlural] 感到满意，但更神秘的是，根本没有关于这种武器是如何构思的参考资料，也没有关于其开发过程的任何细节。,最奇怪的。"
+ fallen_weaponry.204.a:0 "什么是§Y$tech_omni_lance$§!？,听起来不祥。"
+ fallen_weaponry.204.b:0 "我们已经知道 $tech_omni_lance$。"
  
- PROJECT_OMNI_LANCE:0 “丢失的技术：§Y$tech_omni_lance$§!”
- PROJECT_OMNI_LANCE_DESC:0 “从 §H[From.Planet.GetName]§! 上的研究设施获得的数据表明，能量长枪取得了有希望的突破。无论出于何种原因，对这种武器的研究都被放弃了。我们的 [GetScientistPlural] 需要相当长的时间才能,处理和翻译与该项目有关的所有数据文件。\n\n我们仍然不知道为什么这种特殊武器被称为 §Y$tech_omni_lance$§!。”
+ PROJECT_OMNI_LANCE:0 "丢失的技术：§Y$tech_omni_lance$§!"
+ PROJECT_OMNI_LANCE_DESC:0 "从 §H[From.Planet.GetName]§! 的研究设施获得的数据,在能量长矛方面显示出有希望的突破。,无论出于何种原因，这种武器的研究都被放弃了。,我们的 [GetScientistPlural] 需要相当长的时间才能处理和翻译与该项目有关的所有数据文件。\n\n我们仍然不知道为什么将这种特殊武器称为 §Y$tech_omni_lance$§!。"
 
- fallen_weaponry.2041.name:0 “丢失的技术：§Y$tech_omni_lance$§!”
- fallen_weaponry.2041.desc:0 “用 §HThe Outlander§! 的话来说，§Y$tech_omni_lance$§! 是一种适合文明社会的优雅武器。在大远征期间，它们对物质主义者来说数量有限，但在,\n\n因此，我们的 [GetArchaeologistPlural] 推测该技术可能是从另一个未知文明转移而来的，而那个“§HThe Outlander§!”,可能负责对其技术进行逆向工程以进行大规模生产。\n\n然而，她没有成功，她开始收到同事们对她的外表和缺乏努力的冷嘲热讽。这次失败标志着她职业生涯的转折点,”
- fallen_weaponry.2041.a:0 “§Y$tech_omni_lance$§! 将属于我们！”
- fallen_weaponry.205.name:0 《先行者的神奇武器》
- fallen_weaponry.205.desc:0 “在从废弃研究设施的数据库中提取最后的文件时，我们恢复了一个可以追溯到大远征之后几年的武器设计：§Y$tech_dimensional_weapon$§!。\n\n只不过是概念图，,我们的 [GetScientistPlural] 还不能确定是否真的有可能制造这种武器，或者“§HThe Outlander§!”,已经发疯了。一些发现没有意义，一些重要信息仍然缺失。\n\n如果我们要使这种武器栩栩如生，我们将需要大量时间和资源来进行我们自己的研究。”
- fallen_weaponry.205.a:0 “这个 §Y$tech_dimensional_weapon$§! 怎么可能？”
- fallen_weaponry.205.b:0 “我们已经知道 $tech_dimensional_weapon$。”
+ fallen_weaponry.2041.name:0 "丢失的技术：§Y$tech_omni_lance$§!"
+ fallen_weaponry.2041.desc:0 "用§H异乡人§!的话来说，就是§Y$tech_omni_lance$§!,是文明社会的优雅武器配件。,它们在大远征期间对物质主义者的使用数量有限，但随着时间的推移数量大大减少。\n\n因此我们的 [GetArchaeologistPlural] 推测该技术可能是从另一个未知文明转移而来的，而“§HThe Outlander” ,！',可能负责对其技术进行逆向工程以实现大规模生产。\n\n然而，她没有成功，她开始收到同事们对她的外表和缺乏努力的冷嘲热讽。,这次失败标志着她职业生涯的转折点。"
+ fallen_weaponry.2041.a:0 "§Y$tech_omni_lance$§!,将是我们的！"
+ fallen_weaponry.205.name:0 "先行者的神奇武器"
+ fallen_weaponry.205.desc:0 "在从废弃研究设施的数据库中提取最后的文件时，我们找到了一个可以追溯到大远征之后几年的武器设计：§Y$tech_dimensional_weapon$§!。\n\n只不过是概念图，我们的,[GetScientistPlural] 尚不能确定是否真的有可能制造出这种武器，或者“§HThe Outlander§!”,疯了。,一些发现没有意义，一些重要信息仍然缺失。\n\n如果我们要将这种武器变为现实，我们将需要花费大量时间和资源来进行自己的研究。"
+ fallen_weaponry.205.a:0 "这个 §Y$tech_dimensional_weapon$§ 怎么样！,甚至可能？"
+ fallen_weaponry.205.b:0 "我们已经知道 $tech_dimensional_weapon$。"
   
- PROJECT_DIMENSIONAL_WEAPON:0 “先行者的神奇武器：§Y$tech_dimensional_weapon$§!”
- PROJECT_DIMENSIONAL_WEAPON_DESC:0 “从 §H[From.Planet.GetName]§! 的废弃研究设施中获得的概念图设想了这种相当不寻常的武器。然而，这种‘神奇武器’从未实现，开发也从未真正开始。这需要相当长的时间才能实现,我们的 [GetScientistPlural] 可以在开始我们自己对该项目的研究之前收集所有数据文件。\n\n在这个阶段，我们的 [GetScientistPlural] 不知道 §Y$tech_dimensional_weapon$§! 是如何工作的，甚至不知道它是否有效。”
+ PROJECT_DIMENSIONAL_WEAPON:0 "先行者的神奇武器：§Y$tech_dimensional_weapon$§!"
+ PROJECT_DIMENSIONAL_WEAPON_DESC:0 "从 §H[From.Planet.GetName]§! 上废弃的研究设施获得的概念图,想象这件相当不寻常的武器。,然而，这个“神奇武器”从未实现，开发从未真正开始。,在我们的 [GetScientistPlural] 开始我们自己对该项目的研究之前，需要相当长的时间才能收集到所有数据文件。\n\n在这个阶段，我们的 [GetScientistPlural] 不知道 §Y$tech_dimensional_weapon$§!,有效，或者它是否有效。"
  
- fallen_weaponry.2051.name:0 “先行者的神奇武器：§Y$tech_dimensional_weapon$§!”
- fallen_weaponry.2051.desc:0 “那是科学界恐慌的时期，当有消息称他们的招魂术主要竞争对手打算推倒维度之间的墙壁以导致潜在的灾难性后果时。尽管患有严重的抑郁症和思乡病，'§HThe Outlander§!',帮助研究了从某个“§HDoctor Divine§!”那里窃取的概念艺术，并认为该武器尚未投入使用。次元光束随后被概念化，以对抗招魂术者向银河系释放的任何潜在的超维度入侵者。\n\n幸运的是,对于物质主义者来说，他们的对手从未完成武器，因此该项目被放弃，担心它也会招致超维入侵。但并不那么幸运的是，该设施很快遭到大规模网络攻击，导致多个系统故障和爆炸,. '§H外地人§!',在事件中丧生，唯物主义社会继续存在，就好像她从未存在过一样。”
- fallen_weaponry.2051.a:0 “§Y$tech_dimensional_weapon$§! 将属于我们！”
+ fallen_weaponry.2051.name:0 "先行者的神奇武器：§Y$tech_dimensional_weapon$§!"
+ fallen_weaponry.2051.desc:0 "这是科学界恐慌的时期，当有消息称他们的招魂术主要竞争对手打算推倒维度之间的墙以导致潜在的灾难性后果时。,尽管患有严重的抑郁症和思乡病，“§H外地人§!”,帮助研究了从某个“§HDoctor Divine§!”窃取的概念图，并认为该武器尚未投入使用。,次元光束随后被概念化，以对抗任何潜在的异次元入侵者，唯灵论者会向银河系释放这些入侵者。\n\n对物质主义者来说幸运的是，他们的对手从未完成武器，因此该项目被放弃，担心它也会招致异次元入侵,.,但不幸的是，该设施很快遭到大规模网络攻击，导致多个系统故障和爆炸。 ,“§H外地人§!”,她在事件中丧生，唯物主义社会继续存在，就好像她从未存在过一样。"
+ fallen_weaponry.2051.a:0 "§Y$tech_dimensional_weapon$§!,将是我们的！"
  
  ##Fallen Xenophile
  
- fallen_weaponry.300.name:0 《废弃飞地》
- fallen_weaponry.300.desc:0 “我们在 §H[event_target:fallen_xenophile_digsite.GetName]§! 星球上找到了一个废弃的飞地。在美丽的乡村中留下了废墟，这个飞地似乎在几个世纪前就被遗弃了，无论在里面进行什么实验都已经很久了,被遗忘了。\n\n我们的 [GetArchaeologistPlural] 相信对这片飞地的探险能够获得关于前身帝国内部运作的宝贵信息。”
- fallen_weaponry.300.a:0 “这些§H神秘观察者§!做了什么奇怪的实验？”
+ fallen_weaponry.300.name:0 "废弃飞地"
+ fallen_weaponry.300.desc:0 "我们在 §H[event_target:fallen_xenophile_digsite.GetName]§! 星球上找到了一个废弃的飞地。,被遗弃在美丽乡村的废墟中，这片飞地似乎在几个世纪前就被遗弃了，里面进行的任何实验都早已被遗忘。\n\n我们的 [GetArchaeologistPlural] 相信对该飞地的探险可以获得关于内部的宝贵信息,前身帝国的运作方式。"
+ fallen_weaponry.300.a:0 "这些§H神秘的观察者§做了什么奇怪的实验！,执行？"
 
- fallen_weaponry.301.name:0 “教授”
- fallen_weaponry.301.desc:0 “当我们的团队开始清理瓦砾并修复倒塌的结构时，他们开始注意到一些奇怪的事情。微小的异形填充物散落在大院中 - 其中一些看起来与我们非常相似，这让我们的团队感到非常沮丧。我们大老远来是为了发现,一个毛绒玩具工厂？\n\n[Root.Leader.GetName] 正要取消探险，这时一位助手偶然发现了某个“§H教授§!”的细节。,在设施被毁之前曾在这里工作过。具体来说，这里的记录称赞了他在 §Y$tech_dark_energy_jump_drive$§! 上的工作。”
- fallen_weaponry.301.a:0 “$tech_dark_energy_jump_drive$？”
- fallen_weaponry.301.b:0 “我们已经知道 $tech_dark_energy_jump_drive$。”
+ fallen_weaponry.301.name:0 "教授"
+ fallen_weaponry.301.desc:0 "当我们的团队开始清理瓦砾并修复倒塌的结构时，他们开始注意到一些奇怪的事情。,小的、填充的异形散落在院子里——有些看起来和我们非常相似，这让我们的团队很沮丧。,我们大老远跑来是为了发现一家毛绒玩具工厂吗？\n\n[Root.Leader.GetName] 正要取消探险，一名助手偶然发现了某个“§H教授§!”的细节。,在设施被毁之前曾在这里工作过。,具体来说，这里的记录赞扬了他在 §Y$tech_dark_energy_jump_drive$§! 上的工作。"
+ fallen_weaponry.301.a:0 "$tech_dark_energy_jump_drive$？"
+ fallen_weaponry.301.b:0 "我们已经知道 $tech_dark_energy_jump_drive$。"
 
- PROJECT_DARK_ENERGY_JUMP_DRIVE:0 “丢失的技术：§Y$tech_dark_energy_jump_drive$§!”
- PROJECT_DARK_ENERGY_JUMP_DRIVE_DESC:0 “从 §H[From.Planet.GetName]§! 上的废弃飞地获得的详细信息显示了跳跃驱动技术的有趣突破。然而，这项技术的文档仍然很少。我们的 [GetScientistPlural] 需要相当长的时间才能处理,并在它对我们有用之前翻译所有数据文件。\n\n我们的 [GetScientistPlural] 还不确定 §Y$tech_dark_energy_jump_drive$§! 的实际运作方式。”
+ PROJECT_DARK_ENERGY_JUMP_DRIVE:0 "丢失的技术：§Y$tech_dark_energy_jump_drive$§!"
+ PROJECT_DARK_ENERGY_JUMP_DRIVE_DESC:0 "从 §H[From.Planet.GetName]§! 上的废弃飞地获得的详细信息,展示了跳跃驱动技术的有趣突破。,然而，这项技术的文档仍然很少。,我们的 [GetScientistPlural] 需要相当长的时间才能处理和翻译所有数据文件，然后才能对我们有用。\n\n我们的 [GetScientistPlural] 还不确定 §Y$tech_dark_energy_jump_drive$§!,实际上功能。"
  
- fallen_weaponry.3011.name:0 “丢失的技术：§Y$tech_dark_energy_jump_drive$§!”
- fallen_weaponry.3011.desc:0 “§Y$tech_dark_energy_jump_drive$§! 是由‘§H教授§!’发明的,在他年轻的时候，部分原因是为了满足他的旅行癖，即游览银河系、看到和会见他所读到的每一个有知觉的物种的愿望。传统的跳跃驱动器会使他一生中访问所有已知可居住世界的梦想成为不可能。 ,\n\n不幸的是，随着大远征的爆发，银河旅行变得不安全，他的新跃迁引擎很快被武器化以改装到战舰上，允许在不断变化的情况下快速重新部署舰队。”
- fallen_weaponry.3011.a:0 “§Y$tech_dark_energy_jump_drive$§! 将属于我们！”
- fallen_weaponry.302.name:0 “秘密实验室”
- fallen_weaponry.302.desc:0 “当我们的团队深入飞地时，一扇隐藏的门显露出来。一进去，令我们高兴的是，我们似乎找到了我们认为是§H教授§!的私人日记。注意不要破坏,古老的神器，我们的团队开始阅读它的内容。\n\n在大远征开始后不久，§H教授§!的任务是开发一种名为 §Y$tech_hellfire_autocannons$§! 的新型自动加农炮，这是他的一个项目,厌恶它承诺的纯粹暴力。日记还模糊地详细描述了它的开发过程和这个实验室的其他日常运作。
- fallen_weaponry.302.a:0 “$tech_hellfire_autocannons$？”
- fallen_weaponry.302.b:0 “我们已经知道 $tech_hellfire_autocannons$。”
+ fallen_weaponry.3011.name:0 "丢失的技术：§Y$tech_dark_energy_jump_drive$§!"
+ fallen_weaponry.3011.desc:0 "§Y$tech_dark_energy_jump_drive$§!,是由“§H教授§!”发明的,在他年轻的时候，部分原因是为了满足他的旅行癖，渴望游览银河系，看到并会见他读过这么多的每一个有知觉的物种。,传统的跳跃引擎会让他在有生之年造访所有已知宜居世界的梦想成为不可能。\n\n不幸的是，随着大远征的爆发，银河旅行变得不安全，他的新跳跃引擎很快被武器化，可以改装到战舰上，允许,在不断变化的情况下快速重新部署舰队。"
+ fallen_weaponry.3011.a:0 "§Y$tech_dark_energy_jump_drive$§!,将是我们的！"
+ fallen_weaponry.302.name:0 "秘密实验室"
+ fallen_weaponry.302.desc:0 "当我们的团队深入飞地时，一扇隐藏的门显露出来。,一进去，令我们高兴的是，我们似乎找到了我们认为是§H教授§!的私人日记。,为了不毁坏这件古老的神器，我们的团队开始阅读它的内容。\n\n大远征开始后不久，§H教授§!,受命开发一种名为 §Y$tech_hellfire_autocannons$§! 的新型自动加农炮，他厌恶这个项目，因为它承诺的绝对暴力。,日记中还含糊其辞地详细描述了它的开发过程和这个实验室的其他日常运作。"
+ fallen_weaponry.302.a:0 "$tech_hellfire_autocannons$？"
+ fallen_weaponry.302.b:0 "我们已经知道 $tech_hellfire_autocannons$。"
  
- PROJECT_HELLFIRE_AUTOCANNON:0 “丢失的技术：§Y$tech_hellfire_autocannons$§!”
- PROJECT_HELLFIRE_AUTOCANNON_DESC:0 “从 §H[From.Planet.GetName]§! 的废弃飞地获得的日记显示了机炮技术的有趣突破。然而，这种武器的细节仍然很少而且相差甚远。我们的 [GetScientistPlural] 需要相当长的时间才能完成,将线索和其他相关信息拼凑在一起，以便我们开发自己的。\n\n尽管如此，§Y$tech_hellfire_autocannons$§! 似乎是我们的舰队可以使用的技术。”
+ PROJECT_HELLFIRE_AUTOCANNON:0 "丢失的技术：§Y$tech_hellfire_autocannons$§!"
+ PROJECT_HELLFIRE_AUTOCANNON_DESC:0 "从 §H[From.Planet.GetName]§! 的废弃飞地获得的日记,展示了自动加农炮技术的有趣突破。,然而，这种武器的细节仍然很少。,我们的 [GetScientistPlural] 需要相当长的时间才能将线索和其他相关信息拼凑起来，以便我们自己开发。\n\n尽管如此，§Y$tech_hellfire_autocannons$§!,似乎是我们的舰队可以使用的技术。"
  
- fallen_weaponry.3021.name:0 “丢失的技术：§Y$tech_hellfire_autocannons$§!”
- fallen_weaponry.3021.desc:0 “根据传说，§Y$tech_hellfire_autocannons$§! 在近距离伏击时向敌方船只倾泻地狱火。事实证明它在战斗中非常有效，在大远征期间为前身帝国取得了第一次重大胜利。\n\n由于他的不情愿,为了从事该项目，§H教授§!的同事有时会翻找他的异种填充物收藏品并将它们藏在实验室设备后面，或者威胁要将它们扔出窗外，作为对§H教授§!的额外“激励”。 ,§Y$tech_hellfire_autocannons$§! 项目随后按时完成。”
- fallen_weaponry.3021.a:0 “§Y$tech_hellfire_autocannons$§! 将属于我们！”
- fallen_weaponry.303.name:0 “侧面喧嚣”
+ fallen_weaponry.3021.name:0 "丢失的技术：§Y$tech_hellfire_autocannons$§!"
+ fallen_weaponry.3021.desc:0 "根据传说，§Y$tech_hellfire_autocannons$§!,在近距离伏击时向敌舰倾泻地狱之火。,它在战斗中被证明是有效的，在大远征期间为前身帝国取得了第一次重大胜利。\n\n由于他不愿意参与这个项目，§H教授§!的同事有时会翻找他的异形收藏品和,将它们藏在实验室设备后面，或威胁将它们扔出窗外，作为对§H教授§!的额外“激励”。 ,§Y$tech_hellfire_autocannons$§!,然后项目按时完成。"
+ fallen_weaponry.3021.a:0 "§Y$tech_hellfire_autocannons$§!,将是我们的！"
+ fallen_weaponry.303.name:0 "副业"
  fallen_weaponry.303.desc:0 “虽然实际上并没有在 $tech_hellfire_autocannons$ 上工作，但 §H 教授§! 构思了大远征结束后穿越银河系的新方法。尽管在那个时代技术如此先进，但 §H 教授§! 知道当前的技术,前身帝国仍然意味着他不可能在他的余生中访问所有的异种行星。\n\n因此他想出了 §Y$tech_dark_energy_afterburners$§! 和 §Y$tech_dark_energy_thruster$§! 的想法，希望,一旦大远征结束，他还有时间去旅行。”
- fallen_weaponry.303.a:0 “$tech_dark_energy_afterburners$？$tech_dark_energy_thruster$？”
- fallen_weaponry.303.b:0 “我们已经知道这些技术。”
+ fallen_weaponry.303.a:0 "$tech_dark_energy_afterburners$？ ,$tech_dark_energy_thruster$？"
+ fallen_weaponry.303.b:0 "我们已经知道这些技术。"
  
- PROJECT_DARK_ENERGY_AFTERBURNERS:0 “丢失的技术：§Y$tech_dark_energy_afterburners$§!”
- PROJECT_DARK_ENERGY_AFTERBURNERS_DESC:0 “从 §H[From.Planet.GetName]§! 上的废弃飞地获得的计划显示了推进技术的有趣突破。然而，这项技术的计划仍然模糊。我们的 [GetScientistPlural] 需要相当长的时间才能处理和处理,在它对我们有用之前翻译所有这些。\n\n目前，我们的 [GetScientistPlural] 还不确定 §Y$tech_dark_energy_afterburners$§! 的实际运作方式。”
+ PROJECT_DARK_ENERGY_AFTERBURNERS:0 "丢失的技术：§Y$tech_dark_energy_afterburners$§!"
+ PROJECT_DARK_ENERGY_AFTERBURNERS_DESC:0 "从 §H[From.Planet.GetName]§! 上的废弃飞地获得的计划,在推进技术方面取得了有趣的突破。,然而，这项技术的计划仍然模糊不清。,我们的 [GetScientistPlural] 需要相当长的时间才能处理和翻译所有这些信息，然后才能对我们有用。\n\n目前，我们的 [GetScientistPlural] 还不确定 §Y$tech_dark_energy_afterburners$§!,实际上功能。"
  
- fallen_weaponry.3031.name:0 “丢失的技术：§Y$tech_dark_energy_afterburners$§!”
- fallen_weaponry.3031.desc:0 “虽然 §H 教授 §! 从未完成 §Y$tech_dark_energy_afterburners$§! 的设计，但他仍然有正确的想法。这个项目有真正的希望，如果前身帝国没有如此专注于战争，那么 § ,HProfessor§! 将他的技术计划隐藏在他的日记中，希望它永远不会被武器化。他打算在大远征结束后申请资金。”
- fallen_weaponry.3031.a:0 “§Y$tech_dark_energy_afterburners$§! 将属于我们！”
+ fallen_weaponry.3031.name:0 "丢失的技术：§Y$tech_dark_energy_afterburners$§!"
+ fallen_weaponry.3031.desc:0 "而§H教授§!,从未完成 §Y$tech_dark_energy_afterburners$§! 的设计，但他有正确的想法。,如果前身帝国没有如此全神贯注于战争，那么这个项目就有真正的希望，所以§H教授§!,将他的技术计划隐藏在他的日记中，希望它永远不会被武器化。,他打算在大远征结束后申请资助。"
+ fallen_weaponry.3031.a:0 "§Y$tech_dark_energy_afterburners$§!,将是我们的！"
  
- PROJECT_DARK_ENERGY_THRUSTER:0 “丢失的技术：§Y$tech_dark_energy_thruster$§!”
- PROJECT_DARK_ENERGY_THRUSTER_DESC:0 “从 §H[From.Planet.GetName]§! 的废弃飞地获得的计划显示了推进技术的有趣突破。然而，这些计划似乎只是初步草图，充满了理论数字和方程式。这需要相当长的时间,我们的 [GetScientistPlural] 在它对我们有用之前可以检查所有方程编号。\n\n截至目前，我们的 [GetScientistPlural] 还不确定 §Y$tech_dark_energy_thruster$§! 的实际工作原理。”
+ PROJECT_DARK_ENERGY_THRUSTER:0 "丢失的技术：§Y$tech_dark_energy_thruster$§!"
+ PROJECT_DARK_ENERGY_THRUSTER_DESC:0 "从 §H[From.Planet.GetName]§! 上的废弃飞地获得的计划,在推进技术方面取得了有趣的突破。,然而，这些计划似乎只是最初的草图，充满了理论数字和方程式。,我们的 [GetScientistPlural] 需要相当长的时间才能检查所有方程编号，然后才能对我们有用。\n\n截至目前，我们的 [GetScientistPlural] 还不确定 §Y$tech_dark_energy_thruster$§!,确实有效。"
  
- fallen_weaponry.3032.name:0 “丢失的技术：§Y$tech_dark_energy_thruster$§!”
- fallen_weaponry.3032.desc:0 “§Y$tech_dark_energy_thruster$§! 旨在增加亚光速太空旅行。虽然 §H 教授§! 经常在他的日记中哀叹他从未被选中进行太空探索以调查新的恒星系统，但驾驶科学飞船的想法,§Y$tech_dark_energy_thruster$§! 仍然让他保持热情并给了他一个目的和目标。”
- fallen_weaponry.3032.a:0 “§Y$tech_dark_energy_thruster$§! 将属于我们！”
- fallen_weaponry.304.name:0 《不祥的发现》
- fallen_weaponry.304.desc:0 “当我们的团队继续挖掘废弃飞地时，他们发现了引用‘§Y$tech_massive_autocannons$§!’的文件。虽然规格，尤其是伤害输出让我们的 [GetScientistPlural] 满意，但更神秘的是,根本没有关于这种武器是如何构思的参考资料，也没有关于它的开发过程的任何细节。最奇怪的是。
- fallen_weaponry.304.a:0 “什么是 §Y$tech_massive_autocannons$§!？听起来不祥。”
- fallen_weaponry.304.b:0 “我们已经知道 $tech_massive_autocannons$。”
+ fallen_weaponry.3032.name:0 "丢失的技术：§Y$tech_dark_energy_thruster$§!"
+ fallen_weaponry.3032.desc:0 "§Y$tech_dark_energy_thruster$§!,旨在增加亚光速太空旅行。,而§H教授§!,经常在他的日记中哀叹他从未被选中进行太空探索以调查新的恒星系统，以及驾驶带有 §Y$tech_dark_energy_thruster$§! 的科学飞船的想法！,尽管如此，还是让他保持热情，并给了他一个目的和目标。"
+ fallen_weaponry.3032.a:0 "§Y$tech_dark_energy_thruster$§!,将是我们的！"
+ fallen_weaponry.304.name:0 "不祥的发现"
+ fallen_weaponry.304.desc:0 "当我们的团队继续挖掘废弃飞地时，他们发现了引用“§Y$tech_massive_autocannons$§!”的文件。,虽然规格，尤其是伤害输出让我们的 [GetScientistPlural] 感到满意，但更神秘的是，根本没有关于这种武器是如何构思的参考资料，也没有关于其开发过程的任何细节。,最奇怪的。"
+ fallen_weaponry.304.a:0 "什么是§Y$tech_massive_autocannons$§!？,听起来不祥。"
+ fallen_weaponry.304.b:0 "我们已经知道 $tech_massive_autocannons$。"
  
- PROJECT_MASSIVE_AUTOCANNONS:0 “丢失的技术：§Y$tech_massive_autocannons$§!”
- PROJECT_MASSIVE_AUTOCANNONS_DESC:0 “从 §H[From.Planet.GetName]§! 上的废弃飞地获得的文件显示，自动加农炮技术取得了有希望的突破。无论出于何种原因，这种武器的开发都被放弃了。我们的 [GetScientistPlural] 需要相当长的时间才能完成,处理和翻译与该项目有关的所有数据文件。\n\n我们只知道，如果完成，§Y$tech_massive_autocannons$§! 将成为有史以来最大的自动加农炮。”
+ PROJECT_MASSIVE_AUTOCANNONS:0 "丢失的技术：§Y$tech_massive_autocannons$§!"
+ PROJECT_MASSIVE_AUTOCANNONS_DESC:0 "从 §H[From.Planet.GetName]§! 上的废弃飞地获得的文件,展示了自动加农炮技术的有希望的突破。,无论出于何种原因，这种武器的开发都被放弃了。,在我们的 [GetScientistPlural] 处理和翻译与该项目有关的所有数据文件之前需要相当长的时间。\n\n我们只知道如果完成，§Y$tech_massive_autocannons$§!,将是有史以来最大的自动加农炮。"
 
- fallen_weaponry.3041.name:0 “丢失的技术：§Y$tech_massive_autocannons$§!”
- fallen_weaponry.3041.desc:0 “虽然 §Y$tech_massive_autocannons$§! 的起源仍然是个谜，但我们所知道的是，它们在大远征期间数量有限，并且在战场上取得了数次胜利。飞地的科学家们,负责对大规模生产技术进行逆向工程，但最终没有成功。\n\n自相矛盾的说法将项目的失败归因于§H教授§!，他要么在同事指责他睡了一个填充异种动物后冲了出去,，而另一个说法则声称，§H教授§!在驾驶科学船的申请再次被拒绝后拒绝工作。”
- fallen_weaponry.3041.a:0 “§Y$tech_massive_autocannons$§! 将属于我们！”
- fallen_weaponry.305.name:0 “先行者的武器概念”
- fallen_weaponry.305.desc:0 “在日记的结尾，§H教授§!的任务是为舰队制造一种新武器，一种能够决定性地扭转大远征潮流并击退某个§H南方战斗群§!的猛攻的武器。,看来，尽管在大远征中取得了几次胜利，但前身帝国未能阻止这个§H南方战斗群§!访问§H[From.solar_system.GetName]§!星系，这造成了无法估量的破坏。”
- fallen_weaponry.305.a:0 “什么是 §Y$tech_annihilator_torpedo$§!？”
- fallen_weaponry.305.b:0 “我们已经知道 $tech_annihilator_torpedo$。”
+ fallen_weaponry.3041.name:0 "丢失的技术：§Y$tech_massive_autocannons$§!"
+ fallen_weaponry.3041.desc:0 "而 §Y$tech_massive_autocannons$§! 的起源,仍然是个谜，我们所知道的是，它们在大远征期间数量有限，并且在战场上取得了数次胜利。,飞地的科学家们被指控对大规模生产的技术进行逆向工程，但最终没有成功。\n\n自相矛盾的说法将项目的失败归咎于§H教授§!，他要么在同事指责他后冲了出去,和异形填充物一起睡觉，而另一个帐户声称§H教授§！,当他申请驾驶科学船再次被拒绝时，他拒绝工作。"
+ fallen_weaponry.3041.a:0 "§Y$tech_massive_autocannons$§!,将是我们的！"
+ fallen_weaponry.305.name:0 "先行者的武器概念"
+ fallen_weaponry.305.desc:0 "在日记的结尾，§H教授§!,的任务是为舰队制造一种新武器，一种能够决定性地扭转大远征的潮流并击退某个§H南方战斗群§!的猛攻的武器。,看来，前身帝国尽管在大远征中取得了几次胜利，但还是没能阻止这个§H南方战斗群§！,从访问 §H[From.solar_system.GetName]§!,系统，造成难以估量的破坏。"
+ fallen_weaponry.305.a:0 "什么是§Y$tech_annihilator_torpedo$§!？"
+ fallen_weaponry.305.b:0 "我们已经知道 $tech_annihilator_torpedo$。"
  
- PROJECT_ANNIHILATOR_TORPEDO:0 “先行者的武器概念：§Y$tech_annihilator_torpedo$§!”
- PROJECT_ANNIHILATOR_TORPEDO_DESC:0 “从 §H[From.Planet.GetName]§! 上的废弃飞地获得的概念图设想了这种相当不寻常的武器。然而，这种武器从未实现，开发也从未真正开始。我们的 [GetScientistPlural] 需要相当长的时间,可以在开始我们自己对此项目的研究之前收集所有数据文件。\n\n在这个阶段，我们的 [GetScientistPlural] 不知道 §Y$tech_annihilator_torpedo$§! 是如何工作的，甚至不知道它是否有效。”
+ PROJECT_ANNIHILATOR_TORPEDO:0 "先行者的武器概念：§Y$tech_annihilator_torpedo$§!"
+ PROJECT_ANNIHILATOR_TORPEDO_DESC:0 "从 §H[From.Planet.GetName]§! 的废弃飞地获得的概念图,想象这件相当不寻常的武器。,然而，这种武器从未实现，开发也从未真正开始。,在我们的 [GetScientistPlural] 开始我们自己对该项目的研究之前，需要相当长的时间才能收集到所有数据文件。\n\n在这个阶段，我们的 [GetScientistPlural] 不知道 §Y$tech_annihilator_torpedo$§!,有效，或者它是否有效。"
 
- fallen_weaponry.3051.name:0 “先行者的武器概念：§Y$tech_annihilator_torpedo$§!”
- fallen_weaponry.3051.desc:0 “随着大远征越来越接近首都，§H教授§!的日记条目变得越来越少。在为 §Y$tech_annihilator_torpedo$§! 绘制初始图纸后，首都和周边地区,殖民地遭到了一轮恶性的轨道轰炸，飞地被摧毁并杀死了里面的所有科学家。§H教授§!的最后一篇文章描述了被困在没有食物或水的设施中的日子，并慢慢意识到他会,永远不要去看星星。”
+ fallen_weaponry.3051.name:0 "先行者的武器概念：§Y$tech_annihilator_torpedo$§!"
+ fallen_weaponry.3051.desc:0 "随着大远征离首都越来越近，§H教授§!的日记条目变得越来越少。,在绘制出 §Y$tech_annihilator_torpedo$§! 的初始图纸后，首都和周围的殖民地遭到了一轮恶性的轨道轰炸，飞地被摧毁并杀死了里面的所有科学家。 ,§H教授§!的最后一篇文章描述了被困在没有食物和水的设施中的日子，并慢慢意识到他永远不会去看星星。"
  fallen_weaponry.3051.a:0 “§Y$tech_annihilator_torpedo$§! 将属于我们！”
  
  ##Fallen Xenophobe
 
- fallen_weaponry.400.name:0 “找到先行者的军火库”
- fallen_weaponry.400.desc:0 “我们在 §H[event_target:fallen_xenophobe_digsite.GetName]§! 星球上找到了一个隐藏的军火库。从它的自动化安全系统和仓促建造的路障来看，前身帝国似乎无意让任何它的,花式武器落入坏人之手。\n\n我们的 [GetArchaeologistPlural] 请求允许闯入设施，并为我们自己夺取里面的武器。”
- fallen_weaponry.400.a:0 “这些§H仇外孤立主义者§!拥有什么武器？”
+ fallen_weaponry.400.name:0 "找到先行者的军火库"
+ fallen_weaponry.400.desc:0 "我们在 §H[event_target:fallen_xenophobe_digsite.GetName]§! 星球上找到了一个隐藏的军火库。,从它的自动安全系统和仓促建造的路障来看，前身帝国似乎无意让任何它的花哨武器落入坏人之手。\n\n我们的 [GetArchaeologistPlural] 请求允许闯入该设施，,并为我们夺取里面的武器。"
+ fallen_weaponry.400.a:0 "这些§H仇外孤立主义者§!,具有？"
  
- fallen_weaponry.401.name:0 “观察者X”
- fallen_weaponry.401.desc:0 “进入综合大楼后，我们勇敢的团队洗劫了设施以寻找我们可以使用的设备。虽然大多数设备已经过时或基于我们已经掌握的技术，但我们的团队发现了许多具有有趣特征的原型。\n ,\n在这些原型中，有一位 §HWatcher X§! 的作品，他是泰坦系列的首席设计师。其中一个最初被认为是一个巨大的异种解剖雕像，但结果却是传说中的 §Y$tech_titan_missile$§ ,!，而且今天还在这里。我们不知道这项技术是否经过了战斗试验。”
- fallen_weaponry.401.a:0 “$tech_titan_missile$？”
- fallen_weaponry.401.b:0 “我们已经知道 $tech_titan_missile$。”
+ fallen_weaponry.401.name:0 "观察者 X"
+ fallen_weaponry.401.desc:0 "进入综合大楼后，我们勇敢的团队洗劫了设施以寻找我们可以使用的设备。,虽然大多数设备要么已经过时，要么基于我们已经掌握的技术，但我们的团队发现了许多具有有趣特征的原型。\n\n在这些原型中，有一个§HWatcher X§!的作品，他是,泰坦系列。,其中一个最初被认为是一个巨大的异种解剖雕像，但后来证明是传说中的 §Y$tech_titan_missile$§!，它至今仍然存在。,我们不知道这项技术是否经过了战斗试验。"
+ fallen_weaponry.401.a:0 "$tech_titan_missile$？"
+ fallen_weaponry.401.b:0 "我们已经知道 $tech_titan_missile$。"
 
- PROJECT_TITAN_MISSILE:0 “丢失的技术：§Y$tech_titan_missile$§!”
- PROJECT_TITAN_MISSILE_DESC:0 “从 §H[From.Planet.GetName]§! 的武器库中获得的原型表明导弹技术取得了有趣的突破。然而，由于有关其构造的信息仍然缺失，因此复制该原型需要时间。这需要相当长的时间才能完成,我们的 [GetScientistPlural] 可以恢复其开发。\n\n尽管如此，§Y$tech_titan_missile$§! 似乎是我们的舰队可以使用的技术。”
+ PROJECT_TITAN_MISSILE:0 "丢失的技术：§Y$tech_titan_missile$§!"
+ PROJECT_TITAN_MISSILE_DESC:0 "从 §H[From.Planet.GetName]§! 的武器库中获得的原型,展示了导弹技术的有趣突破。,然而，这个原型需要时间来复制，因为关于它的构造的信息仍然缺失。,在我们的 [GetScientistPlural] 恢复开发之前需要相当长的时间。\n\n尽管如此，§Y$tech_titan_missile$§!,似乎是我们的舰队可以使用的技术。"
  
- fallen_weaponry.4011.name:0 “丢失的技术：§Y$tech_titan_missile$§!”
- fallen_weaponry.4011.desc:0 “经过一些测试，我们的 [GetScientistPlural] 确定 §Y$tech_titan_missile$§! 实际上在这么长的时间后仍然有效。它是由前身科学家 §HWatcher X§! 策划的，他的技术似乎没有得到多少认可,开创性的工作。奇怪。”
- fallen_weaponry.4011.a:0 “§Y$tech_titan_missile$§! 将属于我们！”
- fallen_weaponry.402.name:0 《被遗忘的大炮》
- fallen_weaponry.402.desc:0 “随着我们的团队深入设施探索，我们发现了一种名为 §Y$tech_terror_cannon$§! 的武器。根据记录，这种武器在对抗 §R<<已编辑>>§! 的大远征中被广泛使用，但是,战争结束后很快就退役了。在随后的几个世纪里，这件武器似乎与§H守望者 X§! 的其他发明一起留在了这里腐烂。”
- fallen_weaponry.402.a:0 “$tech_terror_cannon$？”
- fallen_weaponry.402.b:0 “我们已经知道 $tech_terror_cannon$。”
+ fallen_weaponry.4011.name:0 "丢失的技术：§Y$tech_titan_missile$§!"
+ fallen_weaponry.4011.desc:0 "经过一些测试，我们的 [GetScientistPlural] 确定 §Y$tech_titan_missile$§!,实际上在所有这些时间之后仍然可以使用。,它是由先驱科学家§HWatcher X§!策划的。,他的开创性工作似乎没有得到多少认可。,奇怪的。"
+ fallen_weaponry.4011.a:0 "§Y$tech_titan_missile$§!,将是我们的！"
+ fallen_weaponry.402.name:0 "被遗忘的大炮"
+ fallen_weaponry.402.desc:0 "随着我们的团队深入设施探索，我们发现了一种名为 §Y$tech_terror_cannon$§! 的武器。,根据记录，这把武器在对抗 §R<<已编辑>>§! 的大远征中被广泛使用。,但在战争结束后很快就退役了。,在随后的几个世纪里，这件武器似乎与 §HWatcher X§! 的其他发明一起被遗弃在这个设施中腐烂。"
+ fallen_weaponry.402.a:0 "$tech_terror_cannon$？"
+ fallen_weaponry.402.b:0 "我们已经知道 $tech_terror_cannon$。"
  
- PROJECT_TERROR_CANNON:0 “丢失的技术：§Y$tech_terror_cannon$§!”
- PROJECT_TERROR_CANNON_DESC:0 “从 §H[From.Planet.GetName]§! 的武器库中获得的样本显示动能火炮取得了有趣的突破。然而，这种武器缺乏维护，其开发细节也很少。我们的 [GetScientistPlural] 还需要相当长的时间,] 可以重建该武器的功能原型。\n\n尽管如此，学术界仍在争论该武器是否真的转化为 §YTera Cannon§! 或 §Y$tech_terror_cannon$§!。”
+ PROJECT_TERROR_CANNON:0 "丢失的技术：§Y$tech_terror_cannon$§!"
+ PROJECT_TERROR_CANNON_DESC:0 "从 §H[From.Planet.GetName]§! 的武器库中获得的样本,展示了动能火炮的有趣突破。,然而，这种武器缺乏维护，其开发细节也很少。,我们的 [GetScientistPlural] 需要相当长的时间才能重新创建这种武器的功能原型。\n\n然而，对于这种武器是否真的转化为 §YTera Cannon§，学术界仍在争论不休！,或 §Y$tech_terror_cannon$§!。"
 
- fallen_weaponry.4021.name:0 “丢失的技术：§Y$tech_terror_cannon$§!”
- fallen_weaponry.4021.desc:0 “§Y$tech_terror_cannon$§! 旨在播种恐惧。与这个前身帝国的其他武器一样，他们对异种生命的蔑视反映在他们使用的名称和战斗策略上。然而，负责这种武器的科学家，也被称为,§HWatcher X§!，与他的其他物种并没有完全相同的意识形态。记录表明，他在每天回家看他的秘密伙伴之前半心半意地从事这个项目。”
- fallen_weaponry.4021.a:0 “§Y$tech_terror_cannon$§! 将属于我们！”
- fallen_weaponry.403.name:0 “原型蓝图”
- fallen_weaponry.403.desc:0 “在设施内更远的地方，我们的团队找到了一个数据库，其中包含该化合物历史的一些有趣条目。在开发 §Y$tech_titan_plating$§! 和 §Y$tech_titan_armor$§! 时，§HWatcher X§! 被解雇了,由于担心与他们的敌人勾结而被从团队中移除。在敏感时期，当针对 §R<<已编辑>>§! 的战争结果仍不确定时，此类预防措施似乎是合理的。无论如何，我们现在有一些细节,在开发出 §Y$tech_titan_plating$§! 和 §Y$tech_titan_armor$§! 技术时该设施的日常运作。”
- fallen_weaponry.403.a:0 “$tech_titan_plating$？$tech_titan_armor$？”
- fallen_weaponry.403.b:0 “我们已经知道这些技术。”
+ fallen_weaponry.4021.name:0 "丢失的技术：§Y$tech_terror_cannon$§!"
+ fallen_weaponry.4021.desc:0 "§Y$tech_terror_cannon$§!,旨在播种恐惧。,与来自这个前身帝国的其他武器一样，他们对异种生命的蔑视反映在他们使用的名字和战斗策略上。,然而，负责这种武器的科学家，也被称为§HWatcher X§!，与他的其他物种并没有完全相同的意识形态。,记录表明，他每天回家看望他的秘密伙伴之前，都在半心半意地从事这个项目。"
+ fallen_weaponry.4021.a:0 "§Y$tech_terror_cannon$§!,将是我们的！"
+ fallen_weaponry.403.name:0 "原型蓝图"
+ fallen_weaponry.403.desc:0 "在设施内更远的地方，我们的团队找到了一个数据库，其中包含一些关于该化合物历史的有趣条目。,在开发 §Y$tech_titan_plating$§!,和§Y$tech_titan_armor$§!，§HWatcher X§!,由于担心涉嫌与敌人勾结而被解雇。,在一个敏感的时刻，当针对 §R<<已编辑>>§!,仍然不确定，这种预防措施似乎是合理的。,不管怎样，我们现在有了一些关于这个设施日常运作的细节，当§Y$tech_titan_plating$§!,和§Y$tech_titan_armor$§!,技术得到发展。"
+ fallen_weaponry.403.a:0 "$tech_titan_plating$？ ,$tech_titan_armor$？"
+ fallen_weaponry.403.b:0 "我们已经知道这些技术。"
  
- PROJECT_TITAN_PLATING:0 “失落的技术：§Y$tech_titan_plating$§!”
- PROJECT_TITAN_PLATING_DESC:0 “从 §H[From.Planet.GetName]§! 上的武器设施获得的数据显示，船体完整性增强方面取得了有趣的突破。然而，该原型仍处于测试阶段，尚未实现量产。这需要相当长的时间,在我们的 [GetScientistPlural] 可以在恢复其开发之前处理和翻译所有数据文件之前。\n\n然而，毫无疑问，§Y$tech_titan_plating$§! 将提升我们舰队的作战能力。”
+ PROJECT_TITAN_PLATING:0 "丢失的技术：§Y$tech_titan_plating$§!"
+ PROJECT_TITAN_PLATING_DESC:0 "从 §H[From.Planet.GetName]§! 上的武器设施获得的数据,在船体完整性增强方面显示出有趣的突破。,但是，该原型机仍处于测试阶段，尚未量产。,在我们的 [GetScientistPlural] 处理和翻译所有数据文件并恢复其开发之前需要相当长的时间。\n\n尽管如此，毫无疑问，§Y$tech_titan_plating$§!,将提高我们舰队的作战能力。"
  
- PROJECT_TITAN_ARMOR:0 “丢失的技术：§Y$tech_titan_armor$§!”
- PROJECT_TITAN_ARMOR_DESC:0 “从 §H[From.Planet.GetName]§! 的武器库中获得的原型显示了装甲技术的有趣突破。然而，由于有关其构造的信息仍然缺失，因此复制该原型需要时间。这将需要相当长的时间才能完成,我们的 [GetScientistPlural] 可以恢复其开发。\n\n尽管如此，§Y$tech_titan_armor$§! 似乎是我们的舰队可以使用的技术。”
+ PROJECT_TITAN_ARMOR:0 "丢失的技术：§Y$tech_titan_armor$§!"
+ PROJECT_TITAN_ARMOR_DESC:0 "从 §H[From.Planet.GetName]§! 的武器库中获得的原型,展示了装甲技术的有趣突破。,然而，这个原型需要时间来复制，因为关于它的构造的信息仍然缺失。,我们的 [GetScientistPlural] 恢复开发需要相当长的时间。\n\n尽管如此，§Y$tech_titan_armor$§!,似乎是我们的舰队可以使用的技术。"
 
- fallen_weaponry.4031.name:0 “失落的技术：§Y$tech_titan_plating$§!”
- fallen_weaponry.4031.desc:0 “§Y$tech_titan_plating$§! 从未在大远征中见过战斗。即使战争还在进行，他们的秘密原型已经泄露给 §R<<REDACTED>>§! 的恐惧阻止了他们部署它,在前线。这导致了前身帝国的天文数字损失，§HWatcher X§! 似乎为此受到了指责。”
- fallen_weaponry.4031.a:0 “§Y$tech_titan_plating$§! 将属于我们！”
- fallen_weaponry.4032.name:0 “丢失的技术：§Y$tech_titan_armor$§!”
- fallen_weaponry.4032.desc:0 “经过一些测试，我们的 [GetScientistPlural] 确定 §Y$tech_titan_armor$§! 实际上是由中子制成的，中子是一种在中子星上发现的密度极高的材料。这种新装甲旨在为先驱舰队提供最好的保护,反对 §R<<已编辑>>§! 部队，但由于围绕 §HWatcher X§! 的安全问题，他们从未见过战斗。”
- fallen_weaponry.4032.a:0 “§Y$tech_titan_armor$§! 将属于我们！”
- fallen_weaponry.404.name:0 《不祥的发现》
- fallen_weaponry.404.desc:0 “随着我们的团队继续在武器设施收集数据，他们发现了引用‘§Y$tech_omni_cannon$§!’的条目。虽然规格，尤其是伤害输出让我们的 [GetScientistPlural] 满意，但增加了,神秘的是，根本没有关于这种武器是如何构思的参考资料，也没有关于它的开发过程的任何细节。最奇怪的是。
- fallen_weaponry.404.a:0 “什么是 §Y$tech_omni_cannon$§!？听起来很不祥。”
- fallen_weaponry.404.b:0 “我们已经知道 $tech_omni_cannon$。”
+ fallen_weaponry.4031.name:0 "丢失的技术：§Y$tech_titan_plating$§!"
+ fallen_weaponry.4031.desc:0 "§Y$tech_titan_plating$§!,从未在大远征中见过战斗。,即使战争还在继续，人们仍担心他们的秘密原型已经泄露给 §R<<已编辑>>§!,阻止他们在前线部署它。,这导致了前身帝国和§HWatcher X§!的天文数字损失。,似乎为此受到了指责。"
+ fallen_weaponry.4031.a:0 "§Y$tech_titan_plating$§!,将是我们的！"
+ fallen_weaponry.4032.name:0 "丢失的技术：§Y$tech_titan_armor$§!"
+ fallen_weaponry.4032.desc:0 "经过一些测试，我们的 [GetScientistPlural] 确定 §Y$tech_titan_armor$§!,实际上是由中子制成的，中子是一种在中子星上发现的密度极高的材料。,这种新装甲旨在为先驱舰队提供最好的保护，以抵御 §R<<已编辑>>§!,部队，但由于 §HWatcher X§! 的安全问题，他们从未见过战斗。"
+ fallen_weaponry.4032.a:0 "§Y$tech_titan_armor$§!,将是我们的！"
+ fallen_weaponry.404.name:0 "不祥的发现"
+ fallen_weaponry.404.desc:0 "随着我们的团队继续在武器设施收集数据，他们发现了引用“§Y$tech_omni_cannon$§!”的条目。,虽然规格，尤其是伤害输出让我们的 [GetScientistPlural] 感到满意，但更神秘的是，根本没有关于这种武器是如何构思的参考资料，也没有关于其开发过程的任何细节。,最奇怪的。"
+ fallen_weaponry.404.a:0 "什么是§Y$tech_omni_cannon$§!？,听起来不祥。"
+ fallen_weaponry.404.b:0 "我们已经知道 $tech_omni_cannon$。"
  
- PROJECT_OMNI_CANNON:0 “丢失的技术：§Y$tech_omni_cannon$§!”
- PROJECT_OMNI_CANNON_DESC:0 “从 §H[From.Planet.GetName]§! 的武器设施获得的蓝图显示动能炮取得了有希望的突破。出于某种原因，这种武器的开发文档不完整。我们的 [GetScientistPlural] 需要相当长的时间才能完成,可以处理和翻译与这个项目有关的所有数据文件。\n\n我们仍然不知道为什么这个特殊的武器被称为 §Y$tech_omni_cannon$§!。
+ PROJECT_OMNI_CANNON:0 "丢失的技术：§Y$tech_omni_cannon$§!"
+ PROJECT_OMNI_CANNON_DESC:0 "从 §H[From.Planet.GetName]§! 的武器设施获得的蓝图,在动能炮方面显示出有希望的突破。,由于某种原因，该武器的开发文档不完整。,在我们的 [GetScientistPlural] 处理和翻译与该项目有关的所有数据文件之前需要相当长的时间。\n\n我们仍然不知道为什么这种特殊武器被称为 §Y$tech_omni_cannon$§!。"
 
- fallen_weaponry.4041.name:0 “丢失的技术：§Y$tech_omni_cannon$§!”
- fallen_weaponry.4041.desc:0 “§Y$tech_omni_cannon$§! 是先驱者海军的支柱。虽然对其起源知之甚少，但我们确实知道它在确保先驱者最终战胜 §R<<已编辑>>§方面发挥了重要作用,!在大远征中，从而结束了银河系有史以来最伟大的冲突之一。\n\n然而，由于先驱者在战争后期学会了大规模生产这种武器，再加上缺乏关于其开发过程的数据，,我们的 [GetScientistPlural] 得出结论，这项技术并非源自前身，而是源自另一个未知的文明。”
- fallen_weaponry.4041.a:0 “§Y$tech_omni_cannon$§! 将属于我们！”
- fallen_weaponry.405.name:0 《最后的贡献》
- fallen_weaponry.405.desc:0 “§HWatcher X§! 的最终贡献似乎是他为 §Y$tech_titan_point_defence$§! 设计的概念图，尽管此时我们确信他已经被驱逐出设施并等待审判，因为他与 §R 合谋,<<已编辑>>§! 人。\n\n在没有 §HWatcher X§! 的情况下，这个开发并没有走多远就被放弃并被拒绝为一个疯子的作品。”
- fallen_weaponry.405.a:0 “什么是 §Y$tech_titan_point_defence$§!？”
- fallen_weaponry.405.b:0 “我们已经知道 $tech_titan_point_defence$。”
+ fallen_weaponry.4041.name:0 "丢失的技术：§Y$tech_omni_cannon$§!"
+ fallen_weaponry.4041.desc:0 "§Y$tech_omni_cannon$§!,是前身海军的中坚力量。,尽管对其起源知之甚少，但我们确实知道它在确保先驱者最终战胜 §R<<已编辑>>§! 方面发挥了重要作用。,在大远征中，从而结束了银河系有史以来最伟大的冲突之一。\n\n然而，由于前身在战争后期学会了大规模生产这种武器，再加上缺乏关于其发展过程的数据，我们的,[GetScientistPlural] 得出的结论是，这项技术并非源自前身，而是来自另一个未知的文明。"
+ fallen_weaponry.4041.a:0 "§Y$tech_omni_cannon$§!,将是我们的！"
+ fallen_weaponry.405.name:0 "最终贡献"
+ fallen_weaponry.405.desc:0 "§HWatcher X§ 的最终贡献！,似乎是他为 §Y$tech_titan_point_defence$§! 设计的概念图，尽管此时我们可以确定他已经被驱逐出设施并等待审判，罪名是与 §R<<已编辑>>§!,人。\n\n没有 §HWatcher X§!,然而，这种发展并没有走多远就被遗弃和拒绝为疯子的作品。"
+ fallen_weaponry.405.a:0 "什么是 §Y$tech_titan_point_defence$§!？"
+ fallen_weaponry.405.b:0 "我们已经知道 $tech_titan_point_defence$。"
   
- PROJECT_TITAN_POINT_DEFENCE:0 “丢失的技术：§Y$tech_titan_point_defence$§!”
- PROJECT_TITAN_POINT_DEFENCE_DESC:0 “从 §H[From.Planet.GetName]§! 的武器设施获得的概念图设想了这个相当强大的点防御系统。然而，它从未实现，开发也从未真正开始。我们的 [GetScientistPlural 需要相当长的时间才能完成,] 可以在开始我们自己对该项目的研究之前收集所有数据文件。\n\n在这个阶段，我们的 [GetScientistPlural] 不知道 §Y$tech_titan_point_defence$§! 是如何工作的，甚至不知道它是否有效。”
+ PROJECT_TITAN_POINT_DEFENCE:0 "丢失的技术：§Y$tech_titan_point_defence$§!"
+ PROJECT_TITAN_POINT_DEFENCE_DESC:0 "从 §H[From.Planet.GetName]§! 的武器设施获得的概念图！,想象这个相当强大的点防御系统。,然而，它从未实现，开发从未真正开始。,在我们的 [GetScientistPlural] 开始我们自己对该项目的研究之前收集所有数据文件需要相当长的时间。\n\n在这个阶段，我们的 [GetScientistPlural] 不知道 §Y$tech_titan_point_defence$§!,有效，或者它是否有效。"
  
- fallen_weaponry.4051.name:0 “丢失的技术：§Y$tech_titan_point_defence$§!”
- fallen_weaponry.4051.desc:0 “我们现在了解到，在调查 §Y$tech_titan_point_defence$§! 的同时，§HWatcher X§! 正计划与他的秘密 §R<<已编辑>>§! 情人逃离首都。当他们的航天飞机离开时,为了§R<<REDACTED>>§!的母星，在一个遥远的地方，他们的关系无法判断，他们被拦截并从天而降。\n\n事发后，主流媒体不失时机地诽谤,§H守望者 X§! 因为他与一个 §R<<已编辑>>§! 的关系，他的发明在大远征结束后迅速从先驱的战舰上移除。剩下的 §R<<已编辑>>§! 人,居住在前身帝国的人随后被追捕和清洗，他们的名字从前身的历史中被审查。”
- fallen_weaponry.4051.a:0 “§Y$tech_titan_point_defence$§! 将属于我们！”
+ fallen_weaponry.4051.name:0 "丢失的技术：§Y$tech_titan_point_defence$§!"
+ fallen_weaponry.4051.desc:0 "我们现在了解到，虽然§Y$tech_titan_point_defence$§!,正在接受调查，§HWatcher X§!,正计划带着他的秘密 §R<<已编辑>>§逃离首都！,情人。,当他们的航天飞机启程前往 §R<<已编辑>>§!,故乡，一个遥远的地方，他们的关系无法判断，他们被拦截并从天而降。\n\n事件发生后，主流媒体第一时间污蔑§H守望者X§！,因为他与 §R<<已编辑>>§! 的关系，他的发明在大远征结束后迅速从先驱者的战舰上移除。,剩下的§R<<已编辑>>§!,居住在前身帝国的人随后被追捕和清洗，他们的名字从前身的历史中被审查。"
+ fallen_weaponry.4051.a:0 "§Y$tech_titan_point_defence$§!,将是我们的！"
  
  
  ##Fallen Machine
  
- fallen_weaponry.500.name:0 “发现空环段”
- fallen_weaponry.500.desc:0 “我们在 §H[event_target:fallen_machine_digsite.GetName]§! 上发现了一个空环段。前驱者会留下这样一个空旷和废弃状态的部分是相当不寻常的。\n\n我们的 [GetArchaeologistPlural] 请求许可,对此进行进一步调查。”
- fallen_weaponry.500.a:0 “这些§HAncient Caretakers§!在做什么？”
+ fallen_weaponry.500.name:0 "发现空环段"
+ fallen_weaponry.500.desc:0 "我们在 §H[event_target:fallen_machine_digsite.GetName]§! 上发现了一个空环段。,这是相当不寻常的，先驱会让一个部分处于如此空旷和废弃的状态。\n\n我们的 [GetArchaeologistPlural] 请求允许进一步调查这一点。"
+ fallen_weaponry.500.a:0 "这些§HAncient Caretakers§!,取决于？"
  
- fallen_weaponry.501.name:0 “痴迷”
- fallen_weaponry.501.desc:0 “进入空白区域后，我们注意到各种设计奇怪的小饰品和设备。其中包括名为 §Y$tech_infinity_encoder$§! 和 §Y$tech_infinity_decoder$§! 的东西。我们的 [GetArchaeologistPlural] 想知道它们可能是什么。 ,“
- fallen_weaponry.501.a:0 “$tech_infinity_encoder$？$tech_infinity_decoder$？”
- fallen_weaponry.501.b:0 “我们已经知道这些技术。”
+ fallen_weaponry.501.name:0 "痴迷"
+ fallen_weaponry.501.desc:0 "进入空旷的区域后，我们注意到了各种设计奇特的小饰品和装置。,其中有一个名为§Y$tech_infinity_encoder$§!,和§Y$tech_infinity_decoder$§!。,我们的 [GetArchaeologistPlural] 想知道它们可能是什么。"
+ fallen_weaponry.501.a:0 "$tech_infinity_encoder$？ ,$tech_infinity_decoder$？"
+ fallen_weaponry.501.b:0 "我们已经知道这些技术。"
 
- PROJECT_INFINITY_ENCODER:0 “丢失的技术：§Y$tech_infinity_encoder$§!”
- PROJECT_INFINITY_ENCODER_DESC:0 “从 §H[From.Planet.GetName]§! 的空环段获得的原型显示了加密技术的有趣突破。但是，由于有关其构造的信息仍然缺失，因此复制该原型需要时间。这将需要相当长的时间,在我们的 [GetScientistPlural] 恢复开发之前。\n\n尽管如此，§Y$tech_infinity_encoder$§! 似乎是我们舰队可以使用的技术。”
+ PROJECT_INFINITY_ENCODER:0 "丢失的技术：§Y$tech_infinity_encoder$§!"
+ PROJECT_INFINITY_ENCODER_DESC:0 "从 §H[From.Planet.GetName]§! 的空环段获得的原型,展示了加密技术的有趣突破。,然而，这个原型需要时间来复制，因为关于它的构造的信息仍然缺失。,我们的 [GetScientistPlural] 恢复开发需要相当长的时间。\n\n尽管如此，§Y$tech_infinity_encoder$§!,似乎是我们的舰队可以使用的技术。"
  
- PROJECT_INFINITY_DECODER:0 “丢失的技术：§Y$tech_infinity_decoder$§!”
- PROJECT_INFINITY_DECODER_DESC:0 “从 §H[From.Planet.GetName]§! 的空环段获得的原型显示了解密技术的有趣突破。但是，由于有关其构造的信息仍然缺失，因此复制该原型需要时间。这将需要相当长的时间,在我们的 [GetScientistPlural] 可以在恢复其开发之前处理和翻译所有数据文件之前。\n\n然而，毫无疑问，§Y$tech_infinity_decoder$§! 将提升我们舰队的作战能力。”
+ PROJECT_INFINITY_DECODER:0 "丢失的技术：§Y$tech_infinity_decoder$§!"
+ PROJECT_INFINITY_DECODER_DESC:0 "从 §H[From.Planet.GetName]§! 的空环段获得的原型,展示了解密技术的有趣突破。,然而，这个原型需要时间来复制，因为关于它的构造的信息仍然缺失。,我们的 [GetScientistPlural] 在恢复开发之前处理和翻译所有数据文件需要相当长的时间。\n\n然而，毫无疑问，§Y$tech_infinity_decoder$§!,将提高我们舰队的作战能力。"
  
- fallen_weaponry.5011.name:0 “丢失的技术：§Y$tech_infinity_encoder$§!”
- fallen_weaponry.5011.desc:0 “通过一些进一步的测试，我们的 [GetScientistPlural] 得出结论，§Y$tech_infinity_encoder$§! 实际上是一种基于 Technosphere 技术的设备，这是古代看守者在早期遇到的利维坦。”
- fallen_weaponry.5011.a:0 “§Y$tech_infinity_encoder$§! 将属于我们！”
- fallen_weaponry.5012.name:0 “丢失的技术：§Y$tech_infinity_decoder$§!”
- fallen_weaponry.5012.desc:0 “§Y$tech_infinity_decoder$§! 在大远征期间被用来帮助前身帝国，在那里它经历了广泛的战斗。它似乎源于与无限机器相同的技术，并使用它的许多计算算法来解码敌人,飞行路径。”
- fallen_weaponry.5012.a:0 “§Y$tech_infinity_decoder$§! 将属于我们！”
- fallen_weaponry.502.name:0 “更奇怪的设计”
- fallen_weaponry.502.desc:0 “随着我们的团队深入环形部分，发现了更多奇怪的设备。§Y$tech_dark_energy_disruptor$§! 看起来像是某种武器，但不知何故，无论出于何种原因，它被留在了这一部分。”
- fallen_weaponry.502.a:0 “$tech_dark_energy_disruptor$？”
- fallen_weaponry.502.b:0 “我们已经知道 $tech_dark_energy_disruptor$。”
+ fallen_weaponry.5011.name:0 "丢失的技术：§Y$tech_infinity_encoder$§!"
+ fallen_weaponry.5011.desc:0 "通过进一步测试，我们的 [GetScientistPlural] 得出结论，§Y$tech_infinity_encoder$§!,实际上是一种基于技术领域技术的设备，这是远古看守者在早期遇到的利维坦。"
+ fallen_weaponry.5011.a:0 "§Y$tech_infinity_encoder$§!,将是我们的！"
+ fallen_weaponry.5012.name:0 "丢失的技术：§Y$tech_infinity_decoder$§!"
+ fallen_weaponry.5012.desc:0 "§Y$tech_infinity_decoder$§!,在大远征期间被用来帮助前身帝国，在那里它经历了广泛的战斗。,它似乎源于与 Infinity Machine 相同的技术，并使用其许多计算算法来解码敌人的飞行路径。"
+ fallen_weaponry.5012.a:0 "§Y$tech_infinity_decoder$§!,将是我们的！"
+ fallen_weaponry.502.name:0 "更多奇怪的设计"
+ fallen_weaponry.502.desc:0 "随着我们的团队深入环形领域，发现了更多奇怪的设备。 ,§Y$tech_dark_energy_disruptor$§!,看起来像是某种武器，但不知何故，无论出于何种原因，它被留在了这一部分。"
+ fallen_weaponry.502.a:0 "$tech_dark_energy_disruptor$？"
+ fallen_weaponry.502.b:0 "我们已经知道 $tech_dark_energy_disruptor$。"
  
- PROJECT_DARK_ENERGY_DISRUPTOR:0 “丢失的技术：§Y$tech_dark_energy_disruptor$§!”
- PROJECT_DARK_ENERGY_DISRUPTOR_DESC:0 “从 §H[From.Planet.GetName]§! 的空环段获得的原型显示了干扰技术的有趣突破。然而，这个原型似乎有几个地方坏了。我们的 [GetScientistPlural] 需要相当长的时间才能研究它,并尝试复制武器。\n\n尽管如此，§Y$tech_dark_energy_disruptor$§! 似乎是我们的舰队可以使用的技术。”
+ PROJECT_DARK_ENERGY_DISRUPTOR:0 "丢失的技术：§Y$tech_dark_energy_disruptor$§!"
+ PROJECT_DARK_ENERGY_DISRUPTOR_DESC:0 "从 §H[From.Planet.GetName]§! 的空环段获得的原型,展示了破坏者技术的有趣突破。,然而，这个原型似乎有些地方坏了。,在我们的 [GetScientistPlural] 研究它并尝试复制武器之前需要相当长的时间。\n\n尽管如此，§Y$tech_dark_energy_disruptor$§!,似乎是我们的舰队可以使用的技术。"
 
- fallen_weaponry.5021.name:0 “丢失的技术：§Y$tech_dark_energy_disruptor$§!”
- fallen_weaponry.5021.desc:0 “§Y$tech_dark_energy_disruptor$§! 似乎是大远征时期开发的原型武器。然而，没有任何关于它参加战斗的记录。”
- fallen_weaponry.5021.a:0 “§Y$tech_dark_energy_disruptor$§! 将属于我们！”
- fallen_weaponry.503.name:0 “有趣的蓝图”
- fallen_weaponry.503.desc:0 “在角落里，一个古老的数据库发出柔和的嗡嗡声，指引着我们的团队前进。我们的团队起初对它的操作感到困惑，但很快就明白了它的要点。\n\n在里面，我们可以找到暗示某种 §Y$tech_dark_energy_power_booster$ 的条目,§! 正在开发中。”
- fallen_weaponry.503.a:0 “$tech_dark_energy_power_booster$？”
- fallen_weaponry.503.b:0 “我们已经知道 $tech_dark_energy_power_booster$。”
+ fallen_weaponry.5021.name:0 "丢失的技术：§Y$tech_dark_energy_disruptor$§!"
+ fallen_weaponry.5021.desc:0 "§Y$tech_dark_energy_disruptor$§!,似乎是大远征时期开发的原型武器。,然而，没有它参加过战斗的记录。"
+ fallen_weaponry.5021.a:0 "§Y$tech_dark_energy_disruptor$§!,将是我们的！"
+ fallen_weaponry.503.name:0 "有趣的蓝图"
+ fallen_weaponry.503.desc:0 "在角落里，一个古老的数据库发出柔和的嗡嗡声，指引着我们的团队前进。,我们的团队起初对其操作感到困惑，但很快就了解了它的要点。\n\n在里面，我们可以找到暗示某个 §Y$tech_dark_energy_power_booster$§！,正在开发中。"
+ fallen_weaponry.503.a:0 "$tech_dark_energy_power_booster$？"
+ fallen_weaponry.503.b:0 "我们已经知道 $tech_dark_energy_power_booster$。"
  
- PROJECT_DARK_ENERGY_POWER_BOOSTER:0 “丢失的技术：§Y$tech_dark_energy_power_booster$§!”
- PROJECT_DARK_ENERGY_POWER_BOOSTER_DESC:0 “从 §H[From.Planet.GetName]§! 的武器设施获得的蓝图展示了这个相当不寻常的组件。然而，它从未被实现，开发也从未真正开始。我们的 [GetScientistPlural] 需要相当长的时间才能收集到,在开始我们自己对该项目的研究之前所有数据文件。\n\n在这个阶段，我们的 [GetScientistPlural] 不知道 §Y$tech_dark_energy_power_booster$§! 是如何工作的，甚至不知道它是否有效。”
+ PROJECT_DARK_ENERGY_POWER_BOOSTER:0 "丢失的技术：§Y$tech_dark_energy_power_booster$§!"
+ PROJECT_DARK_ENERGY_POWER_BOOSTER_DESC:0 "从 §H[From.Planet.GetName]§! 的武器设施获得的蓝图,展示了这个相当不寻常的组件。,然而，它从未实现，开发从未真正开始。,在我们的 [GetScientistPlural] 开始我们自己对该项目的研究之前，需要相当长的时间才能收集到所有数据文件。\n\n在这个阶段，我们的 [GetScientistPlural] 不知道 §Y$tech_dark_energy_power_booster$§!,有效，或者它是否有效。"
   
- fallen_weaponry.5031.name:0 “丢失的技术：§Y$tech_dark_energy_power_booster$§!”
- fallen_weaponry.5031.desc:0 “§Y$tech_dark_energy_power_booster$§! 最初的构想是为了让更重的武器能够安装在先驱舰船上。然而，它很快就过时了，并在大远征后期被更强大的反应堆所取代。”
- fallen_weaponry.5031.a:0 “§Y$tech_dark_energy_power_booster$§! 将属于我们！”
- fallen_weaponry.504.name:0 《不祥的发现》
- fallen_weaponry.504.desc:0 “当我们的团队继续在空环部分收集数据时，他们发现了引用‘§Y$tech_omni_titan_lance$§!’的条目。虽然规格，尤其是伤害输出让我们的 [GetScientistPlural] 满意，但添加到,神秘的是，根本没有关于这种武器是如何构思的参考资料，也没有关于它的开发过程的任何细节。最奇怪的是。
- fallen_weaponry.504.a:0 “什么是 §Y$tech_omni_titan_lance$§!？听起来很不祥。”
- fallen_weaponry.504.b:0 “我们已经知道 $tech_omni_titan_lance$。”
+ fallen_weaponry.5031.name:0 "丢失的技术：§Y$tech_dark_energy_power_booster$§!"
+ fallen_weaponry.5031.desc:0 "§Y$tech_dark_energy_power_booster$§!,最初的设想是让更重的武器能够安装在前身船上。,然而，它很快就过时了，并在大远征的后期被一个更强大的反应堆所取代。"
+ fallen_weaponry.5031.a:0 "§Y$tech_dark_energy_power_booster$§!,将是我们的！"
+ fallen_weaponry.504.name:0 "不祥的发现"
+ fallen_weaponry.504.desc:0 "随着我们的团队继续在空环部分收集数据，他们发现了引用“§Y$tech_omni_titan_lance$§!”的条目。,虽然规格，尤其是伤害输出让我们的 [GetScientistPlural] 感到满意，但更神秘的是，根本没有关于这种武器是如何构思的参考资料，也没有关于其开发过程的任何细节。,最奇怪的。"
+ fallen_weaponry.504.a:0 "什么是§Y$tech_omni_titan_lance$§!？,听起来不祥。"
+ fallen_weaponry.504.b:0 "我们已经知道 $tech_omni_titan_lance$。"
  
- PROJECT_OMNI_TITAN_LANCE:0 “丢失的技术：§Y$tech_omni_titan_lance$§!”
- PROJECT_OMNI_TITAN_LANCE_DESC:0 “从 §H[From.Planet.GetName]§! 上的武器设施获得的蓝图显示，在能量长枪方面取得了巨大突破。无论出于何种原因，这种武器的工作都被放弃了。我们需要相当长的时间才能完成,[GetScientistPlural] 可以处理和翻译与该项目有关的所有数据文件。\n\n我们仍然不知道为什么这种特殊武器被称为 §Y$tech_omni_titan_lance$§!。
+ PROJECT_OMNI_TITAN_LANCE:0 "丢失的技术：§Y$tech_omni_titan_lance$§!"
+ PROJECT_OMNI_TITAN_LANCE_DESC:0 "从 §H[From.Planet.GetName]§! 的武器设施获得的蓝图,在巨大比例的能量长矛方面显示出有希望的突破。,无论出于何种原因，这种武器的研究都被放弃了。,我们的 [GetScientistPlural] 需要相当长的时间才能处理和翻译与该项目有关的所有数据文件。\n\n我们仍然不知道为什么将这种特殊武器称为 §Y$tech_omni_titan_lance$§!。"
 
- fallen_weaponry.5041.name:0 “丢失的技术：§Y$tech_omni_titan_lance$§!”
- fallen_weaponry.5041.desc:0 “§Y$tech_omni_titan_lance$§! 在大远征期间曾在许多先行者的舰船上服役，尽管我们非常确定这项技术的起源在别处。\n\n记录表明它在解除围困中发挥了重要作用，留下了许多人,前体的环段损坏无法修复。”
- fallen_weaponry.5041.a:0 “§Y$tech_omni_titan_lance$§! 将属于我们！”
- fallen_weaponry.505.name:0 《最后的实验》
- fallen_weaponry.505.desc:0 “数据库的最后条目指出，先驱者正在开发一个名为 §Y$tech_synthetic_dark_matter_3$§! 的新设施，旨在生产大量暗物质以为先驱者帝国提供动力。虽然这个项目只剩下概念艺术，但我们的,尽管如此，[GetScientistPlural] 仍然渴望继续这项研究。”
- fallen_weaponry.505.a:0 “什么是 §Y$tech_synthetic_dark_matter_3$§!？”
- fallen_weaponry.505.b:0 “我们已经知道 $tech_synthetic_dark_matter_3$。”
+ fallen_weaponry.5041.name:0 "丢失的技术：§Y$tech_omni_titan_lance$§!"
+ fallen_weaponry.5041.desc:0 "§Y$tech_omni_titan_lance$§!,在大远征期间曾在许多先驱者的舰船上服役，尽管我们非常确定这项技术的起源在别处。\n\n记录表明它在解除围困方面发挥了重要作用，围困导致先驱者的许多环形部分受损无法修复。"
+ fallen_weaponry.5041.a:0 "§Y$tech_omni_titan_lance$§!,将是我们的！"
+ fallen_weaponry.505.name:0 "最后的实验"
+ fallen_weaponry.505.desc:0 "数据库的最后条目指出，前身正在开发一种名为 §Y$tech_synthetic_dark_matter_3$§! 的新设施，旨在生产大量暗物质以为前身帝国提供动力。,虽然这个项目只剩下概念艺术，但我们的 [GetScientistPlural] 仍然渴望继续研究。"
+ fallen_weaponry.505.a:0 "什么是 §Y$tech_synthetic_dark_matter_3$§!？"
+ fallen_weaponry.505.b:0 "我们已经知道 $tech_synthetic_dark_matter_3$。"
   
- PROJECT_SYNTHETIC_DARK_MATTER_3:0 “丢失的技术：§Y$tech_synthetic_dark_matter_3$§!”
- PROJECT_SYNTHETIC_DARK_MATTER_3_DESC:0 “从 §H[From.Planet.GetName]§! 获得的概念图想象了这个相当宏伟的设施。然而，它从未实现。在我们的 [GetScientistPlural] 开始我们自己的研究之前需要相当长的时间才能收集所有数据文件,项目。\n\n在这个阶段，我们的 [GetScientistPlural] 不知道 §Y$tech_synthetic_dark_matter_3$§! 是如何工作的，甚至不知道它是否有效。”
+ PROJECT_SYNTHETIC_DARK_MATTER_3:0 "丢失的技术：§Y$tech_synthetic_dark_matter_3$§!"
+ PROJECT_SYNTHETIC_DARK_MATTER_3_DESC:0 "从 §H[From.Planet.GetName]§! 获得的概念图！,想象这个相当宏伟的设施。,然而，它从未实现。,在我们的 [GetScientistPlural] 开始我们自己对该项目的研究之前，需要相当长的时间才能收集到所有数据文件。\n\n在这个阶段，我们的 [GetScientistPlural] 不知道 §Y$tech_synthetic_dark_matter_3$§!,有效，或者它是否有效。"
  
- fallen_weaponry.5051.name:0 “丢失的技术：§Y$tech_synthetic_dark_matter_3$§!”
- fallen_weaponry.5051.desc:0 “在尝试建造 §Y$tech_synthetic_dark_matter_3$§! 时，某种反应堆事故发生了，原因不明。由此产生的爆炸污染了整个环段，严重影响了机器意识在这里发挥作用的能力。逐渐地，这个部分被,空出来，这里不会再进行实验。”
- fallen_weaponry.5051.a:0 “§Y$tech_synthetic_dark_matter_3$§! 将属于我们！”
+ fallen_weaponry.5051.name:0 "丢失的技术：§Y$tech_synthetic_dark_matter_3$§!"
+ fallen_weaponry.5051.desc:0 "在尝试构建 §Y$tech_synthetic_dark_matter_3$§! 时，不知何故发生了某种反应堆事故。,由此产生的爆炸污染了整个环段，严重影响了机器意识在这里发挥作用的能力。,渐渐地，这一段腾空了，不再在这里进行实验。"
+ fallen_weaponry.5051.a:0 "§Y$tech_synthetic_dark_matter_3$§!,将是我们的！"
  
  ##Fallen Materialist Archive
  
- fallen_weaponry.600.name:0 “古代行星档案馆”
- fallen_weaponry.600.desc:0 “很难错过位于 §H[event_target:fallen_materialist_archive_digsite.GetName]§! 上的奇特但绝对是古老的行星档案馆。当我们的部队到达时，许多先驱档案管理员冲破了它的前门以阻止我们进入，但他们,带着枪支迅速驱散。\n\n我们的 [GetScientistPlural] 请求允许进入大楼并完全控制它。”
- fallen_weaponry.600.a:0 “我们去翻一翻前身的档案吧。”
+ fallen_weaponry.600.name:0 "古代行星档案馆"
+ fallen_weaponry.600.desc:0 "很难错过位于 §H[event_target:fallen_materialist_archive_digsite.GetName]§! 的奇特但绝对古老的行星档案。,当我们的部队到达时，数十名前身档案管理员冲进前门阻止我们进入，但他们很快被枪支驱散。\n\n我们的 [GetScientistPlural] 请求允许进入大楼并完全控制它。"
+ fallen_weaponry.600.a:0 "让我们翻翻前身的档案。"
  
- fallen_weaponry.601.name:0 “远古收容场”
- fallen_weaponry.601.desc:0 “在访问详细介绍前体技术发展历史的档案部分后，我们发现了证据表明，古代收容场比我们的收容场先进得多，在几千年前就存在了，但由于我们不明的原因，它已经不再使用了。其中包括,是一种名为 §Y$tech_fe_dark_matter_power_plant$§! 的东西，今天可能会复制这种技术。”
- fallen_weaponry.601.a:0 “让我们重建 §Y$tech_fe_dark_matter_power_plant$§!。”
- fallen_weaponry.601.b:0 “我们已经知道 $tech_fe_dark_matter_power_plant$。”
+ fallen_weaponry.601.name:0 "远古收容场"
+ fallen_weaponry.601.desc:0 "在访问详细描述前体技术发展历史的档案部分后，我们发现了证据表明远比我们先进的古代收容场在几千年前就已存在，但由于我们不明的原因，已不再使用。,其中有一个名为 §Y$tech_fe_dark_matter_power_plant$§! 的东西，今天或许可以复制这项技术。"
+ fallen_weaponry.601.a:0 "让我们重建 §Y$tech_fe_dark_matter_power_plant$§!。"
+ fallen_weaponry.601.b:0 "我们已经知道 $tech_fe_dark_matter_power_plant$。"
 
- fallen_weaponry.602.name:0 “被遗忘的技术”
- fallen_weaponry.602.desc:0 “随着 $tech_fe_dark_matter_power_plant$ 产生的大量电力，新的可能性出现了。§Y$tech_fe_autonomous_fabricator$§! 就是这样一个例子。一旦提供了必要的资源，它就可以生产出大量的矿物和其他资源来维持,民用和战争经济都很容易。\n\n目前还不清楚为什么这项技术不再使用，但我们的 [GetScientistPlural] 决心让它复活。”
- fallen_weaponry.602.a:0 “让我们重建 §Y$tech_fe_autonomous_fabricator$§!。”
- fallen_weaponry.602.b:0 “我们已经知道 $tech_fe_autonomous_fabricator$。”
+ fallen_weaponry.602.name:0 "被遗忘的技术"
+ fallen_weaponry.602.desc:0 "随着 $tech_fe_dark_matter_power_plant$ 产生的大量能量，新的可能性出现了。 ,§Y$tech_fe_autonomous_fabricator$§!,就是这样一个例子。,一旦提供了必要的资源，它就可以生产出大量的矿物和其他资源来轻松维持民用和战争经济。\n\n目前还不清楚为什么这项技术不再使用，但我们的 [GetScientistPlural] 已经确定,让它起死回生。"
+ fallen_weaponry.602.a:0 "让我们重建 §Y$tech_fe_autonomous_fabricator$§!。"
+ fallen_weaponry.602.b:0 "我们已经知道 $tech_fe_autonomous_fabricator$。"
  
- fallen_weaponry.603.name:0 “乌托邦天堂”
- fallen_weaponry.603.desc:0 “档案中提到某个遥远星球的细节相对含糊，它被包裹在有生命的金属中，完全依靠自动化机械提供帝国所需的一切。经常附有嫉妒的评论，尽管看起来尽管他们付出了努力，,先驱本身并不完全理解所涉及的技术。\n\n后来的条目似乎将其标记为某种乌托邦天堂——所有先进文明都必须努力实现的目标。
- fallen_weaponry.603.a:0 “一个包裹在 $sr_living_metal$ 中的世界？”
- fallen_weaponry.603.b:0 “我们已经知道乌托邦世界了。”
+ fallen_weaponry.603.name:0 "乌托邦天堂"
+ fallen_weaponry.603.desc:0 "相对模糊的细节是档案中提到了某个遥远的星球，一个被金属包裹着并且完全依靠自动化机械来提供帝国所需的一切的星球。,嫉妒的评论经常被附上，虽然看起来尽管他们的努力，先驱者自己并没有完全理解所涉及的技术。\n\n后来的条目似乎将其标记为某种乌托邦天堂 - 所有先进文明都必须努力实现的目标,达到。"
+ fallen_weaponry.603.a:0 "一个包裹在 $sr_living_metal$ 中的世界？"
+ fallen_weaponry.603.b:0 "我们已经知道乌托邦世界。"
  
- fallen_weaponry.604.name:0 “过去时代的舰队”
- fallen_weaponry.604.desc:0 “在研究有关大远征的历史条目时，我们的团队惊讶地发现，前身帝国几千年前部署的船只规格远远超过我们在战斗中面对的船只。古代设计华丽、精致，甚至沉重,武装，如此之多以至于我们团队中的几个人评论说，如果他们曾经被用来对付我们，我们对前身帝国的胜利将付出更多的代价。\n\n尽管如此，这些设计只被记录在案，再也没有被使用过,在大远征之后，大概与随之而来的灾难性经济衰退有关，维护如此昂贵的船只的成本远远超过收益。”
- fallen_weaponry.604.a:0 “也许我们可以恢复这些设计？”
- fallen_weaponry.604.b:0 “我们已经有了修复的设计。”
+ fallen_weaponry.604.name:0 "过去时代的舰队"
+ fallen_weaponry.604.desc:0 "在查看有关大远征的历史条目时，我们的团队惊讶地发现，前身帝国在几千年前部署的船只规格远远超过我们在战斗中面对的规格。,古老的设计华丽、精致，甚至全副武装，以至于我们团队中的一些人评论说，如果它们被用来对付我们，我们对前身帝国的胜利将付出更大的代价。\n\n不过，这些,设计仅保存在记录中，在大十字军东征后再也没有使用过，大概与随后的灾难性经济衰退有关，维护如此昂贵的船只的成本远远超过收益。"
+ fallen_weaponry.604.a:0 "也许我们可以恢复这些设计？"
+ fallen_weaponry.604.b:0 "我们已经有了恢复的设计。"
  
- fallen_weaponry.605.name:0 “大十字军东征的噩梦”
- fallen_weaponry.605.desc:0 “在从先驱者档案中收集到的宝贵数据中，我们的团队发现了一些令他们震惊并与我们所知道的关于先驱者种族的一切相矛盾的东西——一艘巨大比例的概念战舰设计。\n\n由于它的规模和对甚至,作为银河系中最好的 [GetEngineerPlural]，§HGoliath§! 的开发最终被放弃。记录表明，几位领导 [GetScientistPlural] 认为建造这样一艘船是不切实际的，而且完全没有必要赢得战争。他们是对的，因为,先驱者对敌人的最终胜利证明，更大并不总是意味着更好。\n\n尽管如此，我们的 [GetEngineerPlural] 仍然期待着这艘船的建造肯定会带来的挑战，它的庞大规模肯定会吓倒我们的敌人,几个世纪以来。”
- fallen_weaponry.605.a:0 “他们在想什么？！”
- fallen_weaponry.605.b:0 “我们已经知道歌利亚了。”
+ fallen_weaponry.605.name:0 "大十字军东征的噩梦"
+ fallen_weaponry.605.desc:0 "在从先驱者档案中收集到的宝贵数据中，我们的团队发现了一些令他们震惊并与我们对先驱者种族所知的一切相矛盾的东西 - 一艘巨大比例的概念战舰设计。\n\n由于它的规模和对甚至,银河系中最好的 [GetEngineerPlural]，§HGoliath§ 的发展！,最终被遗弃。,记录表明，几位领导 [GetScientistPlural] 认为建造这样一艘船是不切实际的，而且完全没有必要赢得战争。,他们是对的，因为先驱者最终战胜了他们的敌人，证明更大并不总是意味着更好。\n\n尽管如此，我们的 [GetEngineerPlural] 仍然期待着这艘船的建造肯定会带来的挑战，它的庞大规模肯定会,在未来的几个世纪里用来恐吓我们的敌人。"
+ fallen_weaponry.605.a:0 "他们在想什么？！"
+ fallen_weaponry.605.b:0 "我们已经知道歌利亚了。"
 
  ##Fallen Pacifist
  
- fallen_weaponry.700.name:0 “一个神秘的信号”
- fallen_weaponry.700.desc:0 “我们传感器技术的改进使我们能够接收到来自 §H[event_target:fallen_pacifist_colony_digsite.GetName]§! 的神秘信号。我们不确定我们之前是如何错过它的，因为它被认为只是某种残余,来自死亡世界的辐射。\n\n我们的 [GetScientistPlural] 请求允许进行调查。”
- fallen_weaponry.700.a:0 “我们去寻找这个信号的来源。”
+ fallen_weaponry.700.name:0 "一个神秘的信号"
+ fallen_weaponry.700.desc:0 "传感器技术的改进使我们能够接收到来自 §H[event_target:fallen_pacifist_colony_digsite.GetName]§! 的神秘信号。,我们不确定我们之前是如何错过它的，因为它被认为只是来自死亡世界的某种残余辐射。\n\n我们的 [GetScientistPlural] 请求允许进行调查。"
+ fallen_weaponry.700.a:0 "让我们找到这个信号的来源。"
  
- fallen_weaponry.701.name:0 “乌托邦天堂”
- fallen_weaponry.701.desc:0 “在数米厚的放射性雪下，有证据表明 §H[From.Planet.GetName]§! 曾经很美丽——事实上不仅美丽，而且设计完美。\n\n这个世界曾经被包裹在有生命的金属中并依赖,完全依靠自动化机器来提供帝国所需的一切。然而，似乎没有居民能在大约 10000 年前发生的无情轰炸中幸存下来。\n\n也许这就是完美的代价，这样的世界将永远成为目标。”
- fallen_weaponry.701.a:0 “一个包裹在 $sr_living_metal$ 中的世界？”
- fallen_weaponry.701.b:0 “我们已经知道乌托邦世界了。”
+ fallen_weaponry.701.name:0 "乌托邦天堂"
+ fallen_weaponry.701.desc:0 "在数米厚的放射性雪下，有证据表明 §H[From.Planet.GetName]§!,它曾经很漂亮——事实上不仅漂亮，而且设计得非常完美。\n\n这个世界曾经被金属包围，完全依靠自动化机械来提供帝国所需的一切。,然而，似乎没有居民能在大约 10000 年前发生的无情轰炸中幸存下来。\n\n也许这就是完美的代价，这样的世界将永远成为目标。"
+ fallen_weaponry.701.a:0 "一个包裹在 $sr_living_metal$ 中的世界？"
+ fallen_weaponry.701.b:0 "我们已经知道乌托邦世界。"
  
- fallen_weaponry.702.name:0 “远古收容场”
- fallen_weaponry.702.desc:0 “在地球表面的其他地方，我们发现的证据表明，古代收容场比我们自己的收容场在几千年前就存在了。§Y$tech_fe_dark_matter_power_plant$§! 的碎片仍然存在，我们可以尝试为我们自己复制这项技术,使用。”
- fallen_weaponry.702.a:0 “让我们重建 §Y$tech_fe_dark_matter_power_plant$§!。”
- fallen_weaponry.702.b:0 “我们已经知道 $tech_fe_dark_matter_power_plant$。”
+ fallen_weaponry.702.name:0 "远古收容场"
+ fallen_weaponry.702.desc:0 "在地球表面的其他地方，我们发现了证据表明古代收容场比我们的收容场先进得多，几千年前就存在了。 ,§Y$tech_fe_dark_matter_power_plant$§! 的碎片,仍然存在，我们可以尝试复制这项技术供我们自己使用。"
+ fallen_weaponry.702.a:0 "让我们重建 §Y$tech_fe_dark_matter_power_plant$§!。"
+ fallen_weaponry.702.b:0 "我们已经知道 $tech_fe_dark_matter_power_plant$。"
 
- fallen_weaponry.703.name:0 《最后的安息之地》
- fallen_weaponry.703.desc:0 “这个古老殖民地的居民在他们的日常生活中当然什么都不缺。尽管正在进行轨道轰炸，但在 §Y$tech_fe_opulent_tower$§! 内，消费主义依然生机勃勃，也许他们没有意识到他们的世界即将崩溃。我们甚至发现,证据表明，在最后的居民灭绝数百年后，这座塔仍然可以使用并生产消费品。\n\n我们当然不习惯这样的奢侈品，但至少这个世界的居民在痛苦的最后一刻什么都不想要。 ,“
- fallen_weaponry.703.a:0 “我们能建一个§Y$tech_fe_opulent_tower$§!吗？”
- fallen_weaponry.703.b:0 “我们已经知道 $tech_fe_opulent_tower$。”
+ fallen_weaponry.703.name:0 "最后的安息之地"
+ fallen_weaponry.703.desc:0 "这个古老殖民地的居民在日常生活中当然什么都不缺。,尽管正在进行轨道轰炸，在§Y$tech_fe_opulent_tower$§!,消费主义是否依然生机勃勃，也许没有意识到他们的世界即将崩溃。,我们甚至发现证据表明，在最后的居民灭绝数百年后，这座塔仍然可以使用并生产消费品。\n\n我们当然不习惯这样的奢侈品，但至少这个世界的居民直到,悲惨结局。"
+ fallen_weaponry.703.a:0 "我们可以建造一个§Y$tech_fe_opulent_tower$§!吗？"
+ fallen_weaponry.703.b:0 "我们已经知道 $tech_fe_opulent_tower$。"
  
- fallen_weaponry.704.name:0 “被遗忘的技术”
- fallen_weaponry.704.desc:0 “由于 $tech_fe_dark_matter_power_plant$ 产生的大量电力以及 $tech_fe_opulent_tower$ 的需求，§Y$tech_fe_autonomous_fabricator$§! 对这个曾经乌托邦天堂的经济起着至关重要的作用。当提供必要的资源时，,它可以生产出大量的矿物和其他资源来维持 $tech_fe_opulent_tower$ 及其合金生产设施的国内需求。\n\n这座建筑的碎片仍然存在，我们可能会尝试复制它。"
- fallen_weaponry.704.a:0 “让我们建造 §Y$tech_fe_autonomous_fabricator$§!。”
- fallen_weaponry.704.b:0 “我们已经知道 $tech_fe_autonomous_fabricator$。”
+ fallen_weaponry.704.name:0 "被遗忘的技术"
+ fallen_weaponry.704.desc:0 "凭借 $tech_fe_dark_matter_power_plant$ 产生的大量能量以及 $tech_fe_opulent_tower$ 的需求，§Y$tech_fe_autonomous_fabricator$§!,对这个曾经是乌托邦天堂的经济起着至关重要的作用。,当提供必要的资源时，它可以生产出大量的矿物和其他资源来维持 $tech_fe_opulent_tower$ 及其合金生产设施的国内需求。\n\n这座建筑的碎片仍然存在，我们可能会尝试,复制它。"
+ fallen_weaponry.704.a:0 "让我们构建 §Y$tech_fe_autonomous_fabricator$§!。"
+ fallen_weaponry.704.b:0 "我们已经知道 $tech_fe_autonomous_fabricator$。"
  
- fallen_weaponry.705.name:0 “远古熔炉”
- fallen_weaponry.705.desc:0 “轨道轰炸的首要目标是它的合金锻造厂和军事设施。我们发现了曾经是 §Y$tech_fe_pico_forge$§! 的遗迹，它以 $tech_fe_autonomous_fabricator$ 的产品为食，以支持,这个星球的防御。\n\n不幸的是，对于这个殖民地来说，它成为了大远征的又一个受害者，这是这段时间发生的唯一已知的银河冲突，随着这个世界的毁灭，这些技术曾经被认为具有,永远失去了。”
- fallen_weaponry.705.a:0 “让我们重建 §Y$tech_fe_pico_forge$§!。”
- fallen_weaponry.705.b:0 “我们已经知道 $tech_fe_pico_forge$。”
+ fallen_weaponry.705.name:0 "远古熔炉"
+ fallen_weaponry.705.desc:0 "轨道轰炸的首要目标是合金锻造厂和军事设施。,我们发现了曾经是 §Y$tech_fe_pico_forge$§! 的遗迹，它以 $tech_fe_autonomous_fabricator$ 的产品为食，以支持对这个星球的防御。\n\n不幸的是，对于这个殖民地来说，它变成了另一个,大远征的受害者，那是这段时间发生的唯一已知的银河冲突，随着这个世界的毁灭，这些技术一度被认为永远丢失了。"
+ fallen_weaponry.705.a:0 "让我们重建 §Y$tech_fe_pico_forge$§!。"
+ fallen_weaponry.705.b:0 "我们已经知道 $tech_fe_pico_forge$。"
  
  #Great Crusade Battles (Will come back to later)
  
- fallen_weaponry.810.name:0 《奇怪的墓地》
- fallen_weaponry.810.desc:0 “人们发现了围绕这个天体运行的巨大金属云，令人惊讶的是，最初的调查报告并未注意到这一点。这片云似乎由各种宏观金属组成 - 显然是人造的。已经组织了一次考古探险来发现这里发生的事情,，并希望能从里面的残骸中找到任何有价值的东西。”
- fallen_weaponry.810.a:0 “承认了。”
+ fallen_weaponry.810.name:0 "奇怪的墓地"
+ fallen_weaponry.810.desc:0 "人们发现了围绕这个天体运行的巨大金属云，令人惊讶的是，最初的调查报告并未注意到这一点。,这片云似乎由各种宏观金属组成——显然是人造的。,已经组织了一次考古探险，以发现这里究竟发生了什么，并希望能从其中的残骸中找到任何有价值的东西。"
+ fallen_weaponry.810.a:0 "承认。"
  
- fallen_weaponry.811.name:0 “传感器故障”
- fallen_weaponry.811.desc:0 “调查碎片云给我们 [GetArchaeologistPlural] 带来了一个独特的障碍 - 金属的密度，无论是传统的还是外来的，我们的测量都排除了任何深度传感器扫描。即使是我们最强的传感器读数也只是在衰减碎片和碎片之间无助地反弹，,推回误报和加扰数据。因此，对完整船只的搜索略微限于高功率传感器穿梭机，每个穿梭机都在云的既定区域中执行“扫过”运动，以更好地覆盖距离，而不会浪费宝贵的时间。\n\n即使是流线型的，,这个过程很费力，我们的 [GetArchaeologistPlural] 报告说，在改进适当的搜索模式之前，我们不应该期望立竿见影的结果。”
- fallen_weaponry.811.a:0 “明白了。随时通知我们。”
+ fallen_weaponry.811.name:0 "传感器故障"
+ fallen_weaponry.811.desc:0 "调查碎片云对我们的 [GetArchaeologistPlural] 提出了一个独特的障碍 - 金属的密度，无论是传统的还是奇异的，我们的测量都排除了任何深度传感器扫描。,即使是我们最强的传感器读数也只是在衰减碎片和碎片之间无助地反弹，推回误报和混乱的数据。,因此，对完整船只的搜索略微限于高功率传感器穿梭机，每个传感器穿梭机都在云的既定区域中执行“扫掠”运动，以更好地覆盖距离而不浪费宝贵的时间。\n\n即使是流线型的，这个过程也很费力，而且我们的 [ ,GetArchaeologistPlural] 报告说，在改进适当的搜索模式之前，我们不应该期望立竿见影的结果。"
+ fallen_weaponry.811.a:0 "明白了。,随时通知我们。"
  
- fallen_weaponry.812.name:0 《旧日遗迹》
- fallen_weaponry.812.desc:0 “调查人员已经完成了他们的第一次捕获。即使遭受了灾难性的破坏，堕落帝国护卫舰的轮廓也不会被认错——这艘船似乎在任何冲突中都走到了尽头，任其漂流在废墟中。样本来自,护送号的船体也描绘了一幅严峻的画面——云中几乎百分之九十九的金属粒子都具有相似的原子排列。无论这场冲突是什么，这里的损失都是灾难性的，而且是单方面的。\n\n人们对,由于我们的干预，停滞优势之一的潜在干预，但到目前为止，外交渠道一直保持沉默。为了它的价值，我们似乎被允许在这个战场上挑选碎片，我们的 [GetScientistPlural] 正在热切地推动,在命运对我们不利之前，尽可能多地解剖和研究残骸。”
- fallen_weaponry.812.a:0 “对此采取彻底的方法。”
+ fallen_weaponry.812.name:0 "古老的遗迹"
+ fallen_weaponry.812.desc:0 "调查人员已经完成了他们的第一次捕获。,即使遭受了灾难性的破坏，堕落帝国护航舰的轮廓仍然清晰可见——无论发生什么冲突，这艘船似乎都已经走到了尽头，漂流在废墟中。,来自 Escort 船体的样本也描绘了一幅严峻的画面——云中几乎百分之九十九的金属粒子都具有相似的原子排列。,无论这场冲突是什么，这里的损失都是灾难性的，而且是单方面的。\n\n由于我们的干预，人们对其中一个停滞优势的潜在干预表示担忧，但到目前为止外交渠道一直保持沉默。,不管它的价值如何，我们似乎已经获准在这个战场上捡拾残骸，我们的 [GetScientistPlural] 正急切地推动在命运对我们不利之前尽可能多地解剖和研究残骸。"
+ fallen_weaponry.812.a:0 "对此采取彻底的方法。"
  
- fallen_weaponry.813.name:0 《战争的开始》
- fallen_weaponry.813.desc:0 “到目前为止，我们已经设法将冲突分为两个不同的方——交战方 Aleph，这艘船的所有者，以及交战方 Omicron，这次交战的神秘第二战斗员，显然没有留下他们存在的痕迹。出现了许多理论,，有可能发生内战、伏击失误，甚至是简单的报废程序带走了任何关于 Party Omicron 存在的证据，但随着考古队更深入地破解 Escort 的战斗计算机，这些理论都被压制了。\n\ ,nParty Omicron 是一支独特的力量，只部署了少数船只 - 不超过 30 艘，而来自 Party Aleph 的一系列船只。可能有数百艘船只参加了这场独特的​​战斗，而且还没有一丝一毫,Party Omicron 在场的证据。\n\n这里发生了什么？
- fallen_weaponry.813.a:0 “这艘船必须有我们寻求的答案。”
+ fallen_weaponry.813.name:0 "战争的开始"
+ fallen_weaponry.813.desc:0 "到目前为止，我们已经设法将冲突分为两个不同的方——交战方 Aleph，这艘船的所有者，以及交战方 Omicron，这次交战的神秘第二参战者，显然没有留下他们存在的痕迹。,许多理论出现了，有可能发生内战，伏击出错，或者甚至是简单的报废程序带走了任何关于 Party Omicron 存在的证据，但随着考古队深入破解 Escort 的战斗计算机，这些理论都被压制了。 ,\n\nOmicron 党是一支独特的力量，只部署了少数船只——不超过 30 艘，而来自 Party Aleph 的一系列船只。,可能有数百艘船只参加了这场独特的​​战斗，而且还没有丝毫证据表明 Party Omicron 在场。\n\n这里发生了什么？"
+ fallen_weaponry.813.a:0 "船只必须有我们寻求的答案。"
  
- fallen_weaponry.814.name:0 《背上一刀》
- fallen_weaponry.814.desc:0 “我们对冲突规模的预测在很大程度上是正确的。船长的日志，或者它的剩余部分，是从 Escort 上一个未经清理的终端进行数据挖掘的，并用我们所知道的很少的语言背景进行了翻译。 ,\n\n各方的名字仍然让我们忘记了——尤其是 Omicron，只有船长在仇恨的侮辱中提到过——但我们对战斗的发生有了更清晰的了解，而现实并不令人欣慰。 ,Party Omicron 并没有毫发无损地逃脱战斗，但这些力量之间的差异充分解释了为什么我们没有追踪到他们的存在 - 原始火力的日志详细信息是为了摧毁甚至一艘 Omicron 的船只所需要的，这意味着每次杀戮都是由,饱和 - 船只被摧毁后剩下的任何东西都被后续齐射原子化了。\n\nOmicron 近 80% 的部队在这次交战中被摧毁，Omicron 的旗舰在逃跑时进行了战斗撤退。,未能杀死那艘旗舰，我们的翻译只能将其解析为巨人或巨人，这就是护航队的毁灭。,一束杂散的能量束使船只瘫痪，让它漂流，被盟友遗忘。\n\n我们可以收集到的少量语言数据已被存储以供进一步分析，我们的打捞队已准备好开始解剖这艘船只，希望如此,从这个遗物中恢复一些东西，任何东西，更多。”
- fallen_weaponry.814.a:0 “有什么可能证明这种损失是合理的？”
+ fallen_weaponry.814.name:0 "背后一刀"
+ fallen_weaponry.814.desc:0 "我们对冲突规模的预测在很大程度上是正确的。,船长的日志，或者它剩下的部分，是从 Escort 上一个未经清理的终端进行数据挖掘，并用我们仅有的一点语言背景翻译的。\n\n各方的名字仍然让我们忘记了——特别是 Omicron，只有,船长用可恶的侮辱表达了这一点——但我们对发生的战斗有了更清楚的了解，而现实并不令人欣慰。 ,Party Omicron 并没有毫发无损地逃脱战斗，但这些力量之间的差异充分解释了为什么我们没有追踪到他们的存在 - 原始火力的日志详细信息是为了摧毁甚至一艘 Omicron 的船只所需要的，这意味着每次杀戮都是由,饱和 - 船只被摧毁后剩下的任何东西都被后续齐射原子化了。\n\nOmicron 近 80% 的部队在这次交战中被摧毁，Omicron 的旗舰在逃跑时进行了战斗撤退。,未能杀死那艘旗舰，我们的翻译只能将其解析为巨人或巨人，这就是护航队的毁灭。,一束杂散的能量束使船只瘫痪，让它漂流，被盟友遗忘。\n\n我们可以收集到的少量语言数据已被存储以供进一步分析，我们的打捞队已准备好开始解剖这艘船只，希望如此,从这个遗物中恢复一些东西，任何东西，更多。"
+ fallen_weaponry.814.a:0 "有什么可能证明这种损失是合理的？"
  
- fallen_weaponry.815.name:0 《文明时代的武器》
- fallen_weaponry.815.desc:0 “护卫舰仍有一些秘密。\n\n这艘船的主人阿尔佩党用远远超出我们所知的堕落帝国今天所能达到的工艺建造了护卫舰。护卫舰的主要武器电池完好无损，埋在地下,巧妙地位于中央船体内部 - 该设计既集成良好，又在功能上完全陌生，直到数据日志和动力流向我们提供线索，我们才意识到它是一种武器。仔细研究其支架内的武器揭示了它,是某种能量鱼雷发射器，很像质子或中子发射器，除了这种武器使用奇异的暗能量作为主要催化剂和弹头。\n\n它的科学让我们的 [GetScientistPlural] 完全困惑，但足够的研究,已经在沉船上进行，开始复制它用于受控娱乐和现场测试。如果我们的研究证明富有成果，甚至可能整合到我们自己的军事武库中。”
- fallen_weaponry.815.a:0 “希望我们永远不会真正需要这样的武器……”
+ fallen_weaponry.815.name:0 "文明时代的武器"
+ fallen_weaponry.815.desc:0 "Escort 仍有一些秘密。\n\nParty Alpeh，这艘船的所有者，用远远超过我们今天所知道的堕落帝国的工艺建造了 Escort。 ,Escort 的主武器电池完好无损，巧妙地埋在中央船体中 - 设计既完美集成，又在功能上完全陌生，直到数据日志和功率流向我们提供线索，我们才意识到它是一种武器。仔细研究,其支架内的武器显示它是某种能量鱼雷发射器，很像质子或中子发射器，除了这种武器使用奇异的暗能量作为主要催化剂和弹头。\n\n它的科学完全令人费解,到我们的 [GetScientistPlural]，但已经对沉船进行了足够的研究，可以开始复制它以进行受控娱乐和现场测试。,如果我们的研究成果丰硕，甚至可能整合到我们自己的军事武库中。"
+ fallen_weaponry.815.a:0 "希望我们永远不会真正需要这样的武器......"
  
- fallen_weaponry.820.name:0 “埋藏的秘密”
- fallen_weaponry.820.desc:0 “在表面上发现了残骸，其材料成分与我们之前与交战方 Aleph 和 Omicron 进行的考古工作中发现的残骸相似。发生的古代冲突有更多背景的可能性需要进行大量研究，并且已计划进行适当的探险,”
- fallen_weaponry.820.a:0 “让我们看看有没有什么可以挽救的。”
+ fallen_weaponry.820.name:0 "埋藏的秘密"
+ fallen_weaponry.820.desc:0 "在表面上发现了残骸，其材料成分与我们之前与交战方 Aleph 和 Omicron 进行的考古工作中发现的残骸相似。,对一场发生的古代冲突有更多背景的可能性需要进行大量研究，并且已经计划了一次适当的探险。"
+ fallen_weaponry.820.a:0 "让我们看看有什么可以挽救的。"
  
- fallen_weaponry.821.name:0 “降低”
- fallen_weaponry.821.desc:0 “在 §H[From.Planet.GetName]§! 表面挖掘船只的工作即将取得进展。与之前的考古探险相比，这支古代舰队行动的遗迹被不可避免的行军拖到了地表,时间和重力，留给我们的团队进行简单的挖掘和影响分析。这里的碎片数量相对较少且相距甚远。即使经过广泛的扫描、扫描模式和推测轨迹计算，我们也只能找到少数船只,来自 Party Aleph。这与之前的交战形成鲜明对比，这让我们的 [GetArchaeologistPlural] 推测这可能是一次成功的、消耗较少的舰队交战的例子。\n\n无论如何，沉船中最大的船只,迄今挖掘的已成为我们数据恢复和技术检索的操作基地。坐落在战列巡洋舰的掩埋残骸中，我们的团队已经在努力恢复电力并确定我们可以从其船体中提取多少历史数据。 ,“
- fallen_weaponry.821.a:0 “明白了。随时通知我们。”
+ fallen_weaponry.821.name:0 "拉低"
+ fallen_weaponry.821.desc:0 "在 §H[From.Planet.GetName]§! 表面进行船只挖掘工作,即将到来。,与之前的考古考察相比，这次古代舰队行动的遗迹被不可避免的时间和重力拖到地表，留给我们的团队进行简单的挖掘和影响分析。,这里的碎片数量相对较少而且相距甚远。,即使经过广泛的扫描、扫描模式和推测轨迹计算，我们也只能找到少数来自 Party Aleph 的船只。,这与之前的交战形成鲜明对比，这让我们的 [GetArchaeologistPlural] 推测这可能是一次成功的、消耗较少的舰队交战的例子。\n\n无论如何，迄今为止挖掘出的残骸中最大的船只已经,作为我们数据恢复和技术检索的运营基地。,我们的团队坐落在战列巡洋舰的残骸中，已经在努力恢复电力并确定我们可以从它的船体中提取多少历史数据。"
+ fallen_weaponry.821.a:0 "明白了。,随时通知我们。"
  
- fallen_weaponry.822.name:0 “四分五裂”
- fallen_weaponry.822.desc:0 “Battlecruiser 的动力核心被强大的能量束完全摧毁，修复它花费了团队不小的时间和精力。幸运的是，损坏是精确造成的，一旦被规避，恢复备用系统只是时间问题,. 船只的数据日志已被访问，调查结果如下。\n\n这艘 Party Aleph 的船只是大约一万年前覆盖这片广阔空间的更大袭击行动的一部分，据推测是针对行星资产,Omicron 党的打击力量小而迅速，他们之间的船只不超过几十艘，可以对殖民地基础设施进行快速的打了就跑。\n\n不幸的是，对于 Aleph 党来说，这支突袭舰队似乎有,在他们到达目的地之前就被检测到，随后被抓到位置不对。诊断报告表明他们的 FTL 驱动器受到 Party Omicron 的干扰，迫使袭击者以亚光速逃离。,以我们的 [GetScientistPlural] 几乎难以置信的速度追击，只用了几个小时就找到并摧毁了舰队。 ,Party Omicron 似乎在这个过程中没有受到伤害。\n\n即将翻译成船长的日志，我们希望这比之前的挖掘更有启发性。
- fallen_weaponry.822.a:0 “翻译完成后我要一份完整的报告。”
+ fallen_weaponry.822.name:0 "四分五裂"
+ fallen_weaponry.822.desc:0 "Battlecruiser 的动力核心被强大的能量束完全摧毁，修复它花费了团队不小的时间和精力。,幸好伤害恰到好处，一旦被规避，恢复备份系统只是时间问题。,该船的数据日志已被访问，调查结果如下。\n\n这艘 Party Aleph 的船是大约一万年前覆盖这片广阔空间的更大袭击行动的一部分，大概是针对,派对 Omicron。,打击部队规模小而迅速，他们之间的船只不超过几十艘，可以对殖民地基础设施进行快速的打了就跑。\n\n不幸的是，对于 Aleph 党来说，这支突袭舰队似乎在他们行动之前就被发现了,到达了他们的目的地，随后被抓住了位置。,诊断报告表明他们的 FTL 驱动器受到 Party Omicron 的干扰，迫使袭击者以亚光速逃离。,以我们的 [GetScientistPlural] 几乎难以置信的速度追击，只用了几个小时就找到并摧毁了舰队。 ,Party Omicron 似乎在这个过程中没有受到任何伤害。\n\n即将翻译成船长的日志，我们希望这比之前的挖掘更有启发性。"
+ fallen_weaponry.822.a:0 "翻译完成后我想要一份完整的报告。"
  
- fallen_weaponry.823.name:0 “任其腐烂”
- fallen_weaponry.823.desc:0 “这份船长日志的翻译为我们提供了更多信息。虽然这不是我们所希望的历史背景宝库，但我们从那以后学到了两件事，这让我们可以开始描绘故事。\n\nAleph 党似乎,一直在与他们的霸主 Party Omicron 进行独立战争。Aleph 帝国和其他几个帝国一起参加了这次大叛乱。\n\n根据船长自己的估计，战争对任何一方都不顺利 - 他们,突袭似乎一直在试探旨在分散 Omicron 各种战斗编队注意力的攻击，因此可以在其他地方缓解压力。\n\n以战列巡洋舰和其他残骸作为参考，我们成功地从中切除了一个武器系统,曾经是伟大船只的武器库——暗能量加速器。类似于传统的等离子加速器或它们的原始对应物，这种武器以某种方式补充了弹头的等离子状态，用于奇特的暗能量包，这对现代科学来说似乎是不可能的。,该武器已被尽可能仔细地解剖，我们的 [GetArchaeologistPlural] 已将他们的发现发送给科学部门进行复制。”
- fallen_weaponry.823.a:0 “我有一种感觉，我们还没有看到这场冲突的最后一刻……”
+ fallen_weaponry.823.name:0 "任其腐烂"
+ fallen_weaponry.823.desc:0 "这份船长日志的翻译为我们提供了更多的信息。,虽然这不是我们所希望的历史背景宝库，但我们从那以后了解到了两件事，这让我们开始描绘一个故事。\n\nAleph 党似乎一直在与他们的霸主 Omicron 党打一场独立战争。 ,Aleph 帝国和其他几个帝国一起参与了这次大叛乱。\n\n根据舰长自己的估计，战争对任何一方都不太顺利——他们的突袭似乎是试探性的攻击，旨在分散各种战斗编队的注意力,Omicron，因此可以在其他地方缓解压力。\n\n以战列巡洋舰和其他残骸作为参考，我们成功地从这艘曾经伟大的船只的武器库中移除了一个武器系统 - 暗能量加速器。,类似于传统的等离子加速器或它们的原始对应物，这种武器以某种方式补充了弹头的等离子状态，用于奇异的暗能量包，这对现代科学来说似乎是不可能的。,该武器已被尽可能仔细地解剖，我们的 [GetArchaeologistPlural] 已将他们的发现发送给科学部门进行复制。"
+ fallen_weaponry.823.a:0 "我有一种感觉，我们还没有看到这场冲突的最后一幕……"
  
- fallen_weaponry.830.name:0 “共同防御”
- fallen_weaponry.830.desc:0 “一片被摧毁的船只散落在这个系统中，有证据表明这是一万多年前发生的伟大战争中的又一个对抗地点。已经发布了一项考古调查以对这些残骸进行分类并寻找进一步的打捞和,技术。”
- fallen_weaponry.830.a:0 “承认了。”
+ fallen_weaponry.830.name:0 "相互防御"
+ fallen_weaponry.830.desc:0 "一片被毁坏的船只散落在这个星系中，有证据表明这是一万多年前发生的伟大战争中的又一个对抗地点。,已经发布了一项考古调查，对这些残骸进行编目，并寻找进一步的打捞和技术。"
+ fallen_weaponry.830.a:0 "承认。"
  
- fallen_weaponry.831.name:0 “我敌人的敌人……”
- fallen_weaponry.831.desc:0 “对这个碎片场的调查正在进行中，在这个集群中观察到了几艘边缘完好无损的船只。存在着数十艘处于不同腐烂和失修阶段的船只，它们都具有相同的前身设计标志，,其中最好的例子是堕落帝国泰坦几乎完好无损的船头。有趣的是，这些船只的材料成分不同 - 正如预期的那样，与 Party Aleph 匹配的签名很明显，但也发现了具有不同结构和材料印记的船只。,一块华丽的装甲镶板，大小不超过小型穿梭机，在这次对抗中从属于它的任何船只上撕下。\n\n我们的调查小组已经隔离并将装甲件带上船进行研究，我们的 [GetArchaeologistPlural ,] 已经加快了对这些无数残骸的研究，以寻找关于这件作品来自何处的线索。这个样本可能来自何处的暗示让每个人都处于紧张状态，我们的团队渴望证实他们的怀疑。”
- fallen_weaponry.831.a:0 “有趣的。”
+ fallen_weaponry.831.name:0 "我敌人的敌人……"
+ fallen_weaponry.831.desc:0 "对该碎片场的调查正在进行中，在该集群中观察到几艘边缘完好无损的船只。,出现了数十艘处于不同腐烂和失修阶段的船只，它们都具有前身设计的相同标志，其中最典型的例子是堕落帝国泰坦几乎完好无损的船头。,有趣的是，这些船只的材料成分不同——正如预期的那样，与 Party Aleph 匹配的签名很明显，但也发现了具有不同结构和材料印记的船只。,一块华丽的装甲镶板，不超过小型穿梭机的大小，在这次对抗中从属于它的任何船只上撕下。\n\n我们的调查小组已经隔离并将装甲件带上船进行研究，我们的 [ ,GetArchaeologistPlural] 加快了对这些无数残骸的研究，以寻找有关这件作品来自何处的线索。,这个样本可能来自哪里的暗示让每个人都紧张不安，我们的团队渴望证实他们的怀疑。"
+ fallen_weaponry.831.a:0 "有趣的。"
  
- fallen_weaponry.832.name:0 “...是我的朋友”
- fallen_weaponry.832.desc:0 “由于样本的材料分析仍在进行中，我们的团队集中精力处理大量残骸以获取任何信息。能够从休眠状态恢复的六艘左右船只的战斗日志很少，这使我们对了解非常有限,在这次对抗中，最大的完好无损的 Aleph 舰船作为汇编这些信息的基础。\n\n到目前为止，这是第一次观察到 Aleph 党与尚未确定的帝国之间的联合行动。一支小型 Omicron 舰队被拦截,在这个系统中，他们才能与一个主要的战斗编队会师。\n\n舰队指挥官认为适合对 Omicron 党实施他们最成功的战略之一 - 在近距离近距离交战，剥夺敌人的射程优势。,将伏击时间精确到一个小时，Aleph 党及其盟友的船只抵达系统，尽可能靠近超航道入口，就像增援舰队到达一样。\n\n联盟的不对称部署分布广泛且稀疏,船只对他们有利，迫使少数 Omicron 船只在每个拦截舰队到达射程时与它们进行艰苦的交战。,这是一个代价高昂的策略，但似乎奏效了。 ,Party Omicron 的增援舰队在战斗中撤退了几个小时，尽管伏击者造成了人员伤亡。\n\n联盟舰队的旗舰在数小时后因损坏而沉没，但船员们认为他们的任务完成了。
- fallen_weaponry.832.a:0 “勇敢的。”
+ fallen_weaponry.832.name:0 "...是我的朋友"
+ fallen_weaponry.832.desc:0 "由于样本的材料分析仍在进行中，我们的团队将精力集中在处理大量残骸以获取任何信息上。,能够从休眠中恢复的六艘左右船只的战斗日志很少，使我们对这场对抗的了解非常有限，最大的完好无损的 Aleph 船只是汇编这些信息的基础。\n\n到目前为止，,这是 Aleph 党与尚未确定的帝国之间首次观察到的联合行动。,一支小型 Omicron 舰队在与一个主要战斗编队汇合之前在该星系中被拦截。\n\n舰队指挥官认为适合执行他们对 Omicron 党最成功的战略之一——近距离交战，阻止敌人,他们的优越范围的优势。,将伏击时间精确到整点，Aleph 党及其盟友的船只抵达星系，尽可能靠近超航道入口，就像增援舰队到达一样。\n\n联盟的不对称部署分布广泛且稀疏,船只对他们有利，迫使少数 Omicron 船只在每个拦截舰队到达射程时与它们进行艰苦的交战。,这是一个代价高昂的策略，但似乎奏效了。 ,Party Omicron 的增援舰队在战斗中撤退了几个小时，尽管伏击者造成了伤亡。\n\n联盟舰队的旗舰在数小时后因损坏而沉没，但船员们认为他们的任务完成了。"
+ fallen_weaponry.832.a:0 "勇敢的。"
  
- fallen_weaponry.833.name:0 《权力的碎片》
- fallen_weaponry.833.desc:0 “被派去调查沉船的 [GetEngineerPlural] 报告了他们的发现。\n\n简单来说，他们无法理解或复制我们提供给他们的装甲样本。更复杂地说，他们设法提供了,样本，对它的组成做了一些估计的猜测，然后立即放弃。\n\n更积极的消息是，派去研究残骸的团队自己报告了对 Party Aleph 船只的惊人见解。比较完好无损的残骸，我们,已经发现之前的例子，我们现在对它们的建造过程有了更深入的了解。\n\n我们曾经假设来自 Party Aleph 的船只只是配备了先进的技术，比较分析表明我们忽略了关键的结构差异，要么被战斗破坏掩埋,或我们自己的无知。这些船只的龙骨采用更紧凑、更耐用且最终更宽敞的设计——允许许多曾经被装甲占据的空间被各种部件填充，或者简单地进一步加固。,理想的武器装载量总是因此而增加，并且这些修改并非完全不可能在现有船只上复制。\n\n我们的工程部门建议尽快开发该项目，以便我们可以利用这些设计来进一步增强我们的能力,帝国。”
- fallen_weaponry.833.a:0 “这些是自然进步的症状，还是他们战争的必要创新？”
+ fallen_weaponry.833.name:0 "力量的碎片"
+ fallen_weaponry.833.desc:0 "被派去调查沉船的 [GetEngineerPlural] 报告了他们的发现。\n\n简单来说，他们无法理解或复制我们提供给他们的盔甲样本。,更复杂的是，他们设法提供了样品的表面材料分析，对其成分进行了一些估计猜测，然后立即放弃。\n\n更积极的消息是，团队亲自派去研究沉船,已经报告了对 Party Aleph 船只的惊人见解。,将我们发现的完好无损的残骸与之前的例子进行比较，我们现在对它们的建造过程有了更深入的了解。\n\n我们曾经假设来自 Party Aleph 的船只只是配备了先进的技术，比较分析表明我们忽略了关键的结构差异，,要么被战争破坏，要么被我们自己的无知埋葬。,这些船只的龙骨采用更紧凑、更耐用且最终更宽敞的设计——允许许多曾经被装甲占据的空间被各种部件填充，或者简单地进一步加固。,理想的武器装载量总是因此而增加，并且这些修改并非完全不可能在现有船只上复制。\n\n我们的工程部门建议尽快开发该项目，以便我们可以利用这些设计来进一步增强我们的能力,帝国。"
+ fallen_weaponry.833.a:0 "这些是自然进步的症状，还是他们战争的必要创新？"
  
- fallen_weaponry.840.name:0 “背水一战”
- fallen_weaponry.840.desc:0 “我们的调查小组又发现了另一个碎片场，有证据表明交战方 Omicron 进行了一次重大舰队行动。值得注意的是，存在与我们之前探险中回收的装甲碎片相匹配的特征，这表明有更多完整的样本可供研究。我们的 [ ,GetArchaeologistPlural] 正在等待调查许可。”
- fallen_weaponry.840.a:0 “让我们看看有没有什么可以挽救的。”
+ fallen_weaponry.840.name:0 "背水一战"
+ fallen_weaponry.840.desc:0 "我们的调查小组发现了另一个碎片场，证据表明交战方 Omicron 进行了大规模舰队行动。,值得注意的是，存在与我们之前探险中回收的盔甲碎片相匹配的签名，这表明有更多完整的样本可供研究。,我们的 [GetArchaeologistPlural] 正在等待调查许可。"
+ fallen_weaponry.840.a:0 "让我们看看有什么可以挽救的。"
  
- fallen_weaponry.841.name:0 “没有退路”
- fallen_weaponry.841.desc:0 “作为第四次记录到的重大碎片，我们的 [GetArchaeologistPlural] 开始进入常规。残骸和碎片的组成与 Party Aleph 典型的失败交战一致 - 他们的大部分船只都在前进中落后,前面，在试图拉近距离时被摧毁。在残骸中有几艘更大的船只的存在证明这是一支被交战和摧毁的主要舰队。\n\n但是有一点值得注意，那就是来自 Party 的船只的存在,Omicron。两艘类似于现代战列巡洋舰和护卫舰的船只被发现处于各种年久失修的状态。战列巡洋舰的中央反应堆核心被引爆，爆炸表明这是泰坦长枪集中射击的结果。护航号，,它的引擎被毁，船体通风，在较小的武器火力下死亡速度较慢，直到它变得无法使用。\n\n虽然有幸存的 Party Aleph 船只的例子，但我们的团队更专注于 Escort 和 Battlecruiser 是可以理解的，并且,正在对数据和技术进行精细扫描。”
- fallen_weaponry.841.a:0 “一个了不起的发现。”
+ fallen_weaponry.841.name:0 "没有退路"
+ fallen_weaponry.841.desc:0 "作为记录的第四个主要碎片实例，我们的 [GetArchaeologistPlural] 开始进入常规。,残骸和碎片的构成与 Party Aleph 典型的失败交战是一致的——他们的大部分船只在前进的前线尾随，在试图拉近距离时被摧毁。,残骸中存在几艘较大的船只，这证明这是一支被交战并被摧毁的主要舰队。\n\n然而，有一点值得注意，那就是来自 Party Omicron 的船只的存在。,两艘类似于现代战列巡洋舰和护航舰的船只被发现处于各种年久失修的状态。 ,Battlecruiser 的中央反应堆核心已被引爆，爆炸表明这是泰坦长枪集中射击的结果。 ,Escort 的引擎被毁，船体通风，在较小的武器火力下死亡速度较慢，直到它变得无法使用。\n\n虽然有幸存的 Party Aleph 船只的例子，但我们的团队更专注于 Escort 和,Battlecruiser，并正在对数据和技术进行精细扫描。"
+ fallen_weaponry.841.a:0 "一个了不起的发现。"
  
- fallen_weaponry.842.name:0 “不投降”
- fallen_weaponry.842.desc:0 “这次交战的战斗分析已经基本完成，这要归功于 Omicron 船只的数据驱动器的访问。渗透他们的固件被证明是非常具有挑战性的，并且提取数据迫使防御系统清除，这摧毁了仍然存在的大部分固件和硬件,在船上。可以提取的是垃圾数据、语言学、个人日志和导航数据——事实证明，这些材料比预期的更容易翻译和消化，Party Omicron 所说的语言似乎很好地融入了我们的 Party Aleph 算法,. 尽管如此，我们已经成功地将来自 Party Aleph 的打捞数据的战略信息结合起来，并将其与 Battlecruiser 的翻译进行交叉引用。\n\n这些 Omicron 船只属于一个被称为战斗群的战斗编队，一个被简单地翻译为,“北方”，一万年前负责保卫 Omicron 领土的整个四分之一。这支舰队在从“,正在沿着银河系边缘进行防御行动。,这次交战代表了 Aleph 党和北方战斗群部队的很大一部分。\n\n这些团队仍在努力编译和翻译更多数据，而我们的打捞队正忙于尝试从 Aleph 党的残骸中找到一些有价值的衡量标准 -,事实证明，对两艘 Party Omicron 船只的结构进行的初步评估对于逆向工程来说是没有希望的。”
- fallen_weaponry.842.a:0 “有趣。”
+ fallen_weaponry.842.name:0 "不投降"
+ fallen_weaponry.842.desc:0 "由于访问了 Omicron 船只的数据驱动器，这次交战的战斗分析已经基本完成。,渗透他们的固件被证明是非常具有挑战性的，并且提取数据迫使防御系统清除，破坏了船上仍然存在的大部分固件和硬件。,可以提取的是垃圾数据、语言学、个人日志和导航数据——事实证明，这些材料比预期更容易翻译和消化，Party Omicron 所说的语言似乎很好地融入了我们的 Party Aleph 算法。,尽管如此，我们还是成功地将来自 Party Aleph 的打捞数据的战略信息结合起来，并将其与 Battlecruiser 的翻译进行交叉引用。\n\n这些 Omicron 船只属于一个被称为战斗群的战斗编队，其中一个被简单地翻译为 ',一万年前，它负责保卫欧米克龙四分之一的领土。,这支舰队在从银河系边缘的“持续防御行动”中轮换后，显然参与了一场针对 Aleph 党的惩罚性运动，他们简称为“叛徒”。,这次交战代表了 Party Aleph 和 Battle Group North 部队的很大一部分。\n\n这些团队仍在努力编译和翻译更多数据，而我们的打捞队正忙于尝试从 Party Aleph 的残骸中找到一些有价值的衡量标准 -,事实证明，对两艘 Omicron 船只的结构的初步评估对于逆向工程来说是没有希望的。"
+ fallen_weaponry.842.a:0 "有趣。"
  
- fallen_weaponry.843.name:0 《必要的牺牲》
- fallen_weaponry.843.desc:0 “看起来，Aleph 党的舰队指挥官已经放弃了对这次交战的任何机智或狡猾的尝试。被 §H 北方战斗群 §! 与某个 §H 海军上将世界末日 §! 的消耗性交战所困扰，并且无法在没有的情况下采取防御行动,由于损害了舰队的实力，指挥官派他的舰队在这里守候 §H 北方战斗群§! 正面迎战。\n\n然而，对于 §H 末日上将§! 来说，这提供了一个机会。尽管经常抱怨他的增援部队准时性越来越差， ,§H阿米吉多顿海军上将§! 太急于给 Aleph 部队造成毁灭性的失败，而不是在一场漫长而乏味的战役中分裂他的部队并压制小型舰队。\n\n虽然 §H 北方战斗群§! 取得了胜利，但它确实,并没有完全按计划进行。在这里被摧毁的两艘船在他们甚至希望脱离接触之前就遭受了协调一致的泰坦长矛的打击，在面对不可逾越的困难时表现出真正的火力纪律。,尽管目标计算机似乎与 Fallen Empires 或我们使用的计算机没有任何不同，但 Party Aleph 船只的传感器套件有些值得注意 - 基于暗能量，因为 Party Aleph 清楚地显示出对这一原则的掌握，这使他们能够,提前数个跃迁来预测北方战斗群的兵力构成。”
- fallen_weaponry.843.a:0 “也许他们造成的损失对他们来说是值得的。”
+ fallen_weaponry.843.name:0 "必要的牺牲"
+ fallen_weaponry.843.desc:0 "看来阿莱夫党的舰队指挥官已经放弃了对这次交战的任何机智或微妙的尝试。,因与§H北方战斗群§的消耗性交战而陷入困境！,面对某个§H海军上将世界末日§!，并且无法在不损害舰队力量的情况下采取防御行动，指挥官委托他的舰队在这里举行以迎接§H北方战斗群§!,继续前进。\n\n为了§H海军上将世界末日§!,然而，这提供了一个机会。,尽管经常抱怨他的援军准时性越来越差，§H海军上将世界末日§!,太急于给 Aleph 部队造成毁灭性的失败，而不是在一场漫长而乏味的战役中分裂他的部队并粉碎小型舰队。\n\n虽然§H北方战斗群§!取得了胜利，但它并没有完全按计划进行,.,在这里被摧毁的两艘船只在泰坦长枪协调一致的同时打击下甚至还没有希望脱离接触，在面对不可逾越的困难时表现出真正的火力纪律。,尽管目标计算机似乎与 Fallen Empires 或我们使用的计算机没有任何不同，但 Party Aleph 船只的传感器套件有些值得注意 - 基于暗能量，因为 Party Aleph 清楚地显示出对这一原则的掌握，这使他们能够,提前几步占卜北方战斗群的兵力构成。"
+ fallen_weaponry.843.a:0 "也许他们造成的损失对他们来说是值得的。"
  
- fallen_weaponry.850.name:0 《逆转之潮》
- fallen_weaponry.850.desc:0 “在交战方 Aleph 和 Omicron 之间的战斗中发现了另一次主要舰队行动的残骸，这些残骸的成分表明存在 Aleph 方的神秘盟友。时间和适当的调查有望告诉我们这里发生了什么。”
- fallen_weaponry.850.a:0 “让我们看看有没有什么可以挽救的。”
+ fallen_weaponry.850.name:0 "转折潮汐"
+ fallen_weaponry.850.desc:0 "在交战双方 Aleph 和 Omicron 之间的战斗中发现了另一次主要舰队行动的残骸，这些残骸的成分表明存在 Aleph 的神秘盟友。,时间和适当的调查有望告诉我们这里发生了什么。"
+ fallen_weaponry.850.a:0 "让我们看看有什么可以挽救的。"
  
- fallen_weaponry.851.name:0 “数字不是一切”
- fallen_weaponry.851.desc:0 “在这个系统中占主导地位的残骸在数量和质量上都是不寻常的——既不如 Party Aleph，但数量更多，这些船只占该领域 80% 以上的残骸，只有少数船只属于 Party Aleph ,. 关于另一次联合行动的理论比比皆是——或者更激进地说，假设盟友之间的小规模冲突被打断了，但我们的团队需要时间进行调查。\n\nOmicron 党的残骸，就与他们对齐的船只的质量而言，预计会很低。,我们只发现了一艘 Battlecruiser 的扭曲船体，旁边是两艘被摧毁的护卫舰 - 它们的子系统受到了精确的损坏。已经派出小组进行调查，但鉴于 Party Omicron 的技术和设计的神秘性，我们预计不会,任何重要的见解。”
- fallen_weaponry.851.a:0 “有趣的。”
+ fallen_weaponry.851.name:0 "数字不是一切"
+ fallen_weaponry.851.desc:0 "在这个系统中占主导地位的残骸在数量和质量上都是不寻常的——既不如 Party Aleph，但数量更多，这些船只占该领域 80% 以上的残骸，只有少数船只属于 Party Aleph。,关于另一次联合行动的理论比比皆是——或者更激进地说，假设的盟友之间的小规模冲突被打断了，但我们的团队需要时间进行调查。\n\nOmicron 党的残骸，就与他们对齐的船只的质量而言，预计会很低。,我们只发现了一艘战列巡洋舰的扭曲船体，两侧是两艘被毁的护卫舰——它们的子系统受到了精确的破坏。,已派出团队进行调查，但考虑到 Party Omicron 的技术和设计的神秘性，我们预计不会有任何重要的洞察力。"
+ fallen_weaponry.851.a:0 "有趣的。"
  
- fallen_weaponry.852.name:0 “质量而不是数量”
- fallen_weaponry.852.desc:0 “从残骸中提取的数据已经基本完成，我们的主要理论是正确的。这场战斗是 Aleph 党与其盟友之一联合行动的地点，我们将其命名为‘Kaph’。记录表明 Kaph,实体是极端的孤立主义者，但在 Omicron 党的领导下受到同样的压迫。\n\n为了响应 Kaph 的求助请求，Aleph 党的本地指挥部派出了他们可以腾出的所有船只——从前线借来了少量护航舰和战列巡洋舰,以帮助他们的盟友。由于 Omicron 舰队的大部分似乎都占据了外缘，Omicron 党的较小巡逻舰队自由漫游 - 仅一艘战列巡洋舰和三艘护卫舰就对不协调的巡逻构成了压迫性威胁，这四艘船在 Kaph Space 漫游也是如此,.\n\n在这种情况下，现在的残骸似乎比我们最初预测的要慷慨得多。这里发挥作用的战斗策略一定是他们的胜利之手。”
- fallen_weaponry.852.a:0 “有趣的。”
+ fallen_weaponry.852.name:0 "质量而不是数量"
+ fallen_weaponry.852.desc:0 "从沉船中提取的数据已经基本完成，我们的主导理论是正确的。,这场战斗是 Aleph 党与其盟友之一联合行动的地点，我们将其命名为“Kaph”。,记录表明 Kaph 实体是极端的孤立主义者，但在 Party Omicron 的统治下受到同样的压迫。\n\n响应 Kaph 的求助请求，Aleph 党的本地指挥部派出了他们能腾出的所有船只——少量护航舰和战列巡洋舰,从前线借来帮助他们的盟友。,大部分 Omicron 舰队似乎都占据了外缘，Omicron 党的较小巡逻舰队自由漫游 - 仅一艘战列巡洋舰和三艘护卫舰就对不协调的巡逻队构成了压迫性威胁，这四艘船在 Kaph 空间漫游也是如此。\n\n随着,在这种情况下，现在的残骸似乎比我们最初预测的要慷慨得多。,在这里发挥作用的战斗策略一定是他们的胜利之手。"
+ fallen_weaponry.852.a:0 "有趣的。"
  
- fallen_weaponry.853.name:0 “但数量可以是质量”
- fallen_weaponry.853.desc:0 “来自 Party Omicron 在场的四艘船只组成了一支巡逻舰队，专门派去摧毁试图蹒跚驶向安全港的受伤军舰，以及任何因犯罪而逃脱‘审判’的民用船只。\n\n虽然在,数字，Kaph 的舰队缺乏足够的手段单独对付巡逻舰队。在 Party Aleph 的支持下，Kaph 实体舰队处于更好的交战位置 - 他们热情地这样做。受到盟友的鼓舞， ,Kaph 舰队与 Omicron 舰队进行了残酷的混战，吸收炮火让 Party Aleph 的舰队从远处交战，迫使一艘护航舰进行紧急 FTL 跳跃，而其他三艘则变得无效并间隔开。\n\ ,n 特别值得注意的是，Kaph 实体遭受的许多伤亡是由攻击机炮火造成的，我们的考古学家估计，如果没有 Aleph 的护卫队提供的防御性庇护，可能会有更多伤亡。,其中一个子系统已被我们的打捞团队成功提取，不出所料，它是基于暗能量的设计。,虽然与 Party Aleph 的其他技术一样令人费解，但它至少是可复制的——通过适当的现场测试。”
- fallen_weaponry.853.a:0 “我们会好好利用它。”
+ fallen_weaponry.853.name:0 "但数量可以是质量"
+ fallen_weaponry.853.desc:0 "来自 Party Omicron 在场的四艘船只组成了一支巡逻舰队，专门派去摧毁试图跛行到安全港的受伤军舰，以及任何因犯罪而逃脱“审判”的民用船只。\n\n虽然数量上占优势,，卡夫的舰队缺乏足够的手段单独对付巡逻舰队。,在 Party Aleph 的支持下，Kaph 实体舰队处于更有利的交战位置——而且他们是满怀热情地这样做的。,受到盟友的鼓舞，Kaph 舰队与 Omicron 舰队进行了一场残酷的混战，吸收炮火让 Party Aleph 的舰队从远处交战，迫使一艘护航舰进行紧急 FTL 跳跃，而另外三艘,变得无效和间隔开。\n\n特别值得注意的是，Kaph 实体遭受的许多伤亡是由攻击机枪支造成的，我们的考古学家估计，如果没有提供的防御性庇护，可能会有更多伤亡,在阿莱夫的护送下。,其中一个子系统已被我们的打捞团队成功提取，毫不奇怪，它是基于暗能量的设计。,虽然与 Party Aleph 的其他技术一样令人费解，但它至少是可复制的——通过适当的现场测试。"
+ fallen_weaponry.853.a:0 "我们会好好利用它。"
  
- fallen_weaponry.860.name:0 “利维坦”
- fallen_weaponry.860.desc:0 “在对交战方 Aleph 和 Omicron 之间的冲突进行最后一次调查之后，我们的调查团一直在搜寻观测到的领土以寻找进一步的冲突证据。在这个系统中发现了一个重要的碎片场，它的核心是一个巨大的残骸，日食,任何已编入目录的船只。我们的重点应该从那里开始。”
- fallen_weaponry.860.a:0 “让我们看看有没有什么可以挽救的。”
+ fallen_weaponry.860.name:0 "利维坦"
+ fallen_weaponry.860.desc:0 "在对交战方 Aleph 和 Omicron 之间的冲突进行最后一次调查后，我们的调查团一直在搜索观察到的领土以寻找进一步的冲突证据。,在这个系统中检测到一个重要的碎片场，它的核心是一个巨大的残骸，使任何编目的船只都黯然失色。,我们的重点应该从那里开始。"
+ fallen_weaponry.860.a:0 "让我们看看有什么可以挽救的。"
  
- fallen_weaponry.861.name:0 《进入野兽腹中》
- fallen_weaponry.861.desc:0 “当考古队接近碎片场的中心时，他们想到的第一个词是巨大。这艘船是如此巨大，以至于堕落帝国泰坦仅仅因为它的存在就感到羞耻。这几乎是违背常理的，因为这艘船,显然是对我们无法开始感知的威胁的回应。即使它被毁坏了，它的大部分船体仍然保持着它雄伟的身影，我们只能恐惧地认为我们可能只看到这艘船的一部分，并且,不是原来的整体。\n\n调查人员和打捞队在开展工作时几乎怀着虔诚的敬畏之情在这艘巨兽的阴影下移动，寻找连接到船只上层建筑的入口点。这艘船的绝对尺寸,排除了彻底的搜索，所以我们的团队不得不对它的体积采用务实的传感器扫描，搜索代表控制中心、维护中心、武器电池的隔间。鉴于我们完全不知道这艘船的级别，还有,担心我们会在哪里找到中央指挥台或动力核心。,我们的团队提醒说，这次搜索可能需要一些时间，而且结果可能不会很快出来。”
- fallen_weaponry.861.a:0 “最快的速度，祝你好运。”
+ fallen_weaponry.861.name:0 "进入野兽的腹部"
+ fallen_weaponry.861.desc:0 "当考古队接近碎片场的中心时，他们想到的第一个词是“巨大”。,这艘船是如此巨大，以至于仅凭它的存在就让堕落帝国泰坦感到羞耻。,这几乎是违背常理的，因为这艘船显然是对我们无法开始感知的威胁的回应。,尽管它已经毁坏，但它的大部分船体仍保留着它雄伟的身影，我们只能担心我们可能只看到这艘船的一部分，而不是它原来的整体。\n\n调查人员和打捞队,当他们进行工作时，他们怀着近乎虔诚的敬畏之情走在那只巨兽的阴影下，寻找一个连接到船只上层建筑的入口。,这艘船的庞大规模妨碍了彻底的搜索，因此我们的团队不得不对其体积采用务实的传感器扫描，搜索代表控制中心、维护中心、武器电池的隔间。,鉴于我们完全不知道这艘船的级别，我们还担心我们会在哪里找到中央指挥甲板或动力核心。,我们的团队警告说，此搜索可能需要一些时间，而且结果可能不会很快出现。"
+ fallen_weaponry.861.a:0 "最好的速度，祝你好运。"
  
- fallen_weaponry.862.name:0 《稳步前进》
- fallen_weaponry.862.desc:0 “远征队花了几天时间才返回，好消息也传来了。插入中央通道路口后，发现了几个有希望的检查点，该小组从上到下搜索了他们进入船只的预计路径，以努力找到,一个与巨舰系统集成的接入点。\n\n经过几天的小心航行，他们设法偶然发现了一个辅助数据核心并恢复了它的功能。从那里开始，只需重新激活局部电源，确保安全,后续团队的正确运输路线，并确保船只没有任何船员为任何寄宿生留下的任何令人讨厌的惊喜或故障保险。\n\n到目前为止，沿途只有一些小问题。缺乏,完好无损的大气控制装置留下了一些压力区，造成了轻微的危险，并且这艘船一直试图从我们的本地发电机中汲取电力以恢复主要功能——导致几次险些因电源过载而导致他们弄清楚如何解决,隔离管道。,该团队认为他们接近突破性发现，但考虑到这艘船的大小，我们在这方面持谨慎悲观态度。”
- fallen_weaponry.862.a:0 “明白了，随时通知我们。”
+ fallen_weaponry.862.name:0 "稳步前进"
+ fallen_weaponry.862.desc:0 "探索小队过了好几天才归来，随之而来的是好消息。,插入一个中央入口连接点导致了几个有希望的检查点，团队从上到下搜索了他们进入容器的预计路径，以努力找到一个入口点来与巨型容器的系统集成。\n\n经过几天的,仔细导航，他们设法偶然发现了一个辅助数据核心并恢复了它的功能。,从那里开始，只需重新激活局部电源，为后续团队确保正确的运输路线，并确保船只没有任何船员为任何寄宿生留下的任何令人讨厌的惊喜或故障保险。\n\n只有,到目前为止，一路上遇到了一些小问题。,缺乏完好无损的大气控制装置留下了一些压力区，造成了轻微的危险，而且这艘船一直试图从我们本地的发电机中汲取电力以恢复主要功能——导致在他们意识到之前几次因电源过载而险些丧命,了解如何隔离管道。,该团队认为他们接近突破性发现，但考虑到这艘船的大小，我们在这方面持谨慎悲观态度。"
+ fallen_weaponry.862.a:0 "了解，请随时通知我们。"
  
- fallen_weaponry.863.name:0 “洞察力”
- fallen_weaponry.863.desc:0 “对这艘巨型船只内部结构的研究正在按照团队最乐观的预测进行——惊人的 8% 的船只完好无损的上层建筑已经过调查。虽然我们可以有把握地得出结论，这艘船只已受到无法修复的损坏，但存在的无数内部子系统,证明完好无损。船只本身似乎出乎我们的意料，长期休眠的系统在我们的维修下轻松恢复生机，这为我们提供了丰富的工程数据。我们的 [GetEngineerPlural] 建议我们寻找一个活跃的维护中心,希望我们能恢复本地化的示意图，甚至可能是船只本身的蓝图。\n\n到目前为止，我们访问的少数功能终端大多是在这些部分运行的较低级别评级的详细报告。他们的报告详细介绍了一个主要,对党 Omicron 的胜利，特别是对 §H 北方战斗群§! 的胜利。他们的成功显然表明这艘船与 Omicron 船进行了进一步的战斗，移动以加强注定要失败的舰队，而这艘船在这场战役中补给不足。\n\n有时,在这艘船被摧毁之前，补给舰停止了到来，最后一次补给携带着来自母星的信息。,那个消息是什么，没有一个较低评级的人知道，但有人猜测 Omicron 舰队回来了。”
- fallen_weaponry.863.a:0 “我们很快就会知道更多。”
+ fallen_weaponry.863.name:0 "洞察力"
+ fallen_weaponry.863.desc:0 "对这艘巨轮内部结构的研究正按照团队最乐观的预测进行——令人震惊的是，该船完整上层建筑的 8% 已经过勘测。,虽然我们可以有把握地断定这艘船已受到无法修复的损坏，但事实证明，存在的无数内部子系统都完好无损。,船只本身似乎出乎我们的意料，长期休眠的系统在我们的维修下轻松恢复生机给了我们大量的工程数据。,我们的 [GetEngineerPlural] 建议我们寻找一个活跃的维护中心，希望我们能恢复本地化的示意图，甚至可能是船只本身的蓝图。\n\n到目前为止，我们访问的少数功能终端大多是来自较低级别的详细报告,在这些部分中运行的等级评级。,他们的报告详述了对 Omicron 党的重大胜利，特别是对§H北方战斗群§!的胜利。,他们的成功显然见证了这艘船与 Omicron 船的进一步战斗，它们移动以增援注定失败的舰队，而这艘船在这场战役中补给不足。\n\n在这艘船被摧毁之前的某个时候，补给船停止了，最后一艘,携带来自家乡世界的信息进行补给。,那个消息是什么，没有一个较低的收视率被告知，但有人猜测 Omicron 舰队回来了。"
+ fallen_weaponry.863.a:0 "我们很快就会知道更多。"
  
- fallen_weaponry.864.name:0 “使者……”
- fallen_weaponry.864.desc:0 “考古队提交了另一份实地报告，这份报告比上一份详细得多。修复了一辆沿船脊运行的完好无损的有轨运输车，该团队能够在原本无法进入的中心质量方面取得重大进展,沉船。从那里子系统的密度增加了三倍，他们很快就获得了网络核心的访问权限，这给了我们大量的信息来消化。\n\n翻译工作和操作日志终于给出了,我们为这个怪物起了一个有形的名字——§YThe Emissary§!。一个诗意的标签，因为这艘船的目的是成为反抗 Party Omicron 的心理象征，以及他们许多进攻性交战背后的关键。这些信息中的第二个是,建造者在示意图中的注释 - 显然建造这艘船非常耗时费力，以至于他们最终在建造过程中进一步优化了他们的工作。,因此，这艘船似乎拥有其建造规格的完整蓝图。\n\n虽然它不在这个特定的数据堆栈中，但它仍然让我们的团队疯狂地寻找它。,这样一艘船，即使建造起来极其昂贵，也有可能保证我们帝国子孙后代的安全。,积极的一面是，该团队还推测这些蓝图应该位于船的黑匣子内——黑匣子中还包含船长的日志以及其他有价值的数据。”
- fallen_weaponry.864.a:0 “马上找到那个黑匣子！”
+ fallen_weaponry.864.name:0 "使者..."
+ fallen_weaponry.864.desc:0 "考古队提交了另一份实地报告，这份报告比上一份详细得多。,修复了沿船脊运行的完好无损的有轨运输车，该团队能够在其他情况下无法进入的沉船中心取得重大进展。,从那里子系统的密度增加了三倍，没过多久它们就获得了网络核心的访问权限，这给了我们大量的信息来消化。\n\n翻译工作和操作日志终于给了我们一个有形的,这个怪物的名字 - §YThe Emissary§!。,一个诗意的标签，因为这艘船旨在成为反抗 Party Omicron 的心理象征，以及他们许多进攻性交战背后的关键。,这些信息中的第二个是建造者在示意图中的注释——显然建造这艘船是如此耗时费力，以至于他们最终在建造过程中进一步优化了他们的工作。,因此，这艘船似乎拥有其建造规格的完整蓝图。\n\n虽然它不在这个特定的数据堆栈中，但它仍然让我们的团队疯狂地寻找它。,这样一艘船，即使建造起来极其昂贵，也有可能保证我们帝国子孙后代的安全。,积极的一面是，该团队还推测这些蓝图应该位于船的黑匣子内——黑匣子中还包含船长的日志以及其他有价值的数据。"
+ fallen_weaponry.864.a:0 "马上找到那个黑匣子！"
  
- fallen_weaponry.865.name:0 《……报应》
- fallen_weaponry.865.desc:0 “我们的团队找到了密使号的黑匣子。\n\n他们在对飞船的子系统进行了结论性研究之后向我们报告，这导致他们到达了船体最孤立的部分，几乎被切断但结构安全。在这个次要房间内是飞船的,紧急指挥室，以及黑匣子本身。这个房间已经从船舶遭受的最严重的损坏和腐烂中移除，但内部的不一致使我们相信指挥室在船舶被摧毁后被占用了一段时间。没有遗骸,已被发现，但码头的最新日志告诉我们这个故事。\n\n这艘强大船只的船长不是别人，正是阿莱夫党整个海军的最高指挥官，使用 §Y 使者§! 作为他的近乎坚不可摧的旗舰,行动基地。Omicron 也拥有一艘此类船只，我们的翻译矩阵已将其缩小为一个明确的标题。\n\nGoliath。\n\n§YThe Emissary§! 与数百艘船只一起部署，这些船只经历了一场战役,对 Party Omicron 及其财产的侵略，其最重要的贡献是完全摧毁了§HBattle Group North§!。,不幸的是，这招致了迅速的报复——曾经的局部反应反过来变成了整个帝国的报复。”
- fallen_weaponry.865.a:0 “很难不去想象接下来会发生什么……”
+ fallen_weaponry.865.name:0 "...报应"
+ fallen_weaponry.865.desc:0 "我们的团队找到了使者号的黑匣子。\n\n他们在对飞船的子系统进行了结论性研究之后向我们提交了报告，该子系统将他们带到了船体最孤立的部分，几乎被切断但结构安全。,在这个次要房间内是船的紧急指挥室，以及黑匣子本身。,房间已经从船遭受的最严重的损坏和腐烂中移走，但内部的不一致使我们相信指挥室在船被摧毁后被占用了一段时间。,没有找到遗骸，但码头的最新日志告诉我们这个故事。\n\n这艘强大船只的船长不是别人，正是阿莱夫党整个海军部队的最高指挥官，使用§Y使者§！,作为他的行动基地的近乎坚不可摧的旗舰。 ,Omicron 也拥有此类容器，我们的翻译矩阵已将其缩小为一个明确的名称。\n\nGoliath。\n\n§YThe Emissary§!,与数百艘船只一起部署，这些船只经历了一场针对 Party Omicron 及其财产的侵略运动，其最重要的贡献是完全摧毁了§HBattle Group North§!。,不幸的是，这招致了迅速的报复——曾经的局部反应反过来变成了整个帝国的报复。"
+ fallen_weaponry.865.a:0 "很难不去想象接下来会发生什么……"
  
- fallen_weaponry.866.name:0 《最后的安息》
- fallen_weaponry.866.desc:0 “最后的日志已经翻译，我们的 [GetEngineerPlural] 已经成功地编译了他们关于 Goliath 船只的最终报告。\n\n党 Omicron 对 §HBattle Group North§! 的破坏以及 Aleph 继续存在所构成的威胁的回应,，是绝对实力的展示，根据最高指挥官的估计，奥米克龙为了应对他们的胜利，已经完全取消了所有作战战线，并集结了剩下的三大战斗群——南、东、西战斗群，展开了一场,对 Party Aleph 的核心系统进行毁灭性的战役。\n\n设法逃脱并与 §YThe Emissary§! 重新集结的船只报告说地面战斗从未打过 - Omicron 只是从轨道上轰炸他们的世界，消除他们路径上的所有抵抗痕迹。,面对压倒性的优势，Aleph 党仅剩的海军进行了一场坚决但徒劳的游击战。至于§YThe Emissary§!，它尽可能地召集幸存者加入它的旗帜，并与他们的敌人进行最后的、孤注一掷的战斗,...,他们在这场冲突中的盟友从未集结起来保卫他们，将他们遗弃在 Omicron 的战斗群和他们的种族灭绝报复的全部力量之下。\n\n我们的 [GetArchaeologistPlural] 已经完成了他们最后的工作，我们的 [GetEngineerPlural] 报告给,我们知道黑匣子确实包含了这艘船的完整蓝图。,虽然降临在这些人身上的悲剧对这次收购造成了沉重的打击，但我们从对这场古老冲突和阿莱夫帝国的调查中还是收获了很多。”
- fallen_weaponry.866.a:0 “我们将永远感激他们。”
+ fallen_weaponry.866.name:0 "最后的安息"
+ fallen_weaponry.866.desc:0 "最后的日志已被翻译，我们的 [GetEngineerPlural] 已成功编译他们关于 Goliath 船只的最终报告。\n\nOmicron 党对§HBattle Group North§! 被毁的回应！,而阿莱夫的继续存在所带来的威胁，则是绝对力量的表现。,根据最高指挥官的估计，Omicron 已经完全取消了所有作战前线以响应他们的胜利，并集结了剩下的三个主要战斗群——南、东和西战斗群，并向 Party Aleph 的核心系统发起了一场毁灭性的战役。 ,\n\n设法逃脱并与§Y使者§重新集结的船只！,报告说从未打过地面战——Omicron 只是从轨道上轰炸他们的世界，消除他们路径上的所有抵抗痕迹。,面对压倒性的优势，阿莱夫党仅剩的海军进行了一场坚决但徒劳的游击战。,至于 §YThe Emissary§!，它尽可能地召集幸存者加入它的旗帜，并与敌人进行最后的、孤注一掷的战斗。\n\n这场战斗是一场屠杀，Aleph 党最后剩下的海军部队在这场战斗中战死,系统，远离他们被摧毁的家园和现在的死人。,他们在这场冲突中的盟友从未集结起来保卫他们，将他们遗弃在 Omicron 的战斗群和他们的种族灭绝报复的全部力量之下。\n\n我们的 [GetArchaeologistPlural] 已经完成了他们最后的工作，我们的 [GetEngineerPlural] 报告给,我们知道黑匣子确实包含了这艘船的完整蓝图。,虽然降临在这些人身上的悲剧对这次收购造成了沉重的打击，但我们还是从对这场古老冲突和阿莱夫帝国的调查中获益良多。"
+ fallen_weaponry.866.a:0 "我们将永远感激他们。"
  
  
- fallen_weaponry.9.name:0 “全能武器增强”
- fallen_weaponry.9.desc:0 “经过一段时间对 Omni Weapons 的研究，我们的 [GetScientistPlural] 相信这些武器实际上可以做得更小，消耗的能源和船上的空间要少得多。自然地，它的伤害输出会因此受到影响，但前景可能,如果我们的实验成功，那确实是光明的。”
- fallen_weaponry.9.a:0 “尝试没有坏处。”
- fallen_weaponry.9.b:0 “我们不需要他们。”
+ fallen_weaponry.9.name:0 "全能武器增强"
+ fallen_weaponry.9.desc:0 "经过一段时间对 Omni Weapons 的研究，我们的 [GetScientistPlural] 相信这些武器实际上可以做得更小，在我们的船上消耗的能量和空间要少得多。,自然地，它的伤害输出会因此受到影响，但如果我们的实验成功的话，前景确实会很光明。"
+ fallen_weaponry.9.a:0 "尝试没有坏处。"
+ fallen_weaponry.9.b:0 "我们不需要它们。"
  
- PROJECT_COMPACT_OMNI_WEAPONS:0 “紧凑型全能武器”
- PROJECT_COMPACT_OMNI_WEAPONS_DESC:0 “全能武器虽然强大，但需要巨大的动力才能运行，因此目前只有足够大的战舰才能配备这些武器。但是，我们的 [GetScientistPlural] 相信如果我们成功，这些武器将具有巨大的潜力,使它们更小。这当然是一项不小的壮举，必须首先克服许多工程挑战。”
+ PROJECT_COMPACT_OMNI_WEAPONS:0 "紧凑型全能武器"
+ PROJECT_COMPACT_OMNI_WEAPONS_DESC:0 "全能武器虽然威力巨大，但需要巨大的动力才能运转，因此目前只有足够大的战舰才能配备这些武器。,然而，我们的 [GetScientistPlural] 相信，如果我们成功地将它们变小，这些武器将具有巨大的潜力。,这当然是一项不小的壮举，必须首先克服许多工程挑战。"
  
- fallen_weaponry.901.name:0 “紧凑型全能武器”
- fallen_weaponry.901.desc:0 “我们的 [GetScientistPlural] 已经成功开发出制造紧凑型全能武器的技术。实验室原型按预期运行，令我们的 [GetScientistPlural] 高兴，尽管距离大规模生产还有一段距离。他们要求更多,资金以继续他们的工作。”
- fallen_weaponry.901.a:0 “我们的船只很快就能将这些武器储备得满满当当！”
+ fallen_weaponry.901.name:0 "紧凑型全能武器"
+ fallen_weaponry.901.desc:0 "我们的 [GetScientistPlural] 已经成功开发出制造紧凑型全能武器的技术。,实验室原型按预期运行，令我们 [GetScientistPlural] 高兴的是，尽管距离大规模生产还有一段距离。,他们要求更多的资金来继续他们的工作。"
+ fallen_weaponry.901.a:0 "我们的船只很快就能将这些武器储备得满满当当！"
  
- fallen_weaponry.903.name:0 “次元突破！”
- fallen_weaponry.903.desc:0 “我们的 [GetScientistPlural] 一段时间以来一直怀疑我们的维度和下一个维度之间的墙由于我们使用了 Portal Generator 而被削弱了。幸运的是，我们设法在这个......东西......是什么之前纠正了设备故障,，完全进入了我们的维度。我们应该在将这东西送回它来自的地方后重新评估我们对武器的使用。”
- fallen_weaponry.903.a:0 “战场！”
+ fallen_weaponry.903.name:0 "维度突破！"
+ fallen_weaponry.903.desc:0 "一段时间以来，我们的 [GetScientistPlural] 一直怀疑我们和下一个维度之间的隔离墙由于我们使用了 Portal Generator 而在削弱。,幸运的是，我们设法在这个……东西……完全进入我们的维度之前纠正了设备故障。,把这东西送回原处后，我们应该重新评估我们对武器的使用。"
+ fallen_weaponry.903.a:0 "战场！"
  
  
  # fallen_weaponry.2011.name:0 "Precursor's Secret Technology: §Y$tech_titan_plating$§!"

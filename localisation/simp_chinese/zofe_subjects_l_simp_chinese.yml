@@ -1,151 +1,151 @@
-l_simp_chinese:
+﻿l_simp_chinese:
  
 
- preset_fe_dominion:0 “$preset_dominion$”
- preset_fe_dominion_desc:0 “自治领是一种升华帝国附属国类型，有义务每月向升华霸主缴纳基本资源税。”
- preset_fe_dominion_flavor_desc:0 “一个自治领是一个崛起的帝国的臣民。随着强大的战舰越过他们的边界，他们已经服从了一个过分狂热的霸主的统治，这个霸主要求他们在名义上和精神上都被征服。”
- preset_fe_satellite:0 “$preset_satellite$”
- preset_fe_satellite_desc:0 “卫星是升华帝国主体类型，有义务向升华霸主支付大量研究税。”
- preset_fe_satellite_flavor_desc:0 “一颗卫星充当了一个崛起帝国的臣民。在将他们的自治权签署给外国势力之后，他们一直由他们的君主统治：每一个具有文化意义的小片段——无论是技术、艺术，还是其他形式的,表达 - 从远处仔细调节。”
- preset_fe_signatory:0 “$preset_signatory$”
- preset_fe_signatory_desc:0 “签署者是一种升华帝国附属国类型，没有来自升华霸主的独立外交。”
- preset_fe_signatory_flavor_desc:0 “签署者是一个崛起帝国的臣民。虽然他们被远方统治，但在很多方面他们都可以独自处理自己的事情。因为他们不受贡品或太多规定，他们往往不清楚目标是什么,他们的君主可能是。”
- preset_fe_thrall:0 “$preset_thrall$”
- preset_fe_thrall_desc:0 “奴隶是一种升华帝国附属国类型，有义务每月向其升华的霸主缴纳基本资源税，并且没有能力扩大他们的边界。”
- preset_fe_thrall_flavor_desc:0 “奴隶是一个崛起帝国的臣民。他们受到来自远方的严酷统治，他们向雄心勃勃的霸主支付大量财富，而霸主则用他们封臣的财富来为他们自己的战争机器提供燃料。”
- preset_fe_clan_member:0 “氏族成员”
- preset_fe_clan_member_desc:0 “氏族成员是升华帝国臣民类型，有义务每月向升华霸主缴纳预付资源税。”
- preset_fe_clan_member_flavor_desc:0 “一个氏族成员是一个升格帝国的臣民，被认为是其氏族的一部分。他们必须进贡并证明自己的价值，才能享受氏族成员带来的好处，并在需要时捍卫氏族。”
- preset_fe_demilitarized_state:0 “非军事化国家”
- preset_fe_demilitarized_state_desc:1 “非军事化国家是一种升华帝国附属国类型，它必须放弃一些海军能力，并每月向升华霸主缴纳战略资源税。”
- preset_fe_demilitarized_state_flavor_desc:0 “非军事化国家是一种主体，原则上同意减少其境内的武器，以换取和平和来自其霸主的保护。或者，正如他们崛起的帝国霸主可能会说的那样，有些武器在其领土上太危险了,孩子们的手。”
- preset_fe_puppet_state:0 “傀儡国”
- preset_fe_puppet_state_desc:0 “傀儡国是一种升华帝国附属国类型，有义务每月向升华霸主缴纳预付资源税。”
- preset_fe_puppet_state_flavor_desc:0 “傀儡国首先是他们崛起的帝国霸主的傀儡。尽管表面上是独立外交，但他们必须屈服于霸主的一时兴起，做好事以保持良好的风度。”
- preset_fe_union_state:0 “联合邦”
- preset_fe_union_state_desc:0 “联盟国家是一种升华帝国附属国类型，有义务每月向其升华霸主缴纳基本资源税。”
- preset_fe_union_state_flavor_desc:0 “一个联盟国家是他们崛起的帝国霸主对未来的理想主义愿景的光辉典范，银河系最终将在他们的平等价值观下团结起来，无论是否愿意。”
- preset_fe_satrapy:0 “总督”
- preset_fe_satrapy_desc:0 “Satrapies 是一种臣民，每月缴纳基本资源税以向部落致敬。他们还必须放弃一些海军能力。”
- preset_fe_satrapy_flavor_desc:0 “总督是他们宗主国的臣民。在屈服于一个崛起帝国的军事力量之后，他们被赋予了管理他们银河系地区的权利。只要他们继续支持他们的宗主国正在进行的用船只和,资源，让他们处理自己的事情。”
- preset_fe_symbiote:0 “共生体”
- preset_fe_symbiote_desc:0 “共生体是一种外交独立的主体，但每月缴纳基本资源税以向其霸主致敬。”
- preset_fe_symbiote_flavor_desc:0 “共生体是提升的蜂群思维的主体，它寻求和平与共存以换取资源。”
- preset_fe_auxiliary:0 “辅助单位”
- preset_fe_auxiliary_desc:0 “附属国是一种外交独立的附属国，但每月缴纳基本资源税以向其宗主国致敬。”
- preset_fe_auxiliary_flavor_desc:0 “辅助者作为升华机械帝国的臣民，承诺提供保护以换取资源。”
- preset_banished_ascendancy:0 《被放逐的帝国》
- preset_banished_ascendancy_desc:0 “被放逐的帝国曾经是银河系中的强大力量，被他们的一个对手打倒了。他们受到一项特别严厉的条约的约束，以防止他们再次崛起。”
- preset_banished_ascendancy_flavor_desc:0 “被放逐的霸权曾经是一个处于文明顶峰的崛起帝国，被他们的一个竞争对手打倒并最终被征服。施加了严厉的条款和条约以确保他们永远无法重新掌权。”
+ preset_fe_dominion:0 "$preset_dominion$"
+ preset_fe_dominion_desc:0 "自治领是一种升华帝国附属国类型，有义务每月向其升华的宗主国缴纳基本资源税。"
+ preset_fe_dominion_flavor_desc:0 "自治领是一个升华帝国的臣民。,随着强大的战舰越过他们的边界，他们已经服从于一个过分狂热的霸主的统治，这个霸主要求在名义上和精神上征服他们。"
+ preset_fe_satellite:0 "$preset_satellite$"
+ preset_fe_satellite_desc:0 "卫星是升华帝国主体类型，有义务向其升华霸主支付大量研究税。"
+ preset_fe_satellite_flavor_desc:0 "一颗卫星充当一个升华帝国的臣民。,在签署了将自治权交给外国势力之后，他们始终由他们的君主统治：每一个具有文化意义的小部分——无论是技术、艺术还是其他表达形式——都受到远方的仔细监管。"
+ preset_fe_signatory:0 "$preset_signatory$"
+ preset_fe_signatory_desc:0 "签署者是升华帝国附属国类型，没有来自其升华宗主的独立外交。"
+ preset_fe_signatory_flavor_desc:0 "签署者作为一个升华帝国的臣民。,尽管在遥远的地方受到统治，但他们在很多方面都可以独自处理自己的事务。,因为他们不受贡品或太多的规定，他们常常不清楚他们的君主的​​目标是什么。"
+ preset_fe_thrall:0 "$preset_thrall$"
+ preset_fe_thrall_desc:0 "奴隶是一种升华帝国附属国类型，有义务每月向其升华的宗主国缴纳基本资源税，并且没有能力扩大他们的边界。"
+ preset_fe_thrall_flavor_desc:0 “奴隶是一个崛起帝国的臣民。他们受到来自远方的严酷统治，他们向雄心勃勃的霸主支付大量财富，而霸主则利用他们封臣的财富来为他们自己的战争机器提供燃料。”
+ preset_fe_clan_member:0 "氏族成员"
+ preset_fe_clan_member_desc:0 "氏族成员是升华帝国臣民类型，有义务每月向升华霸主缴纳预付资源税。"
+ preset_fe_clan_member_flavor_desc:0 "一个氏族成员作为一个升华帝国的臣民，被认为是其氏族的一部分。,他们必须进贡并证明自己的价值，才能享受宗族成员身份带来的好处，并在需要时保卫宗族。"
+ preset_fe_demilitarized_state:0 "非军事化国家"
+ preset_fe_demilitarized_state_desc:1 "非军事化国家是一种升华帝国附属国类型，它必须放弃一些海军能力，并每月向升华霸主缴纳战略资源税。"
+ preset_fe_demilitarized_state_flavor_desc:0 "非军事化国家是一种主体，原则上同意削减其境内的武器，以换取和平和来自其霸主的保护。,或者，正如他们的霸主帝国可能会说的那样，有些武器在孩子们的手中实在是太危险了。"
+ preset_fe_puppet_state:0 "傀儡国"
+ preset_fe_puppet_state_desc:0 "傀儡国是一种升华帝国附属国类型，有义务每月向其升华霸主缴纳预付资源税。"
+ preset_fe_puppet_state_flavor_desc:0 "傀儡国首先是其崛起的帝国霸主的傀儡。,尽管表面上是独立外交，但他们必须屈服于宗主的心血来潮并做好事才能保持良好的风度。"
+ preset_fe_union_state:0 "联盟州"
+ preset_fe_union_state_desc:0 "联盟国家是一种升华帝国附属国类型，有义务每月向其升华的宗主国缴纳基本资源税。"
+ preset_fe_union_state_flavor_desc:0 "一个联盟国家是他们崛起的帝国霸主对未来的理想主义愿景的光辉典范，银河系最终将在他们的平等价值观下团结起来，无论是否愿意。"
+ preset_fe_satrapy:0 "总督府"
+ preset_fe_satrapy_desc:0 "Satrapies 是一种臣民类型，它每月缴纳基本资源税以向部落致敬。,他们还必须放弃一些海军能力。"
+ preset_fe_satrapy_flavor_desc:0 "总督是其宗主的臣民。,在屈服于一个崛起帝国的军事力量之后，他们被赋予了管理银河系区域的权利。,只要他们继续用船只和资源支持他们的霸主正在进行的征服，他们就只能处理自己的事情了。"
+ preset_fe_symbiote:0 "共生体"
+ preset_fe_symbiote_desc:0 "共生体是一种在外交上独立的主体，但每月缴纳基本资源税以向其宗主致敬。"
+ preset_fe_symbiote_flavor_desc:0 "共生体是提升的蜂群思维的主体，它寻求和平与共存以换取资源。"
+ preset_fe_auxiliary:0 "辅助单元"
+ preset_fe_auxiliary_desc:0 "辅助国是一种在外交上独立的附属国，但每月缴纳基本资源税以向其宗主国致敬。"
+ preset_fe_auxiliary_flavor_desc:0 "Auxiliary 是一个提升的机器帝国的主体，它承诺保护以换取资源。"
+ preset_banished_ascendancy:0 "被放逐的帝国"
+ preset_banished_ascendancy_desc:0 "被放逐的帝国曾经是银河系中的大国，被他们的一个对手打倒了。,他们受到一项特别严厉的条约的约束，以防止他们再次崛起。"
+ preset_banished_ascendancy_flavor_desc:0 "A Banished Ascendancy 曾经是一个处于文明顶峰的上升帝国，被他们的一个竞争对手打倒并最终被征服。,强加了苛刻的条款和条约，以确保他们永远无法重新掌权。"
  
- preset_original_empire_subject:0 “粮食”
- preset_original_empire_subject_desc:0 “Commissariats 是一种原始帝国臣民类型，有望为其古代霸主的驻军提供补给，并且必须在战争中加入他们的霸主。”
- preset_original_empire_subject_flavor_desc:0 “军需部是原始帝国的臣民。在很久以前，他们是原始帝国的边疆，为霸主的远征军提供缓冲区和补给路线。”
- preset_original_empire_special_subject:0 “特别行政区”
- preset_original_empire_special_subject_desc:0 “一个特别行政区实际上被认为是霸王帝国不可分割的一部分，必须加入他们的霸王战争。”
- preset_original_empire_special_subject_flavor_desc:0 “一个特别行政区，虽然在技术上是一个主体，但被认为是原始帝国不可分割的一部分，将在以后的未指定日期在政治上重新统一。”
+ preset_original_empire_subject:0 "粮食"
+ preset_original_empire_subject_desc:0 "Commissariats 是一种原始帝国臣民类型，需要为其古代霸主的驻军提供补给，并且必须在战争中加入他们的霸主。"
+ preset_original_empire_subject_flavor_desc:0 "Commissariat 是原始帝国的臣民。,在很久以前，它们作为原始帝国的边界，为霸主的远征军提供缓冲区和补给路线。"
+ preset_original_empire_special_subject:0 "特别行政区"
+ preset_original_empire_special_subject_desc:0 "特别行政区实际上被认为是霸主帝国不可分割的一部分，必须在战争中加入他们的霸主。"
+ preset_original_empire_special_subject_flavor_desc:0 "特别行政区虽然在技术上是一个主体，但被认为是原始帝国不可分割的一部分，将在以后的未指定日期在政治上重新统一。"
   
- casus_belli_cb_ascended_empire_claim:0 “$casus_belli_cb_claim$”
- casus_belli_cb_ascended_empire_claim_acquire_hint:0 “$casus_belli_cb_claim_acquire_hint$”
- casus_belli_cb_ascended_empire_subjugation:0 “$casus_belli_cb_subjugation$”
- casus_belli_cb_ascended_empire_subjugation_acquire_hint:0 “$casus_belli_cb_subjugation_acquire_hint$”
- casus_belli_cb_ascended_empire_humiliation:0 “$casus_belli_cb_humiliation$”
- casus_belli_cb_ascended_empire_humiliation_acquire_hint:0 “$casus_belli_cb_humiliation_acquire_hint$”
- casus_belli_cb_ascended_empire_ideology:0 “$casus_belli_cb_ideology$”
- casus_belli_cb_ascended_empire_ideology_acquire_hint:1 “$casus_belli_cb_ideology_acquire_hint$”
- casus_belli_cb_ascended_empire_despoliation:0 “$casus_belli_cb_despoliation$”
- casus_belli_cb_ascended_empire_colossus:0 “$casus_belli_cb_colossus$”
- casus_belli_cb_ascended_empire_stop_colossus:0 “$casus_belli_cb_stop_colossus$”
- casus_belli_cb_ascended_hunger:0 “$casus_belli_cb_hunger$”
- casus_belli_cb_ascended_empire_containment:0 “$casus_belli_cb_containment$”
- casus_belli_cb_banish_ascendancy:0 “放逐”
- casus_belli_cb_total_annihilation:0 “湮灭”
- casus_belli_cb_dismantle:0 “拆除”
- casus_belli_cb_ascended_empire_counterattack:0 “$casus_belli_cb_counterattack$”
- casus_belli_cb_ascended_empire_counterattack_acquire_hint:0 “$casus_belli_cb_counterattack_acquire_hint$”
+ casus_belli_cb_ascended_empire_claim:0 "$casus_belli_cb_claim$"
+ casus_belli_cb_ascended_empire_claim_acquire_hint:0 "$casus_belli_cb_claim_acquire_hint$"
+ casus_belli_cb_ascended_empire_subjugation:0 "$casus_belli_cb_subjugation$"
+ casus_belli_cb_ascended_empire_subjugation_acquire_hint:0 "$casus_belli_cb_subjugation_acquire_hint$"
+ casus_belli_cb_ascended_empire_humiliation:0 "$casus_belli_cb_humiliation$"
+ casus_belli_cb_ascended_empire_humiliation_acquire_hint:0 "$casus_belli_cb_humiliation_acquire_hint$"
+ casus_belli_cb_ascended_empire_ideology:0 "$casus_belli_cb_ideology$"
+ casus_belli_cb_ascended_empire_ideology_acquire_hint:1 "$casus_belli_cb_ideology_acquire_hint$"
+ casus_belli_cb_ascended_empire_despoliation:0 "$casus_belli_cb_despoliation$"
+ casus_belli_cb_ascended_empire_colossus:0 "$casus_belli_cb_colossus$"
+ casus_belli_cb_ascended_empire_stop_colossus:0 "$casus_belli_cb_stop_colossus$"
+ casus_belli_cb_ascended_hunger:0 "$casus_belli_cb_hunger$"
+ casus_belli_cb_ascended_empire_containment:0 "$casus_belli_cb_containment$"
+ casus_belli_cb_banish_ascendancy:0 "放逐"
+ casus_belli_cb_total_annihilation:0 "湮灭"
+ casus_belli_cb_dismantle:0 "拆除"
+ casus_belli_cb_ascended_empire_counterattack:0 "$casus_belli_cb_counterattack$"
+ casus_belli_cb_ascended_empire_counterattack_acquire_hint:0 "$casus_belli_cb_counterattack_acquire_hint$"
  casus_belli_cb_ascended_empire_renegade_containment:0 "$casus_belli_cb_renegade_containment$"
- casus_belli_cb_ascended_empire_renegade_containment_acquire_hint:0 “$casus_belli_cb_renegade_containment_acquire_hint$”
- casus_belli_cb_ascended_empire_end_threat_renegade_containment:0 “$casus_belli_cb_end_threat_renegade_containment$”
+ casus_belli_cb_ascended_empire_renegade_containment_acquire_hint:0 "$casus_belli_cb_renegade_containment_acquire_hint$"
+ casus_belli_cb_ascended_empire_end_threat_renegade_containment:0 "$casus_belli_cb_end_threat_renegade_containment$"
  casus_belli_cb_ascended_empire_megacorp_subjugate:0 "$casus_belli_cb_megacorp_subjugate$"
- casus_belli_cb_ascended_empire_megacorp_subjugate_acquire_hint:0 “$casus_belli_cb_megacorp_subjugate_acquire_hint$”
+ casus_belli_cb_ascended_empire_megacorp_subjugate_acquire_hint:0 "$casus_belli_cb_megacorp_subjugate_acquire_hint$"
  casus_belli_cb_ascended_empire_hostile_takeover:0 “$casus_belli_cb_hostile_takeover$”
  
- casus_belli_cb_ascended_empire_galatron:1 “$casus_belli_cb_galatron$”
+ casus_belli_cb_ascended_empire_galatron:1 "$casus_belli_cb_galatron$"
  casus_belli_cb_ascended_empire_expel_corp:0 "$casus_belli_cb_expel_corp$"
- casus_belli_cb_ascended_empire_steal_galatron:1 “$casus_belli_cb_steal_galatron$”
+ casus_belli_cb_ascended_empire_steal_galatron:1 "$casus_belli_cb_steal_galatron$"
  
- casus_belli_cb_ascended_empire_scion:0 “$casus_belli_cb_scion$”
+ casus_belli_cb_ascended_empire_scion:0 "$casus_belli_cb_scion$"
  
- casus_belli_cb_ascended_empire_trial_of_advancement:1 “$casus_belli_cb_trial_of_advancement$”
- casus_belli_cb_ascended_empire_galactic_empire:0 “$casus_belli_cb_galactic_empire$”
+ casus_belli_cb_ascended_empire_trial_of_advancement:1 "$casus_belli_cb_trial_of_advancement$"
+ casus_belli_cb_ascended_empire_galactic_empire:0 "$casus_belli_cb_galactic_empire$"
  
- casus_belli_cb_ascended_empire_fe_subjugation:0 “$casus_belli_cb_subjugation$”
+ casus_belli_cb_ascended_empire_fe_subjugation:0 "$casus_belli_cb_subjugation$"
  
- casus_belli_cb_original_empire_subjugation:0 “$casus_belli_cb_subjugation$”
- casus_belli_cb_original_empire_subjugation_acquire_hint:0 “$casus_belli_cb_subjugation_acquire_hint$”
+ casus_belli_cb_original_empire_subjugation:0 "$casus_belli_cb_subjugation$"
+ casus_belli_cb_original_empire_subjugation_acquire_hint:0 "$casus_belli_cb_subjugation_acquire_hint$"
   
- war_goal_wg_ascended_empire_domination:0 “统治”
- war_goal_wg_ascended_empire_domination_desc:0 “发动战争是为了统治银河系。”
- war_goal_wg_end_threat_ascended_empire:0 “结束威胁”
- war_goal_wg_end_threat_ascended_empire_desc:0 “发动战争是为了结束对银河文明的威胁。”
- war_goal_wg_ascended_empire_conquest:0 “征服”
- war_goal_wg_ascended_empire_conquest_desc:0 “战争是为了夺取宣称的敌方系统而发动的。使用这个战争目标来取得宣称会为每个被征服的系统减少§Y25%§!的§Y威胁§!。”
- war_goal_wg_ascended_empire_humiliation:0 “羞辱”
- war_goal_wg_ascended_empire_humiliation_desc:0 “战争是为了惩罚无礼。”
- war_goal_wg_ascended_empire_force_ideology:0 “强加意识形态”
- war_goal_wg_ascended_empire_force_ideology_desc:0 “发动战争是为了将自己的精神和政府形式强加给敌人。”
- war_goal_wg_ascended_empire_plunder:0 “掠夺”
- war_goal_wg_ascended_empire_plunder_desc:0 “战争是为了袭击和掠夺敌人而发动的。”
- war_goal_wg_ascended_empire_colossus:0 “全面战争”
- war_goal_wg_ascended_empire_colossus_desc:0 “极其强大的武器使我们能够将我们的意志强加于我们的对手。”
- war_goal_wg_ascended_empire_abduction:0 “绑架”
- war_goal_wg_ascended_empire_abduction_desc:0 “发动战争是为了夺取 Xenos 以确保其安全。也是为了他们种族的利益。”
- war_goal_wg_ascended_empire_end_threat_colossus:0 “$war_goal_wg_end_threat$”
- war_goal_wg_ascended_empire_end_threat_colossus_desc:0 “发动战争是为了结束我们的敌人使用他们的巨像的威胁。”
- war_goal_wg_ascended_empire_absorption:0 “吸收”
- war_goal_wg_ascended_empire_absorption_desc:0 “战争是为了彻底消灭敌人。”
- war_goal_wg_banish_ascendancy:0 “驱逐优越感”
- war_goal_wg_banish_ascendancy_desc:0 “发动战争是为了驱逐另一个升华帝国，消除他们对我们银河系的腐败影响。”
- war_goal_wg_total_annihilation:0 《全军覆没》
- war_goal_wg_total_annihilation_desc:0 “对敌人发动了一场歼灭战，以消灭他们存在的所有痕迹，以及他们的权力基础。”
- war_goal_wg_dismantle_ascendancy:0 “拆除优势”
- war_goal_wg_dismantle_ascendancy_desc:0 “发动战争是为了摧毁失落帝国的遗产。”
+ war_goal_wg_ascended_empire_domination:0 "统治"
+ war_goal_wg_ascended_empire_domination_desc:0 "发动战争是为了统治银河系。"
+ war_goal_wg_end_threat_ascended_empire:0 "结束威胁"
+ war_goal_wg_end_threat_ascended_empire_desc:0 "发动战争是为了结束对银河文明的威胁。"
+ war_goal_wg_ascended_empire_conquest:0 "征服"
+ war_goal_wg_ascended_empire_conquest_desc:0 "发动战争是为了夺取声称的敌人系统。,使用此战争目标取得宣称会产生 §Y25%§!,少§Y威胁§！,对于每个被征服的系统。"
+ war_goal_wg_ascended_empire_humiliation:0 "羞辱"
+ war_goal_wg_ascended_empire_humiliation_desc:0 "战争是为了惩罚无礼的行为。"
+ war_goal_wg_ascended_empire_force_ideology:0 "强加意识形态"
+ war_goal_wg_ascended_empire_force_ideology_desc:0 "发动战争是为了将自己的精神和政府形式强加于敌人。"
+ war_goal_wg_ascended_empire_plunder:0 "掠夺"
+ war_goal_wg_ascended_empire_plunder_desc:0 "发动战争是为了袭击和掠夺敌人。"
+ war_goal_wg_ascended_empire_colossus:0 "全面战争"
+ war_goal_wg_ascended_empire_colossus_desc:0 "极其强大的武器使我们能够将我们的意志强加给我们的对手。"
+ war_goal_wg_ascended_empire_abduction:0 "绑架"
+ war_goal_wg_ascended_empire_abduction_desc:0 "发动战争以夺取 Xenos 进行安全保管。,为了他们的物种自身的利益。"
+ war_goal_wg_ascended_empire_end_threat_colossus:0 "$war_goal_wg_end_threat$"
+ war_goal_wg_ascended_empire_end_threat_colossus_desc:0 "发动战争是为了结束我们的敌人使用他们的巨像的威胁。"
+ war_goal_wg_ascended_empire_absorption:0 "吸收"
+ war_goal_wg_ascended_empire_absorption_desc:0 "发动战争是为了彻底消灭敌人。"
+ war_goal_wg_banish_ascendancy:0 "放逐优势"
+ war_goal_wg_banish_ascendancy_desc:0 "发动战争是为了驱逐另一个升华帝国，消除他们对我们银河系的腐败影响。"
+ war_goal_wg_total_annihilation:0 "横扫千军"
+ war_goal_wg_total_annihilation_desc:0 "对敌人发动了一场歼灭战，以消灭他们存在的所有痕迹和他们的权力基础。"
+ war_goal_wg_dismantle_ascendancy:0 "拆除优势"
+ war_goal_wg_dismantle_ascendancy_desc:0 "发动战争是为了摧毁失落帝国的遗产。"
  
- war_goal_wg_ascended_empire_counterattack:0 “$war_goal_wg_counterattack$”
- war_goal_wg_ascended_empire_counterattack_desc:0 “$war_goal_wg_counterattack_desc$”
- war_goal_wg_ascended_empire_counterattack_acquire_hint:0 “$war_goal_wg_counterattack_acquire_hint$”
- war_goal_wg_ascended_empire_renegade_containment:0 “$war_goal_wg_renegade_containment$”
- war_goal_wg_ascended_empire_renegade_containment_desc:0 “$war_goal_wg_renegade_containment_desc$”
- war_goal_wg_ascended_empire_renegade_containment_acquire_hint:0 “$war_goal_wg_renegade_containment_acquire_hint$”
- war_goal_wg_ascended_empire_end_threat_renegade_containment:0 “$war_goal_wg_end_threat_renegade_containment$”
- war_goal_wg_ascended_empire_end_threat_renegade_containment_desc:0 “$war_goal_wg_end_threat_renegade_containment_desc$”
- war_goal_wg_ascended_empire_megacorp_subjugate:0 “$war_goal_wg_megacorp_subjugate$”
- war_goal_wg_ascended_empire_megacorp_subjugate_desc:0 “$war_goal_wg_megacorp_subjugate_desc$”
- war_goal_wg_ascended_empire_megacorp_subjugate_acquire_hint:0 “$casus_belli_cb_megacorp_subjugate_acquire_hint$”
- war_goal_wg_ascended_empire_hostile_takeover:0 “$war_goal_wg_hostile_takeover$”
- war_goal_wg_ascended_empire_hostile_takeover_desc:0 “$war_goal_wg_hostile_takeover_desc$”
- war_goal_wg_ascended_empire_take_galatron:0 “$war_goal_wg_take_galatron$”
- war_goal_wg_ascended_empire_take_galatron_desc:0 “$war_goal_wg_take_galatron_desc$”
- war_goal_wg_ascended_empire_expel_corp:0 “$war_goal_wg_expel_corp$”
- war_goal_wg_ascended_empire_expel_corp_desc:0 “$war_goal_wg_expel_corp_desc$”
- wg_ascended_empire_expel_corp_status_quo_effects:0 “$wg_expel_corp_status_quo_effects$”
- wg_ascended_empire_expel_corp_effects:1 “$wg_expel_corp_effects$”
- wg_ascended_empire_seize_branch_office_effects:0 “$wg_seize_branch_office_effects$”
- war_goal_wg_ascended_empire_steal_galatron:0 “$war_goal_wg_steal_galatron$”
- war_goal_wg_ascended_empire_steal_galatron_desc:0 “$war_goal_wg_steal_galatron_desc$”
+ war_goal_wg_ascended_empire_counterattack:0 "$war_goal_wg_counterattack$"
+ war_goal_wg_ascended_empire_counterattack_desc:0 "$war_goal_wg_counterattack_desc$"
+ war_goal_wg_ascended_empire_counterattack_acquire_hint:0 "$war_goal_wg_counterattack_acquire_hint$"
+ war_goal_wg_ascended_empire_renegade_containment:0 "$war_goal_wg_renegade_containment$"
+ war_goal_wg_ascended_empire_renegade_containment_desc:0 "$war_goal_wg_renegade_containment_desc$"
+ war_goal_wg_ascended_empire_renegade_containment_acquire_hint:0 "$war_goal_wg_renegade_containment_acquire_hint$"
+ war_goal_wg_ascended_empire_end_threat_renegade_containment:0 "$war_goal_wg_end_threat_renegade_containment$"
+ war_goal_wg_ascended_empire_end_threat_renegade_containment_desc:0 "$war_goal_wg_end_threat_renegade_containment_desc$"
+ war_goal_wg_ascended_empire_megacorp_subjugate:0 "$war_goal_wg_megacorp_subjugate$"
+ war_goal_wg_ascended_empire_megacorp_subjugate_desc:0 "$war_goal_wg_megacorp_subjugate_desc$"
+ war_goal_wg_ascended_empire_megacorp_subjugate_acquire_hint:0 "$casus_belli_cb_megacorp_subjugate_acquire_hint$"
+ war_goal_wg_ascended_empire_hostile_takeover:0 "$war_goal_wg_hostile_takeover$"
+ war_goal_wg_ascended_empire_hostile_takeover_desc:0 "$war_goal_wg_hostile_takeover_desc$"
+ war_goal_wg_ascended_empire_take_galatron:0 "$war_goal_wg_take_galatron$"
+ war_goal_wg_ascended_empire_take_galatron_desc:0 "$war_goal_wg_take_galatron_desc$"
+ war_goal_wg_ascended_empire_expel_corp:0 "$war_goal_wg_expel_corp$"
+ war_goal_wg_ascended_empire_expel_corp_desc:0 "$war_goal_wg_expel_corp_desc$"
+ wg_ascended_empire_expel_corp_status_quo_effects:0 "$wg_expel_corp_status_quo_effects$"
+ wg_ascended_empire_expel_corp_effects:1 "$wg_expel_corp_effects$"
+ wg_ascended_empire_seize_branch_office_effects:0 "$wg_seize_branch_office_effects$"
+ war_goal_wg_ascended_empire_steal_galatron:0 "$war_goal_wg_steal_galatron$"
+ war_goal_wg_ascended_empire_steal_galatron_desc:0 "$war_goal_wg_steal_galatron_desc$"
  
- war_goal_wg_ascended_empire_scion:0 “$war_goal_wg_scion$”
- war_goal_wg_ascended_empire_scion_desc:0 “$war_goal_wg_scion_desc$”
+ war_goal_wg_ascended_empire_scion:0 "$war_goal_wg_scion$"
+ war_goal_wg_ascended_empire_scion_desc:0 "$war_goal_wg_scion_desc$"
  
- war_goal_wg_fe_subjugation:0 “$war_goal_wg_subjugation$”
- war_goal_wg_fe_subjugation_desc:0 “为了征服一个堕落的帝国而进行着激烈的战争。”
- war_goal_wg_ascended_empire_tribute:0 “$war_goal_wg_tribute$”
- war_goal_wg_ascended_empire_tribute_desc:0 “$war_goal_wg_tribute_desc$”
+ war_goal_wg_fe_subjugation:0 "$war_goal_wg_subjugation$"
+ war_goal_wg_fe_subjugation_desc:0 "战争肆虐以征服堕落的帝国。"
+ war_goal_wg_ascended_empire_tribute:0 "$war_goal_wg_tribute$"
+ war_goal_wg_ascended_empire_tribute_desc:0 "$war_goal_wg_tribute_desc$"
  
- war_goal_wg_original_empire_domination:0 “$war_goal_wg_ascended_empire_domination$”
- war_goal_wg_original_empire_domination_desc:0 “$war_goal_wg_ascended_empire_domination$”
+ war_goal_wg_original_empire_domination:0 "$war_goal_wg_ascended_empire_domination$"
+ war_goal_wg_original_empire_domination_desc:0 "$war_goal_wg_ascended_empire_domination$"
  
- NAME_ORIGINAL_EMPIRE_SUBJUGATION:0 《原始帝国的服从战争》
+ NAME_ORIGINAL_EMPIRE_SUBJUGATION:0 "原始帝国的服从战争"
 
  
  
