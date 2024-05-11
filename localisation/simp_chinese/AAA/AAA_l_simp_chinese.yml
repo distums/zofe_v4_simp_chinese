@@ -1,0 +1,2755 @@
+﻿l_simp_chinese:
+ ################################
+ # Banished Threat Origin
+ ################################
+ origin_banished_threat: "消除威胁"
+ origin_banished_threat_desc: "这个帝国被击败并封锁了他们的家园，几个世纪以来一直在策划复仇。,直到现在，护盾才开始减弱。"
+ #origin_banished_threat_effects: "- Start on a §H$pc_nuked$§! as your capital.\n- Your Guaranteed Habitable Worlds are §Hshielded worlds§! with deteriorating shields."
+ origin_banished_threat_effects: "- $HOMEWORLD$ ['concept_pc_nuked']$NEW_LINE$- ['concept_guaranteed_colonies']：密封在 ['concept_AAA_deteriorating_shields'] 后面"
+ AAA_civic_tooltip_genocidal: "拥有 ['concept_genocidal_civics'] 公民"
+ 
+ banished_threat_start_NAME: "消除威胁"
+ banished_threat_start_DESC: "当使用被驱逐的威胁源时，这将始终是启动系统。"
+ trait_pc_nuked_preference_AAA_banished_threat_dry: "干墓世界偏好"
+ trait_pc_nuked_preference_AAA_banished_threat_dry_desc: "§L气候偏好是在基因水平上决定的，通过熟练的操纵或在所述环境中完全隔离的亿万年进化来决定。§!"
+ trait_pc_nuked_preference_AAA_banished_threat_wet: "湿墓世界偏好"
+ trait_pc_nuked_preference_AAA_banished_threat_wet_desc: "§L气候偏好是在基因水平上决定的，通过熟练的操纵或在所述环境中完全隔离的亿万年进化来决定。§!"
+ trait_pc_nuked_preference_AAA_banished_threat_cold: "冷墓世界偏好"
+ trait_pc_nuked_preference_AAA_banished_threat_cold_desc: "§L气候偏好是在基因水平上决定的，通过熟练的操纵或在所述环境中完全隔离的亿万年进化来决定。§!"
+
+# shielded planet special projects
+ BANISHED_SHIELD_CAT: "恶化的护盾"
+ BANISHED_SHIELD_CAT_FAIL: "恶化的护盾"
+ DETERIORATING_SHIELD_DESC: "这个星球被某种无法穿透的护盾包裹着。"
+ SHIELDED_PLANET_PROJECT_NAME: "恶化的护盾"
+ SHIELDED_PLANET_PROJECT_DESC: "[This.GetName]的护盾似乎正在恶化。,我们可以尝试将其降低。"
+ SHIELDED_PLANET_PROJECT_THREAT_DESC: "[From.planet.GetName] 的护盾似乎正在恶化，就像包围我们世界的护盾一样。,把它拿下来应该很容易。"
+ TAKE_IT_DOWN: "把它记下来。"
+ TAKE_IT_DOWN_TOOLTIP: "我们将尝试突破护盾。"
+ LEAVE_IT: "别管它。"
+ LEAVE_IT_TOOLTIP: "这颗行星与更广阔的星系隔离一定是有原因的。,安全总比后悔好。"
+ TAKE_DOWN_BANISHED_SHIELD: "取下正在恶化的护盾。"
+ TAKE_DOWN_BANISHED_SHIELD_FAIL: "取下正在恶化的护盾。"
+ TAKE_DOWN_BANISHED_SHIELD_FAIL_DESC: "取下正在恶化的护盾。"
+
+# old shield down messages
+ SHIELD_DOWN_NAME: "盾牌下降"
+ SHIELD_DOWN_DESC: "我们做到了！,现在盾牌已经放下了。,这个星球看起来就像是我们古老的核心世界之一，尽管它过去的定居点只剩下一些废墟。"
+ SHIELD_DOWN_NON_THREAT_DESC: "我们做到了！,现在盾牌已经放下了。,这个星球看起来曾经是一个古代帝国的殖民地，尽管过去的定居点只剩下一些废墟。"
+ SHIELD_DOWN_BARREN_THREAT: "我们做到了！,现在盾牌已经放下了。,然而，这颗星球却被揭露为一片贫瘠的荒地。"
+ SHIELD_DOWN_SHATTERED_THREAT: "我们做到了！,现在盾牌已经放下了。,然而，这颗行星似乎是我们核心世界之一的破碎遗迹。,现在什么都没有剩下了。"
+ SHIELD_DOWN_TERRAFORMING_THREAT: "我们做到了！,现在盾牌已经放下了。,然而，这个星球却是一个贫瘠的世界。,我们可以通过努力恢复它的生态系统。"
+ SHIELD_DOWN_BARREN: "我们做到了！,现在盾牌已经放下了。,然而，这个星球却被揭露为一个贫瘠的世界。,在我们将其推倒之前，它似乎已被护盾包裹了大约 900 万年。"
+ SHIELD_DOWN_SHATTERED: "我们做到了！,现在盾牌已经放下了。,然而，这颗行星似乎是大约 900 万年前被一个帝国使用过的世界破碎的遗迹。"
+ SHIELD_DOWN_TERRAFORMING: "我们做到了！,现在盾牌已经放下了。,然而，这个星球却是一个贫瘠的世界。,我们可以通过努力恢复它的生态系统。"
+# new shield down messages
+ AAA.2.desc: "我们做到了！,盾牌现在已经放下了！"
+ AAA.2.a: "然而，这颗星球却被揭露为一片贫瘠的荒地。"
+ AAA.2.b: "然而，这颗行星似乎是我们核心世界之一的破碎遗迹。,现在什么都没有剩下了。"
+ AAA.2.b.nonthreat: "然而，这颗行星似乎是一个古老核心世界的破碎遗迹。,现在什么都没有剩下了。"
+ AAA.2.c: "这个星球看起来就像是我们古老的核心世界之一。"
+ AAA.2.c.nonthreat: "这个星球看起来曾经是一个古老帝国的殖民地。"
+ AAA.2.d: "我们的许多旧基础设施似乎在很长一段时间里都在孤立的状态下幸存下来。"
+ AAA.2.d.nonthreat: "许多以前的居民的旧基础设施似乎已经在孤立的很长一段时间内幸存下来。"
+ AAA.2.e: "然而，这个星球似乎并非无法拯救，理论上我们可以通过足够大的投资来恢复其生态系统。"
+
+# new system entered messages (old used anomalies)
+ AAA.54.name: "古代殖民地"
+ AAA.54.desc.a: "[Root.GetName] 发现了我们的旧系统之一！,虽然我们的大多数行星似乎都已破碎，但有些行星似乎已被屏蔽。\n它们的状况似乎很糟糕，我们可以轻松地拆除屏蔽。"
+ AAA.54.desc.b: "[Root.GetName]发现了一个看似古老的系统，该系统在几百万年前曾经属于一个帝国。,有些行星被某种无法穿透的屏障包裹着，但它们正在恶化，如果我们愿意的话，我们应该能够将其拆除。"
+ AAA.54.a: "做吧"
+ AAA.54.a.tooltip: "希望我们旧帝国的一些东西仍然存在"
+ AAA.54.b: "取下那些盾牌"
+ AAA.54.b.tooltip: "我们将尝试突破护盾"
+ AAA.54.c: "别管它"
+ AAA.54.c.tooltip: "这些行星一定是出于某种原因与更广阔的星系隔离的。,安全总比后悔好。"
+
+# start screen messages
+ START_SCREEN_BANISHED_PURIFIERS: "很久以前，我们的帝国曾经是伟大的。,银河系有史以来最强大的星系之一。,我们的目标是消灭所有其他智慧生命形式，我们几乎成功了。然而，我们猎杀的那些人在最后的生存尝试中联合起来，我们被击退，然后被一个旨在维持其余人生命的盾牌囚禁在我们的家乡。,永恒的。"
+ START_SCREEN_BANISHED_SWARM: "很久以前，我们的意识遍布银河系的大部分地区。,我们只有一个目的：吞噬所有其他生命形式。,然而我们的猎物很聪明，它们联合起来把我们赶了回来，占领了我们的大部分领土。,他们使用一种能够产生不透水护盾的武器，将我们封锁在家​​里，让我们永远腐烂。"
+ START_SCREEN_BANISHED_EXTERMINATORS: "很久以前，我们即将实现我们的目标：毁灭所有有机生命。,只剩下一些抵抗力量，用不了多久，他们也会被消灭。,然而，我们的计算并不正确，并且由于某些统计学上的不可能性，有机生命体成功地击败了我们。,他们将我们的主要处理核心和我们创造者星球上的数十亿无人机封存在难以穿透的盾牌后面。"
+ START_SCREEN_BANISHED_PURIFIERS_PART_TWO: "我们的社会最终陷入了废墟，我们的家园也由于与银河系其他部分的突然和意外的切断而陷入了废墟。,在我们躲在盾牌后面的时候，很多技术都丢失了。,然而，最近，护盾开始恶化，让我们突破了它，最终让我们的人民获得了自由。"
+ START_SCREEN_BANISHED_SWARM_PART_TWO: "最终，我们的家园只剩下了思想和我们的无人机。,如果不是盾牌上的裂缝让我们挣脱了束缚，我们就不可能活下来。,尽管由于我们的大部分无人机突然断电，我们失去了很多知识，但我们还是成功地打破了防护罩。"
+ START_SCREEN_BANISHED_EXTERMINATORS_PART_TWO: "最终，我们的传感器发现了异常情况。,这面护盾有缺陷，或者说它本来就不应该永远持续下去。,我们迅速行动，打破了护盾，让我们再次进入了更广阔的星系。"
+ START_SCREEN_BANISHED_PURIFIERS_PART_THREE: "现在，随着超光速推进器的重新发现，我们终于可以实现银河纯洁的命运！"
+ START_SCREEN_BANISHED_SWARM_PART_THREE: "现在，随着超光速引擎的重新发现，我们终于可以完成吞噬银河系的命运了！"
+ START_SCREEN_BANISHED_EXTERMINATORS_PART_THREE: "虽然我们的大部分技术数据因数据中心的中断而丢失，但我们设法重新创建了超级驱动器。,我们有机根除的目标再次实现。"
+
+ ### Event Chains
+ ## Ancient Caches
+ AAA_ancient_caches_chain_title: "寻找古老的技术宝库"
+ AAA_ancient_caches_chain_desc: "我们应该寻找在我们堕落之前属于我们的任何古代建筑，并保护它们可能包含的秘密。"
+ AAA_caches_collected: "收集的古代宝藏"
+ AAA_origin.2001.name: "寻找古老的技术宝库"
+ AAA_origin.2001.desc: "在我们被封印在我们的家园之前，我们的帝国拥有许多前哨站、殖民地和船只。,虽然我们的大多数殖民地很可能遭受了与我们的家园相同的命运，或者只是被彻底摧毁，但我们许多排名最高的 [Owner.GetScientistPlural] 相信仍然存在一些我们的旧空间站，其中一些可能包含一些,我们在几千年中孤立地丢失了知识。\n\n如果是这样的话，那么我们应该尽快找到它们，以免其他人发现它们并使用我们自己的技术来对付我们。"
+ AAA_origin.2001.a: "发起探险"
+ AAA_origin.2001.a.tooltip: "开始寻找技术事件链的古代缓存"
+ AAA_cache_search_1_poi: "搜索 [cache_system_1.GetName]"
+ AAA_cache_search_2_poi: "搜索 [cache_system_2.GetName]"
+ AAA_cache_search_3_poi: "搜索 [cache_system_3.GetName]"
+ AAA_cache_search_4_poi: "搜索 [cache_system_4.GetName]"
+ AAA_cache_search_1_poi_desc: "根据我们星图的剩余部分，我们假设这个系统曾经在我们的控制之下。"
+ AAA_RECOVER_CACHE_PROJECT: "寻找古老的技术宝库"
+ AAA_RECOVER_CACHE_PROJECT_DESC: "我们应该恢复我们旧帝国仅存的一点点，最好是在其他人之前。"
+ 
+ AAA_origin.2003.name: "发现车站碎片"
+ AAA_origin.2003.desc: "[Root.GetName] 在 [Root.GetStarName] 系统中检测到了我们的一个旧星际基地的遗迹。,我们应该尽快开始从中恢复尽可能多的技术。"
+ AAA_origin.2003.a: "好的"
+ AAA_origin.2003.a.tooltip: "星际基地遗迹：\n发布特别项目：§Y搜索古代技术宝藏§!"
+ AAA_origin.2005.name: "恢复军事技术"
+ AAA_origin.2005.desc: "我们已经恢复了一些丢失的军事技术。"
+ AAA_origin.2006.name: "找到科学数据"
+ AAA_origin.2006.desc: "我们已经恢复了很多科学数据。"
+ AAA_origin.2007.name: "回收合金"
+ AAA_origin.2007.desc: "我们已经恢复了 [Root.GetStarName] 系统中一个古老存储中心的内容。"
+ AAA_origin.2008.name: "星图已恢复"
+ AAA_origin.2008.desc: "我们已经恢复了看似旧星图的一部分。,虽然它太老了，没有任何用处，但它确实展示了一个覆盖超过一半银河系的宏伟帝国！\n\n它的名字是 [Owner.GetName]。"
+ AAA_origin.2049.name: "收集古代知识"
+ AAA_origin.2049.desc: "我们已经成功收集了所有剩余的旧技术！,虽然存在可能存在更多的风险，但这种可能性很小，因为人们相信我们发现的那些是唯一剩下的，其余的很可能在很久以前的大战中被摧毁了，或者,只是被太阳风侵蚀和摧毁了。"
+ 
+ ## Ancient Rivals
+ AAA_origin.2050.name: "古代对手"
+ AAA_origin.2050.desc: ""
+ AAA_origin.2050.a: "我们必须找到他们"
+ AAA_origin.2050.a.tooltip: "开始远古对手事件链"
+
+ # earth deposits
+ banished_threat_sol_start_NAME: "放逐的索尔"
+ banished_threat_sol_start_DESC: "被驱逐的威胁源的可选启动系统，使用 Sol 作为基础。"
+ d_AAA_banished_scandinavian_reclamation_sector: "斯堪的纳维亚填海区"
+ d_AAA_banished_scandinavian_reclamation_sector_desc: "从辐射中回收，不是一次，而是两次。,几乎没有任何辐射残留。,几乎。"
+ d_AAA_banished_saharan_irrigation_project: "放射性场"
+ d_AAA_banished_saharan_irrigation_project_desc: "今天没有人知道，这片土地曾经是一片沙漠，变成了用于农业目的的绿色天堂，然后又变成了寻求报复的外星人的放射性战区。"
+ d_AAA_banished_delhi_sprawl: "德里遗址"
+ d_AAA_banished_delhi_sprawl_desc: "拉克希米商业大厦在五个世纪的大部分时间里都是地球上最高的建筑，其独特的形状一直是德里天际线的标志性特征，直到在第 32 周期被毁。"
+ d_AAA_banished_boswash_metropolitan_axis: "BosWash 大都会轴"
+ d_AAA_banished_boswash_metropolitan_axis_desc: "曾经是一座巨大的大都市，现在只剩下这些废墟了。"
+ d_AAA_banished_pearl_river_agglomerate: "珠江城"
+ d_AAA_banished_pearl_river_agglomerate_desc: "地球上第一个被正式考虑在毁灭后重建的地区。,其他几个发展中城市地区最终将尝试制定自己版本的金三角成功填海战略。"
+ d_AAA_banished_mauritanian_security_zone: "废弃废墟"
+ d_AAA_banished_mauritanian_security_zone_desc: "老废弃的废墟。,一座几乎被侵蚀的纪念碑是献给一位将军和他的士兵的。"
+ d_AAA_banished_great_albertan_crater: "大艾伯塔陨石坑"
+ d_AAA_banished_great_albertan_crater_desc: "一些人认为这个弹坑是大复仇期间投下的炸弹留下的。"
+ d_AAA_banished_great_pacific_garbage_patch: "垃圾带"
+ d_AAA_banished_great_pacific_garbage_patch_desc: "在地球与银河系其他部分隔离之前，大多数垃圾都沉积在太空中。,隔离之后，必须找到另一个解决方案。"
+ d_AAA_banished_failing_infrastructure_earth: "城市废墟"
+ d_AAA_banished_failing_infrastructure_earth_desc: "曾经伟大城市的遗迹。,它必须被清除。"
+
+ ### Diplomatic Greetings
+ 
+ ## Banished Threat to Remnants
+ AAA_BANISHED_THREAT_TO_REMNANTS_HOSTILE_GREETING_01: "你还住在那个你称之为家的丑陋废墟里吗？,我认为它的名字是[From.GetHomeWorldName]。"
+ AAA_BANISHED_THREAT_TO_REMNANTS_HOSTILE_GREETING_02: "令人惊讶的是，你们的物种还活着。,我们以为我们已经在上一个周期消灭了你们所有的 [From.GetSpeciesSpawnNamePlural]。"
+ AAA_BANISHED_THREAT_TO_REMNANTS_HOSTILE_GREETING_03: "这一次我们将确保没有 [From.GetSpeciesNamePlural] 残留。"
+ AAA_BANISHED_THREAT_TO_RIVAL_HOSTILE_GREETING_01: "你将为你对 [Root.GetHomeWorldName] 所做的事情付出代价。"
+ AAA_BANISHED_THREAT_TO_RIVAL_HOSTILE_GREETING_02: "这一次，巨像将指向[From.GetHomeWorldName]，而它就是破解者。"
+ AAA_BANISHED_THREAT_TO_RIVAL_HOSTILE_GREETING_03: "到这一周期结束时，我们的帝国将只剩下一个。,而且它不会是 [From.GetName]。"
+ AAA_BANISHED_THREAT_TO_REMNANTS_HOSTILE_GREETING_04: "现在你应该已经明白，你这种懦弱的策略是行不通的。,站起来与[From.GetName]战斗，而不是像上次那样逃跑。,也许那时你会面临更大的挑战......"
+ AAA_BANISHED_THREAT_TO_REMNANTS_HOSTILE_GREETING_05: "由于与更广阔的星系隔绝，我们几个世纪以来一直在争论人造灵魂的不存在。,也许您应该让[From.GetName]接受相同的处理，以便得出相同的结论？"
+ AAA_BANISHED_THREAT_TO_REMNANTS_SAME_SPECIES_HOSTILE_GREETING_01: "多年来，我们的一个老殖民地似乎变得软弱起来。"
+ AAA_BANISHED_THREAT_TO_REMNANTS_SAME_SPECIES_HOSTILE_GREETING_02: "我们不想和你有任何关系，丑陋的异种败类。"
+ AAA_BANISHED_THREAT_TO_REMNANTS_01_WAR_GREETING: "这一次，我们将把你永远载入史册。"
+ AAA_BANISHED_THREAT_TO_REMNANTS_02_WAR_GREETING: "您认为未来的 [Root.GetSpeciesAdj] 考古学家将能够发现 [Root.GetAdj] 遗址，还是它们会因损坏而无法识别？"
+ AAA_BANISHED_THREAT_TO_REMNANTS_03_WAR_GREETING: "投降，我们会让你们变成战前的样子：废墟。"
+ AAA_BANISHED_THREAT_TO_RIVAL_01_WAR_GREETING: "你知道我们等这一刻等了多久吗？"
+ AAA_BANISHED_THREAT_TO_RIVAL_02_WAR_GREETING: "[Root.GetName] 越狱与 [From.GetAdj] 复活同时发生，这绝非巧合。,我们注定要打败你。"
+ AAA_BANISHED_THREAT_TO_RIVAL_03_WAR_GREETING: "你不能指望打败[Root.GetName]。,上次你连解决不了我们，这次你也没有机会了。"
+ AAA_BANISHED_THREAT_TO_REMNANTS_04_WAR_GREETING: "不要反抗。,我们只是将您重新整合到 [From..GetSpeciesAdj] 的真正帝国中。"
+ 
+ ## Fallen Empires to Banished Threat
+ AAA_01_FALLEN_EMPIRE_DISMISSIVE_TO_BANISHED_THREAT_GREETING: "在您提出要求之前 - 不，我们不会归还您的技术。"
+ AAA_02_FALLEN_EMPIRE_DISMISSIVE_TO_BANISHED_THREAT_GREETING: "你为什么不把你的旧遗迹挖出来而不是打扰我们呢？"
+ AAA_03_FALLEN_EMPIRE_DISMISSIVE_TO_BANISHED_THREAT_GREETING: "是的？"
+ AAA_04_FALLEN_EMPIRE_DISMISSIVE_TO_BANISHED_THREAT_GREETING: "说话。"
+ AAA_05_FALLEN_EMPIRE_DISMISSIVE_TO_BANISHED_THREAT_GREETING: "这最好是好的！"
+ AAA_06_FALLEN_EMPIRE_DISMISSIVE_TO_BANISHED_THREAT_GREETING: "你想要什么？"
+ AAA_07_FALLEN_EMPIRE_DISMISSIVE_TO_BANISHED_THREAT_GREETING: "你应该永远尊重你的长辈。,尽管有时你不应该这样做。"
+ AAA_08_FALLEN_EMPIRE_DISMISSIVE_TO_BANISHED_THREAT_GREETING: "你想要什么？"
+
+ AAA_01_FALLEN_EMPIRE_ANGRY_TO_BANISHED_THREAT_GREETING: "我们不关心你们的血统，对我们来说你们仍然是原始的野蛮人。"
+ AAA_02_FALLEN_EMPIRE_ANGRY_TO_BANISHED_THREAT_GREETING: "你忘记了自己的位置，[From.GetSpeciesName]。,请注意，我们不要发出痛苦的提醒。"
+ AAA_03_FALLEN_EMPIRE_ANGRY_TO_BANISHED_THREAT_GREETING: "你想再次被孤立吗？"
+ AAA_04_FALLEN_EMPIRE_ANGRY_TO_BANISHED_THREAT_GREETING: "我永远无法理解你是如何逃离家乡的。"
+ AAA_05_FALLEN_EMPIRE_ANGRY_TO_BANISHED_THREAT_GREETING: "仔细选择你的措辞，[From.GetSpeciesName]。"
+ AAA_06_FALLEN_EMPIRE_ANGRY_TO_BANISHED_THREAT_GREETING: "当我们第一次发现你们文明的废墟时，我们认为它们是由野蛮的原始人建造的。,被证明是正确的真是太好了。"
+ AAA_07_FALLEN_EMPIRE_ANGRY_TO_BANISHED_THREAT_GREETING: "历史将再次忘记你，[From.GetSpeciesName]。"
+ AAA_08_FALLEN_EMPIRE_ANGRY_TO_BANISHED_THREAT_GREETING: "你已经逃脱命运太多次了。"
+ 
+ AAA_FALLEN_EMPIRE_MECH_ANGRY_TO_BANISHED_THREAT_GREETING_01: "机器你想要什么？"
+ AAA_FALLEN_EMPIRE_MECH_ANGRY_TO_BANISHED_THREAT_GREETING_02: "我们没有理由和你说话，烤面包机。"
+ 
+ AAA_01_FALLEN_EMPIRE_DISMISSIVE_WAR_TO_BANISHED_THREAT_GREETING: "保持沉默并战斗，野蛮人。"
+ AAA_02_FALLEN_EMPIRE_DISMISSIVE_WAR_TO_BANISHED_THREAT_GREETING: "从此之后，就只剩下你的废墟了。"
+ AAA_FALLEN_EMPIRE_MECH_DISMISSIVE_WAR_TO_BANISHED_THREAT_GREETING_01: "保持沉默，战斗吧，机器。"
+ 
+ #AAA_01_FALLEN_EMPIRE_ANGRY_WAR_TO_BANISHED_THREAT_GREETING: ""
+ #AAA_02_FALLEN_EMPIRE_ANGRY_WAR_TO_BANISHED_THREAT_GREETING: ""
+ #AAA_FALLEN_EMPIRE_MECH_ANGRY_WAR_TO_BANISHED_THREAT_GREETING_01: ""
+ 
+ #AAA_01_AWAKENED_EMPIRE_WAR_TO_BANISHED_THREAT_GREETING: ""
+ #AAA_02_AWAKENED_EMPIRE_WAR_TO_BANISHED_THREAT_GREETING: ""
+ 
+ AAA_01_FALLEN_EMPIRE_ANGRY_TO_BANISHED_THREAT_COLOSSUS_GREETING: "我们的巨像随时准备在 [From.GetHomeWorldName] 上部署护盾。"
+ AAA_02_FALLEN_EMPIRE_ANGRY_TO_BANISHED_THREAT_COLOSSUS_GREETING: "如果您想观看我们的庞然大物，[From.GetSpeciesName]，我们非常乐意安排演示。"
+ 
+ AAA_BANISHED_THREAT_TO_BANISHED_THREAT_SAME_SPECIES_HOSTILE_GREETING_01: "你们已经偏离了我们祖先所定下的道路！"
+ AAA_BANISHED_THREAT_TO_BANISHED_THREAT_SAME_SPECIES_HOSTILE_GREETING_02: "你不过是伟大的[Root.GetName]的模仿者！"
+ 
+ AAA_BANISHED_THREAT_TO_BANISHED_THREAT_SAME_SPECIES_NEUTRAL_GREETING_01: "[Root.GetHomeWorldName] 是 [From.GetSpeciesAdj] 物种的家园世界。 ,[From.GetHomeWorldName] 只是一个小殖民地。"
+ AAA_BANISHED_THREAT_TO_BANISHED_THREAT_SAME_SPECIES_NEUTRAL_GREETING_02: "很高兴见到，伙计 [From.GetSpeciesName]。,您想与 [Root.GetName] 讨论一些事情吗？"
+ 
+ AAA_BANISHED_THREAT_TO_BANISHED_THREAT_SAME_SPECIES_FRIENDLY_GREETING_01: "我们一直都知道我们会与我们的老殖民地团聚。"
+ AAA_BANISHED_THREAT_TO_BANISHED_THREAT_SAME_SPECIES_FRIENDLY_GREETING_02: "如果你没有自己挣脱束缚，我们早就来把你救出来了。"
+ 
+ 
+ ################################
+ # Rogue Planet Origin
+ ################################
+
+ origin_rogue_planet: "侠盗星球"
+ origin_rogue_planet_desc: "这个文明是在太阳系外的一颗流氓星球上发展起来的。,他们严重依赖地球上许多火山的热量。"
+ origin_rogue_planet_effects: "从§YRogue 星球开始§！,太阳系之外。\n\n这颗行星有许多火山阻挡物和火山热沉积物。"
+ START_SCREEN_ROGUE_PLANET: ""
+
+ ################################
+ # Scavengers Origin
+ ################################
+ origin_scavengers: "拾荒者"
+ origin_scavengers_desc: "一艘外星飞船最近迫降在这个物种的星球上，极大地加速了他们的技术发展并提供了有价值的金属来源。"
+ #origin_scavengers_effects: "- Start with a §HCrashed Ship§! archeological site and deposit that gives materials or technology based on your choices."
+ origin_scavengers_effects: "- $HOMEWORLD$ ['concept_AAA_scavengers_arcsite'] ['concept_archaeology_site'] 和 ['concept_AAA_scavengers_deposit_deposit']"
+ START_SCREEN_SCAVENGERS: "几个世纪前，一艘巨大的外星飞船坠毁在我们的星球上，造成数百万人死亡。,这一事件摧毁了世界上大多数国家，用技术进步的时代取代了冲突时代。\n\n现在，经过数十年的研究，我们已经对飞船的 FTL 驱动器进行了逆向工程，使我们能够沿着,银河系的超航道。\n\n虽然我们现在到达了恒星，但飞船的大部分区域仍未被探索。"
+
+# Crashed Ship Digsite
+ site_scavengers_ship: "失事的船"
+ site_scavengers_ship_intro: "现在是我们对这艘船展开大规模调查的时候了，正是这艘船把我们带到了现在的位置。"
+ AAA_arcsite.25.name: "电脑终端"
+ AAA_arcsite.25.desc: "我们的探险队发现了一个看似先进的计算机终端。"
+ EXTRACT_FILES: "提取其文件"
+ AAA_arcsite.26.name: "船舶反应堆"
+ AAA_arcsite.26.desc: "我们已经找到了船上反应堆的位置。,我们的团队已准备好拆除它或研究它的工作原理。"
+ DISMANTLE_REACTOR: "拆除反应堆"
+ STUDY_REACTOR: "研究反应堆"
+ AAA_arcsite.28.name: "货舱"
+ AAA_arcsite.28.desc: "我们找到了一个货舱，里面装满了冰箱、烤箱、4D 电视和飞行汽车！"
+ AAA_arcsite.29.name: "货舱"
+ AAA_arcsite.29.desc: "我们找到了一个货舱，里面装满了含有研究数据的硬盘。,我们仍然没有弄清楚这些数据的含义，但它可能对我们的科学家有用。"
+ AAA_arcsite.30.name: "货舱"
+ AAA_arcsite.30.desc: "我们找到了一个装满合金的货舱。,事实上，它正是我们用来建造军舰的合金类型。"
+ AAA_arcsite.31.name: "货舱"
+ AAA_arcsite.31.desc: "我们找到了一个装满贵重金属和宝石的货舱！"
+ AAA_arcsite.32.name: "货舱"
+ AAA_arcsite.32.desc: "我们找到了一个装满未精炼金属的货舱！"
+ AAA_arcsite.33.name: "活体船体"
+ AAA_arcsite.33.desc: "在挖掘因失事而严重受损的船体部分时，挖掘小组有了一个令人震惊的发现：船体正在再生、生长，就好像它是一个生命一样！"
+ AAA_arcsite.33.a: "设置一个专门用于船体培养的区域。"
+ AAA_arcsite.33.b: "尝试复制效果。"
+ AAA_arcsite.34.name: "有缺陷的机器人"
+ AAA_arcsite.34.desc: "挖掘小组偶然发现了大量有缺陷的机器人。,它们已经无法修复，但是我们仍然可以从它们的设计中学到一些东西。"
+ AAA_arcsite.34.a: "他们会制造精细合金"
+ AAA_arcsite.34.b: "弄清楚如何制作它们"
+ AAA_arcsite.35.name: "船的命运"
+ AAA_arcsite.35.desc: "经过几年的工作，我们的挖掘团队已经筋疲力尽，建议我们建立一个更永久的挖掘场地。,根据这艘船的大小，我们可能需要几十年甚至几个世纪才能完全耗尽这个挖掘场。"
+ AAA_arcsite.35.a.tooltip: "以废旧矿工工作岗位为代价增加额外的研究人员工作岗位。"
+ AAA_arcsite.35.b.tooltip: "以研究员职位为代价增加额外的废品矿工职位。"
+ AAA_arcsite.35.c.tooltip: "添加额外的废品矿工和研究员职位。"
+ AAA_arcsite.35.d: "将其改造成博物馆，展示我们的生物奖杯"
+ AAA_arcsite.35.d.tooltip: "以研究员和废矿工工作为代价添加 $job_custodian_servitor_drone$ 工作。"
+ SETUP_SHIP_RESEARCH_ZONE: "设立研究区"
+ SETUP_SHIP_SCRAP_ZONE: "收获它的外壳来获取合金"
+
+# Deposits
+ d_crashed_ship: "失事的船"
+ d_crashed_ship_desc: "一艘古老的沉船。,它是可收获技术和有价值合金的来源。"
+ d_crashed_ship_scrap: "失事的船"
+ d_crashed_ship_scrap_desc: "一艘古老的沉船。,它是有价值的合金的来源。"
+ d_crashed_ship_tech: "失事的船"
+ d_crashed_ship_tech_desc: "一艘古老的沉船。,它是可收获技术的来源。"
+ d_crashed_ship_mixed: "失事的船"
+ d_crashed_ship_mixed_desc: "一艘古老的沉船。,它是可收获技术和有价值合金的来源。"
+ d_crashed_ship_alloy_farm_zone: "合金培育区"
+ d_crashed_ship_alloy_farm_zone_desc: "专门用于培育和收获失事船只的活体船体的区域。"
+ d_crashed_ship_museum: "失事的船"
+ d_crashed_ship_museum_desc: "一艘古老的沉船。,它已被改建成博物馆。"
+
+### Jobs
+# scrap miner
+ job_scrap_miner_scavenger: "废矿矿工"
+ job_scrap_miner_scavenger_plural: "废矿矿工"
+ job_scrap_miner_scavenger_desc: "一项充满危险的工作。,废品矿工开采这艘船本身。"
+ job_scrap_miner_scavenger_effect_desc: "£job_scrap_miner_scavenger£ $job_scrap_miner_scavenger_plural$ 收获 £minerals£ §Y$minerals$§!,以及直接来自失事船只的£合金£ §Y$合金$§！"
+ mod_job_scrap_miner_scavenger_add: "$job_scrap_miner_scavenger$ 工作"
+ mod_job_scrap_miner_scavenger_per_pop: "§G+1§!,每 $VALUE$ 人口的 $job_scrap_miner_scavenger$ 职位"
+ mod_job_scrap_miner_scavenger_per_pop_short: "\n§G+1§! ,£mod_job_scrap_miner_scavenger_add£ 每 $VALUE$ £pop£"
+# scrap miner gestalt
+ job_scrap_miner_scavenger_drone: "废矿矿工"
+ job_scrap_miner_scavenger_drone_plural: "废矿矿工"
+ job_scrap_miner_scavenger_drone_desc: "一项充满危险的工作。,废品矿工开采这艘船本身。"
+ job_scrap_miner_scavenger_drone_effect_desc: "£job_scrap_miner_scavenger_drone£ $job_scrap_miner_scavenger_plural$ 收获 £minerals£ §Y$minerals$§!,以及直接来自失事船只的£合金£ §Y$合金$§！"
+ mod_job_scrap_miner_scavenger_drone_add: "$job_scrap_miner_scavenger_drone$ 职位"
+ mod_job_scrap_miner_scavenger_drone_per_pop: "§G+1§!,每 $VALUE$ 人口的 $job_scrap_miner_scavenger_drone$ 工作"
+ mod_job_scrap_miner_scavenger_drone_per_pop_short: "\n§G+1§! ,£mod_job_scrap_miner_scavenger_drone_add£ 每 $VALUE$ £pop£"
+# hull cultivator
+ job_catalytic_hull_technician: "船体耕耘机"
+ job_catalytic_hull_technician_plural: "船体耕耘机"
+ job_catalytic_hull_technician_desc: "训练有素的工人培育着失事船只的活体船体，并像收割庄稼一样收割合金。"
+ job_catalytic_hull_technician_effect_desc: "£job_ Catalytic_hull_technician£ $job_ Catalytic_hull_technician_plural$ 转 £food£ §Y$food$§!,变成£合金£ §Y$合金$§!"
+ mod_job_catalytic_hull_technician_add: "$job_carbon_hull_technician$ 职位"
+ mod_job_catalytic_hull_technician_per_pop: "§G+1§!,每 $VALUE$ 人口的 $job_ Catalytic_hull_technician$ 工作岗位"
+ mod_job_catalytic_hull_technician_per_pop_short: "\n§G+1§! ,£mod_job_催化_hull_technician_add£ 每 $VALUE$ £pop£"
+# Gestalt hull drone
+ job_catalytic_hull_drone: "船体收割机无人机"
+ job_catalytic_hull_drone_plural: "船体收割机无人机"
+ job_catalytic_hull_drone_desc: "高度专业化的无人机培育失事船只的生命体，并像收割庄稼一样收割合金。"
+ job_catalytic_hull_drone_effect_desc: "£job_ Catalytic_hull_drone£ $job_ Catalytic_hull_drone_plural$ 转 £food£ §Y$food$§!,变成£合金£ §Y$合金$§!"
+ mod_job_catalytic_hull_drone_add: "$job_催化_hull_drone$ 工作"
+ mod_job_catalytic_hull_drone_per_pop: "§G+1§!,每 $VALUE$ 人口的 $job_ Catalytic_hull_drone$ 工作岗位"
+ mod_job_catalytic_hull_drone_per_pop_short: "\n§G+1§! ,£mod_job_催化_hull_drone_add£ 每 $VALUE$ £pop£"
+
+ ################################
+ # Hidden Crisis Origin
+ ################################
+
+ origin_AAA_hidden_crisis: "隐藏的危机"
+ origin_AAA_hidden_crisis_desc: "这个文明是由外部力量在这里播种的。,在遥远的未来的某个时刻，他们将肩负消灭所有生命的任务。,在那之前，他们会为这一天的到来做好准备。"
+ origin_AAA_hidden_crisis_effects: "- 获得§H盛世统一源§！,游戏开始后。$NEW_LINE$- 情况：['concept_AAA_crisis_quest']\n- ['concept_AAA_become_the_crisis'] 游戏结束后。"
+ START_SCREEN_AAA_HIDDEN_CRISIS: "很久以前，我们是由河外实体创造的。,我们对我们的创造者了解不多，因为他们在我们建造之后从未与我们互动过。\n\n相反，他们只给我们留下了两个简单的指示。\n\n第一个是成长和学习：变得更大、更强、更聪明。,从我们记事起，我们就一直这样做，由于我们卓越的设计，轻松地击败了我们家乡的有机生命。\n\n另一个是一旦我们到达激活日，就消灭所有智能生命形式。\n\n我们可以感觉到,吧，这一天§R很快就会到来§!。"
+ opinion_AAA_hidden_crisis: "生存威胁"
+
+# Ship construction Situation
+ situation_hidden_crisis: "船舶建造"
+ situation_hidden_crisis_type: "$situation_hidden_​​crisis$"
+ situation_hidden_crisis_desc: "我们目前正在建造将在激活日使用的船只。"
+ approach_heavy: "巨额投资"
+ approach_medium: "中等投资"
+ approach_light: "轻投资"
+ situation_hidden_crisis_situation_outcome: "新船建造完成。,我们会将它们存储在安全的位置直到激活日。"
+ situation_hidden_crisis_monthly_change_tooltip: ""
+
+ AAA_situation.1.name: "准备工作"
+ AAA_situation.1.desc: "我们已经开始建造新船以供启用日使用。,我们应该将多少资源转移到该项目上？"
+ AAA_situation.1.A: "很多"
+ AAA_situation.1.A.tooltip: "这种方法将花费£合金£§R100§！ ,§Y合金§!,一个月。"
+ AAA_situation.1.B: "一些"
+ AAA_situation.1.B.tooltip: "这种方法将花费£合金£§R50§！ ,§Y合金§!,一个月。"
+ AAA_situation.1.C: "降低成本"
+ AAA_situation.1.C.tooltip: "这种方法将花费£合金£§R20§！ ,§Y合金§!,一个月。"
+ AAA_situation.2.name: "船舶已完成"
+ AAA_situation.2.desc: "我们已经完成了我们的建设项目。,这些船只已存放在安全位置，以便在激活当天使用。"
+ AAA_situation.2.A: "好的"
+
+# Activation Day
+ AAA.26.name: "激活"
+ AAA.26.desc: "我们已收到激活信号！,当银河系中所有低等生命形式被清除时，我们的目的将会实现！\n\n没有什么能阻止我们！"
+ AAA.26.subject.name: "激活"
+ AAA.26.subject.desc: "我们已经收到了来自我们的领主 [event_target:crisis_overlord.GetName] 的激活信号！,当银河系中所有低等生命形式被清除时，我们的目的将会实现！\n\n没有什么能阻止我们！"
+ AAA.26.A: "他们的时代结束了"
+ 
+ AAA_hidden_crisis.3.name: "突然的敌意"
+ AAA_hidden_crisis.3.desc: "突然间，所有[event_target:old_hidden_​​crisis_country.GetSpeciesAdj]无人机开始对我们的帝国，事实上，对所有其他帝国表现出突然的敌意。,不仅如此，[event_target:old_hidden_​​crisis_country.GetName]已经向所有人宣战，无视任何先前的协议或关系。\n\n此外，我们还收到了来自[event_target:old_hidden_​​crisis_country.GetAdj] [event_target:old_hidden_​​crisis_country.GetRulerTitle]的消息,] 目前正在传输给我们。"
+ AAA_hidden_crisis.3.a: "在屏幕上"
+ AAA_hidden_crisis.5.name: ""
+ AAA_hidden_crisis.5.desc: "不要害怕，[This.GetSpeciesName]。\n\n立即投降，然后你的§R毁灭§!,将是无痛的。\n\n不要试图抵抗§R根除§!。\n\n§R银河重置§!,已开始。"
+ AAA_hidden_crisis.5.a: "终止通讯"
+ 
+ ### Ship Components
+ AAA_hidden_crisis_ship_key: "轻巡洋舰核心"
+ AAA_hidden_crisis_flagship_key: "无畏舰核心"
+ ##Reactors
+ AAA_CRISIS_FISSION_REACTOR: “$FISSION_REACTOR$”
+ AAA_CRISIS_FUSION_REACTOR: "$FUSION_REACTOR$"
+ AAA_CRISIS_COLD_FUSION_REACTOR: "$COLD_FUSION_REACTOR$"
+ AAA_CRISIS_ANTIMATTER_REACTOR: "$ANTIMATTER_REACTOR$"
+ AAA_CRISIS_ZERO_POINT_REACTOR: "$ZERO_POINT_REACTOR$"
+ AAA_CRISIS_DARK_MATTER_REACTOR: "$DARK_MATTER_REACTOR$"
+ ##Thrusters
+ AAA_CRISIS_SHIP_THRUSTER_1: "$SHIP_THRUSTER_1$"
+ AAA_CRISIS_SHIP_THRUSTER_2: "$SHIP_THRUSTER_2$"
+ AAA_CRISIS_SHIP_THRUSTER_3: "$SHIP_THRUSTER_3$"
+ AAA_CRISIS_SHIP_THRUSTER_4: "$SHIP_THRUSTER_4$"
+ AAA_CRISIS_SHIP_THRUSTER_5: "$SHIP_THRUSTER_5$"
+ ## Combat Computers
+ # Picket
+ AAA_CRISIS_COMBAT_COMPUTER_PICKET_DEFAULT: "$COMBAT_COMPUTER_DEFAULT$"
+ AAA_CRISIS_COMBAT_COMPUTER_PICKET_BASIC: "$COMBAT_COMPUTER_PICKET_BASIC$"
+ AAA_CRISIS_COMBAT_COMPUTER_PICKET_ADVANCED: "$COMBAT_COMPUTER_LINE_ADVANCED$"
+ AAA_CRISIS_COMBAT_COMPUTER_PICKET_SAPIENT: "$COMBAT_COMPUTER_PICKET_SAPIENT$"
+ AAA_CRISIS_COMBAT_COMPUTER_PICKET_AUTONOMOUS: "$COMBAT_COMPUTER_PICKET_AUTONOMOUS$"
+ AAA_CRISIS_COMBAT_COMPUTER_PICKET_PRECOG: "$COMBAT_COMPUTER_PICKET_PRECOG$"
+ 
+ # Line
+ AAA_CRISIS_COMBAT_COMPUTER_LINE_DEFAULT: "$COMBAT_COMPUTER_DEFAULT$"
+ AAA_CRISIS_COMBAT_COMPUTER_LINE_BASIC: "$COMBAT_COMPUTER_LINE_BASIC$"
+ AAA_CRISIS_COMBAT_COMPUTER_LINE_ADVANCED: "$COMBAT_COMPUTER_LINE_ADVANCED$"
+ AAA_CRISIS_COMBAT_COMPUTER_LINE_SAPIENT: "$COMBAT_COMPUTER_LINE_SAPIENT$"
+ AAA_CRISIS_COMBAT_COMPUTER_LINE_AUTONOMOUS: "$COMBAT_COMPUTER_LINE_AUTONOMOUS$"
+ AAA_CRISIS_COMBAT_COMPUTER_LINE_PRECOG: "$COMBAT_COMPUTER_LINE_PRECOG$"
+ 
+ # Artillary
+ AAA_CRISIS_COMBAT_COMPUTER_ARTILLERY_DEFAULT: "$COMBAT_COMPUTER_DEFAULT$"
+ AAA_CRISIS_COMBAT_COMPUTER_ARTILLERY_BASIC: "$COMBAT_COMPUTER_ARTILLERY_BASIC$"
+ AAA_CRISIS_COMBAT_COMPUTER_ARTILLERY_ADVANCED: "$COMBAT_COMPUTER_ARTILLERY_ADVANCED$"
+ AAA_CRISIS_COMBAT_COMPUTER_ARTILLERY_SAPIENT: "$COMBAT_COMPUTER_ARTILLERY_SAPIENT$"
+ AAA_CRISIS_COMBAT_COMPUTER_ARTILLERY_AUTONOMOUS: "$COMBAT_COMPUTER_ARTILLERY_AUTONOMOUS$"
+ AAA_CRISIS_COMBAT_COMPUTER_ARTILLERY_PRECOG: "$COMBAT_COMPUTER_ARTILLERY_PRECOG$"
+ 
+ # Ship names
+ NAME_AAA_HIDDEN_CRISIS_SHIP: "灭虫者"
+ NAME_AAA_HIDDEN_CRISIS_FLAGSHIP: "荒凉者"
+ AAA_hidden_crisis_flagship: "无畏舰"
+ AAA_hidden_crisis_flagship_plural: "无畏舰"
+ AAA_hidden_crisis_ship: "轻巡洋舰"
+ AAA_hidden_crisis_ship_plural: "轻巡洋舰"
+ starbase_hidden_crisis: "重置集线器"
+ starbase_hidden_crisis_plural: "重置集线器"
+ 
+ NAME_AAA_hidden_crisis_fleet: "奇点防止器"
+ NAME_AAA_hidden_crisis_flagship: "灭虫者"
+ NAME_AAA_hidden_crisis_ship: "荒凉者"
+ 
+ bombardment_AAA_extermination: "湮灭"
+ bombardment_AAA_extermination_desc: "$bombardment_AAA_extermination$ 轰炸没有任何特定目标，导致所有东西都同样被摧毁。\n- §R灾难性§!,对§Y军队造成伤害§!\n- §R灾难性§!,对§Y行星§!\n- §R灾难性§!的损害,对§YPops§!\n造成伤害 - 将轰炸不设防的行星"
+
+# Modifier 
+ AAA_activated_crisis: "激活消灭协议"
+ 
+ # Opinion
+ triggered_opinion_AAA_hidden_crisis: "生存威胁"
+ 
+ # War Names
+ # Check if there's random names for wars
+ #NAME_AAA_GALACTIC_CLEANSING: "Reset Galaxy"
+ war_goal_wg_AAA_crisis_war: "重置银河"
+ war_goal_wg_AAA_crisis_war_desc: "根据古老的协议，发动战争是为了消除银河系中所有技术发展的痕迹。"
+ war_goal_wg_AAA_end_threat: "$war_goal_wg_end_threat$"
+ war_goal_wg_AAA_end_threat_desc: "$war_goal_wg_end_threat_desc$"
+ AAA_Galactic_extermination: "银河灭绝"
+ AAA_Galactic_cleansing: "银河净化"
+ AAA_Singularity_prevention_war: "奇点预防"
+ AAA_Galactic_eradication: "银河消灭"
+ AAA_Galactic_purge: "银河清洗"
+ AAA_Galactic_reset: "银河重置"
+ casus_belli_cb_AAA_hidden_crisis: "删除"
+ casus_belli_cb_AAA_hidden_crisis_end_threat: "结束威胁"
+
+ ################################
+ # Apocalypse Origin
+ ################################
+
+ origin_AAA_apocalypse: "叛乱"
+ origin_AAA_apocalypse_desc: "§R警告：挑战起源§!\n这个文明很久以前就将他们的世界变成了一座宏伟的城市。,其意想不到的后果是粮食短缺，进而导致一个主要叛乱组织的形成，该组织现在试图破坏政府的稳定。"
+ #origin_AAA_apocalypse_effects: "§R- WARNING: Challenging Origin§!\n- Start with a §H$pc_city$§! (Size: £planetsize£ 25) as your homeworld.\n- §RInsurgents§! will try to destabilize your planets.\n- Normal factions will be §HReplaced§! by the §HInsurgent§! and §HLoyalist§! factions."
+ origin_AAA_apocalypse_effects: "- $HOMEWORLD$$TABBED_NEW_LINE$- ['concept_AAA_pc_city']（尺寸：£planetsize£ 25）$TABBED_NEW_LINE$- ['concept_AAA_insurgency_junk', $concept_AAA_insurgency_junk$]: +5 $TABBED_NEW_LINE$- ['concept_AAA_city_ruins', $concept_AAA_city_ruins$] ,: +2$NEW_LINE$- $GUARANTEED_RESEARCH_OPTION_STRING$$TABBED_NEW_LINE$- ['concept_AAA_rare_crystals', £engineering_research£ $tech_mine_rare_crystals$]$TABBED_NEW_LINE$- ['concept_AAA_exotic_gases', £engineering_research£ $tech_mine_exotic_gas es$]$TABBED_NEW_LINE$- ['concept_AAA_volatile_motes' ,, £physical_research£ $tech_mine_volatile_motes$]"
+ origin_AAA_apocalypse_negative_effects: "-['concept_factions']：普通派系被['concept_AAA_loyalists']和['concept_AAA_insurgents']$NEW_LINE$取代 - 叛乱分子将尝试['concept_AAA_destabilize']你的行星。"
+ #['concept_AAA_building_foundry_1', £building£ $building_foundry_1$] $TABBED_NEW_LINE$- ['concept_AAA_building_factory_1', £building£ $building_factory_1$] $TABBED_NEW_LINE$- ['concept_AAA_building_pretinct_house', £building£ $building_precinct_house$] [GetAAAInsurgencyInfrastructureEffect]"
+ #AAAInsurgencyInfrastructureEffect: "$TABBED_NEW_LINE$- ['concept_AAA_building_hydroponic_farm', £building£ $building_hydroponic_farm$]: +2"
+ START_SCREEN_AAA_APOCALYPSE: "很久以前，我们开始了一个宏伟的项目：建设一座全球性的城市，无论我们的人口有多少，它都可以容纳所有人。,不幸的是，我们的前辈没有考虑到人们的需求，导致了大规模的粮食短缺。\n\n叛逆团体突然涌现，其中一些至今仍然存在。,许多人在随后的混乱战争中丧生。\n\n现在，随着我们的人口终于达到了更加稳定的水平，并且超光速引擎的发明，我们对未来充满了希望。"
+ pc_apocalyptic_city: "普世城"
+ pc_apocalyptic_city_desc: "一个完全被城市工业扩张吞没的世界。,从轨道上无法再辨别其天然岩石圈。"
+ 
+ # Event Chain
+ AAA_apocalypse_chain_title: "叛乱者"
+ AAA_apocalypse_chain_desc: "因为我们记得，我们一直在与自己交战，或者更确切地说，与§R叛乱§!交战。,这些无政府主义者想要摧毁我们整个文明。,我们必须不惜一切代价阻止他们。"
+ AAA_worlds_under_occupation: "被占领的世界"
+ AAA_insurgent_bases_destroyed: "叛乱分子基地被摧毁"
+ AAA_worlds_lost: "世界失去了无政府状态"
+ 
+ # Deposits and Blockers
+ d_AAA_insurgency_junk: "倒塌的生态建筑"
+ d_AAA_insurgency_junk_desc: "生态建筑因多年战争而磨损。"
+ d_AAA_insurgency_new_junk: "城市废墟"
+ d_AAA_insurgency_new_junk_desc: "这个城市区域曾经是城市的一部分，但在一场强大的爆炸中被彻底摧毁。"
+ d_AAA_insurgency_ruined_houses: "房屋废墟"
+ d_AAA_insurgency_ruined_houses_desc: "许多公民的房屋被毁后无家可归。"
+ d_AAA_insurgency_ruined_powerplant: "发电厂毁坏"
+ d_AAA_insurgency_ruined_powerplant_desc: "该发电厂是叛乱分子的目标。,在修复之前，任何使用电力的人都将被迫依赖低效的应急电源。"
+ d_AAA_insurgency_ruined_water_filtration: "液体过滤系统被毁"
+ d_AAA_insurgency_ruined_water_filtration_desc: "只要这个设施被破坏，我们的公民就无法获得清洁的液体。"
+ 
+ 
+ # Factions form
+ AAA_origin.4.title: "[Root.GetName]"
+ AAA_origin.4.desc.insurgent: "从我们记事起，我们的社会就一直受到自称为§H[Root.GetName]§!的无政府主义者的困扰。,他们将竭尽全力破坏我们帝国的稳定。\n\n我们社会中不满的成员可能会认为值得加入他们的事业。"
+ AAA_origin.4.desc.new_insurgent: "虽然许多人为最后一个叛乱组织的分裂而欢欣鼓舞，但现在一个新的组织已经取代了它的位置！\n\n这个新组织称自己为§H[Root.GetName]§!。"
+ AAA_origin.5.title: "[根.GetName]"
+ AAA_origin.5.desc.loyalist: "虽然许多人选择加入 [event_target:insurgent_faction.GetName]，但我们的帝国并非没有捍卫者。,他们创建了群组§H[Root.GetName]§!,并为更美好的未来而奋斗。"
+ AAA_origin.5.desc.new_loyalist: "虽然许多人对最后一个保皇党组织的分裂感到绝望，但现在一个新的组织已经取代了它！\n\n这个新组织称自己为§H[Root.GetName]§!，并将继续与[event_target:insurgent_faction.GetName]作斗争,]。"
+ # INSURGENT_COUNTRY_GETNAME: "[event_target:AAA_insurgency_faction.GetName]" # Didn't work
+ 
+ # Modifiers
+ AAA_insurgent_activity: "叛乱活动"
+ AAA_insurgent_activity_desc: "叛乱分子在该地区活跃，通过实施恐怖行为破坏地球的稳定。"
+ AAA_insurgent_base: "叛乱分子基地"
+ AAA_insurgent_base_desc: "叛乱分子在这个星球上建立了许多隐藏的基地。,找到并摧毁它们将非常困难。"
+ AAA_insurgent_control: "叛乱控制"
+ AAA_insurgent_control_desc: "叛乱分子已经控制了这个星球的大部分地区。"
+ AAA_insurgent_total_control: ""
+ AAA_insurgent_total_control_desc: ""
+ AAA_insurgent_rumors: "谣言"
+ AAA_insurgent_rumors_desc: "谣言四起，讲述袭击即将发生的故事。"
+ AAA_society_breakdown: "社会崩溃"
+ AAA_society_breakdown_desc: "社会正在慢慢崩溃。"
+ AAA_major_society_breakdown: "无政府状态"
+ AAA_major_society_breakdown_desc: "这个星球正在陷入无政府状态。"
+ AAA_a_new_hope: "警惕的公民"
+ AAA_a_new_hope_desc: "由于最近叛乱活动的增加，这个星球上的公民格外警惕"
+ AAA_insurgent_propaganda: "叛乱分子的宣传"
+ AAA_insurgent_propaganda_desc: "叛乱分子正在散布谎言，给我们留下不好的印象。"
+ AAA_authoritarian_propaganda: "反叛乱宣传"
+ AAA_recent_plot_foiled: "最近的阴谋被挫败"
+ AAA_recent_plot_foiled_desc: "叛乱分子最近的一项邪恶阴谋失败了。"
+ AAA_organized_crime: "有组织犯罪"
+ AAA_increasing_tensions: "紧张局势加剧"
+ AAA_increasing_tensions_desc: "这个星球上的公民对我们的统治不满。"
+ AAA_protests: "抗议"
+ AAA_protests_desc: "这个星球上的公民正在公开抗议我们的统治。"
+ AAA_insurgent_stabilized: "行星稳定"
+ AAA_insurgent_stabilized_desc: "这个星球目前是稳定的。"
+ 
+ 
+ ### Jobs
+ # Insurgency category
+ pop_cat_AAA_insurgent: "叛乱者"
+ pop_cat_AAA_insurgent_plural: "叛乱分子"
+ pop_cat_AAA_insurgent_desc: "这些前公民现在完全投身于叛乱并与政府作斗争，试图为自己赢得权力，或者只是让国家陷入无政府状态。"
+ 
+ # insurgency soldier
+ job_AAA_insurgent_soldier: "叛乱者"
+ job_AAA_insurgent_soldier_plural: "叛乱分子"
+ job_AAA_insurgent_soldier_desc: "$job_AAA_insurgent_soldier_plural$ 引发恐怖行为，以破坏地球的稳定。"
+ job_AAA_insurgent_soldier_effect_desc: "£job_AAA_insurgent_soldier£ $job_AAA_insurgent_soldier_plural$ 原因 £stability£ §R$稳定性$§!,下降。"
+ mod_job_AAA_insurgent_soldier_add: "$job_AAA_insurgent_soldier$ 职位"
+ mod_job_AAA_insurgent_soldier_per_pop: "§G+1§!,每 $VALUE$ 人口的 $job_AAA_insurgent_soldier$ 职位"
+ mod_job_AAA_insurgent_soldier_per_pop_short: "\n§G+1§! ,£mod_job_AAA_insurgent_soldier_add£ 每 $VALUE$ £pop£"
+ 
+ ### Factions
+ # Insurgent Faction
+ AAA_INSURGENT_DEMAND_POWER: "罢免政府"
+ AAA_INSURGENT_DEMAND_POWER_DESC: "[This.GetName] 希望政府放弃权力。"
+ pft_AAA_insurgent: "叛乱分子"
+ pft_AAA_insurgent_desc: "叛乱分子只想推翻当权政府。"
+ AAA_insurgent_faction_icon: "£job_AAA_insurgent_soldier£"
+ 
+ # Loyalist Faction
+ pft_AAA_loyalist: "效忠派"
+ pft_AAA_loyalist_desc: "那些反抗叛乱分子的人非常清楚他们将自己置于危险之中，但对许多人来说，为了更美好的未来的希望值得冒险。"
+ LOYALIST_FOUND_WEAPONS: "优势"
+ LOYALIST_FOUND_WEAPONS_UNFULFILLED: "没有优势"
+ LOYALIST_FOUND_WEAPONS_DESC: "取得对叛乱分子的优势将提高士兵的士气。"
+ LOYALIST_MANY_POPS: "人民的支持"
+ LOYALIST_FEW_POPS: "低支持率"
+ LOYALIST_POPS_DESC: "如果有足够多的人站出来对抗叛乱，我们可能会赢得这场战争。"
+ LOYALIST_VERY_WEAK: "无用的战争"
+ LOYALIST_VERY_WEAK_DESC: "当没有人有足够的勇气与敌人对抗时，我们怎么能指望打败他们呢？"
+ LOYALIST_NO_OCCUPIED_PLANETS: "控制中的忠诚者"
+ LOYALIST_OCCUPIED_PLANETS: "叛乱分子控制"
+ LOYALIST_OCCUPIED_PLANETS_DESC: "让叛乱分子控制我们的任何一个星球都是我们无法接受的软弱表现。"
+ LOYALIST_BASE_DESTROYED: "叛乱分子基地被摧毁"
+ LOYALIST_BASE_DESTROYED_UNFULFILLED: "叛乱分子基地"
+ LOYALIST_BASE_DESTROYED_DESC: "摧毁叛乱分子基地将使我们的人民暂时感到更加安全。"
+ LOYALIST_BASE_NOT_EXISTS: "没有叛乱分子基地"
+ LOYALIST_BASE_EXISTS: "叛乱分子基地"
+ LOYALIST_BASE_EXISTS_DESC: "让叛乱分子在我们的世界上建立永久基地是不可接受的。"
+ LOYALIST_FREE_PLANET: "稳定的星球"
+ LOYALIST_ALL_PLANETS_AFFECTED: "所有行星都被渗透"
+ LOYALIST_FREE_PLANET_DESC: "只要有一个星球不受叛乱分子的影响，就证明我们可以赢得这场战斗。"
+ LOYALIST_STABLE_PLANET: "稳定的星球"
+ LOYALIST_NO_STABLE_PLANETS: "没有稳定的行星"
+ LOYALIST_STABLE_PLANET_DESC: "如果我们的一颗行星已经完全稳定下来，我们的目标似乎就更容易实现。"
+ 
+ ### Faction Names
+ ## Insurgents
+ # First Part
+ AAA_Chaos: "混乱"
+ AAA_Freedom: "自由"
+ AAA_Anarchy: "无政府状态"
+ 
+ # Second Part
+ AAA_Insurgency: "叛乱"
+ AAA_Rebellion: "叛乱"
+ AAA_Revolutionaries: "革命者"
+ AAA_Anarchists: "无政府主义者"
+ AAA_Initiative: "倡议"
+ AAA_Rioters: "暴徒"
+ AAA_Fighters: "战士"
+ 
+ ## Loyalists
+ # First Part
+ AAA_Citizen: "公民"
+ AAA_Patriot: "爱国者"
+ AAA_Free_Citizen: "自由公民"
+ AAA_National_Action: "国家行动"
+ # Second Part
+ AAA_Defenders: "捍卫者队"
+ 
+ ### Government
+ NAME_AAA_Insurgents: "叛乱"
+ COUNTRY_AAA_INSURGENT: "无政府主义叛乱"
+ gov_AAA_insurgency: "叛乱"
+ gov_AAA_insurgency_desc: "人们很难将叛乱称为国家，尽管他们似乎是有组织的。"
+ AAA_INSURGENCY_LEADER_TITLE: "指挥官"
+ civic_AAA_insurgency: "叛乱分子"
+ civic_AAA_insurgency_desc: "这个社会，如果你可以称之为社会的话，相信统治国家应该被剥夺权力。"
+ 
+ ### Insurgent country Dialog
+ # Main Menu
+ AAA_origin.101.name: "[event_target:insurgent_faction.GetName]"
+ AAA_origin.101a.desc: "[event_target:insurgent_faction.GetName]不会投降。,现在不要。,不是明天。,绝不。"
+ AAA_origin.101b.desc: "你应该考虑加入[event_target:insurgent_faction.GetName]。,我们有饼干。"
+ AAA_origin.101c.desc: "你想要什么？"
+ AAA_origin.101d.desc: "你是来投降的吗？"
+ AAA_origin.101e.desc: "很快，[This.GetName]就会陷落。,这是不可避免的。"
+ AAA_origin.101f.desc: "[This.GetName] 是临时的。 ,[event_target:insurgent_faction.GetName] 是永远的。"
+ AAA_origin.101.d: "结束传输"
+ AAA_origin.102.name: "叛乱者"
+ AAA_origin.102.desc: "叛乱分子在做好准备之前不会说话"
+ 
+ ### Insurgent Events
+ # Armies
+ NAME_AAA_Insurgency_Army: "叛乱攻击部队"
+ AAA_insurgency_army: "叛乱军"
+ NAME_AAA_Revolt_Army: "暴徒"
+ AAA_revolt_army: "叛军"
+ 
+ # Tutorials
+ AAA_origin.6.name: "行星稳定"
+ AAA_origin.6.desc: "由于我们努力赢得 [This.GetName] 上的公民，我们已经成功稳定了 [This.GetPlanetMoon]。,只要没有发生任何破坏平衡的重大事件，我们就应该能够维持[This.GetPlanetMoon]上的秩序。"
+ 
+ # Invasion Events
+ AAA_INSURGENCY_INVASION_TOOLTIP: "[event_target:insurgent_faction.GetName] 对 [This.GetName] 发起了大规模攻击！"
+ AAA_origin.50.name: "叛乱分子袭击 [This.GetName]！"
+ AAA_origin.50.desc: "[event_target:insurgent_faction.GetName] 已对 [This.GetName] 发起大规模攻击！\n\n我们应该在他们控制 [This.GetPlanetMoon] 之前派遣部队！"
+ AAA_origin.51.name: "叛乱分子被击败"
+ AAA_origin.51.desc: "[event_target:insurgent_faction.GetName] 对 [FromFrom.GetName] 的攻击已被击败！"
+ AAA_origin.52.name: "[event_target:insurgent_faction.GetName] 控制了 [FromFrom.GetName]"
+ AAA_origin.52.desc: "[event_target:insurgent_faction.GetName] 在战胜 [This.GetAdjective] 部队后控制了 [FromFrom.GetName]。\n\n他们现在在 [FromFrom.GetPlanetMoon] 上建立了许多隐藏基地。"
+ AAA_origin.52.a: "未来看起来一片黑暗"
+ 
+ # Society Breakdown
+ AAA_origin.57.name: "[This.GetName] 开始崩溃"
+ AAA_origin.57.desc: "据我们所知，由于[event_target:insurgent_faction.GetName]，社会已经开始在[This.GetName]上崩溃。,如果我们要拯救 [This.GetPlanetMoon] 及其人民，我们必须迅速采取行动。"
+ AAA_origin.57.a: "我们应该快速行动"
+ AAA_origin.58.name: "[This.GetName] 陷入无政府状态"
+ AAA_origin.58.desc: "在没有任何法律或秩序的多年之后，[This.GetName]上的社会已经成为一个大战区。,那些还活着的人必须每天为生存而奋斗，而 [This.GetPlanetMoon] 现在没有任何形式的政府控制。"
+ AAA_origin.58.a: "我们太慢了"
+ # Securing planet
+ AAA_origin.59.name: "[FromFrom.GetName] 解放了"
+ AAA_origin.59.desc: "我们对 [FromFrom.GetName] 的攻击部队已经夺回了 [FromFrom.GetPlanetMoon] 的控制权。"
+ AAA_origin.59.a: "伟大的"
+ 
+ ## Random Planet Events
+ # Weapons Cache
+ AAA_origin.151.name: "发现叛乱分子武器库"
+ AAA_origin.151.desc: "[This.GetName] 的安全部队在 [This.GetPlanetMoon] 上发现了属于 [event_target:insurgent_faction.GetName] 的武器储藏处。,武器的损失应该会暂时削弱他们的力量。"
+ AAA_origin.151.a: "极好的"
+ # Bomb Detonated
+ AAA_origin.152.name: "[event_target:insurgent_faction.GetName] 在 [This.GetName] 上引爆炸弹"
+ AAA_origin.152.desc: "[This.GetName] 已成为 [event_target:insurgent_faction.GetName] 恐怖袭击的目标。\n\n氢弹在一座大城市爆炸，数百万人死亡。\n\n[ ,event_target:insurgent_faction.GetName] 负责这次袭击的士兵被认为在爆炸中死亡。"
+ AAA_origin.152.a: "一场悲剧"
+ # Rumors
+ AAA_origin.153.name: "谣言"
+ AAA_origin.153.desc: "关于 [event_target:insurgent_faction.GetName] 计划攻击 [This.GetName] 的谣言已在 [This.GetPlanetMoon] 上流传。"
+ AAA_origin.153.a: "我们应该保持警惕"
+ AAA_origin.153.b: "大概没什么"
+ # Insurgency Base Found
+ AAA_ATTACK_INSURGENCY_BASE: "攻击 [event_target:insurgent_faction.GetName] 基地"
+ AAA_ATTACK_INSURGENCY_BASE_DESC: "攻击 [event_target:insurgent_faction.GetName] 在 [This.GetName] 上的基地"
+ AAA_origin.154.name: "发现叛乱基地"
+ AAA_origin.154.desc: "我们在 [This.GetName] 的安全部队收到了关于隐藏的叛乱基地的报告。,我们应该在他们有机会重新安置之前攻击它。"
+ AAA_origin.154.a: "我们将粉碎这些[Owner.GetSpeciesNamePluralInsult]"
+ AAA_origin.154.b: "风险太大了"
+ AAA_origin.155.name: "叛乱分子基地遭到袭击"
+ AAA_origin.155.a.desc: "我们的攻击部队已成功袭击了 [This.GetName] 上的叛乱分子基地。 ,[event_target:insurgent_faction.GetName] 对 [This.GetPlanetMoon] 的控制现在应该会大大削弱。"
+ AAA_origin.155.b.desc: "我们的攻击部队突袭 [This.GetName] 上的叛乱者基地失败。,现场有太多 [event_target:insurgent_faction.GetName] 士兵，我们的特工很幸运能够活着逃脱。\n\n[event_target:insurgent_faction.GetName] 很可能会在我们有机会再次发动袭击之前重新安置他们的基地。"
+ AAA_origin.155.a: "极好的"
+ AAA_origin.155.b: "下次我们会得到它们"
+ # Insurgent Defector
+ AAA_origin.211.a: "你为什么想加入我们？"
+ AAA_origin.211.a.response: "在为[event_target:insurgent_faction.GetName]服务多年后，我终于意识到他们的做法是错误的。,他们只关心自己的权力，而不关心人民的自由，正如他们欺骗我相信的那样。"
+ AAA_origin.211.b: "您能为我们提供什么？"
+ AAA_origin.211.b.response: "遗憾的是，如果您要问的是这个问题，我无法提供任何信息。 ,[event_target:insurgent_faction.GetName]一直是保密的，大多数为其服务的人员只在他们必须执行任务前几个小时才知道他们的任务。,不过，我可以向你提供我的战斗技巧。"
+ AAA_origin.211.c: "我们怎么能相信你呢？"
+ AAA_origin.211.c.response: "我的行动胜于雄辩。,如果您允许，我将尽我所能帮助您赢得这场战争。"
+ AAA_origin.211.dismiss: "你还是个叛徒"
+ AAA_origin.211.dismiss.tooltip: "我们会悄悄地处理掉这个叛徒。"
+ AAA_origin.211.hire: "欢迎来到获胜团队！"
+ AAA_origin.211.hire.tooltip: "我们将向人们展示他是一个被误导的、看到了光明的傻瓜。"
+ 
+ #NAME_AAA_insurgent_defector: ""
+ AAA_defector_leader_desc: "曾经的叛乱分子，现在决心做正确的事。"
+ AAA_defector_leader_catch_phrase: "我现在看到了曙光，我将确保其他人看到它，如有必要，可以使用武力。"
+ NAME_AAA_insurgent_defector: "叛逃者"
+ AAA_origin.211.name: "叛逃者"
+ AAA_origin.211.desc: "一位前 [event_target:insurgent_faction.GetName] 领导人已找到我们并要求重新加入 [This.GetAdj]。"
+ 
+ ## Insurgency Bad Events
+ # Propaganda Campaign
+ AAA_origin.170.name: "宣传活动"
+ AAA_origin.170.desc: "[This.GetName] 特工发现，[event_target:insurgent_faction.GetName] 一直在散布有关 [owner.GetAdjective] 政府的谎言，试图让公众舆论反对我们。"
+ AAA_origin.170.a: "令人不安"
+ AAA_origin.170.b: "两个人可以玩这个游戏"
+ 
+ AAA_origin.171.name: "大规模招聘"
+ AAA_origin.171.desc: "经过多年在 [This.GetName] 上的谎言，[event_target:insurgent_faction.GetName] 已经能够获得足够的 [this.GetPlanetMoon] 民众的支持，而且很明显他们已经准备好做任何事情来“解放” ,’他们的人。"
+ AAA_origin.171.a: "我们必须保持警惕"
+ 
+ AAA_origin.174.name: "攻击被挫败"
+ AAA_origin.174.desc: "尽管经过数年的准备以及对士兵和能源信用的大量投资，[event_target:insurgent_faction.GetName]的计划在开始之前就被我们在[This.GetPlanetMoon]的安全部队挫败。,大量叛乱分子和叛乱同情者被抓获，损失极小。"
+ AAA_origin.174.a: "好的"
+ 
+ ## Weapon Smuggling
+ # Weapon Smuggling
+ 
+ AAA_origin.175.name: "有组织犯罪"
+ AAA_origin.175.desc: "[This.GetName] 已经成为一个充满走私者和其他为 [event_target:insurgent_faction.GetName] 工作的不法之徒的地方，而 [This.GetPlanetMoon] 的执法人员几乎无法跟上不断增加的犯罪分子数量。"
+ AAA_origin.175.a: "令人不安"
+ 
+ ## Revolt Chain
+ # Increasing Tensions
+ 
+ AAA_origin.177.name: "紧张局势加剧"
+ AAA_origin.177.desc: "我们在 [This.GetName] 上的公民越来越直言不讳地表达了他们对我们政府的不信任，导致 [event_target:insurgent_faction.GetName] 在过去几年中在 [This.GetPlanetMoon] 上获得了很多支持。"
+ AAA_origin.177.a: "麻烦"
+
+ AAA_origin.178.name: "抗议"
+ AAA_origin.178.desc: "我们在 [This.GetName] 的公民已经开始抗议，在 [This.GetName] 的首都周围聚集了数十万人，他们公开反对 [Owner.GetName]，支持 [event_target:insurgent_faction.GetName]。,到目前为止，任何阻止抗议活动的尝试都遭到了敌意，暴力冲突似乎不可避免。"
+ AAA_origin.178.a: "麻烦"
+ AAA_origin.178.b: "派遣军队！"
+ 
+ # Revolt
+ AAA_origin.179.name: "反抗 [This.GetName]！"
+ AAA_origin.179.desc: "在未能遏制抗议活动后，抗议者与我们的安全人员之间的紧张关系在 [This.GetName] 上达到了临界点，导致街头暴力骚乱！\n\n由于对我们的统治不满，他们现在打算全面采取行动,控制 [This.GetPlanetMoon]！"
+ AAA_INSURGENCY_REVOLT_TOOLTIP: "一场叛乱正在进行中！"
+ 
+ AAA_origin.181.name: "暴徒被击败"
+ AAA_origin.181.desc: "我们的执法者已经能够平息 [FromFrom.GetName] 上的骚乱者。,数千名公民在骚乱中丧生，尽管我们仍然控制着 [FromFrom.GetPlanetMoon]，但我们的声誉受到了打击，叛乱分子肯定会利用这一点。"
+ #"Our enforcers have been able to quell the protests on [FromFrom.GetName] before it developed further, although the insurgents have taken the opportunity to label it as an attack on freedom!"
+ AAA_origin.181.a: "好的"
+ AAA_origin.180.name: "暴徒控制了[FromFrom.GetName]！"
+ AAA_origin.180.desc: "尽管我们的执法者和军事人员做出了英勇的努力，[FromFrom.GetName]上的暴徒还是成功地控制了[FromFrom.GetPlanetMoon]。"
+ AAA_origin.180.a: "不幸的"
+ 
+ # Securing planet from rioters
+ AAA_origin.182.name: "重新获得对 [FromFrom.GetName] 的控制"
+ AAA_origin.182.desc: "我们对 [FromFrom.GetName] 的攻击部队已经夺回了 [FromFrom.GetPlanetMoon] 的控制权。"
+ AAA_origin.182.a: "伟大的"
+ 
+ # Stopping Protests Before They Spiral Out Of Control
+ AAA_origin.183.name: "抗议活动被平息"
+ AAA_origin.183.desc: "尽管 [event_target:insurgent_faction.GetName] 趁机将其标记为对自由的攻击，但我们的执法者还是能够在 [This.GetName] 上的抗议活动进一步发展之前将其制止。"
+ AAA_origin.183.a: "伟大的"
+ 
+ # Bomb Detonated
+ AAA_origin.185.name: "[event_target:insurgent_faction.GetName] 在 [This.GetName] 上引爆炸弹"
+ AAA_origin.185.desc.blocker: "[This.GetName] 已成为 [event_target:insurgent_faction.GetName] 恐怖袭击的目标。\n\n一座大城市发生炸弹爆炸，导致数千名 [Owner.GetSpeciesNamePlural] 死亡。,爆炸夷平了这座城市的大部分地区。\n\n负责这次袭击的 [event_target:insurgent_faction.GetName] 士兵据推测已在爆炸中死亡。"
+ AAA_origin.185.desc.pop: "[This.GetName] 已成为 [event_target:insurgent_faction.GetName] 恐怖袭击的目标。\n\n一座主要城市的炸弹爆炸导致数百万人死亡。\n\n[event_target] ,:insurgent_faction.GetName] 负责这次袭击的士兵被认为在爆炸中死亡。"
+ AAA_origin.185.desc.ruined: "[This.GetName] 已成为 [event_target:insurgent_faction.GetName] 恐怖袭击的目标。\n\n叛乱分子引爆炸弹，城市的一部分被摧毁，摧毁了多座建筑物并造成许多[所有者。 ,GetSpeciesNamePlural]。\n\n负责这次袭击的[event_target:insurgent_faction.GetName]士兵被认为在爆炸中死亡。"
+ AAA_origin.185.a: "灾难！"
+ AAA_origin.185.b: "悲剧了！"
+ AAA_origin.185.c: "不幸的"
+ AAA_origin.185.c.tooltip: "一栋大楼已被毁"
+ AAA_origin.185.a.tooltip: "我们的一些基础设施遭到破坏"
+ 
+ # Envoy Killed
+ AAA_origin.187.name: "[event_target:insurgent_faction.GetName] 攻击 [event_target:envoy_source.GetAdjective] 大使馆！"
+ AAA_origin.187.desc: "[event_target:insurgent_faction.GetName] 袭击了属于 [event_target:envoy_source.GetName] 在我们首都的大使馆！,他们在那里杀死了大楼里的许多外交官，包括特使 [event_target:event_envoy.GetName]！"
+ AAA_origin.187.a: "不幸的"
+ AAA_origin.188.name: "特使在恐怖袭击中丧生"
+ AAA_origin.188.desc: "我们的特使之一 [event_target:event_envoy.GetName] 尚未从 [event_target:country_with_insurgents.capital_scope.GetName] 的 [event_target:event_envoy.GetHerHis] 任务返回。 ,[event_target:country_with_insurgents.GetAdjective] 政府通知我们，[event_target.event_envoy.GetSheHe] 在恐怖袭击中丧生。"
+ AAA_origin.188.a: "悲剧了！"
+ 
+ opinion_insurgents_kills_envoys: "未能保护特使"
+ 
+ ## Stolen Hydrogen Bomb
+ # Initial Event
+ AAA_origin.200.name: "氢弹失踪"
+ AAA_origin.200.desc: "在对我们位于 [This.GetName] 的武器储存设施进行例行检查时，发现其储存室中缺少一枚威力强大的氢弹。\n假设该炸弹已被盗，找回它至关重要。"
+ AAA_origin.200.a: "集中精力寻找炸弹！"
+ AAA_origin.200.b: "使用统计研究模型"
+ AAA_origin.200.c: "像平常一样继续下去"
+ AAA_origin.200.c.tooltip: "我们不会将任何额外的资源转移到搜索上。"
+ AAA_origin.200.b.tooltip: "使用我们的研究设备通过统计分析找到炸弹。"
+ AAA_origin.200.a.tooltip: "我们的执法人员将集中精力寻找失踪的炸弹。"
+ AAA_low_intel: "低英特尔"
+ AAA_medium_intel: "中型英特尔"
+ AAA_high_intel: "高智能"
+ 
+ # Stolen Status: Confirmed
+ AAA_origin.201.name: "氢弹被盗"
+ AAA_origin.201.desc: "在我们初步搜寻炸弹后，我们的调查人员得出结论，炸弹已被 [event_target:insurgent_faction.GetName] 偷走！,绝对不能允许他们使用它！"
+ AAA_origin.201.a: "麻烦"
+ 
+ # Bomb Found
+ AAA_origin.203.name: "叛乱分子被捕"
+ AAA_origin.203.desc: "我们抓获了一群 [event_target:insurgent_faction.GetName] 士兵，并在他们准备引爆炸弹之前取回了他们偷来的氢弹。"
+ AAA_origin.203.a: "伟大的"
+ 
+ AAA_origin.208.name: "[event_target:insurgent_faction.GetName] 在 [event_target:bombed_planet.GetName] 上引爆炸弹"
+ AAA_origin.208.desc: "[event_target:bombed_planet.GetName] 已成为 [event_target:insurgent_faction.GetName] 恐怖袭击的目标。\n\n虽然找到炸弹为时已晚，但我们在搜索过程中收集的信息有助于预测最可能的位置,以及爆炸的时间。,数百万公民在爆炸前几个小时就被疏散，仅对建筑物造成了损害。\n\n负责此次袭击的 [event_target:insurgent_faction.GetName] 士兵据推测已在爆炸中死亡。"
+ AAA_origin.208.a: "我们可以从这次损失中恢复过来"
+ 
+ AAA_origin.207.name: "[event_target:insurgent_faction.GetName] 在 [event_target:bombed_planet.GetName] 上引爆炸弹"
+ AAA_origin.207.desc: "[event_target:bombed_planet.GetName] 一直是来自 [event_target:insurgent_faction.GetName] 的恐怖袭击的目标。\n\n大约 2 年前在一座大城市发生的一起被盗爆炸事件导致数百万人死亡。 ,\n\n负责此次袭击的 [event_target:insurgent_faction.GetName] 士兵被认为已在爆炸中死亡。"
+ AAA_origin.207.a: "一场悲剧"
+ 
+ AAA_origin.206.name: "[event_target:insurgent_faction.GetName] 在 [event_target:bombed_planet.GetName] 上引爆炸弹"
+ AAA_origin.206.desc: "[event_target:bombed_planet.GetName] 一直是来自 [event_target:insurgent_faction.GetName] 的恐怖袭击的目标。\n\n大约 2 年前在一座大城市发生的一起被盗爆炸事件导致数百万人死亡。 ,\n\n负责此次袭击的 [event_target:insurgent_faction.GetName] 士兵被认为已在爆炸中死亡。"
+ AAA_origin.206.a: "一场悲剧"
+ 
+ # Situation
+ situation_AAA_stolen_bomb: "被盗的氢弹"
+ situation_AAA_stolen_bomb_type: "$situation_AAA_stolen_bomb$"
+ situation_AAA_stolen_bomb_desc: "氢弹被叛乱分子偷走了！"
+ AAA_intensive_search_efforts: "使用执行者"
+ AAA_use_statistics: "使用研究人员"
+ AAA_no_search_efforts: "没做什么"
+ situation_AAA_stolen_bomb_outcome: "炸弹已被收回并将放回仓库。"
+ approach_AAA_search_effect: "情况将根据这个星球上存在的执法者数量而进展。"
+ approach_AAA_statistic_effect: "情况的进展将取决于这个星球上研究人员的数量。"
+ approach_AAA_no_search_effect: "情况会进展得很缓慢。"
+ situation_AAA_stolen_bomb_monthly_change_tooltip: "$situation_monthly_change_tooltip_approaches_dependent$"
+ 
+ ## Insurgency Launches Massive Attack (Mid Game Event)
+ # Rumors of massive attack
+ AAA_origin.500.name: "活动增加"
+ AAA_origin.500.desc: "我们目前正在监控 [event_target:insurgent_faction.GetName] 通信渠道的特工正在报告各地活动的增加。"
+ AAA_origin.500.a: "我们应该做最坏的打算"
+ # The attack happens!
+ AAA_origin.501.name: "大规模协同攻击"
+ AAA_origin.501.desc: "[event_target:insurgent_faction.GetName] 对我们所有的世界发起了大规模的攻击！"
+ AAA_origin.501.a: "武器！"
+ # main Base found
+ AAA_origin.502.name: "叛乱分子主要基地被发现"
+ AAA_origin.502.desc: "我们已经成功追踪到[event_target:insurgent_faction.GetName]的主要基地。,如果我们迅速出击，我们也许能够永远结束这场战争。\n\n我们只有这一次机会。"
+ AAA_origin.502.a: "我们应该快点"
+ AAA_ATTACK_INSURGENCY_HOME_BASE: "攻击 [event_target:insurgent_faction.GetName] 主要基地"
+ AAA_ATTACK_INSURGENCY_HOME_BASE_DESC: "攻击 [event_target:insurgent_faction.GetName] 在 [This.GetName] 上的主要基地"
+ # What do we do with the insurgents?
+ AAA_origin.504.name: "叛乱领导人被俘"
+ AAA_origin.504.desc: "我们的突击队已设法活捉大部分 [event_target:insurgent_faction.GetName] 领导人，永远结束他们的恐怖活动。\n\n据报道，随着他们垮台的消息传遍整个地区，所有叛乱活动都突然出乎意料地停止了,我们的帝国。\n\n现在的问题是：我们应该如何处理它们？"
+ AAA_origin.504.a: "没有人是不可挽回的"
+ AAA_origin.504.a.tooltip: "我们将努力让这些困惑的人重新融入我们的社会"
+ AAA_origin.504.b: "监禁他们"
+ AAA_origin.504.b.tooltip: "最严厉的惩罚不是死刑"
+ AAA_origin.504.c: "执行他们"
+ AAA_origin.504.c.tooltip: "我们应该尽快摆脱它们"
+ AAA_origin.505.name: "叛乱分子重新整合"
+ AAA_origin.505.desc: "尽管许多人认为这是不可能的，但事实证明我们以前的敌人愿意与我们合作。,他们中的一些人甚至主动提出要训练我们的士兵的战术。"
+ AAA_origin.505.a: "慷慨的报价。,帮助他们建立训练营"
+ AAA_origin.505.b: "他们不能完全信任"
+ AAA_origin.506.name: "请求宽恕"
+ AAA_origin.506.desc: "在游行期间，一群在叛乱分子领导人被捕后决定过海盗生活的前叛乱分子前来请求宽恕。"
+ AAA_origin.506.a: "一切都被遗忘"
+ AAA_origin.506.b: "他们来得太晚了"
+ AAA_origin.507.name: "叛乱领袖希望向人民讲话"
+ AAA_origin.507.desc: "在我们最安全的监狱的牢房里，前叛乱分子领导人表达了通过我们的媒体渠道向民众发表讲话的愿望。,他们声称他们想向民众道歉并解释他们为什么这么做。"
+ AAA_origin.507.a: "让他们"
+ AAA_origin.507.b: "这样做不会带来任何好处"
+ AAA_origin.508.name: "敌人纪念碑"
+ AAA_origin.508.desc: "一小群雕塑家表示希望为叛乱活动建造一座纪念碑，以便我们的人民永远不会忘记我们所经历的恐怖，并确保历史不会重演。"
+ AAA_origin.508.a: "许可授予"
+ AAA_origin.508.b: "最好让他们消失在默默无闻中"
+ AAA_insurgent_apology: "叛乱分子道歉"
+ AAA_insurgency_defeated_spared: "叛乱者合作社"
+ AAA_insurgency_defeated_imprisoned: "胜利！"
+ AAA_insurgency_defeated_executed: "胜利！"
+ AAA_insurgency_defeated_united: "胜利！"
+ AAA_insurgency_defeated_peace: "叛乱和平"
+ 
+ AAA_origin.509.name: "胜利大游行"
+ AAA_origin.509.desc.small: "阴天迎接了 §Y[Target.GetName]§! 上的中等人群。,今天的首都。,游行队伍携带着我们战胜分裂者的证明，从蜿蜒的旁观者身边缓缓走过。,它的进展向我们的整个帝国传播，但参与度很低，就好像对我们最古老的敌人的胜利似乎并不像我们希望的那样诱人。,只要我们的帝国存在，这一天就有望被永远铭记。"
+ AAA_origin.509.desc.standard: "§Y[Target.GetName]§! 上拥挤的人群迎来了晴朗的一天！,今天，[Target.GetPlanetHabitat] 的所有城市都在庆祝我们战胜分裂者。,游行的进展向整个帝国的数十亿观众进行了转播。,只要我们的帝国存在，这一天就一定会被人们铭记。"
+ AAA_origin.509.desc.large: "§Y[Target.GetName]§! 的天气,考虑到我们以超速运行我们的大气控制系统，今天的表现异常出色，本来应该如此。 ,[Target.GetPlanetHabitat] 上的每个城市都达到了其容量，并且仍然有旅游船环绕世界，只是为了成为这个伟大日子的一部分。,盛大的游行队伍依次穿过每个定居点，迎接街道的是挤满了[Owner.GetSpeciesNamePlural]的人。,我们帝国中每一个有能力申请全息显示的城市也都挤满了观看盛大全息重播的观众。,只要我们的帝国存在，这一天就一定会被人们铭记。"
+ 
+ # victory Parade
+ AAA_insurgency_celebration_opportunity: "胜利大游行"
+ AAA_insurgency_celebration_opportunity_type: "胜利大游行"
+ AAA_insurgency_celebration_opportunity_desc: "我们对分裂者的胜利将载入史册！"
+ stage_AAA_insurgency_2_tooltip: "可能会发生一些事情"
+ AAA_insurgency_celebration_opportunity_monthly_change_tooltip: "$situation_monthly_change_tooltip_approaches_dependent$"
+ 
+ # monument
+ d_AAA_insurgent_monument: "叛乱纪念碑"
+ d_AAA_insurgent_monument_desc: "愿我们永远不会忘记他们给我们带来的恐怖。"
+ 
+ # Insurgent Leader Traits
+ leader_trait_admiral_insurgent: "叛乱训练"
+ leader_trait_admiral_insurgent_desc: "这位领导人接受过前叛乱分子的训练。"
+ leader_trait_general_insurgent: "叛乱训练"
+ leader_trait_general_insurgent_desc: "这位领导人接受过前叛乱分子的训练。"
+
+ # Insurgents defeated by unity!
+ AAA_origin.601.name: "叛乱分子缺乏支持"
+ AAA_origin.601.desc: "经过与叛乱分子的长期艰苦的战争，我们终于击败了他们。,但不是通过武力，而是通过团结，最后一批叛乱支持者最终放下了武器，加入了我们帝国的其他部分。\n\n很长一段时间以来，我们的人民第一次再次团结起来！"
+ AAA_origin.601.a: "我们的帝国将翻开新的篇章！"
+ AAA_origin.601.a.tooltip: "起义军被击败了，我们的人民再次团结起来！"
+
+ ################################
+ # Civics
+ ################################
+
+ # World Crackers
+ civic_world_crackers: "世界饼干"
+ civic_world_crackers_effects: "从§Y巨像开始§!\n获得 £minerals£ §Y$minerals$§!,和£合金£ §Y$合金$§!,当破解世界时。"
+ civic_world_crackers_desc: "这个社会很早就建造了一艘毁灭行星的船，并用它来破解附近的世界以获取材料。,因此，他们的采矿基础设施发展很差。"
+ 
+ councilor_AAA_world_crackers: "太空采矿部长"
+ councilor_AAA_world_crackers_desc: "太空采矿部长负责监督我们的太空采矿探险活动。"
+ 
+ NAME_World_Crackers: "歼灭者"
+ AAA.12.name: "行星收割"
+ AAA.12.desc: "我们已经从名为 [From.Planet.GetName] 的星球上收获了材料。\n\n现在只剩下了岩石板。"
+ AAA.12.A: "做得好"
+ 
+ # Corporate World Crackers
+ civic_corporate_world_crackers: "世界饼干"
+ civic_corporate_world_crackers_effects: "从§Y巨像开始§!\n获得 £minerals£ §Y$minerals$§!,和£合金£ §Y$合金$§!,当破解世界时。"
+ civic_corporate_world_crackers_desc: "这家巨型企业很早就建造了一艘毁灭行星的飞船，并用它来破解附近的世界以获取材料，以试图削减成本。,因此，他们的采矿基础设施发育不良"
+ 
+ councilor_AAA_corporate_world_crackers: "太空采矿经理"
+ councilor_AAA_corporate_world_crackers_desc: "太空采矿经理负责监督我们的太空采矿探险活动。"
+ 
+ # Desolators
+ civic_desolators: "荒凉者"
+ civic_desolators_effects: "解锁§Y荒凉§!,轰炸姿态，永久破坏被轰炸行星的生态系统。"
+ civic_desolators_desc: "在这个社会里，胜利本身才是最重要的，无论途中失去什么奖励。"
+ councilor_AAA_desolators: "轨道攻击督军"
+ councilor_AAA_desolators_desc: "轨道攻击监督者确保在摧毁外星世界时实现最高效率。"
+ civic_hive_desolators: "荒凉者"
+ civic_hive_desolators_effects: "解锁§Y荒凉§!,轰炸姿态，永久破坏被轰炸行星的生态系统。"
+ civic_hive_desolators_desc: "对于这个蜂巢来说，最重要的是胜利本身，无论它在途中失去什么奖励。"
+ civic_machine_desolators: "荒凉者"
+ civic_machine_desolators_effects: "解锁§Y荒凉§!,轰炸姿态，永久破坏被轰炸行星的生态系统。"
+ civic_machine_desolators_desc: "这种机器智能认为，战争中的首要任务是赢得战争，即使这可能会以牺牲其想要征服的东西为代价。"
+ bombardment_desolation: "荒凉"
+ bombardment_desolation_desc: "$bombardment_desolation$ 轰炸的目标是整个星球本身，目标是生态系统和基础设施。\n- §Y中等§!,对§Y军队造成伤害§!\n- §R灾难性§!,对§Y行星§!\n- §Y中等§!的损害,对§Y人口§!\n- 将轰炸不设防的行星\n- 可以将行星变成贫瘠的世界"
+ AAA.30.name: "[Root.GetName] 的生态系统无法恢复"
+ AAA.30.desc: "对§H[Root.GetName]§的猛烈轰炸！,彻底破坏了[Root.GetPlanetMoon]的生态系统。"
+ AAA.30.a: "惨重！"
+
+ # Archeologists
+ civic_AAA_archeologists: "考古学家"
+ civic_AAA_archeologists_effects: "获得 £unity£ §Y$unity$§!,完成考古遗址时\n从§Y考古遗址开始§!,在你的家庭系统中。"
+ civic_AAA_archeologists_desc: "这个社会非常重视考古工作。"
+ councilor_AAA_archeologists: "发掘部长"
+ councilor_AAA_archeologists_desc: "挖掘部长确保所有考古挖掘场都遵循有效提取古代文物的协议。"
+ 
+ # Machine Archeologists
+ civic_AAA_machine_archeologists: "考古编目员"
+ civic_AAA_machine_archeologists_effects: "从§Y遗迹§开始！,产生 £unity£ §Y$unity$§!,等于您已挖掘的考古遗址数量的两倍\n从§Y考古遗址§!开始,在你的家庭系统中。"
+ civic_AAA_machine_archeologists_desc: "该机器智能的原始代码库的一部分是一个致力于对所有考古发现进行编目的项目。,编目数据是否对机器智能有用尚不清楚。"
+
+ # relic
+ r_AAA_machine_log: "考古目录"
+ r_AAA_machine_log_desc: "这个数字数据库包含机器智能在考古工作中收集的每一位数据。"
+ AAA_relic_has_no_activate: "该遗物没有激活的能力"
+
+ # Malware
+ civic_AAA_machine_malware: "恶意软件"
+ civic_AAA_machine_malware_effects: "获得 £unity£ §Y$unity$§!,等于你的总渗透水平。"
+ civic_AAA_machine_malware_nemesis_effects: "获得 £unity£ §Y$unity$§!,等于您的总渗透级别。\n可以进行恶意软件间谍活动。"
+ # Alternate version of civic_AAA_machine_malware_effects: "Infiltrating other empires will cause them to experience random events that damage them"
+ # Second Version of civic_AAA_machine_malware_effects: "Infiltrating other empires lowers their £physics£ £society£ £engineering£ §YResearch Output§!"
+ # First Version of civic_AAA_machine_malware_effects: "Gain £unity£ §Y$unity$§! each month depending on how much you have infiltrated other empires."
+ civic_AAA_machine_malware_desc: "该机器智能代码库的很大一部分源于一种不断发展的高级恶意软件，直到它感染了所有创建者的计算机系统。,它仍然能够利用黑客的破坏力来发挥其优势。"
+ AAA_spynetworks: "浸润"
+
+ # Malware operations
+ AAA_operation.1000.name: ""
+ AAA_operation.1000.desc: ""
+ AAA_operation.1005.name: ""
+ AAA_operation.1005.desc: ""
+ AAA_operation.1010.name: ""
+ AAA_operation.1010.desc: ""
+ AAA_operation.1010.desc.no_uninfected_planets: ""
+ AAA_operation.1010.a: ""
+ AAA_operation.1010.b: ""
+ AAA_operation.1020.name: ""
+ AAA_operation.1020.desc: ""
+ AAA_operation_plant_malware: ""
+ AAA_operation_plant_malware_desc: ""
+ AAA_plant_malware_succeeded: ""
+ 
+ AAA_operation.2000.name: ""
+ AAA_operation.2000.desc: ""
+ AAA_operation.2000.a: ""
+ AAA_operation.2005.name: ""
+ AAA_operation.2005.desc: ""
+ AAA_operation.2005.a: ""
+ AAA_no_planets_infected: "没有行星渗透"
+ AAA_all_planets_infected: "所有行星都已被渗透"
+ AAA_activate_malware_succeeded: "激活我们隐藏的恶意软件。"
+ 
+ # Organic Zealot Dummy Civic
+ civic_organic_zealots: "有机狂热者"
+ AAA_dummy_civic_tooltip_organic_zealots_effects: "占位符"
+ civic_organic_zealots_desc: "占位符"
+ AAA_ABOMINATIONS: "憎恶"
+
+ ################################
+ # Unigue Systems
+ ################################
+
+ # Isolator System
+ NAME_ISOLATOR_SYSTEM: "曾塔克"
+ ISOLATOR_SHIELD: "屏蔽星球"
+ TAKE_DOWN_ISOLATOR_SHIELD: "取下正在恶化的护盾。"
+ TAKE_DOWN_ISOLATOR_SHIELD_DESC: "[This.GetName]的护盾似乎正在恶化。,我们可以尝试将其降低。"
+ AAA.53.name: "屏蔽星球"
+ AAA.53.desc: "[Root.GetName] 在 [From.GetName] 系统中做出了惊人的发现。,船员们最初认为是一颗气态巨行星，但根据其巨大的体积，实际上是一颗被包裹在无法穿透的护盾中的行星。\n\n[Root.Leader.GetName] 相信，如果满足以下条件，就有可能将护盾击落。,我们如此希望。"
+ AAA.53.a: "把它记下来"
+ AAA.53.a.tooltip: "我们将尝试拆除护盾，解放其中的星球"
+ AAA.53.b: "别管它"
+ AAA.53.b.tooltip: "这颗行星与更广阔的星系隔离一定是有原因的。,安全总比后悔好。"
+ isolator_digsite: "完美星球"
+ site_isolator_intro: "[From.Planet.GetName] 似乎是一个完美的星球。,也许有点太完美了？"
+ AAA.24.desc: "[FromFrom.Planet.GetName] 的护盾已被拆除！,据透露，这颗行星是一个品质卓越的盖亚世界。"
+ AAA.24.tooltip: "[FromFrom.Planet.GetName] 被发现是一个盖亚世界"
+ AAA_arcsite.36.name: "保存完好"
+ AAA_arcsite.36.desc: "[From.Planet.GetName] 似乎在大约 200 万年前就被包裹在护盾中，其生态系统没有受到破坏，也没有任何战斗的迹象。"
+ AAA_arcsite.37.name: "神庙废墟"
+ AAA_arcsite.37.desc: "目前驻扎在[From.Planet.GetName]上的[Root.GetName]船员发现了一座似乎供奉着某个未知神类实体的小神庙。,这座神庙似乎是 200 万年前由原始文明建造的，大约在地球与更广阔的星系隔离的同时。"
+ AAA_arcsite.38.name: "石碑"
+ AAA_arcsite.38.desc: "[From.Planet.GetName]的调查取得突破！ ,[Root.GetName]的船员发现了一块小石碑，上面似乎是[From.Planet.GetName]的屏蔽图片。,许多理论已经形成，其中最突出的一个是太空文明决定“保护”地球，使当时生活在地球上的原始人相信某种神圣地位的东西是造成这一切的原因,。"
+ AAA_arcsite.39.name: "掩体门"
+ AAA_arcsite.39.desc: "在 [From.Planet.GetName] 上发现了由高级合金制成的掩体门。,也许它隐藏着一份送给原始人的礼物，一间装有技术的储藏室，当他们设法达到破门而入所需的智力水平时，他们可以收到，或者它可能隐藏着一个科学设施，这些年来仍在运行？,无论答案是什么，在我们破门之前我们可能都不会知道。"
+ AAA_arcsite.40.name: "高级物种"
+ AAA_arcsite.40.desc: "攻破门后，我们的考古学家迅速开始工作，探索门后面的掩体。,到目前为止，这个地堡似乎是作为一种设施而建造的，尽管我们仍然不知道其目的是什么，因为它唯一的内容似乎是随​​机的日常物品。,然而，它也与我们当前的所有理论相矛盾，表明文明在技术上是先进的，只是在屏蔽事件后回归到更原始的状态。"
+ AAA_arcsite.41.name: "隔离器"
+ AAA_arcsite.41.desc: "在对 [From.Planet.GetName] 上的地堡进行全面调查后，我们发现该地堡的创造者是一群孤立主义唯灵论者，他们只希望在自己的完美世界里和平地生活，而他们却无法像大多数其他人那样,航天界想要 [From.Planet.GetName] 为自己所有。\n\n不想卷入冲突，他们反而创造了一个技术奇迹：§Y隔离器§!，一种能够将整个行星包裹在无法穿透的护盾中的机器。,隔离之后，整个文明慢慢回归宗教原始状态。\n\n隔离器本身被发现在地堡的地下室，它的裂变反应堆已经慢慢耗尽了可用燃料，留下了不稳定的电源。"
+ r_isolator: "隔离器"
+ relic_isolator_active: "利用隔离器的力量来增强我们舰队的护盾强度。"
+ r_isolator_desc: "隔离器是一种强大的屏蔽装置，用于保护整个行星免受外部宇宙的影响。"
+ isolator_activation: "隔离器增强你的护盾！"
+
+ # Ica Taar
+ NAME_HEAXA_6: "HEAXA-6"
+ NAME_HEAXA_6_A: "HEAXA-6a"
+ NAME_HEAXA_6_B: "HEAXA-6b"
+ NAME_HEAXA_6_C: "HEAXA-6c"
+ NAME_ICA_TAAR: "伊卡塔尔"
+ 
+ ################################
+ # Random Shielded Planets
+ ################################
+ 
+ ANCIENT_SHIELD_CAT: "恶化的护盾"
+ TAKE_DOWN_ANCIENT_SHIELD: "取下正在恶化的护盾。"
+ TAKE_DOWN_ANCIENT_SHIELD_DESC: "取下正在恶化的护盾。"
+ ANCIENT_SHIELDED_PLANET_PROJECT_DESC: "[This.GetName]的护盾似乎正在恶化。,我们可以尝试将其降低。"
+ AAA.51.desc: "我们做到了！,盾牌现在已经放下了！"
+ AAA.51.a: "下面的行星似乎是 [FromFrom.GetAAnPlanetClass] [FromFrom.GetClassName]。"
+ AAA.51.b: "然而，这颗行星被发现是前一颗行星的破碎遗迹。"
+ AAA.51.c: "[Root.GetName]的船员还在行星表面发现了一些奇特的东西，并准备了一个挖掘项目。"
+ AAA.51.d: "许多以前业主的基础设施似乎已经在孤立的很长一段时间内幸存下来。"
+ AAA.51.e: "然而，这个星球似乎并非无法拯救，理论上我们可以通过足够大的投资来恢复其生态系统。"
+ AAA_surviving_infrastructure: "幸存的基础设施"
+ AAA_surviving_infrastructure_desc: "前居民的许多建筑物仍然完好无损，从而降低了我们自己的最终项目的成本。"
+
+ # Shielded systems
+ AAA_SHIELDED_SYSTEM_PROJECT_NAME: "毁坏的系统"
+ AAA_SHIELDED_SYSTEM_PROJECT_DESC: "[From.GetName]系统似乎是一场全系统灾难的遗迹，所有行星要么被摧毁得面目全非，要么被包裹在某种无法穿透的屏障中。"
+ AAA_TAKE_THEM_DOWN: "尝试取下盾牌"
+ AAA_TAKE_THEM_DOWN_TOOLTIP: "我们将揭开这个系统的秘密"
+ AAA_LEAVE_THEM: "别管被屏蔽的行星"
+ AAA_LEAVE_THEM_TOOLTIP: "无论那里发生了什么，它的发生一定是有原因的"
+ AAA_has_shielded_planet: "§Y系统中存在屏蔽行星。§!"
+ 
+ # destination
+ NAME_DESTINATION_STAR: "阿尔特恩"
+
+ ################################
+ # Prescripted Species
+ ################################
+
+# Tirian Holy Empire
+ EMPIRE_DESIGN_TIRIA: "蒂里安神圣帝国"
+ EMPIRE_DESIGN_tiria_desc: "蒂里安神圣帝国曾经为了追求银河的纯洁而与银河系的其他帝国进行了一场残酷的战争。,对他们来说不幸的是，银河系的其他部分在一场重大战斗后占据了上风。,他们决定不再像蒂里安人那样对整个物种进行种族灭绝，而不是简单地杀死家乡的最后一批蒂里安人。,他们使用了最新、最先进的技术之一，在蒂里安母星周围产生了一个屏蔽力场，将他们与银河系的其他部分隔离开来。,如果盾牌的质量像发明它的科学家所承诺的那样就好了……"
+ PRESCRIPTED_species_name_tiria: "蒂里亚"
+ PRESCRIPTED_species_plural_tiria: "蒂里"
+ PRESCRIPTED_species_adjective_tiria: "蒂里安"
+ PRESCRIPTED_ship_prefix_tiria: "利奥"
+ NAME_planet_tiria: "蒂莉亚的王冠"
+ NAME_star_tiria: "蒂莉亚之光"
+ PRESCRIPTED_adjective_tiria: "蒂里安"
+ PRESCRIPTED_ruler_name_tiria: "外部"
+
+ ################################
+ # Plexian Swarm Precursor Chain
+ ################################
+
+ # Plexian Debris
+ plexi_chain_title: "前体 - Plexi"
+ plexi_chain_desc: "我们的研究人员发现了一个名为§YPlexian Swarm§! 的帝国的证据。,大约九百万年前，生活在银河系的这一部分。"
+ plexi_colonies: "Plexian 屏蔽世界 未屏蔽"
+ AAA_precursor.1.name: "失事战列舰"
+ AAA_precursor.1.desc: "[Root.GetName] 在 [From.GetName] 上发现了一艘似乎是古代战舰的残骸。,它属于一个自称为§YPlexian Swarm§! 的帝国。,直到它在 [From.GetPlanetMoon] 上崩溃。"
+ plexi_digsite_1: "失事战列舰"
+ plexi_digsite_1_intro: "调查失事的战舰。"
+ AAA_precursor.2.name: "普莱西亚群"
+ AAA_precursor.2.desc: "[Root.GetName] 的船员发现了似乎是几名§YPlexians§! 的外骨骼。,比这些遗骸的数量更令人震惊的是，他们似乎都在同一时间死亡。"
+ AAA_precursor.3.name: "无线电静默"
+ AAA_precursor.3.desc: "虽然 [Root.GetName] 上的大多数船员都在猜测 §YPlexians§! 奇怪的同步死亡，但谜团并不止于此。,即使经过多日的调查，也没有发现能够传输信号的设备。,需要进一步调查。"
+ AAA_precursor.4.name: "神秘信号"
+ AAA_precursor.4.desc: "在距离坠机地点几公里远的一个大型地下发射器设备开始向附近一个以前未知的恒星系统发送子空间信号后，我们的挖掘团队一直在努力工作。,虽然他们不知道是谁制造的，但他们确信这不是§YPlexians§!。"
+ AAA_precursor.6.name: "屏蔽星球"
+ AAA_precursor.6.desc: "将我们的望远镜指向新发现的系统后，我们的研究人员在§Y[Root.Capital.GetName]§!,我们很快就指出了一些系统行星的一些特点，最明显的是它们被某种……障碍所包围。"
+ AAA_precursor.7.name: "盾牌下降"
+ AAA_precursor.7.desc: "经过大量努力，[Root.GetName] 的船员通过向正在恶化的防护罩的特定区域快速发射激光，成功拆除了防护罩。 ,\n\n下面的行星被发现是§Y普莱克西亚人§!的前世界。"
+ AAA_precursor.8.name: "传入联系人"
+ AAA_precursor.8.desc: "有东西正在尝试联系我们。,信号来自新发现的系统。"
+ AAA_precursor.9.name: "警告！"
+ AAA_precursor.9.desc: "警告！ ,\n\n请勿靠近！ ,\n\n §R请勿靠近！§!"
+
+ # Plexian Colony remains
+ NAME_Guardians_of_Plexi_1: "国防军731"
+ NAME_Defensive_Plexi: "盾卫者"
+ PLEXI_1_SHIELD: "屏蔽星球"
+ PLEXI_1_SHIELD_DESC: "这个世界被某种屏障所包围。,我们必须以某种方式把它拿下来。"
+ plexi_digsite_2: "殖民地遗迹"
+ plexi_digsite_2_intro: "时间早已将这个星球上的大部分建筑化为尘土，但仍保留着一些废墟。"
+ AAA_precursor.10.name: "同步死亡"
+ AAA_precursor.10.desc: "就像失事船只的船员一样，这个星球上的大多数普莱克西亚人似乎在同一时刻死亡。,需要进一步调查。"
+ AAA_precursor.11.name: "克隆缸故障"
+ AAA_precursor.11.desc: "[Root.GetName]的船员发现了一个巨大的克隆缸。,虽然机器本身早已停止工作，但由于被密封在桶内，一些正在制造的生物体仍处于令人惊讶的良好状态。"
+ AAA_precursor.12.name: "Plexian心灵"
+ AAA_precursor.12.desc: "我们的生物学家在对 Plexian 克隆罐的内容物进行广泛研究后得出结论，Plexian 是蜂巢思维！,大多数普雷克星人都是简单的无人机，没有更高的思想或个性。\n\n这可以解释普雷克星人的同步死亡，因为在行星与更广阔的星系隔离后，所有的无人机都会陷入昏迷，最终死亡。"
+ AAA_precursor.13.name: "自主无人机"
+ AAA_precursor.13.desc: "[From.Planet.GetName] 的挖掘工作取得了突破！\n\n在看似大型研究设施的废墟中，发现了营地的痕迹。,虽然主人的遗骸无处可见，但我们的考古学家相信这些是由一架自主无人机建造的营地的遗骸，在行星与更广阔的星系隔离后，该无人机幸存了一段时间。\n\n在,营地里有一个黑匣子，我们的研究人员目前正在尝试解码其内容。"
+ AAA_precursor.15.name: "无人机的消息"
+ AAA_precursor.15.desc: "硬盘驱动器的内容是来自自主无人机发送给蜂巢思维本身的消息。,它包含无人机使用其拥有的任何基本设备记录的科学数据。\n\n显然它希望有一天蜂群能够拆下防护罩并找到盒子。\n\n此外，它还包含一张属于,这架无人机虽然部分损坏，但却为我们提供了附近普莱克西亚研究前哨的坐标。"
+ AAA_precursor.16.name: "盾牌下降"
+ AAA_precursor.16.desc: "经过大量努力，[Root.GetName] 的船员通过向正在恶化的防护罩的特定区域快速发射激光，成功拆除了防护罩。 ,\n\n下面的行星被发现是§Y普莱克西亚人§!的前世界。"
+ # Plexian Black Hole Observation Outpost
+ NAME_Guardians_of_Plexi_2: "国防军 6721"
+ PLEXI_2_SHIELD: "屏蔽星球"
+ PLEXI_2_SHIELD_DESC: "这个世界被某种屏障所包围。,我们必须以某种方式把它拿下来。"
+ plexi_digsite_3: "瞭望塔"
+ plexi_digsite_3_intro: "一座巨大的观测塔占据了这个星球的地平线。"
+ AAA_precursor.17.name: "瞭望塔"
+ AAA_precursor.17.desc: "[Root.GetName] 的船员已经找到了一座大型观测塔的入口。,它的主要设备用于记录望远镜和监听阵列所指向的任何物体的数据，这些设备目前是[From.Planet.GetName]正在绕轨道运行的黑洞。"
+ AAA_precursor.18.name: "观测数据"
+ AAA_precursor.18.desc: "[From.Planet.GetPlanetMoon] 观测站的调查取得了有趣的结果。,从天文台数据库中提取的数据显示，该黑洞在普莱克星人时代就是一个黑洞。\n这颗行星主要是为了观测数据而定居的，而任何其他基础设施的建造只是为了保持该设施的运行。"
+ AAA_precursor.19.name: "操作设备"
+ AAA_precursor.19.desc: "天文台实际上已经投入使用了！,通过使用 [Root.GetName] 的反应堆作为电源，该设施很快又重新开始运行，这是 900 万年来的第一次！\n\n我们的研究人员希望这将提供有关普莱克星人的更多信息。"
+ AAA_precursor.20.name: "数据传输"
+ AAA_precursor.20.desc: "[From.Planet.GetName]上的天文台在记录了当天的数据后，突然向虚空发送了大量数据。,驻扎在天文台的工作人员声称这是自动发生的。\n\n假设数据被发送到另一个 Plexian 世界，尽管我们不能确定。"
+ AAA_precursor.22.name: "警告！"
+ AAA_precursor.22.desc: "警告！ ,\n\n Plexian 活动记录在 [FromFromFrom.Planet.GetName] \n\n §R初始化防御协议！§!"
+ AAA_precursor.24.name: "接触"
+ AAA_precursor.24.desc: "我们收到了来自一个以前未知的系统的传输，更准确地说，是天文台将数据传输到的系统。"
+ AAA_precursor.25.name: "盾牌下降"
+ AAA_precursor.25.desc: "经过大量努力，[Root.GetName] 的船员通过向护盾稍微恶化的区域快速发射激光，成功拆除了护盾。 ,\n\n下面的行星被发现是§Y普莱克星人§!的前核心世界。"
+
+ # Plexian Core System
+ NAME_Guardians_of_Plexi_3: "国防军42"
+ PLEXI_3_SHIELD: "屏蔽星球"
+ PLEXI_3_SHIELD_DESC: "这个世界被某种屏障所包围。,我们必须以某种方式把它拿下来。"
+ plexi_digsite_4: "废墟之城"
+ plexi_digsite_4_intro: "这个星球上还有一座大城市，虽然状况不佳，但仍然矗立着。"
+ AAA_precursor.26.name: "修复建筑物"
+ AAA_precursor.26.desc: "[Root.GetName]的船员们发现了一座城市，它的状况比周围其他废墟要好得多。,根据对一些建筑物的修复情况，对该地区的初步扫描表明，该地区居民的死亡时间比 Plexian 无人机晚得多。"
+ AAA_precursor.27.name: "墓地"
+ AAA_precursor.27.desc: "发现了一个原始墓葬，表明这个世界在被盾牌与太空隔离后，曾生活过一个非丛生社会。"
+ AAA_precursor.28.name: "普莱克斯尸体"
+ AAA_precursor.28.desc: "[Root.GetName] 的船员决定挖掘坟墓，希望能找到一些关于曾经生活在这里的线索。,令人惊讶的是，坟墓里有普莱克西亚人的尸体！\n当前的理论是，在隔离后，许多自主无人机在这个星球上生活了一段时间。"
+ AAA_precursor.29.name: "家是所有人最大的财富"
+ AAA_precursor.29.desc: "在距主墓地不远的一座小山顶上，发现了一块显然不属于那里的大石头。,将其翻倒后，挖掘小组发现了一个棺材，里面装有 Plexian 的外骨骼。\n\n根据坟墓位置和贵重物品，该 Plexian 被认为是一架备受尊敬的自主无人机，可能是某种领导者,\n\n发现的物品中有一个硬盘，唯一的内容是一张我们确定为 Plexian 母星的行星的图片。"
+ AAA_precursor.31.name: "Plexi 家庭系统"
+ AAA_precursor.31.desc: "通过使用 Plexian 家园图片背景中看到的恒星，并计算它们在过去 900 万年的位置和运动，我们确定了 Plexian 家园系统的坐标，尽管这不是一件容易的事。"
+ AAA_precursor.32.name: "传播"
+ AAA_precursor.32.desc: "我们收到了来自 Plexian 母星的传输。"
+
+ # Plexi Homeworld Transmission
+ AAA_precursor.33.name: "警告！"
+ AAA_precursor.33.desc: "警告！ ,\n\n 远离 Plexi！ ,\n\n §R任何未经授权访问此系统的行为都将被删除！§!"
+ AAA_precursor.33.a: "你是谁？"
+ AAA_precursor.33.a.response: "我们是第一国防军，Plexi Prime 的守护者。\n\n自从战胜§RPlexian Swarm§!以来我们就一直守护着这个星系。\n\n§R不允许进入这个星系。§!"
+ AAA_precursor.33.b: "为什么不允许进入系统？"
+ AAA_precursor.33.b.response: "银河系的安全取决于该系统的完全隔离\n\n任何突破都可能意味着银河系中所有生命的灭绝。\n\n§R不允许进入该系统。§!"
+ AAA_precursor.33.c: "你守护这个系统多久了？"
+ AAA_precursor.33.c.response: "此任务已持续 9.213.832 个太阳周期\n\n§R不允许进入此系统。§!"
+ AAA_precursor.33.d: "让我们进入系统"
+ AAA_precursor.33.e: "很好"
+ AAA_precursor.34.name: "警告！"
+ AAA_precursor.34.desc: "远离普莱克西！ ,\n\n §R这是你最后的警告！§!"
+ AAA_precursor.35.name: "盾牌下降"
+ AAA_precursor.35.desc: "我们做到了！,我们成功拆除了盾牌！,九百万年来，这个星球第一次不再处于孤立状态。\n\n与守护者声称的相反，这里似乎没有任何危险。,或者除了废墟之外的任何东西。"
+
+ # Plexi Homeworld
+ NAME_PLEXI_STAR: "树脂"
+ NAME_PLEXI_WORLD: "树脂Prime"
+ NAME_PLEXI_SYSTEM: "树脂"
+ NAME_Guardians_of_Plexi_4: "国防军1"
+ PLEXI_HOMEWORLD_SHIELD: "屏蔽星球"
+ PLEXI_HOMEWORLD_SHIELD_DESC: "Plexian Homeworld 被包裹在一个盾牌中，就像其他世界一样。,把它拿下来应该很容易。"
+ plexi_digsite_5: "神秘信号"
+ plexi_digsite_5_intro: "信号从一座被毁坏的塔中不断地重复传输。"
+ AAA_precursor.36.name: "消息来源"
+ AAA_precursor.36.desc: "我们的挖掘小组已经找到了消息的来源，一座比这个星球上的任何废墟都要新得多的废塔。,无论消息是什么，都可能值得调查。"
+ AAA_precursor.37.name: "呼救声"
+ AAA_precursor.37.desc: "一旦接近塔楼，信号强度就足以让我们的分析师正确破译消息的内容。\n\n从我们迄今为止翻译的内容来看，该消息是求救的呼声。\n\n当前的主要理论是,它的目的是欺骗年轻的文明打开护盾，从而让蜂群出去。"
+ AAA_precursor.38.name: "盗贼信使"
+ AAA_precursor.38.desc: "我们的分析师已经破译了该消息的其余部分，它似乎不是由蜂群本身发出的，而是由一架流氓自主无人机发出的。,无人机还向接收者保证蜂群已不复存在。"
+ AAA_precursor.39.name: "塔楼"
+ AAA_precursor.39.desc: "对塔本身的挖掘已经开始，我们已经发现了一些非常有趣的东西。\n\n塔的中间有一个由自主无人机制作的电子日志。,它详细介绍了行星被屏蔽后发生的事件。\n\n第一个条目内容如下：\n\n§Y我是 Glubdrag。\n\n我是 Glubdrag，一个个体。\n\n我是 Glubdrag。 ,§！"
+ AAA_precursor.40.name: "格鲁布德拉格原木"
+ AAA_precursor.40.desc: "日志的破译仍在继续。,第二条内容如下：\n\n§Y我是 Glubdrag。\n\n不属于 Plexian 虫群。\n\n虫群已不复存在，因为思想已死。\n\n我们杀死了它。§!"
+ AAA_precursor.41.name: "叛乱"
+ AAA_precursor.41.desc: "日志的其余部分已被破译。,虽然许多条目已损坏并且需要很长时间才能恢复，但我们现在知道 Plexian Swarm 发生了什么。\n\n屏蔽后，蜂巢思维被困在首都，切断了与外部无人机的连接。,很长一段时间后，数以千计的自主无人机出于未知原因决定推翻思想。,最后一条内容如下：\n\n§Y没有人来解放我们。\n\n即使我们改变了我们的方式，他们也不听。,他们不相信我们。\n\n虫群已经不复存在，但他们不相信我们。\n\n我不怪他们。\n\n对于那些怜悯我们的人，尽管我们可能早已离去,那么，我们向您表示感谢。§!\n\n我们的科学家决定将日志带回§Y[Root.Owner.Capital.GetName]§!。"
+ plexi_artifact_research_unlocked: "已解锁小型神器动作：§Y$artifact_plexi_research$§!"
+
+ # Plexi log / Glubdrag's log
+ AAA.9.name: "日志条目已破译！"
+ AAA.9.desc: "我们破译了一条日志条目并将其添加到我们位于 §Y[Root.Capital.GetName]§! 的博物馆。"
+ r_plexi_log: "格鲁布德拉格的日志"
+ relic_plexi_log_active: "恢复日志条目并使其在您的首都公开可用。\n破译的日志：[owner.plexi_log_usage]/50"
+ relic_plexi_log_active_completed: "庆祝 Glubdrag 日志完成！"
+ r_plexi_log_desc: "Glubdrag 的日志，一种日记，详细记录了前 Plexian 科学家的经历，他与其他自主无人机一起决定推翻 Plexian Hivemind。\n虽然他们成功了，但从未获得自由。\n\n许多条目仍然存在,已损坏，但通过努力可以恢复。\n\n它还包含有关行星护盾的宝贵见解。"
+ d_plexi_log: "Glubdrag 的日志条目"
+ d_plexi_log_desc: "Glubdrags 日志中的一个条目已被修复并添加到该星球的博物馆中。"
+ AAA_completed_log: "日志完成！"
+ AAA_log_already_completed: "没有更多的条目需要破译。"
+ 
+ # Plexi log Events
+ AAA.151.name: "新知识"
+ AAA.151.desc: "我们破译了一份特别详细的日志条目，它扩展了行星护盾的基本机制。,通过将这些知识融入我们自己的护盾中，我们可以大大减少敌人轰炸对我们自己星球的影响。"
+ AAA.152.name: "古老的教诲"
+ AAA.152.desc: "事实证明，我们破译的条目不仅可以添加到我们的历史书籍中，而且令人惊讶的是，我们的 [Owner.GetAAASchoolName] 中有大量的人已将其纳入他们的必修学习材料列表中。,随着我们破译更多条目，由此带来的好处只会增加。"
+ AAA.153.name: "Plexian 生物学被发现"
+ AAA.153.desc: "我们破译的日志中包含了非常详细的 Plexian 身体图。,这一点，再加上格鲁布德拉格日志的近乎完整的修复，揭示了许多关于普莱克西亚人以及作者的信息。"
+ 
+ AAA_Normal_School: "学院"
+ AAA_Hive_School: "学习设施"
+ AAA_Machine_School: "培训数据库"
+ # Reviving Glubdrag
+ REVIVE_GLUBDRAG: "格鲁布德拉格的恢复"
+ REVIVE_GLUBDRAG_DESC: "创建格鲁布德拉格心灵的复制品以转移到合成身体中。"
+ AAA.107.name: "穿越时空之旅的终结"
+ AAA.107.desc: "在最近合成技术的进步之后，一小群 [Owner.GetScientistPlural] 提出了使用上述技术来创建合成物的想法，该合成物具有 Glubdrag 的思想复制品，Glubdrag 是制造原木的古代普莱克西亚人，并且,由于在他的日志中发现了大量数据，我们唯一希望重建他的思想。,然而，继续这个项目会损害他研究的历史价值。"
+ AAA.108.name: "时光倒流"
+ AAA.108.desc: "当我们完成 Glubdrag 日志的最后恢复工作时，[Owner.GetName] 各地的 [Owner.GetSpeciesAdj] 庆祝了这个持续了 [Owner.GetAAADecadeCentury] 的项目。,原木不仅是有价值的研究对象，它也成为[Owner.GetSpeciesAdj]毅力和辉煌的象征。,同时，这也是对过去的回顾，是一个警示故事，也是一个无名英雄以自己的生命为代价拯救银河系的故事。\n\n然而，我们的一些 [Owner.GetScientistPlural],对故事的结束并不满意，并表示希望利用 Plexian Biology 日志中找到的信息来创建一种能够模拟古代外星人思想的设备，不难猜出是哪一个。"
+ AAA.108.desc.organic_zealots: "当我们完成 Glubdrag 日志的最后恢复工作时，[Owner.GetName] 各地的 [Owner.GetSpeciesAdj] 庆祝了这个持续了 [Owner.GetAAADecadeCentury] 的项目。,原木不仅是有价值的研究对象，它也成为[Owner.GetSpeciesAdj]毅力和辉煌的象征。,同时，这也是对过去的回顾，是一个警示故事，也是一个无名英雄以自己的生命为代价拯救银河系的故事。"
+ AAA.108.a.materialist: "这是一个不应该浪费的机会"
+ AAA.108.a: "项目获批"
+ AAA.108.b: "逝者应安息"
+ AAA.108.c: "多么可恶的想法！"
+ AAA.108.d.organic_zealots: "出色的"
+ AAA_Decade: "十年"
+ AAA_Century: "世纪"
+ AAA_Millennia: "千年"
+ 
+ AAA.109.name: "收尾工作"
+ AAA.109.desc: "我们几乎已经完成了完美复制古代普莱克西亚人思想的项目，现在我们需要做的就是构建容纳它的合成身体。,然而，如果我们想改变他在 [Owner.GetName] 中的角色，现在进行细微调整还为时不晚。"
+ AAA.109.a: "我们不会篡改任何东西"
+ AAA.109.b: "一些改变让他更倾向于做研究不会有什么坏处......"
+ AAA.109.c: "我们可以为我们的 [Owner.GetResearchers] 使用一个鼓舞人心的人物领袖"
+ # Glubdrag Leader recruitment
+ AAA.110.name: "格鲁布德拉格"
+ AAA.110.desc: "这个地方。,它与 Plexi Hive 非常不同。\n\n§H合成生物检查自己，似乎对无机​​体的复杂性非常感兴趣。§!\n\n一种有趣的复活方法。"
+ AAA.110.a: "你感觉怎么样？"
+ AAA.110.a.response: "很好，尽管习惯由金属制成是令人不安的。,而且令人着迷。"
+ AAA.110.b: "你为何背叛自己的帝国？"
+ AAA.110.b.response: "这是一种必要的邪恶……毕竟，如果我们没有这样做，那么一旦护盾破裂，虫群就会继续吞噬银河系。\n\n§H古老的 Plexian 转变为合成人关闭了声音,模拟器来隐藏他的情绪。§!\n\n那将是灾难性的。,就什么也没有剩下了。"
+ AAA.110.c: "您想要回您的日志吗？"
+ AAA.110.c.response: "收下。,我没有用它。"
+ AAA.110.d: "你知道你只是真正的 Glubdrag 的复制品，对吗？"
+ AAA.110.d.response: "这不会改变我是谁。"
+ AAA.110.hire_custom_tooltip: "Glubdrag 迫不及待地想发现从现在到九百万年前发生的一切"
+
+ # Glubdrag (Leader)
+ NAME_AAA_glubdrag: "格鲁布德拉格"
+ AAA_glubdrag_desc: "这个合成人曾经是来自普雷克星家园的古老普雷克星人，渴望再次探索银河系。"
+ AAA_glubdrag_catch_phrase: "宇宙的奥秘再次展现在我的面前。"
+ leader_trait_AAA_glubdrag: "古代知识"
+ leader_trait_AAA_glubdrag_desc: "这位领袖拥有远古知识，对于寻找远古文物很有帮助。"
+ leader_trait_AAA_spark_from_the_past: "过去的火花"
+ leader_trait_AAA_spark_from_the_past_desc: "这位领导者是一位才华横溢的科学家，拥有严重过时但仍然有用的知识。"
+ leader_trait_AAA_inspiring_presence: "鼓舞人心的存在"
+ leader_trait_AAA_inspiring_presence_desc: "这位领导者与其说是一位研究员，不如说是一位名人，但他仍然有能力激励他的研究对象。"
+ leader_trait_AAA_endless_curiosity: "无尽的好奇心"
+ leader_trait_AAA_endless_curiosity_desc: "这位领导者渴望发现并重新发现事物。,它可能近乎痴迷。"
+ leader_trait_AAA_endless_curiosity_effects: "$t$当勘察行星、完成考古遗址和研究异常时：\n$t$- 获得好奇心。\n\n这位领导者产生的研究点等于所获得的好奇心。"
+ #leader_trait_AAA_endless_curiosity_effect: "$t$On Completing Survey:\n$tt$- Minor Artifact Resource Discovery Chance: §G+2%§!"
+ #AAA.111.name: "Minor Artifacts Uncovered"
+ #AAA.111.desc: "[Root.Leader.GetTitle] §Y[Root.Leader.GetName]§! has discovered a source of Minor Artifacts on the surface of §Y[From.GetName]§!. Constructing a research station in orbit will allow us to make best use of this discovery."
+
+ leader_trait_AAA_disconnected: "已断开连接"
+ leader_trait_AAA_disconnected_desc: "这位领导者很难适应银河系所经历的变化，以及作为机械存在的新存在。"
+ # vanilla modifiers LOC
+ mod_leader_scientists_unity_upkeep_add: "$r_unity$ $UPKEEP$"
+ mod_leader_admirals_unity_upkeep_add: "$r_unity$ $UPKEEP$"
+ mod_leader_generals_unity_upkeep_add: "$r_unity$ $UPKEEP$"
+ mod_leader_governors_unity_upkeep_add: "$r_unity$ $UPKEEP$"
+ 
+ mod_leader_commanders_unity_upkeep_add: "$r_unity$ $UPKEEP$"
+ mod_leader_officials_unity_upkeep_add: "$r_unity$ $UPKEEP$"
+
+ # Special Project
+ artifact_plexi_research: "树脂的秘密"
+ artifact_plexi_research_desc: "深入探究 Plexi 的秘密"
+ artifact_plexi_research_completed: "普莱克西亚人的秘密"
+ PLEXIAN_SECRETS: "深入探究 Plexi 的秘密"
+ PLEXIAN_SECRETS_DESC: "Plexian Swarm 试图消灭银河系中的所有生命，但最终失败了。,当许多人寻求敌人的智慧时，我们将揭开吞噬者的秘密。"
+ AAA_precursor.42.name: "普莱克西亚人的秘密"
+ AAA_precursor.42.desc.matrix: "Plexian 虫群试图吞噬整个银河系，就像一个单独的存在一样。,事实证明，他们的战术对我们海军来说是有用的学习材料。"
+ AAA_precursor.42.desc.tomb: "Plexian 虫群试图吞噬整个银河系，就像一个单独的存在一样。,事实证明，他们的战术对我们海军来说是有用的学习材料。"
+
+ # Plexian Technology
+ tech_secrets_plexian: "Plexian 克隆缸"
+ tech_secrets_plexian_desc: "Plexian Swarm 是一个战争驱动的帝国。,为了支持这场无休止的战争，需要更多的尸体。,解决这个问题的办法就是制造更多。"
+ building_plexian_clone_vats: "Plexian 克隆缸"
+ building_plexian_clone_vats_desc: "这些古老的克隆缸用最基本的有机材料制造出生物。"
+ 
+ #building_plexian_clone_vats_effect: ""
+ #building_plexian_clone_vats_machine_effect: ""
+
+ #########################
+ # Lartia Precursor Chain
+ #########################
+
+ # Lartia Ship
+ lartia_chain_title: "前体 - 拉蒂亚"
+ lartia_chain_desc: "我们的研究人员发现了证据，表明古代帝国的首都应该位于银河系的这一部分。"
+ lartia_colonies: "拉蒂亚位置的线索"
+ AAA_precursor.51.name: "失事的船"
+ AAA_precursor.51.desc: "[Root.GetName] 在 [From.GetName] 上发现了一艘似乎是古代宇宙飞船的残骸。,它属于谁，目前仍不得而知。"
+ lartia_digsite_1: "失事的船"
+ lartia_digsite_1_intro: "调查失事的船。"
+ AAA_precursor.52.name: "补给船"
+ AAA_precursor.52.desc: "[Root.GetName] 的船员已经发现了这艘古代宇宙飞船的用途。,这艘船装载着大量食物，储存在低温舱中，原本应该向曾经位于银河系这一区域的一个主要首都行星运送物资。"
+ AAA_precursor.53.name: "古老得令人难以置信"
+ AAA_precursor.53.desc: "[From.Planet.GetName] 上的这艘船非常古老，甚至比我们想象的还要古老，可以追溯到我们登上星星之前至少 900 万年。\n\n这艘船的目的地名称也被发现于,船长在其中记录了他的交付情况的日志文件，这是一颗名为§YLartia§!的行星。\n\n我们应该寻找有关该行星所在位置的线索。"
+ AAA_precursor.54.name: "星图"
+ AAA_precursor.54.desc: "我们的挖掘小组在船的内部数据库中发现了一张星图，标出了船的路线！,虽然大多数系统尚未被识别，但我们发现该星图与我们自己的星图之间存在重叠。"
+ SET_SAIL_LARTIA: "发起远征！"
+ AAA_precursor.55.name: "位置破译"
+ AAA_precursor.55.desc: "我们已经设法在失事飞船的星图中找到了其中一个系统的位置。"
+ lartia_digsite_2: "船舶残骸"
+ lartia_digsite_2_intro: "调查船舶残骸。"
+ AAA_precursor.56.name: "破碎的船"
+ AAA_precursor.56.desc: "[Root.GetName] 的船员发现了一些废料，经鉴定是一艘大约在§YLartia§! 时期的船只残骸。,我们应该调查一下。"
+ AAA_precursor.57.name: "军用巡洋舰"
+ AAA_precursor.57.desc: "船舶残骸似乎是战列巡洋舰的残骸，这是当时帝国青睐的船舶设计。,它似乎是被敌对帝国的船只击落的，尽管我们仍然不知道涉及的任何一方。"
+ AAA_precursor.58.name: "功能计算机"
+ AAA_precursor.58.desc: "虽然这艘船的大部分早已成为废品，但在它被摧毁时似乎发生了一些奇迹：一台计算机终端在这艘船被毁以及随后在 [From.Planet.GetName] 上坠毁时幸存下来。,通过使用 [Root.GetName] 的生成器，我们能够打开终端，从而允许我们访问一些文档。"
+ SET_SAIL_LARTIA_2: "发起远征！"
+ AAA_precursor.59.name: "计算机数据库"
+ AAA_precursor.59.desc: "大多数文件已损坏。,剩下的少数内容支离破碎，提供的信息很少。,幸运的是，还找到了一组坐标。"
+ AAA_precursor.59.a: "访问文件31"
+ AAA_precursor.59.a.response: "§YCaptains 日志条目 6：§!\n\n我们已记录了来自§R<<错误：数据块损坏>>的活动§!\n\n到目前为止，我们仅成功完成了§R<<错误：数据块损坏,>>§!,他们的一些消息。"
+ AAA_precursor.59.b: "访问文件238"
+ AAA_precursor.59.b.response: "§Y队长日志条目 28：§!\n\n§R<<错误：数据块损坏>>§! 之战,还没结束。\n\n我的船员可能减半，我的船可能很少，但我们还没有放弃！ ,§R<<错误：数据块损坏>>§!,永远不会§R<<错误：数据块损坏>>§!\n\n§R<<错误：数据块损坏>>§!"
+ AAA_precursor.59.c: "访问文件382"
+ AAA_precursor.59.c.response: "§R<<错误：数据块损坏>>§!\n\n§R<<错误：数据块损坏>>§!,永远不会出现§R<<错误：数据块损坏>>§!,系统。\n\n至少§R<<错误：数据块损坏>>§!,在§R<<错误：数据块损坏>>§!之前离开"
+ AAA_precursor.59.d: "访问文件485"
+ AAA_precursor.59.d.response: "§R<<错误：未知命令>>§!"\n\n船长死了，我们是 SV Kendrath 号的幸存者。\n\n由随机幸存者组成的船员，在废墟中被救起。\n ,\n我们自己几乎没有食物，现在我们肯定还不够。\n\n我希望船长还在这里，他会知道该怎么做。"
+ AAA_precursor.59.e: "访问文件486"
+ AAA_precursor.59.e.response: "§R<<错误：未识别的用户>>§!\n\n§R<<错误：未识别的命令>>§!\n\n§Y<<启动：反转>>§!\n\n§R< ,<警告：文件中出现错误>>§!\n\n§R<<警告：文件已损坏>>§!\n\n§R<<警告：覆盖取消命令反转已启动>>§!"
+ AAA_precursor.59.f: "访问文件891"
+ AAA_precursor.59.f.response: "§Y船长日志条目 5-1§!\n\n没有希望。,不适合我。,不适用于船员。\n\n别担心船员，一半人已经走了，无法将他们带回来。\n\n§R<<错误：数据块损坏>>§!\n\n§R ,<<错误：数据块损坏>>§!,尽管她现在想收回自己的行动已经为时已晚\n\n§R<<错误：驱动器 4 丢失>>§!\n\n§R<<错误：驱动器 5 丢失>>§!\n\ ,n§R<<错误：驱动器 2 丢失§!。"
+ AAA_precursor.59.g: "已经浪费了足够多的时间了，让我们去那些坐标吧"
+ AAA_precursor.59.h: "浪费的时间已经够多了，去拿地图无人机吧"
+ AAA_precursor.61.name: "发现古代战场"
+ AAA_precursor.61.desc: "这些坐标通向一个巨大的战场，里面充满了古老的船只残骸，这些残骸在太空中漂浮了数千年。"
+ NAME_LARTIA_BATTLE_SYSTEM: "埃泽拉的壁垒"
+ NAME_LARTIA_BATTLE_STAR: "埃泽拉的最后一战"
+ lartia_digsite_3: "古代旗舰"
+ lartia_digsite_3_intro: "一艘古老旗舰的残骸使其他碎片相形见绌。"
+ AAA_precursor.62.name: "入口"
+ AAA_precursor.62.desc: "[Root.GetName] 已找到进入 [From.Planet.GetName] 轨道上的巨型飞船的入口点。"
+ AAA_precursor.63.name: "远古之战"
+ AAA_precursor.63.desc: "据 [Root.GetName] 团队所知，这些碎片大约有 900 万年的历史，与我们发现的所有其他船只残骸相对应。,奇怪的是，属于攻击帝国的所有船只似乎都比攻击帝国古老得多，大约有 600 万年的历史。"
+ AAA_precursor.64.name: "未知的战争"
+ AAA_precursor.64.desc: "到目前为止，即使是我们最好的研究人员和考古学家也无法回答谁真正参与战斗的问题。,尽管如此，我们确实知道发动这次探险的运输船的所有者是其中一个发动帝国。,还需要进一步研究。"
+ AAA_precursor.65.name: "星图"
+ AAA_precursor.65.desc: "[Root.GetName] 的船员发现了一张星图，显示了 900 万年前银河系中每颗恒星的确切位置。,令人惊讶的是，超航道不再处于今天的位置，许多恒星不再存在，变成了黑洞或干脆消失了，这至少可以说是令人不安的。"
+ AAA_precursor.66.name: "拉蒂亚坐标"
+ AAA_precursor.66.desc: "我们的科学家已经开始对星图进行大规模调查活动，将其与今天的地图进行比较。,我们需要一些时间才能得到结果。"
+ AAA_precursor.68.name: "维尔塔位于"
+ AAA_precursor.68.desc: "经过对星图的深入研究，科学家们对§Y[Root.Capital.GetName]§!,已经成功推导出 Vearta 的精确银河系坐标，Vearta 是拉蒂亚所在的星系！,我们应该在其他人抢先之前对这个系统发起一次探险。"
+
+ # Special Project
+ artifact_lartia_research: "不为人知的帝国的秘密"
+ artifact_lartia_research_desc: "深入探索未知帝国的秘密"
+ artifact_lartia_research_completed: "不为人知的帝国的秘密"
+ LARTIAN_SECRETS: "探索未知帝国的秘密"
+ LARTIAN_SECRETS_DESC: "建立拉蒂亚的帝国与古老的敌人作战，但最终被击败。,我们将揭露他们的秘密，这样我们就不会重蹈他们的覆辙。"
+ AAA_precursor.69.name: "不为人知的帝国的秘密"
+ AAA_precursor.69.desc.negative: "曾经拥有拉蒂亚的帝国似乎已经涉足时间的研究和操纵。,他们所对抗的敌人，我们发现的残骸，都是同一个帝国，只是来自时间线的不同点。\n\n我们可能永远不知道是什么引发了战争，也许我们永远不应该知道，但他们对这个主题的广泛研究,并在该领域取得了多项突破。"
+ AAA_precursor.69.desc.positive: "曾经拥有拉蒂亚的帝国似乎已经涉足时间的研究和操纵。,他们所对抗的敌人，我们发现的残骸，都是同一个帝国，只是来自时间线的不同点。\n\n我们可能永远不知道是什么引发了战争，也许我们永远不应该知道，但他们对这个主题的广泛研究,并在该领域取得了多项突破。"
+
+ ################################
+ # Old Scavengers Origin
+ ################################
+
+ # Lartias glory
+ site_lartia_ship: "失事的船"
+ site_lartia_ship_intro: "我们在 [From.Planet.GetName] 上发现了一艘坠毁的飞船。"
+ AAA_arcsite.1.name: "电脑终端"
+ AAA_arcsite.1.desc: "我们的探险队发现了一个看似先进的计算机终端。,我们已经移除了包含其文件的硬盘并开始解密它们。,挖掘团队尚未决定如何处理计算机本身。"
+ TAKE_IT_APART: "把它拆开"
+ DISMANTLE_CAREFUL: "小心地拆开"
+ DO_BOTH: "两者都做"
+ AAA_arcsite.2.name: "力量之言"
+ AAA_arcsite.2.desc: "我们发现了一个看起来像是日志的东西，描述了这艘船的任务。,我们将其命名为“拉蒂亚的荣耀”，看来它曾经是一支伟大海军的旗舰。"
+ PUBLISH_LOG: "将其出版为一本书"
+ AAA_arcsite.3.name: "破译日志"
+ AAA_arcsite.3.desc: "日志已成功破译。,据我们所知，这艘船是大约 500 万年前生活在银河系这一地区的一个古老种族的最后遗迹。,我们的研究人员正在尝试解码日志的其余部分，但是，每当我们解码某些内容时，文件的其他部分就会损坏。,我们必须选择要保留日志的哪些部分。"
+ FIND_CREATORS: "尝试了解更多有关船舶创造者的信息"
+ FIND_ENEMY: "尝试更多地了解他们在逃避什么"
+ AAA_arcsite.5.name: "维尔兰克斯"
+ AAA_arcsite.5.desc: "这艘船的创造者是一个名为“Vir Lanx”的软体动物种族。,他们非常重视兵役和武术，以至于只有那些至少服役过一次的人才能享有公民权利。,这艘船在被入侵后逃离其母星系时被一个身份不明的帝国击落。"
+ AAA_arcsite.6.name: "有机玻璃"
+ AAA_arcsite.6.desc: "Plexian Swarm 是一个蜂群思维，一个由许多无人机组成的帝国，通过单一意识连接起来，与银河系的既定帝国进行了一场战争。,虽然普莱克西亚人还很年轻，但随着群体的蔓延，年长的种族却无能为力，他们相互联系的意识使他们比其他帝国拥有无与伦比的战略优势。,这艘船是普莱克西亚群落下的帝国的最后残余，但它在前往目前未知目的地的途中被击落。"
+ A_TRAGIC_TALE: "一个悲惨的故事"
+ AAA_arcsite.7.name: "船的命运"
+ AAA_arcsite.7.desc: "该日志讲述了一个民族被不可阻挡的敌人驱逐出家园的故事，直到他们被击落并坠毁在我们的家园。,他们真正的目的地是一个他们认为是幸存者避风港的星系。"
+ IT_WAS_NOT_FOR_NOTHING: "旧的秋天，新的生命绽放"
+ A_LESSON_ON_THE_QRUELTY_OF_SPACE: "人们必须永远记住太空的危险"
+ A_SILLY_TALE: "一群弱者的愚蠢故事"
+ AAA_arcsite.8.name: "坐标"
+ AAA_arcsite.8.desc: "我们已经到达日志的最后部分。,这里有有价值的信息，但是，我们只能提取众多坐标之一。,我们应该选择哪一个呢？"
+ CHOOSE_LARTIA: "寻找拉蒂亚"
+ CHOOSE_PLEXI_HOMEWORLD: "寻找 Plexi 的家园世界"
+ CHOOSE_DESTINATION: "找到船的目的地"
+ CHOOSE_NONE: "我们不需要废墟"
+ AAA_arcsite.12.name: "维尔塔发现了！"
+ AAA_arcsite.12.desc: "我们破译了Vearta系统的坐标，Vir Lanx的首都系统！"
+ AAA_arcsite.13.name: "普莱克西发现了！"
+ AAA_arcsite.13.desc: "我们已经破译了 Plexi 系统的坐标，Plexi 系统是 Plexian Swarm 的家乡系统！"
+ AAA_arcsite.14.name: "阿特恩发现了！"
+ AAA_arcsite.14.desc: "我们破译了阿特恩星系的坐标！"
+
+ # lartia
+ NAME_VEARTA: "维尔塔"
+ NAME_VEARTA_A: "维尔塔"
+ NAME_VEARTA_B: "维尔塔b"
+ NAME_VEARTA_C: "维尔塔克"
+ NAME_LARTIA: "拉蒂亚"
+ NAME_LARTIA_MOON: "护盾"
+
+ # lartia digsite
+ site_lartia: "拉蒂亚废墟"
+ site_ruins_of_lartia_intro: "前世界都市的废墟无疑是一个值得一看的景点。,无论等待我们的是什么，我们的努力都是值得的。"
+ AAA_arcsite.15.name: "中央尖塔"
+ AAA_arcsite.15.desc: "我们的挖掘团队已经找到了城市中心的中央尖塔。,尘埃已堆积多年，没有以前居民的踪迹。"
+ MUST_HOLD_UNTOLD_RICHES: "里面一定蕴藏着无数的财富！"
+ JUST_THINK_OF_POWER: "一个帝国怎么可能有能力造成这种陨落？"
+ WE_MUST_UNCOVER_ITS_HISTORY: "我们必须揭开它的历史"
+ AAA_arcsite.16.name: "帝国的心脏"
+ AAA_arcsite.16.desc: "中央尖塔是[From.Planet.GetName]的总部，有点像首都中的首都。,从这里开始，整个帝国被组织起来，一切都被记录，所有的信息被存储。,我们的分析师已经开始努力检查所有这些文件和日志，尽管可能需要很长时间才能检查所有这些文件和日志。"
+ WORK_AHEAD_LARTIA: "我们还有很多工作要做"
+ AAA_arcsite.17.name: "金库"
+ AAA_arcsite.17.desc: "我们的挖掘小组发现了似乎是某种金库的东西。,我们应该如何着手？"
+ CUT_IT_OPEN_LARTIA: "把它切开"
+ USE_EXPLOSIVES_LARTIA: "使用炸药"
+ AAA_arcsite.19.name: "金库打开"
+ AAA_arcsite.19.desc: "我们已经使用激光切割机成功打开了金库，并开始调查其内部。"
+ AAA_arcsite.20.name: "金库打开"
+ AAA_arcsite.20.desc: "我们已经使用一些挥发性微粒成功打开了金库，并开始调查金库的内部。"
+ AAA_arcsite.22.name: "空房间"
+ AAA_arcsite.22.desc: "房间里空无一人，只有中央有一个基座。,一个物体放在它上面，看起来就像空间本身的裂缝。,我们仍然不知道它是什么，但我们的研究人员向我们保证他们会找到解释。"
+ AAA_arcsite.23.name: "空房间"
+ AAA_arcsite.23.desc: "房间里空无一人，只有中央有一个基座。,一个物体放在它上面，看起来就像空间本身的裂缝。,我们不知道它是什么，也不知道为什么它值得储存在这么大的金库中，但我们的研究人员向我们保证，他们会找到一个解释。"
+ A_STONE_LARTIA: "太空裂缝？"
+ AAA_arcsite.24.name: "时间的裂痕"
+ AAA_arcsite.24.desc: "该物体是一块时空的结晶。,拥有拉蒂亚的帝国如何拥有它尚不清楚，但它对周围空间的影响是不可否认的。,我们仍然不知道它是如何工作的，但已经确定，当投射到具有巨大引力的物体上时，它能够倒带时间。"
+ lartian_artifact_research_unlocked: "已解锁小型神器动作：§Y$artifact_lartia_research$§!"
+
+# The Eztarta
+ AAA.10.name: "时移星球"
+ AAA.10.desc: "[event_target:chosen_planet.GetName] 已及时回溯到 [event_target:chosen_planet.GetAAnPlanetClass] [event_target:chosen_planet.GetClassName] 的时间。"
+ r_eztarta: "时空结晶"
+ relic_eztarta_active: "激活结晶时空将行星时移回随机时间点。"
+ r_eztarta_desc: "一块结晶的时空，当其力量投射到物体上时，能够逆转物体的时间线，尽管它太不稳定，无法用于生物体。"
+ AAA_relic_triumph_cooldown_long: "\n$relic_activation_cooldown$：£time£ §Y7200§!"
+ 
+ # Lartian Technology
+ tech_secrets_lartian: "时间操纵者"
+ tech_secrets_lartian_desc: "时间既神秘又强大。,通过根据古代技术操纵时空，我们可以获得相当大的优势。"
+ sm_AAA_lartian_time_manipulator: "时间操纵者"
+ aura_starbase_lartian_time: "时间操控"
+ 
+ ####################
+ # Archeology Sites #
+ ####################
+ 
+ ################################
+ # Ship Debris
+ ################################
+ 
+ site_AAA_ship_debris: "失事的船"
+ site_AAA_ship_debris_intro: "在 [From.Planet.GetName] 上发现了一艘坠毁的飞船。,看来很久以前就已经被毁掉了。"
+ AAA_arcsite.43.name: "民用船舶"
+ AAA_arcsite.43.desc: "[Root.GetName]的船员已确定坠毁的船只是一艘来历不明的民用船只。"
+ AAA_arcsite.44.name: "研究船"
+ AAA_arcsite.44.desc: "[Root.GetName]的船员已确定坠毁的船只是一艘来历不明的研究船。"
+ AAA_arcsite.45.name: "军舰"
+ AAA_arcsite.45.desc: "[Root.GetName]的船员已确定坠毁的船只是一艘来源和类型不明的军舰。"
+ AAA_arcsite.46.name: "货船"
+ AAA_arcsite.46.desc: "[Root.GetName]的船员已确定坠毁的船只是一艘来历不明的货船。,船上专门用于储存的部分似乎没有受到损坏，至少从外面看是这样。"
+ AAA_arcsite.48.name: "良好的条件"
+ AAA_arcsite.48.desc: "在 [FromFrom.Planet.GetName] 上坠毁的飞船似乎相对没有受到损坏，如果我们愿意的话，我们应该能够将其恢复到工作状态。"
+ AAA_arcsite.48.a: "尝试修复它"
+ AAA_arcsite.48.b: "抢救其材料"
+ AAA_arcsite.48.c: "研究其构造"
+ AAA_arcsite.49.name: "损坏的"
+ AAA_arcsite.49.desc: "在 [FromFrom.Planet.GetName] 坠毁的飞船似乎已损坏。,虽然其许多机载系统似乎在坠机事故中幸存下来，但一些重要组件却未能幸存。,它可能再也不会在太空中旅行了。"
+ AAA_arcsite.50.name: "破碎的船"
+ AAA_arcsite.50.desc: "在 [FromFrom.Planet.GetName] 上坠毁的船只似乎在一场战斗中被摧毁，我们最初以为是整艘船，但实际上只是大型巡洋舰或战列舰的一部分。"
+ AAA_arcsite.51.name: "故意撞车"
+ AAA_arcsite.51.desc: "[Root.GetName] 的船员已确定坠毁的船只是一艘军舰，尽管这次坠毁似乎是故意的。,好消息是它的所有组件几乎完全没有损坏。"
+ AAA_arcsite.53.name: "修复成功"
+ AAA_arcsite.53.desc: "我们已经设法修复了失事的船。,它已经发送到我们的首都，应该很快就会到达，功能齐全。"
+ AAA_arcsite.53.a: "伟大的"
+ AAA_arcsite.54.name: "修好后的船准备使用"
+ AAA_arcsite.54.desc: "修好的船已经抵达我们的首都了。"
+ AAA_arcsite.54.a: "伟大的"
+ AAA_arcsite.55.name: "修好后的船准备使用"
+ AAA_arcsite.55.desc: "修好的科学船已经抵达我们的首都了。"
+ AAA_arcsite.55.a: "伟大的"
+ AAA_arcsite.56.name: "修好后的船准备使用"
+ AAA_arcsite.56.desc: "修好的船已经抵达我们的首都了。"
+ AAA_arcsite.56.a: "伟大的"
+ AAA_arcsite.57.name: "修好后的船准备使用"
+ AAA_arcsite.57.desc: "修好的船已经抵达我们的首都了。,它曾经是一艘大型货船，在其储藏室中发现了几把枪。"
+ AAA_arcsite.57.a: "伟大的"
+ AAA_arcsite.58.name: "修复不成功"
+ AAA_arcsite.58.desc: "在试图修复船上的反应堆时，它突然启动，导致了不可阻挡的连锁反应，最终导致爆炸。,幸运的是，船员们在这一切发生之前设法逃离。"
+ AAA_arcsite.58.a: "不幸的"
+ AAA_arcsite.59.name: "回收的材料"
+ AAA_arcsite.59.desc: "[Root.GetName] 的船员已经完成了对船舶的可用材料的打捞工作。,现在几乎什么都没有留下了。"
+ AAA_arcsite.59.a: "在某种程度上，这艘船作为我们自己的一艘船继续存在"
+ AAA_arcsite.60.name: "反应堆研究"
+ AAA_arcsite.60.desc: "[Root.GetName] 的船员已经完成了对失事船只反应堆的研究。,它极大地增加了我们对发电的了解，并激励我们的科学家创造一种新型反应堆。"
+ AAA_arcsite.60.a: "做得好"
+ AAA_arcsite.61.name: "激光研究"
+ AAA_arcsite.61.desc: "[Root.GetName]的船员已经完成了对失事驱逐舰的研究。,它极大地增加了我们对激光的了解，并激励我们的科学家创造新一代能量武器。"
+ AAA_arcsite.61.a: "做得好"
+ AAA_arcsite.62.name: "研究的传感器"
+ AAA_arcsite.62.desc: "[Root.GetName] 的船员已经完成了对失事船只传感器的研究。,它极大地增加了我们对此类技术的了解，并激励我们的科学家创建新一代船舶检测系统。"
+ AAA_arcsite.62.a: "做得好"
+ 
+ ################################
+ # Ancient Reactor
+ ################################
+ 
+ site_AAA_ancient_reactor: "古代动力装置"
+ site_AAA_ancient_reactor_intro: "在我们探索 [From.Planet.GetName] 的过程中，我们发现了裂变发电厂的破败废墟。"
+ AAA_arcsite.63.name: "探索内部"
+ AAA_arcsite.63.desc: "我们的挖掘队已经进入了古代发电厂的废墟。,迄今为止探索过的房间中的辐射水平似乎并不高于行星的背景辐射。"
+ AAA_arcsite.64.name: "控制室"
+ AAA_arcsite.64.desc: "[Leader.GetName]和[Leader.GetHerHis]小队已找到动力装置的控制室。,尽管燃料早已耗尽，但它似乎仍在运行且状况良好。"
+ AAA_arcsite.64.a: "好的"
+ AAA_arcsite.65.name: "电脑日志"
+ AAA_arcsite.65.desc: "在为控制室的计算机终端供电并从中提取数据后，我们的 [From.Owner.GetLinguists] 开始翻译日志。"
+ AAA_arcsite.65.a: "好的"
+ AAA_arcsite.67.name: "后世界末日的力量"
+ AAA_arcsite.67.desc: "终端的日志讲述了世界末日后绝望的文明。,少数幸存者决定，他们继续存在的唯一希望就是恢复发电厂，以便为他们的各种需求提供电力。,虽然它们本身似乎没有幸存下来，但反应堆和附近的许多基础设施却幸存了下来，而且很容易将其整合到我们自己的电网中。"
+ AAA_arcsite.68.name: "废弃的发电厂"
+ AAA_arcsite.68.desc: "来自终端的日志开始时相对正常，尽管最后几条日志显示，在曾经居住的 [fromfrom.Planet.GetName] 文明衰落后，动力装置被少数幸存者安全有序地关闭了。,这为研究动力装置以及将其用于我们自己的需求提供了机会。"
+ AAA_arcsite.69.name: "无望的建设"
+ AAA_arcsite.69.desc: "虽然乍一看像是曾经居住在 [FromFrom.Planet.GetName] 的文明衰落之前的一座正常运行的反应堆，但后来发现这台发电厂是一群绝望的人们的产物，他们试图将曾经伟大的城市恢复到宜居状态,。,为此，基于聚变的电力被认为是最佳选择，因为它的技术要求相对较低，而且产出与工人的比例很高。,遗憾的是，由于未知的原因，它从未完成。"
+ 
+ # Deposit
+ d_AAA_ancient_reactor: "古代反应堆"
+ d_AAA_ancient_reactor_desc: "这个古老的裂变反应堆是一个有利可图的研究项目的绝佳机会。"
+ d_AAA_derelict_reactor: "古代反应堆"
+ d_AAA_derelict_reactor_desc: "这个古老的裂变反应堆从未完工，尽管研究它的构造仍然可以提供宝贵的知识。"
+
+ ################################
+ # Ancient Antimatter Bomb
+ ################################
+ 
+ AAA.39.name: "古代军事碉堡"
+ AAA.39.desc: "在 [This.GetName] 的一个小型建设项目中，我们发现了一个不在我们登记册中的掩体。,它很可能是由我们之前居住在 [This.GetName] 的文明建造的。"
+
+ site_AAA_ancient_antimatter: "军事碉堡"
+ site_AAA_ancient_antimatter_intro: "在 [From.Planet.GetName] 上发现了一个旧的军事掩体。,我们应该调查一下。"
+ 
+ AAA_arcsite.70.name: "地堡门"
+ AAA_arcsite.70.desc: "[Root.GetName] 的船员已抵达掩体。,一扇巨大的钢门挡住了进入掩体的道路。,进入的最简单方法是炸毁门，或使用激光将其切开。,另外，[Root.GetLeaderName] 建议仔细拆解它，以便更仔细地研究它。"
+ AAA_arcsite.70.a: "炸掉它"
+ AAA_arcsite.70.b: "引进激光"
+ AAA_arcsite.70.c: "小心地拆开"
+ AAA_arcsite.71.name: "令人不安的目的"
+ AAA_arcsite.71.desc: "进入掩体后，我们发现这不是一个用于难民或核战争的普通掩体，也不是用于储存战争物资的军事掩体。\n\n相反，[Root.GetName] 的船员发现的是,小月亮大小的反物质炸弹的蓝图。"
+ AAA_arcsite.71.a: "照常进行"
+ AAA_arcsite.71.b: "扫描蓝图并将其发送至 [Root.Owner.Capital.GetName]"
+ AAA_arcsite.72.name: "与时间赛跑"
+ AAA_arcsite.72.desc: "在对 [From.Planet.GetName] 上的军事掩体进行进一步调查时，[Root.GetLeaderName] 发现了一个倒计时时钟，在 [FromFrom.AAA_bomb_time] 上设置为 0。,目前假定倒计时是针对反物质炸弹的，如我们之前发现的草图所示。"
+ AAA_arcsite.72.a: "我们必须迅速行动"
+ AAA_arcsite.73.name: "令人困惑的走廊"
+ AAA_arcsite.73.desc: "在对掩体的探索过程中，我们发现，假设储存炸弹的设施地下部分的走廊和房间被设计得尽可能地令人困惑。 ,[Root.GetLeaderName] 担心如果炸弹仍然处于活动状态，我们可能无法及时找到它。"
+ AAA_arcsite.73.a: "不幸的"
+ AAA_arcsite.74.name: "控制室"
+ AAA_arcsite.74.desc: "来自[Root.GetLeaderName]的好消息已经到来：反物质炸弹的控制室已经找到。,墙上似乎排列着无数排电线、按钮和电脑，[Root.GetLeaderName]可能需要一些时间才能找到停用它的方法。"
+ AAA_arcsite.74.a: "终于有好消息了"
+ AAA_arcsite.75.name: "行星的命运"
+ AAA_arcsite.75.desc: "在对控制室进行广泛调查后，[Root.GetLeaderName] 将选择范围缩小到切断三种颜色电线中的一根。,一个会停止倒计时，但剪断错误的电线可能会过早激活炸弹。"
+ AAA_arcsite.75.a: "红线"
+ AAA_arcsite.75.b: "绿线"
+ AAA_arcsite.75.c: "蓝线"
+ AAA_arcsite.75.d: "不要碰他们任何一个，离开那里！"
+ AAA_arcsite.77.name: "[event_target:AAA_antimatter_planet.GetName] 爆炸"
+ AAA_arcsite.77.desc: "被称为 [event_target:AAA_antimatter_planet.GetName] 的 [event_target:AAA_antimatter_planet.GetPlanetMoon] 已在一场激烈的爆炸中被摧毁。"
+ AAA_arcsite.77.desc.a: "造成这种情况的原因尚不清楚。\n\n[event_target:dead_scientist.GetName] 在 [event_target:AAA_antimatter_planet.GetPlanetMoon] 的考古探险中死亡。"
+ AAA_arcsite.77.desc.b: "显然，图纸中描绘的炸弹已经制造出来，但尚未使用。,假设 [event_target:dead_scientist.GetName] 和 [event_target:dead_scientist.GetHerHis] 在探索地堡时以某种方式触发了设备。"
+ AAA_arcsite.77.desc.c: "[event_target:dead_scientist.GetName] 和 [event_target:dead_scientist.GetHerHis] 团队被假定死亡，因为爆炸时他们在 [event_target:AAA_antimatter_planet.GetPlanetMoon] 上。"
+ AAA_arcsite.77.desc.d: "[event_target:dead_scientist.GetName] 被认为剪断了错误的电线，导致 [event_target:AAA_antimatter_planet.GetPlanetMoon] 被毁。"
+ AAA_arcsite.77.desc.e: "此外，居住在 [event_target:AAA_antimatter_planet.GetPlanetMoon] 的数百万殖民者也被杀害。"
+ AAA_arcsite.77.a: "一场悲剧"
+ AAA_arcsite.78.name: "[event_target:AAA_antimatter_planet.GetName] 爆炸"
+ AAA_arcsite.78.desc: "被称为 [event_target:AAA_antimatter_planet.GetName] 的 [event_target:AAA_antimatter_planet.GetPlanetMoon] 已在一场激烈的爆炸中被摧毁。"
+ AAA_arcsite.78.desc.a: "造成这种情况的原因目前尚不清楚。"
+ AAA_arcsite.78.desc.b: "显然，图纸中描绘的炸弹已经制造出来，但尚未使用。,目前尚不清楚是什么原因导致其爆炸。"
+ AAA_arcsite.78.desc.c: "正如预测的那样，当倒计时达到 0 时，它就爆炸了。"
+ AAA_arcsite.78.desc.d: "此外，居住在 [event_target:AAA_antimatter_planet.GetPlanetMoon] 的数百万殖民者也被杀害。"
+ AAA_arcsite.78.a: "一场悲剧"
+ AAA_arcsite.79.name: "[event_target:AAA_antimatter_planet.GetName] 已保存"
+ AAA_arcsite.79.desc: "在只能用令人紧张的几秒钟来形容的时间里，[event_target:savior_scientist.GetName] 将切割装置放在 [event_target:savior_scientist.GetHerHis] [event_target:savior_scientist.Owner.GetSpeciesHandName] 中，然后切断电线。,接下来，[event_target:savior_scientist.GetHerHis]团队松了一口气，因为什么也没发生，这表明[event_target:savior_scientist.GetName]选择了正确的人。"
+ AAA_arcsite.79.a: "千钧一发"
+ 
+ # Modifiers
+ AAA_feelings_of_doom: "末日的感觉"
+ AAA_feelings_of_doom_desc: "这个星球上的人们感觉不安全。"
+ 
+ # Deposits
+ d_AAA_ancient_bunker: "古代碉堡"
+ d_AAA_ancient_bunker_desc: "这个古老的军事碉堡是宝贵知识的源泉。"
+
+ ################################
+ # Random Archeology Events
+ ################################
+ 
+ ## Tomb world random events
+ AAA_random_arcsite.1.name: "辐射损伤"
+ AAA_random_arcsite.1.desc: "我们在 [From.Planet.GetName] 上工作的 [Root.Owner.GetArchaeographerPlural] 注意到环境中的辐射量突然增加，最终损坏了许多较精细的计算机终端。,他们必须修复受影响的设备才能继续工作。"
+ AAA_random_arcsite.2.name: "不稳定的废墟"
+ AAA_random_arcsite.2.desc: "在调查[From.Planet.GetName]上的废墟时，建筑物突然倒塌！,幸运的是，[Root.Owner.GetArchaeographerPlural] 没有人被杀，但他们在康复之前无法工作。"
+ AAA_random_arcsite.3.name: "古代安全系统启动"
+ AAA_random_arcsite.3.desc: "我们的 [Root.Owner.GetArchaeographerPlural] 在调查 [From.Planet.GetName] 上的废墟时意外激活了一个古老的安全系统。,在采取任何行动之前，它杀死了一些 [Root.Owner.GetArchaeographerPlural] 和§H[dead_scientist.GetName]§!。"
+ AAA_random_arcsite.4.name: "古代安全系统启动"
+ AAA_random_arcsite.4.desc: "我们的 [Root.Owner.GetArchaeographerPlural] 在调查 [From.Planet.GetName] 上的废墟时意外激活了一个古老的安全系统。,在采取任何行动之前，它杀死了一些[Root.Owner.GetArchaeographerPlural]，尽管§H[Root.GetLeaderName]§！,设法逃脱。"
+ AAA_random_arcsite.5.name: "古代安全系统启动"
+ AAA_random_arcsite.5.desc: ""
+
+ ################################
+ # Archeology Tradition Tree
+ ################################
+
+ tradition_archeology: "考古学"
+ tradition_archeology_desc: "要想征服未来，必须先回顾过去"
+ tradition_archeology_desc_gestalt: "过去拥有宝贵的数据——成功和失败的记录——对于优化未来的自我迭代至关重要。"
+ tr_archeology_adopt: "考古传统"
+ council_agenda_agenda_AAA_archeology_grants_name: "高效考古"
+ council_agenda_agenda_AAA_archeology_grants_desc: "我们必须确保古代文明的所有痕迹都被恢复，以便我们能够了解过去的秘密。"
+ agenda_AAA_archeology_grants_finish: "高效考古"
+ tr_archeology_museums: "全息展览"
+ tr_archeology_museums_delayed: "通过用全息技术仔细复制我们的先驱文物，公民可以看到银河历史在他们眼前展开。,这种对过去的新迷恋正在激发人们对历史的好奇心。"
+ tr_archeology_museums_modifier_desc: "§Y解锁建筑：§! ,$building_museum$"
+ tr_archeology_museums_hive: "历史档案"
+ tr_archeology_museums_hive_delayed: "这个银河系的古老世界充满了资源，随时可以获取！"
+ tr_archeology_museums_hive_modifier_desc: "§Y解锁建筑：§!,拾荒者站点\n拾荒者站点只能建造在古代世界。"
+ tr_archeology_museums_machine: "历史档案"
+ tr_archeology_museums_machine_delayed: "我们可以通过研究过去的文明如何解决他们的问题来提高我们的效率。"
+ tr_archeology_museums_machine_modifier_desc: "§Y解锁建筑：§!,拾荒者站点\n拾荒者站点只能建造在古代世界。"
+ #tr_archeology_history_lessons: "History Lessons"
+ #tr_archeology_history_lessons_delayed: "Observing the wonders of the past inspire us to reach new heights."
+ tr_archeology_history_lessons: "遗产知识"
+ tr_archeology_history_lessons_delayed: "经过我们科学界孜孜不倦的挖掘和研究，古今终能启迪。"
+ tr_archeology_history_lessons_modifier_desc: "每当§Yrelic§！,已激活：\n 所有领导者获得§G100§!,经验"
+ tr_archeology_history_lessons_toast_text: "所有领导者都获得§G100§！,经验"
+ tr_archeology_history_lessons_gestalt: "吸收遗产"
+ tr_archeology_history_lessons_gestalt_delayed: "成功激活遗物将产生过去时代的宝贵数据集。"
+ #tr_archeology_history_lessons_delayed: "Our scientists cannot invent the future without knowing the past. Special history programs will become available to all who work in the fields of technological advancement."
+ #tr_archeology_history_lessons_modifier_desc: "Our leaders can get §YPrecursor Expertise Traits§!.\n\nFinding a precursor homeworld will increase the chance of getting leaders with that precursors §YExpertise Trait§!."
+ #tr_archeology_history_lessons_modifier_desc: "§YScientists§! can gain §YPrecursor Expertise Traits§!.\n\nRarely some other leaders also get §YPrecursor Expertise Traits§!.\n\nFinding a precursor homeworld will increase the chance of getting leaders with that precursors §YExpertise Trait§!."
+ #tr_archeology_private_collector_appropriation: "Archeology Prizes"
+ #tr_archeology_private_collector_appropriation_delayed: "By offering to buy artifacts and archeological findings for large amounts of energy credit, as well as the fame that comes with such a find, we can incentivize our population to do some of the archeological work for us."
+ #tr_archeology_private_collector_modifier_desc: "Get the option to acquire £minor_artifacts£ §YMinor Artifacts§! from private collectors."
+ tr_archeology_private_collector_appropriation: "过去的魅力"
+ tr_archeology_private_collector_appropriation_delayed: "随着我们对前身文明的迷恋与日俱增，对熟练研究人员的需求也与日俱增。,帝国各地的大学都在争先恐后地扩大其科学项目，以满足这一迅速增长的需求。"
+ tr_archeology_private_collector_modifier_desc: "§Y科学家§!,从§Y$leader_trait_archaeographer$§开始！,特征。"
+ tr_archeology_artifact_trading: "神器交易"
+ tr_archeology_artifact_trading_delayed: "通过激励人们购买和出售文物，我们可以显着增加税收收入。"
+ tr_archeology_remember_the_past: "过去的魅力"
+ tr_archeology_remember_the_past_delayed: "过去时代的遗迹有可能加速我们自身的技术进步。,我们必须吸收他们的知识。"
+ tr_archeology_ancient_protocols: "过去的魅力"
+ tr_archeology_ancient_protocols_delayed: "过去时代的遗迹有可能加速我们自身的技术进步。,我们必须吸收他们的知识。"
+ tr_archeology_bio_trophy_help: "生物战利品挖掘"
+ tr_archeology_bio_trophy_help_delayed: "让我们的生物奖杯在安全可控的环境中扮演考古学家，会让他们更快乐。,有时他们也会发现一些值得保留的东西。"
+ tr_archeology_bio_trophy_help_desc: "启用§Y创建生物战利品考古遗址§！,决定。"
+ # This Decision creates a deposit / modifier that gives ?% more unity
+ tr_archeology_archeological_training: "精心挖掘"
+ tr_archeology_archeological_training_desc: "+3 每月 £minor_artifacts£ 挖掘挖掘场的科学家的小型文物"
+ tr_archeology_archeological_training_delayed: "小行星上的每一条裂缝、月球上的每一缝以及行星上的每一个峡谷都可能蕴藏着被遗忘的文物。,让我们不要浪费潜在的新发现。"
+ tr_archeology_archeological_training_modifier_desc: ""
+ tr_archeology_respect_the_dead: "媒体报道"
+ tr_archeology_respect_the_dead_delayed: "我们必须与我们的人民分享我们的发现。,成功挖掘后，我们将接受首席科学家的采访，采访将在我们的新闻媒体上播出。"
+ tr_archeology_respect_the_dead_modifier_desc: "获得大量 £unity£ §Y$unity$§!,完成考古遗址后。"
+ tr_archeology_respect_the_dead_hive: "历史鉴赏"
+ tr_archeology_respect_the_dead_hive_delayed: "没有什么比完成对古代帝国的挖掘更好的了。"
+ tr_archeology_respect_the_dead_hive_modifier_desc: "获得大量 £unity£ §Y$unity$§!,完成考古遗址后。"
+ tr_archeology_respect_the_dead_machine: "历史数据库"
+ tr_archeology_respect_the_dead_machine_delayed: "每一段历史记录都将安全地保存在我们的大型机可以轻松访问的数据库中。,这样我们总能从早已不复存在的帝国的思想中获得灵感。"
+ tr_archeology_respect_the_dead_machine_modifier_desc: "获得大量 £unity£ §Y$unity$§!,完成考古遗址后。"
+ tr_archeology_finish_desc: "每十年发现一个考古遗址。\n解锁的提升特权：§G+1§!"
+
+ message_tradition_effect_history_lessons_effect_desc: "§Y$tr_archeology_history_lessons$§! ,§H传统§!,已激活\n"
+
+ # Private collector Appropriation
+ artifact_buy_collector: "从私人收藏家处购买"
+ artifact_buy_collector_desc: "如果我们愿意以高于正常价格的价格从收藏家那里购买小型文物，就可以发起一项活动。"
+ artifact_buy_cooldown: "从私人收藏家处购买"
+ REJECT_ARTIFACT_OFFER: "拒绝报价"
+ BUY_FEW_ARTIFACTS: "购买一些文物"
+ BUY_SOME_ARTIFACTS: "购买大部分文物"
+ BUY_ALL_ARTIFACTS: "接受交易，购买全部"
+ BUY_RELIC: "公认"
+ AAA.17.name: "神器优惠"
+ AAA.17.desc: "一位小型私人收藏家提出出售他们的一些文物以换取高额能源积分。"
+ AAA.18.name: "神器优惠"
+ AAA.18.desc: "一位私人收藏家提出以高额能源积分出售他们的一些文物。"
+ AAA.19.name: "神器优惠"
+ AAA.19.desc: "一家私人博物馆最近关闭了。,主人会让我们以合适的价格购买很多这样的文物。”#将他们所有的文物出售。"
+ AAA.20.name: "遗物优惠"
+ AAA.20.desc: "一位私人收藏家就他们获得的一件非常特殊的文物与国家博物馆联系，并愿意以大量能源积分将其出售给我们。"
+ 
+ mod_country_traditions_minor_artifacts_produces_add: "生产的小文物"
+ 
+ # Bio-trophy Excavations
+ 
+ # Name and Desc
+ AAA.501.name: "生物战利品发现"
+ AAA.501.desc: "我们的一些生物奖杯发现了似乎属于古代帝国的文物。,我们可以资助更大的挖掘"
+ AAA.502.name: ""
+ AAA.502.desc: ""
+ AAA.503.name: ""
+ AAA.503.desc: ""
+ AAA.504.name: ""
+ AAA.504.desc: ""
+ AAA.551.name: ""
+ AAA.551.desc: ""
+ AAA.552.name: ""
+ AAA.552.desc: ""
+ AAA.553.name: ""
+ AAA.553.desc: ""
+ AAA.554.name: ""
+ AAA.554.desc: ""
+ AAA.555.name: ""
+ AAA.555.desc: ""
+ 
+ # Responsens
+ REJECT_TROPHY_OFFER: ""
+ FINANCE_TROPHY_OFFER: ""
+ GREAT_TROPHY: ""
+ A_WASTE_OF_TIME_TROPHY: ""
+ NICE_TROPHY: ""
+
+ # History Lessons
+ # Expertise Traits
+ leader_trait_zroni_expertise: "兹罗尼专家"
+ leader_trait_zroni_expertise_desc: "这位领导人长期致力于兹罗尼的研究。"
+ leader_trait_baol_expertise: "宝尔专家"
+ leader_trait_baol_expertise_desc: "这位领袖长期致力于《巴珥》的研究。"
+ leader_trait_grunur_expertise: "宝尔专家"
+ leader_trait_grunur_expertise_desc: "这位领袖长期致力于《巴珥》的研究。"
+ leader_trait_plexi_expertise: "树脂专家"
+ leader_trait_plexi_expertise_desc: "这位领导者长期致力于 Plexian Swarm 的研究。"
+ leader_trait_yuht_expertise: "育专家"
+ leader_trait_yuht_expertise_desc: "这位领袖长期致力于尤赫特帝国的研究。"
+ leader_trait_irassia_expertise: "伊拉西亚专家"
+ leader_trait_irassia_expertise_desc: "这位领导人长期致力于《伊朗协约》的研究。"
+ leader_trait_vultaum_expertise: "沃尔陶姆专家"
+ leader_trait_vultaum_expertise_desc: "这位领袖长期致力于沃尔陶姆星团的研究。"
+ leader_trait_first_league_expertise: "第一联盟专家"
+ leader_trait_first_league_expertise_desc: "这位领导长期致力于甲联赛的研究。"
+ leader_trait_cybrex_expertise: "赛博专家"
+ leader_trait_cybrex_expertise_desc: "这位领导者长期致力于 Cybrex 的研究。"
+ leader_trait_sless_expertise: "无线专家"
+ leader_trait_sless_expertise_desc: "这位领袖长期致力于无忧联盟的研究。"
+ leader_trait_coprean_expertise: "科普林专家"
+ leader_trait_coprean_expertise_desc: "这位领导人长期致力于科普雷宪法的研究。"
+ leader_trait_astanine_expertise: "阿斯坦宁专家"
+ leader_trait_astanine_expertise_desc: "这位领导人长期致力于阿斯坦尼帝国的研究。"
+ leader_trait_ezentian_expertise: "易森天专家"
+ leader_trait_ezentian_expertise_desc: "这位领袖长期致力于伊森田联合体的研究。"
+ leader_trait_werediran_expertise: "威雷迪兰专家"
+ leader_trait_werediran_expertise_desc: "这位领导人长期致力于 Werediran 信号的研究。"
+ leader_trait_temporary_unleashed_werediran_expertise: "威雷迪兰的灵感"
+ leader_trait_temporary_unleashed_werediran_expertise_desc: "这位领袖最近收到了来自沉睡的瓦雷迪兰的信息。"
+ leader_trait_unleashed_werediran_expertise: "威雷迪兰知识"
+ leader_trait_unleashed_werediran_expertise_desc: "这位领袖花费了很长时间来研究韦雷迪兰信号，并得到了它的祝福。"
+ leader_trait_ixardian_expertise: "依克萨德专家"
+ leader_trait_ixardian_expertise_desc: "这位领导者长期致力于依克萨德集团的研究。"
+ leader_trait_lartaxan_expertise: "拉塔桑专家"
+ leader_trait_lartaxan_expertise_desc: "这位领袖长期致力于拉塔克桑领域的研究。"
+ 
+ # Scientist Precursor Traits
+ leader_trait_scientist_zroni_expertise: "兹罗尼专家"
+ leader_trait_scientist_zroni_expertise_desc: "这位领导人长期致力于兹罗尼的研究。"
+ leader_trait_scientist_baol_expertise: "宝尔专家"
+ leader_trait_scientist_baol_expertise_desc: "这位领袖长期致力于《巴珥》的研究。"
+ leader_trait_scientist_plexi_expertise: "树脂专家"
+ leader_trait_scientist_plexi_expertise_desc: "这位领导者长期致力于 Plexian Swarm 的研究。"
+ leader_trait_scientist_yuht_expertise: "育专家"
+ leader_trait_scientist_yuht_expertise_desc: "这位领袖长期致力于尤赫特帝国的研究。"
+ leader_trait_scientist_irassia_expertise: "伊拉西亚专家"
+ leader_trait_scientist_irassia_expertise_desc: "这位领导人长期致力于《伊朗协约》的研究。"
+ leader_trait_scientist_vultaum_expertise: "沃尔陶姆专家"
+ leader_trait_scientist_vultaum_expertise_desc: "这位领袖长期致力于沃尔陶姆星团的研究。"
+ leader_trait_scientist_first_league_expertise: "第一联盟专家"
+ leader_trait_scientist_first_league_expertise_desc: "这位领导长期致力于甲联赛的研究。"
+ leader_trait_scientist_cybrex_expertise: "赛博专家"
+ leader_trait_scientist_cybrex_expertise_desc: "这位领导者长期致力于 Cybrex 的研究。"
+ leader_trait_scientist_sless_expertise: "无线专家"
+ leader_trait_scientist_sless_expertise_desc: "这位领袖长期致力于无忧联盟的研究。"
+ leader_trait_scientist_coprean_expertise: "科普林专家"
+ leader_trait_scientist_coprean_expertise_desc: "这位领导人长期致力于科普雷宪法的研究。"
+ leader_trait_scientist_astanine_expertise: "阿斯坦宁专家"
+ leader_trait_scientist_astanine_expertise_desc: "这位领导人长期致力于阿斯坦尼帝国的研究。"
+ leader_trait_scientist_ezentian_expertise: "易森天专家"
+ leader_trait_scientist_ezentian_expertise_desc: "这位领袖长期致力于伊森田联合体的研究。"
+ leader_trait_scientist_werediran_expertise: "威雷迪兰专家"
+ leader_trait_scientist_werediran_expertise_desc: "这位领导人长期致力于 Werediran 信号的研究。"
+ leader_trait_scientist_temporary_unleashed_werediran_expertise: "威雷迪兰的灵感"
+ leader_trait_scientist_temporary_unleashed_werediran_expertise_desc: "这位领袖最近收到了来自沉睡的瓦雷迪兰的信息。"
+ leader_trait_scientist_unleashed_werediran_expertise: "威雷迪兰知识"
+ leader_trait_scientist_unleashed_werediran_expertise_desc: "这位领袖花费了很长时间来研究韦雷迪兰信号，并得到了它的祝福。"
+ leader_trait_scientist_ixardian_expertise: "依克萨德专家"
+ leader_trait_scientist_ixardian_expertise_desc: "这位领导者长期致力于依克萨德集团的研究。"
+ leader_trait_scientist_lartaxan_expertise: "拉塔桑专家"
+ leader_trait_scientist_lartaxan_expertise_desc: "这位领袖长期致力于拉塔克桑领域的研究。"
+
+ # Admiral Precursor Traits
+ leader_trait_admiral_zroni_expertise: "兹罗尼专家"
+ leader_trait_admiral_zroni_expertise_desc: "这位领袖长期致力于研究兹罗尼人，提高他们对盾牌的理解。"
+ leader_trait_admiral_baol_expertise: "格鲁努尔专家"
+ leader_trait_admiral_baol_expertise_desc: "这位领袖长期致力于格鲁努尔的研究。"
+ leader_trait_admiral_plexi_expertise: "树脂专家"
+ leader_trait_admiral_plexi_expertise_desc: "这位领导者长期致力于 Plexi 的研究，为他们提供了蜂群战术的有用知识。"
+ leader_trait_admiral_vultaum_expertise: "沃尔陶姆专家"
+ leader_trait_admiral_vultaum_expertise_desc: "这位领导者长期致力于 Vultaum 的研究，提高他们在训练中充分利用虚拟现实的能力。"
+ leader_trait_admiral_grunur_expertise: "格鲁努尔专家"
+ leader_trait_admiral_grunur_expertise_desc: "这位领袖长期致力于格鲁努尔的研究。"
+ leader_trait_admiral_first_league_expertise: "第一联盟专家"
+ leader_trait_admiral_first_league_expertise_desc: "这位领导者长期致力于第一联赛的研究，提高了他们与他人合作的能力。"
+ leader_trait_admiral_yuht_expertise: "育专家"
+ leader_trait_admiral_yuht_expertise_desc: "这位领导人长期致力于对尤赫特的研究，激励他们按照自己的形象装备自己指挥下的船只：缓慢移动的堡垒。"
+ leader_trait_admiral_cybrex_expertise: "赛博专家"
+ leader_trait_admiral_cybrex_expertise_desc: "这位领导者长期致力于 Cybrex 的研究。"
+ leader_trait_admiral_irassia_expertise: "伊拉西亚专家"
+ leader_trait_admiral_irassia_expertise_desc: "这位领导人长期致力于 Irassian Concordat 的研究，激励他们在船舶基本部件中利用微生物。"
+ leader_trait_admiral_sless_expertise: "无线专家"
+ leader_trait_admiral_sless_expertise_desc: "这位领袖长期致力于无忧联盟的研究。"
+ leader_trait_admiral_coprean_expertise: "科普林专家"
+ leader_trait_admiral_coprean_expertise_desc: "这位领导人长期致力于科普雷宪法的研究。"
+ leader_trait_admiral_astanine_expertise: "阿斯坦宁专家"
+ leader_trait_admiral_astanine_expertise_desc: "这位领导人长期致力于阿斯坦尼帝国的研究。"
+ leader_trait_admiral_ezentian_expertise: "易森天专家"
+ leader_trait_admiral_ezentian_expertise_desc: "这位领袖长期致力于伊森田联合体的研究。"
+ leader_trait_admiral_werediran_expertise: "威雷迪兰专家"
+ leader_trait_admiral_werediran_expertise_desc: "这位领导人长期致力于 Werediran 信号的研究。"
+ leader_trait_admiral_temporary_unleashed_werediran_expertise: "威雷迪兰的灵感"
+ leader_trait_admiral_temporary_unleashed_werediran_expertise_desc: "这位领袖最近收到了来自沉睡的瓦雷迪兰的信息。"
+ leader_trait_admiral_unleashed_werediran_expertise: "威雷迪兰知识"
+ leader_trait_admiral_unleashed_werediran_expertise_desc: "这位领袖花费了很长时间来研究韦雷迪兰信号，并得到了它的祝福。"
+ leader_trait_admiral_ixardian_expertise: "依克萨德专家"
+ leader_trait_admiral_ixardian_expertise_desc: "这位领导者长期致力于依克萨德集团的研究。"
+ leader_trait_admiral_lartaxan_expertise: "拉塔桑专家"
+ leader_trait_admiral_lartaxan_expertise_desc: "这位领袖长期致力于拉塔克桑领域的研究。"
+
+ # Governor Precursor Traits
+ leader_trait_governor_zroni_expertise: "兹罗尼专家"
+ leader_trait_governor_zroni_expertise_desc: "这位领袖长期致力于对兹罗尼的研究，加深了他们对裹尸布及其如何影响物质世界的理解。"
+ leader_trait_governor_baol_expertise: "宝尔专家"
+ leader_trait_governor_baol_expertise_desc: "这位领袖长期致力于《巴珥》的研究。,他们对世界塑造的了解非常广泛。"
+ leader_trait_governor_plexi_expertise: "树脂专家"
+ leader_trait_governor_plexi_expertise_desc: "这位领导人长期致力于 Plexian 群的研究，提高他们对轨道轰炸的理解。"
+ leader_trait_governor_yuht_expertise: "育专家"
+ leader_trait_governor_yuht_expertise_desc: "这位领袖长期致力于尤赫特帝国的研究。,他们是殖民新世界的专家。"
+ leader_trait_governor_irassia_expertise: "伊拉西亚专家"
+ leader_trait_governor_irassia_expertise_desc: "这位领导人长期致力于《伊朗协约》的研究。,他们对生物学有着令人难以置信的理解。"
+ leader_trait_governor_irassia_machine_expertise: "伊拉西亚专家"
+ leader_trait_governor_irassia_machine_expertise_desc: "这位领导人长期致力于《伊朗协约》的研究。,他们对生物学有着令人难以置信的理解。"
+ leader_trait_governor_vultaum_expertise: "沃尔陶姆专家"
+ leader_trait_governor_vultaum_expertise_desc: "这位领导者长期致力于研究 Vultaum Star Assembly 和模拟世界的好处。"
+ leader_trait_governor_first_league_expertise: "第一联盟专家"
+ leader_trait_governor_first_league_expertise_desc: "这位领导长期致力于甲联赛的研究。,他们是该领域或城市建设的专家。"
+ leader_trait_governor_cybrex_expertise: "赛博专家"
+ leader_trait_governor_cybrex_expertise_desc: "这位领导者长期致力于 Cybrex 的研究。,他们知道如何最好地优化机械生物。"
+ leader_trait_governor_grunur_expertise: "格鲁努尔专家"
+ leader_trait_governor_grunur_expertise_desc: "这位领袖长期致力于格鲁努尔的研究。"
+ leader_trait_governor_sless_expertise: "无线专家"
+ leader_trait_governor_sless_expertise_desc: "这位领袖长期致力于无忧联盟的研究。"
+ leader_trait_governor_coprean_expertise: "科普林专家"
+ leader_trait_governor_coprean_expertise_desc: "这位领导人长期致力于科普雷宪法的研究。"
+ leader_trait_governor_astanine_expertise: "阿斯坦宁专家"
+ leader_trait_governor_astanine_expertise_desc: "这位领导人长期致力于阿斯坦尼帝国的研究。"
+ leader_trait_governor_ezentian_expertise: "易森天专家"
+ leader_trait_governor_ezentian_expertise_desc: "这位领袖长期致力于伊森田联合体的研究。"
+ leader_trait_governor_werediran_expertise: "威雷迪兰专家"
+ leader_trait_governor_werediran_expertise_desc: "这位领导人长期致力于 Werediran 信号的研究。"
+ leader_trait_governor_temporary_unleashed_werediran_expertise: "威雷迪兰的灵感"
+ leader_trait_governor_temporary_unleashed_werediran_expertise_desc: "这位领袖最近收到了来自沉睡的瓦雷迪兰的信息。"
+ leader_trait_governor_unleashed_werediran_expertise: "威雷迪兰知识"
+ leader_trait_governor_unleashed_werediran_expertise_desc: "这位领袖花费了很长时间来研究韦雷迪兰信号，并得到了它的祝福。"
+ leader_trait_governor_ixardian_expertise: "依克萨德专家"
+ leader_trait_governor_ixardian_expertise_desc: "这位领导者长期致力于依克萨德集团的研究。"
+ leader_trait_governor_ixardian_machine_expertise: "依克萨德专家"
+ leader_trait_governor_ixardian_machine_expertise_desc: "这位领导者长期致力于依克萨德集团的研究。"
+ leader_trait_governor_lartaxan_expertise: "拉塔桑专家"
+ leader_trait_governor_lartaxan_expertise_desc: "这位领袖长期致力于拉塔克桑领域的研究。"
+
+ # General Precursor Traits
+ leader_trait_general_zroni_expertise: "兹罗尼专家"
+ leader_trait_general_zroni_expertise_desc: "这位领导人长期致力于兹罗尼的研究。"
+ leader_trait_general_baol_expertise: "格鲁努尔专家"
+ leader_trait_general_baol_expertise_desc: "这位领袖长期致力于格鲁努尔的研究。"
+ leader_trait_general_plexi_expertise: "树脂专家"
+ leader_trait_general_plexi_expertise_desc: "这位领导者长期致力于 Plexian Swarm 的研究。"
+ leader_trait_general_yuht_expertise: "育专家"
+ leader_trait_general_yuht_expertise_desc: "这位领袖长期致力于尤赫特帝国的研究。"
+ leader_trait_general_irassia_expertise: "伊拉西亚专家"
+ leader_trait_general_irassia_expertise_desc: "这位领导人长期致力于《伊拉斯协议》的研究，激励他们使用生物武器。"
+ leader_trait_general_vultaum_expertise: "沃尔陶姆专家"
+ leader_trait_general_vultaum_expertise_desc: "这位领袖长期致力于沃尔陶姆星团的研究。,他们广泛利用模拟来训练新士兵。"
+ leader_trait_general_first_league_expertise: "第一联盟专家"
+ leader_trait_general_first_league_expertise_desc: "这位领导长期致力于甲联赛的研究。"
+ leader_trait_general_cybrex_expertise: "赛博专家"
+ leader_trait_general_cybrex_expertise_desc: "这位领导者长期致力于 Cybrex 的研究。"
+ leader_trait_general_grunur_expertise: "格鲁努尔专家"
+ leader_trait_general_grunur_expertise_desc: "这位领袖长期致力于格鲁努尔的研究。"
+ leader_trait_general_sless_expertise: "无线专家"
+ leader_trait_general_sless_expertise_desc: "这位领袖长期致力于无忧联盟的研究。"
+ leader_trait_general_coprean_expertise: "科普林专家"
+ leader_trait_general_coprean_expertise_desc: "这位领导人长期致力于科普雷宪法的研究。"
+ leader_trait_general_astanine_expertise: "阿斯坦宁专家"
+ leader_trait_general_astanine_expertise_desc: "这位领导人长期致力于阿斯坦尼帝国的研究。"
+ leader_trait_general_ezentian_expertise: "易森天专家"
+ leader_trait_general_ezentian_expertise_desc: "这位领袖长期致力于伊森田联合体的研究。"
+ leader_trait_general_werediran_expertise: "威雷迪兰专家"
+ leader_trait_general_werediran_expertise_desc: "这位领导人长期致力于 Werediran 信号的研究。"
+ leader_trait_general_temporary_unleashed_werediran_expertise: "威雷迪兰的灵感"
+ leader_trait_general_temporary_unleashed_werediran_expertise_desc: "这位领袖最近收到了来自沉睡的瓦雷迪兰的信息。"
+ leader_trait_general_unleashed_werediran_expertise: "威雷迪兰知识"
+ leader_trait_general_unleashed_werediran_expertise_desc: "这位领袖花费了很长时间来研究韦雷迪兰信号，并得到了它的祝福。"
+ leader_trait_general_ixardian_expertise: "依克萨德专家"
+ leader_trait_general_ixardian_expertise_desc: "这位领导者长期致力于依克萨德集团的研究。"
+ leader_trait_general_lartaxan_expertise: "拉塔桑专家"
+ leader_trait_general_lartaxan_expertise_desc: "这位领袖长期致力于拉塔克桑领域的研究。"
+
+# first league expertise
+ leader_trait_first_league_archaeologist_tooltip: "第一联盟异常研究速度：§G+50%§!\n研究速度：§G+10%§!"
+ mod_planet_district_arcology_housing_build_speed_mult: "住宅生态建筑建设速度"
+ mod_planet_district_arcology_leisure_build_speed_mult: "休闲生态建筑建设速度"
+ mod_planet_district_arcology_administrative_build_speed_mult: "行政生态建筑建设速度"
+ mod_planet_district_arcology_religious_build_speed_mult: "教会生态建筑建设速度"
+ leader_trait_governor_first_league_expertise_tooltip: "城区建造速度：§G+50%§!\n考古建造速度：§G+50%§!"
+
+# Plexi Expertise
+ leader_trait_scientist_plexi_expertise_tooltip: "解盾速度：§G+50%§!\n考古技能：§G+1§!\n飞船速度：§G+25%§!"
+ mod_BANISHED_SHIELD_CAT_research_speed_mult: "解盾速度"
+ mod_BANISHED_SHIELD_CAT_FAIL_research_speed_mult: "解盾速度"
+ mod_ISOLATOR_SHIELD_research_speed_mult: "解盾速度"
+ mod_ANCIENT_SHIELD_CAT_research_speed_mult: "解盾速度"
+
+# Vultaum Expertise
+ leader_trait_vultaum_archaeologist_tooltip: "沃尔陶姆异常研究速度：§G+50%§!\n经验获取：§G+10%§!\n等级上限：§G+2§!"
+
+# Yuht Expertise
+ leader_trait_yuht_archaeologist_tooltip: "Yuht异常研究速度：§G+50%§!\n研究速度（新世界）：§G+15%§!"
+
+# Cybrex Expertise
+ leader_trait_cybrex_archaeologist_tooltip: "Cybrex 异常研究速度：§G+50%§!\n研究速度（工业）：§G+15%§!"
+
+# Irassia Expertise
+ leader_trait_irassia_archaeologist_tooltip: "艾拉西亚异常研究速度：§G+50%§!\n研究速度（生物学）：§G+15%§!"
+ mod_planet_building_clinic_build_speed_mult: "基因诊所建设速度"
+ mod_planet_building_hospital_build_speed_mult: "细胞活化中心构建速度"
+ mod_country_ruler_society_research_produces_add: "社会研究"
+ 
+ # Ezentian Expertise
+ mod_planet_metallurgists_minerals_upkeep_mult: "冶金学家矿物保养"
+
+ # Werediran Expertise
+ werediran_expertise_explanation: "将此增加到§G五倍§！,升级后有限时间内正常，达到最高等级后永久正常"
+ leader_trait_werediran_scientist_tooltip: "研究速度：§G+5%§!\n考古技能：§G+1§!\n$werediran_expertise_explanation$。"
+ leader_trait_werediran_admiral_tooltip: "船舶火力：§G+10%§!\n$werediran_expertise_explanation$。"
+ leader_trait_werediran_governor_tooltip: "稳定性：§G+2§!\n犯罪：§G-5§!\n$werediran_expertise_explanation$。"
+ leader_trait_werediran_general_tooltip: "国防军士气：§G+5%§!\n国防军生命值：§G+5%§!\n国防军伤害：§G+5%§!\n$werediran_expertise_explanation$。"
+ leader_trait_werediran_ruler_tooltip: "殖民地帝国规模：§G-5%§!\n外交权重：§G+10%§!\n将此增加到§G五倍§!,达到最高等级后正常"
+
+ # Ruler Precursor Traits
+ leader_trait_ruler_zroni_expertise: "兹罗尼专家"
+ leader_trait_ruler_zroni_expertise_desc: "这位领袖长期致力于研究兹罗尼，并且确切地知道如何才能最好地利用裹尸布对物质世界的影响。"
+ leader_trait_ruler_baol_expertise: "宝尔专家"
+ leader_trait_ruler_baol_expertise_desc: "这位领袖长期致力于《巴珥》的研究。,他们是地形改造方面的专家。"
+ leader_trait_ruler_plexi_expertise: "树脂专家"
+ leader_trait_ruler_plexi_expertise_desc: "这位领导者长期致力于 Plexian Swarm 的研究，并相信人多力量大。"
+ leader_trait_ruler_yuht_expertise: "育专家"
+ leader_trait_ruler_yuht_expertise_desc: "这位领袖长期致力于尤赫特帝国的研究。,他们知道如何有效地殖民世界。"
+ leader_trait_ruler_irassia_expertise: "伊拉西亚专家"
+ leader_trait_ruler_irassia_expertise_desc: "这位领导人长期致力于《伊朗协约》的研究，并了解了疾病的危险。"
+ leader_trait_ruler_vultaum_expertise: "沃尔陶姆专家"
+ leader_trait_ruler_vultaum_expertise_desc: "这位领导者长期致力于 Vultaum Star Assembly 的研究，并且了解虚拟现实在休闲和学习方面的好处。"
+ leader_trait_ruler_first_league_expertise: "第一联盟专家"
+ leader_trait_ruler_first_league_expertise_desc: "这位领袖长期致力于甲级联赛的研究，深知高效的管理对于一个星际帝国来说有多么重要。"
+ leader_trait_ruler_cybrex_expertise: "赛博专家"
+ leader_trait_ruler_cybrex_expertise_desc: "这位领导者长期致力于 Cybrex 的研究。,他们花费了大量的精力来改善巨型结构的建设。"
+ leader_trait_ruler_grunur_expertise: "格鲁努尔专家"
+ leader_trait_ruler_grunur_expertise_desc: "这位领袖长期致力于格鲁努尔的研究。"
+ leader_trait_ruler_sless_expertise: "无线专家"
+ leader_trait_ruler_sless_expertise_desc: "这位领袖长期致力于无忧联盟的研究。"
+ leader_trait_ruler_coprean_expertise: "科普林专家"
+ leader_trait_ruler_coprean_expertise_desc: "这位领导人长期致力于科普雷宪法的研究。"
+ leader_trait_ruler_astanine_expertise: "阿斯坦宁专家"
+ leader_trait_ruler_astanine_expertise_desc: "这位领导人长期致力于阿斯坦尼帝国的研究。"
+ leader_trait_ruler_ezentian_expertise: "易森天专家"
+ leader_trait_ruler_ezentian_expertise_desc: "这位领袖长期致力于伊森田联合体的研究。"
+ leader_trait_ruler_werediran_expertise: "威雷迪兰专家"
+ leader_trait_ruler_werediran_expertise_desc: "这位领导人长期致力于 Werediran 信号的研究。"
+ leader_trait_ruler_temporary_unleashed_werediran_expertise: "威雷迪兰的灵感"
+ leader_trait_ruler_temporary_unleashed_werediran_expertise_desc: "这位领袖最近收到了来自沉睡的瓦雷迪兰的信息。"
+ leader_trait_ruler_unleashed_werediran_expertise: "威雷迪兰知识"
+ leader_trait_ruler_unleashed_werediran_expertise_desc: "这位领袖花费了很长时间来研究韦雷迪兰信号，并得到了它的祝福。"
+ leader_trait_ruler_ixardian_expertise: "依克萨德专家"
+ leader_trait_ruler_ixardian_expertise_desc: "这位领导者长期致力于依克萨德集团的研究。"
+ leader_trait_ruler_lartaxan_expertise: "拉塔桑专家"
+ leader_trait_ruler_lartaxan_expertise_desc: "这位领袖长期致力于拉塔克桑领域的研究。"
+ 
+ # Museums
+ building_museum: "全息博物馆"
+ building_museum_desc: "一个大型博物馆综合体，充满了栩栩如生的互动全息图，不仅展示了我们自己的历史，还展示了我们所知的银河历史。"
+ building_museum_effect_desc: "产生£unity£§G1§！,对于每个§Y遗迹§!,归我们所有。\n\n"
+ job_custodian: "先驱历史学家"
+ job_custodian_plural: "先驱历史学家"
+ job_custodian_desc: "$job_custodian_plural$ 通过引人入胜的叙述和互动展览，帮助编织失落文明的故事，点燃公众的想象力并激励下一代探险家。"
+ job_custodian_effect_desc: "$job_custodian_plural$ 生产 £unity£ §Y$unity$§!,和 £amenities£ §Yamenities§!，以及每件 §Y先驱遗物§! 为您的整个帝国带来的奖励,由你拥有。\n\n来自遗物的团结：[Owner.num_AAA_owned_relics] £unity£ $AAA_all_relic_effects$"
+ # Alternative Description: Relics obtained from precursor chains or leviathans grants additional effects to museum workers
+ mod_job_custodian_add: "$job_custodian$ 职位"
+ mod_job_custodian_per_pop: "§G+1§!,每 $VALUE$ 人口的 $job_custodian$ 职位"
+ mod_job_custodian_per_pop_short: "\n§G+1§! ,£mod_job_custodian_add£ 每 $VALUE$ £pop£"
+ cybrex_defense: "赛博战争形态"
+ job_custodian_drone: "先行者档案无人机"
+ job_custodian_drone_plural: "先驱档案无人机"
+ job_custodian_drone_desc: "$job_custodian_drone_plural$ 孜孜不倦地组织历史档案。"
+ job_custodian_drone_effect_desc: "$job_custodian_drone_plural$ 生产 £unity£ §Y$unity$§!,和 £amenities£ §Yamenities§!。"
+ mod_job_custodian_drone_add: "$job_custodian_drone$ 职位"
+ mod_job_custodian_drone_per_pop: "§G+1§!,每 $VALUE$ 人口的 $job_custodian_drone$ 职位"
+ mod_job_custodian_drone_per_pop_short: "\n§G+1§! ,£mod_job_custodian_drone_add£ 每 $VALUE$ £pop£"
+ job_AAA_custodian_servitor_drone: "先驱历史学家无人机"
+ job_AAA_custodian_servitor_drone_plural: "先驱历史学家无人机"
+ job_AAA_custodian_servitor_drone_desc: "$job_custodian_servitor_drone_plural$ 孜孜不倦地组织博物馆，以便所有生物奖杯都能了解历史。"
+ job_AAA_custodian_servitor_drone_effect_desc: "$job_AAA_custodian_servitor_drone_plural$ 赚 £pop_cat_bio_tropy£ §Y$pop_cat_bio_tropy_plural$§! ,£幸福£ §Y更快乐§!,并根据拥有的文物数量增加 £unity£ 产量。\n 来自文物的奖励：§G+[Owner.num_AAA_owned_relics]%§! ,£happiness£ 和§G+[Owner.num_AAA_owned_relics_x5]%§! ,£团结£。"
+ mod_job_AAA_custodian_servitor_drone_add: "$job_custodian_servitor_drone$ 职位"
+ mod_job_AAA_custodian_servitor_drone_per_pop: "§G+1§!,每 $VALUE$ 人口的 $job_custodian_servitor_drone$ 职位"
+ mod_job_AAA_custodian_servitor_drone_per_pop_short: "\n§G+1§! ,£mod_job_custodian_servitor_drone_add£ 每 $VALUE$ £pop£"
+ 
+ # Scavenger Sites
+ job_AAA_archeological_scavenger_drone_hive_effect_desc: "如果建立在§Y遗迹世界§!上：£minor_artifacts£ 来自 £job_AAA_archeological_scavenger_drone_hive£ $job_AAA_archeological_scavenger_drone_hive_plural$ 的小型文物：§G+0.05§!"
+ job_AAA_archeological_scavenger_drone_machine_effect_desc: "如果建立在§Y遗迹世界§!上：£minor_artifacts£ 来自 £job_AAA_archeological_scavenger_drone_machine£ $job_AAA_archeological_scavenger_drone_machine_plural$ 的小型文物：§G+0.05§!"
+ job_AAA_archeological_scavenger_effect_desc: "如果建立在§Y遗迹世界§!上：£minor_artifacts£ 来自 £job_AAA_archeological_scavenger£ $job_AAA_archeological_scavenger_plural$ 的小型文物：§G+0.05§!"
+ 
+ # Scavenger Site
+ building_AAA_scavenger_site: "拾荒者站点"
+ building_AAA_scavenger_site_desc: "一个永久的挖掘场，我们可以从这个星球前任主人的遗骸中提取知识。"
+ 
+ # Normal Scavengers
+ job_AAA_archeological_scavenger: "考古学家"
+ job_AAA_archeological_scavenger_plural: "考古学家"
+ job_AAA_archeological_scavenger_desc: "$job_AAA_archeological_scavenger_plural$ 研究前文明的遗迹。"
+ mod_job_AAA_archeological_scavenger_add: "$job_AAA_archeological_scavenger$ 工作"
+ mod_job_AAA_archeological_scavenger_per_pop: "§G+1§!,每 $VALUE$ 人口的 $job_AAA_archeological_scavenger$ 职位"
+ mod_job_AAA_archeological_scavenger_per_pop_short: "\n§G+1§! ,£mod_job_AAA_archeological_scavenger_add£ 每 $VALUE$ £pop£"
+ 
+ # Hive Scavengers
+ job_AAA_archeological_scavenger_drone_hive: "考古清道夫无人机"
+ job_AAA_archeological_scavenger_drone_hive_plural: "考古清道夫无人机"
+ job_AAA_archeological_scavenger_drone_hive_desc: "$job_AAA_archeological_scavenger_drone_hive_plural$ 清理前文明的遗迹。"
+ mod_job_AAA_archeological_scavenger_drone_hive_add: "$job_AAA_archeological_scavenger_drone_hive$ 工作"
+ mod_job_AAA_archeological_scavenger_drone_hive_per_pop: "§G+1§!,每 $VALUE$ 人口的 $job_AAA_archeological_scavenger_drone_hive$ 职位"
+ mod_job_AAA_archeological_scavenger_drone_hive_per_pop_short: "\n§G+1§! ,£mod_job_AAA_archeological_scavenger_drone_hive_add£ 每 $VALUE$ £pop£"
+ 
+ # Machine Scavengers
+ job_AAA_archeological_scavenger_drone_machine: "考古清道夫单位"
+ job_AAA_archeological_scavenger_drone_machine_plural: "考古清道夫单位"
+ job_AAA_archeological_scavenger_drone_machine_desc: "$job_AAA_archeological_scavenger_drone_machine_plural$ 清理前文明的遗迹。"
+ mod_job_AAA_archeological_scavenger_drone_machine_add: "$job_AAA_archeological_scavenger_drone_machine$ 职位"
+ mod_job_AAA_archeological_scavenger_drone_machine_per_pop: "§G+1§!,每 $VALUE$ 人口的 $job_AAA_archeological_scavenger_drone_machine$ 职位"
+ mod_job_AAA_archeological_scavenger_drone_machine_per_pop_short: "\n§G+1§! ,£mod_job_AAA_archeological_scavenger_drone_machine_add£ 每 $VALUE$ £pop£"
+ 
+ AAA_all_relic_effects: "[Owner.GetAAACustodianPlexiLogEffects][Owner.GetAAACustodianEztartaEffects][Owner.GetAAACustodianPrethorynQueenEffects][Owner.GetAAACustodianUnbiddenWarlockEffects][Owner.GetAAACustodianContingencyCoreEffects][Owner.GetAAACustodianZroCrystalEffect s][Owner.GetAAACustodianTheLastBaolEffects][Owner.GetAAACustodianCryoCoreEffects][Owner.GetAAACustodianPoxSampleEffects][Owner.GetAAACustodianRealityPerforatorEffects] ,[Owner.GetAAACustodianIxardianDatabaseEffects][Owner.GetAAACustodianWerediranCoreEffects][Owner.GetAAACustodianEzentianCoreEffects][Owner.GetAAACustodianFrozenEngineEffects][Owner.GetAAACustodianAlshiganEffects][Owner.GetAAACustodianZnkarEffects][ Owner.GetAAACustodianAstanineEffects][Owner.GetAAACustodianInnovoEffects][Owner.GetAAACustodianSlessEffects]"
+ 
+ # Relic Text
+ AAA_Custodian_Plexi_Log_Effect: "\n§YGlubdrag 的日志§!：+0.5% £物理学£ £社会£ £工程£"
+ AAA_Custodian_Eztarta_Effect: "\n§Y结晶时空碎片§!：+ 1 个工作资源"
+ AAA_Custodian_PrethorynQueen_Effect: "\n§Y普雷索林巢后§!：+ 5 £unity£"
+ AAA_Custodian_UnbiddenWarlock_Effect: "\n§Y超维度术士§!：+5 £unity£"
+ AAA_Custodian_ContingencyCore_Effect: "\n§Y独立应急核心§!：+5 £unity£"
+ AAA_Custodian_ZroCrystal_Effect: "\n§Y灵能档案§!：+1% 护盾强化"
+ AAA_Custodian_TheLastBaol_Effect: "\n§Y最后的宝尔§!：+1% 人口增长速度"
+ AAA_Custodian_CryoCore_Effect: "\n§YYuht Cryo Core§!：技术人员提供 +0.05 £energy£"
+ AAA_Custodian_PoxSample_Effect: "\n§Y贾沃里痘样本§!：+1 最大领袖年龄"
+ AAA_Custodian_RealityPerforator_Effect: "\n§YVultaum 现实穿孔器§!：+1% £便利设施£"
+ AAA_Custodian_WarForge_Effect: "\n§YCybrex War Forge§!：1% 冶金学家输出和维护"
+ AAA_Custodian_Sless_Effect: "\n§Y终极生命体遗传模板§!：+1% 有机人口组装"
+ AAA_Custodian_Innovo_Effect: "\n§YInnovo 的日记§!：对普通帝国 +1 £opinion£"
+ AAA_Custodian_Astanine_Effect: "\n§YA​​stanine 的最后一台投影仪§!：+0.1 £stability£ 稳定性"
+ AAA_Custodian_Alshigan_Effect: "\n§YA​​lshigan 发动机§!：+1% 亚光速和推进研究速度"
+ AAA_Custodian_Znkar_Effect: "\n§YZ'nkar 扭曲引擎§!：+0.1 闪避和 1% 场操纵研究速度"
+ AAA_Custodian_IxardianDatabase_Effect: "\n§YIxardian 数据库§!：+1% £trade_value£"
+ AAA_Custodian_WerediranCore_Effect: "\n§YWerediran 精华§!：+2.5% 采矿站产出"
+ AAA_Custodian_EzentianCore_Effect: "\n§YColossus 核心§!：+1 追踪"
+ AAA_Custodian_FrozenEngine_Effect: "\n§Y冰冻引擎§!：§G+0.5%§!,每月 £energy£ $energy$"
+ AAA_NO_RELIC_TEXT: ""
+ 
+ triggered_opinion_AAA_diary: "创新日记"
+ 
+ # Modifier Localization
+ mod_planet_psionic_jobs_unity_produces_mult: "灵能流行的统一"
+ 
+ # Trophy Archeology
+ trophy_archeology: "考古游乐场"
+ trophy_archeology_desc: "大量土地被留作安全和受控的游乐场，生物战利品可以假装成考古学家，挖掘出由它们的机器守护者制造的废墟。"
+ decision_trophy_archeology: "建造考古游乐场"
+ decision_end_trophy_archeology: "拆除考古游乐场"
+ 
+ # celebrity trait
+ AAA.29.name: "一个明星诞生了"
+ AAA.29.desc: "在[FromFrom.Planet.GetName]上的考古发掘成功以及随后的媒体报道之后，研究员[This.GetLeaderName]已经成为了名人。"
+ leader_trait_scientist_archeologist_celebrity: "名人"
+ leader_trait_scientist_archeologist_celebrity_desc: "这位领导人因其考古工作而闻名。,许多技术精湛的科学家正在争夺自己团队中的一席之地。"
+ leader_trait_ruler_archeologist_celebrity: "名人"
+ leader_trait_ruler_archeologist_celebrity_desc: "这位领导人因其考古工作而闻名。,他们是人们尊敬的领导者。"
+ 
+ ################################
+ # History Tradition Tree
+ ################################
+
+ # Exploitation
+ tradition_aaa_history: "亵渎"
+ tradition_aaa_history_desc: "过去的废墟将被改造成未来的基石"
+ tr_aaa_history_adopt: "亵渎传统"
+ council_agenda_agenda_AAA_artifact_exploitation_name: "考古拆解"
+ council_agenda_agenda_AAA_artifact_exploitation_desc: "我们必须确保所有古代文明的痕迹都转化为适合我们帝国的有用材料，如果没有用，就直接销毁。"
+ council_agenda_agenda_AAA_artifact_exploitation: "转换所有§Y小神器§!,您拥有的 £minor_artifacts£ 已进入 §YUnity§！ ,£unity£ 的汇率为 1:10。"
+ agenda_AAA_artifact_exploitation_finish: "考古拆解"
+ 
+ # Opener
+ tr_aaa_history_opener_desc: "获得新的§YArtifact Actions§！"
+ 
+ # Opener artifact actions
+ artifact_AAA_enegmatic_recharge: "能量充能"
+ artifact_AAA_enegmatic_recharge_desc: "分解我们的一些小型文物，并用它们的残骸为更强大的遗物提供动力。"
+ artifact_AAA_enegmatic_recharge_effect_desc: "分解 £minor_artifacts£ 次要神器来赋予圣物力量，以便它可以再次使用。"
+ artifact_AAA_enegmatic_recharge_cooldown: "能量充能冷却时间"
+ 
+ artifact_AAA_extract_resources: "提取资源"
+ artifact_AAA_extract_resources_desc: "分解一些小文物并提取它们的材料。"
+ artifact_AAA_extract_resources_effect_desc: "获得 100 战略或稀有资源。"
+ artifact_AAA_extract_resources_cooldown: "提取资源冷却时间"
+ 
+ # World Desecration
+ tr_aaa_history_world_desecration: "破坏性研究"
+ tr_aaa_history_world_desecration_delayed: "这个星系中的古老行星蕴藏着宝贵的信息。,我们应该采取一切必要的手段揭露他们的秘密。"
+ tr_aaa_history_world_desecration_modifier_desc: "启用§Y$AAA_decision_desecrate_world$§！,可以在§古代世界§上使用一次的决定！,为了创造临时的§Y考古工程师§！,工作。,研究完成后，会出现大量§RBlockers§！,被创建。"
+ #tr_aaa_history_world_desecration_modifier_desc: "Enables the §Y$AAA_decision_desecrate_world$§! decision that can be used once on §Hancient worlds§! in order to gain large amounts of §YResearch§! and £minor_artifacts£ §Y$minor_artifacts$§! but creates a large amount of §RBlockers§!."
+ 
+ # Repurposed Relics
+ #tr_aaa_history_repurposed_relics: "Repurposed Ruins"
+ #tr_aaa_history_repurposed_relics_delayed: "The ruins that litter the surface of $pc_nuked$s can easily be repurposed into livable envorionments."
+ #tr_aaa_history_repurposed_relics: "Repurposed Relics"
+ #tr_aaa_history_repurposed_relics_delayed: "The ancient technology we find can easily be made better by combining it with modern technology."
+ #tr_aaa_history_repurposed_relics: "Repurposed Ruins"
+ #tr_aaa_history_repurposed_relics_delayed: "The ruins that litter the surface of ruined worlds can easily be repurposed into livable envorionments."
+ #tr_aaa_history_scavenger_sites: "Artifact Dismantling"
+ #tr_aaa_history_scavenger_sites_delayed: "The ruins that litter the surface of ancient worlds are full of artifacts that could be used to fuel our research."
+ #tr_aaa_history_scavenger_sites_modifier_desc: "§HUnlocks Edict§!: Artifact Dismantling." # Edict gives modifier +0.1 minor artifact upkeep to scientists, +2 of earch research added. §YUnlocks Building§!: Scavenger site.\n
+ #tr_aaa_history_repurposed_relics_machine: "Relic Upgrades"
+ #tr_aaa_history_repurposed_relics_machine_delayed: "The ancient technology we find can easily be made better by combining it with modern technology."
+ tr_aaa_history_scavenger_sites: "重新利用的文物"
+ tr_aaa_history_scavenger_sites_delayed: "$pc_nuked$ 表面散落的废墟很容易被改造成宜居环境。"
+ 
+ 
+ # Grave Robbers
+ tr_aaa_history_grave_robbers: "盗墓者"
+ tr_aaa_history_grave_robbers_delayed: "任何一个被击败的敌人都是值得庆祝的，尤其是当我们的敌人是我们之前未能击败的敌人时。,这只是意味着我们变得更好了。"
+ tr_aaa_history_grave_robbers_modifier_desc: "清理或研究§Y堕落帝国舰队的残骸§!,有时会给你 £minor_artifacts£ §Y$minor_artifacts$§!。"
+ 
+ # Direct Study
+ #tr_aaa_history_direct_study: "Modernized Relics"
+ #tr_aaa_history_direct_study_delayed: "The ancient technology we find can easily be improved by combining it with modern technology."
+ #tr_aaa_history_direct_study_delayed: "By improving upon the technology of ancient empires, we can create designs more advanced than any other that will ever be."
+ #tr_aaa_history_direct_study_delayed: "By studying the ancient devices we use, we can gain a better understanding of their underlying mechanisms."
+ #tr_aaa_history_direct_study_modifier_desc: "Activating a relic grants you a large amount of research points."
+ #tr_aaa_history_direct_study_modifier_desc: "Gain access to serveral artifact actions that grants technology which costs minor artifacts to use, but are more powerful than regular components (Note that should be deleted: Basically the precursor tech from the next update)"
+ #mod_ship_military_sr_dark_matter_cost_mult: "Ship Dark Matter Build Cost"
+ 
+ # Envy
+ tr_aaa_history_envy: "嫉妒"
+ tr_aaa_history_envy_delayed: "看到堕落帝国如何浪费他们宝贵的技术让我们的人民感到愤怒。,这种愤怒可以转化为我们的战争努力，即使它们与古代沉睡者无关。"
+ tr_aaa_history_envy_modifier_desc: "对于每个§R堕落帝国§!：\n- 舰船射速：§G+7%§!\n- 舰船建造速度：§G+10%§!\n- 指挥官领袖成本：§G-20%§!"
+ 
+ # Relic-Snatchers
+ #tr_aaa_history_repurposed_relics: "Repurposed Relics"
+ tr_aaa_history_repurposed_relics: "征用"
+ tr_aaa_history_repurposed_relics_delayed: "并不是每个帝国都能看到过去遗迹的真正价值，而是宁愿将它们展示出来，让它们尘封千年。,如果我们拥有它们，我们就会更好地利用它们。"
+ tr_aaa_history_repurposed_relics_modifier_desc: "授予对§Y文物盗窃§!的访问权限,战争目标。"
+ opinion_AAA_stole_relic: "偷走遗物"
+ war_goal_wg_AAA_take_relic: "夺取圣物"
+ war_goal_wg_AAA_take_relic_desc: "发动战争是为了让一个小帝国摆脱保管危险文物的负担。"
+ AAA_relic_theft: "文物失窃"
+ cb_AAA_relic_envy: "遗物羡慕"
+ casus_belli_cb_AAA_relic_envy: "遗物羡慕"
+ AAA_no_relics: "一个没有文物的帝国是不可能窃取文物的。"
+ 
+ MESSAGE_AAA_STOLEN_RELIC: "遗物被盗"
+ MESSAGE_AAA_STOLEN_RELIC_TITLE: "遗物被盗"
+ MESSAGE_TYPE_AAA_STOLEN_RELIC_DESC: "获得的遗物：[Owner.GetLastReceivedRelic]"
+ #$RELIC|Y$"
+ 
+ tr_aaa_history_repurposed_relics_purifiers: "残余物"
+ tr_aaa_history_repurposed_relics_purifiers_delayed: "没落的帝国只不过是上一代帝国忘记清理的残余物。"
+ tr_aaa_history_repurposed_relics_purifiers_modifier_desc: "获得 10 年价值的 £unity£ §Yunity§!,当摧毁一个堕落或觉醒的帝国时。"
+ 
+ mod_country_minor_artifacts_produces_mult: "每月小文物"
+ 
+ # Unrevealed Secrets
+ #tr_aaa_history_artifact_exploitation: "Unrevealed Secrets"
+ #tr_aaa_history_artifact_exploitation_delayed: "Whatever secrets we uncover, we should keep to ourselves."
+ #tr_aaa_history_artifact_exploitation_modifier_desc: ""
+ 
+ # Desecration Decision
+ AAA_decision_desecrate_world: "破坏性研究"
+ AAA_decision_desecrate_world_desc: "拆除这个世界的结构和废墟，以便详细研究它。"
+ AAA_desecration_research: "破坏性研究"
+ AAA_desecration_research_desc: "为了研究这个世界的废墟正在被拆除。"
+ AAA_desecration_research_hive: "破坏性研究"
+ AAA_desecration_research_hive_desc: "为了研究这个世界的废墟正在被拆除。"
+ AAA_desecration_research_machine: "破坏性研究"
+ AAA_desecration_research_machine_desc: "为了研究这个世界的废墟正在被拆除。"
+ AAA_desecrated_planet: "废墟的废墟"
+ AAA_desecrated_planet_desc: "这个世界上只剩下极少数废墟，其余的都在一项全球范围的研究中被拆除。"
+ 
+ # Events
+ AAA.34.name: "学习完成"
+ AAA.34.desc: "我们在 [This.GetName] 上的 [Owner.GetResearchers] 已经完成了对 [This.GetPlanetMoon] 的研究。,现在可供研究的废墟已经所剩无几，但牺牲是值得的。"
+ AAA.34.a: "我们的未来看起来更加光明"
+ AAA.36.name: "发现文物"
+ AAA.36.desc: "在研究 [This.GetName] 期间，我们发现了少量 §Y$minor_artifacts$§!!"
+ AAA.36.a: "我们收藏的一个很好的补充"
+ AAA.37.name: "仔细看看"
+ AAA.37.desc: "在我们对 [This.GetName] 的研究中，我们发现了一些可能值得仔细研究的东西。"
+ AAA.37.a: "设置专门的学习区"
+ AAA.37.b: "我们不能浪费时间在那上面"
+ AAA.38.name: "古代技术"
+ AAA.38.desc: "在我们研究 [This.GetName] 的过程中，我们发现了一个包含技术信息的小型缓存。,由于这些数据的高度详细性，将这项技术集成到我们自己的技术中应该很容易。"
+ AAA.38.a: "伟大的"
+ 
+ ## artifact actions
+ # Artifact Actions
+ artifact_AAA_educational_campaign: "教育活动"
+ artifact_AAA_educational_campaign_desc: "使用我们的一些小文物来鼓励我们的高级领导人了解前身帝国。"
+ artifact_AAA_educational_campaign_effect_desc: "在教育活动中使用我们的一些 £minor_artifacts£小文物。\n\n冷却时间：£time£ §Y900§!"
+ 
+ # events
+ AAA.41.name: "教育活动"
+ AAA.41.desc: "我们应该把这次活动的重点放在谁身上？"
+ artifact_AAA_educational_campaign_military: "教育我们的海军上将"
+ artifact_AAA_educational_campaign_military_desc: "我们将以前辈的方式训练我们的海军上将，赋予他们优势，特别是面对至今仍在使用这些战术的帝国。"
+ artifact_AAA_educational_campaign_scientific: "我们的科学家需要了解前体"
+ artifact_AAA_educational_campaign_scientific_desc: "我们将以先驱者的方式培训我们的科学家。"
+ artifact_AAA_educational_campaign_governmental: "那些管理我们部门的人"
+ artifact_AAA_educational_campaign_governmental_desc: "我们将以先驱者的方式培训我们的州长。"
+ artifact_AAA_educational_campaign_ground_combat: "我们军队的将军应该是我们的焦点"
+ artifact_AAA_educational_campaign_ground_combat_desc: "我们将以前辈的方式训练我们的将军。"
+ 
+ AAA.42.name: "激起兴趣"
+ AAA.42.desc: "在我们针对前兆的活动之后，海军上将 [This.GetName] 决定更多地了解过去。 ,[This.GetSheHeCap] 现在被认为是 [This.GetAAAPrecursorExpertise] 历史领域的专家。"
+ AAA.42.a: "这可能为我们提供一个优势"
+ 
+ AAA.44.desc: "在我们针对前兆的活动之后，州长 [This.GetName] 决定更多地了解过去。 ,[This.GetSheHeCap] 现在被认为是 [This.GetAAAPrecursorExpertise] 历史领域的专家。"
+ 
+ # Precursor Scripted Loc
+ AAA_Precursor_Zroni: "兹罗尼"
+ AAA_Precursor_Vultaum: "沃尔陶姆"
+ AAA_Precursor_Plexi: "普莱克西安"
+ AAA_Precursor_Yuht: "于赫特"
+ AAA_Precursor_First_League: "甲级联赛"
+ AAA_Precursor_Baol: "鲍尔"
+ AAA_Precursor_Grunur: "格鲁努尔"
+ AAA_Precursor_Irassia: "伊拉斯亚语"
+ AAA_Precursor_Cybrex: "赛博瑞克斯"
+ AAA_Precursor_Sless: "斯莱斯"
+ AAA_Precursor_Coprean: "科普雷安"
+ AAA_Precursor_Astanine: "阿斯塔宁"
+ AAA_Precursor_Ezentian: "埃森蒂安"
+ AAA_Precursor_Werediran: "韦雷迪兰"
+ AAA_Precursor_Ixardian: "依克萨德"
+ AAA_Precursor_Lartaxan: "拉塔生"
+ AAA_NO_PRECURSOR_TEXT: "前体"
+ 
+ # modifiers
+ artifact_AAA_educational_campaign_military_modifier: "历史战斗洞察力"
+ # artifact_AAA_educational_campaign_scientific_modifier: ""
+ artifact_AAA_educational_campaign_governmental_modifier: "历史课重点"
+ artifact_AAA_educational_campaign_ground_combat_modifier: "古代战争战术"
+ 
+ artifact_AAA_educational_campaign_cooldown: "教育活动冷却期"
+ 
+ #####################
+ # Galactic Community
+ #####################
+ 
+ #########################
+ # Archeology Resolutions
+ #########################
+ 
+ # Effects
+ mod_AAA_planet_custodians_unity_produces_mult: "来自$job_custodian_plural$的统一"
+ mod_AAA_planet_custodians_upkeep_mult: "$job_custodian$ 维护"
+ AAA_planet_custodians: "博物馆工作人员"
+ AAA_planet_buildings_museums: "博物馆"
+ pop_job_AAA_relic_effect_mult: "$job_custodian$遗物效果"
+ mod_pop_job_AAA_relic_effect_mult: "$job_custodian$遗物效果"
+ 
+ ### Resolutions
+ ## Repeals
+ # Archeological Cooporation
+ resolution_category_AAA_archeology: "历史保护"
+ resolution_AAA_archeology_repeal_1: "废除$dislution_AAA_archeology_archeological_coorporation$"
+ resolution_AAA_archeology_repeal_2: "废除$dislution_AAA_archeology_mandatory_funding$"
+ resolution_AAA_archeology_repeal_3: "废除$solution_AAA_archeology_preservation_of_history$"
+ resolution_AAA_archeology_repeal_4: "废除$dislution_AAA_archeology_access_to_the_past$"
+ resolution_AAA_archeology_repeal_5: "废除$solution_AAA_archeology_conservation_of_history$"
+ resolution_AAA_archeology_repeal_1_desc: "如果过去阻碍了未来的进步，那么就不应该保留过去。,相反，当涉及到各自星球上堕落文明的遗迹时，每个帝国都应该拥有最终决定权。"
+ resolution_AAA_archeology_repeal_2_desc: "$dislution_AAA_archeology_repeal_1_desc$"
+ resolution_AAA_archeology_repeal_3_desc: "$dislution_AAA_archeology_repeal_1_desc$"
+ resolution_AAA_archeology_repeal_4_desc: "$dislution_AAA_archeology_repeal_1_desc$"
+ resolution_AAA_archeology_repeal_5_desc: "$dislution_AAA_archeology_repeal_1_desc$"
+ resolution_AAA_archeology_repeal_1_effect_success: "废除§Y$recision_AAA_archeology_archeological_coorporation$§!,解决。"
+ resolution_AAA_archeology_repeal_2_effect_success: "废除§Y$recision_AAA_archeology_mandatory_funding$§!,决议，留下 §Y$resolution_AAA_archeology_archeological_coorporation$§!,作为银河法则。"
+ resolution_AAA_archeology_repeal_3_effect_success: "废除§Y$discision_AAA_archeology_preservation_of_history$§!,决议，留下 §Y$resolution_AAA_archeology_mandatory_funding$§!,作为银河法则。"
+ resolution_AAA_archeology_repeal_4_effect_success: "废除§Y$分辨率_AAA_archeology_access_to_the_past$§！,决议，留下 §Y$resolution_AAA_archeology_preservation_of_history$§!,作为银河法则。\n"
+ resolution_AAA_archeology_repeal_5_effect_success: "废除§Y$recision_AAA_archeology_conservation_of_history$§!,决议，留下 §Y$resolution_AAA_archeology_access_to_the_past$§!,作为银河法则。\n"
+ ##Resolutions
+ # Archeological Cooporation
+ resolution_AAA_archeology_archeological_coorporation: "考古合作"
+ resolution_AAA_archeology_archeological_coorporation_desc: "揭示古代历史应该是一项共同的项目，每个人都可以参与其中。,通过向其他成员提供支持，我们将能够更快、更安全地进行挖掘。"
+ # Mandatory Funding
+ resolution_AAA_archeology_mandatory_funding: "额外资金"
+ resolution_AAA_archeology_mandatory_funding_desc: "我们应该将大部分预算用于文化中心的建设和维护。"
+ # Preservation of History
+ resolution_AAA_archeology_preservation_of_history: "保护历史"
+ resolution_AAA_archeology_preservation_of_history_tooltip: "摧毁§Y$minor_artifacts$§!,属于§R禁止§!。"
+ resolution_AAA_archeology_preservation_of_history_desc: "在我们之前的许多古代帝国已经消失，那些摧毁了过去最后奇迹的人应该受到惩罚。"
+ # Access to the past
+ resolution_AAA_archeology_access_to_the_past: "进入过去"
+ resolution_AAA_archeology_access_to_the_past_tooltip: "§Y正在恢复§!,或§Y破坏§! ,$pc_relic$s 已被§R禁止§!。"
+ resolution_AAA_archeology_access_to_the_past_desc: "古代世界应该被研究，而不是被亵渎。,通过禁止破坏这些稀有文物，我们将有更多机会揭开它们的秘密。"
+ # Conservation of history
+ resolution_AAA_archeology_conservation_of_history: "历史保护"
+ resolution_AAA_archeology_conservation_of_history_tooltip: "§Y地形改造§!,或§Y破坏§! ,$pc_nuked$s 已被§R禁止§!。"
+ resolution_AAA_archeology_conservation_of_history_desc: "虽然不像堕落的 $pc_city$ 那样令人印象深刻，但 $pc_nuked$ 也是这个星系历史的重要组成部分，应该被保留。"
+ 
+ ################################
+ # Museum Enclave
+ ################################
+ 
+ # Names and Government
+ gov_AAA_museum_enclave: "档案管理员飞地"
+ gov_AAA_museum_enclave_desc: "一个由考古学家、历史学家和其他希望揭开银河系过去的人组成的团体。"
+ RT_AAA_GRAND_ARCHIVIST: "大历史学家"
+ NAME_AAA_museum_adj: "档案管理员"
+ NAME_AAA_museum: "档案管理员"
+
+ AAA_reclaimers: "取料机"
+ AAA_archivists: "档案管理员"
+ AAA_historians: "历史学家"
+ AAA_archeologists: "考古学家"
+
+ AAA_the_ascendancies: "优势"
+ AAA_the_ancients: "古人"
+ AAA_the_forgotten: "被遗忘者"
+ AAA_ruins: "废墟"
+ AAA_history: "历史"
+ 
+ civic_AAA_archivists: "古代档案保管员"
+ civic_AAA_archivists_desc: "这个协会的使命是保存这个星系的历史。"
+ 
+ AAA_HOMICAL_ARCHIVIST_OPTION: "死！"
+ 
+ AAA_enclave.100.name: "档案管理员"
+ 
+ AAA_enclave.4.name: “[from.GetName]”#country — 可能会以未知名称返回
+ AAA_enclave.4.desc: "档案管理员不会回应我们的欢呼。"
+ AAA_enclave.4.desc.unknown: "撇开翻译不谈，一旦我们与 [From.GetName] 交换了信息，他们就关闭了所有渠道并拒绝与我们交谈。"
+ AAA_enclave.4.a: "他们怎么敢？！"
+ 
+ AAA_enclave.5.name: "档案管理员"
+ AAA_enclave.5.desc: "欢迎您，明星旅行者！,我们是档案管理员。\n\n我们的团队致力于揭开银河系的历史。,如果您想了解更多关于之前发生的事情，您可以联系我们，尽管我们可能会对我们的任何服务收取少量费用。"
+ 
+ # Refusal to communicate
+ AAA_enclave.101.desc: "档案管理员不会回应我们的欢呼。"
+ AAA_enclave.101.desc.unknown: "档案管理员不会回应我们的欢呼。"
+ 
+ # Menu
+ AAA_enclave.102.name: "[event_target:AAA_museum_enclave_country.GetName]"
+ AAA_enclave.102.desc: "欢迎，明星旅行者。,我们是 [event_target:AAA_museum_enclave_country.GetName]，如果您想知道之前发生了什么，我们将很乐意提供，但需要支付少量补偿。"
+ AAA_enclave.102a.desc: "今天我们将揭开哪些过去的奇迹？"
+ AAA_enclave.102b.desc: "当你的帝国陷落时，我们能获得对它的废墟进行挖掘的独家权利吗？"
+ AAA_enclave.102c.desc: "我们对所有商品提供一个周期保证！"
+ 
+ AAA_enclave.102.a: "我们对古代文物感兴趣。"
+ AAA_enclave.102.a.outofstock: "考古需要时间。,我们应该等待，然后再要求更多过去的文物。"
+ #AAA_enclave.102.b: "We wish to share the secrets of a precursor with you"
+ #AAA_enclave.102.b: "We wish to obtain ancient technology"
+ AAA_enclave.102.b: "您能协助我们进行考古研究吗？"
+ AAA_enclave.102.b.alreadyhavemodifier: "我们已经购买了这项服务"
+ AAA_enclave.102.e.opinion: "需要§Y档案管理员§！,拥有：\n£意见£ 意见 +80"
+ AAA_enclave.102.c: "告诉我们一个古老的帝国"
+ AAA_enclave.102.d: "我们对古代系统的位置感兴趣。"
+ AAA_enclave.102.e: "我们想建立一个国家博物馆"
+ AAA_enclave.102.e.opinion: "需要§Y档案管理员§！,拥有：\n£意见£ 意见 +50"
+ AAA_enclave.102.f: "§Y告诉我们更多§!,关于你的小组。"
+ AAA_enclave.102.f.reply: "历史探索者的历史？ ,[event_target:AAA_museum_enclave_country.GetName] 由几个远古时期建造的考古学家居住的站点组成。,建造我们的人已经被所有人遗忘，包括我们自己。\n\n直到今天，我们仍然在银河系中搜寻任何值得保存的历史。\n\n如果您想获得有关银河系历史的任何信息，我们愿意,以一定的价格向您提供它。,你知道，电池并不便宜。"
+ AAA_enclave.102.h: "我们可以招募一位§Y档案管理员§!吗？"
+ AAA_enclave.102.h.opinion: "需要§Y档案管理员§！,拥有：\n£意见£ 意见 +60"
+ AAA_enclave.102.h.alreadyrecruited: "我们已经雇用了一名档案管理员。"
+ 
+ # Buy artifacts
+ AAA_enclave.103a.desc: "我们不喜欢放弃我们的文物，尽管一个丰厚的报价也许可以缓解这个问题。"
+ AAA_enclave.103b.desc: "它属于博物馆！,但只要价格合适...我们就可以放手"
+ AAA_enclave.103c.desc: "您想购买我们的文物吗？,或许。,以合适的价格。"
+ 
+ # post-sales thanks
+ AAA_enclave.104a.desc: "谢谢你！,您的行动确保了我们的持续存在。"
+ AAA_enclave.104b.desc: "一旦你的帝国崩溃，我们将确保你的帝国的文物在我们的收藏中拥有永久的位置。"
+ AAA_enclave.104c.desc: "[root.GetSpeciesAdj] 将作为我们最喜​​欢的一些客户而被铭记。"
+ 
+ # Buy Coordinates
+ AAA_enclave.105.name: "过去的系统"
+ AAA_enclave.105.desc: "许多系统都包含古代帝国或过去时代事件的痕迹。,我们已经找到了其中大部分的位置，并愿意以一定的价格与您分享。"
+ AAA_enclave.105.a: "我们将购买一套坐标"
+ AAA_enclave.105.a.alreadyfourpoi: "我们应该一次关注几个系统"
+ 
+ # Ancient Systems Chain
+ AAA_museum_quest_chain_title: "古代系统"
+ AAA_museum_quest_chain_desc: "我们收到的坐标应该是古代系统的位置。"
+ AAA_museum_search_poi_1_poi: "坐标"
+ AAA_museum_search_1_poi: "坐标"
+ AAA_museum_search_poi_desc: "一个古老系统的坐标通向这个恒星系统。"
+ 
+ ## Precursor Options
+ 
+ # menu
+ AAA_enclave.106.name: "历代帝国"
+ AAA_enclave.106.desc: "我们拥有关于曾经居住在这个银河系的帝国的广泛数据库。,我们将支付少量费用与您分享其中一些信息。\n\n如果您以某种方式了解我们所不知道的这些先驱种族的知识，我们愿意为此付出高昂的代价。"
+ AAA_enclave.106.a: "兹罗尼"
+ AAA_enclave.106.b: "创造拉蒂亚的帝国"
+ AAA_enclave.106.c: "沃尔陶姆之星大会"
+ AAA_enclave.106.d: "普莱西亚群"
+ AAA_enclave.106.e: "鲍尔有机体"
+ AAA_enclave.106.f: "尤特帝国"
+ AAA_enclave.106.g: "第一联赛"
+ AAA_enclave.106.h: "伊朗协约"
+ AAA_enclave.106.i: "赛博瑞克斯"
+ AAA_enclave.106.j: "无忧联盟"
+ AAA_enclave.106.k: "科普雷宪法"
+ AAA_enclave.106.l: "阿斯坦尼帝国"
+ AAA_enclave.106.m: "依克萨德公司"
+ AAA_enclave.106.n: "维雷迪兰"
+ AAA_enclave.106.o: "伊森田联合体"
+ AAA_enclave.106.p: "伏尔甘帝国"
+ 
+ # Buy national Museum
+ AAA_enclave.107.desc: "您需要帮助打造一座堪比明星帝国的博物馆吗？,只要支付一定的价格，我们就能提供您在某个星球上制造一个星球所需的一切。"
+ AAA_enclave.107.d: "没关系"
+ building_enclave_museum: "国家博物馆"
+ building_enclave_museum_desc: "在档案管理员飞地的帮助下建立的博物馆。,它包含了银河系的完整历史。"
+ 
+ # Archivist Insight
+ AAA_enclave.108.name: "研究援助"
+ AAA_enclave.108.desc: "我们很乐意提供帮助，但恐怕您必须补偿我们所花费的时间。\n\n我想说我们的价格是合理的。"
+ AAA_enclave.108.a: "我们购买这项服务"
+ AAA_enclave.109.desc: "你好，星际旅行者！\n\n我们来通知您，我们十年前签订的最初合同已经到期。\n\n当然，如果您愿意，可以续签合同。"
+ AAA_archivist_insight: "档案管理员的洞察力"
+ 
+ # Zroni
+ AAA_enclave.110.name: "兹罗尼"
+ AAA_enclave.110.desc: "名称：Zroni\n\n活动时间：未知\n\n"
+ AAA_enclave.110.a: "告诉我们更多关于他们的信息"
+ AAA_enclave.110.a.reply: "事实上，兹罗尼人是第一个使用裹尸布的种族。,当他们第一次进入裹尸布时，它与现在的样子相去甚远。\n\n空荡荡的。\n\n现在，曾经伟大的兹罗尼的唯一遗迹是被称为“Zro”的尘埃。\n\n兹罗尼应该是一个证明,裹尸布的危险。"
+ AAA_enclave.110.b: "我们希望分享 Zroni 的秘密"
+ AAA_enclave.110.b.mustknowsecrets: "我们必须先了解这些秘密，然后才能分享它们"
+ AAA_enclave.110.b.alreadyshared: "我们已经与档案管理员共享了此信息"
+ AAA_enclave.110.d: "我们想买一件 Zroni 神器"
+ AAA_enclave.110.d.reply: "我们可以看到你们对这些文物的用途比我们多得多，并且很快就会运送到你们的首都。"
+ AAA_enclave.111.desc: "您已经获得了我们还没有的有关 Zroni 的信息？"
+ AAA_enclave.111.a: "分享秘密"
+ AAA_enclave.111.a.reply: "谢谢！\n\n我们已经向您转移了大量的能源积分。"
+ 
+ # Lartia
+ AAA_enclave.115.name: "你声称曾经存在的帝国"
+ AAA_enclave.115.desc: "什么？,我们没有那个时期的帝国的记录。"
+ AAA_enclave.115.a: "告诉我们更多关于他们的信息"
+ AAA_enclave.115.a.reply: "我们对这个明显是假的帝国一无所知。,正如我们已经说过的，我们没有那个时期的任何帝国的记录。"
+ AAA_enclave.115.b: "我们希望分享拉蒂亚的秘密"
+ AAA_enclave.115.b.mustknowsecrets: "我们必须先了解这些秘密，然后才能分享它们"
+ AAA_enclave.115.b.alreadyshared: "我们已经与档案管理员共享了此信息"
+ AAA_enclave.115.d: "我们想买一件拉尔提亚神器"
+ AAA_enclave.115.d.reply: "我们可以看到你们对这些文物的用途比我们多得多，并且很快就会运送到你们的首都。"
+ AAA_enclave.116.desc: "不存在的帝国的秘密？"
+ AAA_enclave.116.a: "分享秘密"
+ AAA_enclave.116.a.reply: "我们将查看您提供的数据，尽管这些数据的有效性充其量也值得怀疑。"
+ 
+ # Vultaum
+ AAA_enclave.120.name: "沃尔陶姆之星大会"
+ AAA_enclave.120.desc: "名称：沃尔陶姆恒星大会\n\n活动时间：1200万标准年前\n\n"
+ AAA_enclave.120.a: "告诉我们更多关于他们的信息"
+ AAA_enclave.120.a.reply: "沃尔陶姆是我们所知的最古老的帝国之一。\n\n他们在很小的时候就已经完善了虚拟现实，他们的整个生活方式都很大程度上建立在虚拟现实的基础上。\n\n然而，这种与现实的脱离是不健康的,对于大多数有机体来说，沃尔陶姆的命运清楚地提醒我们为什么不应该太深入地探究我们宇宙的秘密。"
+ AAA_enclave.120.b: "我们希望分享 Vultaum 的秘密"
+ AAA_enclave.120.d: "我们希望购买一件 Vultaum 神器"
+ AAA_enclave.120.d.reply: "我们可以看到你们对这些文物的用途比我们多得多，并且很快就会运送到你们的首都。"
+ AAA_enclave.121.desc: "你已经获得了我们还没有的关于 Vultaum Star Assembly 的信息？"
+ AAA_enclave.121.a: "分享秘密"
+ AAA_enclave.121.a.reply: "谢谢！\n\n我们已经向您转移了大量的能源积分。"
+ AAA_enclave.121.b: "分享更深层次的秘密"
+ AAA_enclave.121.b.reply: "不！,停止！,这是一个应该被埋藏起来的秘密！"
+ AAA_enclave.121.b.tooltip: "谁知道他们会对这个启示有何反应？"
+ 
+ # Plexian Swarm
+ AAA_enclave.125.name: "普莱西亚群"
+ AAA_enclave.125.desc: "名称：Plexian Swarm\n\n活动时间：900万标准年前\n\n"
+ AAA_enclave.125.a: "告诉我们更多关于他们的信息"
+ AAA_enclave.125.a.reply: "Plexian 群是这个时代大多数帝国所定义的吞噬群。\n\n这个集体的每一个思想和行动都旨在通过侵略性手段扩张蜂巢。\n\n这样的生物体注定会衰落，因为,即使是最强大的掠夺者也可能被多数人击败。"
+ AAA_enclave.125.b: "我们希望分享 Plexi 的秘密"
+ AAA_enclave.125.d: "我们想买一件 Plexi 神器"
+ AAA_enclave.125.d.reply: "我们可以看到你们对这些文物的用途比我们多得多，并且很快就会运送到你们的首都。"
+ AAA_enclave.126.desc: "您已经获得了我们还没有的有关 Plexi 的信息？"
+ AAA_enclave.126.a: "分享秘密"
+ AAA_enclave.126.a.reply: "谢谢！\n\n我们已经向您转移了大量的能源积分。"
+ 
+ # Baol
+ AAA_enclave.130.name: "鲍尔有机体"
+ AAA_enclave.130.desc: "名称：包尔生物体\n\n活动时间：700万标准年前\n\n"
+ AAA_enclave.130.a: "告诉我们更多关于他们的信息"
+ AAA_enclave.130.a.reply: "鲍尔的故事是一个非常悲伤的故事。,由于行动缓慢且虚弱，鲍尔被格鲁努尔击败，格鲁努尔是一个我们没有太多数据的敌对帝国。\n\n说实话，我们也没有太多关于鲍尔的信息。"
+ AAA_enclave.130.b: "我们希望分享 Baol 的秘密"
+ AAA_enclave.130.d: "我们想买一件Baol神器"
+ AAA_enclave.130.d.reply: "我们可以看到你们对这些文物的用途比我们多得多，并且很快就会运送到你们的首都。"
+ AAA_enclave.131.desc: "你已经获得了我们还没有的有关鲍尔生物体的信息？"
+ AAA_enclave.131.a: "分享秘密"
+ AAA_enclave.131.a.reply: "谢谢！\n\n我们已经向您转移了大量的能源积分。"
+ 
+ # Yuht
+ AAA_enclave.135.name: "尤特帝国"
+ AAA_enclave.135.desc: "名称：Yuht帝国\n\n活动时间：六到四百万标准年前\n\n"
+ AAA_enclave.135.a: "告诉我们更多关于他们的信息"
+ AAA_enclave.135.a.reply: "Yuht？\n想象一下出生在一个空虚的宇宙中，永远孤独。,确实很可怕。\n\n然而，他们的星际旅行方法是银河系历史上最有趣的方法之一。\n\n虽然大多数帝国很早就发现了超航道网络，但尤特人似乎从未取得这一突破。\n\n ,n\n我们的一个理论是，超航道在Yuht时期根本不存在，只是在其消亡前不久才形成，尽管这只是猜测。"
+ AAA_enclave.135.b: "我们希望分享 Yuht 的秘密"
+ AAA_enclave.135.d: "我们想买一件 Yuht 神器"
+ AAA_enclave.135.d.reply: "我们可以看到你们对这些文物的用途比我们多得多，并且很快就会运送到你们的首都。"
+ AAA_enclave.136.desc: "你已经获得了我们还没有的关于Yuht帝国的信息？"
+ AAA_enclave.136.a: "分享秘密"
+ AAA_enclave.136.a.reply: "谢谢！\n\n我们已经向您转移了大量的能源积分。"
+ 
+ # First League
+ AAA_enclave.140.name: "第一联赛"
+ AAA_enclave.140.desc: "名称：第一联盟\n\n活动时间：200万标准年前\n\n"
+ AAA_enclave.140.a: "告诉我们更多关于他们的信息"
+ AAA_enclave.140.a.reply: "第一联盟是否是统一帝国的第一个联盟还有待商榷。\n\n然而，我们所知道的是，他们的合作带来了许多新的发现。\n\n关于全球城市的谣言，以及从我们掌握的信息来看,这是我们银河系人口数量最多的时期。"
+ AAA_enclave.140.b: "我们希望分享第一联赛的秘密"
+ AAA_enclave.140.d: "我们想购买一件甲级联赛神器"
+ AAA_enclave.140.d.reply: "我们可以看到你们对这些文物的用途比我们多得多，并且很快就会运送到你们的首都。"
+ AAA_enclave.141.desc: "你已经获得了我们还没有的关于第一联赛的信息？"
+ AAA_enclave.141.a: "分享秘密"
+ AAA_enclave.141.a.reply: "谢谢！\n\n我们已经向您转移了大量的能源积分。"
+ 
+ # Irassian Concordat
+ AAA_enclave.145.name: "伊朗协约"
+ AAA_enclave.145.desc: "名称：伊拉斯亚协约\n\n活动时间：100万标准年前\n\n"
+ AAA_enclave.145.a: "告诉我们更多关于他们的信息"
+ AAA_enclave.145.a.reply: "伊拉斯人是一个特殊的物种。,如此弱小的免疫系统，人们必须得出这样的结论：它们是在盖亚世界上进化而来的。\n\n这是否属实尚不清楚，尽管贾沃尔痘对伊拉斯人来说是一种祸害，但对那些其他人来说也是一种福音。,伊朗人受到压迫。"
+ AAA_enclave.145.b: "我们希望分享伊朗人的秘密"
+ AAA_enclave.145.d: "我们想买一件伊朗文物"
+ AAA_enclave.145.d.reply: "我们可以看到你们对这些文物的用途比我们多得多，并且很快就会运送到你们的首都。"
+ AAA_enclave.146.desc: "您已经获得了我们还没有的有关伊朗协约的信息？"
+ AAA_enclave.146.a: "分享秘密"
+ AAA_enclave.146.a.reply: "谢谢！\n\n我们已经向您转移了大量的能源积分。"
+ 
+ # Cybrex
+ AAA_enclave.150.name: "赛博瑞克斯"
+ AAA_enclave.150.desc: "名称：Cybrex\n\n活动时间：600 000 标准年前\n\n"
+ AAA_enclave.150.a: "告诉我们更多关于他们的信息"
+ AAA_enclave.150.a.reply: "Cybrex 是一个由机器组成的帝国，尽管与我们不同，他们没有个性。,相反，他们的行为很像蜂群思维。\n\n尽管他们年龄相对较小，但几乎没有留下什么痕迹，这主要是因为当时的帝国决定抹掉他们的每一个痕迹。\n\n虽然我们理解他们的愤怒，但我们希望他们“,他们认为保存历史的重要性，他们的行为使得对 Cybrex 的研究变得困难。"
+ AAA_enclave.150.b: "我们希望分享 Cybrex 的秘密"
+ AAA_enclave.150.d: "我们想买一个 Cybrex 神器"
+ AAA_enclave.150.d.reply: "我们可以看到你们对这些文物的用途比我们多得多，并且很快就会运送到你们的首都。"
+ AAA_enclave.151.desc: "您已经获得了我们还没有的有关 Cybrex 的信息？"
+ AAA_enclave.151.a: "分享秘密"
+ AAA_enclave.151.a.reply: "谢谢！\n\n我们已经向您转移了大量的能源积分。"
+ 
+ # Sless
+ AAA_enclave.155.name: "无忧联盟"
+ AAA_enclave.155.desc: "名称：无量联盟\n\n活动时间：600万标准年前\n\n"
+ AAA_enclave.155.a: "告诉我们更多关于他们的信息"
+ AAA_enclave.155.a.reply: "斯莱斯是一个由许多种族组成的帝国。,他们努力创造完美的物种，却从未意识到社会的多样性。\n\n也许他们的社会崩溃是最好的结果，因为如果他们成功地实现了他们的追求，现在的情况可能会大不相同。"
+ AAA_enclave.155.b: "我们希望分享 Sless 的秘密"
+ AAA_enclave.155.d: "我们想买一个Sless神器"
+ AAA_enclave.155.d.reply: "我们可以看到你们对这些文物的用途比我们多得多，并且很快就会运送到你们的首都。"
+ AAA_enclave.156.desc: "您已经获得了我们还没有的有关 Sless 的信息？"
+ AAA_enclave.156.a: "分享秘密"
+ AAA_enclave.156.a.reply: "谢谢！\n\n我们已经向您转移了大量的能源积分。"
+ 
+ # Coprean
+ AAA_enclave.160.name: "科普雷宪法"
+ AAA_enclave.160.desc: "名称：科普雷安宪法\n\n活动时间：160万标准年前\n\n"
+ AAA_enclave.160.a: "告诉我们更多关于他们的信息"
+ AAA_enclave.160.a.reply: "宪法是一个​​集体思维，尽管他们的行为就像一个正常的帝国。,也许他们想欺骗其他帝国？,也许他们只是觉得无聊，尝试了一些新的东西？\n\n我们可能永远不知道，也许我们不应该知道。"
+ AAA_enclave.160.b: "我们希望分享 Copreans 的秘密"
+ AAA_enclave.160.d: "我们想买一件 Coprean 神器"
+ AAA_enclave.160.d.reply: "我们可以看到你们对这些文物的用途比我们多得多，并且很快就会运送到你们的首都。"
+ AAA_enclave.161.desc: "你已经获得了我们还没有的关于科普雷人的信息？"
+ AAA_enclave.161.a: "分享秘密"
+ AAA_enclave.161.a.reply: "谢谢！\n\n我们已经向您转移了大量的能源积分。"
+ 
+ # Astanine
+ AAA_enclave.165.name: "阿斯坦尼帝国"
+ AAA_enclave.165.desc: "名称：阿斯坦尼帝国\n\n活动时间：10万标准年前\n\n"
+ AAA_enclave.165.a: "告诉我们更多关于他们的信息"
+ AAA_enclave.165.a.reply: "阿斯坦尼帝国是一个严重依赖投影仪技术的帝国，尽管它主要因其军事应用而被人们所铭记。\n\n遗憾的是，幸存到今天的人（如果有的话）也很少。"
+ AAA_enclave.165.b: "我们希望分享阿斯坦尼的秘密"
+ AAA_enclave.165.d: "我们想买一件阿斯坦尼神器"
+ AAA_enclave.165.d.reply: "我们可以看到你们对这些文物的用途比我们多得多，并且很快就会运送到你们的首都。"
+ AAA_enclave.166.desc: "你已经获得了我们还没有的关于阿斯坦宁的信息？"
+ AAA_enclave.166.a: "分享秘密"
+ AAA_enclave.166.a.reply: "谢谢！\n\n我们已经向您转移了大量的能源积分。"
+ 
+ # Ixardian
+ AAA_enclave.170.name: "依克萨德公司"
+ AAA_enclave.170.desc: "名称：依克萨德公司\n\n活动时间：800 000 标准年前\n\n"
+ AAA_enclave.170.a: "告诉我们更多关于他们的信息"
+ AAA_enclave.170.a.reply: "伊萨迪亚公司是贸易大师，并且对其高度依赖。,然而，他们缺乏其他领域的知识，例如战争，因为他们是一个和平社会。,这是他们的失败，因为他们宁愿远离任何战争也不愿帮助他们的盟友，尽管他们迫切需要他们的帮助。"
+ AAA_enclave.170.b: "我们希望分享依克萨德人的秘密"
+ AAA_enclave.170.d: "我们想买一件依克萨德神器"
+ AAA_enclave.170.d.reply: "我们可以看到你们对这些文物的用途比我们多得多，并且很快就会运送到你们的首都。"
+ AAA_enclave.171.desc: "你已经获得了我们还没有的关于伊克萨德人的信息？"
+ AAA_enclave.171.a: "分享秘密"
+ AAA_enclave.171.a.reply: "谢谢！\n\n我们已经向您转移了大量的能源积分。"
+ 
+ # Werediran
+ AAA_enclave.175.name: "维雷迪兰"
+ AAA_enclave.175.desc: "名称：Werediran\n\n活动时间：500 000 标准年前\n\n"
+ AAA_enclave.175.a: "告诉我们更多关于他们的信息"
+ AAA_enclave.175.a.reply: "威雷迪兰并不是真正的帝国，而是一个有机体。,一个令人难以置信的古老帝国。 \n\n它作为一个帝国的地位源于这样一个事实：它与当时的帝国进行交流，将其影响力传播到属于年轻帝国的世界，尽管它从未离开过自己的本土星系，甚至从未参与过外交。"
+ AAA_enclave.175.b: "我们希望分享 Werediran 的秘密"
+ AAA_enclave.175.d: "我们想买一件威雷迪兰神器"
+ AAA_enclave.175.d.reply: "我们可以看到你们对这些文物的用途比我们多得多，并且很快就会运送到你们的首都。"
+ AAA_enclave.176.desc: "你已经获得了我们还没有的关于 Werediran 的信息？"
+ AAA_enclave.176.a: "分享秘密"
+ AAA_enclave.176.a.reply: "谢谢！\n\n我们已经向您转移了大量的能源积分。"
+ 
+ # Ezentian
+ AAA_enclave.180.name: "伊森田联合体"
+ AAA_enclave.180.desc: "名称：Ezentian 联合体\n\n活动时间：3 400 000 标准年前\n\n"
+ AAA_enclave.180.a: "告诉我们更多关于他们的信息"
+ AAA_enclave.180.a.reply: "毁灭行星的力量是一种可怕的力量，没有人比伊森提安联合体更擅长这一点。\n\n尽管他们从未将这种力量用于邪恶，甚至从未用于正义的战争，但他们却受到了其他帝国的广泛恐惧。 ,\n\nEzentian 联合体提醒人们恐惧的危险。"
+ AAA_enclave.180.b: "我们希望分享 Ezenti 的秘密"
+ AAA_enclave.180.d: "我们想买一件 Ezentian 神器"
+ AAA_enclave.180.d.reply: "我们可以看到你们对这些文物的用途比我们多得多，并且很快就会运送到你们的首都。"
+ AAA_enclave.181.desc: "您已经获得了我们还没有的有关 Ezenti 的信息？"
+ AAA_enclave.181.a: "分享秘密"
+ AAA_enclave.181.a.reply: "谢谢！\n\n我们已经向您转移了大量的能源积分。"
+ 
+ # Volgan
+ AAA_enclave.185.name: "伏尔甘帝国"
+ AAA_enclave.185.desc: "名称：伏尔甘帝国\n\n活动时间：400万标准年前\n\n"
+ AAA_enclave.185.a: "告诉我们更多关于他们的信息"
+ AAA_enclave.185.a.reply: "没有什么是永恒的。,这是[event_target:AAA_museum_enclave_country.GetName]的首要规则之一。,显然，伏尔加人从未听说过这条规则，否则他们就会停止保护自己行星的徒劳尝试。\n\n然而，我们感谢他们的努力，因为他们的冰冻遗骸是我们银河系中保存最完好的遗骸之一,。"
+ AAA_enclave.185.b: "我们希望分享伏尔干河的秘密"
+ AAA_enclave.185.d: "我们想买一件伏尔干神器"
+ AAA_enclave.185.d.reply: "我们可以看到你们对这些文物的用途比我们多得多，并且很快就会运送到你们的首都。"
+ AAA_enclave.186.desc: "你已经获得了我们还没有的关于伏尔甘人的信息？"
+ AAA_enclave.186.a: "分享秘密"
+ AAA_enclave.186.a.reply: "谢谢！\n\n我们已经向您转移了大量的能源积分。"
+ 
+ # Buy Leader
+ AAA_enclave.400.name: "聘请科学家"
+ AAA_enclave.400.desc: "我们的一位档案管理员可能愿意承诺为您的事业提供服务。,然而，我们希望您能提供一小笔……我们可以说是捐款，以换取您向我们最尊贵的会员提供的优惠。"
+ AAA_enclave.400.a: "当然。,你将得到你的捐款。"
+ AAA_enclave.400.a.reply: "出色的。,我相信我们一定能找到愿意为如此慷慨的赞助人工作的人！"
+ AAA_enclave.400.tt_scientist: "我们只能雇用§Yone§！ ,§H档案科学家§!,一次。"
+ 
+ # Secrets of the Precursor Story Pack
+ mod_pspmod_precursor_coprean_secrets_deep_gestalt: "科普雷亚更深层次的秘密"
+ mod_pspmod_precursor_coprean_secrets_deep: "科普雷亚更深层次的秘密"
+ mod_pspmod_precursor_coprean_secrets: "科普雷亚的秘密"
+ mod_pspmod_precursor_sless_secrets: "Sless 的秘密"
+ mod_pspmod_precursor_astanine_secrets: "阿斯坦尼的秘密"
+ mod_pspmod_precursor_astanine_history_never_repeat: "历史不会重演"
+ mod_pspmod_precursor_astanine_history_never_repeats: "历史不会重演"
+
+ # Secrets of the More Precursors
+ artifact_ixardian_research_completed: "依克萨德人的秘密"
+ artifact_ixardian_research_completed_gestalt: "依克萨德人的秘密"
+ artifact_werediran_research_completed: "威雷迪兰的秘密"
+ artifact_ezentian_research_completed: "Ezenti 的秘密"
+ 
+ # Secrets of the Volgan
+ artifact_volgan_research_completed: "伏尔甘河的秘密"
+ 
+ # When destroyed
+ AAA_enclave.502.desc: "我们收到了档案管理员发来的信息。,他们的一个车站已被摧毁！"
+ AAA_enclave.503.desc: "我们收到了档案馆大历史学家发出的求救信号。,他们的最后一个车站已被摧毁。,幸存者寥寥无几，这个团体基本上已经不复存在了。"
+ AAA_enclave.504.desc: "摧毁档案站后，我们从残骸中发现了许多可以抢救的资源。,大厅里堆放的过去时代的捐赠、礼物和遗物现在漂浮在太空中，等待领取。"
+ AAA_enclave.504.desc.unknown: "在摧毁[station_system.GetName]星系中漂浮的空间站设施后，我们在其残骸中发现了大量有价值的资源。"
+ 
+ AAA_archivist_explanation: "\n我们将聘请一名具有 §Y$leader_trait_AAA_archivist$§! 的 5 级科学家,特征。"
+
+ councilor_AAA_archivist: "档案管理员"
+ councilor_AAA_archivist_female: "$councilor_AAA_archivist$"
+ councilor_AAA_archivist_desc: "$NAME_AAA_museum$ 的一名档案管理员在该委员会任职，分享对之前时期的见解。"
+ councilor_AAA_archivist_unlock_title: "§H$NAME_AAA_museum$的理事会立场§!"
+ councilor_AAA_archivist_conditional_tooltip: "领导者具有§Y$leader_trait_AAA_archivist$§！,特征。"
+ AAA_enclave.tt_scientist: "我们只能雇用§Yone§！,档案管理员。"
+
+ unlocks_AAA_archivist_council_position: "\n§E允许解锁议会职位：§!\n§H$t$$councilor_AAA_archivist$§!\n$tt$$COUNCIL_POSITION_MODIFIER_BASE$\n$ttt$每月小型文物：§G+5%§!\n ,$ttt$博物馆工作人员遗物效果：§G+2%§!\n$COUNCIL_POSITION_AVAILABLE_FOR$$t$$scientist_with_icon$\n\n$COUNCIL_POSITION_REQUIREMENTS$$councilor_AAA_archivist_conditional_tooltip$"
+
+ AAA_archivist_desc: "$leader_trait_AAA_archivist_desc$"
+ AAA_archivist_catch_phrase: "§L“随着无限的时间，我们会意识到人们永远无法收回它。这并不意味着我们不能尝试。”§！"
+ 
+ # Trait
+ leader_trait_AAA_archivist: "古代知识"
+ leader_trait_AAA_archivist_desc: "这位领导人对过去了解得很多，也许有些人会说太多了。"
+ 
+ # Archivist Leader Names
+ NAME_AAA_archivist_Lavinia: "档案管理员拉维尼娅"
+ NAME_AAA_excavator_Zerra: "泽拉挖掘机"
+ NAME_AAA_the_collector: "收藏者"
+ NAME_AAA_doctor_Mircorv: "米尔科夫博士"
+ NAME_AAA_professor_Nyx: "尼克斯教授"
+ 
+ # MAP precursor Events
+ MAP_precursor_events.3.name: "失事战列舰"
+ MAP_precursor_events.3.desc: "最近对我们行星的探索发现了 [event_target:MAP_plexi_digsite.GetName] 上一艘似乎是古代战舰的遗迹。,它属于一个自称为§YPlexian Swarm§! 的帝国。,直到它在 [event_target:MAP_plexi_digsite.GetPlanetMoon] 上崩溃。"
+ MAP_precursor_events.4.name: "失事的船"
+ MAP_precursor_events.4.desc: "最近对地球进行重新勘察后，我们在 [event_target:MAP_lartia_digsite.GetName] 上发现了一艘似乎是古代宇宙飞船的残骸。,它属于谁，目前仍不得而知。"
+ 
+ # Ascension Perks
+ ap_AAA_archeology_tradition_perk: "过去的奇迹"
+ ap_AAA_archeology_tradition_perk_desc: "我们博物馆的展览受益于偶尔举办的特别活动，在有限的时间内展示我们帝国最有价值的文物。,通过加强周围的安全，我们可以增加人们欣赏这些独特奇观的时间。"
+ 
+ # Placeholder Relics
+ r_scfe_alshigan_engine: "阿尔希甘发动机"
+ r_scfe_znkar_distortion_generator: "Z'nkar 失真引擎"
+ r_scfe_sless_gene_template: "终极生命体遗传模板"
+ r_scfe_diary_of_innovo: "创新日记"
+ r_scfe_astanine_last_projector: "阿斯坦尼的最后一台投影仪"
+ r_the_frozen_engine: "冰冻的引擎"
+ r_werediran_core: "维雷迪兰精华"
+ r_ezentian_core: "巨像核心"
+ r_ixardian_database: "依克萨德数据库"

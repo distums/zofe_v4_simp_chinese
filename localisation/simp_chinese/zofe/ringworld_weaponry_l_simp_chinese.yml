@@ -1,0 +1,50 @@
+﻿l_simp_chinese:
+ 
+ 
+ ringworld_empire_digsite_1:0 "神秘的数据库"
+ ringworld_empire_digsite_1_desc:0 "由于动力技术的最新进展，我们相信现在可以恢复§H[From.Planet.GetName]§!上祖先档案中的神秘数据库。\n\n当然，我们的团队需要一些时间,组装并采取所有预防措施。,一旦重新激活，当我们继续寻找我们的根源时，我们就无法知道数据库能告诉我们什么关于我们的过去。"
+
+ ringworld_weaponry.100.name:0 "祖先的档案"
+ ringworld_weaponry.100.desc:0 "祖先档案馆里一直有一个看起来很奇怪的数据库，尽管我们尽了最大努力，这些年来它仍然处于休眠状态。,随着我们对§Y$tech_dark_matter_power_core$§的掌握！,启用了许多以前认为不可能的技术，我们现在相信我们多年前发现的这个数据库的电源可能由相同的技术提供动力。\n\n也许我们的 [Root.GetScientistPlural] 重新审视旧的技术的时候到了,机器并发现我们的祖先留下的秘密。"
+ ringworld_weaponry.100.desc.spiritualist:0 "祖先档案馆里一直有一个看起来很奇怪的数据库，尽管我们尽了最大努力，这些年来它仍然处于休眠状态。,随着我们对§Y$tech_dark_matter_power_core$§的掌握！,启用了许多以前认为不可能的技术，我们现在相信这个数据库的电源可能由相同的技术提供动力。\n\n也许我们的 [Root.GetScientistPlural] 重新审视旧机器并发现什么的时候到了,我们的§H灵修祖先的秘密§！,被留下来。"
+ ringworld_weaponry.100.desc.materialist:0 "祖先档案馆里一直有一个看起来很奇怪的数据库，尽管我们尽了最大努力，这些年来它仍然处于休眠状态。,随着我们对§Y$tech_dark_matter_power_core$§的掌握！,启用了许多以前认为不可能的技术，我们现在相信这个数据库的电源可能由相同的技术提供动力。\n\n也许我们的 [Root.GetScientistPlural] 重新审视旧机器并发现什么的时候到了,我们的§H唯物主义祖先§！,被留下来。"
+ ringworld_weaponry.100.desc.xenophile:0 "祖先档案馆里一直有一个看起来很奇怪的数据库，尽管我们尽了最大努力，这些年来它仍然处于休眠状态。,随着我们对§Y$tech_dark_matter_power_core$§的掌握！,启用了许多以前认为不可能的技术，我们现在相信这个数据库的电源可能由相同的技术提供动力。\n\n也许我们的 [Root.GetScientistPlural] 重新审视旧机器并发现什么的时候到了,我们的§H嗜异祖先§！,被留下来。"
+ ringworld_weaponry.100.desc.xenophobe:0 "祖先档案馆里一直有一个看起来很奇怪的数据库，尽管我们尽了最大努力，这些年来它仍然处于休眠状态。,随着我们对§Y$tech_dark_matter_power_core$§的掌握！,启用了许多以前认为不可能的技术，我们现在相信这个数据库的电源可能由相同的技术提供动力。\n\n也许我们的 [Root.GetScientistPlural] 重新审视旧机器并发现什么的时候到了,我们的§H仇外祖先§！,被留下来。"
+ ringworld_weaponry.100.desc.militarist:0 "祖先档案馆里一直有一个看起来很奇怪的数据库，尽管我们尽了最大努力，这些年来它仍然处于休眠状态。,随着我们对§Y$tech_dark_matter_power_core$§的掌握！,启用了许多以前认为不可能的技术，我们现在相信这个数据库的电源可能由相同的技术提供动力。\n\n也许我们的 [Root.GetScientistPlural] 重新审视旧机器并发现什么的时候到了,我们的§H军国主义祖先§！,被留下来。"
+ ringworld_weaponry.100.desc.pacifist:0 "祖先档案馆里一直有一个看起来很奇怪的数据库，尽管我们尽了最大努力，这些年来它仍然处于休眠状态。,随着我们对§Y$tech_dark_matter_power_core$§的掌握！,启用了许多以前认为不可能的技术，我们现在相信这个数据库的电源可能由相同的技术提供动力。\n\n也许我们的 [Root.GetScientistPlural] 重新审视旧机器并发现什么的时候到了,我们的§H和平主义祖先§！,被留下来。"
+ ringworld_weaponry.100.desc.authoritarian:0 "祖先档案馆里一直有一个看起来很奇怪的数据库，尽管我们尽了最大努力，这些年来它仍然处于休眠状态。,随着我们对§Y$tech_dark_matter_power_core$§的掌握！,启用了许多以前认为不可能的技术，我们现在相信这个数据库的电源可能由相同的技术提供动力。\n\n也许我们的 [Root.GetScientistPlural] 重新审视旧机器并发现什么的时候到了,我们的§H独裁祖先的秘密§！,被留下来。"
+ ringworld_weaponry.100.desc.egalitarian:0 "祖先档案馆里一直有一个看起来很奇怪的数据库，尽管我们尽了最大努力，这些年来它仍然处于休眠状态。,随着我们对§Y$tech_dark_matter_power_core$§的掌握！,启用了许多以前认为不可能的技术，我们现在相信这个数据库的电源可能由相同的技术提供动力。\n\n也许我们的 [Root.GetScientistPlural] 重新审视旧机器并发现什么的时候到了,我们的“平等主义祖先”的秘密！,被留下来。"
+ ringworld_weaponry.100.desc.hive:0 "祖先档案馆里一直有一个看起来很奇怪的数据库，尽管我们尽了最大努力，这些年来它仍然处于休眠状态。,随着我们对§Y$tech_dark_matter_power_core$§的掌握！,启用了许多以前认为不可能的技术，我们现在相信这个数据库的电源可能由相同的技术提供动力。\n\n也许我们的 [Root.GetScientistPlural] 重新审视旧机器并发现什么的时候到了,我们的§H蜂巢心灵祖先的秘密§！,被留下来。"
+ ringworld_weaponry.100.desc.machine:0 "祖先档案馆里一直有一个看起来很奇怪的数据库，尽管我们尽了最大努力，这些年来它仍然处于休眠状态。,随着我们对§Y$tech_dark_matter_power_core$§的掌握！,启用了许多以前认为不可能的技术，我们现在相信这个数据库的电源可能由相同的技术提供动力。\n\n也许我们的 [Root.GetScientistPlural] 重新审视旧机器并发现什么的时候到了,我们的§H机器祖先§！,被留下来。"
+ ringworld_weaponry.100.a:0 "将该数据库上线！"
+
+ ringworld_weaponry.101.name:0 "初步突破"
+ ringworld_weaponry.101.desc:0 "似乎我们祖先的秘密在召唤我们。\n\n在采取了所有预防措施以免我们意外炸毁数据库和其中的所有知识后，我们的 [Owner.GetScientistPlural] 团队开始向其注入少量的,$tech_dark_matter_power_core$。,几个小时后，数据库再次活跃起来，初始界面变得可用。\n\n翻译我们祖先的古老语言将非常耗时，以确保我们的 [Owner.GetScientistPlural] 不会按错按钮。,但我们最初的理解是，这是某种历史档案，其中提到了我们从未听说过的技术。,我们的祖先拥有的此类技术之一是§Y$tech_dark_energy_power_core$§!，我们的 [Owner.GetScientistPlural] 渴望进一步研究。"
+ ringworld_weaponry.101.a:0 "$tech_dark_energy_power_core$？,这可能吗？"
+ ringworld_weaponry.101.b:0 "我们已经了解了 $tech_dark_energy_power_core$。"
+
+ ringworld_weaponry.102.name:0 "有趣的策略"
+ ringworld_weaponry.102.desc:0 "从古代机器中提取任何类型的信息始终是一个微妙的过程，但自大远征初期发生的各种小冲突以来，更多信息浮出水面，我们祖先的舰队装备了§Y$ tech_dark_energy_jump_drive$§! ,\n\n如果我们能够学习这些技术，我们的舰队就能对我们的复仇者做同样的事情,敌人。"
+ ringworld_weaponry.102.a:0 "$tech_dark_energy_jump_drive$？"
+ ringworld_weaponry.102.b:0 "我们已经了解了 $tech_dark_energy_jump_drive$。"
+
+ ringworld_weaponry.103.name:0 "复仇女神适应"
+ ringworld_weaponry.103.desc:0 "随着大远征给冲突双方造成损失，我们的祖先意识到需要更大、更强大的武器。,新记录显示 §Y$tech_dark_energy_power_booster$§!,就是在特别激烈的战斗中加强电力供应的一种尝试，在这些战斗中，武器系统的需求常常阻碍舰队的机动和撤退能力，从而导致不必要的损失。\n\n正如祖先适应了他们复仇者的力量一样,，复仇女神也进化到对抗他们的战术，并开始攻击我们的祖先不能失去的重要系统，迫使他们陷入激烈的战斗。,许多世界被毁灭，某个§H北方战斗群§所犯下的暴行！,复仇女神的名字受到了广泛的关注，但它的声誉却在我们的历史中永远玷污了。"
+ ringworld_weaponry.103.a:0 "让我们研究一下 $tech_dark_energy_power_booster$？"
+ ringworld_weaponry.103.b:0 "我们已经了解了 $tech_dark_energy_power_booster$。"
+ 
+ ringworld_weaponry.104.name:0 "§H[From.Solar_System.GetName]§! 之战"
+ ringworld_weaponry.104.desc:0 "在一系列胜利的基础上，§H北方战斗群§！,由§Y阿米吉多顿上将§!领导的复仇女神,最终强行突破我们祖先的防御并到达§H[From.Solar_System.GetName]§! 星系。,等待着他们的是六十艘始祖最先进的战列巡洋舰，配备了最新的§Y$tech_massive_autocannons$§!，旁边还有一艘新建的巨大舰船。\n\n几天之内战斗就结束了。 ,§H 北方战斗群§的旗舰泰坦！,被俘获并改装，§Y阿米吉多顿海军上将§!,被杀，对帝国的直接威胁被消灭，从而获得了大联盟最伟大的胜利之一。,受到这场胜利的鼓舞，也许是胆子大了，也可能是机会主义，其他国家奋起反抗被削弱的复仇女神。,银河系有史以来最集中的海军力量。"
+ ringworld_weaponry.104.a:0 "§Y$tech_massive_autocannons$§!？,听起来很有用。"
+ ringworld_weaponry.104.b:0 "我们已经了解了 $tech_massive_autocannons$。"
+ 
+ ringworld_weaponry.105.name:0 "转折点"
+ ringworld_weaponry.105.desc:0 "在§H[From.Solar_System.GetName]§!星系遭受惨败后，复仇女神不紧不慢地策划了对我们祖先的复仇，我们的祖先现在袭击了复仇女神的领地，在此过程中摧毁了许多驻军站和舰队。 ,\n\n但是聚集的风暴无法阻止。 ,§H南战斗群§!、§H西战斗群§!和§H东战斗群§!,复仇女神聚集在一起，这也许是银河系有史以来最集中的海军力量，他们的目标是一劳永逸地粉碎祖先。,即使有了我们祖先的新§Y$tech_dark_energy_shield$§!，复仇女神舰队的绝对火力也是无与伦比的，而祖先的伤亡也是天文数字。,即使复仇女神舰队返回§H[From.Solar_System.GetName]§！,再次无情地轰炸§H[From.Planet.GetName]§！,屈服后，祖先们寄希望于其他帝国能够听到他们的求救声，救援部队或大联盟的反击最终会解除围困。\n\n没有这样的帮助，我们的祖先就会,不投降，所以复仇女神轰炸了我们的世界，直到什么都没有留下。"
+ ringworld_weaponry.105.a:0 "$tech_dark_energy_shield$？"
+ ringworld_weaponry.105.b:0 "我们已经了解了 $tech_dark_energy_shield$。"
+ 
+ ringworld_weaponry.106.name:0 "数据库崩溃"
+ ringworld_weaponry.106.desc:0 "也许是由于过度兴奋，[event_target:silly_scientist.GetName]开始在我们祖先的数据库中输入有关大远征中使用的武器和战斗战术的查询。,这导致了古老机器的灾难性故障，它相信入侵者已经登陆了该部分，触发了自毁序列，以保护我们祖先的秘密。\n\n在数据库最终被摧毁之前，我们能够破解,其部分条目涉及我们祖先的战术，这让我们对那段时期的战斗有了更深入的了解。\n\n当然，由于这场灾难性的事故，导致我们的一部分历史永远消失了，[event_target: ,silly_scientist.GetName] 将被解除职务并受到相应的惩罚。"
+ ringworld_weaponry.106.a:0 "愚蠢的[Owner.GetScientist]。,但如果复仇女神再次回归，我们会做好准备！"
+ 
+ 

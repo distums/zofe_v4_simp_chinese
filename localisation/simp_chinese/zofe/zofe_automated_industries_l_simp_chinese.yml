@@ -1,0 +1,45 @@
+﻿l_simp_chinese:
+ 
+ 
+ automated_industries.1.name:0 "按预期工作？"
+ automated_industries.1.desc:0 "几个世纪以来，堕落帝国在他们的世界各地运营着令人印象深刻的自动化设施，不需要工人，他们的整个经济都依赖它们。,然而，我们的科学家最近发表的论文推测，这些建筑物可能无法按照最初设计的方式发挥作用。,例如，建筑物的大小似乎表明了更大的输出能力，并且存在无法解释的端口和管道，这似乎表明其他资源正在混合到生产过程中，但只是年久失修。\n\,如果我们仔细观察建筑物的原理图，结合我们丰富的工程知识和经验，也许我们可以寻找线索，了解它们使用了哪些资源来实现最高效率。"
+
+ automated_industries.1.a:0 "仔细研究原理图。"
+ automated_industries.1.b:0 "这些建筑很完美——不需要改进。"
+ 
+ automated_industries.2.name:0 "原理图审查"
+ automated_industries.2.desc:0 "正如我们的科学家所怀疑的那样，由于多年来领土逐渐丧失，由此导致的资源匮乏意味着堕落帝国越来越难以维护其自动化建筑，从而导致这些工程奇迹年久失修。 ,。,但一旦获得适当的§H战略资源§!，自动化设施似乎就被赋予了新的生命，其产量开始飙升，超出了我们科学家最疯狂的梦想。\n\n此外，我们似乎还有另一个发现：,示意图本身似乎表明，另一座建筑物（可能是一种控制中心）用于协调全球范围内的设施生产，以最大限度地提高产量。,我们的科学家已经制定计划，将这样的系统集成到我们的自动化建筑中，这可以显着促进我们的经济发展。"
+ automated_industries.2.a:0 "出色的。"
+ 
+# automated_industries.3.name:0 "Automated Industries Expansion"
+# automated_industries.3.desc:0 "Given the right planning and resources, our planetary districts could be converted to house the latest innovations of automated production. The new industrial revolution is finally upon us."
+# automated_industries.3.a:0 "Let the age of automation begin."
+# automated_districts:0 "Planetary Decision Unlocked: §Y$decision_automated_districts$§!"
+# automated_industries.3.b:0 "There will be no revolution. Keep our districts the way they are."
+ 
+ 
+ AUTOMATED_INDUSTRIES_UPGRADE:0 "查看原理图"
+ AUTOMATED_INDUSTRIES_UPGRADE_DESC:0 "几个世纪以来，堕落帝国在他们的世界各地运营着令人印象深刻的自动化设施，不需要工人，他们的整个经济都依赖它们。,然而，我们的科学家最近发表的论文推测，这些建筑物可能无法按照最初设计的那样发挥作用。\n\n如果我们仔细研究建筑物的原理图，结合我们在工程方面的丰富知识和经验，也许我们可以寻找,有关他们使用哪些资源来实现最高效率的线索。"
+ 
+# decision_automated_districts:0 "Automated Districts"
+# decision_automated_districts_desc:0 "Having restored the precursor's automated buildings to their original designs, we may house these facilities within our districts to improve productivity, bringing our empire towards the zenith of civilization."
+# decision_automated_districts_effects:0 "Production districts of this planet will be upgraded to use the latest §YDark Matter§! technologies, if we have them researched."
+ 
+ planet_zofe_automated_buildings:0 "自动化建筑"
+ planet_zofe_automated_districts:0 "自动化区"
+ 
+ fe_automated_generator_district_desc:0 "现在每个区都包含一个 §Y$tech_fe_class_5_singularity$§!。\n\n"
+ fe_automated_mining_district_desc:0 "§Y$tech_fe_Dimensional_harvester$§!,各区已安装。\n\n"
+ fe_automated_farming_district_desc:0 "现在每个区都有一个 §Y$tech_fe_gourmet_center$§!。\n\n"
+ fe_automated_industrial_district_desc:0 "这些地区现在使用§Y$tech_fe_opulent_plaza$§！,和§Y$tech_fe_nano_forge_2$§!,提高生产的技术。\n\n"
+ fe_automated_foundry_district_desc:0 "这些地区现在使用 §Y$tech_fe_nano_forge_2$§!,自动化生产技术。\n\n"
+ fe_automated_factory_district_desc:0 "这些地区现在使用§Y$tech_fe_opulent_plaza$§!,自动化生产技术。\n\n"
+ 
+ fe_automated_generator_segment_desc:0 "每个部分现在都使用§Y$tech_fe_class_5_singularity$§!,技术。\n\n"
+ fe_automated_farming_segment_desc:0 "§Y$tech_fe_gourmet_center$§!,技术现在已渗透到各个领域。"
+ fe_automated_industrial_segment_desc:0 "每个部分现在都使用§Y$tech_fe_opulent_plaza$§！,和§Y$tech_fe_nano_forge_2$§!,提高生产的技术。\n\n"
+ 
+ 
+ 
+ 
+ 

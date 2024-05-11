@@ -1,0 +1,70 @@
+﻿l_simp_chinese:
+ 
+
+ tech_ascended_society_1:0 "社会建筑"
+ tech_ascended_society_1_desc:0 "社会建筑影响着大众的信仰，将他们推向狂热的边缘。"
+ tech_ascended_society_2:0 "扬升社会"
+ tech_ascended_society_2_desc:0 "我们现在可以建造符合我们扬升社会地位的先进社会建筑。"
+
+
+# tech_grand_palace:0 "Grand Palace"
+# tech_grand_palace_desc:0 "A symbol of our state and power, this stunning architecture is built to impress, while ensuring maximum comfort for its inhabitants."
+# tech_country_mansion:0 "Country Mansion"
+# tech_country_mansion_desc:0 "Suburban mansion to please the rich and powerful, boosting influence gain from factions."
+# tech_central_square:0 "Central Square"
+# tech_central_square_desc:0 "The Central Square help shape the nation's cultural identity. Here, citizens and visitors alike can meet for local festivities and celebrations."
+
+# building_country_mansion:0 "Country Mansion"
+# building_country_mansion_desc:0 "Country mansion houses the rich and powerful, increasing political clout and driving investments in the colony."
+# building_grand_palace:0 "Grand Palace"
+# building_grand_palace_desc:0 "A symbol of our state and power, this stunning architecture is built to impress, while ensuring maximum comfort for its inhabitants."
+# building_central_square:0 "Central Square"
+# building_central_square_desc:0 "The Central Square and its surrounding buildings help shape a planet's cultural identity. Here, citizens and visitors alike can meet for local festivities and celebrations."
+ 
+ building_sacred_ground:0 "圣地"
+ building_sacred_ground_desc:0 "这片圣地被标记为神圣之地，深受朝圣者和游客的欢迎。"
+ building_fe_empyrean_shrine:0 "至天神殿"
+ building_fe_empyrean_shrine_desc:0 "神社本身莫名其妙地震动，从远处看去有些模糊。"
+
+ building_technolith:0 "技术石化"
+ building_technolith_desc:0 "技术石的工作原理让普通民众感到困惑，只是它以接近瞬时的速度存储和提供信息。"
+ building_magnificent_university:0 "帝国州立大学"
+ building_magnificent_university_desc:0 "作为高等教育的场所，我们的顶尖科学家将把他们的知识传授给我们的年轻人，即未来的工程师。"
+ 
+ building_xeno_garden:0 "异度花园"
+ building_xeno_garden_desc:0 "异种花园是一个国家保护区，栖息着一系列外来和濒临灭绝的异种物种。"
+ building_xeno_culture_centre:0 "异形文化中心"
+ building_xeno_culture_centre_desc:0 "一个充满活力的社区中心，庆祝所有异种文化。"
+ 
+ building_immigration_bureau:0 "入国管理局"
+ building_immigration_bureau_desc:0 "强有力的边境管制将阻止非法外国人移民并保护我们种族的未来。,新邻居？,我们自己做！"
+ building_altar_of_purity:0 "纯洁祭坛"
+ building_altar_of_purity_desc:0 "我们的社会将会变得纯洁。,所有异种物品和异种同情者都将在纯洁祭坛上被烧毁。"
+ 
+ building_hunting_grounds:0 "狩猎场"
+ building_hunting_grounds_desc:0 "尽管社会进步，但我们的年轻人永远不能忘记我们的掠夺本能和狩猎能力。"
+ building_fallen_monument:0 "阵亡将士纪念碑"
+ building_fallen_monument_desc:0 “我们阵亡战士的遗骸在这里受到崇敬，在未来的几个世纪里激励着下一代战士。”
+ 
+ building_garden_of_eden:0 "伊甸园"
+ building_garden_of_eden_desc:0 "伊甸园是一个田园诗般的乡村花园，旨在平息公众对战争和破坏的兴趣。"
+ building_sky_trench:0 "天空海沟"
+ building_sky_trench_desc:0 "天空战壕是巨大的行星护盾，数百层相距仅几米，形成了强大的屏障，旨在阻止最具侵略性的入侵者。"
+
+ building_labor_camp:0 "劳教所"
+ building_labor_camp_desc:0 "劳改营是奴隶们工作更努力、更快、总体上比劳改营外更有效率的理想环境。"
+ building_secret_police_hq:0 "秘密警察总部"
+ building_secret_police_hq_desc:0 "我们的情报部门通常可以在麻烦真正开始之前就将其结束。,社会上的麻烦分子都在这里被抓捕和审问，以确保我们帝国的统一。"
+
+ building_civilian_teleportation:0 "民用传送"
+ building_civilian_teleportation_desc:0 "小规模的虫洞创造允许完全的行动自由，使我们的公民能够追逐他们的梦想并立即在行星之间移动。"
+ building_supreme_court:0 "最高法院"
+ building_supreme_court_desc:0 "最高法院是一个备受信赖的机构，负责管辖与公民和物种权利有关的所有事务。"
+ 
+ building_fe_ancient_cryo_chamber:0 "冷冻室"
+ building_fe_ancient_cryo_chamber_desc:2 "一排又一排的冷冻舱排列在这个巨大的结构中，使麻烦的有机物永久静止。"
+ 
+ 
+
+ 
+ 

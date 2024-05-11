@@ -1,0 +1,365 @@
+﻿l_simp_chinese:
+
+ tech_lost_technologies_1:0 "丢失的技术：自动化工业"
+ tech_lost_technologies_1_desc:0 “这些先进自动化建筑的蓝图以及如何建造它们的知识曾经被认为已经消失在历史之中。”
+ tech_lost_technologies_2:0 "失落的技术：古代武器"
+ tech_lost_technologies_2_desc:0 "结合我们最近在拼凑损坏的数据缓存方面所取得的成功以及从各种文物中收集到的线索，几千年来未曾见过的古代武器仍然可以复活。"
+ tech_lost_technologies_3:0 "失落的技术：卓越的设计"
+ tech_lost_technologies_3_desc:0 "来自损坏数据的蓝图揭示了许多堕落帝国舰艇类型的原始设计，例如护卫舰、战列巡洋舰和堕落帝国泰坦。,这些更强大的设计显然被认为已经失传了。"
+ 
+ ###Lost Technologies: Automated Buildings
+ 
+ advanced_automated_industries:0 "丢失的技术：自动化工业"
+ advanced_automated_industries_DESC:0 "几千年来，堕落帝国一直依靠自动化工业来推动经济发展并满足人民的需求。,然而，我们的考古团队现在发现的证据表明，过去存在着更强大的幸存建筑版本，而且建造它们的技术早已失传。\n\n将古代文物的线索拼凑起来，并结合我们当前的知识,凭借对自动化建筑的了解，我们的 [GetScientistPlural] 相信我们可能还有机会恢复这些强大建筑的失落技术。"
+ 
+ tech_fe_dark_matter_power_plant:0 "暗物质发电厂"
+ tech_fe_dark_matter_power_plant_desc:0 "暗物质发电厂早在标准分类用于奇点之前就已经存在了。,由于其巨大的产量，它很容易超过今天的 5 级奇点。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+  
+ tech_fe_pico_forge:0 "皮科锻造"
+ tech_fe_pico_forge_desc:0 "Pico Forge 是 Nano Forge 的传奇变体，它以极高的精度和速度加工矿物，大大减轻了为古代文明建造多个巨型结构的压力。\n\n§M这项失落的技术曾经被认为已经在历史中不可挽回地消失了。§ ,！"
+ tech_fe_agri_processing_complex:0 "农产品加工综合体"
+ tech_fe_agri_processing_complex_desc:0 "农业加工综合体是一项早已被遗忘的技术，它根据其数据库随时按需“打印”食品。,没有它不能打印的食物。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ tech_fe_opulent_tower:0 "富裕之塔"
+ tech_fe_opulent_tower_desc:0 "富裕之塔的奢华程度，在银河系中已经有千年没有见过了。,只有挥霍无度的帝国才会建造它，让银河系的其他地方看起来像贫民窟。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ tech_fe_autonomous_fabricator:0 "自主制造商"
+ tech_fe_autonomous_fabricator_desc:0 "根据我们的 [GetScientistPlural] 的说法，数千年来都没有见过一个正常运转的自主制造商。,然而，当堕落帝国处于鼎盛时期时，自治制造商是大远征期间战争机器的支柱。\n\n§M这种失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ building_fe_dark_matter_power_plant:0 "$tech_fe_dark_matter_power_plant$"
+ building_fe_dark_matter_power_plant_desc:0 "$tech_fe_dark_matter_power_plant_desc$"
+ building_fe_pico_forge:0 "$tech_fe_pico_forge$"
+ building_fe_pico_forge_desc:0 "$tech_fe_pico_forge_desc$"
+ building_fe_agri_processing_complex:0 "$tech_fe_agri_processing_complex$"
+ building_fe_agri_processing_complex_desc:0 "$tech_fe_agri_processing_complex_desc$"
+ building_fe_opulent_tower:0 "$tech_fe_opulent_tower$"
+ building_fe_opulent_tower_desc:0 "$tech_fe_opulent_tower_desc$"
+ building_fe_autonomous_fabricator:0 "$tech_fe_autonomous_fabricator$"
+ building_fe_autonomous_fabricator_desc:0 "$tech_fe_autonomous_fabricator_desc$"
+ 
+ 
+ 
+ ###Lost Technologies: Ancient Weaponry
+ 
+ ancient_weaponry:0 "失落的技术：古代武器"
+ ancient_weaponry_DESC:0 "在一次考古旅行中，我们的 [GetScientistPlural] 发现了一个古代数据库的破碎组件，其中包含无意义但已损坏的数据。,早期调查表明，可能在其中发现了强大武器的蓝图。"
+ 
+ DARK_ENERGY_POWER_CORE:0 "暗能量反应堆"
+ DARK_ENERGY_POWER_CORE_DESC:0 "用暗能量为先进宇宙飞船提供动力的技术早已失传，直到现在。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ tech_dark_energy_power_core:0 "暗能量力量"
+ tech_dark_energy_power_core_desc:0 "用暗能量为先进宇宙飞船提供动力的技术早已失传，直到现在。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ FE_ESCORT_DARK_ENERGY_REACTOR:0 "暗能量反应堆"
+ FE_ESCORT_DARK_ENERGY_REACTOR_DESC:0 "暗能量可以用来为这艘先进的飞船提供动力。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ FE_BATTLECRUISER_DARK_ENERGY_REACTOR:0 "暗能量反应堆"
+ FE_BATTLECRUISER_DARK_ENERGY_REACTOR_DESC:0 "暗能量可以用来为这艘先进的飞船提供动力。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ FE_TITAN_DARK_ENERGY_REACTOR:0 "暗能量反应堆"
+ FE_TITAN_DARK_ENERGY_REACTOR_DESC:0 "暗能量可以用来为这艘先进的飞船提供动力。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ FE_GOLIATH_DARK_ENERGY_REACTOR:0 "暗能量反应堆"
+ FE_GOLIATH_DARK_ENERGY_REACTOR_DESC:0 "暗能量可以用来为这艘先进的飞船提供动力。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ FE_STATIONS_DARK_ENERGY_REACTOR:0 "暗能量反应堆"
+ FE_STATIONS_DARK_ENERGY_REACTOR_DESC:0 "暗能量可以用来为这艘先进的飞船提供动力。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ FE_LARGE_STATIONS_DARK_ENERGY_REACTOR:0 "暗能量反应堆"
+ FE_LARGE_STATIONS_DARK_ENERGY_REACTOR_DESC:0 "暗能量可以用来为这艘先进的飞船提供动力。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ DARK_ENERGY_SHIELD:0 "暗能量偏转器"
+ DARK_ENERGY_SHIELD_DESC:0 "这些护盾利用暗能量来击退来袭的射弹，其方式似乎完全违背了物理定律。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ MEDIUM_DARK_ENERGY_SHIELD:0 "中型暗能量偏转器"
+ MEDIUM_DARK_ENERGY_SHIELD_DESC:0 "这些护盾利用暗能量来击退来袭的射弹，其方式似乎完全违背了物理定律。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ LARGE_DARK_ENERGY_SHIELD:0 "大型暗能量偏转器"
+ LARGE_DARK_ENERGY_SHIELD_DESC:0 "这些护盾利用暗能量来击退来袭的射弹，其方式似乎完全违背了物理定律。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+
+ tt_MEDIUM_DARK_ENERGY_SHIELD_AP:0 "[获取ArchaeoengineersEffectMediumDarkEnergyShield]"
+ tt_MEDIUM_DARK_ENERGY_SHIELD:0 "来自§Y$ap_archaeoengineers$§!：\n护盾生命值：§G+720§!"
+ tt_LARGE_DARK_ENERGY_SHIELD_AP:0 "[获取ArchaeoengineersEffectLargeDarkEnergyShield]"
+ tt_LARGE_DARK_ENERGY_SHIELD:0 "来自§Y$ap_archaeoengineers$§!：\n护盾生命值：§G+1800§!"
+ 
+ tech_dark_energy_shield:0 "暗能量偏转器"
+ tech_dark_energy_shield_desc:0 "这些护盾利用暗能量来击退来袭的射弹，其方式似乎完全违背了物理定律。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ TITAN_ARMOR:0 "泰坦铠甲"
+ TITAN_ARMOR_DESC:0 "泰坦系列采用了失传已久的将活性金属注入装甲板的技术；,它的自我修复特性使得安装它们的船只极难被渗透。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ MEDIUM_TITAN_ARMOR:0 "中型泰坦装甲"
+ MEDIUM_TITAN_ARMOR_DESC:0 "泰坦系列采用了失传已久的将活性金属注入装甲板的技术；,它的自我修复特性使得安装它们的船只极难被渗透。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ LARGE_TITAN_ARMOR:0 "大型泰坦铠甲"
+ LARGE_TITAN_ARMOR_DESC:0 "泰坦系列采用了失传已久的将活性金属注入装甲板的技术；,它的自我修复特性使得安装它们的船只极难被渗透。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+
+ tt_MEDIUM_TITAN_ARMOR_AP:0 "[获取ArchaeoengineersEffect中型泰坦装甲]"
+ tt_MEDIUM_TITAN_ARMOR:0 "来自§Y$ap_archaeoengineers$§!：\n装甲生命值：§G+960§!"
+ tt_LARGE_TITAN_ARMOR_AP:0 "[获取考古工程师效果大型泰坦装甲]"
+ tt_LARGE_TITAN_ARMOR:0 "来自§Y$ap_archaeoengineers$§!：\n装甲生命值：§G+2400§!"
+ 
+ tech_titan_armor:0 "泰坦铠甲"
+ tech_titan_armor_desc:0 “泰坦系列利用了失传已久的技术，将活性金属注入装甲板；其自我修复特性使得安装它们的船只极难被穿透。\n\n§M这种失落的技术曾经被认为已经不可挽回地消失在历史中。 ,§！”
+ 
+ TITAN_PLATING:0 "泰坦电镀"
+ TITAN_PLATING_DESC:0 “泰坦系列利用了失传已久的技术，将活性金属注入装甲船体中；其自我修复特性使得安装它们的船只极难被摧毁。\n\n§M这种失落的技术曾经被认为已经不可挽回地消失在历史之中。 ,§！”
+ MEDIUM_TITAN_PLATING:0 "中型泰坦镀层"
+ MEDIUM_TITAN_PLATING_DESC:0 “泰坦系列利用了失传已久的技术，将活性金属注入装甲船体中；其自我修复特性使得安装它们的船只极难被摧毁。\n\n§M这种失落的技术曾经被认为已经不可挽回地消失在历史之中。 ,§！”
+ LARGE_TITAN_PLATING:0 "大型泰坦电镀"
+ LARGE_TITAN_PLATING_DESC:0 “泰坦系列利用了失传已久的技术，将活性金属注入装甲船体中；其自我修复特性使得安装它们的船只极难被摧毁。\n\n§M这种失落的技术曾经被认为已经不可挽回地消失在历史之中。 ,§！”
+
+ tt_MEDIUM_TITAN_PLATING_AP:0 "[获取ArchaeoengineersEffectMediumTitan电镀]"
+ tt_MEDIUM_TITAN_PLATING:0 "来自§Y$ap_archaeoengineers$§!：\n船体生命值：§G+480§!"
+ tt_LARGE_TITAN_PLATING_AP:0 "[获取Archaeoengineers效果大型泰坦电镀]"
+ tt_LARGE_TITAN_PLATING:0 "来自§Y$ap_archaeoengineers$§!：\n装甲生命值：§G+1200§!"
+ 
+ tech_titan_plating:0 "泰坦电镀"
+ tech_titan_plating_desc:0 “泰坦系列利用了失传已久的技术，将活性金属注入装甲船体中；其自我修复特性使得安装它们的船只极难被摧毁。\n\n§M这种失落的技术曾经被认为已经不可挽回地消失在历史之中。 ,§！”
+ 
+ PSI_MISSILE_SYSTEM:0 "灵能导弹系统"
+ PSI_MISSILE_SYSTEM_DESC:0 "一种由灵能控制的实验性导弹系统，允许通过机组人员的意志力完全控制导弹。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ tech_psi_missile_system:0 "灵能导弹系统"
+ tech_psi_missile_system_desc:0 "一种由灵能控制的实验性导弹系统，允许通过机组人员的意志力完全控制导弹。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ SHADOW_STRIKE_CRAFT:0 "暗影打击工艺"
+ SHADOW_STRIKE_CRAFT_DESC:0 "受无限机器的启发，下一代多功能攻击机难以被发现，甚至更难击中。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ tech_shadow_strike_craft:0 "暗影打击工艺"
+ tech_shadow_strike_craft_desc:0 "受无限机器的启发，下一代多功能攻击机难以被发现，甚至更难击中。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+
+ HELLFIRE_AUTOCANNONS:0 "地狱火自动炮"
+ HELLFIRE_AUTOCANNONS_DESC:0 "这门自动炮向我们的敌人倾泻地狱之火。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ tech_hellfire_autocannons:0 "地狱火自动炮"
+ tech_hellfire_autocannons_desc:0 "这门自动炮向我们的敌人倾泻地狱之火。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ TERROR_CANNON:0 "恐怖大炮"
+ TERROR_CANNON_DESC:0 "这门致命的大炮以其巨大的尺寸引起了极大的恐惧。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ tech_terror_cannon:0 "恐怖大炮"
+ tech_terror_cannon_desc:0 "这门致命的大炮以其巨大的尺寸引起了极大的恐惧。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ DARK_ENERGY_DISRUPTOR:0 "暗能量干扰者"
+ DARK_ENERGY_DISRUPTOR_DESC:0 "一种实验性干扰器，可发射暗能量束来摧毁敌方船只。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ tech_dark_energy_disruptor:0 "暗能量干扰者"
+ tech_dark_energy_disruptor_desc:0 "一种实验性干扰器，可发射暗能量束来摧毁敌方船只。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ tech_titan_missile:0 "泰坦导弹"
+ tech_titan_missile_desc:0 "泰坦导弹的设计已经失踪了数千年，其跟踪和打击目标的能力甚至比哨兵导弹还要强大。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ TITAN_MISSILE:0 "$tech_titan_missile$"
+ TITAN_MISSILE_DESC:0 "$tech_titan_missile_desc$"
+ 
+ tech_annihilator_torpedo:0 "歼灭者鱼雷"
+ tech_annihilator_torpedo_desc:0 "经过我们的努力，这种古老鱼雷的设计再次出现，有望歼灭敌方船只。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ ANNIHILATOR_TORPEDO:0 "$tech_annihilator_鱼雷$"
+ ANNIHILATOR_TORPEDO_DESC:0 "$tech_annihilator_torpedo_desc$"
+ 
+ tech_dark_energy_torpedo:0 "暗能量鱼雷"
+ tech_dark_energy_torpedo_desc:0 "在太空中发射暗能量射弹的技术已经失传了一段时间，但其对太空作战的潜在影响是巨大的。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ DARK_ENERGY_TORPEDO:0 "$tech_dark_energy_torpedo$"
+ DARK_ENERGY_TORPEDO_DESC:0 "$tech_dark_energy_torpedo_desc$"
+ 
+ tech_titan_point_defence:0 "泰坦点防御系统"
+ tech_titan_point_defence_desc:0 "泰坦点防御是大远征期间使用的极其强大的防御和拦截系统。,该技术因未知原因而丢失。\n\n§M这项丢失的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ TITAN_POINT_DEFENCE:0 "泰坦点防御"
+ TITAN_POINT_DEFENCE_DESC:0 "$tech_titan_point_defence_desc$"
+ 
+ tech_dark_energy_flak_battery:0 "暗能量高射炮"
+ tech_dark_energy_flak_battery_desc:0 "暗能量高射炮最后一次使用是在大远征期间，当时速度极快的攻击机统治了太空战斗。,几千年来都不需要如此强大的系统。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ DARK_ENERGY_FLAK_BATTERY:0 "$tech_dark_energy_flak_battery$"
+ DARK_ENERGY_FLAK_BATTERY_DESC:0 "$tech_dark_energy_flak_battery_desc$"
+ 
+ tech_dark_energy_accelerator:0 "暗能量加速器"
+ tech_dark_energy_accelerator_desc:0 "由暗能量驱动的等离子体加速器是我们在最新的考古发掘中发现的设计之一。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ DARK_ENERGY_ACCELERATOR:0 "$tech_dark_energy_accelerator$"
+ DARK_ENERGY_ACCELERATOR_DESC:0 "$tech_dark_energy_accelerator_desc$"
+ DARK_ENERGY_ACCELERATOR_S:0 "小型暗能量加速器"
+ DARK_ENERGY_ACCELERATOR_M:0 "中型暗能量加速器"
+ DARK_ENERGY_ACCELERATOR_L:0 "大型暗能量加速器"
+ 
+ DIMENSIONAL_WEAPON:0 "立体梁"
+ DIMENSIONAL_WEAPON_DESC:0 "次元光束是一种第五次元武器，旨在对来自各个次元的敌方船只造成重大伤害。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ tech_dimensional_weapon:0 "立体梁"
+ tech_dimensional_weapon_desc:0 "次元光束是一种第五次元武器，旨在对来自各个次元的敌方船只造成重大伤害。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+
+ 
+ psi_deflector:0 "灵能偏转器"
+ psi_deflector_DESC:0 "灵能偏导器从其船员的心灵中汲取力量。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ MEDIUM_psi_deflector:0 "中型灵能偏转器"
+ MEDIUM_psi_deflector_DESC:0 "灵能偏导器从其船员的心灵中汲取力量。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ LARGE_psi_deflector:0 "大型灵能偏转器"
+ LARGE_psi_deflector_DESC:0 "灵能偏导器从其船员的心灵中汲取力量。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ tech_psi_deflector:0 "灵能偏转器"
+ tech_psi_deflector_desc:0 "灵能偏导器从其船员的心灵中汲取力量。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ 
+ DARK_ENERGY_SHIELD_BOOSTER:0 "暗能量护盾增强器"
+ DARK_ENERGY_SHIELD_BOOSTER_DESC:0 "该护盾增强器使用暗能量为其操纵场提供动力，从而提供更大的护盾增强能力。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ tech_dark_energy_shield_booster:0 "暗能量护盾增强器"
+ tech_dark_energy_shield_booster_desc:0 "该护盾增强器使用暗能量为其操纵场提供动力，从而提供更大的护盾增强能力。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ 
+ DARK_ENERGY_JUMP_DRIVE:0 "暗能量跳跃驱动"
+ DARK_ENERGY_JUMP_DRIVE_DESC:0 "这种跳跃驱动器扭曲了暗能量，使得遥远恒星系统之间的即时旅行比以前想象的要安全得多。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ tech_dark_energy_jump_drive:0 "暗能量跳跃驱动"
+ tech_dark_energy_jump_drive_desc:0 "这种跳跃驱动器扭曲了暗能量，使得遥远恒星系统之间的即时旅行比以前想象的要安全得多。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ 
+ DARK_ENERGY_THRUSTER:0 "暗能量推进器"
+ DARK_ENERGY_THRUSTER_DESC:0 "暗能量推进器似乎将物理定律挑战到了一个全新的水平，提供了比以前想象的更大的机动性。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ tech_dark_energy_thruster:0 "暗能量推进器"
+ tech_dark_energy_thruster_desc:0 "暗能量推进器似乎将物理定律挑战到了一个全新的水平，提供了比以前想象的更大的机动性。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ DARK_ENERGY_AFTERBURNERS:0 "暗能量加力燃烧室"
+ DARK_ENERGY_AFTERBURNERS_DESC:0 "暗能量加力燃烧室是有史以来最快的加力燃烧室之一，允许舰艇以极快的速度冲向目标。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ tech_dark_energy_afterburners:0 "暗能量加力燃烧室"
+ tech_dark_energy_afterburners_desc:0 "暗能量加力燃烧室由暗能量提供动力，使其成为有史以来速度最快的加力燃烧室之一，使舰船能够以极快的速度冲向目标。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ DARK_ENERGY_SENSORS:0 "暗能量传感器"
+ DARK_ENERGY_SENSORS_DESC:0 "暗能量传感器利用暗能量来放大其范围，使其能够在更大的范围内检测到所有运动。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ tech_dark_energy_sensors:0 "暗能量传感器"
+ tech_dark_energy_sensors_desc:0 "暗能量传感器利用暗能量来放大其范围，使其能够在更大的范围内检测到所有运动。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ DARK_ENERGY_POWER_BOOSTER:0 "暗能量反应堆助推器"
+ DARK_ENERGY_POWER_BOOSTER_DESC:0 "暗能量作为一种能量形式的发现使得高度先进的反应堆助推器成为可能，从而极大地增强船舶反应堆。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ tech_dark_energy_power_booster:0 "暗能量反应堆助推器"
+ tech_dark_energy_power_booster_desc:0 "暗能量作为一种能量形式的发现使得高度先进的反应堆助推器成为可能，从而极大地增强船舶反应堆。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ INFINITY_DECODER:0 "无限解码器"
+ INFINITY_DECODER_DESC:0 "无限解码器的算法可以同时预测多个目标的飞行路径，从而在目标捕获和武器精度方面具有优势。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ tech_infinity_decoder:0 "无限解码器"
+ tech_infinity_decoder_desc:0 "无限解码器的算法可以同时预测多个目标的飞行路径，从而在目标捕获和武器精度方面具有优势。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+
+ INFINITY_ENCODER:0 "无限编码器"
+ INFINITY_ENCODER_DESC:0 "无限编码器将飞行路径数据打乱为不可破解的代码，然后将其反馈给舰队指挥部。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ tech_infinity_encoder:0 "无限编码器"
+ tech_infinity_encoder_desc:0 "无限编码器将飞行路径数据打乱为不可破解的代码，然后将其反馈给舰队指挥部。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+
+ 
+ FE_ESCORT_SHIP_THRUSTER_2:0 "暗能量推进器"
+ FE_ESCORT_SHIP_THRUSTER_2_DESC:0 "暗能量推进器似乎将物理定律挑战到了一个全新的水平，提供了比以前想象的更大的机动性。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ FE_BATTLECRUISER_SHIP_THRUSTER_2:0 "暗能量推进器"
+ FE_BATTLECRUISER_SHIP_THRUSTER_2_DESC:0 "暗能量推进器似乎将物理定律挑战到了一个全新的水平，提供了比以前想象的更大的机动性。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ FE_TITAN_SHIP_THRUSTER_2:0 "暗能量推进器"
+ FE_TITAN_SHIP_THRUSTER_2_DESC:0 "暗能量推进器似乎将物理定律挑战到了一个全新的水平，提供了比以前想象的更大的机动性。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ FE_GOLIATH_SHIP_THRUSTER_2:0 "暗能量推进器"
+ FE_GOLIATH_SHIP_THRUSTER_2_DESC:0 "暗能量推进器似乎将物理定律挑战到了一个全新的水平，提供了比以前想象的更大的机动性。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+
+ 
+ 
+ ###Lost Technologies: Omni Weapons
+ 
+ omni_weapons:0 "失落的技术：全能武器"
+ omni_weapons_DESC:0 "全能武器是一类半感知武器，能够感知用户的排列，并改变其颜色以进行匹配。,只有最文明的人才会选择使用它们作为武器。,由于其昂贵的性质，全能武器在大远征结束后不久就退役了。"
+ 
+ tech_omni_lance:0 "全能枪"
+ tech_omni_lance_desc:0 "一种优雅的武器，适合更文明的时代。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ tech_compact_omni_lance:0 "紧凑型全能枪"
+ tech_compact_omni_lance_desc:0 "紧凑型全能枪是其对应产品全能枪的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ tech_omni_emitter:0 "全向电弧发射器"
+ tech_omni_emitter_desc:0 "帝国力量的强大象征，能够从远处打击敌方舰队。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ tech_compact_omni_emitter:0 "紧凑型全向发射器"
+ tech_compact_omni_emitter_desc:0 "紧凑型全向发射器是其对应产品 - 全向电弧发射器的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ tech_omni_cannon:0 "全能炮"
+ tech_omni_cannon_desc:0 "能够远距离发射射弹的巨型大炮。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ tech_compact_omni_cannon:0 "紧凑型全向炮"
+ tech_compact_omni_cannon_desc:0 "紧凑型全能加农炮是其对应产品全能加农炮的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ tech_massive_autocannons:0 "全向自动炮"
+ tech_massive_autocannons_desc:0 "旨在在近距离造成最大程度的破坏和混乱。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ tech_compact_massive_autocannons:0 "紧凑型全向自动炮"
+ tech_compact_massive_autocannons_desc:0 "紧凑型全向自动加农炮是其对应产品全向自动加农炮的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ tech_omni_titan_lance:0 "全能泰坦长枪"
+ tech_omni_titan_lance_desc:0 "只有最文明的人才会使用全能泰坦长枪作为他们的首选武器。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ tech_compact_omni_titan_lance:0 "全能泰坦激光"
+ tech_compact_omni_titan_lance_desc:0 "Omni Titan Laser 是其对应产品 Omni Titan Lance 的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ OMNI_LANCE:0 "全能枪"
+ OMNI_LANCE_DESC:0 "一种优雅的武器，适合更文明的时代。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ COMPACT_OMNI_LANCE:0 "紧凑型全能枪"
+ COMPACT_OMNI_LANCE_DESC:0 "紧凑型全能枪是其对应产品全能枪的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ COMPACT_OMNI_LANCE_M:0 "紧凑型全能枪"
+ COMPACT_OMNI_LANCE_M_DESC:0 "紧凑型全能枪是其对应产品全能枪的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ COMPACT_OMNI_LANCE_S:0 "紧凑型全能枪"
+ COMPACT_OMNI_LANCE_S_DESC:0 "紧凑型全能枪是其对应产品全能枪的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ OMNI_EMITTER:0 "全向电弧发射器"
+ OMNI_EMITTER_DESC:0 "帝国力量的强大象征，能够从远处打击敌方舰队。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ COMPACT_OMNI_EMITTER:0 "紧凑型全向发射器"
+ COMPACT_OMNI_EMITTER_DESC:0 "紧凑型全向发射器是其对应产品 - 全向电弧发射器的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ COMPACT_OMNI_EMITTER_M:0 "紧凑型全向发射器"
+ COMPACT_OMNI_EMITTER_M_DESC:0 "紧凑型全向发射器是其对应产品 - 全向电弧发射器的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ COMPACT_OMNI_EMITTER_S:0 "紧凑型全向发射器"
+ COMPACT_OMNI_EMITTER_S_DESC:0 "紧凑型全向发射器是其对应产品 - 全向电弧发射器的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ OMNI_CANNON:0 "全能炮"
+ OMNI_CANNON_DESC:0 "能够远距离发射射弹的巨型大炮。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ COMPACT_OMNI_CANNON:0 "紧凑型全向炮"
+ COMPACT_OMNI_CANNON_DESC:0 "紧凑型全能加农炮是其对应产品全能加农炮的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ COMPACT_OMNI_CANNON_M:0 "紧凑型全向炮"
+ COMPACT_OMNI_CANNON_M_DESC:0 "紧凑型全能加农炮是其对应产品全能加农炮的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ COMPACT_OMNI_CANNON_S:0 "紧凑型全向炮"
+ COMPACT_OMNI_CANNON_S_DESC:0 "紧凑型全能加农炮是其对应产品全能加农炮的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ MASSIVE_AUTOCANNONS:0 "全向自动炮"
+ MASSIVE_AUTOCANNONS_DESC:0 "旨在在近距离造成最大程度的破坏和混乱。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ COMPACT_MASSIVE_AUTOCANNONS:0 "紧凑型全向自动炮"
+ COMPACT_MASSIVE_AUTOCANNONS_DESC:0 "紧凑型全向自动加农炮是其对应产品全向自动加农炮的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ MASSIVE_AUTOCANNONS_L:0 "紧凑型全向自动炮"
+ MASSIVE_AUTOCANNONS_L_DESC:0 "紧凑型全向自动加农炮是其对应产品全向自动加农炮的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ MASSIVE_AUTOCANNONS_M:0 "紧凑型全向自动炮"
+ MASSIVE_AUTOCANNONS_M_DESC:0 "紧凑型全向自动加农炮是其对应产品全向自动加农炮的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ MASSIVE_AUTOCANNONS_S:0 "紧凑型全向自动炮"
+ MASSIVE_AUTOCANNONS_S_DESC:0 "紧凑型全向自动加农炮是其对应产品全向自动加农炮的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ OMNI_TITAN_LANCE:0 "全能泰坦长枪"
+ OMNI_TITAN_LANCE_DESC:0 "只有最文明的人才会使用全能泰坦长枪作为他们的首选武器。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ COMPACT_OMNI_TITAN_LANCE:0 "全能泰坦激光"
+ COMPACT_OMNI_TITAN_LANCE_DESC:0 "Omni Titan Laser 是其对应产品 Omni Titan Lance 的小型版本。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ 
+ 
+ 
+ 
+ 
+ 
+ ###Lost Technologies: Goliath
+ 
+ goliath:0 "失落的技术：歌利亚"
+ goliath_DESC:0 "在从先驱文物中获得的宝贵数据中，我们发现了一些令我们震惊的东西，并且与我们对堕落帝国的了解相矛盾——一艘尺寸巨大的战舰设计，与我们所见过的任何东西都不一样。\n\n我们还不明白为什么先驱感到如此,在大远征期间的某个时刻建造这些是个好主意。,不过，以我们目前的工程能力，这个项目是我们力所能及的。"
+  
+ tech_fe_goliath:0 "歌利亚"
+ tech_fe_goliath_desc:0 "从先行者文物中获得的设计详细描述了可怕的歌利亚级军舰的构造。\n\n§M这项失落的技术曾经被认为已经不可挽回地消失在历史之中。§!"
+ TECH_UNLOCK_FE_GOLIATH_CONSTRUCTION_TITLE:0 "§H解锁舰船类型：§!,歌利亚"
+ TECH_UNLOCK_FE_GOLIATH_CONSTRUCTION_DESC:1 "§H巨人§!\n这艘巨大的战舰显然除了恐吓较小的对手之外没有其他目的。"
+ 
+ fe_goliath:1 "歌利亚"
+ fe_goliath_plural:1 "歌利亚"
+ 
+ FE_GOLIATH_BOW_KEY:1 "歌利亚弓"
+ FE_GOLIATH_KEY:1 "歌利亚"
+ FE_GOLIATH_HANGAR:1 "歌利亚机库"
+ FE_GOLIATH_STERN:1 "歌利亚·斯特恩"
+ 
+ 
+ ###Lost Technologies: Legendary Weapons
+ 
+ legendary_weapons:0 "失落的技术：传奇武器"
+ legendary_weapons_DESC:0 "根据传说，过去可能已经开发出了强大的武器，我们的 [GetScientistPlural] 建议我们调查这些神话。"
+ 
+ PORTAL_GENERATOR:0 "传送门生成器"
+ PORTAL_GENERATOR_DESC:0 "§Y传奇武器：§!,传送门发生器撕裂时空结构，为未知的超维度存在创建一个临时传送门来瞄准敌人的位置。"
+ 
+ tech_portal_generator:0 "传送门生成器"
+ tech_portal_generator_desc:0 "§Y传奇武器：§!,传送门发生器撕裂时空结构，为未知的超维度存在创建一个临时传送门来瞄准敌人的位置。"
+ 
+ 
+ 
+ ###Lost Technologies: Superior Designs
+ 
+ superior_designs:0 "失落的技术：卓越的设计"
+ superior_designs_DESC:0 “我们的 [GetScientistPlural] 发现了大远征期间使用的前驱舰船设计的损坏示意图。尽管年代久远，但这些示意图让我们深入了解了那场战争的残酷性，而且它似乎与我们当前舰队的改进有着独特的相关性。,护卫舰、战列巡洋舰和堕落帝国泰坦 - 我们可以将它们恢复到大远征中所见的相同船只的规格。”
+ 
+ 
+ weapon_lost_tech:0 "§M失落的技术§！"
+ mod_weapon_lost_tech_weapon_damage_mult:0 "失落的技术武器损坏"
+ mod_weapon_lost_tech_weapon_fire_rate_mult:0 "失落的技术武器攻击速度"
