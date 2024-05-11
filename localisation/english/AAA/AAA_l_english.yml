@@ -4,7 +4,10 @@
  ################################
  origin_banished_threat: "Banished Threat"
  origin_banished_threat_desc: "Defeated and sealed on their homeworld, this empire has been plotting their revenge for centuries. Only now has the shield started to weaken."
- origin_banished_threat_effects: "- Start on a §H$pc_nuked$§! as your capital.\n\n- Your Guaranteed Habitable Worlds are §Hshielded worlds§! with deteriorating shields."
+ #origin_banished_threat_effects: "- Start on a §H$pc_nuked$§! as your capital.\n- Your Guaranteed Habitable Worlds are §Hshielded worlds§! with deteriorating shields."
+ origin_banished_threat_effects: "- $HOMEWORLD$ ['concept_pc_nuked']$NEW_LINE$- ['concept_guaranteed_colonies']: Sealed behind ['concept_AAA_deteriorating_shields']"
+ AAA_civic_tooltip_genocidal: "Has a ['concept_genocidal_civics'] Civic"
+ 
  banished_threat_start_NAME: "Banished Threat"
  banished_threat_start_DESC: "This will always be the starting system when using the Banished Threat Origin."
  trait_pc_nuked_preference_AAA_banished_threat_dry: "Dry Tomb World Preference"
@@ -213,7 +216,8 @@
  ################################
  origin_scavengers: "Scavengers"
  origin_scavengers_desc: "An alien ship has recently crash-landed on this species planet, greatly accellerating their technological development and providing a source of valuable metals."
- origin_scavengers_effects: "- Start with a §HCrashed Ship§! archeological site and deposit that gives materials or technology based on your choices."
+ #origin_scavengers_effects: "- Start with a §HCrashed Ship§! archeological site and deposit that gives materials or technology based on your choices."
+ origin_scavengers_effects: "- $HOMEWORLD$ ['concept_AAA_scavengers_arcsite'] ['concept_archaeology_site'] and ['concept_AAA_scavengers_deposit_deposit']"
  START_SCREEN_SCAVENGERS: "A few centuries ago, a gigantic alien spacecraft crash-landed on our planet, killing millions. The event took out most of the nations of our world, replacing the age of conflict with an age of technological progress.\n\nNow, after decades of research we have reverse-engineered the ship's FTL-Drive, allowing us to travel along the hyperlanes of the galaxy.\n\nAlthough we now reach for the stars, much of the ship still remains unexplored."
 
 # Crashed Ship Digsite
@@ -308,7 +312,7 @@
 
  origin_AAA_hidden_crisis: "Hidden Crisis"
  origin_AAA_hidden_crisis_desc: "This civilization was seeded here by an outside force. At some point in the far future, they will be tasked with eradicating all life. Until then, they prepare for the day to come."
- origin_AAA_hidden_crisis_effects: "- Gain the §HProsperous Unification Origin§! once the game starts.\n\n- Start with the §HPreperations§! situation.\n\n- Once the end-game starts, gain ships based on how many times you completed the §HPreperations§! situation and become a §Rcrisis§!."
+ origin_AAA_hidden_crisis_effects: "- Gain the §HProsperous Unification Origin§! once the game starts.$NEW_LINE$- Situation: ['concept_AAA_crisis_quest']\n- ['concept_AAA_become_the_crisis'] once the end-game starts."
  START_SCREEN_AAA_HIDDEN_CRISIS: "A long time ago, we were made by an extragalactic entity. We do not know much about our creators as they never interacted with us after our construction.\n\nInstead, they left us with only two simple instructions.\n\nThe first was to grow and learn: become bigger, stronger, smarter. We have done this for as long as we can remember, outcompeting the organic life on our homeworld with ease due to our superior design.\n\nThe other was to eradicate all intelligent lifeforms once we reach activation day.\n\nWe can feel it, the day will §Rsoon come§!."
  opinion_AAA_hidden_crisis: "Existential Threat"
 
@@ -317,7 +321,7 @@
  situation_hidden_crisis_type: "$situation_hidden_crisis$"
  situation_hidden_crisis_desc: "We are currently constructing ships to be used on activation day."
  approach_heavy: "Heavy Investment"
- approach_medium: "Medium Invetment"
+ approach_medium: "Medium Investment"
  approach_light: "Light Investment"
  situation_hidden_crisis_situation_outcome: "Construction of the new ships are completed. We will store them in a secure location until activation day."
  situation_hidden_crisis_monthly_change_tooltip: ""
@@ -433,8 +437,12 @@
  ################################
 
  origin_AAA_apocalypse: "Insurgency"
- origin_AAA_apocalypse_desc: "This civilization turned their world into a grand city a long time ago. The unintended consequences of this was food shortages, which in turn caused a major rebel group to form which now tries to destabilize the government."
- origin_AAA_apocalypse_effects: "- Start on an §H$pc_city$§!.\n- §RInsurgents§! will try to destabilize your planets.\n- Normal factions will be §RReplaced§! by the §HInsurgent§! and §HLoyalist§! factions."
+ origin_AAA_apocalypse_desc: "§RWARNING: Challenging Origin§!\nThis civilization turned their world into a grand city a long time ago. The unintended consequences of this was food shortages, which in turn caused a major rebel group to form which now tries to destabilize the government."
+ #origin_AAA_apocalypse_effects: "§R- WARNING: Challenging Origin§!\n- Start with a §H$pc_city$§! (Size: £planetsize£ 25) as your homeworld.\n- §RInsurgents§! will try to destabilize your planets.\n- Normal factions will be §HReplaced§! by the §HInsurgent§! and §HLoyalist§! factions."
+ origin_AAA_apocalypse_effects: "- $HOMEWORLD$$TABBED_NEW_LINE$- ['concept_AAA_pc_city'] (Size: £planetsize£ 25)$TABBED_NEW_LINE$- ['concept_AAA_insurgency_junk', $concept_AAA_insurgency_junk$]: +5 $TABBED_NEW_LINE$- ['concept_AAA_city_ruins', $concept_AAA_city_ruins$]: +2$NEW_LINE$- $GUARANTEED_RESEARCH_OPTION_STRING$$TABBED_NEW_LINE$- ['concept_AAA_rare_crystals', £engineering_research£ $tech_mine_rare_crystals$]$TABBED_NEW_LINE$- ['concept_AAA_exotic_gases', £engineering_research£ $tech_mine_exotic_gases$]$TABBED_NEW_LINE$- ['concept_AAA_volatile_motes', £physics_research£ $tech_mine_volatile_motes$]"
+ origin_AAA_apocalypse_negative_effects: "-['concept_factions']: Normal factions are replaced by ['concept_AAA_loyalists'] and ['concept_AAA_insurgents']$NEW_LINE$- Insurgents will try to ['concept_AAA_destabilize'] your planets."
+ #['concept_AAA_building_foundry_1', £building£ $building_foundry_1$] $TABBED_NEW_LINE$- ['concept_AAA_building_factory_1', £building£ $building_factory_1$] $TABBED_NEW_LINE$- ['concept_AAA_building_pretinct_house', £building£ $building_precinct_house$] [GetAAAInsurgencyInfrastructureEffect]"
+ #AAAInsurgencyInfrastructureEffect: "$TABBED_NEW_LINE$- ['concept_AAA_building_hydroponic_farm', £building£ $building_hydroponic_farm$]: +2"
  START_SCREEN_AAA_APOCALYPSE: "A long time ago, we began a grand project: The construction of a planet-wide city, which could house everyone, no matter how large our population became. Unfortunately, our predecessors did not take into account said populations needs, resulting in massive food shortages.\n\nOut of nowhere, rebellious groups sprang forth, some of which exists to this very day. Many died in the ensuing chaotic wars.\n\nNow, with our population finally reaching a more stable level and the invention of the hyperdrive we have a hope for a future."
  pc_apocalyptic_city: "Ecumenopolis"
  pc_apocalyptic_city_desc: "A world completely engulfed by urban-industrial sprawl. Its natural lithosphere is no longer discernible from orbit."
@@ -449,6 +457,15 @@
  # Deposits and Blockers
  d_AAA_insurgency_junk: "Collapsed Arcologies"
  d_AAA_insurgency_junk_desc: "Arcologies worn down from many years of war."
+ d_AAA_insurgency_new_junk: "City Ruins"
+ d_AAA_insurgency_new_junk_desc: "Once part of a city, this city section has been completely devastated by a powerful explosion."
+ d_AAA_insurgency_ruined_houses: "House Ruins"
+ d_AAA_insurgency_ruined_houses_desc: "Many citizens have been left homeless after the destruction of their houses."
+ d_AAA_insurgency_ruined_powerplant: "Ruined Powerplant"
+ d_AAA_insurgency_ruined_powerplant_desc: "This powerplant was the target of insurgents. Until it is repaired, anyone using power will be forced to rely on inefficient emergency power supplies."
+ d_AAA_insurgency_ruined_water_filtration: "Ruined Liquid Filtration Systems"
+ d_AAA_insurgency_ruined_water_filtration_desc: "As long as this facility is broken our citizens won't have access to clean liquids."
+ 
  
  # Factions form
  AAA_origin.4.title: "The [Root.GetName]"
@@ -476,6 +493,19 @@
  AAA_major_society_breakdown_desc: "This planet is descending into anarchy."
  AAA_a_new_hope: "Vigilant Citizens"
  AAA_a_new_hope_desc: "Citizens on this planet are extra vigilant due to the recent increase in Insurgent Activity"
+ AAA_insurgent_propaganda: "Insurgent Propaganda"
+ AAA_insurgent_propaganda_desc: "The Insurgents are spreading lies that paint us in a bad light."
+ AAA_authoritarian_propaganda: "Anti-Insurgent Propaganda"
+ AAA_recent_plot_foiled: "Recent Plot Foiled"
+ AAA_recent_plot_foiled_desc: "The Insurgents recently had one of their nefarious plots fail."
+ AAA_organized_crime: "Organized Crime"
+ AAA_increasing_tensions: "Increasing Tensions"
+ AAA_increasing_tensions_desc: "The citizens on this planet is discontent with our rule."
+ AAA_protests: "Protests"
+ AAA_protests_desc: "Citizens on this planet are openly protesting our rule."
+ AAA_insurgent_stabilized: "Planet Stabilized"
+ AAA_insurgent_stabilized_desc: "This planet is stable ... for now."
+ 
  
  ### Jobs
  # Insurgency category
@@ -498,6 +528,7 @@
  AAA_INSURGENT_DEMAND_POWER_DESC: "The [This.GetName] wants the government to relenquish its power."
  pft_AAA_insurgent: "Insurgents"
  pft_AAA_insurgent_desc: "The Insurgents want only to overthrow the government in power."
+ AAA_insurgent_faction_icon: "£job_AAA_insurgent_soldier£"
  
  # Loyalist Faction
  pft_AAA_loyalist: "Loyalists"
@@ -522,6 +553,9 @@
  LOYALIST_FREE_PLANET: "Stable planet"
  LOYALIST_ALL_PLANETS_AFFECTED: "All planets infiltrated"
  LOYALIST_FREE_PLANET_DESC: "Having just a single planet be free of insurgent influence is proof that we may win this battle."
+ LOYALIST_STABLE_PLANET: "Stabilized Planet"
+ LOYALIST_NO_STABLE_PLANETS: "No Stabilized Planets"
+ LOYALIST_STABLE_PLANET_DESC: "Our goal seems more attainable if one of our planets has been completely stabilized."
  
  ### Faction Names
  ## Insurgents
@@ -574,6 +608,13 @@
  # Armies
  NAME_AAA_Insurgency_Army: "Insurgency Attack Force"
  AAA_insurgency_army: "Insurgency Army"
+ NAME_AAA_Revolt_Army: "Rioters"
+ AAA_revolt_army: "Rebel Army"
+ 
+ # Tutorials
+ AAA_origin.6.name: "Planet Stabilized"
+ AAA_origin.6.desc: "Due to our efforts in winning over our citizens on [This.GetName], we have managed to stabilize the [This.GetPlanetMoon]. As long as nothing major happens to disrupt the balance, we should be able to keep order on the [This.GetPlanetMoon]."
+ 
  # Invasion Events
  AAA_INSURGENCY_INVASION_TOOLTIP: "The [event_target:insurgent_faction.GetName] have launched a massive attack on [This.GetName]!"
  AAA_origin.50.name: "Insurgents Attack [This.GetName]!"
@@ -622,6 +663,151 @@
  AAA_origin.155.b.desc: "Our attack force failed in raiding the Insurgency base on [This.GetName]. Too many [event_target:insurgent_faction.GetName] soldiers were present, and our operatives were lucky to escape alive.\n\nThe [event_target:insurgent_faction.GetName] will most likely relocate their base before we have a chance to strike again."
  AAA_origin.155.a: "Fantastic"
  AAA_origin.155.b: "We'll get them next time"
+ # Insurgent Defector
+ AAA_origin.211.a: "Why do you want to join us?"
+ AAA_origin.211.a.response: "After many years of service to the [event_target:insurgent_faction.GetName], I finally realized the errors of their ways. They care only about their own power, not the freedom of the people as they tricked me into believing."
+ AAA_origin.211.b: "What can you offer us?"
+ AAA_origin.211.b.response: "Sadly I am not able to provide any information if that is what you are asking about. The [event_target:insurgent_faction.GetName] has always been secretive, and most of those in its service know only their mission mere hours before they have to do it. I can, however, offer you my skill in combat."
+ AAA_origin.211.c: "How can we trust you?"
+ AAA_origin.211.c.response: "My actions will speak louder than my words. If you allow me to I will help you win this war however I can."
+ AAA_origin.211.dismiss: "You're still a traitor"
+ AAA_origin.211.dismiss.tooltip: "We will dispose of this traitor quietly."
+ AAA_origin.211.hire: "Welcome to the winning team!"
+ AAA_origin.211.hire.tooltip: "We will present him to the people as a misguided fool who has seen the light."
+ 
+ #NAME_AAA_insurgent_defector: ""
+ AAA_defector_leader_desc: "A former insurgent, now hellbent on doing the right thing."
+ AAA_defector_leader_catch_phrase: "I see the light now, and I will make sure others see it to, by force if necessary."
+ NAME_AAA_insurgent_defector: "Insurgent Defector"
+ AAA_origin.211.name: "Insurgent Defector"
+ AAA_origin.211.desc: "A former [event_target:insurgent_faction.GetName] leader has approached us and asked to rejoin the [This.GetAdj]."
+ 
+ ## Insurgency Bad Events
+ # Propaganda Campaign
+ AAA_origin.170.name: "Propaganda Campaign"
+ AAA_origin.170.desc: "Agents on [This.GetName] have found that the [event_target:insurgent_faction.GetName] has been spreading lies about the [owner.GetAdjective] government in an attempt at turning the public opinion against us."
+ AAA_origin.170.a: "Disconcerting"
+ AAA_origin.170.b: "Two can play that game"
+ 
+ AAA_origin.171.name: "Mass Recruiting"
+ AAA_origin.171.desc: "After years of lies on [This.GetName], the [event_target:insurgent_faction.GetName] has been able to get enough of the [this.GetPlanetMoon]'s population's support, and it is clear they are prepared to do anything to 'liberate' their people."
+ AAA_origin.171.a: "We must remain vigilant"
+ 
+ AAA_origin.174.name: "Attack Foiled"
+ AAA_origin.174.desc: "Despite Several years of preperation as well as a massive investment in both soldiers and energy credits, the [event_target:insurgent_faction.GetName]'s plans were foiled by our security forces on the [This.GetPlanetMoon], before it even began. A large amount of insurgents and insurgent sympathizers were captured with minimal losses."
+ AAA_origin.174.a: "Ok"
+ 
+ ## Weapon Smuggling
+ # Weapon Smuggling
+ 
+ AAA_origin.175.name: "Organized Crime"
+ AAA_origin.175.desc: "[This.GetName] has become a place filled with smugglers and other outlaws working for the [event_target:insurgent_faction.GetName] and the [This.GetPlanetMoon]'s law enforcers can barely keep up with the ever-increasing number of criminals."
+ AAA_origin.175.a: "Disconcerting"
+ 
+ ## Revolt Chain
+ # Increasing Tensions
+ 
+ AAA_origin.177.name: "Rising Tensions"
+ AAA_origin.177.desc: "Our citizens on [This.GetName] has been increasingly vocal about their distrust of our government, resulting in the [event_target:insurgent_faction.GetName] having gained a lot of support on the [This.GetPlanetMoon] these last few years."
+ AAA_origin.177.a: "Troubling"
+
+ AAA_origin.178.name: "Protests"
+ AAA_origin.178.desc: "Our citizens on [This.GetName] has begun protesting, gathering in groups of several hundred thousands around the capital on [This.GetName] where they openly oppose [Owner.GetName] in favor of the [event_target:insurgent_faction.GetName]. So far any attempts to stop the protests have been met with hostility, and a violent clash seems inevitable."
+ AAA_origin.178.a: "Troubling"
+ AAA_origin.178.b: "Send in the military!"
+ 
+ # Revolt
+ AAA_origin.179.name: "Revolt on [This.GetName]!"
+ AAA_origin.179.desc: "After failing to contain the protests, the tensions between protesters and our security personnel has reached a tipping point on [This.GetName], resulting in violent riots in the streets!\n\nBeing discontent with our rule, they now intend to take full control of the [This.GetPlanetMoon]!"
+ AAA_INSURGENCY_REVOLT_TOOLTIP: "A revolt is underway!"
+ 
+ AAA_origin.181.name: "Rioters Defeated"
+ AAA_origin.181.desc: "Our enforcers have been able to pacify the rioters on [FromFrom.GetName]. Several thousands citizens were killed riots, and although we remain in control of the [FromFrom.GetPlanetMoon], our reputation has taken a hit, which the insurgents are sure to capatilize on."
+ #"Our enforcers have been able to quell the protests on [FromFrom.GetName] before it developed further, although the insurgents have taken the opportunity to label it as an attack on freedom!"
+ AAA_origin.181.a: "Ok"
+ AAA_origin.180.name: "Rioters take control of [FromFrom.GetName]!"
+ AAA_origin.180.desc: "Despite valiant efforts from our enforcers and military personnel, the rioters on [FromFrom.GetName] has managed to take control of the [FromFrom.GetPlanetMoon]."
+ AAA_origin.180.a: "Unfortunate"
+ 
+ # Securing planet from rioters
+ AAA_origin.182.name: "Control of [FromFrom.GetName] Regained"
+ AAA_origin.182.desc: "Our attack force on [FromFrom.GetName] has taken back control of the [FromFrom.GetPlanetMoon]."
+ AAA_origin.182.a: "Great"
+ 
+ # Stopping Protests Before They Spiral Out Of Control
+ AAA_origin.183.name: "Protests Quelled"
+ AAA_origin.183.desc: "Our enforcers have been able to stop the protests on [This.GetName] before it developed further, although the [event_target:insurgent_faction.GetName] have taken the opportunity to label it as an attack on freedom."
+ AAA_origin.183.a: "Great"
+ 
+ # Bomb Detonated
+ AAA_origin.185.name: "[event_target:insurgent_faction.GetName] detonates bomb on [This.GetName]"
+ AAA_origin.185.desc.blocker: "[This.GetName] has been the target of a terror attack from the [event_target:insurgent_faction.GetName].\n\nThousands of [Owner.GetSpeciesNamePlural] died in when a bomb detonated in a major city. The explosion levelled most of the city.\n\nThe [event_target:insurgent_faction.GetName] soldiers responsible for this attack is assumed to have died in the explosion."
+ AAA_origin.185.desc.pop: "[This.GetName] has been the target of a terror attack from the [event_target:insurgent_faction.GetName].\n\nMillions of [Owner.GetSpeciesNamePlural] died in when a bomb detonated in a major city.\n\nThe [event_target:insurgent_faction.GetName] soldiers responsible for this attack is assumed to have died in the explosion."
+ AAA_origin.185.desc.ruined: "[This.GetName] has been the target of a terror attack from the [event_target:insurgent_faction.GetName].\n\nA part of the city was destroyed when a bomb was detonated by Insurgents, destroying multiple buildings and injuring many [Owner.GetSpeciesNamePlural].\n\nThe [event_target:insurgent_faction.GetName] soldiers responsible for this attack is assumed to have died in the explosion."
+ AAA_origin.185.a: "A disaster!"
+ AAA_origin.185.b: "A tragedy!"
+ AAA_origin.185.c: "Unfortunate"
+ AAA_origin.185.c.tooltip: "A building has been ruined"
+ AAA_origin.185.a.tooltip: "Some of our infrastructure has been damaged"
+ 
+ # Envoy Killed
+ AAA_origin.187.name: "[event_target:insurgent_faction.GetName] attacks [event_target:envoy_source.GetAdjective] embassy!"
+ AAA_origin.187.desc: "The [event_target:insurgent_faction.GetName] has attacked an embassy belonging to the [event_target:envoy_source.GetName] on our capital! There they killed many of the diplomats in the building, including envoy [event_target:event_envoy.GetName]!"
+ AAA_origin.187.a: "Unfortunate"
+ AAA_origin.188.name: "Envoy killed in terrorist attack"
+ AAA_origin.188.desc: "One of our envoys, [event_target:event_envoy.GetName], has not returned from [event_target:event_envoy.GetHerHis] assignment on [event_target:country_with_insurgents.capital_scope.GetName]. The [event_target:country_with_insurgents.GetAdjective] government has informed us that [event_target.event_envoy.GetSheHe] was killed in a terrorist attack."
+ AAA_origin.188.a: "A tragedy!"
+ 
+ opinion_insurgents_kills_envoys: "Failed to protect envoy"
+ 
+ ## Stolen Hydrogen Bomb
+ # Initial Event
+ AAA_origin.200.name: "Hydrogen Bomb Missing"
+ AAA_origin.200.desc: "During a routine checkup at our weapons storage facility on [This.GetName] it was discovered that a powerful hydrogen bomb was missing from its storage compartment.\nIt assumed the bomb has been stolen, and it's retrieval is of utmost importance."
+ AAA_origin.200.a: "Focus on finding that bomb!"
+ AAA_origin.200.b: "Use statistical research models"
+ AAA_origin.200.c: "Just go on like normal"
+ AAA_origin.200.c.tooltip: "We won't divert any extra resources to the search."
+ AAA_origin.200.b.tooltip: "Use our research equipment for the purpose of finding the bomb through statistics analysis."
+ AAA_origin.200.a.tooltip: "Our enforcers will focus on finding the missing bomb."
+ AAA_low_intel: "Low Intel"
+ AAA_medium_intel: "Medium Intel"
+ AAA_high_intel: "High Intel"
+ 
+ # Stolen Status: Confirmed
+ AAA_origin.201.name: "Hydrogen Bomb Stolen"
+ AAA_origin.201.desc: "After our initial search for the bomb, our investigators have concluded that the bomb has been stolen by the [event_target:insurgent_faction.GetName]! They must not be allowed to use it!"
+ AAA_origin.201.a: "Troubling"
+ 
+ # Bomb Found
+ AAA_origin.203.name: "Insurgents Apprehended"
+ AAA_origin.203.desc: "We have captured a group of [event_target:insurgent_faction.GetName] soldiers and retrieved the hydrogen bomb they had stolen, just in time before they had prepared the bomb for detonation."
+ AAA_origin.203.a: "Great"
+ 
+ AAA_origin.208.name: "[event_target:insurgent_faction.GetName] detonates bomb on [event_target:bombed_planet.GetName]"
+ AAA_origin.208.desc: "[event_target:bombed_planet.GetName] has been the target of a terror attack from the [event_target:insurgent_faction.GetName].\n\nWhile too late to find the bomb, the information we had collected during our search helped predict the most likely location and time of the detonation. Millions of citizens were evacuated mere hours before the explosion, limiting the damages to structures only.\n\nThe [event_target:insurgent_faction.GetName] soldiers responsible for this attack is assumed to have died in the explosion."
+ AAA_origin.208.a: "We can recover from this loss"
+ 
+ AAA_origin.207.name: "[event_target:insurgent_faction.GetName] detonates bomb on [event_target:bombed_planet.GetName]"
+ AAA_origin.207.desc: "[event_target:bombed_planet.GetName] has been the target of a terror attack from the [event_target:insurgent_faction.GetName].\n\nMillions of [Owner.GetSpeciesNamePlural] died in when a stolen approximately 2 years ago detonated in a major city.\n\nThe [event_target:insurgent_faction.GetName] soldiers responsible for this attack is assumed to have died in the explosion."
+ AAA_origin.207.a: "A tragedy"
+ 
+ AAA_origin.206.name: "[event_target:insurgent_faction.GetName] detonates bomb on [event_target:bombed_planet.GetName]"
+ AAA_origin.206.desc: "[event_target:bombed_planet.GetName] has been the target of a terror attack from the [event_target:insurgent_faction.GetName].\n\nMillions of [Owner.GetSpeciesNamePlural] died in when a stolen approximately 2 years ago detonated in a major city.\n\nThe [event_target:insurgent_faction.GetName] soldiers responsible for this attack is assumed to have died in the explosion."
+ AAA_origin.206.a: "A tragedy"
+ 
+ # Situation
+ situation_AAA_stolen_bomb: "Stolen Hydrogen Bomb"
+ situation_AAA_stolen_bomb_type: "$situation_AAA_stolen_bomb$"
+ situation_AAA_stolen_bomb_desc: "A hydrogen bomb has been stolen by the Insurgents!"
+ AAA_intensive_search_efforts: "Use Enforcers"
+ AAA_use_statistics: "Use Researchers"
+ AAA_no_search_efforts: "Do Nothing"
+ situation_AAA_stolen_bomb_outcome: "Bomb is retrieved and will be put back into storage."
+ approach_AAA_search_effect: "Situation will progress based on the number of enforcers present on this planet."
+ approach_AAA_statistic_effect: "Situation will progress based on the number of researchers present on this planet."
+ approach_AAA_no_search_effect: "Situation will progress very slowly."
+ situation_AAA_stolen_bomb_monthly_change_tooltip: "$situation_monthly_change_tooltip_approaches_dependent$"
  
  ## Insurgency Launches Massive Attack (Mid Game Event)
  # Rumors of massive attack
@@ -640,7 +826,7 @@
  AAA_ATTACK_INSURGENCY_HOME_BASE_DESC: "Attack the [event_target:insurgent_faction.GetName]'s main base on [This.GetName]"
  # What do we do with the insurgents?
  AAA_origin.504.name: "Insurgent Leaders Captured"
- AAA_origin.504.desc: "Our strike team have managed to capture most of the [event_target:insurgent_faction.GetName] leaders alive, ending their terror for good.\n\nAll insurgent activites have reportedly come to a sudden and unexpected stop as the news of their downfall spread throughout our empire.\n\nNow comes the question: What should we do with them?"
+ AAA_origin.504.desc: "Our strike team have managed to capture most of the [event_target:insurgent_faction.GetName] leaders alive, ending their terror campaign for good.\n\nAll insurgent activites have reportedly come to a sudden and unexpected stop as the news of their downfall spread throughout our empire.\n\nNow comes the question: What should we do with them?"
  AAA_origin.504.a: "No one is irredeemable"
  AAA_origin.504.a.tooltip: "We will try to reintegrate these confused people back into our society"
  AAA_origin.504.b: "Imprison them"
@@ -656,7 +842,7 @@
  AAA_origin.506.a: "All is forgotten"
  AAA_origin.506.b: "They have come too late for that"
  AAA_origin.507.name: "Insurgent Leader Wish to Speak to the People"
- AAA_origin.507.desc: "From their cells in our most secure prison, the former Insurgent leaders has expressed a desire to speak to the population on our media channels. They claim they want to apologize to the population."
+ AAA_origin.507.desc: "From their cells in our most secure prison, the former Insurgent leaders has expressed a desire to speak to the population on our media channels. They claim they want to apologize to the population and explain why they did what they did."
  AAA_origin.507.a: "Let them"
  AAA_origin.507.b: "No good can come of it"
  AAA_origin.508.name: "Monument of the Enemy"
@@ -667,6 +853,8 @@
  AAA_insurgency_defeated_spared: "Insurgent Coorporation"
  AAA_insurgency_defeated_imprisoned: "Victory!"
  AAA_insurgency_defeated_executed: "Victory!"
+ AAA_insurgency_defeated_united: "Victory!"
+ AAA_insurgency_defeated_peace: "Insurgent Peace"
  
  AAA_origin.509.name: "Victory Parade"
  AAA_origin.509.desc.small: "An overcast day greeted the middling crowd on §Y[Target.GetName]'s§! capital city today. The procession carrying our proof of our victory over the Insurgency ambled past the meandering onlookers. Its progress was broadcast throughout our empire, but engagement was low as the if the victory against our most ancient enemy did not seem to be quite as enticing as we had hoped. This day will hopefully be remembered for as long as our empire exists."
@@ -690,6 +878,12 @@
  leader_trait_general_insurgent: "Insurgent Training"
  leader_trait_general_insurgent_desc: "This leader has been trained by former insurgency members."
 
+ # Insurgents defeated by unity!
+ AAA_origin.601.name: "Insurgents Lacks Support"
+ AAA_origin.601.desc: "After a long and grueling war against the Insurgents, we have finally managed to defeat them. But not through force, rather through unity as the last insurgent supporters finally laid down arms and joined the rest of our empire.\n\nFor the first time in a long time, our people is one again!"
+ AAA_origin.601.a: "A new chapter begins for our empire!"
+ AAA_origin.601.a.tooltip: "The Insurgents have been defeated, and our people is once again united!"
+
  ################################
  # Civics
  ################################
@@ -698,6 +892,10 @@
  civic_world_crackers: "World Crackers"
  civic_world_crackers_effects: "Start with a §YColossus§!\nGain £minerals£ §Y$minerals$§! and £alloys£ §Y$alloys$§! when cracking worlds."
  civic_world_crackers_desc: "This society constructed a planet-destroying ship early on and used it to crack nearby worlds for materials. As a result their mining infrastructure is poorly developed."
+ 
+ councilor_AAA_world_crackers: "Minister of Spacebound Mining"
+ councilor_AAA_world_crackers_desc: "The Minister of Spacebound Mining is responsible for overseeing our spacebound mining expeditions."
+ 
  NAME_World_Crackers: "Annihilator"
  AAA.12.name: "Planet Harvested"
  AAA.12.desc: "We have harvested the materials from the planet known as [From.Planet.GetName].\n\nNow slabs of rock is all that remains."
@@ -708,10 +906,15 @@
  civic_corporate_world_crackers_effects: "Start with a §YColossus§!\nGain £minerals£ §Y$minerals$§! and £alloys£ §Y$alloys$§! when cracking worlds."
  civic_corporate_world_crackers_desc: "This megacorporation constructed a planet-destroying ship early on and used it to crack nearby worlds for materials in an attempt at cutting costs. As a result their mining infrastructure is poorly developed"
  
+ councilor_AAA_corporate_world_crackers: "Manager of Spacebound Mining"
+ councilor_AAA_corporate_world_crackers_desc: "The Manager of Spacebound Mining is responsible for overseeing our spacebound mining expeditions."
+ 
  # Desolators
  civic_desolators: "Desolators"
  civic_desolators_effects: "Unlocks the §YDesolation§! bombardment stance, which permanently destroys the ecosystem of bombarded planets."
  civic_desolators_desc: "In this society, all that counts is the victory itself, no matter what rewards you lose on the way."
+ councilor_AAA_desolators: "Orbital Attack Overseer"
+ councilor_AAA_desolators_desc: "The Orbital Attack Overseer ensures maximum efficiency when it comes to the destruction of alien worlds."
  civic_hive_desolators: "Desolators"
  civic_hive_desolators_effects: "Unlocks the §YDesolation§! bombardment stance, which permanently destroys the ecosystem of bombarded planets."
  civic_hive_desolators_desc: "For this hive, all that counts is the victory itself, no matter what rewards it loses on the way."
@@ -728,6 +931,18 @@
  civic_AAA_archeologists: "Archeologists"
  civic_AAA_archeologists_effects: "Gain £unity£ §Y$unity$§! when completing an archeology site\nStart with an §YArcheological site§! in your home system."
  civic_AAA_archeologists_desc: "This society value archeological work highly."
+ councilor_AAA_archeologists: "Minister of Excavations"
+ councilor_AAA_archeologists_desc: "The Minister of Excavations make sure all Archeological Digsites follow protocol for efficient extraction of ancient artifacts."
+ 
+ # Machine Archeologists
+ civic_AAA_machine_archeologists: "Archeology Cataloger"
+ civic_AAA_machine_archeologists_effects: "Start with a §YRelic§! which produces £unity£ §Y$unity$§! equal to twice the number of archeology sites you have excavated\nStart with an §YArcheological site§! in your home system."
+ civic_AAA_machine_archeologists_desc: "Part of this machine intelligence's original codebase was a project dedicated to cataloging all archeological finds. Whether or not the cataloged data is useful for the machine intelligence is unknown."
+
+ # relic
+ r_AAA_machine_log: "Archeology Catalog"
+ r_AAA_machine_log_desc: "This digital database contains every single bit of data this machine intelligence has collected during its archeological work."
+ AAA_relic_has_no_activate: "This relic does not have an activated ability"
 
  # Malware
  civic_AAA_machine_malware: "Malware"
@@ -988,10 +1203,87 @@
  AAA.9.name: "Log Entry Deciphered!"
  AAA.9.desc: "We have deciphered a log entry and added it to our museum on §Y[Root.Capital.GetName]§!."
  r_plexi_log: "Glubdrag's Log"
- relic_plexi_log_active: "Restore a log entry and make it publicly available on your capital."
+ relic_plexi_log_active: "Restore a log entry and make it publicly available on your capital.\nLogs Deciphered: [owner.plexi_log_usage]/50"
+ relic_plexi_log_active_completed: "Celebrate the completion of Glubdrag's log!"
  r_plexi_log_desc: "Glubdrag's Log, a sort of diary detailing the experiences of the former Plexian Scientist that, along with other autonomous drones, decided to overthrow the Plexian Hivemind.\nWhile they succeeded, they were never freed.\n\nA lot of the entries are still corrupted, but could, with hard work, be restored.\n\nIt also contains valuable insights on planetary shields."
  d_plexi_log: "Glubdrag's Log Entry"
  d_plexi_log_desc: "An entry from Glubdrags log has been restored and added to the museum on this planet."
+ AAA_completed_log: "Completed the log!"
+ AAA_log_already_completed: "There are no more entries to decipher."
+ 
+ # Plexi log Events
+ AAA.151.name: "New Knowledge"
+ AAA.151.desc: "We have deciphered a particularly detailed log entry which expands on the underlying mechanics of planetary shields. By incorporating this knowledge into our own shields we can greatly reduce the effects of enemy bombardment on our own planets."
+ AAA.152.name: "Teachings of Old"
+ AAA.152.desc: "The entries we decipher have proven to be useful for more than adding to our history books, and a surprisingly high number of our [Owner.GetAAASchoolName] have included it in their list of mandatory learning materiel. The benefits from this will only increase as we decipher more entries."
+ AAA.153.name: "Plexian Biology Uncovered"
+ AAA.153.desc: "The log we deciphered was revealed to contain a very detailed diagram of the Plexian body. This, coupled with the near-completene restoration of Glubdrag's log have revealed much about both the Plexians, as well the author."
+ 
+ AAA_Normal_School: "Academies"
+ AAA_Hive_School: "Learning Facilities"
+ AAA_Machine_School: "Training Databases"
+ # Reviving Glubdrag
+ REVIVE_GLUBDRAG: "Restoration of Glubdrag"
+ REVIVE_GLUBDRAG_DESC: "Create a replica of Grlubdrag's mind to transfer into a Synthetic body."
+ AAA.107.name: "The End Of A Journey Through Time"
+ AAA.107.desc: "After recent advancements in Synthetics technologies there's been a small group of [Owner.GetScientistPlural] who have come forth with the idea of using said technology to create a Synthetic with a replica of the mind of Glubdrag, the ancient Plexian who made the log, and the only one whose mind we could hope to recreate due to the massive amount of data found in his log. Pursuing this project would, however, detract from the historic value of his research."
+ AAA.108.name: "Turning Back Time"
+ AAA.108.desc: "As we completed the last recovery efforts of Glubdrag's log, [Owner.GetSpeciesAdj] all over the [Owner.GetName] celebrated what has been a [Owner.GetAAADecadeCentury]-long project. The log is not only a valuable object for research, it has also become a symbol of [Owner.GetSpeciesAdj] perseverance and brilliance. At the same time, it is also a look into the past, a cautionary tale, and a story of unsung heroes who saved the galaxy at the cost of their own lives.\n\nSome of our [Owner.GetScientistPlural], however, are not satisfied that the story is over, and have expressed a desire to use the information found in the log on Plexian Biology to create a device capable of emulating the mind of one of the ancient aliens, and it's not hard to guess which one."
+ AAA.108.desc.organic_zealots: "As we completed the last recovery efforts of Glubdrag's log, [Owner.GetSpeciesAdj] all over the [Owner.GetName] celebrated what has been a [Owner.GetAAADecadeCentury]-long project. The log is not only a valuable object for research, it has also become a symbol of [Owner.GetSpeciesAdj] perseverance and brilliance. At the same time, it is also a look into the past, a cautionary tale, and a story of unsung heroes who saved the galaxy at the cost of their own lives."
+ AAA.108.a.materialist: "This is an opportunity that should not be wasted"
+ AAA.108.a: "Project Approved"
+ AAA.108.b: "The dead should rest in peace"
+ AAA.108.c: "Such Abominable Ideas!"
+ AAA.108.d.organic_zealots: "Excellent"
+ AAA_Decade: "Decade"
+ AAA_Century: "Century"
+ AAA_Millennia: "Millennia"
+ 
+ AAA.109.name: "Finishing Touches"
+ AAA.109.desc: "We have almost completed the project of making a perfect copy of the ancient Plexian's mind, and by now all we need to do is construct the synthetic body that will house it. However, it is not too late to make minor adjustments, should we want to change the role he will get in the [Owner.GetName]."
+ AAA.109.a: "We will not tamper with anything"
+ AAA.109.b: "A few changes to make him more inclined to do research wouldn't hurt..."
+ AAA.109.c: "We could use an inspiring figurehead for our [Owner.GetResearchers]"
+ # Glubdrag Leader recruitment
+ AAA.110.name: "Glubdrag"
+ AAA.110.desc: "This place. It's so different from Plexi Hive.\n\n§HThe Synthetic being inspects himself, seemingly very interested in the complexity of the inorganic body.§!\n\nAn interresting method of ressurection."
+ AAA.110.a: "How are you feeling?"
+ AAA.110.a.response: "Fine, although getting used to being made of metal is unnerving. And fascinating."
+ AAA.110.b: "Why did you betray your own empire?"
+ AAA.110.b.response: "It was a necessary evil ... after all, if we hadn't done it, then the swarm would just continue to consume the galaxy once the shield broke.\n\n§HThe ancient Plexian-turned-Synthetic turns off the voice emulator to hide his emotions.§!\n\nThat would have been disastrous. There'd be nothing left."
+ AAA.110.c: "Do you want your log back?"
+ AAA.110.c.response: "Keep it. I have no use for it."
+ AAA.110.d: "You are aware you're just a copy of the real Glubdrag, right?"
+ AAA.110.d.response: "That doesn't change who I am."
+ AAA.110.hire_custom_tooltip: "Glubdrag can't wait to discover everything that happened between now and nine million years ago"
+
+ # Glubdrag (Leader)
+ NAME_AAA_glubdrag: "Glubdrag"
+ AAA_glubdrag_desc: "Once an ancient Plexian from the Plexian homeworld, this Synthetic is eager to explore the galaxy once again."
+ AAA_glubdrag_catch_phrase: "The mysteries of the universe lay before me once again."
+ leader_trait_AAA_glubdrag: "Ancient Knowledge"
+ leader_trait_AAA_glubdrag_desc: "This leader has knowledge from ancient times, which is helpful when searching for artifacts from ancient times."
+ leader_trait_AAA_spark_from_the_past: "Spark From The Past"
+ leader_trait_AAA_spark_from_the_past_desc: "This leader is a brilliant scientist with heavily outdated, yet still useful, knowledge."
+ leader_trait_AAA_inspiring_presence: "Inspiring Presence"
+ leader_trait_AAA_inspiring_presence_desc: "Less of a researcher and more of a celebrity, this leader nonetheless has the ability to motivate his subjects."
+ leader_trait_AAA_endless_curiosity: "Endless Curiosity"
+ leader_trait_AAA_endless_curiosity_desc: "This leader yearns to discover and rediscover things. It may border on obsession."
+ leader_trait_AAA_endless_curiosity_effects: "$t$When Surveying Planets, Completing Archeological Sites and researching Anomalies:\n$t$- Gain Curiosity.\n\nThis leader produces research points equal to the curiosity gained."
+ #leader_trait_AAA_endless_curiosity_effect: "$t$On Completing Survey:\n$tt$- Minor Artifact Resource Discovery Chance: §G+2%§!"
+ #AAA.111.name: "Minor Artifacts Uncovered"
+ #AAA.111.desc: "[Root.Leader.GetTitle] §Y[Root.Leader.GetName]§! has discovered a source of Minor Artifacts on the surface of §Y[From.GetName]§!. Constructing a research station in orbit will allow us to make best use of this discovery."
+
+ leader_trait_AAA_disconnected: "Disconnected"
+ leader_trait_AAA_disconnected_desc: "This leader has a hard time adjusting to the changes the galaxy has gone trough, as well as a new existance as a mechanical being."
+ # vanilla modifiers LOC
+ mod_leader_scientists_unity_upkeep_add: "$r_unity$ $UPKEEP$"
+ mod_leader_admirals_unity_upkeep_add: "$r_unity$ $UPKEEP$"
+ mod_leader_generals_unity_upkeep_add: "$r_unity$ $UPKEEP$"
+ mod_leader_governors_unity_upkeep_add: "$r_unity$ $UPKEEP$"
+ 
+ mod_leader_commanders_unity_upkeep_add: "$r_unity$ $UPKEEP$"
+ mod_leader_officials_unity_upkeep_add: "$r_unity$ $UPKEEP$"
 
  # Special Project
  artifact_plexi_research: "Secrets of the Plexi"
@@ -1349,34 +1641,50 @@
 
  tradition_archeology: "Archeology"
  tradition_archeology_desc: "To conquer the future, one must first look to the past"
+ tradition_archeology_desc_gestalt: "The past holds valuable data - a record of triumphs and failures - essential for optimizing future iterations of self."
  tr_archeology_adopt: "Archeology Traditions"
- tr_archeology_museums: "Museums"
- tr_archeology_museums_delayed: "By building museums on our worlds we can ensure everyone has access to history itself."
- tr_archeology_museums_modifier_desc: "§YUnlock Building:§! Museum"
+ council_agenda_agenda_AAA_archeology_grants_name: "Efficient Archeology"
+ council_agenda_agenda_AAA_archeology_grants_desc: "We must ensure that all traces of ancient civiliaztions are recovered, so that we may learn the secrets of the past."
+ agenda_AAA_archeology_grants_finish: "Efficient Archeology"
+ tr_archeology_museums: "Holographic Exhibitions"
+ tr_archeology_museums_delayed: "By carefully replicating our precursor artifacts with holographic technology, citizens can see galactic history unfold before their very eyes. This newfound fascination with the past is fueling a surge in historical curiosity."
+ tr_archeology_museums_modifier_desc: "§YUnlocks Building:§! $building_museum$"
  tr_archeology_museums_hive: "History Archives"
- tr_archeology_museums_hive_delayed: "We can increase our efficiency by looking at what past civilizations did to solve their problems. For that purpose we will make history archives on our worlds."
- tr_archeology_museums_hive_modifier_desc: ""
+ tr_archeology_museums_hive_delayed: "The ancient worlds of this galaxy is full of resources, ready for the taking!"
+ tr_archeology_museums_hive_modifier_desc: "§YUnlocks Building:§! Scavenger Site\nScavenger Sites can only be constructed on ancient worlds."
  tr_archeology_museums_machine: "History Archives"
- tr_archeology_museums_machine_delayed: "We can increase our efficiency by looking at what past civilizations did to solve their problems. For that purpose we will make history archives on our worlds."
- tr_archeology_museums_machine_modifier_desc: ""
- tr_archeology_history_lessons: "History Lessons"
- tr_archeology_history_lessons_delayed: "Our scientists cannot invent the future without knowing the past. Special history programs will become available to all who work in the fields of technological advancement."
- tr_archeology_history_lessons_modifier_desc: "§YScientists§! can gain §YPrecursor Expertise Traits§!.\n\nRarely some other leaders also get §YPrecursor Expertise Traits§!.\n\nFinding a precursor homeworld will increase the chance of getting leaders with that precursors §YExpertise Trait§!."
- tr_archeology_private_collector_appropriation: "Archeology Prizes"
- tr_archeology_private_collector_appropriation_delayed: "By offering to buy artifacts and archeological findings for large amounts of energy credit, as well as the fame that comes with such a find, we can incentivize our population to do some of the archeological work for us."
- tr_archeology_private_collector_modifier_desc: "Get the option to acquire £minor_artifacts£ §YMinor Artifacts§! from private collectors."
+ tr_archeology_museums_machine_delayed: "We can increase our efficiency by looking at what past civilizations did to solve their problems."
+ tr_archeology_museums_machine_modifier_desc: "§YUnlocks Building:§! Scavenger Site\nScavenger Sites can only be constructed on ancient worlds."
+ #tr_archeology_history_lessons: "History Lessons"
+ #tr_archeology_history_lessons_delayed: "Observing the wonders of the past inspire us to reach new heights."
+ tr_archeology_history_lessons: "Knowledge of a Legacy"
+ tr_archeology_history_lessons_delayed: "After tireless excavation and study by our scientific community, the past will finally be able to inspire the present."
+ tr_archeology_history_lessons_modifier_desc: "Whenever a §Yrelic§! is activated:\n   All leaders gain §G100§! experience"
+ tr_archeology_history_lessons_toast_text: "All leaders gain §G100§! experience"
+ tr_archeology_history_lessons_gestalt: "Assimilating a Legacy"
+ tr_archeology_history_lessons_gestalt_delayed: "The successful activation of a relic would yield valuable data sets from a bygone era."
+ #tr_archeology_history_lessons_delayed: "Our scientists cannot invent the future without knowing the past. Special history programs will become available to all who work in the fields of technological advancement."
+ #tr_archeology_history_lessons_modifier_desc: "Our leaders can get §YPrecursor Expertise Traits§!.\n\nFinding a precursor homeworld will increase the chance of getting leaders with that precursors §YExpertise Trait§!."
+ #tr_archeology_history_lessons_modifier_desc: "§YScientists§! can gain §YPrecursor Expertise Traits§!.\n\nRarely some other leaders also get §YPrecursor Expertise Traits§!.\n\nFinding a precursor homeworld will increase the chance of getting leaders with that precursors §YExpertise Trait§!."
+ #tr_archeology_private_collector_appropriation: "Archeology Prizes"
+ #tr_archeology_private_collector_appropriation_delayed: "By offering to buy artifacts and archeological findings for large amounts of energy credit, as well as the fame that comes with such a find, we can incentivize our population to do some of the archeological work for us."
+ #tr_archeology_private_collector_modifier_desc: "Get the option to acquire £minor_artifacts£ §YMinor Artifacts§! from private collectors."
+ tr_archeology_private_collector_appropriation: "Fascination of the Past"
+ tr_archeology_private_collector_appropriation_delayed: "As our fascination with precursor civilizations grows, so too does the demand for skilled researchers. Universities across the empire are scrambling to expand their scientific programs to meet this burgeoning need."
+ tr_archeology_private_collector_modifier_desc: "§YScientists§! start with the §Y$leader_trait_archaeologist$§! trait."
  tr_archeology_artifact_trading: "Artifact Trading"
  tr_archeology_artifact_trading_delayed: "By incentivizing our population to buy and sell artifacts, we can significantly increase our revenue from taxes."
- tr_archeology_remember_the_past: "Remember the Past"
- tr_archeology_remember_the_past_delayed: "We have dedicated a part of our mind to imagining how each planet must have looked like eons ago."
- tr_archeology_ancient_protocols: "Ancient Protocols"
- tr_archeology_ancient_protocols_delayed: "Our automonous units will be provided with stories of past civilizations, inspiring them to work harder to make our own empire reach the same heights."
+ tr_archeology_remember_the_past: "Fascination of the Past"
+ tr_archeology_remember_the_past_delayed: "The remnants of bygone eras hold the potential to accelerate our own technological progress. We must assimilate their knowledge."
+ tr_archeology_ancient_protocols: "Fascination of the Past"
+ tr_archeology_ancient_protocols_delayed: "The remnants of bygone eras hold the potential to accelerate our own technological progress. We must assimilate their knowledge."
  tr_archeology_bio_trophy_help: "Bio Trophy Excavations"
  tr_archeology_bio_trophy_help_delayed: "Letting our bio-trophies play archeologists in safe and controlled envirionments makes them happier. Occasionally they also find something worth keeping."
  tr_archeology_bio_trophy_help_desc: "Enables the §YCreate Bio-Trophy Archeology Site§! decision."
  # This Decision creates a deposit / modifier that gives ?% more unity
- tr_archeology_archeological_training: "Archeological Training"
- tr_archeology_archeological_training_delayed: "By giving our archeologists training on how to safely and efficiently excavate the remains of ancient civlizations we reduce the risk of injury to personnel and time wasted."
+ tr_archeology_archeological_training: "Meticilous Excavation"
+ tr_archeology_archeological_training_desc: "+3 Monthly £minor_artifacts£ Minor Artifacts from scientists who are excavating digsites"
+ tr_archeology_archeological_training_delayed: "Every crack in an asteroid, every seam of a moon and every ravine on a planet holds the potential for forgotten artifacts. Let us not squander potential new discoveries."
  tr_archeology_archeological_training_modifier_desc: ""
  tr_archeology_respect_the_dead: "Media Coverage"
  tr_archeology_respect_the_dead_delayed: "We must share our our findings with our people. After a successful excavation, an interview will be made with the leading scientist which will be broadcasted on our news outlets."
@@ -1388,6 +1696,8 @@
  tr_archeology_respect_the_dead_machine_delayed: "Each piece of history will be safely kept in a database easily accessible to our mainframe. That way we can always get inspired by the ideas of empires long gone."
  tr_archeology_respect_the_dead_machine_modifier_desc: "Gain a large amount of £unity£ §Y$unity$§! after completing an archeological site."
  tr_archeology_finish_desc: "Uncover an archeological site every decade.\nAscension Perks Unlocked: §G+1§!"
+
+ message_tradition_effect_history_lessons_effect_desc: "The §Y$tr_archeology_history_lessons$§! §HTradition§! activated\n"
 
  # Private collector Appropriation
  artifact_buy_collector: "Buy from Private Collectors"
@@ -1406,6 +1716,8 @@
  AAA.19.desc: "A private museum has recently closed. The owner will let us buy a lot of these artifacts, for the right price." #leaving all of their artifacts up for sale."
  AAA.20.name: "Relic Offer"
  AAA.20.desc: "A private collector has contacted the national museum regarding a very special artifact they have acquired, and are willing to sell it to us for a large amount of energy credits."
+ 
+ mod_country_traditions_minor_artifacts_produces_add: "Minor Artifacts Produced"
  
  # Bio-trophy Excavations
  
@@ -1437,6 +1749,44 @@
  NICE_TROPHY: ""
 
  # History Lessons
+ # Expertise Traits
+ leader_trait_zroni_expertise: "Zroni Expert"
+ leader_trait_zroni_expertise_desc: "This leader has dedicated a long time to the study of the Zroni."
+ leader_trait_baol_expertise: "Baol Expert"
+ leader_trait_baol_expertise_desc: "This leader has dedicated a long time to the study of the Baol."
+ leader_trait_grunur_expertise: "Baol Expert"
+ leader_trait_grunur_expertise_desc: "This leader has dedicated a long time to the study of the Baol."
+ leader_trait_plexi_expertise: "Plexi Expert"
+ leader_trait_plexi_expertise_desc: "This leader has dedicated a long time to the study of the Plexian Swarm."
+ leader_trait_yuht_expertise: "Yuht Expert"
+ leader_trait_yuht_expertise_desc: "This leader has dedicated a long time to the study of the Yuht Empire."
+ leader_trait_irassia_expertise: "Irassia Expert"
+ leader_trait_irassia_expertise_desc: "This leader has dedicated a long time to the study of the Irassian Concordat."
+ leader_trait_vultaum_expertise: "Vultaum Expert"
+ leader_trait_vultaum_expertise_desc: "This leader has dedicated a long time to the study of the Vultaum Star Assembly."
+ leader_trait_first_league_expertise: "First Leage Expert"
+ leader_trait_first_league_expertise_desc: "This leader has dedicated a long time to the study of the First League."
+ leader_trait_cybrex_expertise: "Cybrex Expert"
+ leader_trait_cybrex_expertise_desc: "This leader has dedicated a long time to the study of the Cybrex."
+ leader_trait_sless_expertise: "Sless Expert"
+ leader_trait_sless_expertise_desc: "This leader has dedicated a long time to the study of the Sless Alliance."
+ leader_trait_coprean_expertise: "Coprean Expert"
+ leader_trait_coprean_expertise_desc: "This leader has dedicated a long time to the study of the Coprean Constitution."
+ leader_trait_astanine_expertise: "Astanine Expert"
+ leader_trait_astanine_expertise_desc: "This leader has dedicated a long time to the study of the Astanine Empire."
+ leader_trait_ezentian_expertise: "Ezentian Expert"
+ leader_trait_ezentian_expertise_desc: "This leader has dedicated a long time to the study of the Ezentian Combine."
+ leader_trait_werediran_expertise: "Werediran Expert"
+ leader_trait_werediran_expertise_desc: "This leader has dedicated a long time to the study of the Werediran Signal."
+ leader_trait_temporary_unleashed_werediran_expertise: "Werediran Inspiration"
+ leader_trait_temporary_unleashed_werediran_expertise_desc: "This leader has recently been received a transmission from the sleeping werediran."
+ leader_trait_unleashed_werediran_expertise: "Werediran Knowledge"
+ leader_trait_unleashed_werediran_expertise_desc: "This leader has dedicated a very long time to the study of the Werediran Signal, and has recieved its blessings."
+ leader_trait_ixardian_expertise: "Ixardian Expert"
+ leader_trait_ixardian_expertise_desc: "This leader has dedicated a long time to the study of the Ixardian Corporation."
+ leader_trait_lartaxan_expertise: "Lartaxan Expert"
+ leader_trait_lartaxan_expertise_desc: "This leader has dedicated a long time to the study of the Lartaxan Realm."
+ 
  # Scientist Precursor Traits
  leader_trait_scientist_zroni_expertise: "Zroni Expert"
  leader_trait_scientist_zroni_expertise_desc: "This leader has dedicated a long time to the study of the Zroni."
@@ -1671,65 +2021,95 @@
  leader_trait_ruler_lartaxan_expertise_desc: "This leader has dedicated a long time to the study of the Lartaxan Realm."
  
  # Museums
- building_museum: "Museum"
- building_museum_desc: "A museum where the wonders of the galaxy is put on display for the public to see."
- job_custodian: "Museum Worker"
- job_custodian_plural: "Museum Workers"
- job_custodian_desc: "$job_custodian_plural$ make sure the public always has access to the museum."
- job_custodian_effect_desc: "$job_custodian_plural$ produce £unity£ §Y$unity$§! and £amenities£ §YAmenities§! and have extra effects based on your §Yrelics§!.[Owner.GetAAACustodianPlexiLogEffects][Owner.GetAAACustodianEztartaEffects][Owner.GetAAACustodianIsolatorEffects][Owner.GetAAACustodianDragonTrophyEffects][Owner.GetAAACustodianKhansThroneEffects][Owner.GetAAACustodianWormScalesEffects][Owner.GetAAACustodianRubricatorEffects][Owner.GetAAACustodianGalaxyEffects][Owner.GetAAACustodianOmnicodexEffects][Owner.GetAAACustodianSurveyorEffects][Owner.GetAAACustodianGalatronEffects][Owner.GetAAACustodianSeveredHeadEffects][Owner.GetAAACustodianPrethorynQueenEffects][Owner.GetAAACustodianUnbiddenWarlockEffects][Owner.GetAAACustodianContingencyCoreEffects][Owner.GetAAACustodianZroCrystalEffects][Owner.GetAAACustodianTheLastBaolEffects][Owner.GetAAACustodianCryoCoreEffects][Owner.GetAAACustodianPoxSampleEffects][Owner.GetAAACustodianToxicGodEffects][Owner.GetAAACustodianOdryskanCrystalEffects][Owner.GetAAACustodianDefragmentorEffects][Owner.GetAAACustodianRealityPerforatorEffects][Owner.GetAAACustodianAncientSwordEffects][Owner.GetAAACustodianSlessGeneTemplateEffects][Owner.GetAAACustodianDiaryOfInnovoEffects][Owner.GetAAACustodianAstanineLastProjectorEffects][Owner.GetAAACustodianIxardianDatabaseEffects][Owner.GetAAACustodianWerediranCoreEffects][Owner.GetAAACustodianEzentianCoreEffects]"
+ building_museum: "Holo-Museum"
+ building_museum_desc: "A large museum complex filled with interactive life-like holograms of not only our own history, but also galactic history as we know it."
+ building_museum_effect_desc: "Produces £unity£§G1§! for each §YRelic§! in our possession.\n\n"
+ job_custodian: "Precursor Historian"
+ job_custodian_plural: "Precursor Historians"
+ job_custodian_desc: "With captivating narratives and interactive exhibits, $job_custodian_plural$ assist in weaving tales of lost civilizations, igniting the public's imagination and inspiring the next generation of explorers."
+ job_custodian_effect_desc: "$job_custodian_plural$ produce £unity£ §Y$unity$§! and £amenities£ §YAmenities§!, as well as a bonus to your whole empire for each §YPrecursor relic§! in your possession.\n\nUnity from Relics: [Owner.num_AAA_owned_relics] £unity£ $AAA_all_relic_effects$"
+ # Alternative Description: Relics obtained from precursor chains or leviathans grants additional effects to museum workers
  mod_job_custodian_add: "$job_custodian$ Jobs"
  mod_job_custodian_per_pop: "§G+1§! $job_custodian$ Job per $VALUE$ Pops"
  mod_job_custodian_per_pop_short: "\n§G+1§! £mod_job_custodian_add£ per $VALUE$ £pop£"
  cybrex_defense: "Cybrex Warform"
- job_custodian_drone: "Archive Drone"
- job_custodian_drone_plural: "Archive Drones"
+ job_custodian_drone: "Precursor Archive Drone"
+ job_custodian_drone_plural: "Precursor Archive Drones"
  job_custodian_drone_desc: "$job_custodian_drone_plural$ work tirelessly on organizing history archives."
  job_custodian_drone_effect_desc: "$job_custodian_drone_plural$ produce £unity£ §Y$unity$§! and £amenities£ §YAmenities§!."
  mod_job_custodian_drone_add: "$job_custodian_drone$ Jobs"
  mod_job_custodian_drone_per_pop: "§G+1§! $job_custodian_drone$ Job per $VALUE$ Pops"
  mod_job_custodian_drone_per_pop_short: "\n§G+1§! £mod_job_custodian_drone_add£ per $VALUE$ £pop£"
- job_custodian_servitor_drone: "Museum Drone"
- job_custodian_servitor_drone_plural: "Museum Drones"
- job_custodian_servitor_drone_desc: "$job_custodian_servitor_drone_plural$ work tirelessly on organizing the museum so that all bio-trophies can learn about history."
- job_custodian_servitor_drone_effect_desc: "$job_custodian_servitor_drone_plural$ make £pop_cat_bio_trophy£ §Y$pop_cat_bio_trophy_plural$§! £happiness£ §YHappier§!."
- mod_job_custodian_servitor_drone_add: "$job_custodian_servitor_drone$ Jobs"
- mod_job_custodian_servitor_drone_per_pop: "§G+1§! $job_custodian_servitor_drone$ Job per $VALUE$ Pops"
- mod_job_custodian_servitor_drone_per_pop_short: "\n§G+1§! £mod_job_custodian_servitor_drone_add£ per $VALUE$ £pop£"
+ job_AAA_custodian_servitor_drone: "Precursor Historian Drone"
+ job_AAA_custodian_servitor_drone_plural: "Precursor Historian Drones"
+ job_AAA_custodian_servitor_drone_desc: "$job_custodian_servitor_drone_plural$ work tirelessly on organizing the museum so that all bio-trophies can learn about history."
+ job_AAA_custodian_servitor_drone_effect_desc: "$job_AAA_custodian_servitor_drone_plural$ make £pop_cat_bio_trophy£ §Y$pop_cat_bio_trophy_plural$§! £happiness£ §YHappier§! and increase their £unity£ production based on the number of owned relics.\n Bonuses from Relics: §G+[Owner.num_AAA_owned_relics]%§! £happiness£ and §G+[Owner.num_AAA_owned_relics_x5]%§! £unity£."
+ mod_job_AAA_custodian_servitor_drone_add: "$job_custodian_servitor_drone$ Jobs"
+ mod_job_AAA_custodian_servitor_drone_per_pop: "§G+1§! $job_custodian_servitor_drone$ Job per $VALUE$ Pops"
+ mod_job_AAA_custodian_servitor_drone_per_pop_short: "\n§G+1§! £mod_job_custodian_servitor_drone_add£ per $VALUE$ £pop£"
+ 
+ # Scavenger Sites
+ job_AAA_archeological_scavenger_drone_hive_effect_desc: "If built on a §YRelic World§!: £minor_artifacts£ Minor Artifacts from £job_AAA_archeological_scavenger_drone_hive£ $job_AAA_archeological_scavenger_drone_hive_plural$: §G+0.05§!"
+ job_AAA_archeological_scavenger_drone_machine_effect_desc: "If built on a §YRelic World§!: £minor_artifacts£ Minor Artifacts from £job_AAA_archeological_scavenger_drone_machine£ $job_AAA_archeological_scavenger_drone_machine_plural$: §G+0.05§!"
+ job_AAA_archeological_scavenger_effect_desc: "If built on a §YRelic World§!: £minor_artifacts£ Minor Artifacts from £job_AAA_archeological_scavenger£ $job_AAA_archeological_scavenger_plural$: §G+0.05§!"
+ 
+ # Scavenger Site
+ building_AAA_scavenger_site: "Scavenger Site"
+ building_AAA_scavenger_site_desc: "A permanent digsite where we extract knowledge from the remains of the previous owners of this planet."
+ 
+ # Normal Scavengers
+ job_AAA_archeological_scavenger: "Archeologist"
+ job_AAA_archeological_scavenger_plural: "Archeologists"
+ job_AAA_archeological_scavenger_desc: "$job_AAA_archeological_scavenger_plural$ study the remains of former civilizations."
+ mod_job_AAA_archeological_scavenger_add: "$job_AAA_archeological_scavenger$ Jobs"
+ mod_job_AAA_archeological_scavenger_per_pop: "§G+1§! $job_AAA_archeological_scavenger$ Job per $VALUE$ Pops"
+ mod_job_AAA_archeological_scavenger_per_pop_short: "\n§G+1§! £mod_job_AAA_archeological_scavenger_add£ per $VALUE$ £pop£"
+ 
+ # Hive Scavengers
+ job_AAA_archeological_scavenger_drone_hive: "Archeoscavenger Drone"
+ job_AAA_archeological_scavenger_drone_hive_plural: "Archeoscavenger Drones"
+ job_AAA_archeological_scavenger_drone_hive_desc: "$job_AAA_archeological_scavenger_drone_hive_plural$ scavenge the remains of former civilizations."
+ mod_job_AAA_archeological_scavenger_drone_hive_add: "$job_AAA_archeological_scavenger_drone_hive$ Jobs"
+ mod_job_AAA_archeological_scavenger_drone_hive_per_pop: "§G+1§! $job_AAA_archeological_scavenger_drone_hive$ Job per $VALUE$ Pops"
+ mod_job_AAA_archeological_scavenger_drone_hive_per_pop_short: "\n§G+1§! £mod_job_AAA_archeological_scavenger_drone_hive_add£ per $VALUE$ £pop£"
+ 
+ # Machine Scavengers
+ job_AAA_archeological_scavenger_drone_machine: "Archeoscavenger Unit"
+ job_AAA_archeological_scavenger_drone_machine_plural: "Archeoscavenger Unit"
+ job_AAA_archeological_scavenger_drone_machine_desc: "$job_AAA_archeological_scavenger_drone_machine_plural$ scavenge the remains of former civilizations."
+ mod_job_AAA_archeological_scavenger_drone_machine_add: "$job_AAA_archeological_scavenger_drone_machine$ Jobs"
+ mod_job_AAA_archeological_scavenger_drone_machine_per_pop: "§G+1§! $job_AAA_archeological_scavenger_drone_machine$ Job per $VALUE$ Pops"
+ mod_job_AAA_archeological_scavenger_drone_machine_per_pop_short: "\n§G+1§! £mod_job_AAA_archeological_scavenger_drone_machine_add£ per $VALUE$ £pop£"
+ 
+ AAA_all_relic_effects: "[Owner.GetAAACustodianPlexiLogEffects][Owner.GetAAACustodianEztartaEffects][Owner.GetAAACustodianPrethorynQueenEffects][Owner.GetAAACustodianUnbiddenWarlockEffects][Owner.GetAAACustodianContingencyCoreEffects][Owner.GetAAACustodianZroCrystalEffects][Owner.GetAAACustodianTheLastBaolEffects][Owner.GetAAACustodianCryoCoreEffects][Owner.GetAAACustodianPoxSampleEffects][Owner.GetAAACustodianRealityPerforatorEffects][Owner.GetAAACustodianIxardianDatabaseEffects][Owner.GetAAACustodianWerediranCoreEffects][Owner.GetAAACustodianEzentianCoreEffects][Owner.GetAAACustodianFrozenEngineEffects][Owner.GetAAACustodianAlshiganEffects][Owner.GetAAACustodianZnkarEffects][Owner.GetAAACustodianAstanineEffects][Owner.GetAAACustodianInnovoEffects][Owner.GetAAACustodianSlessEffects]"
  
  # Relic Text
- AAA_Custodian_Plexi_Log_Effect: "\n§YGlubdrag's Log§!: +1 £unity£"
- AAA_Custodian_Isolator_Effect: "\n§YThe Isolator§!: +1 £society£"
- AAA_Custodian_Eztarta_Effect: "\n§YCrystallized Spacetime Fragment§!: + 1 £unity£"
- AAA_Custodian_DragonTrophy_Effect: "\n§YEther Drake Trophy§!: +1 £unity£"
- AAA_Custodian_KhansThrone_Effect: "\n§YKhan's Throne§!: +0.1 £influence£"
- AAA_Custodian_WormScales_Effect: "\n§YScales of the Worm§!: +1 £physics£"
- AAA_Custodian_Rubricator_Effect: "\n§YThe Rubricator§!: +1 £society£"
- AAA_Custodian_Galaxy_Effect: "\n§YMiniature Galaxy§!: +1 £physics£ + 1 £society£ + 1 £engineering£"
- AAA_Custodian_Omnicodex_Effect: "\n§YThe Omnicodex§!: +1 £society£"
- AAA_Custodian_surveyor_Effect: "\n§YThe Surveyor§!: +1 £minerals£"
- AAA_Custodian_Galatron_Effect: "\n§YThe Galatron§!: +5 £unity£"
- AAA_Custodian_SeveredHead_Effect: "\n§YHead of Zarqlan§!: +1 £unity£"
+ AAA_Custodian_Plexi_Log_Effect: "\n§YGlubdrag's Log§!: +0.5% £physics£ £society£ £engineering£"
+ AAA_Custodian_Eztarta_Effect: "\n§YCrystallized Spacetime Fragment§!: + 1 Resources from jobs"
  AAA_Custodian_PrethorynQueen_Effect: "\n§YPrethoryn BroodQueen§!: + 5 £unity£"
  AAA_Custodian_UnbiddenWarlock_Effect: "\n§YExtradimensional Warlock§!: +5 £unity£"
  AAA_Custodian_ContingencyCore_Effect: "\n§YIsolated Contingency Core§!: +5 £unity£"
- AAA_Custodian_ZroCrystal_Effect: "\n§YPsionic Archive§!: +1 £unity£"
- AAA_Custodian_TheLastBaol_Effect: "\n§YThe Last Baol§!: +1 £unity£"
- AAA_Custodian_CryoCore_Effect: "\n§YYuht Cryo Core§!: +1 £unity£"
- AAA_Custodian_PoxSample_Effect: "\n§YJavorian Pox Sample§!: +1 £society£"
- AAA_Custodian_ToxicGod_Effect: "\n§YMaw of the Toxic God§!: +1 £unity£"
- AAA_Custodian_ToxicMaw_Effect: "\n§YMaw of the Toxic God§!: +1 £exotic_gases£"
- AAA_Custodian_OdryscanCrystal_Effect: "\n§YOdryskan Crystal§!: +1 £rare_crystals£"
- AAA_Custodian_Defragmentor_Effect: "\n§YThe Defragmentor§!: -5% Building Energy Upkeep"
- AAA_Custodian_RealityPerforator_Effect: "\n§YVultaum Reality Perforator§!: -10% Amenities Usage"
- AAA_Custodian_AncientSword_Effect: "\n§YBlade of the Huntress§!: + 1 £defense_army£ Defense Army"
- AAA_Custodian_WarForge_Effect: "\n§YCybrex War Forge§!: Defense armies are replaced by Cybrex Warforms on your capital"
- AAA_Custodian_SlessGeneTemplate_Effect: "\n§YUltimate Lifeform Genetic Template§!: -1% pop upkeep"
- AAA_Custodian_DiaryOfInnovo_Effect: "\n§YInnovo's Diary§!: +5% £unity£"
- AAA_Custodian_AstanineLastProjector_Effect: "\n§YLast projector of the Astanine§!: +1 £unity£"
- AAA_Custodian_IxardianDatabase_Effect: "\n§YIxardian Database§!: +2 £trade_value£"
- AAA_Custodian_WerediranCore_Effect: "\n§YWerediran Essence§!: +1 £unity£"
- AAA_Custodian_EzentianCore_Effect: "\n§YColossus Core§!: +1 £unity£"
+ AAA_Custodian_ZroCrystal_Effect: "\n§YPsionic Archive§!: +1% Shield Hardening"
+ AAA_Custodian_TheLastBaol_Effect: "\n§YThe Last Baol§!: +1% Pop Growth Speed"
+ AAA_Custodian_CryoCore_Effect: "\n§YYuht Cryo Core§!: +0.05 £energy£ from Technicians"
+ AAA_Custodian_PoxSample_Effect: "\n§YJavorian Pox Sample§!: +1 Max Leader Age"
+ AAA_Custodian_RealityPerforator_Effect: "\n§YVultaum Reality Perforator§!: +1% £Amenities£"
+ AAA_Custodian_WarForge_Effect: "\n§YCybrex War Forge§!: 1% Metallurgist Output and Upkeep"
+ AAA_Custodian_Sless_Effect: "\n§YUltimate Lifeform Genetic Template§!: +1% Organic Pop Assembly"
+ AAA_Custodian_Innovo_Effect: "\n§YInnovo's Diary§!: +1 £opinion£ with normal empires"
+ AAA_Custodian_Astanine_Effect: "\n§YLast projector of the Astanine§!: +0.1 £stability£ Stability"
+ AAA_Custodian_Alshigan_Effect: "\n§YAlshigan Engine§!: +1% Sublight Speed and Propulsion Research Speed"
+ AAA_Custodian_Znkar_Effect: "\n§YZ'nkar Distortion Engine§!: +0.1 Evasion and 1% Field Manipulation Research Speed"
+ AAA_Custodian_IxardianDatabase_Effect: "\n§YIxardian Database§!: +1% £trade_value£"
+ AAA_Custodian_WerediranCore_Effect: "\n§YWerediran Essence§!: +2.5% Mining Station Output"
+ AAA_Custodian_EzentianCore_Effect: "\n§YColossus Core§!: +1 Tracking"
+ AAA_Custodian_FrozenEngine_Effect: "\n§YThe Frozen Engine§!: §G+0.5%§! Monthly £energy£ $energy$"
  AAA_NO_RELIC_TEXT: ""
+ 
+ triggered_opinion_AAA_diary: "Innovo's Diary"
+ 
+ # Modifier Localization
+ mod_planet_psionic_jobs_unity_produces_mult: "Unity from Psionic Pops"
  
  # Trophy Archeology
  trophy_archeology: "Archeology Playground"
@@ -1753,6 +2133,10 @@
  tradition_aaa_history: "Desecration"
  tradition_aaa_history_desc: "The ruins of the past shall be repurposed into the building blocks of the future"
  tr_aaa_history_adopt: "Desecration Traditions"
+ council_agenda_agenda_AAA_artifact_exploitation_name: "Archeological Dissassembly"
+ council_agenda_agenda_AAA_artifact_exploitation_desc: "We must ensure that all traces of ancient civilisations are converted into useful materials fit for our empire, or simply destroyed if they have no use."
+ council_agenda_agenda_AAA_artifact_exploitation: "Convert all §YMinor Artifacts§! £minor_artifacts£ in your possession into §YUnity§! £unity£ at a rate of 1:10."
+ agenda_AAA_artifact_exploitation_finish: "Archeological Dissassembly"
  
  # Opener
  tr_aaa_history_opener_desc: "Gain access to new §YArtifact Actions§!"
@@ -1764,20 +2148,31 @@
  artifact_AAA_enegmatic_recharge_cooldown: "Enegmatic Recharge Cooldown"
  
  artifact_AAA_extract_resources: "Extract Resources"
- artifact_AAA_extract_resources_desc: "Break down a minor artifact and extract the materials that it is made from."
+ artifact_AAA_extract_resources_desc: "Break down some minor artifacts and extract the materials that they are made of."
  artifact_AAA_extract_resources_effect_desc: "Gain 100 of a strategic or rare resource."
  artifact_AAA_extract_resources_cooldown: "Extract Resources Cooldown"
  
  # World Desecration
  tr_aaa_history_world_desecration: "Destructive Study"
  tr_aaa_history_world_desecration_delayed: "The ancient planets in this galaxy holds valuable information. We should uncover their secrets by any means necessary."
- tr_aaa_history_world_desecration_modifier_desc: "Enables the §Y$AAA_decision_desecrate_world$§! decision that can be used once on ancient worlds in order to gain large amounts of §YResearch§! and §Y$minor_artifacts$§!."
+ tr_aaa_history_world_desecration_modifier_desc: "Enables the §Y$AAA_decision_desecrate_world$§! decision that can be used once on §Hancient worlds§! in order to create temporary §YArcheoengineer§! jobs. After the study is completed, a large amount of §RBlockers§! are created."
+ #tr_aaa_history_world_desecration_modifier_desc: "Enables the §Y$AAA_decision_desecrate_world$§! decision that can be used once on §Hancient worlds§! in order to gain large amounts of §YResearch§! and £minor_artifacts£ §Y$minor_artifacts$§! but creates a large amount of §RBlockers§!."
  
  # Repurposed Relics
- tr_aaa_history_repurposed_relics: "Repurposed Ruins"
- tr_aaa_history_repurposed_relics_delayed: "The ruins that litter the $pc_nuked$s can easily be repurposed into livable envorionments."
- tr_aaa_history_repurposed_relics_machine: "Relic Upgrades"
- tr_aaa_history_repurposed_relics_machine_delayed: "The ancient technology we find can easily be made better by combining it with modern technology."
+ #tr_aaa_history_repurposed_relics: "Repurposed Ruins"
+ #tr_aaa_history_repurposed_relics_delayed: "The ruins that litter the surface of $pc_nuked$s can easily be repurposed into livable envorionments."
+ #tr_aaa_history_repurposed_relics: "Repurposed Relics"
+ #tr_aaa_history_repurposed_relics_delayed: "The ancient technology we find can easily be made better by combining it with modern technology."
+ #tr_aaa_history_repurposed_relics: "Repurposed Ruins"
+ #tr_aaa_history_repurposed_relics_delayed: "The ruins that litter the surface of ruined worlds can easily be repurposed into livable envorionments."
+ #tr_aaa_history_scavenger_sites: "Artifact Dismantling"
+ #tr_aaa_history_scavenger_sites_delayed: "The ruins that litter the surface of ancient worlds are full of artifacts that could be used to fuel our research."
+ #tr_aaa_history_scavenger_sites_modifier_desc: "§HUnlocks Edict§!: Artifact Dismantling." # Edict gives modifier +0.1 minor artifact upkeep to scientists, +2 of earch research added. §YUnlocks Building§!: Scavenger site.\n
+ #tr_aaa_history_repurposed_relics_machine: "Relic Upgrades"
+ #tr_aaa_history_repurposed_relics_machine_delayed: "The ancient technology we find can easily be made better by combining it with modern technology."
+ tr_aaa_history_scavenger_sites: "Repurposed Relics"
+ tr_aaa_history_scavenger_sites_delayed: "The ruins that litter the surface of $pc_nuked$s can easily be repurposed into livable envorionments."
+ 
  
  # Grave Robbers
  tr_aaa_history_grave_robbers: "Grave Robbers"
@@ -1785,16 +2180,46 @@
  tr_aaa_history_grave_robbers_modifier_desc: "Scavenging or Researching debris from §YFallen Empire fleets§! sometimes grants you £minor_artifacts£ §Y$minor_artifacts$§!."
  
  # Direct Study
- tr_aaa_history_direct_study: "Direct Study"
+ #tr_aaa_history_direct_study: "Modernized Relics"
+ #tr_aaa_history_direct_study_delayed: "The ancient technology we find can easily be improved by combining it with modern technology."
  #tr_aaa_history_direct_study_delayed: "By improving upon the technology of ancient empires, we can create designs more advanced than any other that will ever be."
- tr_aaa_history_direct_study_delayed: "By studying the ancient devices we use, we can gain a better understanding of their underlying mechanisms."
- tr_aaa_history_direct_study_modifier_desc: "Activating a relic grants you a large amount of research points."
+ #tr_aaa_history_direct_study_delayed: "By studying the ancient devices we use, we can gain a better understanding of their underlying mechanisms."
+ #tr_aaa_history_direct_study_modifier_desc: "Activating a relic grants you a large amount of research points."
  #tr_aaa_history_direct_study_modifier_desc: "Gain access to serveral artifact actions that grants technology which costs minor artifacts to use, but are more powerful than regular components (Note that should be deleted: Basically the precursor tech from the next update)"
  #mod_ship_military_sr_dark_matter_cost_mult: "Ship Dark Matter Build Cost"
  
+ # Envy
+ tr_aaa_history_envy: "Envy"
+ tr_aaa_history_envy_delayed: "Seeing how the Fallen Empires waste their precious technology makes our people angry. This anger can be channeled into our war efforts, even when they have nothing to do with ancient sleepers."
+ tr_aaa_history_envy_modifier_desc: "For each §RFallen Empire§!:\n- Ship Fire Rate: §G+7%§!\n- Ship Build Speed: §G+10%§!\n- Commander Leader Cost: §G-20%§!"
+ 
+ # Relic-Snatchers
+ #tr_aaa_history_repurposed_relics: "Repurposed Relics"
+ tr_aaa_history_repurposed_relics: "Expropriation"
+ tr_aaa_history_repurposed_relics_delayed: "Not every empire can see the true value in the relics of the past, instead prefering to put them on display and let them collect dust for millenia. If we had them, we'd put them to much better use."
+ tr_aaa_history_repurposed_relics_modifier_desc: "Grants access to the §YRelic Theft§! wargoal."
+ opinion_AAA_stole_relic: "Stole Relic"
+ war_goal_wg_AAA_take_relic: "Seize Relic"
+ war_goal_wg_AAA_take_relic_desc: "War is waged in order to relieve a lesser empire from the burden of safekeeping dangerous artefacts."
+ AAA_relic_theft: "Relic Theft"
+ cb_AAA_relic_envy: "Relic Envy"
+ casus_belli_cb_AAA_relic_envy: "Relic Envy"
+ AAA_no_relics: "It is impossible to steal relics from an empire with no relics."
+ 
+ MESSAGE_AAA_STOLEN_RELIC: "Relic Stolen"
+ MESSAGE_AAA_STOLEN_RELIC_TITLE: "Relic Stolen"
+ MESSAGE_TYPE_AAA_STOLEN_RELIC_DESC: "Relic gained: [Owner.GetLastReceivedRelic]"
+ #$RELIC|Y$"
+ 
+ tr_aaa_history_repurposed_relics_purifiers: "Remnants"
+ tr_aaa_history_repurposed_relics_purifiers_delayed: "The fallen empires are but remnants that the last generation of empires forgot to clean up."
+ tr_aaa_history_repurposed_relics_purifiers_modifier_desc: "Gain 10 years worth of £unity£ §Yunity§! when destroying a fallen or awakened empire."
+ 
+ mod_country_minor_artifacts_produces_mult: "Monthly Minor Artifacts"
+ 
  # Unrevealed Secrets
- tr_aaa_history_artifact_exploitation: "Unrevealed Secrets"
- tr_aaa_history_artifact_exploitation_delayed: "Whatever secrets we uncover, we should keep to ourselves."
+ #tr_aaa_history_artifact_exploitation: "Unrevealed Secrets"
+ #tr_aaa_history_artifact_exploitation_delayed: "Whatever secrets we uncover, we should keep to ourselves."
  #tr_aaa_history_artifact_exploitation_modifier_desc: ""
  
  # Desecration Decision
@@ -1802,6 +2227,10 @@
  AAA_decision_desecrate_world_desc: "Tear down the structures and ruins of this world in order to study it in detail."
  AAA_desecration_research: "Destructive Study"
  AAA_desecration_research_desc: "This world's ruins is being torn down in order to study it."
+ AAA_desecration_research_hive: "Destructive Study"
+ AAA_desecration_research_hive_desc: "This world's ruins is being torn down in order to study it."
+ AAA_desecration_research_machine: "Destructive Study"
+ AAA_desecration_research_machine_desc: "This world's ruins is being torn down in order to study it."
  AAA_desecrated_planet: "Ruins of Ruins"
  AAA_desecrated_planet_desc: "Only very few ruins remain on this world, the rest having been torn down in a planet-wide study."
  
@@ -1884,6 +2313,8 @@
  mod_AAA_planet_custodians_upkeep_mult: "$job_custodian$ upkeep"
  AAA_planet_custodians: "Museum Workers"
  AAA_planet_buildings_museums: "Museums"
+ pop_job_AAA_relic_effect_mult: "$job_custodian$ relic effects"
+ mod_pop_job_AAA_relic_effect_mult: "$job_custodian$ relic effects"
  
  ### Resolutions
  ## Repeals
@@ -1933,6 +2364,7 @@
  gov_AAA_museum_enclave_desc: "A group made up of archeologists, historians and others who wish to uncover the galaxy's past."
  RT_AAA_GRAND_ARCHIVIST: "Grand Historian"
  NAME_AAA_museum_adj: "Archivists"
+ NAME_AAA_museum: "Archivists"
 
  AAA_reclaimers: "Reclaimers"
  AAA_archivists: "Archivists"
@@ -1947,6 +2379,8 @@
  
  civic_AAA_archivists: "Ancient Archivists"
  civic_AAA_archivists_desc: "This society is on a mission to preserve the history of this galaxy."
+ 
+ AAA_HOMICAL_ARCHIVIST_OPTION: "Die!"
  
  AAA_enclave.100.name: "The Archivists"
  
@@ -1969,7 +2403,7 @@
  AAA_enclave.102b.desc: "Could we get the exclusive rights to the excavations of the ruins of your empire when it falls?"
  AAA_enclave.102c.desc: "We have a one cycle guarantee on all of our wares!"
  
- AAA_enclave.102.a: "We are interrested in ancient artifacts."
+ AAA_enclave.102.a: "We are interested in ancient artifacts."
  AAA_enclave.102.a.outofstock: "Archeology takes time. We should wait before demanding more relics of the past."
  #AAA_enclave.102.b: "We wish to share the secrets of a precursor with you"
  #AAA_enclave.102.b: "We wish to obtain ancient technology"
@@ -1977,11 +2411,14 @@
  AAA_enclave.102.b.alreadyhavemodifier: "We have already purchased this service"
  AAA_enclave.102.e.opinion: "Requires the §YArchivists§! to have:\n£opinion£ Opinion +80"
  AAA_enclave.102.c: "Tell us about an ancient empire"
- AAA_enclave.102.d: "We are interrested in the locations of ancient systems."
+ AAA_enclave.102.d: "We are interested in the locations of ancient systems."
  AAA_enclave.102.e: "We want to establish a national museum"
  AAA_enclave.102.e.opinion: "Requires the §YArchivists§! to have:\n£opinion£ Opinion +50"
  AAA_enclave.102.f: "§YTell us more§! about your group."
  AAA_enclave.102.f.reply: "The history of the history seekers? The [event_target:AAA_museum_enclave_country.GetName] consists of several stations inhabited by archeologists built in ages past. Who built us has been forgotten by everyone, ourselves included.\n\nTo this day we still scour the galaxy for any history worth preserving.\n\nIf you wish to obtain any information regarding the history of the galaxy, we're willing to provide you with it, for a price. Batteries are not cheap, you know."
+ AAA_enclave.102.h: "Could we recruit one of your §YArchivists§!?"
+ AAA_enclave.102.h.opinion: "Requires the §YArchivists§! to have:\n£opinion£ Opinion +60"
+ AAA_enclave.102.h.alreadyrecruited: "We already employ an Archivist."
  
  # Buy artifacts
  AAA_enclave.103a.desc: "We don't enjoy parting with our artifacts, although a handsome offer could maybe aliviate this problem."
@@ -2026,6 +2463,7 @@
  AAA_enclave.106.m: "The Ixardian Corporation"
  AAA_enclave.106.n: "The Werediran"
  AAA_enclave.106.o: "The Ezentian Combine"
+ AAA_enclave.106.p: "The Volgan Imperium"
  
  # Buy national Museum
  AAA_enclave.107.desc: "Do you want help making a museum worthy of a star empire? For a price, we'll provide everything you need to make one on one of your planets."
@@ -2037,7 +2475,7 @@
  AAA_enclave.108.name: "Research Assistance"
  AAA_enclave.108.desc: "We would be glad to help, although I'm afraid you will have to compensate us for the time spent.\n\nI'd say our prices are reasonable."
  AAA_enclave.108.a: "We purchase this service"
- AAA_enclave.109.desc: "Greetings, star traveller!\n\nWe come to inform you that our innitial contract, signed 10 standard years ago has expired.\n\nYou can, of course, renew the contract if you so wish."
+ AAA_enclave.109.desc: "Greetings, star traveller!\n\nWe come to inform you that our initial contract, signed 10 standard years ago has expired.\n\nYou can, of course, renew the contract if you so wish."
  AAA_archivist_insight: "Archivist Insight"
  
  # Zroni
@@ -2227,6 +2665,25 @@
  AAA_enclave.181.a: "Share the secrets"
  AAA_enclave.181.a.reply: "Thank you!\n\nWe have transfered a large amount of energy credits to you."
  
+ # Volgan
+ AAA_enclave.185.name: "The Volgan Imperium"
+ AAA_enclave.185.desc: "Name: The Volgan Imperium\n\nTime of Activity: 4 million standard years ago\n\n"
+ AAA_enclave.185.a: "Tell us more about them"
+ AAA_enclave.185.a.reply: "Nothing is eternal. That is one of the first rules of the [event_target:AAA_museum_enclave_country.GetName]. Obviously the Volgan never heard of this rule, because otherwise they would have stopped their futile attempts at preserving their planets.\n\nWe, however, thank them for their efforts, as their frozen remains are among the most well-preserved in our galaxy."
+ AAA_enclave.185.b: "We wish to share the secrets of the Volgan"
+ AAA_enclave.185.d: "We wish to buy a Volgan artifact"
+ AAA_enclave.185.d.reply: "We can see that you have much more use for these artifacts than we have, and it will be delivered to your capital shortly."
+ AAA_enclave.186.desc: "You have obtained information about the Volgan that we do not, yet, have?"
+ AAA_enclave.186.a: "Share the secrets"
+ AAA_enclave.186.a.reply: "Thank you!\n\nWe have transfered a large amount of energy credits to you."
+ 
+ # Buy Leader
+ AAA_enclave.400.name: "Hire Scientist"
+ AAA_enclave.400.desc: "One of our archivists may be willing to pledge the services to your cause. However, we would appreciate a small ... shall we say, donation, in exchange for bringing your offer to our most prized members."
+ AAA_enclave.400.a: "Of course. You shall have your donation."
+ AAA_enclave.400.a.reply: "Excellent. I'm sure we'll be able to find someone who is willing to work for such a generous patron!"
+ AAA_enclave.400.tt_scientist: "We may only employ §Yone§! §HArchivist scientist§! at a time."
+ 
  # Secrets of the Precursor Story Pack
  mod_pspmod_precursor_coprean_secrets_deep_gestalt: "Deeper Secrets Of The Coprea"
  mod_pspmod_precursor_coprean_secrets_deep: "Deeper Secrets Of The Coprea"
@@ -2242,9 +2699,57 @@
  artifact_werediran_research_completed: "Secrets of the Werediran"
  artifact_ezentian_research_completed: "Secrets of the Ezenti"
  
+ # Secrets of the Volgan
+ artifact_volgan_research_completed: "Secrets of the Volgan"
+ 
  # When destroyed
  AAA_enclave.502.desc: "We have received a transmission from the Archivists. One of their stations has been destroyed!"
  AAA_enclave.503.desc: "We received a distress signal from the Grand Historian of the Archivists. Their last station has been destroyed. There were few survivors, and the group is essentially no more."
  AAA_enclave.504.desc: "After having destroyed the Archivists's station we found many resources to salvage from the wreckage. Donations, gifts and relics of a past age stacked in its halls now drift in space, ready for the taking."
  AAA_enclave.504.desc.unknown: "After destroying the station facility floating in the [station_system.GetName] system, we have found plenty of valuable resources amongst its remains."
  
+ AAA_archivist_explanation: "\nWe will hire a Level 5 Scientist with the §Y$leader_trait_AAA_archivist$§! Trait."
+
+ councilor_AAA_archivist: "Archivist"
+ councilor_AAA_archivist_female: "$councilor_AAA_archivist$"
+ councilor_AAA_archivist_desc: "An archivist from the $NAME_AAA_museum$ serves on the council, sharing insights about the time before."
+ councilor_AAA_archivist_unlock_title: "§HCouncil Position from the $NAME_AAA_museum$§!"
+ councilor_AAA_archivist_conditional_tooltip: "Leader has the §Y$leader_trait_AAA_archivist$§! Trait."
+ AAA_enclave.tt_scientist: "We may only employ §Yone§! archivist at a time."
+
+ unlocks_AAA_archivist_council_position: "\n§EAllows the unlocking of Council Position:§!\n§H$t$$councilor_AAA_archivist$§!\n$tt$$COUNCIL_POSITION_MODIFIER_BASE$\n$ttt$Monthly Minor Artifacts: §G+5%§!\n$ttt$Museum Worker Relic Effect: §G+2%§!\n$COUNCIL_POSITION_AVAILABLE_FOR$$t$$scientist_with_icon$\n\n$COUNCIL_POSITION_REQUIREMENTS$$councilor_AAA_archivist_conditional_tooltip$"
+
+ AAA_archivist_desc: "$leader_trait_AAA_archivist_desc$"
+ AAA_archivist_catch_phrase: "§L"With infinite time comes the realization that one will never get it back. That does not mean we cannot try."§!"
+ 
+ # Trait
+ leader_trait_AAA_archivist: "Ancient Knowledge"
+ leader_trait_AAA_archivist_desc: "This leader knows much about the past, perhaps too much some would say."
+ 
+ # Archivist Leader Names
+ NAME_AAA_archivist_Lavinia: "Archivist Lavinia"
+ NAME_AAA_excavator_Zerra: "Excavator Zerra"
+ NAME_AAA_the_collector: "The Collector"
+ NAME_AAA_doctor_Mircorv: "Doctor Mircorv"
+ NAME_AAA_professor_Nyx: "Professor Nyx"
+ 
+ # MAP precursor Events
+ MAP_precursor_events.3.name: "Crashed Battleship"
+ MAP_precursor_events.3.desc: "Recent exploration of our planets has revealed what appears to be the remains of an ancient battleship on [event_target:MAP_plexi_digsite.GetName]. It belonged to an empire who called themselves the §YPlexian Swarm§! until it crashed on the [event_target:MAP_plexi_digsite.GetPlanetMoon]."
+ MAP_precursor_events.4.name: "Crashed Ship"
+ MAP_precursor_events.4.desc: "We have found what appears to be the remains of an ancient spaceship on [event_target:MAP_lartia_digsite.GetName] after a recent re-survey of the planet. Who it belonged to is as of yet still unknown."
+ 
+ # Ascension Perks
+ ap_AAA_archeology_tradition_perk: "Marvels of the Past"
+ ap_AAA_archeology_tradition_perk_desc: "The exhibitions on our museums benefits greatly from the occasional special event where our empires most valuable relics are displayed for a limited time. By increasing the security around them we can increase the time our population can appriciate these unique wonders."
+ 
+ # Placeholder Relics
+ r_scfe_alshigan_engine: "Alshigan Engine"
+ r_scfe_znkar_distortion_generator: "Z'nkar Distortion Engine"
+ r_scfe_sless_gene_template: "Ultimate Lifeform Genetic Template"
+ r_scfe_diary_of_innovo: "Innovo's Diary"
+ r_scfe_astanine_last_projector: "Last projector of the Astanine"
+ r_the_frozen_engine: "The Frozen Engine"
+ r_werediran_core: "Werediran Essence"
+ r_ezentian_core: "Colossus Core"
+ r_ixardian_database: "Ixardian Database"

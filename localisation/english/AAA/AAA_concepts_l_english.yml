@@ -1,0 +1,64 @@
+﻿l_english:
+
+ ### Concepts
+ # Use §K for headers and §I for highlights in Concepts
+
+# Insurgency
+ concept_AAA_pc_city: "$pc_city$"
+ concept_AAA_pc_city_desc: "- Base Habitability: §Y100%§!\n- uses special £district£ §IArcology Districts§!\n\n§L$pc_apocalyptic_city_desc$§!"
+
+ concept_AAA_insurgency_junk: "$d_AAA_insurgency_junk$"
+ concept_AAA_insurgency_junk_desc: "- Time to Clear:\n$tt$- £time£ 360 §IDays§!\n- Cost to Clear:\n$tt$- 250 $i_energy$\n- $MOD_PLANET_MAX_DISTRICTS_ADD$: §R-2§!\n- On Clearing:\n$tt$- 300 $i_minerals$\n$tt$- 50 $i_alloys$\n\n§L$d_AAA_insurgency_junk_desc$§!"
+ 
+ concept_AAA_city_ruins: "$d_city_ruins$"
+ concept_AAA_city_ruins_desc: "- Time to Clear:\n$tt$- £time£ 360 §IDays§!\n- Cost to Clear:\n$tt$- 1200 $i_energy$\n- $MOD_PLANET_MAX_DISTRICTS_ADD$: §R-2§!\n\n§L$d_city_ruins_desc$§!"
+ 
+ concept_AAA_loyalists: "Loyalists"
+ concept_AAA_loyalists_desc: "Loyalists are the part of your population that support your rule. £pop£ §IPops§! with high happiness are more likely to become loyalists."
+ 
+ concept_AAA_insurgents: "Insurgents"
+ concept_AAA_insurgents_desc: "Insurgents are the part of your population that does not support your rule. £pop£ §IPops§! with low happiness are more likely to support ['concept_AAA_insurgency']."
+ 
+ concept_AAA_insurgency: "The Insurgency"
+ concept_AAA_insurgency_desc: "The §YInsurgency§! is a rebel group that oppose your control over the empire.\n\n§YInsurgents§! will sabotage your infrastructure and attack your planets with §YArmies§!\n\nPlanets captured by §YInsurgents§! will break down over time, eventually experiencing a societal collapse."
+ 
+ concept_AAA_destabilize: "Destabilize"
+ 
+ # Strategic Resource Techs
+ concept_AAA_rare_crystals: "$tech_mine_rare_crystals$"
+ concept_AAA_rare_crystals_desc: "- $i_unlocks_building$ $building_crystal_mines$\n\n§L$tech_mine_rare_crystals_desc$§!"
+ 
+ concept_AAA_exotic_gases: "$tech_mine_exotic_gases$"
+ concept_AAA_exotic_gases_desc: "- $i_unlocks_building$ $building_gas_extractors$\n\n§L$tech_mine_exotic_gases_desc$§!"
+ 
+ concept_AAA_volatile_motes: "$tech_mine_volatile_motes$"
+ concept_AAA_volatile_motes_desc: "- $i_unlocks_building$ $building_mote_harvesters$\n\n§L$tech_mine_volatile_motes_desc$§!"
+ 
+# Banished Threat
+ concept_AAA_pc_shielded: "Shielded World"
+ concept_AAA_pc_shielded_desc: "§L$pc_shielded_desc_orig$§!"
+ 
+ concept_AAA_deteriorating_shields: "Deteriorating Shields"
+ 
+# Scavengers
+ concept_AAA_scavengers_arcsite: "$site_scavengers_ship$"
+ concept_AAA_scavengers_arcsite_desc: "§L$site_scavengers_ship_intro$§!"
+ concept_AAA_scavengers_deposit: "$d_crashed_ship$"
+ concept_AAA_scavengers_deposit_desc: "- £mod_planet_amenities_add£ §H$PLANET_AMENITIES_TITLE$§!: §G+10§!\n- £job_researcher£ ['concept_AAA_researcher', $job_researcherl$] Jobs: §G+3§!\n- £job_scrap_miner_scavenger£ ['concept_AAA_scrap_miners', $job_scrap_miner_scavenger$] Jobs: §G+3§!\n- £engineering_research£: §G+3§!"
+ concept_AAA_scavengers_deposit_deposit: "Deposit"
+ 
+ concept_AAA_researcher: "$job_researcher_plural$"
+ concept_AAA_researcher_desc: "$job_researcher_plural$ are jobs that turn $i_consumer_goods$ into ['concept_technologies', £physics£ £engineering£ Research Points]."
+ 
+ concept_AAA_scrap_miners: "$job_scrap_miner_scavenger_plural$"
+ concept_AAA_scrap_miners_desc: "$job_scrap_miner_scavenger_plural$ are jobs that produce $i_minerals$ and $i_alloys$.\n\n§L$job_scrap_miner_scavenger_desc$§!"
+ 
+# Hidden Crisis
+ concept_AAA_crisis_quest: "$situation_hidden_crisis$"
+ concept_AAA_crisis_quest_desc: "Spend $i_alloys$ to build up a fleet for use once you ['concept_AAA_become_the_crisis'].\n\n§L$situation_hidden_crisis_desc$§!"
+ 
+ concept_AAA_become_the_crisis: "§RBecome a Crisis§!"
+ concept_AAA_become_the_crisis_desc: "Begin a ['concept_AAA_total_war'] with the rest of the galaxy."
+ 
+ concept_AAA_total_war: "Total War"
+ concept_AAA_total_war_desc: "A total war can only end with the total annihilation of one side."
