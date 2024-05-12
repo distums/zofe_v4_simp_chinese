@@ -1,0 +1,19 @@
+﻿l_simp_chinese:
+ 
+ ########################
+ # Living Asteroid
+ # Code by Malthus
+ # Text by Foremole
+ ########################
+ 
+ # Anomaly
+ mem_living_asteroid_anomaly_category:0 "异常能量读数"
+ mem_living_asteroid_anomaly_category_desc:0 "§Y[From.GetName]§! 的初步扫描,显示出奇怪的读数。,它和周围较小的小行星都显示出与此类物体不一致的能量读数。,此外，§Y[From.GetName]§!,上面覆盖着一些颜色和纹理奇怪的材料。"
+ 
+ # Anomaly Success
+ mem_living_asteroid.1.name:0 "活着的小行星"
+ mem_living_asteroid.1.desc:0 "尽管首席科学家§Y[Root.GetLeaderName]§! ,§Y[Root.GetName]§! 的船员坚称该术语不准确。,已经开始调用 §Y[From.GetName]§!,一颗“活的小行星”。,小行星的大部分地区都是高弹性地衣菌落的家园，这与类地行星上发现的任何形式的真菌不同。 ,\n\n像所有地衣一样，这些“活的小行星”是由真菌和蓝藻结合形成的，这种特殊的蓝藻物种只能与相应的真菌一起发现 - 两者对于 [Root.Owner.GetName] 来说都是全新的物种,。,虽然提议的科学术语是“天体子囊菌”，但大多数媒体报道甚至科学论文都开始称它们为“太空蘑菇”。,建议进一步研究。"
+ 
+ # Anomaly Failure
+ mem_living_asteroid.2.name:0 "只是一块岩石"
+ mem_living_asteroid.2.desc:0 "首席科学家§Y[Root.GetLeaderName]§!,已报告来自 §Y[From.GetName]§! 的异常能量读数！,无非是扫描仪故障。,此外，行星表面的纹理物质只是金属矿脉，根本无法用于采矿。"

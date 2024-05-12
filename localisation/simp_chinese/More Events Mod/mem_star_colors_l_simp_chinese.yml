@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+ mem_star_colors_category:0 "奇怪的颜色"
+ mem_star_colors_category_desc:0 "对这颗恒星的观察发现，它的光球层中闪烁着不寻常的颜色。,他们的光谱分析与此类恒星内部发现的典型元素不匹配。"
+
+ mem_star_colors.1.name:0 "另一个世界的色彩"
+ mem_star_colors.1.desc:0 "继续观测 §Y[From.GetName]§! 的光球层,揭示了与不同维度相连的多个微虫洞。,它们在恒星内部不断自发形成和坍塌，在其中沉积了大量奇异粒子，从而解释了不寻常的光谱读数。"
+
+ mem_star_colors.2.name:0 "传感器故障"
+ mem_star_colors.2.desc:0 "§Y[FromFrom.GetName]§! 的初步观察,无法复制。,看来异常读数只不过是扫描仪校准不当的结果。"

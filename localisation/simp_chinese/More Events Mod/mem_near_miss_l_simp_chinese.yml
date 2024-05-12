@@ -1,0 +1,25 @@
+﻿l_simp_chinese:
+ ##Near Miss
+ #Writing and idea by Foremole
+ #Code by LamilLerran
+ mem_near_miss.1.name:0 "有惊无险"
+ mem_near_miss.1.desc:0 "§Y[Root.GetName]§! 上的科学家,我们惊讶地发现一场巨大的太阳“超级风暴”绕过了[Root.GetPlanetMoon]。,这场风暴——一种日冕物质抛射，传感器显然错过了它，直到几乎袭击了殖民地——可能对§Y[Root.GetName]§!的电子基础设施造成了广泛的、在许多情况下无法弥补的损害。,如果弹射击中世界，谁知道有多少人会在随后的混乱中丧生？"
+ mem_near_miss.1.neutral:0 "何必用这个来烦我呢？"
+ mem_near_miss.1.mat:0 "这种可能性每天都笼罩在我们的脑海中。,太可怕了。"
+ mem_near_miss.1.spi:0 "这是神圣干预的标志，地球被拯救了！"
+ mem_near_miss.1.phile:0 "我们殖民得越多，此类事件造成的危险就越小。"
+ mem_near_miss.1.phobe:0 "现在谁将把新孩子带入这个外星世界？"
+ mem_near_miss.1.ind:0 "[Root.GetName] 有一句新说法：“你只活一次”。"
+ mem_near_miss.1.col:0 "即使我们可能失去一个世界，我们也拥有更多。"
+ mem_near_miss_mat:0 "有惊无险"
+ mem_near_miss_mat_desc:0 "民众担心致命的日冕喷发"
+ mem_near_miss_spi:0 "有惊无险"
+ mem_near_miss_spi_desc:0 "民众感谢神的保护"
+ mem_near_miss_phile:0 "有惊无险"
+ mem_near_miss_phile_desc:0 "最近发生的事件推动人口增长"
+ mem_near_miss_phobe:0 "有惊无险"
+ mem_near_miss_phobe_desc:0 "人们担心把孩子带入这个外星世界"
+ mem_near_miss_ind:0 "有惊无险"
+ mem_near_miss_ind_desc:0 "人们在有限的时间内寻求各种体验"
+ mem_near_miss_col:0 "有惊无险"
+ mem_near_miss_col_desc:0 "民众团结一致应对共同威胁"

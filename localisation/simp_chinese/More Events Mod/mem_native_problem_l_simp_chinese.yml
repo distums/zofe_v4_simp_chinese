@@ -1,0 +1,34 @@
+﻿﻿#Native Problem
+#By ViolentBeetle
+
+l_simp_chinese:
+ mem_native_problem.2.name:0 "原生问题"
+ mem_native_problem.2.desc:0 "在我们新殖民星球§Y[Root.GetName]§! 上的主要定居点的郊区发现了几名殖民者的尸体。,死亡原因是远距离多发枪击。 ,\n\n到目前为止，我们的当局还无法确定肇事者的身份，但他们确信没有殖民者出现在枪击发生的地区。,派往该地区的响应小组也未能找到任何线索。 ,\n\n随着调查的结果尚无定论，许多殖民者不敢离开家园，猜测也愈演愈烈 - 难道 [Root.GetName] 并不像我们想象的那样无人居住？"
+ mem_native_problem.2.a:0 "令人震惊。"
+ mem_native_problem.2.purifiers:0 "如果有土著的话，我们只要把他们全部杀掉就可以了。"
+
+ mem_native_problem.3.name:0 "对枪击事件的进一步调查"
+ mem_native_problem.3.desc:0 "§Y[Root.GetName]§! 的权威机构,报告称，在过去的几个月里，又有几名殖民者因神秘枪击事件丧生。 ,\n\n不过，在寻找肇事者方面也取得了进展。,显然，地下深处有一个广阔的石灰岩洞穴网络，在荒野中散布着许多难以找到的入口。,枪击事件的肇事者藏身于某处深处，但我们需要相当长的时间才能清理整个区域。"
+ mem_native_problem.3.a:0 "只是崩溃整个系统。"
+ mem_native_problem.3.a.tooltip:0 "洞穴将充满气态温压炸药并引爆，永远埋葬枪击事件的负责人……"
+ mem_native_problem.3.b:0 "开始准备入侵那些洞穴。"
+ mem_native_problem.3.b.tooltip:0 "我们将开始准备清理洞穴的解决方案。,枪击事件的肇事者可能会被活捉，但这并不能保证......"
+ mem_native_problem.3.c:0 "开始准备入侵洞穴并捕获居民。"
+ mem_native_problem.3.c.tooltip:0 "非致命解决方案将花费§S显着更长的时间§!，但枪手将被活捉。"
+
+ mem_native_problem.4.name:0 "射手的终结"
+ mem_native_problem.4.desc:0 "造成 §Y[Root.GetName]§ 上多人死亡的神秘射手！,经过激烈抵抗后，最终被当局困在石灰岩洞穴网络深处并被杀害。 ,\n\n令人惊讶的是，肇事者竟然是[Owner.GetSpeciesName]，而不是作为殖民项目的一部分正式移居该星球的殖民者。 ,[the_guy.GetSheHe] 穿着的破烂飞行服表明这是 [the_guy.GetName] - 一艘大约十年前消失得无影无踪的小型私人船只的船长。 ,\n\n很可能[the_guy.GetSheHe]使飞船坠毁，并从那时起就以某种方式在行星表面幸存下来。,目前还不完全清楚是什么原因导致[the_guy.GetHerHim]攻击殖民者，但长期暴露在荒野可能会对[the_guy.GetHerHis]的理智产生负面影响。"
+ mem_native_problem.4.a:0 "一个悲惨的故事。"
+
+ mem_native_problem.5.name:0 "枪手被捕"
+ mem_native_problem.5.desc:0 "造成 §Y[Root.GetName]§ 上多人死亡的神秘射手！,最终被当局困在石灰岩洞穴网络深处。,经过短暂的冲突后，[the_guy.GetSheHe] 被制服并拘留。 ,\n\n令人惊讶的是，肇事者竟然是[Owner.GetSpeciesName]，而不是作为殖民项目的一部分正式移居到该星球的殖民者。 ,[the_guy.GetSheHe] 穿着的破烂飞行服表明这是 §Y[the_guy.GetName]§! ,- 大约十年前消失得无影无踪的一艘小型私人船只的船长。 ,\n\n在医务人员设法使 [the_guy.GetHerHim] 恢复 [the_guy.GetHerHis] 知觉后，[the_guy.GetSheHe] 得以了解 [the_guy.GetHerHis] 的故事。,作为[the_guy.GetHerHis]飞船在地球表面坠毁的唯一幸存者，[the_guy.GetSheHe]从那时起就一直在为生存而战，但长期的隔离，加上不安全食用当地植物的饮食，导致[the_guy.GetHerHim ,] 产生各种认知问题。,在发现第一批殖民者后，[the_guy.GetSheHe] 只能将他们视为怪物并进行攻击。"
+ mem_native_problem.5.a:0 "以叛国罪处决[the_guy.GetHerHim]。"
+ mem_native_problem.5.b:0 "审判将确定 [the_guy.GetSheHe] 是否对 [the_guy.GetHerHis] 行为负责。"
+ mem_native_problem.5.c:0 "[the_guy.GetSheHeCap] 在这里生存了 10 年？,我们可以利用这个技能。"
+ mem_native_problem.5.c.tooltip:0 "§Y[the_guy.GetName]§!,将成为§S将军§！,在我们的帝国。"
+
+ mem_native_problem_fear:0 "被恐惧所笼罩"
+ mem_native_problem_fear_desc:0 "这个星球上的人们生活在对神秘射手的恐惧之中。,任何人都可能成为下一个目标！"
+
+ mem_leader_trait_native_problem_general:0 "幸存者"
+ mem_leader_trait_native_problem_general_desc:0 "这位领导人在一个遥远的星球上独自生活了十多年，对生存略知一二。"

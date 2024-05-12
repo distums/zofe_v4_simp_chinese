@@ -1,0 +1,22 @@
+﻿l_simp_chinese:
+ #################################################
+ # Text by Malthus                               #
+ #################################################
+ # Planetary Shields
+
+ # That first building text is copied from the original game localisation
+ # Standard Shield Generator
+ building_mem_planetary_shield_generator:0 "行星护盾发电机"
+ building_mem_planetary_shield_generator_desc:0 "$tech_planetary_shield_generator_desc$"
+
+ # Heavy Shield Generator
+ building_mem_planetary_shield_generator_heavy:0 "行星屏障护盾发生器"
+ building_mem_planetary_shield_generator_heavy_desc:0 "这是一种先进的行星护盾发生器，源于我们对古代护盾世界的研究。"
+
+ # Orila Shield Generator
+ building_mem_planetary_shield_generator_orila:0 "行星前驱体护盾发生器"
+ building_mem_planetary_shield_generator_orila_desc:0 "一种古老且高度先进的行星护盾发生器，带有内置能源。,它的技术可能比我们先进数千年...\n\n我们可能无法复制这项技术，但我们的工程师应该能够§Y拆卸§!,在这里然后§重新组装§！,它在我们选择的另一个星球上。"
+
+ # Heavy Shield Generator Tech 
+ mem_tech_planetary_shield_generator_heavy:0 "先进的屏障护盾"
+ mem_tech_planetary_shield_generator_heavy_desc:0 "基于我们自己的场操纵研究以及我们之前对前驱护盾技术的研究，我们的一组科学家为我们自己的行星护盾发电机的升级版提出了一个有前景的设计概念。"

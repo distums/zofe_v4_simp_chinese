@@ -1,0 +1,22 @@
+﻿l_simp_chinese:
+
+ mem_diversity.1.name:0 "功德问题"
+ mem_diversity.1.desc:0 "[Root.GetAdj] 法律规定 §Y[oppressed_species.GetSpeciesNamePlural]§!,不允许在 [root.GetName] 内担任领导职务。 ,\n\n然而，能力倾向测试显示，一个特定的 [oppressed_species.GetSpeciesName] 是一位具有惊人潜力的天才，尽管他们的种族不同。,毫无疑问，具有这种才能的[Root.GetSpeciesName]将很快晋升到重要职位。,然而，从目前的情况来看，他们的人才有被浪费的风险。,也许在这种情况下可以例外？"
+ mem_diversity.1.a:0 "也许。,做好安排。"
+ mem_diversity_admiral:0 "一位才华横溢的§海军上将§！,被添加到领导者池中。"
+ mem_diversity_general:0 "一位才华横溢的§将军§！,被添加到领导者池中。"
+ mem_diversity_scientist:0 "一位才华横溢的§科学家§！,被添加到领导者池中。"
+ mem_diversity_governor:0 "一位才华横溢的§州长！,被添加到领导者池中。"
+ mem_diversity.1.a.tooltip:0 "而§Y[oppressed_species.GetSpeciesNamePlural]§!,将会§G高兴§！,通过此次促销活动，所有非亲外人士都将获得§S完全公民身份§！,将会被§R深深冒犯§!。"
+ mem_diversity.1.b:0 "绝对不。"
+ mem_diversity.1.c:0 "“银河系最聪明的[oppressed_species.GetSpeciesName]”将成为一场精彩的怪胎表演。"
+ mem_diversity.1.c.tooltip:0 "所有§Y[oppressed_species.GetSpeciesNamePlural]§!,将会被§R深深冒犯§！,受此耻辱。"
+ 
+ mem_diversity_outsider:0 "局外人"
+ mem_diversity_outsider_desc:0 "尽管存在明显的歧视行为，这位领导者还是被聘用了，他渴望证明自己种族的优点。"
+ 
+ mem_diversity:0 "多元化招聘"
+ mem_diversity_outraged:0 "对领导招聘感到愤怒"
+ mem_diversity_outraged_xenophobe:0 "$mem_diversity_outraged$"
+ mem_diversity_hired:0 "对促销感到高兴"
+ mem_diversity_humiliated:0 "种族主义羞辱"

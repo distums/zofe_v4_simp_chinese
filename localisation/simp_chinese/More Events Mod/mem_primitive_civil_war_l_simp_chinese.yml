@@ -1,0 +1,17 @@
+﻿l_simp_chinese:
+ MEM_PRIMITIVE_CIVIL_WAR_INTERVENTION:0 "神圣干预"
+ MEM_PRIMITIVE_CIVIL_WAR_INTERVENTION_DESC:0 "我们的一艘飞船将为 [mem_primitive_civil_war_planet.GetName] 上几乎被击败的叛军提供急需的援助，尽管当地人不会理解正在发生的事情。,从轨道上发射的几发炮弹应该可以轻松击溃帝国军队。"
+ mem_primitive_civil_war.2.name:0 "武士之道"
+ mem_primitive_civil_war.2.desc:0 "我们绕 [mem_primitive_civil_war_planet.GetName] 运行的观察站报告了主要 [mem_primitive_civil_war_planet_owner.GetAdj] 国家内正在进行的内战。,显然，这一切都始于一位年轻而进步的王位继承人的加冕，他的许多改革很快对他的国家的文化和社会产生了深远的影响。 \n\n虽然 [mem_primitive_civil_war_planet_owner.species.GetNamePlural] 仍然生活在准,——中世纪时代，他们的技术进步比那要先进得多。,迄今为止，只有严格遵守传统才阻碍了许多创新的广泛应用。,但这些改变并未得到所有受试者的认可。,尤其是新成立的帝国军队，由义务兵组成，不分社会阶级，深深冒犯了现已过时的贵族武士阶级。\n\n面对他们的衰落，他们中的许多人奋起捍卫自己古老的权利。,但尽管他们有能力和经验，但他们成功的机会很小，因为他们受到武士守则和传统的约束，这禁止他们在新的帝国军队领域使用现代装备。\n\n刀剑面对枪。"
+ mem_primitive_civil_war.2.a:0 "继续观察。"
+ mem_primitive_civil_war.3.name:0 "命运临近"
+ mem_primitive_civil_war.3.desc:0 "[mem_primitive_civil_war_planet.GetName]上方的观察人员报告说，在取得一些初步成功之后，叛乱分子遭受了一系列重大失败，耗尽了他们的人数并迫使他们撤退。,看来他们已经采取了防御立场，准备进行最后的抵抗。,帝国军队似乎暂时不愿进攻，尽管人数占优势，但他们意识到自己在战术上处于劣势。\n\n无论如何，帝国军队的全面胜利此时只是时间问题，因为叛军已经别无选择,。,或者他们有吗？"
+ mem_primitive_civil_war.3.a:0 "他们被包围并且寡不敌众。,结束了..."
+ mem_primitive_civil_war.3.b:0 "唯一能拯救他们的就是“神圣”的干预……"
+ mem_primitive_civil_war.4.name:0 "命运就在这里"
+ mem_primitive_civil_war.4.desc:0 "[mem_primitive_civil_war_planet_owner.GetAdj] [mem_primitive_civil_war_planet.GetName] 上的叛军领袖已经为他的部下做好了最后的战斗准备。,他打算带着荣耀而去，而不是接受皇帝亲自发出的投降提议而面临耻辱。\n\n他们的最后一次冲锋以快速射击枪的交叉火力结束，这是首次在[ ,mem_primitive_civil_war_planet_owner.GetAdj]历史记录。,这不是一场最后的战斗，而是一场一边倒的屠杀。 \n\n尽管如此，随着叛乱的结束，旧方式最后的坚定捍卫者已经死亡，并为未来让路。,希望是一个更明亮的。"
+ mem_primitive_civil_war.4.a:0 "当新事物与旧事物相遇时，古老的方式总是会结束。"
+ mem_primitive_civil_war.5.name:0 "反抗帝国军队"
+ mem_primitive_civil_war.5.desc:0 "就在叛军首领即将开始最后的冲锋时，大地被 [root.owner.GetAdj] 武器袭击而震动。,他们袭击了围攻军队，距离足够近，可以达到预期的效果，但又不会太近，以免造成人员伤亡。\n\n帝国军队被彻底击溃，叛军取得了胜利，没有再有任何人员伤亡。,一位军事领袖明显受到神灵青睐的消息迅速传遍全国，为他赢得了比他最初的事业所能获得的更多支持。\n\n面对人民日益减少的支持，年轻的皇帝被迫上台。,与他的对手达成和解，导致他的改革被撤销，并大赦剩余的叛军，以挽救他的统治。\n\n看来，[mem_primitive_civil_war_planet_owner.GetAdj]文明将暂时保持中世纪状态。"
+ mem_primitive_civil_war.5.a:0 "受到了上天的眷顾吧？"
+

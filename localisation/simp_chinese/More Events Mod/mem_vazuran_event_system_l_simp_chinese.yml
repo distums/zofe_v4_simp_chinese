@@ -1,0 +1,74 @@
+﻿l_simp_chinese:
+ #Vazuran Event System
+ #Text & Code by Malthus
+
+ ########################################################
+ # Ambient Objects
+ ########################################################
+
+ mem_vazuran_event_system_starbase_object:0 "古代碎片场"
+ mem_vazuran_event_system_swarm_large_object:0 "虚空生物的遗骸"
+
+ ########################################################
+ # Technology
+ ########################################################
+
+ tech_mem_scourge_damage_bonus:0 "虚空甲壳的弱点"
+ tech_mem_scourge_damage_bonus_desc:0 "面对另一次蜂群入侵的可能性，唯一合理的行动方针就是尽可能做好准备。,通过获取收集到的样本，我们的科学家将发现这些野兽可能存在的任何弱点——如果它们有的话。,如果他们回来了，我们将需要一切可能的优势来保护我们应得的东西。"
+
+ ########################################################
+ # System 1 Events
+ ########################################################
+
+ # A ship reaches the system
+ mem_vazuran_systems.1.name:0 "墓地"
+
+ ########################################################
+ # Scourge Event Chain
+ ########################################################
+
+ # Scourge Story Line Intro
+ mem_vazuran_systems.1a.desc:0 "[root.GetName] 报告已到达 [root.solar_system.GetName] 系统。,船长描述了一个可怕的场景。,多个行星破碎，整个星系布满了碎片场。,更奇怪的是，看似有机的外壳散布在其中，与我们数据库中的任何内容都不匹配。,需要进一步调查。"
+ mem_vazuran_systems.1.a:0 "开始调查。"
+
+ # Scourge Event Chain
+ mem_vazuran_event_system_scourge_chain_title:0 "遭到破坏的系统"
+ mem_vazuran_event_system_scourge_chain_desc:0 "研究 [mem_vazuran_event_system_01.GetName] 系统中发生的世界末日事件的遗迹。"
+ mem_vazuran_event_system_scourge_projects_researched:0 "已完成调查"
+ 
+ MEM_VAZURAN_EVENT_SYSTEM_SCOURGE_INVESTIGATION_01:0 "生物飞船调查"
+ MEM_VAZURAN_EVENT_SYSTEM_SCOURGE_INVESTIGATION_01_DESC:0 "我们在 [root.solar_system.GetName] 系统中的科学家已经在碎片场中识别出至少两种不同类型的死亡太空生命形式，尽管目前还不清楚它们是否只是同一个物种的不同生长阶段或,完全是两个不同的物种。"
+ 
+ MEM_VAZURAN_EVENT_SYSTEM_SCOURGE_INVESTIGATION_02:0 "碎片调查"
+ MEM_VAZURAN_EVENT_SYSTEM_SCOURGE_INVESTIGATION_02_DESC:0 "在无数的残骸场中，还残留着一些更大的残骸。,它们似乎是我们了解更多有关这里发生的事情的最佳机会。"
+
+ # Finishing Bioship Investigation
+ mem_vazuran_systems.101.name:0 "基因工程？"
+ mem_vazuran_systems.101.desc:0 "在研究了多个样本后，现在很清楚，不同的表型 - 分类为 [root.solar_system.GetName]-X1 和 [root.solar_system.GetName]-X2 - 实际上是不同的物种，尽管共享一些遗传标记和特征。,这两个分类的个体样本之间没有遗传变异，这意味着无性繁殖或克隆。\n\n生物体本身似乎是基因工程的产物，因为自然进化到目前状态的可能性极小。 ,X1 和 X2 都具有异常坚硬的甲壳，其耐用性类似于军用级装甲板，以及似乎充当有机射弹质量驱动器的器官，我们的勘探团队发现了许多仍然埋在各种残骸中的器官。,从废墟来看，他们一定是强大的战士。"
+ mem_vazuran_systems.101.a:0 "令人不安。"
+
+ # Finishing Debris Investigation
+ mem_vazuran_systems.102.name:0 "牺牲与责任"
+ mem_vazuran_systems.102.desc:0 "在花了数周时间探索横跨 [root.solar_system.GetName] 星系的巨大碎片场内的各种残骸后，我们的探索团队取得了重大突破。,在调查其中一艘沉船时，很明显他们已经识别出前舰队的旗舰。,此外，我们发现这艘船还保存着一个完好无损的数据存储，我们的[root.owner.GetScientistResearchSubroutinePlural]能够从中重建大约四千年前在这里发生的事件。\n\n他们的帝国进行了一场殊死的战争,对抗河外虚空生命体的入侵力量，这些生命体正在消耗所有生物量，消耗的生物量越多，它们就越强大。\n\n随着虫群逼近这个曾经繁荣的多个定居世界的人口中心，而这只是象征性的力量,为了及时迎击袭击者，海军上将必须做出艰难的决定。,他知道自己既无法拯救自己的人民，也无法击败敌人，因此决定摧毁星系中的每一个殖民世界，努力阻止敌人获得他们想要的生物量，然后再与他们交战，为其他人民提供生命力。,尽可能多的时间来接近威胁。\n\n海军上将日志的最后一条写道：§S有些人可能会质疑我摧毁拥有数百亿灵魂的行星的权利，但那些理解的人会意识到我有,没有权利让他们活下去。,当我们整个银河系都处于危险之中时，任何牺牲都不会太大。,他们尽了自己的职责，我们也应该...§!\n\n我们的存在似乎就证明他的牺牲没有白费。"
+ mem_vazuran_systems.102.a:0 "许多人的需要超过了少数人的需要。"
+ mem_vazuran_systems.102.b:0 "消灭过程已经结束。,这里不需要我们的服务。"
+ mem_vazuran_systems.102.c:0 "他们真有礼貌……他们净化了自己，这样我们就不用这么做了。"
+ mem_vazuran_systems.102.d:0 "这么多的生物质被浪费了......"
+
+ # Finishing Scourge Event Chain
+ mem_vazuran_systems.103.name:0 "虫群"
+ mem_vazuran_systems.103.desc:0 "了解了这里曾经发生过的事情以及另一次河外入侵的威胁后，我们的 [root.owner.GetScientistResearchSubroutinePlural] 呼吁进行广泛的准备，作为应急措施，以防虫群返回。,据我们所知，这支入侵部队可能只是一支先锋队，尽管它显然有多么危险和威胁。,鉴于这种迫在眉睫的阴影，他们中的一些人已经提出了一项建议，即对现有样本进行深入研究，以便在我们面对这个敌人时找到可能利用的弱点。"
+ mem_vazuran_systems.103.a:0 "我们应该为这种情况做好准备。"
+
+ ########################################################
+ # Colony Trap Event Chain
+ ########################################################
+
+ # Colony Trap Story Line Intro
+ mem_vazuran_systems.1b.desc:0 "代替我"
+ mem_vazuran_systems.1.b:0 "开始调查。"
+
+ # Scourge Event Chain
+ mem_vazuran_event_system_colony_trap_chain_title:0 "遭到破坏的系统"
+ mem_vazuran_event_system_colony_trap_chain_desc:0 "研究 [mem_vazuran_event_system_01.GetName] 系统中发生的世界末日事件的遗迹。"
+ mem_vazuran_event_system_colony_trap_projects_researched:0 "已完成调查"

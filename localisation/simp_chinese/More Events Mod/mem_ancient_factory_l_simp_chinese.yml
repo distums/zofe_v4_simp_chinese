@@ -1,0 +1,10 @@
+﻿l_simp_chinese:
+ mem_ancient_factory_category:0 "不寻常的结构"
+ mem_ancient_factory_category_desc:0 "在[From.GetName]赤道附近有一个由奇怪岩层组成的大型复合体。"
+
+ mem_ancient_factory.10.name:0 "废弃工厂"
+ mem_ancient_factory.10.desc:0 "根据科学官员[Root.GetLeaderName]的调查，[From.GetName]上的奇怪岩层根本不是岩层。,事实上，它们是某种自动化的大型工厂，由不知名的制造商建造，从其破旧的状态来看，很久以前就被废弃了。,尽管损坏严重，无法满足我们自己的需要，但对该综合体的进一步研究可能对我们自己的工厂和自动化系统有用。"
+
+ mem_ancient_factory.20.name:0 "不寻常的结构"
+ mem_ancient_factory.20.desc:0 "[From.From.GetName]上的不寻常岩层就是这样——不寻常的岩层。,它们似乎是某种独立的荒地，太小了，我们的扫描仪无法将其注册为成熟的区域。"
+ mem_ancient_factory.20.a:0 "很好。"

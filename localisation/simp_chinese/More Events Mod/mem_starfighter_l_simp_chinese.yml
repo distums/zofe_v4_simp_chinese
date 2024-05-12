@@ -1,0 +1,26 @@
+﻿l_simp_chinese:
+
+ mem_starfighter_admiral_trait:0 "银河战争冠军"
+ mem_starfighter_admiral_trait_desc:0 "这位领导者是通过玩电子游戏的严格过程从一个原始星球招募而来的。"
+ mem_starfighter_general_trait:0 "$mem_starfighter_admiral_trait$"
+ mem_starfighter_general_trait_desc:0 "$mem_starfighter_admiral_trait_desc$"
+
+ MEM_STARFIGHTER_PROJECT:0 "招募银河战争冠军"
+ MEM_STARFIGHTER_PROJECT_DESC:0 "来自星球 [primitive_civ.Capital_Scope.GetName] 的 [primitive_civ.GetAdj] 年轻人在伪装成电子娱乐的军事模拟方面表现出了很大的潜力。,我们的代理人应该谨慎拜访。"
+
+ mem_starfighter_admiral_modifier:0 "银河战争分析数据"
+ mem_starfighter_general_modifier:0 "$mem_starfighter_admiral_modifier$"
+
+ mem_starfighter.2.name:0 "银河战争"
+ mem_starfighter.2.desc:0 "§Y[From.Capital_Scope.GetName]§! 的居民，尤其是年轻人，将大量空闲时间花在原始电子娱乐上。,这给了我们观察站的研究人员一个想法。 ,\n\n通过制造我们自己的娱乐品牌并秘密地在人群中分发，我们可以衡量它们与我们文明的兼容性并评估进一步的行动方针，甚至可能识别对我们有用的当地人才。,拟议的计划是§SGalaxy Warfare§！ ,- 一系列基于我们的太空和行星军事学说的游戏，适合本地硬件。"
+ mem_starfighter.2.a:0 "一个有趣的想法。,继续。"
+ mem_starfighter.4.name:0 "银河战争冠军"
+ mem_starfighter.4.desc:0 "不久前，我们已经秘密地将基于我们的军事学说的多种形式的电子娱乐插入到§Y[From.Capital_Scope.GetName]§!的原始世界中。,我们从中获得的大部分数据并没有带来太多有趣的结果，但是一位特定的球员引起了我们的注意。"
+ mem_starfighter.4.desc.admiral:0 "$mem_starfighter.4.desc$ \n\n在天基试验期间，[gamer.GetSheHe] 不仅大幅超越了 [gamer.GetHerHis] 同行，甚至还超越了我们自己的军事指挥。 ,[gamer.GetHerHisCap] 得分超出了我们之前认为可能的值约 11%。"
+ mem_starfighter.4.desc.general:0 "$mem_starfighter.4.desc$ \n\n在地面试验中，[gamer.GetSheHe]不仅大幅超越[gamer.GetHerHis]同行，甚至超越了我们自己的军事指挥，展示了令人印象深刻的战术技巧并成功完成了任务,最艰巨的任务，几乎没有人员伤亡。"
+ mem_starfighter.4.a:0 "[gamer.GetSheHeCap] 可以证明对我们来说是宝贵的资产。"
+ mem_starfighter.4.b:0 "将 [gamer.GetHerHis] 玩法融入我们的信条中。"
+ mem_starfighter.5.name:0 "已招募冠军"
+ mem_starfighter.5.desc:0 "我们的绑架航天飞机已成功从 [primitive_civ.Capital_Scope.GetName] 检索到 [gamer.GetName]。,在最初的困惑之后，观察研究人员设法向 [gamer.GetHerHim] 解释了情况。 ,\n\n由于 [gamer.GetHerHis] 在《银河战争》中的技能而收到我们加入我们军事指挥部的邀请，[gamer.GetSheHe] 用一种难以理解的青年俚语进行了激动的长篇大论，这可以合理地解释为“是的” ,\”。"
+ mem_starfighter.5.tooltip.admiral:0 "获得新的§Yadmiral§!。"
+ mem_starfighter.5.tooltip.general:0 "获得新的§Y将军§!。"

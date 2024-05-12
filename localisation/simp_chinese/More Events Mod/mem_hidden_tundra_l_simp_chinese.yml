@@ -1,0 +1,18 @@
+﻿l_simp_chinese:
+ #A hidden Tundra
+ #Idea by Mariawr
+ #Code by wtlnd
+
+ mem_hidden_tundra_category:0 "太空中贫瘠但有趣的岩石"
+ mem_hidden_tundra_category_desc:0 "首席科学家§Y[Root.GetLeaderName]§!,已从 §Y[From.GetName]§! 星球获得了一些有趣的读数。,似乎有必要进行更仔细的调查。"
+
+ mem_hidden_tundra.1.name:0 "这是一颗宜居星球！"
+ mem_hidden_tundra.1.desc:0 "事实证明§Y[From.GetName]§!,正如我们的第一次扫描所示，它并不贫瘠，但实际上是一个苔原世界。,但它看起来仍然是一个相当黯淡的星球。,它的表面几乎毫无特色，几乎没有植物。,然而，我们仍然应该能够在轻微的当地地形改造工作的帮助下进行殖民。,我们还应该建立一个研究前哨站，以了解这样一个星球上的生命是如何存在的。"
+
+ mem_hidden_tundra.2.name:0 "太空中一块贫瘠无趣的岩石"
+ mem_hidden_tundra.2.desc:0 "与 §Y[Root.GetLeaderName]§! 的第一个假设相反，§Y[From.GetName]§!,只是太空中一块死气沉沉、无聊的岩石。,我们应该把研究重点放在其他地方。"
+
+ mem_hidden_tundra.1.fascinating:0 "迷人"
+ mem_hidden_tundra.1.xenophobe:0 "看来害虫的恢复能力很强。"
+
+ mem_hidden_tundra.2.fascinating:0 "迷人"

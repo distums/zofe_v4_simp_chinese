@@ -1,0 +1,17 @@
+﻿l_simp_chinese:
+ #Lost Zoo Anomaly
+ #Code and idea by LamilLerran
+ #Writing by shockedsystem
+ #Note that this comes from a vanilla anomaly category, title "Life Signs" and text
+ #"We have detected life signs coming from somewhere beneath the barren and lifeless surface of this §Y[planet/moon]§!. What manner of organism could possibly live there?"
+ mem_life_barren_category:0 "$life_barren_category$"
+ mem_lost_zoo.8.name:0 "神秘的圆顶"
+ mem_lost_zoo.8.desc:0 "进一步的调查显示，地表有一个大型建筑群，由十几个倒塌的圆顶组成，这些结构一度与地球的其他部分隔绝。,对最大建筑的挖掘发现了一个深入地表两百多米的电梯井。"
+ mem_lost_zoo.8.a:0 "下面可能有什么？"
+ MEM_LOST_ZOO_PROJECT:0 "调查圆顶建筑群"
+ MEM_LOST_ZOO_PROJECT_DESC:0 "§Y[From.GetName]§! 表面的废墟圆顶上有一个很深的电梯井。,如果我们想知道下面是什么，我们就需要进行一次科学考察。"
+ mem_lost_zoo.1.name:0 "古代动物园"
+ mem_lost_zoo.1.desc:0 "沿着这条竖井进行的一次探险在一个巨大的洞穴内发现了一个完整的独立生物群落。,迄今为止，代表至少三个独立热带行星的生物已被编录。,该系统高度自动化，有大量专门的无人机观察、维护，有时还扑杀人口，人为地维护食物循环以及设施本身。,使用洞穴顶部缓慢移动的人造灯条模拟三十七小时的昼夜循环，由埋在地表更深处的地热水龙头供电。\n\n这个人工生态系统估计已有 40,000 多年的历史,旧的，并且开始以自动化系统无法修复的方式崩溃。 ,§Y[Root.GetLeaderName]§!,估计该设施将在下一个千年左右达到严重故障点。"
+ mem_lost_zoo.1.a:0 "分解机械并对技术进行逆向工程。"
+ mem_lost_zoo.1.b:0 "把它变成解剖实验室。"
+ mem_lost_zoo.1.c:0 "把它变成保护区。"

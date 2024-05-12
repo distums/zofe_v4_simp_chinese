@@ -1,0 +1,36 @@
+﻿l_simp_chinese:
+
+ mem_beached_category: "搁浅"
+ mem_beached_category_desc: "我们正在注册来自 §Y[This.GetName]§! 的生命信号。,读数与蒂扬基太空鲸一致，但异常微弱。"
+
+ mem_beached.1.name: "失落的蒂扬基"
+ mem_beached.1.desc: "对 [From.GetName] 的进一步扫描显示，小行星表面的一个大裂缝中有一只雌性蒂扬基人。,显然，这个生物的日子过得更好了。 ,\n\n此刻，她没有任何反应，似乎正在冬眠。,她的皮肤上有相当多的伤疤，表明她在某个时候受到攻击并与她的牛群分离，或者是牛群中最后一个幸存的成员。,她利用小行星来隐藏和恢复，但她的伤口似乎太严重而无法自行愈合。"
+ mem_beached.1.a: "想办法帮助她。"
+ mem_beached.1.b: "顺其自然吧。"
+ mem_beached.1.c: "活体解剖的绝佳机会。"
+ mem_beached.1.d: "鲜肉！"
+ mem_beached.2.name: "Tiyanki 治疗"
+ mem_beached.2.desc: "我们对 Tiyanki 解剖学的理解远非完美，但是§Y[leader.GetName]§! ,[Leader.GetHerHis] 尽力了。 ,\n\n仔细检查后发现她的皮下有几个重金属物体。,它们似乎是专门设计来嵌入太空鲸的软组织内的，从而阻止自然愈合过程。,一旦被发现，去除它们并不困难，经过适当的烧灼和注射数吨类似 Tiyanki 血液的合成类似物后，该生物开始迅速康复。 ,\n\n她已经恢复了知觉，似乎很清楚我们的帮助，所以她留在附近，似乎在衡量我们友谊的程度。"
+ mem_beached.2.a: "采用蒂扬基。"
+ mem_beached.2.b: "让她离开，获得自由。"
+ mem_beached.3.name: "命名 Tiyanki"
+ mem_beached.3.desc: "我们新收养的宠物Tiyanki在[Owner.GetAdj]市民中很受欢迎。,已经为她提交了许多名字建议。"
+ mem_beached_3.no_name: "她不需要名字。"
+ mem_beached_3.flopsy: "弗洛普西。"
+ mem_beached_3.jewel: "宝石。"
+ mem_beached_3.candy: "糖果。"
+ mem_beached_3.greenie: "格林尼。"
+ mem_beached_3.crystal: "水晶。"
+ mem_beached_3.starlight: "星光。"
+ mem_beached_3.salad: "沙拉。"
+ mem_beached.4.name: "[Root.GetName] 诞生"
+ mem_beached.4.desc: "由于我们对 Tiyanki 生理学的了解有限，这一发现让我们感到惊讶，但 [Root.GetName] 显然一直在酝酿之中。,据推测，当她受伤时，这个过程暂停了，当我们治疗她时，这个过程又恢复了，但今天她生下了三只健康的小牛。"
+
+ MEM_BEACHED_PROJECT: "治疗受伤的蒂扬基"
+ MEM_BEACHED_PROJECT_DESC: "我们可能对 Tiyanki 的解剖学了解不多，但这个看起来不太好。,我们或许可以帮助她。"
+
+ mem_beached_space_whale_child_section: ""
+ mem_beached_space_whale_section: ""
+
+ mem_beached_vigor: "杂散活力"
+ mem_beached_wound: "旧伤"

@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+ # Accelerated Evolution
+ # Idea and Writing by ForeMole
+ # Code by LamilLerran
+ mem_accelerated_evolution_modifier:0 "加速进化"
+ mem_accelerated_evolution_modifier_desc:0 "这个星球上的生命以极快的速度进化。"
+ mem_accelerated_evolution.1.name:0 "加速进化"
+ mem_accelerated_evolution.1.desc:0 "在§Y[Root.GetName]§!生活了几个月后，殖民者注意到周围的环境有些奇怪。,物种似乎每个月都会发生巨大变化。,根据殖民地管理的命令，进行了一项快速研究。,它揭示了本土动植物群拥有令人难以置信的快速进化过程。,看来这个世界上的所有物种的生命周期都比平均水平短，并且有性和无性繁殖迅速，这意味着它们的进化周期比正常情况要快得多。,结果，这个星球的自然环境处于不断变化的状态。\n\n一方面，反复适应的当地生物圈阻止了殖民者真正融入——普通的进化周期是无法做到的。,另一方面，研究当地动物的不断进化和快速繁殖可能会导致农业和进化科学的进步。,不管怎样，行星的生物圈太复杂了，无法进行如此大规模的改变。,无论好坏，殖民者都背负着这样的负担。"
+ mem_accelerated_evolution.1.a:0 "好吧，如果我们无能为力的话..."

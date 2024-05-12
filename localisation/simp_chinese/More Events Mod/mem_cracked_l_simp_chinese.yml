@@ -1,0 +1,44 @@
+﻿﻿#Cracked
+#Idea and code by ViolentBeetle
+#Text by anael and ViolentBeetle
+
+l_simp_chinese:
+
+ mem_cracked_category:0 "破裂"
+ mem_cracked_category_desc:0 "断层线网覆盖了这颗小行星，但它们并非源自外部撞击——就好像它是从内部破裂的。,我们的仪器检测到小行星发出的微弱能量信号。"
+
+ mem_cracked.1.name:0 "入境点"
+ mem_cracked.1.desc:0 "[Root.GetName] 报告对 §Y[From.GetName]§! 进行深度渗透扫描,在它的表面下发现了一个不寻常的物体——就在断层线被认为起源的地方。 ,\n\n关于该物体的猜测已经猖獗，但是§Y[Root.Leader.GetName]§!,相信结果表明一艘船不知何故被困在小行星内部。,最初的传输之后，小行星内部立即发生了震动。,无论它内部有什么，这颗小行星都不会长期保持稳定。"
+ mem_cracked.1.a:0 "找到一种方法来提取这艘船。"
+ mem_cracked.1.b:0 "尝试保护该地点以供长期研究。"
+ mem_cracked.1.c:0 "研究造成这种现象的奇怪现象。"
+
+ MEM_CRACKED_CUT_OUT:0 "萃取"
+ MEM_CRACKED_CUT_OUT_DESC:0 "无论被困在小行星内的是什么，我们都需要精密采矿设备来将其安全地取出。,一艘建筑船可以完成这项工作。"
+
+ mem_cracked.2.name:0 "来自彼岸的战舰"
+ mem_cracked.2.desc:0 "确实有一艘船被困在小行星内。,它看似主要由能量场组成，但其外观和功能与我们自己的技术非常不同。,里面没有发现船员。 ,\n\n我们的发现表明这艘船起源于我们当前的维度之外，这给 [Owner.GetAdj] 科学界提出了许多需要思考的问题。,尽管其设计不寻常，但它仍然可以重新调整用途，在我们的军事舰队中服役。"
+ mem_cracked.2.tooltip:0 "一艘新的§Y军舰§！,将加入我们的帝国。"
+
+ mem_cracked.3.name:0 "来自彼岸的科学飞船"
+ mem_cracked.3.desc:0 "确实有一艘船被困在小行星内。,它看似主要由能量场组成，但其外观和功能与我们自己的技术非常不同。,里面没有发现船员。 ,\n\n我们的发现表明这艘船起源于我们当前的维度之外，这给 [Owner.GetAdj] 科学界提出了许多需要思考的问题。,尽管其设计不同寻常，但它仍然可以重新调整用途，为我们的勘探船队服务。"
+ mem_cracked.3.tooltip:0 "一艘新的§Y科学船§！,将加入我们的帝国。"
+
+ mem_cracked.4.name:0 "失败"
+ mem_cracked.4.desc:0 "撤离人员误读了对小行星内部活动的调查，并通过不明智的钻探引发了小行星的彻底毁灭。,然而，确实有一艘船被困在小行星内部。,检查其残骸将为这艘奇怪的船提供一些令人着迷的科学数据，该数据与我们尚未发现的任何船只或材料都没有相似之处。"
+ mem_cracked.4.a:0 "本来可以更好。"
+
+ mem_cracked.5.name:0 "岩石杰克"
+ mem_cracked.5.desc:0 "我们几乎猜对了——除了被困在小行星内的不是一艘船，而是两艘。,当我们把它们从岩石中救出来后，两艘船立即启动并将武器系统指向我们。"
+ mem_cracked.5.a:0 "必须遏制那些入侵者。"
+
+ mem_cracked_ship_mod:0 "超凡脱俗的能量"
+ mem_cracked_ship_war_buff:0 "超凡脱俗的能量"
+
+ mem_cracked.10.name:0 "空间裂缝"
+ mem_cracked.10.desc:0 "无论是什么粉碎了小行星§Y[From.GetName]§！,当[Root.GetName]接近进行第二次扫描时，它已经消失在一阵刺耳的能量声中。,从事故中恢复过来后，我们的船员报告说，他们的船体被这位奇怪的旅行者奇怪地改变了。,无论其起源如何，他们的技术都引发了关于能够撕裂太空结构的超光速推进器的理论争论。"
+ mem_cracked.10.a:0 "多么奇怪..."
+
+ mem_cracked.9999.name:0 "失败"
+ mem_cracked.9999.desc:0 "尽管[Leader.GetHerHis]尽了最大努力，[Leader.GetName]仍无法确定神秘裂缝在§Y[FromFrom.GetName]§!中蔓延的原因。,这肯定是一次反常事故，它很可能永远超出我们的知识范围，让我们只能研究其后果。"
+ mem_cracked.9999.a:0 "太可惜了。"

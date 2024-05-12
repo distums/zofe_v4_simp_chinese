@@ -1,0 +1,20 @@
+﻿l_simp_chinese:
+
+####################################
+# Ex-Planet Project
+# by mem_ex_planet
+####################################
+
+ mem_ex_planet.301.title:0 "一个有趣的发现"
+ mem_ex_planet.301.desc:0 "我们位于 [mem_ex_planet.GetName] 的采矿站报告说，他们发现了一些非常有趣的东西：化石！,他们在最新挖掘的矿石中发现了类似大型昆虫的生命体化石。,我们对 [mem_ex_planet.GetName] 的初步调查表明，这颗小行星是一颗爆炸的行星的碎片。,我们还在岩石中发现了早已死亡的细菌的痕迹，但这是我们第一次表明该行星存在宏观生命形式。,矿工们正在请求一艘科学船进行调查。"
+ mem_ex_planet.301.a:0 "我们将立即派出一艘船。"
+ mem_ex_planet.301.b:0 "目前我们所有的船只都很繁忙。"
+ 
+ MEM_EX_PLANET_PROJECT:0 "化石调查"
+ MEM_EX_PLANET_PROJECT_DESC:0 "一个采矿站在一颗破碎星球的废墟中发现了类似昆虫的生命形式的化石。,他们正在请求一艘科学船进行调查。"
+ 
+ mem_ex_planet.303.title:0 "行星遗迹"
+ mem_ex_planet.303.desc:0 "我们的科学船已证实在 [mem_ex_planet.GetName] 发现了化石 - 不仅仅是一些化石，而是一整套化石！,居住在分裂形成 [mem_ex_planet.GetName] 的行星上的生命形式具有许多不寻常的特征，获得它们的遗骸无疑将大大扩展我们的生物学知识。"
+ mem_ex_planet.303.a:0 "出色的！"
+ 
+ mem_d_ex_planet_society_deposit:0 "£社会+8\n"

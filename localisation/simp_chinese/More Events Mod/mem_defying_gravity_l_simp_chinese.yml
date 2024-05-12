@@ -1,0 +1,53 @@
+﻿﻿#Defying Gravity Anomaly
+#By ViolentBeetle
+
+l_simp_chinese:
+
+ #Anomaly
+ mem_defying_gravity_category:0 "克服重力"
+ mem_defying_gravity_category_desc:0 "我们正在检测到某种物体悬停在 [Root.GetName] 上方，其高度根据我们对物理学的理解，它应该很久以前就坠落在 [Root.GetPlanetMoon] 的表面。"
+
+ #Events
+ mem_defying_gravity.100.name:0 "幻读"
+ mem_defying_gravity.100.desc:0 "经过反复调查，[Root.GetName] 报告说，所谓“悬停”在 [From.GetName] 上方的奇怪物体实际上是传感器读取不当的结果。 ,\n\n似乎是大气中的静电扰乱了我们的校准，导致一些扫描中出现了幻影物体。,尽管总体上令人失望，但这仍然是一个值得研究的有趣现象。"
+ mem_defying_gravity.100.a:0 "有点虎头蛇尾。"
+
+ mem_defying_gravity.200.name:0 "广告飞艇"
+ mem_defying_gravity.200.desc:0 "[Root.GetName] 报告说，在 [From.GetName] 上空盘旋的神秘物体实际上是一个明亮的平台，通过反重力悬浮并广播似乎是商业信息。 ,\n\n初步分析表明该平台已有2000多年的历史。,建造它的人可能早已去世，但他们对 moochwazarxes 的慷慨折扣的信息仍然永恒。"
+ mem_defying_gravity.200.a:0 "moochwazarx 到底是什么？"
+ mem_defying_gravity.200.a.tooltip:1 "额外的 $job_culture_worker$ 和 $job_researcher$ 职位空缺已添加到 [From.GetName]。"
+ mem_defying_gravity.200.burden:1 "这是消费主义颓废的堕落象征！"
+ mem_defying_gravity.200.burden.tooltip:1 "如果我们对广告不感兴趣，我们不会从中获得额外的 $job_culture_worker$ 工作机会。"
+ mem_defying_gravity.200.corp:1 "我们应该尽可能地学习他们的技术。"
+ mem_defying_gravity.200.corp.tooltip:1 "与其他企业相比，巨型企业从中获得了一份额外的 $job_culture_worker$ 工作。"
+ mem_defying_gravity.200.gest:1 "到底什么是“广告”？"
+
+ mem_defying_gravity.300.name:0 "悬浮小行星"
+ mem_defying_gravity.300.desc:0 "[Root.GetName] 报告说，悬浮在 [From.GetName] 上空的奇怪物体实际上是一颗普通的小行星。 ,\n\n真正的奇怪之处就位于它的正下方——一个巨大的复合体，发出某种光束，防止小行星落到表面上。,该综合体似乎是完全自主的，并且在地球上没有检测到其他高级生命的迹象。"
+ mem_defying_gravity.300.a:0 "谁在这里建造的？,为什么？"
+ mem_defying_gravity.300.a.tooltip:0 "$d_mem_defying_gravity_field_generator_deposit$"
+
+ mem_defying_gravity.301.name:0 "未暂停"
+ mem_defying_gravity.301.desc:0 "由于 [Root.GetName] 上的 $d_mem_defying_gravity_field_generator_deposit$ 停用，其上方的小行星继续畅通无阻地航行并撞向地球，留下了一个巨大的陨石坑。"
+ mem_defying_gravity.301.a:0 "那好吧..."
+ mem_defying_gravity.301.a.tooltip:0 "[Root.GetName] 的表面出现了一个新的 £blocker 陨石坑。"
+
+ mem_defying_gravity.400.name:0 "海的影子"
+ mem_defying_gravity.400.desc:0 "[Root.GetName] 报告了一些真正奇怪的事情。 ,\n\n看起来悬挂在 [From.GetName] 上方的对象根本不是一个对象。,事实上，这是一种视错觉，是由覆盖地球部分地区的奇异粒子的平坦“海洋”引起的。,不知何故，这会产生一个虚幻的球体，悬停在所述颗粒的最大浓度上方。 ,\n\n奇异粒子本身不应妨碍表面的生命，但可能会提供有关各种形式的奇异物质的大量数据。"
+ mem_defying_gravity.400.a:0 "这绝对值得研究。"
+
+ #Modifiers
+ mem_defying_gravity_strange_thing:0 "海的影子"
+ mem_defying_gravity_strange_thing_desc:0 "这颗行星上布满了被奇异物质覆盖的区域，在天空中反射出一个巨大的球体。"
+
+ static_planet_resource_society_research_add:0 “每月社会研究”#似乎普通文件中没有任何内容可供复制，但这听起来不错。
+
+ #Ambient Objects
+ mem_defying_gravity_blimp:0 "广告飞艇"
+ mem_defying_gravity_asteroid:0 "悬浮小行星"
+
+ #Deposit
+ d_mem_defying_gravity_field_generator_deposit:0 "悬浮磁场发生器"
+ d_mem_defying_gravity_field_generator_deposit_desc:0 "一种神秘的结构，可产生定向悬浮场，防止大型小行星坠落到地表。 ,\n\n§R移除它可能会导致小行星继续坠落。§!"
+ d_mem_defying_gravity_blimp_deposit:0 "广告飞艇"
+ d_mem_defying_gravity_blimp_deposit_desc:0 "一个小电台盘旋在这个星球上空，广播有关打折的 moochwazarxes 的重要信息。"

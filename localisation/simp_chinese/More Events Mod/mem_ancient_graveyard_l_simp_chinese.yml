@@ -1,0 +1,18 @@
+﻿﻿#An Ancient Graveyard
+#Idea by ViolentBeetle
+#Code by BLimmie (Oppen_heimer)
+l_simp_chinese:
+  
+mem_ancient_graveyard_category:0 "奇怪的模式"
+mem_ancient_graveyard_category_desc:0 "我们的传感器从地球表面的一个大山谷中获取了奇怪的读数。,山谷里似乎布满了排列成规则网格图案的小金属尖刺。,然而，这些尖峰太小，无法从轨道上正确辨别。,我们应该更仔细地审视它们。"
+
+mem_ancient_graveyard.1.name:0 "许多人最后的安息之地"
+mem_ancient_graveyard.1.desc:0 "我们的调查小组在山谷中发现了近十亿支朝上的原始脉冲步枪，每支枪口的顶部似乎都有一个外星人设计的带护目镜的头盔。,这个山谷似乎是无数在一场早已被遗忘的战争中阵亡的士兵的安息之地。,尽管在近真空中保存完好，但我们的科学家对原始步枪的设计兴趣不大。,对地下地面的深度扫描也没有发现任何有价值的东西。,似乎我们永远不会知道亿万年前这里到底发生了什么。"
+
+mem_ancient_graveyard.2.name:0 "误报"
+mem_ancient_graveyard.2.desc:0 "看起来奇怪的图案只不过是传感器校准不当引起的回声。,我们的调查团队在那里没有发现任何东西，第二次传感器扫描也没有重复之前的结果。"
+
+mem_ancient_graveyard.1.default:0 "让他们安息吧。"
+mem_ancient_graveyard.1.xenophobe:0 "更多死去的异形，是吗？"
+
+mem_ancient_graveyard.2.dissapointing:0 "令人失望。"

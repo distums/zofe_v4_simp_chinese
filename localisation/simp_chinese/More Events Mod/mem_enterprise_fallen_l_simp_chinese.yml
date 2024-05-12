@@ -1,0 +1,33 @@
+﻿l_simp_chinese:
+
+ d_mem_ancient_library_deposit:0 "古代图书馆"
+ d_mem_ancient_library_deposit_desc:0 "尽管建造这个地方的文明早已消失，但它的文字至今仍然存在。"
+
+ mem_enterprise_fallen_category:0 "古遗址"
+ mem_enterprise_fallen_category_desc:0 "我们的调查团队在 §Y[From.GetName]§! 上发现了一些相对完整的建筑物,这可能值得调查。"
+ mem_enterprise_fallen.1.name:0 "大图书馆"
+ mem_enterprise_fallen.1.desc:0 "我们的科学团队中了大奖。,他们正在探索的古老建筑群原来是这个古老文明的某种伟大图书馆。,研究存储在那里的所有内容需要数年甚至数十年的时间。"
+ 
+ mem_enterprise_fallen.2.name:0 "没有新发现"
+ mem_enterprise_fallen.2.desc:0 "尽管这些古建筑相对完整，但我们的科学团队找不到任何可以进一步了解其前居民的信息。,所有人员均已返回 §Y[Root.GetName]§!,并准备继续前进。"
+ 
+ mem_enterprise_fallen.3.name:0 "堕落者星舰"
+ mem_enterprise_fallen.3.desc:0 "对这个坟墓世界和我们发现的历史文献的进一步研究表明，它的前居民可能比我们之前想象的更先进。,从地表回收的文件和示意图包括对一艘先进星舰的详细检查。,这可能值得进一步调查。"
+ mem_enterprise_fallen.3.a:0 "确实很有趣。"
+ 
+ MEM_ENTERPRISE_FALLEN_PROJECT:0 "堕落者星舰"
+ MEM_ENTERPRISE_FALLEN_PROJECT_DESC:0 "我们的科学团队致力于§Y[ruins_planet.GetName]§！,正在请求更多人员来了解有关这艘船及其可能位置的更多信息。"
+ 
+ mem_enterprise_fallen.4.name:0 "堕落者星舰"
+ mem_enterprise_fallen.4.desc_default:0 "调查发现了一份详细的档案，可能需要数年时间才能完整研究。,然而，直接的结论是明确的：被称为“项目”的船只并不存在。\n\n它从未存在过。 ,§Y[ruins_planet.GetName]§! 的居民,具有非常有创意的想象力，对探索太空有着广泛的幻想。 ,“项目”是一艘虚构的飞船，“开辟了一条通往星星的道路”。\n通过档案分析无法收集到任何研究数据，但收藏家或娱乐业可能会对它感兴趣。"
+ mem_enterprise_fallen.4.desc_xenophile:0 "调查发现了一份详细的档案，可能需要数年时间才能完整研究。,然而，直接的结论很明确：被称为“活动”的容器并不存在。\n\n真遗憾。 ,§Y[ruins_planet.GetName]§! 的居民,他们很像我们——他们梦想着陌生的新世界和文明，并创造了一个关于他们认为太空是什么样子的冗长的连续冒险故事。,星舰“活动”及其勇敢的船长将非常适合我们的海军 - 如果只有 §Y[ruins_planet.GetName]§ 的人民就好了！,幸存下来。\n\n我们会记住他们。 ,§Y[Root.GetLeaderName]§!,创建了一个程序将档案翻译成我们的语言。,只要下达命令，我们就会将其传播到民众中。\n\n如果它足够受欢迎，我们甚至可以制作新剧集。,让这些航行继续下去。"
+ mem_enterprise_fallen.4.desc_xenophobe:0 "§Y[ruins_planet.GetName]§! 的居民,即使按照外星人的标准，也是扭曲的。,查看他们的录音后发现§Y[Root.GetLeaderName]§！,永久精神错乱。,他们所谓的船，现在被我们称为“挑战者”号，只不过是一部肥皂剧。,尽管如此，很高兴看到他们的愚蠢行为被写在他们星球上的核弹坑中。\n\n尽管这些录音对我们的科学家来说毫无用处，但我们可以出于宣传目的对其进行编辑，或者干脆将它们卖给……收藏家。,只要下达命令即可。"
+ mem_enterprise_fallen.4.a:0 "将所有东西卖给出价最高的人。"
+ mem_enterprise_fallen.4.b:0 "把磁带卷起来！"
+ mem_enterprise_fallen.4.c:0 "向我们的人民展示当纯洁性动摇时会发生什么。"
+ 
+ mem_enterprise_fallen.4.b.tooltip:0 "（和平主义流行音乐）：§Y大胆前行§！,为 §Y12§! 添加了修饰符,个月，产生以下效果：\n 幸福感：§G+5%§!\n 道德分歧：§G-5%§!"
+ mem_enterprise_fallen.4.c.tooltip:0 "（排外流行音乐）：\n §Y恶意欢乐§!,为 §Y12§! 添加了修饰符,月，给予§G+5%§!,幸福"
+ 
+ mem_boldly_going:0 "大胆前行"
+ mem_malicious_joy:0 "恶意的喜悦"

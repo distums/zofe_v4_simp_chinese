@@ -1,0 +1,85 @@
+﻿﻿# Crawler
+# By ViolentBeetle
+
+l_simp_chinese:
+
+ trait_mem_crawler_pet_owner: "宠物爬行者"
+ trait_mem_crawler_pet_owner_desc: "这位领导者自豪地拥有一只独一无二的宠物爬行器。"
+ trait_mem_crawler_pet_owner_cloned: "宠物爬行者"
+ trait_mem_crawler_pet_owner_cloned_desc: "这位领导者自豪地拥有宠物爬行器。"
+ trait_mem_crawler_pet_owner_ruler: "$trait_mem_crawler_pet_owner$"
+ trait_mem_crawler_pet_owner_ruler_desc: "$trait_mem_crawler_pet_owner_desc$"
+ 
+ mem_crawler_anomaly: "孤独的生命标志"
+ mem_crawler_anomaly_desc: "在 [This.GetName] 原本毫无生气的表面上检测到微弱的生命迹象。"
+ 
+ mem_crawler.1.name: "盒子里的虫子"
+ mem_crawler.1.desc: "在跟踪 §Y[From.GetName]§! 表面检测到的生命迹象后，[Leader.GetName] 发现了它的来源 - 一个用螺栓固定在小行星表面的大玻璃盒。,在里面，[Leader.GetSheHe]发现了一个巨大的生物。 ,\n\n它细长的分段身体，长约40厘米，覆盖着黑色的甲壳板，由138条腿支撑。,它的尾部有倒刺，头部有一张大嘴，上面有两个巨大的下颌骨，长着敏感的长毛和18颗大小不一的珠子，其中一半正在看着[Leader.GetName]，默默地评判着[Leader.GetName]。 ,.GetHerHim]。 ,\n\n有人故意把这个容器放在这里，里面有足够的电力和补给，可以让这个生物存活很多年。,问题是：我们现在该怎么办？"
+ mem_crawler.1.a: "将这个生物交由 [Leader.GetName] 照顾。"
+ mem_crawler.1.xenophile: "它真可爱！,我们应该照顾它。"
+ mem_crawler.1.b: "将其带到 [Owner.Capital_Scope.GetName] 进行解剖。"
+ mem_crawler.1.c: "杀了它！,用火杀死它！"
+ mem_crawler.1.swarm: "让[Leader.GetName]吃掉这个生物。"
+ 
+ mem_crawler.2.name: "宠物爬行者"
+ mem_crawler.2.desc: "随着其前任所有者的去世，爬行器已被传递给 [new_owner.GetName]。 ,\n\n[new_owner.GetSheHeCap] 承诺会好好照顾这个生物。"
+ mem_crawler.2.desc.machine: "在其之前的看守单位退役后，该爬行器被交由 [new_owner.GetName] 管理。"
+ mem_crawler.2.tooltip: "§Y[new_owner.GetName]§!,成为爬行者的新主人。"
+ 
+ mem_crawler.4.name: "宠物爬行者"
+ mem_crawler.4.desc: "报告显示，[From.Leader.GetName] 照顾的宠物爬行者在最近的一次交战中丧生。"
+ mem_crawler.4.a: "耻辱。"
+ 
+ mem_crawler.5.name: "宠物爬行者"
+ mem_crawler.5.desc: "在[crawler_owner.GetName]的照顾下，爬虫表现出比预期更聪明的表现。 ,\n\n这种生物能够识别路过的个体并与他们建立联系，当负责喂养它或维护其栖息地的人接近时，它会表现出兴奋。,当不被打扰时，它似乎实际上非常友好，有时甚至很顽皮。"
+ 
+ mem_crawler.6.name: "爬虫已死"
+ mem_crawler.6.desc: "[crawler_owner.GetName] 报告说，[crawler_owner.GetHerHis] 照顾的爬行者生物已经死亡。 ,\n\n今晚，它最后一次躺在加热灯下它最喜欢的地方，盘成一团，停止了呼吸。,从那以后就没有检测到任何生命迹象，而该生物的高龄可能是罪魁祸首。,由于我们仍然没有关于这种生物的起源以及其他地方是否有其他爬行者的信息，因此我们很可能目睹了该物种的完全灭绝。"
+ mem_crawler.6.a: "安息。"
+ mem_crawler.6.b: "宣布全国爬行器感谢日。"
+ mem_crawler.6.c: "现在我们可以安全地解剖它了。"
+ mem_crawler.6.d: "这不一定是结束。"
+ 
+ mem_crawler.10.desc: "我们注意到，你们的一位公民 [crawler_owner.GetName] 收养了一种外星生物，你们称之为§YCrawler§！,作为一个宠物。 ,\n\n所述生物与 [request_sender.GetName] 的神圣文本中的描述相匹配 - 一个强大的恶魔，虚空吞噬者，黑暗者。,最重要的是，在怪物变得更强大之前杀死它。"
+ mem_crawler.10.a: "我们不会因为某些传说而杀死我们的宠物。"
+ mem_crawler.10.a.mat: "这太愚蠢了。,你好傻。"
+ mem_crawler.10.a.spi: "我们的经文没有提及任何此类内容。"
+ mem_crawler.10.b: "很好。,将会完成。"
+ mem_crawler.10.b.tooltip: "爬行者将从我们手中移走。"
+ mem_crawler.11.desc: "问候。 ,\n\n我们的 [request_sender.GetRulerTitle] [request_sender.Ruler.GetName] 是一个伟大的奇异生物收集者。,我们注意到你发现了一种独特的生物，你称之为爬行者。 ,\n\n如果您愿意出售它，我们将向您支付 £energy §Y1000§!。,我们有协议吗？"
+ mem_crawler.11.a: "没有成交。"
+ mem_crawler.11.b: "交易。"
+ mem_crawler.11.b.tooltip: "爬行器将从我们手中移走，并转移到 [request_sender.Ruler.GetTitle] [request_sender.Ruler.GetName] 的动物园。"
+ mem_crawler.12.desc: "作为这个银河系生命的保护者，收集濒临灭绝的物种是我们的宣誓职责。,我们对被你们称为“爬行者”的生物很感兴趣。 ,\n\n如果您愿意将其交给我们，我们将不胜感激。,我们保证，我们会好好照顾它。"
+ mem_crawler.12.a: "不会发生。"
+ mem_crawler.12.b: "很好。"
+ mem_crawler.12.b.tooltip: "$mem_crawler.10.b.tooltip$"
+ 
+ mem_crawler_harboring: "藏有恶魔"
+ mem_crawler_killed: "杀死了恶魔"
+ mem_crawler_denied_request: "拒绝出售爬行器"
+
+ tech_mem_crawler_physiology: "爬行者生理学"
+ tech_mem_crawler_physiology_desc: "我们从小行星上捡到的爬行生物具有非常不寻常的生理机能。,但在不伤害这种生物的情况下进行非侵入性研究仍然是可能的，并找出它如此独特的原因。"
+ mem_crawler_cloning_possibility: "§H解锁可能性：§!,爬行器重新填充。"
+ mem_crawler_cloning_possibility_desc: "将来，我们也许可以使用§YCrawler§！,恢复其种群的遗传物质。"
+
+ mem_crawler_cloned_pets: "履带宠物"
+ mem_crawler_cloned_pets_desc: "恢复后的爬虫种群被我们的人们饲养为忠诚而聪明的宠物。"
+ mem_crawler_cloned_pets_tooltip: "增加领导者获得特殊特质的机会"
+
+ MEM_CRAWLER_CLONING_PROJECT: "克隆爬虫"
+ MEM_CRAWLER_CLONING_PROJECT_DESC: "爬行者长期以来一直是忠实的宠物，但它的死亡并不一定意味着其物种的终结。,利用我们在它还活着时收集的数据，以及它的细胞和组织的死后样本，我们可以使用克隆技术来恢复它的种群。"
+
+ mem_crawler.13.name: "爬虫克隆成功"
+ mem_crawler.13.desc: "利用我们的生理学知识，我们能够使爬行者的某些细胞培养物恢复活力并引发自体受精繁殖。,第一批履带卵现已孵化。 ,\n\n看来该物种是自然可变的，通过一些细微的调整，我们能够在其遗传密码中引入足够的差异，以实现稳定的繁殖，并避免密切相关的小种群中常见的遗传崩溃。"
+ mem_crawler.13.a: "我们可以将它们作为宠物重新分配到整个帝国。"
+ mem_crawler.13.b: "我们应该建立一个自然保护区。"
+ mem_crawler.13.b.tooltip: "允许一次性决定创建§Y爬行者保护区§！ ,- 独特的不可拆卸阻挡器。"
+
+ decision_mem_crawler_sanctuary: "建立爬行者保护区"
+ decision_mem_crawler_sanctuary_desc: "将预留大片区域并进行改造，以适应爬行者的自然偏好。"
+
+ d_mem_crawler_sanctuary: "爬行者保护区"
+ d_mem_crawler_sanctuary_desc: "一个经过精心改造的特殊区域，以满足爬行者的生理需求。,数以千计的生物可以称之为家。"
+ mem_crawler_cant_clear_sanctuary: "爬行者庇护所无法被移除。"

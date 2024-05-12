@@ -1,0 +1,38 @@
+﻿l_simp_chinese:
+ 
+ ########################
+ # Tomb World Matrix
+ # by Malthus, proofread by Talanic
+ ########################
+ 
+ # Initial Anomaly Text
+ mem_matrix_category:0 "古代建筑"
+ mem_matrix_category_desc:0 "§Y[From.GetName]§! 的轨道扫描,在这个被毁坏的世界的古代废墟中发现了一个完整的结构。,需要进一步调查。"
+ 
+ # Matrix Anomaly Success
+ mem_matrix.1.name:0 "令人震惊的启示"
+ mem_matrix.1.desc:0 "这座古老建筑群是由某种基本的人工智能维护的。,该计算机系统似乎没有注意到我们的团队进入大楼。,在这座建筑群的更深处，一个令人震惊的发现等待着我们的科学家：数千名人形外星人被限制在豆荚状的结构中，并连接到一台中央计算机！,他们表现出非常高水平的大脑活动。,该系统似乎让这些居民在被限制在豆荚中的同时保持活力，甚至繁殖替代品以弥补损失。,首席科学家§Y[Root.GetLeaderName]§!,相信需要一些时间来研究数据库并找出这个地方的用途。"
+ mem_matrix.1.a:0 "令人不安。"
+ 
+ # Matrix Anomaly Failure
+ mem_matrix.2.name:0 "只是一个故障"
+ mem_matrix.2.desc:0 "肯定是扫描仪出现故障。,我们的调查小组在指定地点除了废墟和碎片之外什么也没发现。"
+ mem_matrix.2.a:0 "好吧，让我们继续吧。"
+ 
+ # Matrix Anomaly Critical Failure
+ mem_matrix.3.name:0 "古代防御网格"
+ mem_matrix.3.desc:0 "当§Y[Root.GetLeaderName]§!,而调查小队的其他人，在进入古建筑后，不知不觉间启动了自动防御系统。,他们的求救信号被猛烈的枪声和建筑物的倒塌淹没了。,他们都没有活着出来……"
+ mem_matrix.3.a:0 "可怕！"
+ 
+ # Matrix Complex Investigation Project
+ MEM_MATRIX_INVESTIGATION:0 "古老建筑群"
+ MEM_MATRIX_INVESTIGATION_DESC:0 "我们的科学家想要研究在 §Y[From.GetName]§ 上发现的控制论复合体。"
+ 
+ # Get the building and some research
+ mem_matrix.5.name:0 "神经网络"
+ mem_matrix.5.desc:0 "对存储数据的详细分析揭示了这个建筑群的历史。,它曾经是某种监狱，也是专门从事神经连接和人工智能研究的科学研究所。,当他们的第一个具有自我意识的人工智能使用行星核武器库来进行自己的研究时，他们最大的胜利却产生了可怕的事与愿违。,由此产生的大火已经清除了整个星球的生命——除了这个设施的内容。,从那时起，AI慢慢地改写了自己，变得越来越被动。,它为囚犯创造了多层现实体验，让他们保持平静，让他们相信自己过着正常的生活，并确保他们不知道自己处境的真相。,人工智能本身已经痴迷于这样一种观念，即现实是一种幻觉——它本身不是计算机，而是计算机的模拟，只是另一个存在平面中程序的一部分。,人工智能的程序已经深深地陷入了这种递归之中，以至于在不破坏整个系统的情况下不可能访问它。,然而，由于它目前仅使用其可用资源的一小部分，因此我们可以随意使用超级计算机的其余部分。"
+ mem_matrix.5.a:0 "很有意思。"
+ 
+ # Matrix Complex Description
+ d_mem_matrix:0 "神经计算机复合体"
+ d_mem_matrix_desc:0 "一个古老的研究综合体——容纳了数千个相互连接的生物——就像一台巨型计算机一样工作。"

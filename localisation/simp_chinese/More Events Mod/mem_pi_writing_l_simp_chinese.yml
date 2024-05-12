@@ -1,0 +1,8 @@
+﻿l_simp_chinese:
+ #Pi Writing Anomaly
+ #Writing and code by LamilLerran
+ #Note that this comes from a vanilla anomaly category, title "Surface Writing" and text
+ #"There is significant scarring on the surface of this world in a pattern that cannot be natural. From orbit, the massive rifts look almost like writing."
+ mem_writing_uninhabitable_category:0 "$writing_uninhabitable_category$"
+ mem_pi_writing.1.name:0 "圆周率"
+ mem_pi_writing.1.desc:0 "§Y[From.GetName]§! 上的裂痕,确实在写。,根据调查小组的说法，它指出了以 14 为基数表示的 pi 的前 196 位数字。著名的社会学家现在正在疯狂地猜测为什么作者相信任何能够阅读此消息的人都需要这些信息。"
