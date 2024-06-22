@@ -1,0 +1,86 @@
+﻿﻿# Vestigial Wormhole
+# By ViolentBeetle
+
+l_simp_chinese:
+
+ mem_vestigial_wormhole_object: "残留虫洞"
+ mem_vestigial_wormhole_object_desc: "连接两个遥远地点的空间裂缝。,这艘船已经不稳定，无法恢复——不可能有任何东西进出。"
+ mem_vestigial_wormhole_ship_object: "未知船"
+ 
+ MEM_VESTIGIAL_WORMHOLE_TEMPLATE: "虫洞探索者部分"
+ mem_vestigial_wormhole_science_ship: "$科学$"
+ mem_vestigial_wormhole_science_ship_plural: "$science_复数$"
+ shipsize_mem_vestigial_wormhole_science_ship_construction_speed_mult: ""
+ shipsize_mem_vestigial_wormhole_science_ship_build_cost_mult: ""
+ shipsize_mem_vestigial_wormhole_science_ship_upkeep_mult: ""
+ 
+ mem_vestigial_wormhole_wanderer_trait: "虫洞流浪者"
+ mem_vestigial_wormhole_wanderer_trait_desc: "一旦被困在不稳定的虫洞中，这位勇敢的探险家就对太空探索有了很多了解。"
+ mem_vestigial_wormhole_scientist_spider: "蜘蛛主谋"
+ mem_vestigial_wormhole_scientist_spider_desc: "这位领导者实际上是一只巨大的外星蜘蛛，控制着它所附着的一名科学官员原本毫无生气的外壳。"
+ mem_vestigial_wormhole_ruler_spider: "$mem_vestigial_wormhole_scientist_spider$"
+ mem_vestigial_wormhole_ruler_spider_desc: "$mem_vestigial_wormhole_scientist_spider_desc$"
+ 
+ mem_vestigial_wormhole.2.name: "残留虫洞"
+ mem_vestigial_wormhole.2.desc: "§Y[From.GetName]§!,系统包含一个不寻常的功能 - §虫洞§!。 ,\n\n然而，这个非常不稳定。,或许在遥远的过去，还可以穿越它前往遥远的世界，但现在它已接近彻底崩溃。,它的混乱性质使其无法穿越：任何东西都不可能进入或离开它。"
+ 
+ mem_vestigial_wormhole.3.name: "残留虫洞"
+ mem_vestigial_wormhole.3.desc: "§Y[the_system.GetName]§! 中的虫洞,事实证明，系统没有我们想象的那么不稳定。 ,\n\n今天，尽管困难重重，一艘外星飞船从里面出现了。,这似乎是最后一根稻草——不久之后，虫洞完全崩溃了。 ,\n\n这艘船与之前遇到的任何其他船都不一样。,它似乎完全惰性，正在系统中缓慢漂移。"
+ mem_vestigial_wormhole.3.a: "我们应该调查一下。"
+ mem_vestigial_wormhole.3.b: "将入侵者从空中炸飞。"
+ 
+ MEM_VESTIGIAL_WORMHOLE_PROJECT: "调查这艘神秘的船"
+ MEM_VESTIGIAL_WORMHOLE_PROJECT_DESC: "一艘奇怪的飞船在崩溃前从残余虫洞中出现。,我们应该登上这艘船，查明是谁或是什么把它带到这里的——以及它带来了什么。"
+ 
+ mem_vestigial_wormhole.4.name: "幸存的探险家"
+ mem_vestigial_wormhole.4.desc: "[Leader.GetName] 报告称，在登上通过崩溃虫洞进入 [the_system.GetName] 系统的身份不明的飞船后，[Leader.GetSheHe] 发现了一些意想不到的东西：一名活着的飞行员。 ,\n\n简短的审讯揭示了真相：飞行员是一位正在探索虫洞的科学家，当时某种空间异常破坏了虫洞的稳定。,将我们的星图与船上存储的星图进行比较表明，[the_guy.GetHerHis] 的旅程始于几个星系之外，大约 20 亿年前。"
+ mem_vestigial_wormhole.4.a: "向[the_guy.GetHerHim]提供我们科学部门的职位。"
+ mem_vestigial_wormhole.4.a.tooltip: "获得一名新的§Y科学家§!。"
+ mem_vestigial_wormhole.4.b: "我们不需要 [the_guy.GetHerHis] 服务。"
+ mem_vestigial_wormhole.4.c: "处决闯入者。"
+ mem_vestigial_wormhole.4.d: "准备尸检套件来研究虫洞暴露情况。"
+ mem_vestigial_wormhole.4.inwards: "流放 [the_guy.GetHerHim] 以保护我们的文化。"
+ mem_vestigial_wormhole.4.servitor: "我们会在庇护所中找到[the_guy.GetHerHim]的一个地方。"
+ mem_vestigial_wormhole.4.purifier: "处决异形浮渣。"
+ mem_vestigial_wormhole.4.terminator: "消灭肉身。"
+ mem_vestigial_wormhole.4.swarm: "晚餐时间！"
+ mem_vestigial_wormhole.4.tooltip: "我们控制了一艘新的§Y科学船§!。"
+ 
+ mem_vestigial_wormhole.6.name: "巨型太空蜘蛛"
+ mem_vestigial_wormhole.6.desc.psi: "当[Root.GetName]接近[Solar_System.GetName]星系中的废弃飞船时，[Leader.GetName]感觉到里面有许多心灵：冰冷、贪婪的外星心灵等待着猎物的到来。 ,\n\n仔细一看，发现船上充满了巨大且具有攻击性的八足生物。,由于[Leader.GetHerHis]的预感，[Leader.GetHerHis]避免了伏击，[Leader.GetName]明智地选择撤退并凿沉船只以遏制生物危害。"
+ mem_vestigial_wormhole.6.desc.cyborg: "事实证明，[Solar_System.GetName]系统中的废弃船只并不像我们预期的那样被遗弃且毫无生气。 ,\n\n一旦[Root.GetName]与它对接，科学小组就被一支大型八足生物军队包围了。,其中一人甚至设法接近[Leader.GetName]，却被[Leader.GetHerHis]新安装的个人防御系统焚毁。 ,\n\n船员被迫撤退，在此过程中将船凿沉以避免可能的污染。"
+ mem_vestigial_wormhole.6.desc.robot: "事实证明，[Solar_System.GetName]系统中的废弃船只并不像我们预期的那样被遗弃且毫无生气。 ,\n\n一旦[Root.GetName]与它对接，科学小组就被一支大型八足生物军队包围，但它们无法穿透它们的盔甲并造成任何伤害。 ,\n\n为了避免任何可能的感染，[Leader.GetName]决定凿沉这艘船。"
+ mem_vestigial_wormhole.desc.robust: "事实证明，[Solar_System.GetName]系统中的废弃船只并不像我们预期的那样被遗弃且毫无生气。 ,\n\n一旦[Root.GetName]与它对接，科学小组就被一支大型八足生物军队包围。,其中一只甚至成功伏击了[Leader.GetName]，但当它咬[Leader.GetHerHim]时，[Leader.GetHerHis]增强的免疫系统发现了威胁，并证明对潜在的捕食者来说是相当致命的。 ,\n\n然而，由于不愿意进一步测试 [Leader.GetHerHis] 的运气，[Leader.GetName] 选择离开并凿沉船只以防止进一步污染。"
+ mem_vestigial_wormhole.6.a.psi: "远见卓识是很难高估的。"
+ mem_vestigial_wormhole.6.a.cyborg: "我们的驱虫剂已增强。"
+ mem_vestigial_wormhole.6.a.robot: "肉身较弱。,金属是永恒的。"
+ mem_vestigial_wormhole.a.robust: "见证我们的优越性。"
+ 
+ mem_vestigial_wormhole.7.name: "巨型太空蜘蛛"
+ mem_vestigial_wormhole.7.desc: "事实证明，[Solar_System.GetName]系统中的废弃船只并不像我们预期的那样被遗弃且毫无生气。 ,\n\n一旦[Root.GetName]与它对接，科学小组就被一支大型八足生物军队包围。,在他们做出反应之前，最大的一只已经攻击了 [bitten_leader.GetName]，将自己附着在 [bitten_leader.GetHerHis] 的身体上，导致 [bitten_leader.GetHerHim] 陷入深度昏迷。,该小组不得不撤退，凿沉船只以避免进一步污染。"
+ mem_vestigial_wormhole.7.a: "将 [bitten_leader.GetName] 带回家接受治疗。"
+ mem_vestigial_wormhole.7.a.tooltip: "§Y[bitten_leader.GetName]§!,由于深度昏迷，将无法再执行 [bitten_leader.GetHerHis] 职责。"
+ 
+ mem_vestigial_wormhole.8.name: "八足之人"
+ mem_vestigial_wormhole.8.desc: "被咬一个月后，[bitten_leader.GetName] 在 [Capital_Scope.GetName] 的一家医疗机构中醒来。,但是 [bitten_leader.GetSheHe] [bitten_leader.GetHasHave] 发生了变化。 ,\n\n[bitten_leader.GetHisHerCap]旧的人格消失了，显然被一只仍然附着在[bitten_leader.GetHerHis]身体上的巨型蜘蛛所取代。,通过与宿主交谈，该生物进行了接触。,它称自己为§Y八腿§！,并声称自己是一个古老而先进的物种的一部分。 ,\n\n虽然承认有效地杀死了[bitten_leader.GetName]，但它提出通过代替[bitten_leader.GetHerHis]为我们的帝国服务来弥补这一点。"
+ mem_vestigial_wormhole.8.desc.hive: "[bitten_leader.GetName]再次醒来，但已经发生了变化。,我们不再感觉[bitten_leader.GetHerHim]是我们的一部分。 ,\n\n一个新的、冰冷而黑暗的心灵已经在里面取代了它：一个自称§YEight-Legs§!的生物,拥有了[bitten_leader.GetHerHis]的身体。,它现在愿意为我们服务，以换取它的生命。,我们可以相信它吗？"
+ mem_vestigial_wormhole.8.a: "接受八足为我们服务。"
+ mem_vestigial_wormhole.8.a.tooltip: "§Y[bitten_leader.GetName]§!,将作为§YEight-Legs§! 回归我们的服务。 ,\n他们将获得§Y$mem_vestigial_wormhole_scientist_spider$§！,特质，给予§G+10%§!,以研究速度。"
+ mem_vestigial_wormhole.8.b: "对抢尸者实施安乐死。"
+ mem_vestigial_wormhole.8.b.tooltip: "§Y[bitten_leader.GetName]§!,会死，但至少没有人会穿着 [bitten_leader.GetHerHis] 皮肤走来走去……"
+ mem_vestigial_wormhole.8.c: "解剖这个奇怪的生物。"
+ mem_vestigial_wormhole.8.purifier: "将异种入侵者扔进焚化炉。"
+ mem_vestigial_wormhole.8.swarm: "吃掉尸体掠夺者。"
+ mem_vestigial_wormhole.8.swarm.tooltip: "我们将像对待所有人一样对待八足人……"
+ 
+ mem_vestigial_wormhole.9.name: "幽灵船"
+ mem_vestigial_wormhole.9.desc: "[Leader.GetName] 报告成功登上了通过 [Solar_System.GetName] 系统虫洞出现的神秘飞船。 ,\n\n[Leader.GetSheHe] 和 [Leader.GetHerHis] 工作人员在里面发现了什么很难解释。,这艘船的设计显然考虑到了有机船员，但没有发现任何生物或可识别的遗骸。,唯一表明存在有机物的事情是，飞行员的椅子上还绑着一套空的宇航服。,没有任何迹象表明飞行员可能会发生什么，假设飞行员一开始就存在。 ,\n\n这艘船似乎是为探索而设计的，可以重新用作另一艘科学船。"
+ mem_vestigial_wormhole.9.a: "就这样吧。"
+ mem_vestigial_wormhole.9.a.tooltip: "我们获得了一艘新的§S科学船§！"
+ mem_vestigial_wormhole.9.b: "拆解这艘船并研究它的秘密。"
+ mem_vestigial_wormhole.9.c: "摧毁它。,这可能是一个陷阱！"
+
+ mem_vestigial_wormhole.10.name: "千与千寻"
+ mem_vestigial_wormhole.10.desc: "[Root.GetName]报告成功登上了最近出现在[Solar_System.GetName]星系中的奇怪船只。 ,\n\n然而，就在[stolen_leader.GetName]登上船后，这艘船突然从传感器中消失了。,目前尚不清楚发生了什么，但船尾留下的空间扭曲表明它已被吸回到虫洞中，而我们错误地认为虫洞是封闭的。,如果没有任何方法跟踪这艘船，[stolen_leader.GetName]将不得不作为伤亡人员被注销。"
+ mem_vestigial_wormhole.10.a: "空间异常又夺去了另一名受害者的生命……"
+ mem_vestigial_wormhole.10.a.tooltip: "§Y[stolen_leader.GetName]§!,离开了。"

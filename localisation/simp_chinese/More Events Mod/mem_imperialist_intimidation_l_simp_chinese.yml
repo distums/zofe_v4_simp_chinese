@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+ mem_imperialist_intimidation.2.name:0 "[hegimp.GetAdj] 舰队正在威胁我们的殖民地"
+ mem_imperialist_intimidation.2.desc_01:0 "[hegimp.GetName] 已开始宣称对我们空间附近的系统拥有主权。 ,[hegimp.GetAdj]部队已经开始加固阵地，并派遣一支舰队进入边境地区。,按照官方说法，这些船只正在执行例行演习，但它们传达的信息很明确：[hegimp.GetName] 会留下来。,结果，[Root.GetName] 的人们开始聚集在圣团中，宣誓保卫这个星球。"
+ mem_imperialist_intimidation.2.holyorder:0 "放在正义臂膀中的信念永远不会动摇。"
+ mem_imperialist_intimidation.2.desc_02:0 "[hegimp.GetName] 已开始宣称对我们空间附近的系统拥有主权。 ,[hegimp.GetAdj]部队已经开始加固阵地，并派遣一支舰队进入边境地区。,按照官方说法，这些船只正在执行例行演习，但它们传达的信息很明确：[hegimp.GetName] 会留下来。,结果，[Root.GetName] 上的民兵志愿者数量激增至前所未有的数量。"
+ mem_imperialist_intimidation.2.letthemcome:0 "对于 [Root.GetName]！"
+ mem_imperialist_intimidation.2.desc_03:0 "[hegimp.GetName] 已开始宣称对我们空间附近的系统拥有主权。 ,[hegimp.GetAdj]部队已经开始加固阵地，并派遣一支舰队进入边境地区。,按照官方说法，这些船只正在执行例行演习，但它们传达的信息很明确：[hegimp.GetName] 会留下来。,因此，我们帝国各地的人民正在动员起来保护我们的兄弟。"
+ mem_imperialist_intimidation.2.unitedfront:0 "我们的国家不会让[Root.GetName]失望。"
+ mem_imperialist_intimidation.2.desc_04:0 "[hegimp.GetName] 已开始宣称对我们空间附近的系统拥有主权。 ,[hegimp.GetAdj]部队已经开始加固阵地，并派遣一支舰队进入边境地区。,按照官方说法，这些船只正在执行例行演习，但它们传达的信息很明确：[hegimp.GetName] 会留下来。,因此，[Root.GetName] 的人们团结起来，祈祷在这个艰难的时刻获得勇气。"
+ mem_imperialist_intimidation.2.prayer:0 "我们不会屈服于绝望。"
+ mem_imperialist_intimidation.2.desc_05:0 "[hegimp.GetName] 已开始宣称对我们空间附近的系统拥有主权。 ,[hegimp.GetAdj]部队已经开始加固阵地，并派遣一支舰队进入边境地区。,按照官方说法，这些船只正在执行例行演习，但它们传达的信息很明确：[hegimp.GetName] 会留下来。,然而，[Root.GetName]的人们通过将注意力转向内部来回应这些挑衅。"
+ mem_imperialist_intimidation.2.default:0 "他们明智地不向恐惧屈服。"
+ 

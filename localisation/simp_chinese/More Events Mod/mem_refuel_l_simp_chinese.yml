@@ -1,0 +1,25 @@
+﻿l_simp_chinese:
+
+mem_refuel_category:0 "燃油泄漏"
+mem_refuel_category_desc:0 "扫描检测到一团不明物质在这颗气态巨行星的高层大气中扩散。,其化学成分、放射性特征和高能量密度表明先进的星际飞船燃料......"
+
+mem_refuel.1.name:0 "废弃的加油站"
+mem_refuel.1.desc:0 "[Root.GetName] 能够追踪 [From.GetName] 周围的燃料云的来源 - 一个来源不明的旧空间站。 ,\n\n[Leader.GetName] 估计该站至少有 400 年的历史。 ,[Leader.GetSheHeCap]相信[Leader.GetSXX]它在大部分时间里都被安全地保存着，但最近被一颗小行星撞击，导致其轨道不稳定并破坏了其主储存罐。,显然，这个电台不会持续太久，它的宝贵内容也不会持续太久。"
+mem_refuel.1.a:0 "将燃料虹吸到[Root.GetName]中。"
+mem_refuel.1.a.tooltip:0 "§R从未知来源泵送燃料可能很危险......§！"
+mem_refuel.1.b:0 "跟踪燃料云以供未来恢复。"
+mem_refuel.1.c:0 "找到一种方法来保存该电台以供将来研究。"
+mem_refuel.1.d:0 "借此机会研究一下车站。"
+mem_refuel.1.e:0 "远离。,不值得冒这个风险。"
+
+mem_refuel.2.name:0 "没有免费燃油这样的事情"
+mem_refuel.2.desc:0 "我们收到了来自 [Root.GetName] 的求救电话。,看来它在 [FROMFROM.GetName] 上获得的燃料已经破坏了它的系统稳定性，导致了灾难性的发动机故障，最终导致了一场非常大的爆炸。 ,\n\n看起来，未经适当测试而使用来源不明的燃料可能不是正确的选择。"
+
+mem_refuel.20.name:0 "失败"
+mem_refuel.20.desc:0 "[Root.GetName] 检测到一个空间站在 [FROMFROM.GetName] 的衰变轨道上泄漏燃料，但尽管 [Leader.GetHisHer] 机组人员尽了最大努力，[Leader.GetSheHe] [Leader.GetWasWere] 仍无法与它对接,进一步调查后，[Leader.GetWasWere] 被迫脱离，因为空间站已经消失在这颗气态巨行星大气层的较稠密部分中。"
+mem_refuel.20.a:0 "不幸的。"
+
+mem_refuel.30.name:0 "失败"
+mem_refuel.30.desc:0 "[Root.GetName] 检测到一个空间站在 [FROMFROM.GetName] 的衰变轨道上泄漏燃料。,然而，尝试与其对接以进行进一步调查已被证明是灾难性的，因为[Root.GetName]和空间站都在由此产生的碰撞中被摧毁。"
+
+mem_refuel_modifier:0 "外星燃料"

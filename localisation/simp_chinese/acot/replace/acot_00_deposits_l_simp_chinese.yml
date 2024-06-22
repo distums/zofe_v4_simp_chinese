@@ -1,0 +1,35 @@
+﻿l_simp_chinese:
+ 
+########################## DEPOSITS ##########################
+
+acot_d_dark_matter_deposit_3: "£sr_dark_matter£ §Y+3§!\n£物理£ +1"
+acot_d_dark_matter_deposit_6: "£sr_dark_matter£ §Y+6§!\n£物理£ +2"
+acot_d_dark_matter_deposit_9: "£sr_dark_matter£ §Y+9§!\n£物理£ +3"
+acot_d_dark_matter_deposit_15: "£sr_dark_matter£ §Y+15§!\n£物理£ +4"
+
+acot_d_dark_matter_deposit_fractured: "£sr_dark_matter£ §Y+15§!\n£acot_sr_dark_energy£ §Y+15§!"
+acot_d_dark_matter_deposit_fractured_30: "£sr_dark_matter£ §Y+30§!\n£acot_sr_dark_energy£ §Y+30§!"
+acot_d_dark_matter_deposit_fractured_50: "£sr_dark_matter£ §Y+50§!\n£acot_sr_dark_energy£ §Y+50§!"
+acot_d_dark_matter_deposit_fractured_ae: "£sr_dark_matter£ §Y+50§!\n£acot_sr_dark_energy£ §Y+50§!"
+acot_d_dark_matter_deposit_fractured_ae_100: "£sr_dark_matter£ §Y+3100§!\n£acot_sr_dark_energy£ §Y+100§!"
+acot_d_dark_matter_deposit_fractured_ae_200: "£sr_dark_matter£ §Y+200§!\n£acot_sr_dark_energy£ §Y+200§!"
+
+acot_d_dark_matter_deposit_void_hole_200: "£sr_dark_matter£ §Y+200§!\n£acot_sr_dark_energy£ §Y+200§!\n£物理£ +20"
+acot_d_dark_matter_deposit_void_hole_400: "£sr_dark_matter£ §Y+400§!\n£acot_sr_dark_energy£ §Y+400§!\n£物理£ +40"
+acot_d_dark_matter_deposit_void_star_150: "£energy£ +150\n£sr_dark_matter£ §Y+150§!\n£acot_sr_dark_energy£ §Y+300§!\n£物理£ +30"
+acot_d_dark_matter_deposit_void_star_300: "£energy£ +300\n£sr_dark_matter£ §Y+300§!\n£acot_sr_dark_energy£ §Y+600§!\n£物理£ +60"
+
+acot_d_phanon_stockpile_1: "£矿物£ +5000\n£能源£ +5000\n£合金£ §Y+3000§!"
+acot_d_phanon_stockpile_2: "£食品£ +5000\n£消费品£ §Y+5000§!\n£合金£ §Y+3000§!"
+acot_d_phanon_stockpile_3: "£矿物£ +10000\n£能源£ +10000"
+acot_d_phanon_stockpile_4: "£食品£ +10000\n£消费品£ §Y+10000§!"
+acot_d_phanon_stockpile_5: "£次要文物£ §Y+20§!\n£sr_living_metal£ §Y+20§!\n£纳米石£ §Y+20§!"
+
+acot_d_phanon_data_1: "£物理学£ +1000\n£社会£ +1000\n£工程£ +1000"
+acot_d_phanon_data_2: "£物理学£ +500\n£社会£ +2000\n£工程£ +500"
+acot_d_phanon_data_3: "£物理学£ +2000\n£社会£ +500\n£工程£ +500"
+acot_d_phanon_data_4: "£物理学£ +500\n£社会£ +500\n£工程£ +2000"
+acot_d_phanon_data_5: "£社会£ +3000"
+acot_d_phanon_data_6: "£物理£ +3000"
+acot_d_phanon_data_7: "£工程£ +3000"
+acot_d_phanon_data_8: "£物理学£ +250\n£社会£ +250\n£工程£ +250\n£次要文物£ §Y+25§!"

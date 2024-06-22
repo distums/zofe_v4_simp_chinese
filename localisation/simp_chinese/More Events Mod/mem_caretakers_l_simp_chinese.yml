@@ -1,0 +1,16 @@
+﻿﻿#Caretakers
+#By ViolentBeetle
+
+l_simp_chinese:
+
+ #Traits
+ mem_caretakers_trait:0 "看护无人机"
+ mem_caretakers_trait_desc:0 "这种体型娇小、温顺的物种经过精心设计，具有对复杂机械的天生理解力。"
+
+ #Event
+ mem_caretaker.1.name:0 "维修人员"
+ mem_caretaker.1.desc:0 "§Y[Root.GetName]§!,已完成对 §Y[From.Solar_System.GetName] 系统§! 中废弃栖息地站的调查。,尽管其年事已高，但它似乎仍在运行，即使产能只有一半。 ,\n\n内部检测到的生命迹象表明存在大量小生物。,尽管它们不具备真正的智慧，但它们似乎经过培育或基因改造，对复杂的机械有本能的理解。,除了一些倒塌的部分外，他们在很长一段时间内保持了空间站的可居住性，大概是在等待合法所有者的到来并占领栖息地。 ,\n\n通过正确的技术，我们也许能够提升这些较小的生物。"
+
+ #Blockers
+ d_mem_caretakers_ruined_section:0 "毁坏的部分"
+ d_mem_caretakers_ruined_section_desc:0 "这个栖息地部分已经屈服于时间和随机小行星撞击的破坏。,需要进行大规模的维修和清理才能使其再次适合居住。"

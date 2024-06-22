@@ -1,0 +1,510 @@
+﻿﻿ 
+l_simp_chinese:
+ 
+#########################################################################################################################################################################################################################################################################################################################
+########################               Jobs               ########################
+#########################################################################################################################################################################################################################################################################################################################
+ 
+######################## RULING ########################
+ 
+job_acot_overlord: "至高霸主"
+job_acot_overlord_plural: "至高霸主"
+job_acot_overlord_desc: "至高霸主是每个星球的最高统治者，他们只对帝国的统治委员会负责。"
+mod_job_acot_overlord_add: "$job_acot_overlord$"
+ 
+job_acot_overlord_droid: "网络监督者"
+job_acot_overlord_droid_plural: "网络监督者"
+job_acot_overlord_droid_desc: "网络监督者是每个星球的最高指挥官，他们只对主要共识本身负责。"
+mod_job_acot_overlord_droid_add: "$job_acot_overlord_droid$"
+ 
+job_acot_overlord_drone: "蜂巢主宰"
+job_acot_overlord_drone_plural: "蜂巢主宰"
+job_acot_overlord_drone_desc: "蜂巢主宰是每个星球的最高指挥官，他们只对初级蜂巢意识负责。"
+mod_job_acot_overlord_drone_add: "$job_acot_overlord_drone$"
+ 
+job_acot_overseer: "至高领主"
+job_acot_overseer_plural: "至高领主"
+job_acot_overseer_desc: "高领主是高领主的眼睛和耳朵，他们肩负着重要的使命，在一场非常复杂、毫无意义的决斗中，把任何胆敢挑战霸主权威的人踢进一个看起来非常前卫的深坑。"
+mod_job_acot_overseer_add: "$job_acot_overseer$"
+ 
+job_acot_overseer_droid: "网络守望先锋"
+job_acot_overseer_droid_plural: "网络守望"
+job_acot_overseer_droid_desc: "网络守望者是监督者的机器守护者。,他们的任务是从那些烦人的愚蠢有机体身上砍掉爪子，这些有机体在故事中的唯一目标就是邪恶，使用“只有强规则”这样的陈词滥调动机。"
+mod_job_acot_overseer_droid_add: "$job_acot_overseer_droid$"
+ 
+job_acot_overseer_drone: "蜂巢大脑"
+job_acot_overseer_drone_plural: "蜂巢脑动物"
+job_acot_overseer_drone_desc: "蜂巢大脑充当蜂巢主宰的战略家和系统规划者，确保宇宙中不会出现像过去某些无能的蜂群那样制造毫无意义的母巢之战。"
+mod_job_acot_overseer_drone_add: "$job_acot_overseer_drone$"
+ 
+######################## DM/DE PRODUCTOR ########################
+ 
+job_acot_dark_energy_man: "暗能量技师"
+job_acot_dark_energy_man_plural: "暗能量技师"
+job_acot_dark_energy_man_desc: "这个专业部门合成暗能量。"
+mod_job_acot_dark_energy_man_add: "$job_acot_dark_energy_man$"
+ 
+job_acot_dark_energy_drone: "暗能量技师无人机"
+job_acot_dark_energy_drone_plural: "暗能量技师"
+job_acot_dark_energy_drone_desc: "这些无人机被赋予合成暗能量的指令和知识。"
+mod_job_acot_dark_energy_drone_add: "$job_acot_dark_energy_drone$"
+ 
+job_acot_dark_matter_man: "暗物质炼金术士"
+job_acot_dark_matter_man_plural: "暗物质炼金术士"
+job_acot_dark_matter_man_desc: "黑暗炼金术士执行各种科学艺术来合成暗物质。"
+mod_job_acot_dark_matter_man_add: "$job_acot_dark_matter_man$"
+ 
+job_acot_dark_matter_drone: "暗物质创造者"
+job_acot_dark_matter_drone_plural: "暗物质创造者"
+job_acot_dark_matter_drone_desc: "这些无人机的任务是合成暗物质。"
+mod_job_acot_dark_matter_drone_add: "$job_acot_dark_matter_drone$"
+ 
+######################## POP MAKER ########################
+ 
+job_acot_apothecary: "黑暗药剂师"
+job_acot_apothecary_plural: "黑暗药剂师"
+job_acot_apothecary_desc: "黑暗药剂师是训练有素的医生，适合使用等离子链锯和火箭发射器提高生产力和出生率。"
+mod_job_acot_apothecary_add: "$job_acot_apothecary$"
+ 
+job_acot_broodmother: "蜂巢育母"
+job_acot_broodmother_plural: "蜂巢育母"
+job_acot_broodmother_desc: "蜂巢育母会提供必要的照顾并照顾未来的后代。"
+mod_job_acot_broodmother_add: "$job_acot_broodmother$"
+ 
+job_acot_offspring: "后代育母"
+job_acot_offspring_plural: "后代育母"
+job_acot_offspring_desc: "后代育母会提供必要的照顾并照顾未来的后代。"
+mod_job_acot_offspring_add: "$job_acot_offspring$"
+
+job_acot_roboman: "网络漫游者"
+job_acot_roboman_plural: "网络漫游者"
+job_acot_roboman_desc: "网络漫游者狂热地致力于机器人技术的所有领域。,有些人甚至可能说他们暗恋金属盒子。"
+mod_job_acot_roboman_add: "$job_acot_roboman$"
+ 
+job_acot_robodrone: "纳米生产者"
+job_acot_robodrone_plural: "纳米产品"
+job_acot_robodrone_desc: "纳米生产者的任务是使用先进的强光技术打印机器机身。"
+mod_job_acot_robodrone_add: "$job_acot_robodrone$"
+ 
+ 
+######################## RESOURCE MAKER ########################
+ 
+job_acot_workerman: "超级工头"
+job_acot_workerman_plural: "超级工头"
+job_acot_workerman_desc: "热情的老板们向工人阶级传授矿物、食物和能源的方法。,几周之内，即使是社会上最懒惰和最弱的成员也可能变成真正的乍得者。"
+mod_job_acot_workerman_add: "$job_acot_workerman$"
+ 
+job_acot_workerdrone: "超级任务管理器"
+job_acot_workerdrone_plural: "超级任务管理器"
+job_acot_workerdrone_desc: "高级无人机负责执行复杂的任务，即盯着监视器观察简单无人机的性能，并结束那些与其他无人机无法正常运行的进程。,这是一项吃力不讨好的任务，但却是提高生产力所必需的。"
+mod_job_acot_workerdrone_add: "$job_acot_workerdrone$"
+
+job_acot_specialman: "工厂督军"
+job_acot_specialman_plural: "工厂督军"
+job_acot_specialman_desc: "工厂的监督者往往是一个相当快乐的人，尽管帝国有更先进的方法和职业，但他们经常夸大制造工厂的伟大。,然而，这些丰富多彩的个性确实激励了那些困在旧世界中的人们更好地为社会的进步而工作。"
+mod_job_acot_specialman_add: "$job_acot_specialman$"
+ 
+job_acot_specialdrone: "工厂旁观者"
+job_acot_specialdrone_plural: "工厂眼魔"
+job_acot_specialdrone_desc: "Beholder 无人机的使命是观察和扫描生产清单中的缺陷。,然后他们将使用先进的光束重新激励那些未能完成处理资源的简单工作的人。"
+mod_job_acot_specialdrone_add: "$job_acot_specialdrone$"
+
+job_acot_alloyman: "合金转化器"
+job_acot_alloyman_plural: "合金转化器"
+job_acot_alloyman_desc: "合金嬗变能够通过利用暗物质的物质生成过程来制造合金。"
+mod_job_acot_alloyman_add: "$job_acot_alloyman$"
+ 
+job_acot_alloydrone: "合金转化器"
+job_acot_alloydrone_plural: "合金转化器"
+job_acot_alloydrone_desc: "合金嬗变能够通过利用暗物质的物质生成过程来制造合金。"
+mod_job_acot_alloydrone_add: "$job_acot_alloydrone$"
+ 
+job_acot_mineralman: "水晶师"
+job_acot_mineralman_plural: "水晶师"
+job_acot_mineralman_desc: "训练有素的专家，他们接受过将暗物质物质化为高产矿物的培训。"
+mod_job_acot_mineralman_add: "$job_acot_mineralman$"
+ 
+job_acot_mineraldrone: "水晶师"
+job_acot_mineraldrone_plural: "水晶师"
+job_acot_mineraldrone_desc: "经过训练的专用无人机可将暗物质物质化为高产矿物。"
+mod_job_acot_mineraldrone_add: "$job_acot_mineraldrone$"
+ 
+job_acot_energyman: "电网同步器"
+job_acot_energyman_plural: "电网同步器"
+job_acot_energyman_desc: "这些专业技术人员经过培训，可以从合成的暗能量中提取可用的能量信用。"
+mod_job_acot_energyman_add: "$job_acot_energyman$"
+ 
+job_acot_energydrone: "电网同步器"
+job_acot_energydrone_plural: "电网同步器"
+job_acot_energydrone_desc: "这些专门的无人机旨在从合成的暗能量中提取可用的能量信用"
+mod_job_acot_energydrone_add: "$job_acot_energydrone$"
+ 
+job_acot_foodman: "美食大师"
+job_acot_foodman_plural: "美食大师"
+job_acot_foodman_desc: "深思熟虑。,可口的！"
+mod_job_acot_foodman_add: "$job_acot_foodman$"
+ 
+job_acot_fooddrone: "美食无人机"
+job_acot_fooddrone_plural: "美食无人机"
+job_acot_fooddrone_desc: "没有勺子。"
+mod_job_acot_fooddrone_add: "$job_acot_fooddrone$"
+ 
+job_acot_transmute_man: "转化器"
+job_acot_transmute_man_plural: "嬗变者"
+job_acot_transmute_man_desc: "嬗变是战略资源领域的专家。,他们能够利用强光合成过程来创造我们帝国所了解的任何人造战略资源。"
+mod_job_acot_transmute_man_add: "$job_acot_transmute_man$"
+ 
+job_acot_transmute_drone: "转化器"
+job_acot_transmute_drone_plural: "嬗变者"
+job_acot_transmute_drone_desc: "Transmutator 是在战略资源领域进行优化的先进无人机。,他们能够利用强光合成过程来创造我们帝国所了解的任何人造战略资源。"
+mod_job_acot_transmute_drone_add: "$job_acot_transmute_drone$"
+ 
+job_acot_artisan: "主供应商"
+job_acot_artisan_plural: "主供应商"
+job_acot_artisan_desc: "国内商品生产领域的专家。,这些技术人员接受过操作强光打印机的培训，并为帝国提供运行社会所需的所有必需品。"
+mod_job_acot_artisan_add: "$job_acot_artisan$"
+ 
+############ VOIDSPHERE JOB
+ 
+job_acot_voidsphere_forgeman: "虚空神秘旅者"
+job_acot_voidsphere_forgeman_plural: "虚空神秘旅者"
+job_acot_voidsphere_forgeman_desc: "虚空旅行者能够通过进入次维度空间并直接吸取其中的内容来收获神秘资源。"
+mod_job_acot_voidsphere_forgeman_add: "$job_acot_voidsphere_forgeman$"
+ 
+job_acot_voidsphere_forgedrone: "虚空神秘旅者"
+job_acot_voidsphere_forgedrone_plural: "虚空神秘旅者"
+job_acot_voidsphere_forgedrone_desc: "虚空谜旅者可以通过进入次元空间并直接吸取其中的内容来收获神秘资源。"
+mod_job_acot_voidsphere_forgedrone_add: “$job_acot_voidsphere_forgedrone$”
+
+############
+
+job_acot_voidsphere_siloman_alloys: "虚空合金运输车"
+job_acot_voidsphere_siloman_alloys_plural: "虚空合金运输车"
+job_acot_voidsphere_siloman_alloys_desc: "对于冶金学家来说，无需经过任何复杂的过程即可获得合金，这既是最好的事情，也是最坏的事情。"
+mod_job_acot_voidsphere_siloman_alloys_add: "$job_acot_voidsphere_siloman_alloys$"
+ 
+job_acot_voidsphere_silodrone_alloys: "虚空合金运输车"
+job_acot_voidsphere_silodrone_alloys_plural: "合金运输车"
+job_acot_voidsphere_silodrone_alloys_desc: "对于格式塔来说，能够在不经历任何复杂过程的情况下获得合金可能是最好的事情，尤其是那些不喜欢复杂东西的人。"
+mod_job_acot_voidsphere_silodrone_alloys_add: "$job_acot_voidsphere_silodrone_alloys$"
+ 
+######
+
+job_acot_voidsphere_siloman_energy: "虚空能量传送器"
+job_acot_voidsphere_siloman_energy_plural: "虚空能量传送器"
+job_acot_voidsphere_siloman_energy_desc: "等等，我们耗费了难以言表的能量才创造出了一个可以采集能量的维度？"
+mod_job_acot_voidsphere_siloman_energy_add: "$job_acot_voidsphere_siloman_energy$"
+ 
+job_acot_voidsphere_silodrone_energy: "虚空合金运输车"
+job_acot_voidsphere_silodrone_energy_plural: "虚空合金运输车"
+job_acot_voidsphere_silodrone_energy_desc: "是的，能量无处不在，但如果能量本身意识到它们属于某个地方，那就更好了。"
+mod_job_acot_voidsphere_silodrone_energy_add: "$job_acot_voidsphere_silodrone_energy$"
+ 
+######
+
+job_acot_voidsphere_siloman_minerals: "虚空矿物运输车"
+job_acot_voidsphere_siloman_minerals_plural: "虚空矿物运输车"
+job_acot_voidsphere_siloman_minerals_desc: "至少这里的矿物质不会像某些东西那样反击。,尽管仍然会给一些人带来创伤后应激障碍。"
+mod_job_acot_voidsphere_siloman_minerals_add: "$job_acot_voidsphere_siloman_minerals$"
+ 
+job_acot_voidsphere_silodrone_minerals: "虚空矿物运输车"
+job_acot_voidsphere_silodrone_minerals_plural: "虚空矿物运输车"
+job_acot_voidsphere_silodrone_minerals_desc: "即便是现在，每当听到“虚空”和“水晶”这两个词同时出现时，一些无人机的反应仍然非常警惕。"
+mod_job_acot_voidsphere_silodrone_minerals_add: "$job_acot_voidsphere_silodrone_minerals$"
+ 
+######
+
+job_acot_voidsphere_siloman_food: "虚空食物运输车"
+job_acot_voidsphere_siloman_food_plural: "虚空食品运输车"
+job_acot_voidsphere_siloman_food_desc: "有时候，唯一能找到大量食物的地方，就是制作食物的地方，很可能本身就是食物！？"
+mod_job_acot_voidsphere_siloman_food_add: "$job_acot_voidsphere_siloman_food$"
+ 
+job_acot_voidsphere_silodrone_food: "虚空食物运输车"
+job_acot_voidsphere_silodrone_food_plural: "虚空食物运输车"
+job_acot_voidsphere_silodrone_food_desc: "如果无人机生产的食物比那些真正需要这些食物的人多，那就相当有趣了。"
+mod_job_acot_voidsphere_silodrone_food_add: "$job_acot_voidsphere_silodrone_food$"
+ 
+######
+
+job_acot_voidsphere_siloman_goods: "虚空命运传送器"
+job_acot_voidsphere_siloman_goods_plural: "虚空命运传送者"
+job_acot_voidsphere_siloman_goods_desc: "在他们掌控现实的时代，有些人会好奇。,为什么他们仍然关心消费品之类的东西？,这不是让他们比格式塔更糟糕吗？"
+mod_job_acot_voidsphere_siloman_goods_add: "$job_acot_voidsphere_siloman_goods$"
+ 
+job_acot_voidsphere_silodrone_goods: "虚空命运传送器"
+job_acot_voidsphere_silodrone_goods_plural: "虚空命运传送器"
+job_acot_voidsphere_silodrone_goods_desc: "有些无人机确实想知道这项工作的意义是什么？"
+mod_job_acot_voidsphere_silodrone_goods_add: "$job_acot_voidsphere_silodrone_goods$"
+
+############
+
+job_acot_voidsphere_labman: "虚空先知"
+job_acot_voidsphere_labman_plural: "虚空先知"
+job_acot_voidsphere_labman_desc: "虚空先知不仅是科学家和研究人员，也是次维度空间的观察者，他们可以在其中看到过去并预见即将发生的事件。"
+mod_job_acot_voidsphere_labman_add: "$job_acot_voidsphere_labman$"
+ 
+job_acot_voidsphere_labdrone: "虚空虹膜"
+job_acot_voidsphere_labdrone_plural: "虚空虹膜"
+job_acot_voidsphere_labdrone_desc: "虚空之虹不仅是科学家和研究人员，也是次维度空间的观察者，他们可以看到过去并预见即将发生的事件。"
+mod_job_acot_voidsphere_labdrone_add: "$job_acot_voidsphere_labdrone$"
+ 
+######################## RESEARCHERS ########################
+ 
+job_acot_researcher: "馆长"
+job_acot_researcher_plural: "馆长"
+job_acot_researcher_desc: "馆长负责研究古代知识。,他们对科学的贡献是首屈一指的。"
+mod_job_acot_researcher_add: "$job_acot_researcher$"
+ 
+job_acot_researcher_drone: "博学者"
+job_acot_researcher_drone_plural: "博学者"
+job_acot_researcher_drone_desc: "博学者负责研究古代知识。,他们对科学的贡献是首屈一指的。"
+mod_job_acot_researcher_drone_add: "$job_acot_researcher_drone$"
+ 
+ 
+######################## SOLDIERS ########################
+ 
+job_acot_enforcer: "精英执法者"
+job_acot_enforcer_plural: "精英执行者"
+job_acot_enforcer_desc: "精英执法者是地球上的精英防御力量，他们在各种战斗技术方面训练有素，这会让普通士兵要求重新分配任务。"
+mod_job_acot_enforcer_add: "$job_acot_enforcer$"
+ 
+job_acot_enforcer_drone: "究极无效者"
+job_acot_enforcer_drone_plural: "超级无效者"
+job_acot_enforcer_drone_desc: "超级消灭者是地球上的精锐防御力量，他们被编程为吞噬和消除内部或外部的威胁。,吃。"
+mod_job_acot_enforcer_drone_add: "$job_acot_enforcer_drone$"
+ 
+job_acot_soldier: "精英干部"
+job_acot_soldier_plural: "精英干部"
+job_acot_soldier_desc: "精英干部用专门的精英战斗部队取代了旧的简单的普通士兵征召系统，这些部队需要身心能力，才能在所有战争事务中脱颖而出。"
+mod_job_acot_soldier_add: "$job_acot_soldier$"
+ 
+job_acot_soldier_drone: "超级地狱潜行者"
+job_acot_soldier_drone_plural: "超级地狱潜水员"
+job_acot_soldier_drone_desc: "超级地狱潜水员是专门设计的无人机，旨在传播集体意志并在星际中保存霸主的意志。,他们特别热衷于通过反复引爆那些敢于带来个人主义和民主混乱的人。"
+mod_job_acot_soldier_drone_add: "$job_acot_soldier_drone$"
+
+job_acot_giga_fortress_operator: "千兆要塞大炮操作员"
+job_acot_giga_fortress_operator_plural: "巨型要塞大炮操作员"
+job_acot_giga_fortress_operator_desc: "这些炮手接受过操作和校准巨型要塞大炮的训练。,让我们的敌人小心，因为他们无所畏惧。,每门大炮可提供相当于20个防御力量。"
+mod_job_acot_giga_fortress_operator_add: "$job_acot_giga_fortress_operator$"
+ 
+job_acot_giga_fortress_operator_drone: "千兆要塞大炮操作员"
+job_acot_giga_fortress_operator_drone_plural: "巨型要塞大炮操作员"
+job_acot_giga_fortress_operator_drone_desc: "这些炮手被编程来操作和校准巨型要塞的大炮。,让我们的敌人小心，因为他们无所畏惧。,每门大炮可提供相当于20个防御力量。"
+mod_job_acot_giga_fortress_operator_drone_add: "$job_acot_giga_fortress_operator_drone$"
+ 
+job_acot_giga_fortress_operator_mentat: "门塔特"
+job_acot_giga_fortress_operator_mentat_plural: "门塔茨"
+job_acot_giga_fortress_operator_mentat_desc: "门塔特是一位独特的军事战略家，在千兆要塞的战略中心工作，协调帝国的舰队机动。"
+mod_job_acot_giga_fortress_operator_mentat_add: "$job_acot_giga_fortress_operator_mentat$"
+ 
+job_acot_giga_fortress_operator_mentat_drone: "门泰特无人机"
+job_acot_giga_fortress_operator_mentat_drone_plural: "曼泰特无人机"
+job_acot_giga_fortress_operator_mentat_drone_desc: "门塔特是一位独特的军事战略家，在千兆要塞的战略中心工作，协调帝国的舰队机动。"
+mod_job_acot_giga_fortress_operator_mentat_drone_add: "$job_acot_giga_fortress_operator_mentat_drone$"
+
+######################## STELLARITE ########################
+ 
+job_acot_stellariteman: "星辰机械手"
+job_acot_stellariteman_plural: "恒星机械手"
+job_acot_stellariteman_desc: "这些专家接受了广泛的培训，将传统能源转化为纯粹的恒星能源。,星星照亮了他们的道路。"
+mod_job_acot_stellariteman_add: "$job_acot_stellariteman$"
+ 
+job_acot_stellaritedrone: "星辰机械手"
+job_acot_stellaritedrone_plural: "恒星机械手"
+job_acot_stellaritedrone_desc: "这些无人机专为在 Stellarite 反应堆的恶劣条件下运行而设计。,他们一生的使命是将传统能源转化为基于恒星的形式。,以火救火！"
+mod_job_acot_stellaritedrone_add: "$job_acot_stellaritedrone$"
+ 
+ 
+######################## ARCANE JOBS ########################
+ 
+job_acot_priest: "圣教会主教"
+job_acot_priest_plural: "神圣国教"
+job_acot_priest_desc: "圣国教是帝国最虔诚的教派。,他们被尊崇为神的选民。,他们的精美帽子也受到圈内许多人的羡慕和模仿。"
+mod_job_acot_priest_add: "$job_acot_priest$"
+ 
+job_acot_entertainer: "模因主"
+job_acot_entertainer_plural: "模因领主"
+job_acot_entertainer_desc: "模因领主为我们的帝国生成新的模因以进行模因。,无论是来自我们帝国本身，还是来自其他帝国。"
+mod_job_acot_entertainer_add: "$job_acot_entertainer$"
+ 
+job_acot_entertainer_drone: "模因收割机"
+job_acot_entertainer_drone_plural: "模因收割机"
+job_acot_entertainer_drone_desc: "模因收割者从整个银河系搜索模因，并秘密影响模因。,然后我们研究其对我们自身利益的影响。"
+mod_job_acot_entertainer_drone_add: "$job_acot_entertainer_drone$"
+ 
+job_acot_entertainer_droid: "模因生成器"
+job_acot_entertainer_droid_plural: "模因生成器"
+job_acot_entertainer_droid_desc: "模因生成器使用模因的概念，通过冷酷事实无法实现和无法理解的方法来激励我们设计中的系统。"
+mod_job_acot_entertainer_droid_add: "$job_acot_entertainer_drone$"
+
+job_acot_dimesiona_traveler: "次元旅行者"
+job_acot_dimesiona_traveler_plural: "次元旅行者"
+job_acot_dimesiona_traveler_desc: "这些经过专门训练的人员承担着最危险的任务；,直接穿越另一个维度的制造商并预测他们的产品与我们的产品。"
+mod_job_acot_dimesiona_traveler_add: "$job_acot_dimessiona_traveler$"
+ 
+job_acot_dimesiona_traveler_drone: "次元旅行者"
+job_acot_dimesiona_traveler_drone_plural: "次元旅行者"
+job_acot_dimesiona_traveler_drone_desc: "这些经过特殊增强的部队承担着最危险的任务；,直接穿越其他维度的制造商并预测他们的产品与我们的产品的关系。"
+mod_job_acot_dimesiona_traveler_drone_add: "$job_acot_dimesiona_traveler_drone$"
+ 
+ 
+tech_go_find_work: "更大的善"
+tech_go_find_work_desc: "在我们的新社会中，失业的概念将成为过去。,总有工作要做，不能容忍懒惰。"
+
+job_acot_free_foodman: "冒险家"
+job_acot_free_foodman_plural: "冒险家"
+job_acot_free_foodman_desc: "失业的人决定在等待实际工作出现的同时随机前往殖民地谋生。,此类任务可能包括收集物品、击败随机怪物或制作东西。"
+
+decision_give_foodman_job: "冒险任务"
+decision_give_foodman_job_desc: "去摘 100 个苹果。,寻找丢失的狗。,杀死 25 个哥布林...Yare Yare Daze。"
+decision_give_foodman_job_effect: "失业人口将扮演冒险者的角色，他们为殖民地提供少量资源。"
+
+acot_modifier_free_foodman: "冒险公会"
+acot_modifier_free_foodman_desc: "这个星球上有一个冒险公会，失业的人可以在这里通过艰苦、危险和致命的任务过上有趣、无害和无风险的生活。"
+
+job_acot_free_soldier: "虚拟士兵"
+job_acot_free_soldier_plural: "虚拟士兵"
+job_acot_free_soldier_desc: "失业者花时间玩虚拟战斗模拟，直到找到合适的工作。"
+
+decision_give_soldier_job: "虚拟打击"
+decision_give_soldier_job_desc: "这就是他们训练的目的！"
+decision_give_soldier_job_effect: "失业人口将扮演虚拟士兵的角色，为殖民地提供少量的团结和防御力量。"
+
+acot_modifier_free_soldier: "虚拟力量"
+acot_modifier_free_soldier_desc: "这个星球有一支专门的虚拟部队，由玩各种游戏的失业者组成，例如《虚拟打击：银河攻势》、《战舰：重组》或《索菲亚约会模拟测试版》。"
+
+job_acot_free_thinker: "自由思想家"
+job_acot_free_thinker_plural: "自由思想家"
+job_acot_free_thinker_desc: "失业者利用时间学习任何他们想要的东西，直到找到工作。"
+
+decision_give_thinker_job: "明天的梦想"
+decision_give_thinker_job_desc: "我，乔鲁诺·乔巴娜，有一个梦想……"
+decision_give_thinker_job_effect: "失业人口将扮演自由思想者的角色，为殖民地提供少量科学资源。"
+
+acot_modifier_free_thinker: "自由思想家"
+acot_modifier_free_thinker_desc: "这个星球促进创造力和学习，鼓励失业者学习并寻找与生活相关的事情。"
+
+tech_go_sleep_machine: "静止模式"
+tech_go_sleep_machine_desc: "我们社会的转变导致对劳动力的需求减少。,那些还没有被赋予目标的人必须睡觉并等待他们的任务。"
+
+job_acot_free_reserve_drone: "储备单位"
+job_acot_free_reserve_drone_plural: "储备单位"
+job_acot_free_reserve_drone_desc: "储备单位是没有被赋予更重要任务并处于待命模式的无人机。"
+
+decision_give_reserve_job: "统计模块激活"
+decision_give_reserve_job_desc: "建设...无法遵守，建设正在进行中...暂停。"
+decision_give_reserve_job_effect: "失业人口将处于停滞状态，直到向他们分配任务为止。"
+
+acot_modifier_free_stasis: "静止室"
+acot_modifier_free_stasis_desc: "这个星球有一个静态室网络，未分配的无人机将在那里待命，直到发出进一步的命令。"
+
+decision_ungive_job: "失业启动"
+decision_ungive_job_desc: "现在是我们的人民再次遭受失业困扰的时候了。"
+decision_ungive_job_effect: "失业人口将被视为失业，并开始再次困扰我们的社会。"
+
+acot_modifier_initializer_cooldown: "最近更改尺寸"
+acot_modifier_initializer_cooldown_desc: "该行星最近已被 $precursor_colonizer$ 调整过。,其大小近期无法调整。"
+
+############################### FE JOBS ###############################
+
+job_acot_fe_artisan: "货物监控"
+job_acot_fe_artisan_plural: "货物监控器"
+job_acot_fe_artisan_desc: "这些人有一份工作，就是对预制件进行最后的修饰，并声称它们是自己的产品。,这些改动是否真的能让产品变得更好仍然是各界热议的话题。"
+mod_job_acot_fe_artisan_add: "$job_acot_fe_artisan$"
+
+##########
+
+job_acot_fe_farmer: "行家"
+job_acot_fe_farmer_plural: "鉴赏家"
+job_acot_fe_farmer_desc: "尽管顾名思义，这些勇敢的人在技术上并不是专家，但他们拥有坚韧的舌头，使他们能够适应大众要求的许多后天品味。,最终结果是他们倾向于增加实际可用食物的数量，即使不多。"
+mod_job_acot_fe_farmer_add: "$job_acot_fe_farmer$"
+
+##########
+
+job_acot_fe_generator: "奇点专业"
+job_acot_fe_generator_plural: "奇点专业人士"
+job_acot_fe_generator_desc: "在正常情况下，奇点场不应该被篡改，因为存在遏制场崩溃和系统故障的风险。,然而，在极少数情况下，可能会指派一些训练有素的专业人员进行一些调整。,虽然有谣言流传其中存在风险，但很明显，这些勇敢的人不需要听到所有这些，因为他们毕竟是训练有素的专业人士。"
+mod_job_acot_fe_generator_add: "$job_acot_fe_generator$"
+
+##########
+
+job_acot_fe_foundry: "金属检验员"
+job_acot_fe_foundry_plural: "金属检验员"
+job_acot_fe_foundry_desc: "在堕落帝国中，检查员是一项不太受欢迎的职责，检查员做着吃力不讨好的工作，检查锻造的自动化生产，并纠正生产的合金中的任何不规则和缺陷，其中大部分来自于他们的同胞的不必要的调整，他们认为他们可以,挑战完善的系统。"
+mod_job_acot_fe_foundry_add: "$job_acot_fe_foundry$"
+
+job_acot_fe_acolyte_foundry: "铁匠的侍僧"
+job_acot_fe_acolyte_foundry_plural: "铁匠们的侍僧"
+job_acot_fe_acolyte_foundry_desc: "坚固之心史密斯·多拉斯勋爵被发现的那一天，他铸造了第一套信仰铠甲，使神圣战士们免受野蛮克拉格斯武器的影响，至今仍被人们铭记和尊敬。"
+mod_job_acot_fe_acolyte_foundry_add: "$job_acot_fe_acolyte_foundry$"
+
+##########
+
+job_acot_fe_soldier: "战斗侍从"
+job_acot_fe_soldier_plural: "战斗侍从"
+job_acot_fe_soldier_desc: "即使在和平时期，也有人必须时刻保持警惕，时刻意识到战争的可能性。,尽管缺乏真正的战斗经验，这些忠诚的男女将响应战争的号召，为了保护和扩张他们的帝国的荣耀。"
+mod_job_acot_fe_soldier_add: "$job_acot_fe_soldier$"
+
+job_acot_fe_acolyte_soldier: "刀锋侍僧"
+job_acot_fe_acolyte_soldier_plural: "刀锋侍僧"
+job_acot_fe_acolyte_soldier_desc: "由于缺乏弹药和击败克拉格人进军的手段，殉道者塞拉托尼当时只是一名当地商人，他集结了人民，用简易的近战武器阻止了这头野兽的前进。,尽管我们失去了她的生命，但她那天所表现出的勇气使我们免于遭受本来可能的黑暗命运。"
+mod_job_acot_fe_acolyte_soldier_add: "$job_acot_fe_acolyte_soldier$"
+
+##########
+
+job_acot_fe_priest: "扎卡拉姆牧师"
+job_acot_fe_priest_plural: "扎卡拉姆祭司"
+job_acot_fe_priest_desc: "尽管先知尚未显现，但伟大先知的信仰和教义必须得到尊重和维护，以免我们忘记我们必须等待他们的到来。"
+mod_job_acot_fe_priest_add: "$job_acot_fe_priest$"
+
+##########
+
+job_acot_fe_healthcare: "坚定的治疗师"
+job_acot_fe_healthcare_plural: "坚定的治疗师"
+job_acot_fe_healthcare_desc: "也许健康身体的最大敌人是自己的思想，正如许多人已经发现的那样。,这些冷静和镇定的人应该提供安慰和保证，让他们相信一切都很好，接触暗物质不会导致他们的孩子智力下降。"
+mod_job_acot_fe_healthcare_add: "$job_acot_fe_healthcare$"
+
+job_acot_fe_acolyte_healthcare: "扎卡拉姆的治疗师"
+job_acot_fe_acolyte_healthcare_plural: "扎卡拉姆的治疗者"
+job_acot_fe_acolyte_healthcare_desc: "许多人在无魂者的手中受苦，因为她的空洞谎言只带来了痛苦和腐烂。,但伟大先知的力量战胜了邪恶，幸存者也得到了治愈的时间。"
+mod_job_acot_fe_acolyte_healthcare_add: "$job_acot_fe_acolyte_healthcare$"
+
+##########
+
+job_acot_fe_entertainer: "现代主义"
+job_acot_fe_entertainer_plural: "现代主义者"
+job_acot_fe_entertainer_desc: "这些愚蠢的人看到我们久经考验的真实方法因他们对原始发现的热爱而受到玷污，他们始终是人们喜剧的主要来源。"
+mod_job_acot_fe_entertainer_add: "$job_acot_fe_entertainer$"
+
+job_acot_fe_acolyte_entertainer: "鞭子侍僧"
+job_acot_fe_acolyte_entertainer_plural: "鞭子侍僧"
+job_acot_fe_acolyte_entertainer_desc: "尽管随着机器的发现，兽王瓦提康所持的鞭子已经成为过去式，但他通过将手艺奉献给娱乐来拯救了许多同龄人，因为事实上只有它们才能强迫较小的动物执行上述任务,他们平凡的车站。"
+mod_job_acot_fe_acolyte_entertainer_add: "$job_acot_fe_acolyte_entertainer$"
+
+##########
+
+job_acot_fe_researcher: "本科生"
+job_acot_fe_researcher_plural: "本科生"
+job_acot_fe_researcher_desc: "虽然发现时代已经成为过去，但这并不能阻止教育系统要求年轻人提出各种众所周知的论文研究，而这些研究永远不会被应用。,然而，这仍然是每个男人和女人都必须追求的尊重标志。"
+mod_job_acot_fe_researcher_add: "$job_acot_fe_researcher$"
+
+job_acot_fe_acolyte_researcher: "卷轴侍僧"
+job_acot_fe_acolyte_researcher_plural: "卷轴侍僧"
+job_acot_fe_acolyte_researcher_desc: "曾经有一段时间，我们的整个建筑和社会都被混乱和未学过的学习和平衡方法所控制。,只有当数学法师维拉罗尊带来了数学的神秘研究时，我们才学会珍惜这些卷轴所包含的力量和知识。"
+mod_job_acot_fe_acolyte_researcher_add: "$job_acot_fe_acolyte_researcher$"
+
+##########
+
+job_acot_fe_miner: "考古学家"
+job_acot_fe_miner_plural: "考古学家"
+job_acot_fe_miner_desc: "有人可能会问，为什么考古学家会从事这些工作呢？,也许他们没有听说过风险投资公司和她的矿工团伙的恐怖。,显然，现在的人们不理解采矿和硬核钻探之间的区别，后者导致整个上层建筑分崩离析。,至于风险投资和她的暴徒，最好把他们送到另一个宇宙进行永恒的守望。"
+mod_job_acot_fe_miner_add: "$job_acot_fe_miner$"
+
+##########
+
+
+job_acot_giga_fortress_operator_ancient: "阿森纳后卫"
+job_acot_giga_fortress_operator_ancient_plural: "阿森纳后卫"
+job_acot_giga_fortress_operator_ancient_desc: "这些精英是堕落圈内为数不多的享有盛誉的军事职位之一，他们的保留只是为了尽其所能保卫首都系统。"
+mod_job_acot_giga_fortress_operator_ancient_add: "$job_acot_giga_fortress_operator$"

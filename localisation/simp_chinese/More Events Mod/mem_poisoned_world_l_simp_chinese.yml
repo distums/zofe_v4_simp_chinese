@@ -1,0 +1,16 @@
+﻿l_simp_chinese:
+ ##Poisoned World
+ #Idea and writing by shockedsystem
+ #Code by LamilLerran
+ mem_poisoned_world_category:0 "中毒世界"
+ mem_poisoned_world_category_desc:0 "这个[Root.GetPlanetMoon]虽然现在被一层有毒气体覆盖，但显然曾经居住过一个工业化种族。,死城遍布地表。"
+ mem_poisoned_world.100.name:0 "出埃及记"
+ mem_poisoned_world.100.desc:0 "我们对 [From.GetName] 上废弃城市的检查揭示了另一个谜团。,科学官员 [This.GetLeaderName] 没有找到数百万具尸体的证据，而是得出了这个 [From.GetPlanetMoon] 被遗弃的结论。,匆忙建立的庞大公共交通系统蜿蜒穿过大地，几个主要城市的墙上指示公民撤离的指示已被发现。\n\n接下来发生的事情仍不清楚。,由于没有明显的太空计划证据，唯一可能的解释在于这些交通网络中心竖立的奇怪拱门结构。,这些装置并不代表任何已知的空间旅行方法，由于几个世纪以来暴露在这种腐蚀性气氛中，这些装置几乎已经解体。,我们可能永远不知道这些拱门是如何运作的，但只要看到可能性就让我们大开眼界。"
+ mem_poisoned_world.100.a:0 "分析一下还剩下什么。"
+ mem_poisoned_world.101.name:0 "集体疯狂"
+ mem_poisoned_world.101.desc:0 "我们的科学团队在 [From.GetName] 上探索废墟时报告了一项惊人的进展。,放射性云和有毒气体并非由事故或自然灾害造成。,大型石化工厂的存在纯粹是为了排出尽可能多的污染物，土壤中几种高级神经毒性物质的检测呈阳性，而且最近大部分地表都含有致命水平的放射性钴盐。,唯一可能的解释是，这个 [From.GetPlanetMoon] 的民众故意毒害了他们自己家园的天空和地表。\n\n散落的碎片和使用能量武器的残留颗粒证据表明，轨道上曾发生过一场战斗,在这个世界各地。,也许存在着这些人无法对抗的外来威胁。,他们的反应可能会永远铭刻在这个世界的地质历史中，作为一系列与聚变装置爆炸一致的陨石坑，这些陨石坑一起形成了居民主要象形语言的一对符号。,这些符号直径数百公里，似乎带有谩骂的意味，邀请读者与自己交配。"
+ mem_poisoned_world.101.a:0 "奇怪的是鼓舞人心。"
+ mem_poisoned_world.200.name:0 "马蜂窝"
+ mem_poisoned_world.200.desc:0 "地球上的城市状结构原来是巨大的蜂巢群，是数亿飞行生物的家园。,当[This.GetName]降落进行低空勘测时，这些多嘴怪物蜂拥而至，轻而易举地撕碎了它的船体。,这艘船成功逃脱，只造成了最小的损失，但这些危险且领地意识很强的动物的存在使得进一步调查变得不明智。"
+ mem_poisoned_world.200.a:0 "我们不要再这样做了。"
+ mem_poisoned_world.200.a.tooltip:0 "[This.GetName] 受到了轻微损坏。"

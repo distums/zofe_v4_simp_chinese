@@ -1,0 +1,385 @@
+﻿l_simp_chinese:
+ 
+ ####################################
+ # Technology
+ ####################################
+ 
+ #Energy
+ tech_avw_lasers_6:0 "超伽马激光器"
+ tech_avw_lasers_6_desc:0 "超高能伽马射线激光器现在可以武器化，而不需要复杂的地面反应堆。,实现比前几代更高的频率，以及更高的破坏潜力。"
+ tech_avw_lasers_7:0 "正电子激光器"
+ tech_avw_lasers_7_desc:0 "由正电子湮灭驱动的激光。,由电子和正电子组成的人造奇异粒子正电子的衰变驱动的伽马射线激光器比前几代产品的功率要大一个数量级。"
+ tech_avw_lasers_8:0 "量子激光器"
+ tech_avw_lasers_8_desc:0 "微波激射器（Maser），通常被称为微波激光器，曾经被认为不如伽马射线技术，它利用量子场论的进步将微波辐射武器化。,量子场畸变加速了低频辐射的动势，赋予其超高频辐射的电离势。,结合了两全其美的终极常规激光武器。"
+ tech_avw_lasers_9:0 "暗射线激光器"
+ tech_avw_lasers_9_desc:0 "随着暗物质操纵方面的最新创新，利用暗能量，特别是电磁辐射的暗对应物的能力，使现代激光器能够挑战已知的物理定律，并利用高频暗射线以及暗能量与常规物质之间的高能相互作用来驱动,一种无与伦比的激光武器，具有近乎无限的破坏潜力。"
+ tech_avw_lasers_10:0 "引力子激光器"
+ tech_avw_lasers_10_desc:0 "终极激光武器。,这些激光武器通过奇异物质场投射超高频暗能量，沿光束长度产生超光速引力场变形，利用引力粉碎目标。,当目标被还原为夸克-胶子等离子体时，令人难以置信的破坏潜力是显而易见的。"
+ 
+ tech_avw_plasma_4:0 "等离子火炮"
+ tech_avw_plasma_4_desc:0 "流体动力学方面的最新创新使这些武器能够将奇异的等离子体限制在累积限制场中，从而更有效地将等离子体射弹驱动到装甲和船体板中。,通过将更多的能量分散到目标中，而将更少的能量分散到太空中，破坏潜力将大大提高。"
+ tech_avw_plasma_5:0 "等离子冲击波"
+ tech_avw_plasma_5_desc:0 "限制技术和量子场论的进一步改进使得这些等离子体武器能够通过间隙场变形（如多维烟圈）循环奇异等离子体，从而减少能量损失和惯性。,复杂的约束场和增加的动能使其远远优于以前的武器。"
+ tech_avw_plasma_6:0 "等离子移相器"
+ tech_avw_plasma_6_desc:0 "这些武器展示了对等离子体物理的真正掌握，将高能等离子体限制在多维线圈中，使令人难以置信的、以前不可能的等离子体密度在一枚射弹中相结合。,当目标受到近十分之一恒星质量的等离子体线圈撞击时，令人难以置信的破坏潜力是显而易见的。"
+ 
+ tech_avw_disruptors_4:0 "谐振相位干扰器"
+ tech_avw_disruptors_4_desc:0 "这些升级后的干扰器使用改进的量子技术将高能电荷定相成磁通波，磁通波以对其发射的材料最具破坏性的频率共振。,比以前的破坏者更加多才多艺和具有破坏性。"
+ tech_avw_disruptors_5:0 "重子干扰者"
+ tech_avw_disruptors_5_desc:0 "这些破坏者利用粒子物理学的创新来产生高能电荷，以破坏将夸克结合在一起的胶子。,这些干扰器不会破坏目标的分子键，而是将目标的质子和中子撕碎成夸克-胶子等离子体，从而在亚原子粒子本身之间引发无与伦比的破坏性链式反应。"
+ tech_avw_disruptors_6:0 "引力干扰器"
+ tech_avw_disruptors_6_desc:0 "终极破坏者武器。,这些干扰器使用复杂的量子场函数将奇异能量的电荷流到目标中，将引力子从其组成原子中撕碎，导致它们旋转分开。,这种武器引起的异常重力通量所造成的损害是扰乱技术中无与伦比的。"
+ 
+ tech_avw_energy_torpedoes_3:0 "强子发射器"
+ tech_avw_energy_torpedoes_3_desc:0 "粒子遏制技术的进步使这些武器能够利用所有强子而不是特定的基本粒子。,包含任意类型而不是固定类型的复合粒子会增加破坏潜力，因为混乱的敌人护盾系统会尝试重新配置以适应特定的粒子冲击。"
+ tech_avw_energy_torpedoes_4:0 "反物质发射器"
+ tech_avw_energy_torpedoes_4_desc:0 "这些武器利用了反物质的独特力量。,先进的粒子遏制系统现在允许这些武器容纳任意类型的粒子及其等效的反粒子。,由于反物质湮灭发生在反物质和目标自身的组成粒子之间，因此在撞击时，几乎无与伦比的破坏潜力是显而易见的。"
+ tech_avw_energy_torpedoes_5:0 "N 物质发射器"
+ tech_avw_energy_torpedoes_5_desc:0 "粒子物理学和奇异物质的创新使这些武器能够利用负物质。,负物质以前被认为是不可能的，它与普通粒子具有相反的符号，并表现出被普通物质排斥而普通物质被吸引的独特性质。,这些武器的破坏潜力超出了以前的任何方法，因为目标的组成粒子在失控运动中将自身撕碎，将负质量粒子追逐到虚空中。"
+ 
+ tech_avw_energy_lance_3:0 "暗物质长矛"
+ tech_avw_energy_lance_3_desc:0 "粒子物理学和暗能量理论的进一步发展使这些武器能够发射暗物质凝聚束。,这些武器似乎违背了已知的物理定律，通过利用受限暗物质和普通物质之间不可预测的爆炸性反应，具有卓越的破坏潜力。"
+ tech_avw_energy_lance_4:0 "中微子枪"
+ tech_avw_energy_lance_4_desc:0 "这些能量枪成功地将中微子武器化。,中微子比电子小数百万倍，通常可以毫无问题地穿过普通物质。,然而，空间场限制使这些武器能够限制数万亿中微子的高密度束，使它们与目标装甲碰撞得更成功，导致目标组成原子不稳定并产生奇异的裂变反应。"
+ tech_avw_energy_lance_5:0 "正电子枪"
+ tech_avw_energy_lance_5_desc:0 "这些武器利用反物质的力量，特别是正电子或电子的反粒子对应物。,粒子遏制方面的创新使这些武器能够将密集的正电子束投射到目标中，从而导致目标整个装甲和船体的正电子-电子湮灭。,伽马射线爆发和由此产生的巨大能量释放使该武器优于以前的武器。"
+ tech_avw_energy_lance_6:0 "N物质长矛"
+ tech_avw_energy_lance_6_desc:0 "这些武器利用负物质的独特特性，发射高密度的奇异负质量粒子束。,负物质与普通物质的符号相反，它倾向于沿与所施加的力相反的方向加速，受到普通物质的引力的排斥，而普通物质则被吸引。,这些武器的破坏力是显而易见的，因为当普通物质将负物质追逐到虚空中时，目标的装甲和船体会在失控的运动中撕碎。"
+ tech_avw_energy_lance_7:0 "引力枪"
+ tech_avw_energy_lance_7_desc:0 "这些武器发射凝聚的引力束，引力子是重力的载体。,粒子物理学和量子场函数的创新使这些武器能够捕获密集的纯引力束并将其投射到目标中，用相干的引力束消灭目标的组成粒子。,很少有护盾或装甲技术能够承受这种武器引起的异常重力通量。"
+ 
+ tech_avw_arc_emitter_3:0 "交替电弧发射器"
+ tech_avw_arc_emitter_3_desc:0 "作为混沌能量武器的最新进展，这些电弧发射器利用量子场图案将整个电弧的巨大能量输出交替到目标中。,现代屏蔽技术无法补偿交变能量模式，从而导致电弧对目标电子设备造成严重破坏。"
+ tech_avw_arc_emitter_4:0 "多相电弧发射器"
+ tech_avw_arc_emitter_4_desc:0 "最先进的电弧发射器。,这些武器将能量转化为量子场扭曲，提供多相能量弧，同时从多个物理维度打击目标，使有史以来设计的所有能量补偿技术超载。,对目标电子系统造成的损害在能量武器领域是无与伦比的。"
+ 
+ tech_avw_extradimensional_weapon_2:0 "能量湮灭定律"
+ tech_avw_extradimensional_weapon_2_desc:0 "对第七维空间函数的更深入了解揭示了破坏孤立系统的能量流、有效破坏能量并违反长期存在的物理定律的可能性。,使用高度复杂的拓扑场投影仪和第七维能量单元，这些武器可以在目标内实例化异常时间效应，将能量成分从先前的时间点转移到相邻的时间线中。,装甲和船体镀层被消灭，因为它们的组成原子在过去已不复存在，在现在将它们减少为不稳定的快子。"
+ tech_avw_space_cloud_weapon_2:0 "相控超导"
+ tech_avw_space_cloud_weapon_2_desc:0 "材料科学的进步和对虚空云气体成分独特性质的进一步研究揭示了虚空云具有卓越的导电属性，赋予其毁灭性武器。,通过对分子结构进行轻微修改，当武器发射时，气体会经历一种奇特的相变，凝结成具有超导特性的半流体。,该武器系统将大量能量从船舶反应堆直接无损地投射到目标的船体中。"
+ 
+ #Kinetic
+ tech_avw_mass_drivers_6:0 "M型轨道炮"
+ tech_avw_mass_drivers_6_desc:0 "磁场操纵和磁流体动力学的进步现在允许这些轨道炮发射铁水和铀弹。,这些武器以前被认为不如传统的轨道炮，它们将悬浮在临界点的超密度和超热金属流发射到目标中，造成巨大的烧蚀伤害和大量的护盾过载。"
+ tech_avw_mass_drivers_7:0 "Q 张量炮"
+ tech_avw_mass_drivers_7_desc:0 "这些高度先进的质量驱动器用量子力学取代了电磁力载体。,利用空间张量场，动能射弹穿过精确扭曲的时空线圈，实现相对论速度和比前几代质量驱动器令人难以置信的精度。"
+ tech_avw_mass_drivers_8:0 "反强子驱动程序"
+ tech_avw_mass_drivers_8_desc:0 "这个更新版本的 Q-Tensor 加农炮用反物质（特别是重型复合反粒子）取代了传统的射弹。,量子场遏制允许这些武器储存和利用由反粒子构成的熔融超临界金属，使这些武器比前几代武器具有更大的破坏力，因为即使是最复杂的防护系统和装甲也会被物质反物质湮灭摧毁。"
+ tech_avw_mass_drivers_9:0 "夸克物质炮"
+ tech_avw_mass_drivers_9_desc:0 "粒子物理学和量子场限制的进步使得这些新的、强大的质量驱动器能够使用夸克-胶子等离子体来代替传统的物质或反物质。,这种独特的物质状态是在极端的热量和压力下形成的，由最基本的物质成分组成，以单个超密度射弹的形式流入目标，释放出巨大的动能。"
+ tech_avw_mass_drivers_10:0 "引力子驱动器"
+ tech_avw_mass_drivers_10_desc:0 "终极质量驱动器设计。,这一代质量驱动器通过间隙引力场加速射弹，似乎将射弹加速到接近光速。,实际上，射弹通过盘绕的曲速场加速，以假设的 FTL 射弹的动能撞击目标。"
+ 
+ tech_avw_autocannons_4:0 "地狱火自动炮"
+ tech_avw_autocannons_4_desc:0 "新一代自动加农炮利用先进的计算技术来以更高的精度预测和引导目标。,磁场操纵方面的额外进步使这些武器能够获得比前几代武器更高的射速。"
+ tech_avw_autocannons_5:0 "相火自动炮"
+ tech_avw_autocannons_5_desc:0 "量子场技术的最新进展使这些自动炮能够获得更高的射速，压倒性的对抗并产生更高的伤害。,以前认为如果射弹不发生碰撞就不可能实现更高的射速，但现在通过可变量子场函数对每个射弹进行定相来实现，该函数在撞击前不久会衰减，从而使每个射弹在不间断的动能流中占据另一个射弹的空间。"
+ tech_avw_autocannons_6:0 "地狱自动炮"
+ tech_avw_autocannons_6_desc:0 “终极自动炮。超场技术和火控系统的进一步进步使这些武器能够将弹药存储在量子拓扑流形中，从而使武器能够在发射前将每个射弹从时空扭曲到以超光速进入枪管。,这种瞬时加载机制和对旧式定相射弹功能的改进可以实现不可能的射速和更大的破坏。”
+ 
+ tech_avw_kinetic_artillery_3:0 "超动能轰击"
+ tech_avw_kinetic_artillery_3_desc:0 "这些武器比前几代动能火炮威力更大，可发射具有粘性的高质量奇异粒子的弹头，产生更大的破坏潜力。,粒子物理学和材料物理学的进步使这些射弹能够安全地容纳核素质量比传统物质大十倍的危险粒子。"
+ tech_avw_kinetic_artillery_4:0 "超动能轰击"
+ tech_avw_kinetic_artillery_4_desc:0 "随着粒子物理学和能量限制的最新进展，这些武器已经用重子的空间晶格取代了旧的射弹。,这些射弹被人工粘合在一起形成复杂的线圈，其密度比中子星的核心还要大，它们向目标传递出令人难以置信的动力。,很少有装甲和防护技术能够承受如此破坏力。"
+ tech_avw_kinetic_artillery_5:0 "安提重炮"
+ tech_avw_kinetic_artillery_5_desc:0 "材料物理和磁约束方面的创新使这些武器能够有效地利用反物质的力量来制造超密集的弹头。,与前几代动能火炮类似，这些武器利用人工粘合的重子，压缩到令人难以置信的密度，但与前几代不同的是，它使用反重子。,碰撞时产生的物质与反物质湮灭，释放出的破坏力被大大放大。"
+ tech_avw_kinetic_artillery_6:0 "动能相火炮"
+ tech_avw_kinetic_artillery_6_desc:0 "材料物理学和量子场论的进一步进步现在允许这些武器通过格式化的量子场发射射弹，从而使武器系统能够将每个射弹定相为独特的量子态，从而使所有能量在撞击时作为动能释放。,这些武器的穿甲能力和破坏力几乎是超自然的。"
+ tech_avw_kinetic_artillery_7:0 "后动力电池"
+ tech_avw_kinetic_artillery_7_desc:0 "这一代动能火炮通过引力子衰变产生的量子变形场发射射弹，当不同时间范围内的多次碰撞合并时，射弹击中目标时会产生破坏性的快子爆发。,很少有装甲和屏蔽技术能够承受这一点。"
+ 
+ tech_avw_mass_accelerator_3:0 "太拉大炮"
+ tech_avw_mass_accelerator_3_desc:0 "工程创新使这些武器能够将额外的武器系统和能量电容器安装到巨大的固定脊柱支架中，从而允许发射更大、威力更强的射弹。"
+ tech_avw_mass_accelerator_4:0 "佩塔大炮"
+ tech_avw_mass_accelerator_4_desc:0 "这些安装在脊柱上的武器比以前的变体更强大，它们利用能量限制方面的进步在间隙量子场中存储大量能量。,不再需要笨重的电容器，并允许使用更大的武器系统甚至更大的射弹。"
+ tech_avw_mass_accelerator_5:0 "埃克萨大炮"
+ tech_avw_mass_accelerator_5_desc:0 “超场技术的进步使得大多数笨重的脊柱安装武器系统可以转移到量子拓扑流形中。由于所有武器系统和射弹都位于虚拟化空间内，因此武器现在可以发射更大的射弹。”
+ tech_avw_mass_accelerator_6:0 "泽塔大炮"
+ tech_avw_mass_accelerator_6_desc:0 "量子技术和超场技术的进一步进步使得武器系统可以转移到独立于舰船的拓扑流形中。,从物理上讲，炮管和武器系统现在可以比船本身大得多，不受船体舱的限制，脊柱安装的火炮作为大型动能射弹的简单出口。"
+ tech_avw_mass_accelerator_7:0 "尤塔大炮"
+ tech_avw_mass_accelerator_7_desc:0 "这种动能火炮的变种取代了大多数常规武器系统，并通过间隙引力场发射射弹，将弹药加速到相对论速度，同时集成拓扑场允许武器发射比脊柱支架常规支持的更大的射弹。,很少有目标能够在技术上比自身大许多倍的动能射弹的撞击下幸存下来。"
+ 
+ #Missiles
+ tech_avw_missiles_6:0 "哨兵导弹"
+ tech_avw_missiles_6_desc:0 “用于制导控制的微感知人工智能是通过将弹头飞入目标的人工指令来实例化的，失败意味着宇宙的终结。尽管存在伦理问题，微感知人工智能的诞生，其理念是，,宇宙所依赖的成功撞击在躲避反制措施和击中重要系统方面远远优于传统制导系统。”
+ tech_avw_missiles_7:0 "相对论导弹"
+ tech_avw_missiles_7_desc:0 "超场技术的最新进展使这些导弹能够使用基于传统超驱动器的驱动器。,这些导弹能够在不真正进入超空间的情况下达到接近光速的相对论速度，甚至可以在传感器收到返回信号以指导对抗措施之前打击大多数目标。"
+ tech_avw_missiles_8:0 "转移能量导弹"
+ tech_avw_missiles_8_desc:0 "物质-能量转换的最新进展使这些导弹能够在爆炸时控制能量输出。,与传统弹头不同，这些导弹可以应用特定的量子场函数，将其爆炸修改为针对目标内重要系统的高能奇异辐射流。,敌人的反制措施和护盾系统在适应不同的能量功能之前可以轻松规避。"
+ tech_avw_missiles_9:0 "N物质导弹"
+ tech_avw_missiles_9_desc:0 "这些导弹利用材料物理学的进步和奇异的能量限制来利用负质量粒子的独特性质。,弹头含有负质量粒子的导弹向目标发射，即使对抗措施成功摧毁导弹，释放的有效载荷也具有高度破坏性，因为目标的组成粒子被失控运动撕碎。"
+ tech_avw_missiles_10:0 "引力子导弹"
+ tech_avw_missiles_10_desc:0 “材料物理和引力子研究方面的创新使这些导弹能够发射具有粘性引力子的奇异有效载荷。当被释放时，无论是通过导弹破坏还是成功撞击，引力子立即衰变成混乱的重力场。极端的引力通量足以分解目标的引力场。”,与以前的常规导弹不同，这些弹头在向目标发射时几乎是不可阻挡的。”
+ 
+ tech_avw_swarmer_missiles_3:0 "台风导弹"
+ tech_avw_swarmer_missiles_3_desc:0 "工程和计算技术的进步使这些导弹能够形成可适应飞行的复杂飞行几何形状。,这些导弹会扰乱现代点防御系统，并形成飞行路径，对目标的重要系统造成最大损害。"
+ tech_avw_swarmer_missiles_4:0 "铁砧导弹"
+ tech_avw_swarmer_missiles_4_desc:0 "物质-能量限制方面的最新创新使这些武器能够容纳小型反物质弹头。,工程师现在可以设计遏制系统，不仅包含反质子弹头，而且还可以在使用反物质湮灭的小型反应控制系统中利用这些反质子，使每枚导弹都具有令人难以置信的躲避能力和不可预测性。"
+ tech_avw_swarmer_missiles_5:0 "女妖导弹"
+ tech_avw_swarmer_missiles_5_desc:0 "人工智能技术的进一步进步使这些导弹能够使用微感知人工智能对整个导弹群进行制导控制，从而为每枚导弹提供完美的飞行模式，以压倒每一个点防御系统。,这些武器的弹头也得到了改进，使用量子场函数来针对每次撞击进行定向能量输出。"
+ 
+ tech_avw_torpedoes_4:0 "歼灭者鱼雷"
+ tech_avw_torpedoes_4_desc:0 "工程和物质能量限制的进一步进步使得这些弹头能够利用巨大反物质弹头中的反粒子。,即使使用如此庞大的限制设备，这些鱼雷的尺寸也允许每个弹头携带数吨反物质，使得这些鱼雷的破坏性输出几乎无与伦比，即使它们没有击中目标。"
+ tech_avw_torpedoes_5:0 "消灭者鱼雷"
+ tech_avw_torpedoes_5_desc:0 "空间科学和超场技术的创新通过将所有限制设备和驱动系统存储在量子拓扑流形中，使这些鱼雷能够武器化更大的弹头。,随着所有舰载设备在量子空间中虚拟化，鱼雷现在可以使用大量高功率护盾调制器来穿过更先进的护盾系统。"
+ tech_avw_torpedoes_6:0 "相对论鱼雷"
+ tech_avw_torpedoes_6_desc:0 "与前几代鱼雷相比的进一步创新使这些武器能够使用基于传统超驱动器的驱动器。,在没有完全进入超空间的情况下，这些导弹的速度接近光速，除了使鱼雷更难以击中之外，还增加了动能释放，因为大多数传感器技术接收不到足够快的返回信号来指导点防御。"
+ tech_avw_torpedoes_7:0 "引力子鱼雷"
+ tech_avw_torpedoes_7_desc:0 "粒子限制的巨大飞跃使这些鱼雷能够用有限的基本引力子质量取代旧的弹头。,由于尺寸不受限制，弹头中的引力子数量在撞击时会产生独特数量的奇异能量。,撞击时产生的引力通量能够将大多数目标撕碎成等离子体，因为释放的引力可与整个行星的引力相媲美。"
+ 
+ #Misc
+ tech_avw_pd_tracking_4:0 "守门人点防御"
+ tech_avw_pd_tracking_4_desc:0 "人工智能的进步使这些武器能够利用微感知人工智能来大大改进威胁跟踪和预测。,机载微感知人工智能完全致力于生成能够击退大多数进攻性弹药的射击解决方案。"
+ tech_avw_pd_tracking_5:0 "守望者点防御"
+ tech_avw_pd_tracking_5_desc:0 "更新的弹药系统和物质能量操纵的进步使得这些武器能够发射带有转移能量弹头的弹药。,每种弹药无需使用复杂的系统来管理多种弹药类型，而是可以对爆炸时释放的能量进行格式化，以对每种特定的传入威胁造成最大的损害。"
+ tech_avw_pd_tracking_6:0 "监护人点防御"
+ tech_avw_pd_tracking_6_desc:0 "这一代的点防御利用量子场操纵的进步，使每个射弹能够以几乎不可能的精度拦截传入的威胁。,每一种弹药都含有有限的引力子，利用快速的引力子衰变和产生的量子场变形，将弹药以相对论速度移动到由传入威胁产生的重力场中。"
+ 
+ tech_avw_flak_batteries_4:0 "高射炮轰击"
+ tech_avw_flak_batteries_4_desc:0 "材料物理学的进步使这些武器的火控系统更加精简，枪管更大，从而能够发射更大的射弹，爆炸范围更大，强度更高。,高强度等离子体和熔化弹片的通道对于敌方攻击机来说是异常致命的。"
+ tech_avw_flak_batteries_5:0 "高射榴弹炮"
+ tech_avw_flak_batteries_5_desc:0 "对前几代武器的升级和超场物理方面的创新使这些武器能够将火控系统转移到量子拓扑流形中，进一步提高了这些武器的发射口径。,巨大的弹药具有大范围的杀伤力，使敌方攻击机几乎不可能躲避来袭的高射炮火。"
+ tech_avw_flak_batteries_6:0 "高射炮阵列"
+ tech_avw_flak_batteries_6_desc:0 "这些武器利用小型化技术建立更小的高射炮阵列，具有更高的移动自由度。,这些武器系统可以通过向各个攻击途径发射射弹来压倒敌方攻击机。,此外，发射的弹药使用不稳定的奇异粒子而不是简单的熔融金属，使高射炮爆炸能够利用不可预测的致命原子反应撕碎攻击机和导弹外壳。"
+ 
+ tech_avw_strike_craft_4:0 "高级打击工艺"
+ tech_avw_strike_craft_4_desc:0 "工程和传感器技术的创新使前几代攻击机变得过时。,这一代进一步改进了航空电子设备和武器系统，现在采用小型化防护系统来防御高射炮和能量武器。"
+ tech_avw_strike_craft_5:0 "卓越的攻击工艺"
+ tech_avw_strike_craft_5_desc:0 "超场物理学的进一步改进使这些攻击机能够使用更强大的系统，将最庞大的部分存储在量子拓扑流形中。,这种能力使这些攻击机能够发挥远远超过前几代的火力，其防护和推力系统超出了最初认为单一攻击机所能达到的水平。"
+ tech_avw_strike_craft_6:0 "终极打击工艺"
+ tech_avw_strike_craft_6_desc:0 "与前几代相比，这些攻击艇完全重新设计，配有物质能量反应堆和引力推进器。,航空电子设备、推力和武器系统超越了以前的设计方法，使这些攻击机能够以接近相对论的速度飞行，并在威胁完全显现之前解释和躲避威胁。,在机载微感知人工智能的协助下，这些攻击艇配备了超越大多数老式护卫舰的防护罩，是微小尺寸和火力的完美结合。"
+ 
+ tech_avw_titan_weapon_2:0 "混乱光束"
+ tech_avw_titan_weapon_2_desc:0 "利用超场物理学的创新，这种武器将巨大的电容器移动到量子拓扑流形中，从而允许在放大电路中建立巨大的能量波。,捕获的快子云通过电离气体束引导，并以巨大的火力释放。,与它的前身一样，它只能安装在泰坦级星际飞船上。"
+ tech_avw_titan_weapon_3:0 "消灭光束"
+ tech_avw_titan_weapon_3_desc:0 "这种大型武器系统用磁流体动力核心取代了昂贵的快子发射器，该核心发射的夸克-胶子等离子体束可与小型超新星释放的能量相媲美。,武器核心通过量子网关积聚高密度金属原子，在太空中释放出致命且不可阻挡的夸克-胶子等离子体束。,如果不是部分存储在量子空间流形中，这种武器系统的巨大尺寸甚至会让泰坦级星际飞船相形见绌。"
+ 
+ ####################################
+ # Component Sets
+ ####################################
+ 
+ #Energy
+ AVW_LASER_6:0 "超伽马激光"
+ AVW_LASER_6_DESC:0 "$tech_avw_lasers_6_desc$"
+ AVW_LASER_7:0 "正电子激光"
+ AVW_LASER_7_DESC:0 "$tech_avw_lasers_7_desc$"
+ AVW_LASER_8:0 "量子激光"
+ AVW_LASER_8_DESC:0 "$tech_avw_lasers_8_desc$"
+ AVW_LASER_9:0 "暗射线激光"
+ AVW_LASER_9_DESC:0 "$tech_avw_lasers_9_desc$"
+ AVW_LASER_10:0 "引力子激光"
+ AVW_LASER_10_DESC:0 "$tech_avw_lasers_10_desc$"
+ 
+ AVW_PLASMA_4:0 "等离子火炮"
+ AVW_PLASMA_4_DESC:0 "$tech_avw_plasma_4_desc$"
+ AVW_PLASMA_5:0 "等离子冲击波"
+ AVW_PLASMA_5_DESC:0 "$tech_avw_plasma_5_desc$"
+ AVW_PLASMA_6:0 "等离子移相器"
+ AVW_PLASMA_6_DESC:0 "$tech_avw_plasma_6_desc$"
+ 
+ AVW_DISRUPTOR_4:0 "谐振相位干扰器"
+ AVW_DISRUPTOR_4_DESC:0 "$tech_avw_disruptors_4_desc$"
+ AVW_DISRUPTOR_5:0 "重子干扰者"
+ AVW_DISRUPTOR_5_DESC:0 "$tech_avw_disruptors_5_desc$"
+ AVW_DISRUPTOR_6:0 "引力干扰器"
+ AVW_DISRUPTOR_6_DESC:0 "$tech_avw_disruptors_6_desc$"
+ 
+ AVW_ENERGY_TORPEDO_3:0 "强子发射器"
+ AVW_ENERGY_TORPEDO_3_DESC:0 "$tech_avw_energy_torpedoes_3_desc$"
+ AVW_ENERGY_TORPEDO_4:0 "反物质发射器"
+ AVW_ENERGY_TORPEDO_4_DESC:0 "$tech_avw_energy_torpedoes_4_desc$"
+ AVW_ENERGY_TORPEDO_5:0 "N 物质发射器"
+ AVW_ENERGY_TORPEDO_5_DESC:0 "$tech_avw_energy_torpedoes_5_desc$"
+ 
+ AVW_ENERGY_LANCE_3:0 "暗物质长矛"
+ AVW_ENERGY_LANCE_3_DESC:0 "$tech_avw_energy_lance_3_desc$"
+ AVW_ENERGY_LANCE_4:0 "中微子枪"
+ AVW_ENERGY_LANCE_4_DESC:0 "$tech_avw_energy_lance_4_desc$"
+ AVW_ENERGY_LANCE_5:0 "正电子枪"
+ AVW_ENERGY_LANCE_5_DESC:0 "$tech_avw_energy_lance_5_desc$"
+ AVW_ENERGY_LANCE_6:0 "N物质长枪"
+ AVW_ENERGY_LANCE_6_DESC:0 "$tech_avw_energy_lance_6_desc$"
+ AVW_ENERGY_LANCE_7:0 "引力枪"
+ AVW_ENERGY_LANCE_7_DESC:0 "$tech_avw_energy_lance_7_desc$"
+ 
+ AVW_ARC_EMITTER_3:0 "交替电弧发射器"
+ AVW_ARC_EMITTER_3_DESC:0 "$tech_avw_arc_emitter_3_desc$"
+ AVW_ARC_EMITTER_4:0 "多相电弧发射器"
+ AVW_ARC_EMITTER_4_DESC:0 "$tech_avw_arc_emitter_4_desc$"
+  
+ AVW_EXTRADIMENSIONAL_2:0 "物质歼灭者"
+ AVW_EXTRADIMENSIONAL_2_DESC:0 "$tech_avw_extraDimension_weapon_2$"
+ AVW_SPACE_CLOUD_WEAPON_2:0 "相位闪电"
+ AVW_SPACE_CLOUD_WEAPON_2_DESC:0 "$tech_avw_space_cloud_weapon_2$"
+  
+ #Kinetic
+ AVW_MASS_DRIVER_6:0 "M型轨道炮"
+ AVW_MASS_DRIVER_6_DESC:0 "$tech_avw_mass_drivers_6_desc$"
+ AVW_MASS_DRIVER_7:0 "Q张量炮"
+ AVW_MASS_DRIVER_7_DESC:0 "$tech_avw_mass_drivers_7_desc$"
+ AVW_MASS_DRIVER_8:0 "反强子驱动程序"
+ AVW_MASS_DRIVER_8_DESC:0 "$tech_avw_mass_drivers_8_desc$"
+ AVW_MASS_DRIVER_9:0 "夸克物质炮"
+ AVW_MASS_DRIVER_9_DESC:0 "$tech_avw_mass_drivers_9_desc$"
+ AVW_MASS_DRIVER_10:0 "引力驱动器"
+ AVW_MASS_DRIVER_10_DESC:0 "$tech_avw_mass_drivers_10_desc$"
+ 
+ AVW_AUTOCANNON_4:0 "地狱火自动炮"
+ AVW_AUTOCANNON_4_DESC:0 "$tech_avw_autocannons_4_desc$"
+ AVW_AUTOCANNON_5:0 "相火自动炮"
+ AVW_AUTOCANNON_5_DESC:0 "$tech_avw_autocannons_5_desc$"
+ AVW_AUTOCANNON_6:0 "地狱自动炮"
+ AVW_AUTOCANNON_6_DESC:0 "$tech_avw_autocannons_6_desc$"
+ 
+ AVW_KINETIC_ARTILLERY_3:0 "超动能轰击"
+ AVW_KINETIC_ARTILLERY_3_DESC:0 "$tech_avw_kinetic_artillery_3_desc$"
+ AVW_KINETIC_ARTILLERY_4:0 "超动能轰击"
+ AVW_KINETIC_ARTILLERY_4_DESC:0 "$tech_avw_kinetic_artillery_4_desc$"
+ AVW_KINETIC_ARTILLERY_5:0 "安提重炮"
+ AVW_KINETIC_ARTILLERY_5_DESC:0 "$tech_avw_kinetic_artillery_5_desc$"
+ AVW_KINETIC_ARTILLERY_6:0 "动能相火炮"
+ AVW_KINETIC_ARTILLERY_6_DESC:0 "$tech_avw_kinetic_artillery_6_desc$"
+ AVW_KINETIC_ARTILLERY_7:0 "后动力电池"
+ AVW_KINETIC_ARTILLERY_7_DESC:0 "$tech_avw_kinetic_artillery_7_desc$"
+ 
+ AVW_MASS_ACCELERATOR_3:0 "泰拉大炮"
+ AVW_MASS_ACCELERATOR_3_DESC:0 "$tech_avw_mass_accelerator_3_desc$"
+ AVW_MASS_ACCELERATOR_4:0 "佩塔大炮"
+ AVW_MASS_ACCELERATOR_4_DESC:0 "$tech_avw_mass_accelerator_4_desc$"
+ AVW_MASS_ACCELERATOR_5:0 "埃克萨加农炮"
+ AVW_MASS_ACCELERATOR_5_DESC:0 "$tech_avw_mass_accelerator_5_desc$"
+ AVW_MASS_ACCELERATOR_6:0 "泽塔加农炮"
+ AVW_MASS_ACCELERATOR_6_DESC:0 "$tech_avw_mass_accelerator_6_desc$"
+ AVW_MASS_ACCELERATOR_7:0 "尤塔大炮"
+ AVW_MASS_ACCELERATOR_7_DESC:0 "$tech_avw_mass_accelerator_7_desc$"
+ 
+ #Missiles
+ AVW_MISSILE_6:0 "$tech_avw_missiles_6$"
+ AVW_MISSILE_6_DESC:0 "$tech_avw_missiles_6_desc$"
+ AVW_MISSILE_7:0 "$tech_avw_missiles_7$"
+ AVW_MISSILE_7_DESC:0 "$tech_avw_missiles_7_desc$"
+ AVW_MISSILE_8:0 "$tech_avw_missiles_8$"
+ AVW_MISSILE_8_DESC:0 "$tech_avw_missiles_8_desc$"
+ AVW_MISSILE_9:0 "$tech_avw_missiles_9$"
+ AVW_MISSILE_9_DESC:0 "$tech_avw_missiles_9_desc$"
+ AVW_MISSILE_10:0 "$tech_avw_missiles_10$"
+ AVW_MISSILE_10_DESC:0 "$tech_avw_missiles_10_desc$"
+ 
+ AVW_SWARMER_MISSILE_3:0 "$tech_avw_swarmer_missiles_3$"
+ AVW_SWARMER_MISSILE_3_DESC:0 "$tech_avw_swarmer_missiles_3_desc$"
+ AVW_SWARMER_MISSILE_4:0 "$tech_avw_swarmer_missiles_4$"
+ AVW_SWARMER_MISSILE_4_DESC:0 "$tech_avw_swarmer_missiles_4_desc$"
+ AVW_SWARMER_MISSILE_5:0 "$tech_avw_swarmer_missiles_5$"
+ AVW_SWARMER_MISSILE_5_DESC:0 "$tech_avw_swarmer_missiles_5_desc$"
+ 
+ AVW_TORPEDO_4:0 "$tech_avw_torpedoes_4$"
+ AVW_TORPEDO_4_DESC:0 "$tech_avw_torpedoes_4_desc$"
+ AVW_TORPEDO_5:0 "$tech_avw_torpedoes_5$"
+ AVW_TORPEDO_5_DESC:0 "$tech_avw_torpedoes_5_desc$"
+ AVW_TORPEDO_6:0 "$tech_avw_torpedoes_6$"
+ AVW_TORPEDO_6_DESC:0 "$tech_avw_torpedoes_6_desc$"
+ AVW_TORPEDO_7:0 "$tech_avw_torpedoes_7$"
+ AVW_TORPEDO_7_DESC:0 "$tech_avw_torpedoes_7_desc$"
+ 
+ #Misc
+ AVW_PD_4:0 "$tech_avw_pd_tracking_4$"
+ AVW_PD_4_DESC:0 "$tech_avw_pd_tracking_4_desc$"
+ AVW_PD_5:0 "$tech_avw_pd_tracking_5$"
+ AVW_PD_5_DESC:0 "$tech_avw_pd_tracking_5_desc$"
+ AVW_PD_6:0 "$tech_avw_pd_tracking_6$"
+ AVW_PD_6_DESC:0 "$tech_avw_pd_tracking_6_desc$"
+ 
+ AVW_FLAK_4:0 "$tech_avw_flak_batteries_4$"
+ AVW_FLAK_4_DESC:0 "$tech_avw_flak_batteries_4_desc$"
+ AVW_FLAK_5:0 "$tech_avw_flak_batteries_5$"
+ AVW_FLAK_5_DESC:0 "$tech_avw_flak_batteries_5_desc$"
+ AVW_FLAK_6:0 "$tech_avw_flak_batteries_6$"
+ AVW_FLAK_6_DESC:0 "$tech_avw_flak_batteries_6_desc$"
+ 
+ AVW_STRIKE_CRAFT_4:0 "$tech_avw_strike_craft_4$"
+ AVW_STRIKE_CRAFT_4_DESC:0 "$tech_avw_strike_craft_4_desc$"
+ AVW_STRIKE_CRAFT_5:0 "$tech_avw_strike_craft_5$"
+ AVW_STRIKE_CRAFT_5_DESC:0 "$tech_avw_strike_craft_5_desc$"
+ AVW_STRIKE_CRAFT_6:0 "$tech_avw_strike_craft_6$"
+ AVW_STRIKE_CRAFT_6_DESC:0 "$tech_avw_strike_craft_6_desc$"
+ 
+ AVW_PERDITION_BEAM_2:0 "$tech_avw_titan_weapon_2$"
+ AVW_PERDITION_BEAM_2_DESC:0 "$tech_avw_titan_weapon_2_desc$"
+ AVW_PERDITION_BEAM_3:0 "$tech_avw_titan_weapon_3$"
+ AVW_PERDITION_BEAM_3_DESC:0 "$tech_avw_titan_weapon_3_desc$"
+ 
+ ####################################
+ # Component Templates
+ ####################################
+ 
+ #Energy
+ AVW_SMALL_LASER_6:0 "小$AVW_LASER_6$"
+ AVW_MEDIUM_LASER_6:0 "中$AVW_LASER_6$"
+ AVW_LARGE_LASER_6:0 "大$AVW_LASER_6$"
+ AVW_SMALL_LASER_7:0 "小$AVW_LASER_7$"
+ AVW_MEDIUM_LASER_7:0 "中$AVW_LASER_7$"
+ AVW_LARGE_LASER_7:0 "大$AVW_LASER_7$"
+ AVW_SMALL_LASER_8:0 "小$AVW_LASER_8$"
+ AVW_MEDIUM_LASER_8:0 "中$AVW_LASER_8$"
+ AVW_LARGE_LASER_8:0 "大$AVW_LASER_8$"
+ AVW_SMALL_LASER_9:0 "小$AVW_LASER_9$"
+ AVW_MEDIUM_LASER_9:0 "中$AVW_LASER_9$"
+ AVW_LARGE_LASER_9:0 "大$AVW_LASER_9$"
+ AVW_SMALL_LASER_10:0 "小$AVW_LASER_10$"
+ AVW_MEDIUM_LASER_10:0 "中$AVW_LASER_10$"
+ AVW_LARGE_LASER_10:0 "大$AVW_LASER_10$"
+ 
+ AVW_SMALL_PLASMA_4:0 "小$AVW_PLASMA_4$"
+ AVW_MEDIUM_PLASMA_4:0 "中$AVW_PLASMA_4$"
+ AVW_LARGE_PLASMA_4:0 "大$AVW_PLASMA_4$"
+ AVW_SMALL_PLASMA_5:0 "小$AVW_PLASMA_5$"
+ AVW_MEDIUM_PLASMA_5:0 "中 $AVW_PLASMA_5$"
+ AVW_LARGE_PLASMA_5:0 "大$AVW_PLASMA_5$"
+ AVW_SMALL_PLASMA_6:0 "小$AVW_PLASMA_6$"
+ AVW_MEDIUM_PLASMA_6:0 "中 $AVW_PLASMA_6$"
+ AVW_LARGE_PLASMA_6:0 "大$AVW_PLASMA_6$"
+ 
+ AVW_SMALL_DISRUPTOR_4:0 "小$AVW_DISRUPTOR_4$"
+ AVW_MEDIUM_DISRUPTOR_4:0 "中 $AVW_DISRUPTOR_4$"
+ AVW_SMALL_DISRUPTOR_5:0 "小$AVW_DISRUPTOR_5$"
+ AVW_MEDIUM_DISRUPTOR_5:0 "中 $AVW_DISRUPTOR_5$"
+ AVW_SMALL_DISRUPTOR_6:0 "小$AVW_DISRUPTOR_6$"
+ AVW_MEDIUM_DISRUPTOR_6:0 "中 $AVW_DISRUPTOR_6$"
+ 
+ AVW_SMALL_ED_WEAPON_2:0 "小$AVW_EXTRADIMENSIONAL_2$"
+ AVW_MEDIUM_ED_WEAPON_2:0 "中$AVW_EXTRADIMENSIONAL_2$"
+ AVW_LARGE_ED_WEAPON_2:0 "大$AVW_EXTRADIMENSIONAL_2$"
+ 
+ #Kinetic
+ AVW_SMALL_MASS_DRIVER_6:0 "小$AVW_MASS_DRIVER_6$"
+ AVW_MEDIUM_MASS_DRIVER_6:0 "中 $AVW_MASS_DRIVER_6$"
+ AVW_LARGE_MASS_DRIVER_6:0 "大$AVW_MASS_DRIVER_6$"
+ AVW_SMALL_MASS_DRIVER_7:0 "小$AVW_MASS_DRIVER_7$"
+ AVW_MEDIUM_MASS_DRIVER_7:0 "中 $AVW_MASS_DRIVER_7$"
+ AVW_LARGE_MASS_DRIVER_7:0 "大$AVW_MASS_DRIVER_7$"
+ AVW_SMALL_MASS_DRIVER_8:0 "小$AVW_MASS_DRIVER_8$"
+ AVW_MEDIUM_MASS_DRIVER_8:0 "中 $AVW_MASS_DRIVER_8$"
+ AVW_LARGE_MASS_DRIVER_8:0 "大$AVW_MASS_DRIVER_8$"
+ AVW_SMALL_MASS_DRIVER_9:0 "小$AVW_MASS_DRIVER_9$"
+ AVW_MEDIUM_MASS_DRIVER_9:0 "中 $AVW_MASS_DRIVER_9$"
+ AVW_LARGE_MASS_DRIVER_9:0 "大$AVW_MASS_DRIVER_9$"
+ AVW_SMALL_MASS_DRIVER_10:0 "小$AVW_MASS_DRIVER_10$"
+ AVW_MEDIUM_MASS_DRIVER_10:0 "中 $AVW_MASS_DRIVER_10$"
+ AVW_LARGE_MASS_DRIVER_10:0 "大$AVW_MASS_DRIVER_10$"
+ 
+ AVW_SMALL_AUTOCANNON_4:0 "小$AVW_AUTOCANNON_4$"
+ AVW_MEDIUM_AUTOCANNON_4:0 "中 $AVW_AUTOCANNON_4$"
+ AVW_LARGE_AUTOCANNON_4:0 "大型$AVW_AUTOCANNON_4$"
+ AVW_SMALL_AUTOCANNON_5:0 "小$AVW_AUTOCANNON_5$"
+ AVW_MEDIUM_AUTOCANNON_5:0 "中 $AVW_AUTOCANNON_5$"
+ AVW_LARGE_AUTOCANNON_5:0 "大型 $AVW_AUTOCANNON_5$"
+ AVW_SMALL_AUTOCANNON_6:0 "小$AVW_AUTOCANNON_6$"
+ AVW_MEDIUM_AUTOCANNON_6:0 "中 $AVW_AUTOCANNON_6$"
+ AVW_LARGE_AUTOCANNON_6:0 "大型$AVW_AUTOCANNON_6$"
+ 
+ #Missiles
+ 
+ 
+ #Misc
+ 
+

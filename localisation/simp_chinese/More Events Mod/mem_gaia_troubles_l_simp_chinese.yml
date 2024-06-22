@@ -1,0 +1,67 @@
+﻿l_simp_chinese:
+ 
+ mem_gaia_troubles.name:0 "新盖亚世界"
+ mem_gaia_troubles.desc:0 "这个盖亚世界对我们来说是完美的。,对这个星球的探索已经开始。"
+ 
+ mem_gaia_troubles.2.name:0 "一个锤子？"
+ mem_gaia_troubles.2.desc:0 "在 §Y[From.GetName]§! 的一个地下洞穴中，一支侦察队发现了一个令人惊叹的洞穴网络，这些洞穴似乎在地表下绵延数英里。,在搜寻洞穴时，我们似乎偶然发现了一个非常大的洞穴。,这个洞穴非常不自然，几乎是圆形的。,中心有一块小岩石，上面有一个发出微弱电磁信号的物体。,该物体的设计出乎意料——它只能被描述为类似于中世纪的战锤！"
+ mem_gaia_troubles.2.a:0 "让它保持原状，这与我们无关。"
+ mem_gaia_troubles.2.b:0 "移除这件神器并将其带到我们的首都进行研究。"
+ mem_gaia_troubles.2.c:0 "作为展览向公众开放。"
+ mem_gaia_troubles.2.d:0 "我们应该在地球上检查它而不移动它。"
+ mem_gaia_troubles.2.e:0 "你说的是电磁信号吗？,让我们看看它是否响应我们的。"
+
+ mem_gaia_troubles.3.name:0 "未触及的神器"
+ mem_gaia_troubles.3.desc:0 "我们选择不碰这件文物意味着我们可能会错过发现一些古老技术的机会，但我们宁愿不冒险释放一些可能伤害我们这个伟大星球的东西。"
+ mem_gaia_troubles.3.a:0 "至少这并没有带来什么不好的结果！"
+
+ mem_gaia_troubles.4.name:0 "令人不安的变化"
+ mem_gaia_troubles.4.desc:0 "§Y[From.GetName]§! 出现了危险天气。,我们一些比较狂野的科学家认为，这可能是因为我们从 §Y[From.GetName]§! 中移除了神器。,然而，科学界的大多数人认为这只是巧合。"
+ mem_gaia_troubles.4.a:0 "这些人是如何重新获得职位的？"
+ mem_gaia_troubles.4.b:0 "退货吧，安全总比后悔好。"
+
+ mem_gaia_troubles.5.name:0 "令人不安的变化"
+ mem_gaia_troubles.5.desc:0 "§Y[From.GetName]§! 上正在发生大规模的构造活动，鉴于该行星通常很少有此类活动，这让该行星上的民众非常担心。,许多城市在地震中遭到严重破坏。,来自科学界的报告表明，现在有更多的科学家支持这样的观点，即这些奇怪的事件是由于我们移走文物而引起的。"
+ mem_gaia_troubles.5.a:0 "这只是一个巧合。"
+ mem_gaia_troubles.5.b:0 "我们必须停下来。,返回神器。"
+
+ mem_gaia_troubles.6.name:0 "令人不安的变化"
+ mem_gaia_troubles.6.desc:0 "§Y[From.GetName]§! 发生了一些不寻常的事情。,地球的引力大幅增加。,我们的首席科学家对这究竟是如何发生的感到困惑。"
+ mem_gaia_troubles.6.a:0 "工作必须继续下去！"
+ mem_gaia_troubles.6.b:0 "好吧...现在是时候归还这件神器了。"
+
+ mem_gaia_troubles.7.name:0 "令人不安的变化"
+ mem_gaia_troubles.7.desc:0 "§Y[From.GetName]§! 的整个生态系统,已经在我们眼前崩溃了。,森林不复存在，海洋干涸，沙漠遍布整个地球。,我们数以百万计的人民现在生活在一个与他们不久前所认识的世界截然不同的世界。,科学界的大多数人现在敦促我们将这件文物送回地球，因为他们担心情况可能会变得更糟。,然而，我们从这件文物中获得的科学成果是巨大的。"
+ mem_gaia_troubles.7.a:0 "不惜一切代价，坚持下去！"
+ mem_gaia_troubles.7.b:0 "我们可以在为时已晚之前阻止这一切！"
+
+ mem_gaia_troubles.8.name:0 "令人不安的变化"
+ mem_gaia_troubles.8.desc:0 "不，那不可能发生。,我们应该听他们的..."
+ mem_gaia_troubles.8.a:0 "现在已经太晚了..."
+
+ mem_gaia_troubles.9.name:0 "令人不安的变化"
+ mem_gaia_troubles.9.desc:0 "§Y[From.GetName]§!,现在是一颗行星的外壳。,现在充满了有毒气体，生命不太可能再次在那里生存。"
+ mem_gaia_troubles.9.a:0 "也许我们这次走得太远了……"
+
+ mem_gaia_troubles.10.name:0 "神器归还"
+ mem_gaia_troubles.10.desc:0 "知道我们对这件文物的了解超出了我们的了解，归还它的决定受到了科学界许多人士的欢迎。,虽然有些人仍然想进行测试，但他们对其中可能隐藏的任何秘密的渴望必须等到另一天。"
+ mem_gaia_troubles.10.a:0 "至少不会发生其他不好的事情，对吧？"
+
+ mem_gaia_troubles.20.name:0 "电磁测试"
+ mem_gaia_troubles.20.desc:0 "设备正在运送至 §Y[From.GetName]§!,为测试做准备。,他们开始后不久您就会收到通知。"
+
+ mem_gaia_troubles.21.name:0 "电磁测试"
+ mem_gaia_troubles.21.desc:0 "上一轮测试揭示了有关该文物的更多花絮，但不足以得出任何可靠的结论。,关于电磁束的强度，我们下一步应该采取什么行动？"
+ mem_gaia_troubles.21.a:0 "提高强度并重试。"
+ mem_gaia_troubles.21.b:0 "让我们尝试将其降低一点。"
+
+ mem_gaia_troubles.22.name:0 "电磁测试"
+ mem_gaia_troubles.22.desc:0 "上一轮测试揭示了有关该文物的更多信息，但不足以得出任何可靠的结论。,关于电磁束的强度，我们下一步应该采取什么行动？"
+ mem_gaia_troubles.22.a:0 "提高强度并重试。"
+ mem_gaia_troubles.22.b:0 "让我们尝试将其降低一点。"
+
+ mem_gaia_troubles.23.name:0 "电磁测试"
+ mem_gaia_troubles.23.desc:0 "EM 测试没有产生对我们有任何用处的信息。,我们现在唯一知道的是，不要对我们不了解的事情这么快下结论。"
+
+ mem_gaia_troubles.24.name:0 "电磁测试"
+ mem_gaia_troubles.24.desc:0 "我们似乎已经‘激活’了这个神器。,好吧，我们不太确定我们做了什么。,将电磁波束调整到特定频率后，许多无人机从洞穴底部隐藏的吊舱中升起，飞向高层大气，直接穿过洞穴天花板！,我们的卫星检测到他们的武器正在充电。,我们应该准备好保卫自己。"

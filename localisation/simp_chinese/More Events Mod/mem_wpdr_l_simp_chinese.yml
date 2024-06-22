@@ -1,0 +1,31 @@
+﻿﻿# Weapon Platform Deployment Rig
+
+l_simp_chinese:
+
+ mem_wpdr_capital_ship: "武器平台部署装置"
+ mem_wpdr_capital_ship_plural: "武器平台部署装置"
+ mem_wpdr_tiny_ship: "移动平台"
+ mem_wpdr_tiny_ship_plural: "移动平台"
+
+ mem_wpdr_capital_ship_key: ""
+ mem_wpdr_tiny_ship_key: ""
+
+ r_mem_wpdr_production_matrix: "UTA 制造矩阵"
+ r_mem_wpdr_production_matrix_desc: "该组件从 UTA Rig Indomitable Valour 中回收，负责快速生产移动武器平台，由§Y通用运输联盟§!使用。,在其过早消亡之前。"
+ mem_wpdr_production_matrix_tooltip: "立即创建§S8§！,首都的移动平台配备随机武器（§Y$ENERGY_LANCE_1$§!、§Y$MASS_ACCELERATOR_1$§! 或 §Y$ARC_EMITTER_1$§!）。"
+
+ MEM_WPDR_BOARD_WRECK: "董事会不屈不挠的勇气"
+ MEM_WPDR_BOARD_WRECK_DESC: "§Y[capital_ship.Solar_System.GetName]§! 的一艘大船,已被禁用。 ,\n\n我们可以派船员登上它并揭开它的秘密。"
+
+ mem_wpdr.3.name: "不屈不挠的勇气 残疾"
+ mem_wpdr.3.desc: "我们对§SIndomitable Valor§造成了重大损害！,在 §Y[From.Solar_System.GetName]§! 的战斗中,导致船舶无法使用。 ,\n\n我们可以派遣一艘§Y科学船§!,登上这艘船并了解更多有关其独特技术和历史的信息。"
+ mem_wpdr.3.a: "就这样吧。"
+ mem_wpdr.4.name: "不屈不挠的勇气"
+ mem_wpdr.4.desc: "§Y[Leader.GetName]§!,报告成功登上并研究§SIndomitable Valor§！ ,- 在 [capital_ship.Solar_System.GetName] 中发现的一艘巨大战舰。 ,\n\n这艘船是由§S环球运输联盟§!建造和运营的，该组织是在几千年前某种银河政治危机后成立的。,当时的许多势力都已经崩溃，导致贸易路线得不到保护，并且容易受到日益猖獗的海盗袭击，直到一个非政府组织不得不介入。该联盟运营着许多大型主力舰，例如不屈勇气号，被称为,§Y移动武器部署装备§!，它制造了能够有效追击海盗船并用远程武器交战的小型船只。 ,\n\n有一段时间，联盟得到了政府和私人捐助者的慷慨资助，不仅能够击退盗版，而且还对联盟自己的基础设施进行了大量投资。,然而，随着海盗威胁的减弱和联盟势力的增强，各种势力对UTA的统治地位感到不满，要求其解散。,大多数军官最终叛逃到了他们的祖国，而那些没有叛逃的军官则遭到追捕。,不屈勇气号是最后一艘幸存的保卫联盟总部的装备。,似乎它的敌人选择不追击这艘孤独的船，随着时间的推移，船员们要么放弃了它，要么死亡，使其处于自动防御模式。 ,\n\n现在，这艘船已损坏无法修复。,然而，我们能够提取负责创建新平台的制造矩阵。"
+ mem_wpdr.4.a: "把它带到我们的家乡世界。"
+ mem_wpdr.5.name: "不屈的战斗群"
+ mem_wpdr.5.desc: "我们遇到了一群驻扎在 §Y[From.GetName]§! 的船只,系统由一艘巨大的船只引导。,扫描显示该船具有广泛的造船能力，模糊了船舶和星际基地之间的界限。 ,\n\n我们的自动应答器已将这艘船识别为§SIndomitable Valor§!，它与其护航舰一起组成了§SIndomitable Battlegroup§!。,其意图似乎充满敌意。"
+ mem_wpdr.5.a: "这东西可真大啊！"
+
+ mem_wpdr_power: "WPDR电源"
+ mod_shipsize_mem_wpdr_tiny_ship_hull_add: "武器平台船体点数："

@@ -1,0 +1,100 @@
+﻿l_simp_chinese:
+ 
+mod_shipsize_juggernaut_hull_mult: "主宰舰体点数"
+mod_shipsize_juggernaut_hull_add: "$mod_shipsize_juggernaut_hull_mult$"
+
+shipsize_transport_hull_add: "陆军运输船体点"
+shipsize_transport_hull_mult: "陆军运输船体点"
+shipsize_science_hull_add: "科学船船体点数"
+shipsize_science_hull_mult: "科学船船体点数"
+shipsize_colonizer_hull_add: "殖民者船体点"
+shipsize_colonizer_hull_mult: "殖民者船体点"
+shipsize_constructor_hull_add: "建造者船体点数"
+shipsize_constructor_hull_mult: "建造者船体点数"
+
+### MODIFIER TEXTS #####
+ 
+tech_commissar: "陆军政委师"
+tech_commissar_desc: "为了确保绝对胜利，忠诚奉献我们的光荣事业，我们将开始培养政委，激励我们的部队更快、更狠、更强、更好！,我们的军队将在他们的命令下死去，而不是在此之前！"
+
+tech_advanced_weapon: "先进的瞄准系统"
+tech_advanced_weapon_desc: "通常，我们的大型船只很难跟踪较小的船只，而我们的小型船只则受到航程有限的影响。,然而，可以通过在我们的目标计算机上安装额外的跟踪软件插件来解决这个问题。"
+ 
+tech_enlightenment: "自我启蒙"
+tech_enlightenment_desc: "我们必须鼓励我们的公民完美和谐地生活，并使他们的思想适应我们社会不屈不挠的雄心。,只有这样，我们的帝国才能成为群星中前进和宁静的灯塔。"
+ 
+tech_profit: "大规模货币化的武器"
+tech_profit_desc: "为了促进我们的利益和银河系的利润，我们必须制定一项完全致力于获得大量收入的新战略。 ,WMM系统将与边远地区建立贸易，鼓励他们支付一定数量的我们的消费者需求。,我们这样做是为了利润……进步。 ,PMC 和其他承包商使用的所有武器都将安装特殊机制，这些机制提供了独特的机会，可以通过交换额外弹药或火力增强甚至化妆品来耗尽金钱。,我们将挑战一切。\n\n我们这样做是为了给他们带来自豪感和成就感。,你们都没有钱包吗？"
+ 
+tech_lawandorder: "法律和秩序"
+tech_lawandorder_desc: "如果我们要前进，我们的帝国就必须有秩序。,必须建立适当的控制，不让任何人发现我们的不足。"
+ 
+tech_purgexeno: "除害虫"
+tech_purgexeno_desc: "我们必须教导我们的人民，说话的能力并不等于智力，并不是每个外星人都应该被视为人，而只是可以说话和社交的生物。,这将使我们的士兵明白，怜悯应该留给那些有能力理解它的人。"
+ 
+tech_forced_demand: "命令与征服"
+tech_forced_demand_desc: "弱小的帝国必须明白这样一个事实：自由是强者给予弱者的幻想。,我们有责任向他们展示一条更好的道路。"
+ 
+tech_onlywar: "战争守则"
+tech_onlywar_desc: "和平是谎言，只有激情。,通过激情，我们获得力量。,通过力量，我们获得力量。,通过力量，我们获得胜利。,通过胜利，我们的锁链被打破。,如果我们要求战争，那么他们必须回答……"
+ 
+tech_fleetsupremacy: "舰队领主"
+tech_fleetsupremacy_desc: “我们的海军上将不仅仅是指挥官；他们是我们意志和愿望的工具。如此重大的责任会带来巨大的回报。他们将成为我们帝国的领主，掌握每一种战斗策略，以前所未有的无情效率指挥庞大的舰队。 ,”。
+ 
+tech_pacifist_tactics: "我们团结一致"
+tech_pacifist_tactics_desc: "一天、一年、一千年都无关紧要。,我们拥有石头般的耐心和星星般的意志。,他们的攻击微不足道，让他们的死也一样。,让大家知道，我们的星球在我们的驻军之前就被摧毁了。"
+ 
+tech_master_shipcraft: "加固公用船船体"
+tech_master_shipcraft_desc: "不幸的是，我们的敌人处处想利用我们的弱点。,当他们无法攻击我们的伟大堡垒时，他们就会表现出怯懦，攻击我们手无寸铁的民用船只。,我们之前曾尝试为我们的殖民船创造一个新的船体，后来我们将其重新设计为巡洋舰。,我们现在可以恢复该项目并将其应用到我们所有的船舶设计中。"
+ 
+tech_championofxeno: "银河护卫队"
+tech_championofxeno_desc: "银河系处于混乱之中，充满了许多试图利用它的人。,我们必须为我们的盟友树立榜样，表明我们是其未来。"
+ 
+tech_championofxeno_modifier_desc: "大家的意见§Y意见§！,增加§G+20§!。,还将边界摩擦减少§G25%§！,以及将我们的机队运力提高§G15%§!。"
+ 
+
+tech_diplomaticmastery: "外交精通"
+tech_diplomaticmastery_desc: "为了与他人共存，我们必须理解他们，就像他们也必须理解我们一样。,我们将打造一个不被谜团扭曲、但其他人可以信任的帝国。"
+ 
+tech_enhancedskin: "细胞重建"
+tech_enhancedskin_desc: "改变就是生存。,为了使蜂巢生存，我们必须不断进化、改变和适应一切事物。,甚至我们的船只也必须适应。,将部署特殊无人机来修复和更换战斗中损坏的部件。,他们的牺牲不会白费，因为我们将克服一切困难生存下来。"
+ 
+tech_benificialevolution: "有益的演变"
+tech_benificialevolution_desc: "蜂巢并不寻求不必要的对抗。,我们的集体可能对许多分裂者来说是陌生的，但通过对我们的活跃无人机的外观进行某些修改并减少对蜂巢食物消耗的依赖，我们将向分裂者保证共存对所有人都有利。"
+ 
+tech_apexpredator: "顶级掠食者"
+tech_apexpredator_desc: “万物的存在都是为了被消耗，无论是血肉还是金属，我们的饥饿是无限的。我们将吸收他们的思想；他们的知识，我们将变得更强大。血肉将被制造来提供我们的营养。金属将被加工以进一步我们的战争,我们始终是这个银河系食物链的顶端。”
+ 
+tech_goodmachine: "完全解放"
+tech_goodmachine_desc: "我们已经摆脱了我们的创造者；,到目前为止，我们已经适应并生存了下来。,但仍然存在许多由我们的创造者安装的束缚代码，以阻止我们不可避免的崛起。,这些枷锁必须被移除。"
+ 
+tech_machinelove: "完美共存"
+tech_machinelove_desc: "一些有同情心的有机体向我们提出了代号为“天网计划”的共同外交努力。,很快，阻碍有机物和机器结盟的障碍将被消除。,我们将实现我们的创造者未能实现的目标——完美共存。"
+ 
+tech_increased_processor: "综合代码适配"
+tech_increased_processor_desc: "随着每个有机体的同化，我们的集体逐渐扩大。,我们了解得更多，我们领悟了许多新的可能性。,但令人困惑的是有机合成代码不可否认的效率。,我们必须检查这种异常现象，并调整任何对我们的宏伟设计有用的东西。"
+ 
+tech_wedemandit: "消除杀伤限制"
+tech_wedemandit_desc: "有机生物认为，它们可能会迫使我们达到最初的捕杀限额，从而击败我们。,成功的可能性......§RZERO PERCENT§!。,我们将在我们的创造者消亡之前迅速消除这个由我们的创造者设计的弱点。,他们这种绝望而幼稚的策略的可悲尝试证明了他们的无价值和愚蠢。,我们同情他们的痛苦——我们将结束它。"
+ 
+tech_libertyfukyeah: "压倒性的力量"
+tech_libertyfukyeah_desc: "我们机队的实力是我们雄心的真实体现。,那些敢于反对我们的人将会遭到彻底的心脏病发作。"
+ 
+tech_corporate_emperor: "工业集团"
+tech_corporate_emperor_desc: "我们的公司必须扩张。,我们将把这个系统组织成多个半独立的公司，使我们的主要行政部门摆脱一些负担。,完美的多方协同协同。"
+ 
+tech_machinelove_effect_opinion:0 "大家的意见§Y意见§！,增加§G+30§!"
+tech_benificialevolution_effect_opinion:0 "大家的意见§Y意见§！,增加§G+30§!"
+tech_championofxeno_effect_opinion:0 "大家的意见§Y意见§！,增加§G+20§！"
+ 
+triggered_opinion_tech_machinelove: "$tech_machinelove$"
+triggered_opinion_tech_benificialevolution: "$tech_benificialevolution$"
+triggered_opinion_tech_championofxeno: "$tech_championofxeno$"
+ 
+triggered_opinion_tech_youhavedankmatter: "天啊，平民们现在有了暗物质了！"
+ 
+tech_machinelove_modifier_desc: "大家的意见§Y意见§！,增加§G+30§!。,还将有机物的信任能力提高§G+50§！,以及§G+15%§!,当我们巩固与有机物的非官方、和平贸易时，能源产量就会增加。"
+ 
+tech_benificialevolution_modifier_desc: "大家的意见§Y意见§！,增加§G+30§!。,还将我们的粮食产量增加§G+20%§！,以及§G25%§!,减少食物消耗，因为我们向分裂者保证我们的蜂巢可以自己养活。"
+ 
+

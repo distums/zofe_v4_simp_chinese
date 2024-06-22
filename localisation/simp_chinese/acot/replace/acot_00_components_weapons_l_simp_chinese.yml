@@ -1,0 +1,1934 @@
+﻿l_simp_chinese:
+
+gateway_kinetic_weapons: "§动能武器之路§!\n§E这项技术将推动动能武器领域的进一步进步。§!"
+gateway_energy_weapons: "§B能量武器之路§!\n§E这项技术将推动能量武器领域的进一步进步。§!"
+gateway_explosive_weapons: "§H爆炸性武器之路§!\n§E这项技术将推动爆炸性武器领域的进一步进步。§!"
+
+gateway_magnetic_weapons: "§S磁性武器之路§!\n§E这项技术将导致磁性武器领域的进一步进步。§!"
+gateway_autocannon_weapons: "§S自动武器之路§!\n§E这项技术将推动自动加农炮系统领域的进一步进步。§!"
+gateway_wrecker_weapons: "§S冲击武器之路§!\n§E这项技术将推动冲击炮领域的进一步进步。§!"
+
+gateway_beam_weapons: "§B光束武器之路§!\n§E这项技术将带来光束武器领域的进一步进步。§!"
+gateway_plasma_weapons: "§B等离子武器之路§!\n§E这项技术将推动等离子武器领域的进一步进步。§!"
+gateway_disruptors_weapons: "§B干扰武器之路§!\n§E这项技术将推动干扰武器领域的进一步进步。§!"
+
+gateway_missiles_weapons: "§H导弹武器之路§!\n§E这项技术将带来导弹领域的进一步进步。§!"
+
+gateway_strikecraft_weapons: "§H攻击手艺之路§!\n§E这项技术将带来攻击手艺领域的进一步进步。§!"
+
+#weapon_type_energy: "§BEnergy§!"
+#weapon_type_kinetic: "§SKinetic§!"
+#weapon_type_explosive: "§HExplosive§!"
+#weapon_type_strike_craft: "§GStrikecraft§!"
+#weapon_type_point_defense: "§MPoint-Defense§!"
+weapon_type_energy_beam: "§Y光束§!"
+weapon_type_energy_disruptor: "§Y颠覆者§!"
+weapon_type_energy_plasma: "§Y等离子§!"
+weapon_type_kinetic_magnetic: "§Y磁性§!"
+weapon_type_kinetic_auto: "§Y自动炮§!"
+weapon_type_kinetic_wrecker: "§Y震惊§!"
+weapon_type_explosive_missile: "§Y导弹§!"
+weapon_type_explosive_drone: "§Y探索者无人机§!"
+weapon_type_explosive_mgl: "§Y弹匣手榴弹§!"
+weapon_type_strike_craft_energy: "§Y武装直升机光束§!"
+weapon_type_strike_craft_kinetic: "§Y战斗机自动炮§!"
+weapon_type_strike_craft_explosive: "§Y轰炸机导弹§!"
+weapon_type_strike_craft_point_defense: "§Y拦截点防御§!"
+
+############################################################ ENERGY ############################################################
+
+tech_acot_weapon_energy: "能源电容器"
+tech_acot_weapon_energy_desc: "Mark I 能量电容器是一种基本但简陋的电力系统，可用于投射不同程度的能量武器。"
+
+tech_acot_weapon_energy_2: "先进能源电容器"
+tech_acot_weapon_energy_2_desc: "利用数据库的各种升级和增强功能，下一代 EC 能够存储更多电力并同时充电，使我们能够开发更先进的能源武器系统。"
+
+tech_acot_weapon_energy_3: "复制能量电容器"
+tech_acot_weapon_energy_3_desc: "Mark III 能量电容器直接基于古代文明所使用的相同技术，将进一步改进我们的能量武器系统，并有可能开辟更先进的能量武器系统。"
+
+tech_acot_weapon_energy_6e: "神秘的能量电容器"
+tech_acot_weapon_energy_6e_desc: "Mark III 能量电容器直接基于古代文明所使用的相同技术，将进一步改进我们的能量武器系统，并有可能开辟更先进的能量武器系统。"
+tech_acot_weapon_energy_6s: "神秘的能量电容器"
+tech_acot_weapon_energy_6s_desc: "Mark III 能量电容器直接基于古代文明所使用的相同技术，将进一步改进我们的能量武器系统，并有可能开辟更先进的能量武器系统。"
+
+######## Laser Branch #######
+
+####### STANDARD #######
+
+#tech_lasers_1: "Laser Cannons"
+#tech_lasers_1_desc: "With some adjustments to the standard-issued energy capacitor, a beam-like energy weapon can be generated to cause damage through intense heat."
+#tech_lasers_2: "Improved Laser Systems"
+#tech_lasers_2_desc: "Further polish and adjustments to the energy capacitator allows us to produce a more potent beam weapon without increasing the risk of energy overload."
+#tech_lasers_3: "Prototype Prismatic Lens"
+#tech_lasers_3_desc: "Ultraviolet lasers are an updated and more powerful version of their blue predecessors. Accurate and destructive, these weapons are capable of inflicting great damage."
+#tech_lasers_4: "Advanced Prismatic Lens"
+#tech_lasers_4_desc: "These lasers have a shorter wavelength than UV-based laser weaponry, but are even more destructive."
+#tech_lasers_5: "Prismatic Core"
+#tech_lasers_5_desc: "The electromagnetic radiation emitted by gamma lasers is of an extremely high frequency. Their destructive potential is unmatched in the field of laser weapons."
+
+tech_acot_lasers_6e: "神秘的激光束"
+tech_acot_lasers_6e_desc: "脉冲激光炮以比伽马激光器更高的频率和火力发射强大的神秘能量束。,这个原型应该会让我们更深入地了解先驱者所使用的能量。,我们正在超越我们之前理解的界限。"
+tech_acot_laser_7e: "台达激光"
+tech_acot_laser_7e_desc: "Delta Laser 利用暗能量作为强大的激光武器。,它在过载护盾方面也比前几代产品更强大。"
+tech_acot_laser_8e: "阿尔法激光"
+tech_acot_laser_8e_desc: "对 Delta 激光器聚焦透镜的额外校准使我们能够开发出 Alpha 激光器，它对装甲板来说更加致命。,这是我们精通暗能量操控的证明。"
+
+tech_acot_lasers_6s: "神秘的激光束"
+tech_acot_lasers_6s_desc: "脉冲激光炮以比伽马激光器更高的频率和火力发射强大的神秘能量束。,这个原型应该会让我们更深入地了解先驱者所使用的能量。,我们正在超越我们之前理解的界限。"
+tech_acot_laser_7s: "台达激光"
+tech_acot_laser_7s_desc: "Delta Laser 利用暗能量作为强大的激光武器。,它在过载护盾方面也比前几代产品更强大。"
+tech_acot_laser_8s: "阿尔法激光"
+tech_acot_laser_8s_desc: "对 Delta 激光器聚焦透镜的额外校准使我们能够开发出 Alpha 激光器，它对装甲板来说更加致命。,这是我们精通暗能量操控的证明。"
+
+
+ACOT_LASER_1: "激光炮"
+ACOT_LASER_1_DESC: "激光武器向目标发射聚焦光束，通过产生强烈的热量造成伤害。"
+ACOT_LASER_2: "改进型激光炮"
+ACOT_LASER_2_DESC: "这种改进的设计是对前 FTL 激光器的改进，其发射的电磁辐射波长对大多数有机物来说呈紫色。"
+ACOT_LASER_3: "原型棱镜加农炮"
+ACOT_LASER_3_DESC: "紫外线激光器是其蓝色前辈的更新且更强大的版本。,这些武器准确且具有破坏性，能够造成巨大伤害。"
+ACOT_LASER_4: "棱镜炮"
+ACOT_LASER_4_DESC: "X 射线激光器比基于紫外线的激光炮消耗更大的功率，但破坏性也更大。"
+ACOT_LASER_5: "高级棱镜炮"
+ACOT_LASER_5_DESC: "伽马激光器发射的电磁辐射具有极高的频率。,它们的破坏潜力超过了以前所有类型的激光。"
+ACOT_LASER_6E: "暗能量光束炮"
+ACOT_LASER_6E_DESC: "脉冲激光炮以比伽马激光器更高的频率和火力发射强大的神秘能量束。"
+ACOT_LASER_7E: "德尔塔光束炮"
+ACOT_LASER_7E_DESC: "Delta Laser 利用暗能量作为强大的激光武器。,它在过载护盾方面也比前几代产品更强大。"
+ACOT_LASER_8E: "阿尔法光束炮"
+ACOT_LASER_8E_DESC: "对 Delta 激光聚焦透镜进行额外校准，使我们能够开发出 Alpha 激光，它对装甲板的攻击更加致命。,这是我们精通暗能量操控的证明。"
+ACOT_LASER_9E: "§R塔纳托斯光束炮"
+ACOT_LASER_9E_DESC: "§RThanatos 激光炮"
+
+ACOT_LASER_6S: "暗能量光束炮"
+ACOT_LASER_6S_DESC: "脉冲激光炮以比伽马激光器更高的频率和火力发射强大的神秘能量束。"
+ACOT_LASER_7S: "德尔塔光束炮"
+ACOT_LASER_7S_DESC: "Delta Laser 利用暗能量作为强大的激光武器。,它在过载护盾方面也比前几代产品更强大。"
+ACOT_LASER_8S: "阿尔法光束炮"
+ACOT_LASER_8S_DESC: "对 Delta 激光聚焦透镜进行额外校准，使我们能够开发出 Alpha 激光，它对装甲板的攻击更加致命。,这是我们精通暗能量操控的证明。"
+ACOT_LASER_9S: "§R塔纳托斯光束炮"
+ACOT_LASER_9S_DESC: "§RThanatos 激光炮"
+
+XS_ACOT_LASER_1: "微型激光炮"
+SMALL_ACOT_LASER_1: "小型激光炮"
+MEDIUM_ACOT_LASER_1: "中型激光炮"
+LARGE_ACOT_LASER_1: "大型激光炮"
+
+XS_ACOT_LASER_2: "微型改进型激光炮"
+SMALL_ACOT_LASER_2: "小型改进型激光炮"
+MEDIUM_ACOT_LASER_2: "中型改进型激光炮"
+LARGE_ACOT_LASER_2: "大型改进型激光炮"
+
+XS_ACOT_LASER_3: "微型原型棱镜炮"
+SMALL_ACOT_LASER_3: "小型原型棱镜炮"
+MEDIUM_ACOT_LASER_3: "中型原型棱镜炮"
+LARGE_ACOT_LASER_3: "大型原型棱镜炮"
+
+XS_ACOT_LASER_4: "微型棱镜炮"
+SMALL_ACOT_LASER_4: "小型棱镜炮"
+MEDIUM_ACOT_LASER_4: "中型棱镜炮"
+LARGE_ACOT_LASER_4: "大型棱镜炮"
+
+XS_ACOT_LASER_5: "微型先进棱镜炮"
+SMALL_ACOT_LASER_5: "小型先进棱镜炮"
+MEDIUM_ACOT_LASER_5: "中型高级棱镜炮"
+LARGE_ACOT_LASER_5: "大型先进棱镜炮"
+
+XS_ACOT_LASER_6E: "微型暗能量光束炮"
+SMALL_ACOT_LASER_6E: "小型暗能量光束炮"
+MEDIUM_ACOT_LASER_6E: "中型暗能量光束炮"
+LARGE_ACOT_LASER_6E: "大型暗能量光束炮"
+XS_ACOT_LASER_6S: "微型暗能量光束炮"
+SMALL_ACOT_LASER_6S: "小型暗能量光束炮"
+MEDIUM_ACOT_LASER_6S: "中型暗能量光束炮"
+LARGE_ACOT_LASER_6S: "大型暗能量光束炮"
+
+SMALL_ACOT_LASER_7E: "小型三角光束炮"
+MEDIUM_ACOT_LASER_7E: "中型三角光束炮"
+LARGE_ACOT_LASER_7E: "大型三角光束炮"
+SMALL_ACOT_LASER_8E: "小型阿尔法光束炮"
+MEDIUM_ACOT_LASER_8E: "中型阿尔法光束炮"
+LARGE_ACOT_LASER_8E: "大型阿尔法光束炮"
+SMALL_ACOT_LASER_9E: "§R小型塔纳托斯光束炮"
+MEDIUM_ACOT_LASER_9E: "§R中型塔纳托斯光束炮"
+LARGE_ACOT_LASER_9E: "§R大型塔纳托斯光束炮"
+
+####### ARTILLERY #######
+
+tech_acot_lasers_al_4: "放大镜"
+tech_acot_lasers_al_4_desc: "安装额外的放大镜将使已经致命的棱镜炮能够在更远的距离上造成更大的伤害。,然而，这种威力的代价是更长的充电序列以及对近距离攻击舰的可能脆弱性。"
+tech_acot_lasers_al_5: "棱镜水晶脚轮"
+tech_acot_lasers_al_5_desc: "根据古老的档案制成的完全成形的棱柱形晶体。,如果安装在棱镜放大镜上，它可以让我们创造出更致命的激光火炮武器"
+tech_acot_lasers_al_6e: "棱镜水晶脚轮"
+tech_acot_lasers_al_6e_desc: "根据古老的档案制成的完全成形的棱柱形晶体。,如果安装在棱镜放大镜上，它可以让我们创造出更致命的激光火炮武器"
+tech_acot_lasers_al_6s: "棱镜水晶脚轮"
+tech_acot_lasers_al_6s_desc: "根据古老的档案制成的完全成形的棱柱形晶体。,如果安装在棱镜放大镜上，它可以让我们创造出更致命的激光火炮武器"
+
+ACOT_LASER_ARTILLERY_4: "棱镜放大镜"
+ACOT_LASER_ARTILLERY_4_DESC: "标准 X 射线激光炮的远程升级版本，用于对抗主力舰。\n\n最小射程：60"
+ACOT_LASER_ARTILLERY_5: "棱镜脚轮"
+ACOT_LASER_ARTILLERY_5_DESC: "标准伽玛激光炮的远程升级版，用于对抗主力舰。\n\n最小射程：60"
+
+ACOT_LASER_ARTILLERY_6E: "神秘光束投射器"
+ACOT_LASER_ARTILLERY_6E_DESC: "光束投射器"
+
+ACOT_LASER_ARTILLERY_6S: "星光光束投射器"
+ACOT_LASER_ARTILLERY_6S_DESC: "星光光束投射器"
+
+####### XL #######
+
+#tech_energy_lance_1: "Prismatic Core"
+#tech_energy_lance_1_desc: "These heavy energy weapons fire focused particle beams that cause massive damage. The size of the emitter arrays limits their use to battleships and titans."
+#tech_energy_lance_2: "Prismatic Alingnment"
+#tech_energy_lance_2_desc: "A more powerful version of the particle lance, this weapon fires a tachyon beam of immense power. Like its predecessor, its use is limited to battleships and titans."
+
+tech_acot_lasers_xl_6e: "神秘之枪"
+tech_acot_lasers_xl_6e_desc: "暗能量枪用聚焦的暗能量光束刺穿敌人的装甲。,长枪的威力足以使部分能量护盾过载。"
+
+tech_acot_lasers_xl_6s: "星辰长枪"
+tech_acot_lasers_xl_6s_desc: "暗能量枪用聚焦的暗能量光束刺穿敌人的装甲。,长枪的威力足以使部分能量护盾过载。"
+
+ACOT_LASER_XL_4: "棱镜尖塔"
+ACOT_LASER_XL_4_DESC: "棱镜尖塔"
+ACOT_LASER_XL_5: "棱镜长枪"
+ACOT_LASER_XL_5_DESC: "高级棱镜枪"
+
+ACOT_LASER_XL_6E: "神秘之枪"
+ACOT_LASER_XL_6E_DESC: "神秘长枪用聚焦的神秘光束刺穿敌人的装甲。"
+
+ACOT_LASER_XL_6S: "星辰长枪"
+ACOT_LASER_XL_6S_DESC: "星石长枪用聚焦的神秘光束刺穿敌人的装甲。"
+
+####### TITAN #######
+
+tech_acot_lasers_t_5: "棱柱歼灭者"
+tech_acot_lasers_t_5_desc: "大量相连的能量放大导管阵列，发射出前所未有的火力光束。,它的尺寸意味着它只能安装在泰坦级星舰上。"
+
+tech_acot_lasers_t_6e: "神秘的泰坦长枪"
+tech_acot_lasers_t_6e_desc: "根据我们的新认识，旧的毁灭离子束的增强现在正在等待中。,我们只等待批准。,这一领域的成功应该为未来新型泰坦尼克号武器开辟道路：只要我们能够更好地理解暗物质。"
+
+
+tech_acot_lasers_t_6s: "恒星泰坦长枪"
+tech_acot_lasers_t_6s_desc: "根据我们的新认识，旧的毁灭离子束的增强现在正在等待中。,我们只等待批准。,这一领域的成功应该为未来新型泰坦尼克号武器开辟道路：只要我们能够更好地理解暗物质。"
+
+ACOT_LASER_TITAN_5: "棱柱歼灭者"
+ACOT_LASER_TITAN_5_DESC: "棱柱歼灭者"
+
+ACOT_LASER_TITAN_6E: "神秘歼灭枪"
+ACOT_LASER_TITAN_6E_DESC: "虽然不如前身使用的任何东西那么好，但这种新的神秘光束应该足以升级旧的离子泰坦长矛。"
+
+ACOT_LASER_TITAN_6S: "星晶歼灭枪"
+ACOT_LASER_TITAN_6S_DESC: "虽然不如前身使用的任何东西那么好，但这种新的神秘光束应该足以升级旧的离子泰坦长矛。"
+
+ACOT_LASER_TITAN_W_5: "指挥级棱柱歼灭者"
+ACOT_LASER_TITAN_W_5_DESC: "指挥级棱柱歼灭者"
+
+ACOT_LASER_TITAN_W_6E: "指挥级神秘歼灭枪"
+ACOT_LASER_TITAN_W_6E_DESC: "虽然不如前身使用的任何东西那么好，但这种新的神秘光束应该足以升级旧的离子泰坦长矛。"
+
+ACOT_LASER_TITAN_W_6S: "指挥级星晶歼灭枪"
+ACOT_LASER_TITAN_W_6S_DESC: "虽然不如前身使用的任何东西那么好，但这种新的神秘光束应该足以升级旧的离子泰坦长矛。"
+
+
+############################################################ACOT_PLASMA ############################################################
+
+ # Plasma Weapons
+#tech_plasma_1: "Plasma Throwers"
+#tech_plasma_1_desc: "Weapons that eject destructive balls of high-energy plasma at targets. These plasma projectiles are extremely effective at eating through ship armor."
+#tech_plasma_2: "Advanced Plasma Throwers"
+#tech_plasma_2_desc: "These new accelerators launch projectiles of high-energy plasma with improved containment fields. This results in less energy leakage as the projectile travels in space towards its target."
+#tech_plasma_3: "Plasma Accelerators"
+#tech_plasma_3_desc: "The latest in plasma weaponry, these cannons are fully militarized versions of the older, somewhat improvised plasma throwers. Their plasma projectiles are even deadlier."
+tech_acot_plasma_4: "等离子炮"
+tech_acot_plasma_4_desc: "这些新型加速器发射高能等离子体射弹，并具有改进的密封场。,当射弹在太空中飞向目标时，这会减少能量泄漏。"
+tech_acot_plasma_5: "等离子热熔枪"
+tech_acot_plasma_5_desc: "这些大炮是最新的等离子武器，是较旧的、有些简易的等离子发射器的完全军事化版本。,他们的等离子射弹更加致命。"
+
+tech_acot_plasma_6e: "神秘的等离子炮"
+tech_acot_plasma_6e_desc: "神秘等离子大炮与我们手头的等离子大炮技术相似，尽管这些大炮发射的射弹似乎有很大不同，并且似乎与暗物质密切相关。"
+
+tech_acot_plasma_6s: "星星等离子炮"
+tech_acot_plasma_6s_desc: "星石等离子大炮与我们手头的等离子大炮技术相似，尽管这些大炮发射的射弹似乎有很大不同，并且似乎与暗物质密切相关。"
+
+ACOT_PLASMA_1: "等离子发射器"
+ACOT_PLASMA_1_DESC: "前星际时代的简易武器，可向目标发射破坏性的高能等离子体球。,这些等离子射弹在腐蚀舰船装甲方面非常有效。"
+ACOT_PLASMA_2: "高级等离子发射器"
+ACOT_PLASMA_2_DESC: "这些等离子武器已完全军事化，现已针对实际的太空战进行了优化。"
+ACOT_PLASMA_3: "等离子体加速器"
+ACOT_PLASMA_3_DESC: "这些新型加速器发射高能等离子体射弹，并具有改进的密封场。,当射弹在太空中飞向目标时，这会减少能量泄漏。"
+ACOT_PLASMA_4: "等离子炮"
+ACOT_PLASMA_4_DESC: "最新的等离子武器等离子炮使用更先进的高功率反应堆发射，以提供更致命的解决方案。"
+ACOT_PLASMA_5: "等离子热熔枪"
+ACOT_PLASMA_5_DESC: "先进的等离子炮充分利用零点能量的潜力，制造出按照现代标准最强大的反装甲武器之一。"
+
+ACOT_PLASMA_6E: "神秘的等离子炮"
+ACOT_PLASMA_6E_DESC: “致命的等离子武器，擅长摧毁不受护盾保护的目标。”
+
+ACOT_PLASMA_6S: "星星等离子炮"
+ACOT_PLASMA_6S_DESC: “致命的等离子武器，擅长摧毁不受护盾保护的目标。”
+
+
+XS_ACOT_PLASMA_1: "微型等离子发射器"
+SMALL_ACOT_PLASMA_1: "小型等离子发射器"
+MEDIUM_ACOT_PLASMA_1: "中型等离子发射器"
+LARGE_ACOT_PLASMA_1: "大型等离子发射器"
+
+XS_ACOT_PLASMA_2: "微型先进等离子发射器"
+SMALL_ACOT_PLASMA_2: "小型先进等离子发射器"
+MEDIUM_ACOT_PLASMA_2: "中型高级等离子发射器"
+LARGE_ACOT_PLASMA_2: "大型先进等离子发射器"
+
+XS_ACOT_PLASMA_3: "微型等离子体加速器"
+SMALL_ACOT_PLASMA_3: "小型等离子体加速器"
+MEDIUM_ACOT_PLASMA_3: "中大型等离子体加速器"
+LARGE_ACOT_PLASMA_3: "大型等离子体加速器"
+
+XS_ACOT_PLASMA_4: "微型等离子炮"
+SMALL_ACOT_PLASMA_4: "小型等离子炮"
+MEDIUM_ACOT_PLASMA_4: "中大型等离子炮"
+LARGE_ACOT_PLASMA_4: "小型等离子炮"
+
+XS_ACOT_PLASMA_5: "微型等离子热熔枪"
+SMALL_ACOT_PLASMA_5: "小型等离子热熔枪"
+MEDIUM_ACOT_PLASMA_5: "中型等离子热熔枪"
+LARGE_ACOT_PLASMA_5: "大型等离子热熔枪"
+
+XS_ACOT_PLASMA_6E: "微型神秘等离子炮"
+SMALL_ACOT_PLASMA_6E: "小型神秘等离子炮"
+MEDIUM_ACOT_PLASMA_6E: "中型神秘等离子炮"
+LARGE_ACOT_PLASMA_6E: "大型神秘等离子炮"
+
+XS_ACOT_PLASMA_6S: "微型星星等离子炮"
+SMALL_ACOT_PLASMA_6S: "小型星星等离子炮"
+MEDIUM_ACOT_PLASMA_6S: "中型星星等离子炮"
+LARGE_ACOT_PLASMA_6S: "大型星星等离子炮"
+
+
+####### AL #######
+
+#tech_energy_torpedoes_1: "Heavy Plasma Cannon"
+#tech_energy_torpedoes_1_desc: "These energy projectiles consist of tightly concentrated protons capable of causing immense damage to the hull of enemy ships."
+#tech_energy_torpedoes_2: "Plasma Caster"
+#tech_energy_torpedoes_2_desc: "Upgraded energy projectiles that rely on neutrons instead of protons for their destructive power."
+
+tech_acot_plasma_al_6e: "神秘的等离子施法器"
+tech_acot_plasma_al_6e_desc: "神秘等离子大炮与我们手头的等离子大炮技术相似，尽管这些大炮发射的射弹似乎有很大不同，并且似乎与暗物质密切相关。"
+
+tech_acot_plasma_al_6s: "恒星等离子施法器"
+tech_acot_plasma_al_6s_desc: "星石等离子大炮与我们手头的等离子大炮技术相似，尽管这些大炮发射的射弹似乎有很大不同，并且似乎与暗物质密切相关。"
+
+ACOT_PLASMA_ARTILLERY_4: "重型等离子炮"
+ACOT_PLASMA_ARTILLERY_4_DESC: "重型等离子炮"
+ACOT_PLASMA_ARTILLERY_5: "等离子施法器"
+ACOT_PLASMA_ARTILLERY_5_DESC: "等离子脚轮"
+
+ACOT_PLASMA_ARTILLERY_6E: "神秘的等离子火炮"
+ACOT_PLASMA_ARTILLERY_6E_DESC: "神秘的等离子火炮"
+
+ACOT_PLASMA_ARTILLERY_6S: "星星等离子火炮"
+ACOT_PLASMA_ARTILLERY_6S_DESC: "星星等离子火炮"
+
+####### XL #######
+
+tech_acot_plasma_xl_4: "等离子棒"
+tech_energy_torpedoes_1_desc:2 "这些能量射弹由紧密集中的质子组成，能够对敌方舰船的船体造成巨大伤害。"
+tech_acot_plasma_xl_4_desc: "等离子枪"
+tech_acot_plasma_xl_5: "等离子毁灭炮"
+tech_energy_torpedoes_1_desc:2 "这些能量射弹由紧密集中的质子组成，能够对敌方舰船的船体造成巨大伤害。"
+tech_acot_plasma_xl_5_desc: "中子发射器"
+
+tech_acot_plasma_xl_6e: "等离子毁灭炮"
+tech_energy_torpedoes_1_desc:2 "这些能量射弹由紧密集中的质子组成，能够对敌方舰船的船体造成巨大伤害。"
+tech_acot_plasma_xl_6e_desc: "中子发射器"
+
+tech_acot_plasma_xl_6s: "等离子毁灭炮"
+tech_energy_torpedoes_1_desc:2 "这些能量射弹由紧密集中的质子组成，能够对敌方舰船的船体造成巨大伤害。"
+tech_acot_plasma_xl_6s_desc: "中子发射器"
+
+ACOT_PLASMA_XL_4: "等离子棒"
+ACOT_PLASMA_XL_4_DESC: "等离子棒"
+ACOT_PLASMA_XL_5: "等离子枪"
+ACOT_PLASMA_XL_5_DESC: "等离子枪"
+
+ACOT_PLASMA_XL_6E: "神秘的等离子施法器"
+ACOT_PLASMA_XL_6E_DESC: "神秘的等离子施法器"
+
+ACOT_PLASMA_XL_6S: "恒星等离子施法器"
+ACOT_PLASMA_XL_6S_DESC: "恒星等离子施法器"
+
+####### T #######
+
+tech_acot_plasma_t_5: "等离子枪"
+tech_acot_plasma_t_5_desc: "这些能量射弹由紧密集中的质子组成，能够对敌方舰船的船体造成巨大伤害。"
+
+tech_acot_plasma_t_6e: "神秘的等离子枪"
+tech_acot_plasma_t_6e_desc: "这些能量射弹由紧密集中的质子组成，能够对敌方舰船的船体造成巨大伤害"
+
+tech_acot_plasma_t_6s: "恒星等离子枪"
+tech_acot_plasma_t_6s_desc: "这些能量射弹由紧密集中的质子组成，能够对敌方舰船的船体造成巨大伤害"
+
+ACOT_PLASMA_TITAN_5: "等离子枪"
+ACOT_PLASMA_TITAN_5_DESC: "等离子枪"
+
+ACOT_PLASMA_TITAN_6E: "神秘的泰坦等离子枪"
+ACOT_PLASMA_TITAN_6E_DESC: "神秘的泰坦等离子枪"
+
+ACOT_PLASMA_TITAN_6S: "恒星等离子枪"
+ACOT_PLASMA_TITAN_6S_DESC: "恒星等离子枪"
+
+ACOT_PMC_YAMATO_CANNON: "§R大和炮"
+ACOT_PMC_YAMATO_CANNON_DESC: "§R大和炮"
+
+ACOT_PLASMA_TITAN_W_5: "等离子枪"
+ACOT_PLASMA_TITAN_W_5_DESC: "等离子枪"
+ACOT_PLASMA_TITAN_W_6E: "神秘泰坦等离子施法者"
+ACOT_PLASMA_TITAN_W_6E_DESC: "神秘泰坦等离子施法者"
+ACOT_PLASMA_TITAN_W_6S: "恒星泰坦等离子施法器"
+ACOT_PLASMA_TITAN_W_6S_DESC: "恒星泰坦等离子施法器"
+
+############################################################ DISRUPTOR ############################################################
+
+####### STANDARD #######
+
+ # Disruptor Weapons
+#tech_disruptors_1: "Disruptors"
+#tech_disruptors_1_desc: "Disruptors fire high-energy bolts that weaken and destroy the molecular bonds that hold the target's constituent atoms together. They are capable of passing through shields and armor to wreak havoc directly on enemy hull and crew."
+#tech_disruptors_2: "Improved Disruptors"
+#tech_disruptors_2_desc: "These upgraded disruptors fire bolts of more destructive ion particles at targets."
+#tech_disruptors_3: "Ion Disruptors"
+#tech_disruptors_3_desc: "Extremely high-yield disruptors that fire quantum energy charges causing incredible damage to those unfortunate enough to get in their way."
+tech_acot_disruptors_4: "相位干扰器"
+tech_acot_disruptors_4_desc: "这些升级的干扰器向目标发射更具破坏性的离子粒子。"
+tech_acot_disruptors_5: "波力干扰器"
+tech_acot_disruptors_5_desc: "极高产量的干扰器会发射量子能量电荷，对那些不幸挡道的人造成难以置信的伤害。"
+
+tech_acot_disruptors_6e: "神秘的干扰者"
+tech_acot_disruptors_6e_desc: "利用先驱者所利用的神秘能量，这种原型干扰器可以造成比以前更高的伤害。"
+
+tech_acot_disruptors_6s: "恒星干扰器"
+tech_acot_disruptors_6s_desc: "利用先驱者所利用的神秘能量，这种原型干扰器可以造成比以前更高的伤害。"
+
+ACOT_DISRUPTOR_1: "破坏者"
+ACOT_DISRUPTOR_1_DESC: "干扰器发射高能螺栓，削弱并破坏将目标原子组成的分子键。"
+ACOT_DISRUPTOR_2: "改进的干扰器"
+ACOT_DISRUPTOR_2_DESC: "干扰器发射高能螺栓，削弱并破坏将目标原子组成的分子键。"
+ACOT_DISRUPTOR_3: "离子干扰器"
+ACOT_DISRUPTOR_3_DESC: "这些升级后的干扰器向目标发射更具破坏性的离子粒子，而不会牺牲其前身的发射速率。"
+ACOT_DISRUPTOR_4: "火鹰干扰者"
+ACOT_DISRUPTOR_4_DESC: "极高产量的干扰器会发射量子能量电荷，对那些不幸挡道的人造成难以置信的伤害。"
+ACOT_DISRUPTOR_5: "相位干扰器"
+ACOT_DISRUPTOR_5_DESC: "极高产量的干扰器会发射量子能量电荷，对那些不幸挡道的人造成难以置信的伤害。"
+ 
+ACOT_DISRUPTOR_6E: "神秘的干扰者"
+ACOT_DISRUPTOR_6E_DESC: "利用先驱者所利用的神秘能量，这种原型干扰器可以造成比以前更高的伤害。"
+
+ACOT_DISRUPTOR_6S: "恒星干扰器"
+ACOT_DISRUPTOR_6S_DESC: "利用先驱者所利用的神秘能量，这种原型干扰器可以造成比以前更高的伤害。"
+
+XS_ACOT_DISRUPTOR_1: "微型干扰器"
+SMALL_ACOT_DISRUPTOR_1: "小型干扰器"
+MEDIUM_ACOT_DISRUPTOR_1: "中型干扰者"
+LARGE_ACOT_DISRUPTOR_1: "大型干扰器"
+
+XS_ACOT_DISRUPTOR_2: 《微型改良干扰器》
+SMALL_ACOT_DISRUPTOR_2: “小型改进型干扰器”
+MEDIUM_ACOT_DISRUPTOR_2: "中等改良干扰器"
+LARGE_ACOT_DISRUPTOR_2: "大型改进型干扰器"
+
+XS_ACOT_DISRUPTOR_3: "微离子干扰器"
+SMALL_ACOT_DISRUPTOR_3: "小型离子干扰器"
+MEDIUM_ACOT_DISRUPTOR_3: "中离子干扰器"
+LARGE_ACOT_DISRUPTOR_3: "大型离子干扰器"
+
+XS_ACOT_DISRUPTOR_4: "微相位干扰器"
+SMALL_ACOT_DISRUPTOR_4: "小型断相器"
+MEDIUM_ACOT_DISRUPTOR_4: "中相干扰器"
+LARGE_ACOT_DISRUPTOR_4: "大型断相器"
+
+XS_ACOT_DISRUPTOR_5: "微波力干扰器"
+SMALL_ACOT_DISRUPTOR_5: "小型波力干扰器"
+MEDIUM_ACOT_DISRUPTOR_5: "中型波力干扰器"
+LARGE_ACOT_DISRUPTOR_5: "大型波力干扰器"
+
+XS_ACOT_DISRUPTOR_6E: "微型神秘干扰器"
+SMALL_ACOT_DISRUPTOR_6E: "小型神秘干扰者"
+MEDIUM_ACOT_DISRUPTOR_6E: "中型神秘干扰者"
+LARGE_ACOT_DISRUPTOR_6E: "大型神秘干扰器"
+
+
+XS_ACOT_DISRUPTOR_6S: "微型恒星干扰器"
+SMALL_ACOT_DISRUPTOR_6S: "小型恒星干扰器"
+MEDIUM_ACOT_DISRUPTOR_6S: "中型恒星干扰器"
+LARGE_ACOT_DISRUPTOR_6S: "大型恒星干扰器"
+
+####### AL #######
+
+tech_acot_disruptors_al_4: "干扰射线"
+tech_acot_disruptors_al_4_desc: "这些升级的干扰器向目标发射更具破坏性的离子粒子。"
+tech_acot_disruptors_al_5: "干扰者波力炮"
+tech_acot_disruptors_al_5_desc: "极高产量的干扰器会发射量子能量电荷，对那些不幸挡道的人造成难以置信的伤害。"
+
+tech_acot_disruptors_al_6e: "神秘的干扰者波力炮"
+tech_acot_disruptors_al_6e_desc: "极高产量的干扰器会发射量子能量电荷，对那些不幸挡道的人造成难以置信的伤害。"
+tech_acot_disruptors_al_6s: "恒星干扰波力炮"
+tech_acot_disruptors_al_6s_desc: "极高产量的干扰器会发射量子能量电荷，对那些不幸挡道的人造成难以置信的伤害。"
+
+ACOT_DISRUPTOR_ARTILLERY_4: "干扰射线"
+ACOT_DISRUPTOR_ARTILLERY_4_DESC: "极高产量的干扰器会发射量子能量电荷，对那些不幸挡道的人造成难以置信的伤害。"
+ACOT_DISRUPTOR_ARTILLERY_5: "干扰者波力炮"
+ACOT_DISRUPTOR_ARTILLERY_5_DESC: "极高产量的干扰器会发射量子能量电荷，对那些不幸挡道的人造成难以置信的伤害。"
+
+ACOT_DISRUPTOR_ARTILLERY_6E: "神秘的干扰波炮"
+ACOT_DISRUPTOR_ARTILLERY_6E_DESC: "极高产量的干扰器会发射量子能量电荷，对那些不幸挡道的人造成难以置信的伤害。"
+
+ACOT_DISRUPTOR_ARTILLERY_6S: "星石干扰波炮"
+ACOT_DISRUPTOR_ARTILLERY_6S_DESC: "极高产量的干扰器会发射量子能量电荷，对那些不幸挡道的人造成难以置信的伤害。"
+
+####### XL #######
+
+tech_acot_disruptors_xl_4: "干扰圈套"
+tech_acot_disruptors_xl_4_desc: "这些升级的干扰器向目标发射更具破坏性的离子粒子。"
+tech_acot_disruptors_xl_5: "破坏网"
+tech_acot_disruptors_xl_5_desc: "极高产量的干扰器会发射量子能量电荷，对那些不幸挡道的人造成难以置信的伤害。"
+
+tech_acot_disruptors_xl_6e: "神秘的破坏网"
+tech_acot_disruptors_xl_6e_desc: "极高产量的干扰器会发射量子能量电荷，对那些不幸挡道的人造成难以置信的伤害。"
+
+tech_acot_disruptors_xl_6s: "Stellarite 破坏网"
+tech_acot_disruptors_xl_6s_desc: "极高产量的干扰器会发射量子能量电荷，对那些不幸挡道的人造成难以置信的伤害。"
+
+
+ACOT_DISRUPTOR_XL_4: "干扰圈套"
+ACOT_DISRUPTOR_XL_4_DESC: "干扰圈套"
+ACOT_DISRUPTOR_XL_5: "破坏网"
+ACOT_DISRUPTOR_XL_5_DESC: "破坏网"
+
+ACOT_DISRUPTOR_XL_6E: "神秘的破坏网"
+ACOT_DISRUPTOR_XL_6E_DESC: "神秘的破坏网"
+
+ACOT_DISRUPTOR_XL_6S: "Stellarite 破坏网"
+ACOT_DISRUPTOR_XL_6S_DESC: "Stellarite 破坏网"
+
+
+####### T #######
+
+tech_acot_disruptors_t_5: "干扰群"
+tech_acot_disruptors_t_5_desc: "极高产量的干扰器会发射量子能量电荷，对那些不幸挡道的人造成难以置信的伤害。"
+
+tech_acot_disruptors_t_6e: "神秘的干扰群"
+tech_acot_disruptors_t_6e_desc: "极高产量的干扰器会发射量子能量电荷，对那些不幸挡道的人造成难以置信的伤害。"
+
+tech_acot_disruptors_t_6s: "星光干扰群"
+tech_acot_disruptors_t_6s_desc: "极高产量的干扰器会发射量子能量电荷，对那些不幸挡道的人造成难以置信的伤害。"
+
+ACOT_DISRUPTOR_TITAN_5: "干扰群"
+ACOT_DISRUPTOR_TITAN_5_DESC: "干扰群"
+
+ACOT_DISRUPTOR_TITAN_6E: "神秘的干扰群"
+ACOT_DISRUPTOR_TITAN_6E_DESC: "神秘的干扰群"
+
+ACOT_DISRUPTOR_TITAN_6S: "星光干扰群"
+ACOT_DISRUPTOR_TITAN_6S_DESC: "星光干扰群"
+
+
+ACOT_DISRUPTOR_TITAN_W_5: "干扰群"
+ACOT_DISRUPTOR_TITAN_W_5_DESC: "干扰群"
+
+ACOT_DISRUPTOR_TITAN_W_6E: "神秘的干扰群"
+ACOT_DISRUPTOR_TITAN_W_6E_DESC: "神秘的干扰群"
+
+ACOT_DISRUPTOR_TITAN_W_6S: "星光干扰群"
+ACOT_DISRUPTOR_TITAN_W_6S_DESC: "星光干扰群"
+############################################################ RAILGUN ############################################################
+
+tech_acot_weapon_kinetic: "智能动能弹药"
+tech_acot_weapon_kinetic_desc: "为了在太空中安全使用任何动能武器，所使用的射弹必须能够克服太空的性质；,运动中的物体保持运动状态。,正如数据库向我们展示的那样，每次错过的攻击都可能对其他人造成危险。\n\n为了消除这个问题，许多古代文明都使用了智能动能弹药系统（SKMS）。,该系统本质上为每个射弹提供了一个有限的自动化系统，该系统可以跟踪子弹是否未到达预定目标，并自动自毁。,只有掌握了这个系统，我们才能真正将任何动能武器运用起来。"
+
+tech_acot_weapon_kinetic_2: "重铸动能弹药"
+tech_acot_weapon_kinetic_2_desc: "为了在太空中安全使用任何动能武器，所使用的射弹必须能够克服太空的性质；,运动中的物体保持运动状态。,正如数据库向我们展示的那样，每次错过的攻击都可能对其他人造成危险。\n\n为了消除这个问题，许多古代文明都使用了智能动能弹药系统（SKMS）。,该系统本质上为每个射弹提供了一个有限的自动化系统，该系统可以跟踪子弹是否未到达预定目标，并自动自毁。,只有掌握了这个系统，我们才能真正将任何动能武器运用起来。"
+
+tech_acot_weapon_kinetic_3: "复制动能弹药"
+tech_acot_weapon_kinetic_3_desc: "为了在太空中安全使用任何动能武器，所使用的射弹必须能够克服太空的性质；,运动中的物体保持运动状态。,正如数据库向我们展示的那样，每次错过的攻击都可能对其他人造成危险。\n\n为了消除这个问题，许多古代文明都使用了智能动能弹药系统（SKMS）。,该系统本质上为每个射弹提供了一个有限的自动化系统，该系统可以跟踪子弹是否未到达预定目标，并自动自毁。,只有掌握了这个系统，我们才能真正将任何动能武器运用起来。"
+
+tech_acot_weapon_kinetic_6e: "神秘的动能弹药"
+tech_acot_weapon_kinetic_6e_desc: "为了在太空中安全使用任何动能武器，所使用的射弹必须能够克服太空的性质；,运动中的物体保持运动状态。,正如数据库向我们展示的那样，每次错过的攻击都可能对其他人造成危险。\n\n为了消除这个问题，许多古代文明都使用了智能动能弹药系统（SKMS）。,该系统本质上为每个射弹提供了一个有限的自动化系统，该系统可以跟踪子弹是否未到达预定目标，并自动自毁。,只有掌握了这个系统，我们才能真正将任何动能武器运用起来。"
+
+tech_acot_weapon_kinetic_6s: "神秘的动能弹药"
+tech_acot_weapon_kinetic_6s_desc: "为了在太空中安全使用任何动能武器，所使用的射弹必须能够克服太空的性质；,运动中的物体保持运动状态。,正如数据库向我们展示的那样，每次错过的攻击都可能对其他人造成危险。\n\n为了消除这个问题，许多古代文明都使用了智能动能弹药系统（SKMS）。,该系统本质上为每个射弹提供了一个有限的自动化系统，该系统可以跟踪子弹是否未到达预定目标，并自动自毁。,只有掌握了这个系统，我们才能真正将任何动能武器运用起来。"
+####### STANDARD #######
+
+#tech_mass_drivers_1: "Mag Cannon"
+#tech_mass_drivers_1_desc: "These electromagnetic projectile launchers use magnets to accelerate armor-piercing rounds towards targets at high speeds."
+#tech_mass_drivers_2: "Mass Drivers"
+#tech_mass_drivers_2_desc: "Coilguns are more powerful versions of the early mass drivers, using electromagnetic coils to rapidly accelerate projectiles towards targets."
+#tech_mass_drivers_3: "Coilguns"
+#tech_mass_drivers_3_desc: "The latest in electromagnetic accelerators, railguns use twin parallel rails to fire projectiles at incredible speeds."
+#tech_mass_drivers_4: "Railguns"
+#tech_mass_drivers_4_desc: "A new version of the venerable railgun, with sturdier rails and an enhanced power supply. These weapons are even more powerful and accurate than their predecessors."
+#tech_mass_drivers_5: "Gauss Cannons"
+#tech_mass_drivers_5_desc: "This updated version of the old coilgun design is even more destructive than the latest railgun designs. It is capable of launching projectiles with incredible accuracy and speed."
+
+tech_acot_mass_drivers_6e: "高斯炮"
+tech_acot_mass_drivers_6e_desc: "旧线圈炮设计的更新版本比最新的轨道炮设计更具破坏性。,它能够以令人难以置信的精度和速度发射射弹。"
+
+tech_acot_mass_drivers_6s: "高斯炮"
+tech_acot_mass_drivers_6s_desc: "旧线圈炮设计的更新版本比最新的轨道炮设计更具破坏性。,它能够以令人难以置信的精度和速度发射射弹。"
+
+ACOT_MAGNETIC_1: "磁力炮"
+ACOT_MAGNETIC_1_DESC: "这些电磁射弹发射器利用磁铁将射弹高速加速射向目标，压倒性的能量护盾。"
+ACOT_MAGNETIC_2: "质量驱动器"
+ACOT_MAGNETIC_2_DESC: "Mass Drivers 是对旧式磁力加农炮的精心设计、经过战斗考验的现代重新设计，更适合太空战斗。"
+ACOT_MAGNETIC_3: "线圈枪"
+ACOT_MAGNETIC_3_DESC: "线圈炮是早期质量炮的更强大版本，使用电磁线圈快速加速射弹飞向目标。"
+ACOT_MAGNETIC_4: "磁轨炮"
+ACOT_MAGNETIC_4_DESC: "轨道炮使用双平行轨道以令人难以置信的速度发射射弹。"
+ACOT_MAGNETIC_5: "高斯炮"
+ACOT_MAGNETIC_5_DESC: "旧线圈炮设计的更新版本比轨道炮设计更具破坏性。,它能够以令人难以置信的精度和速度长距离发射射弹"
+
+ACOT_MAGNETIC_6E: "神秘的质量驱动器"
+ACOT_MAGNETIC_6E_DESC: "Mass Drivers 是对旧式磁力加农炮的精心设计、经过战斗考验的现代重新设计，更适合太空战斗。"
+
+
+ACOT_MAGNETIC_6S: "恒星质量驱动器"
+ACOT_MAGNETIC_6S_DESC: "Mass Drivers 是对旧式磁力加农炮的精心设计、经过战斗考验的现代重新设计，更适合太空战斗。"
+
+
+XS_ACOT_MAGNETIC_1: "微型磁力炮"
+SMALL_ACOT_MAGNETIC_1: "小型磁力加农炮"
+MEDIUM_ACOT_MAGNETIC_1: "中型磁力加农炮"
+LARGE_ACOT_MAGNETIC_1: "大型磁力炮"
+
+XS_ACOT_MAGNETIC_2: "微型质量驱动器"
+SMALL_ACOT_MAGNETIC_2: "小质量驱动器"
+MEDIUM_ACOT_MAGNETIC_2: "中等质量驱动器"
+LARGE_ACOT_MAGNETIC_2: "大质量驱动器"
+
+XS_ACOT_MAGNETIC_3: "微型线圈枪"
+SMALL_ACOT_MAGNETIC_3: "小型线圈枪"
+MEDIUM_ACOT_MAGNETIC_3: "中型线圈枪"
+LARGE_ACOT_MAGNETIC_3: "大型线圈枪"
+
+XS_ACOT_MAGNETIC_4: "微型轨道炮"
+SMALL_ACOT_MAGNETIC_4: "小型磁轨炮"
+MEDIUM_ACOT_MAGNETIC_4: "中型轨道炮"
+LARGE_ACOT_MAGNETIC_4: "大型磁轨炮"
+
+XS_ACOT_MAGNETIC_5: "微型高斯炮"
+SMALL_ACOT_MAGNETIC_5: "小型高斯炮"
+MEDIUM_ACOT_MAGNETIC_5: "中型高斯炮"
+LARGE_ACOT_MAGNETIC_5: "大型高斯炮"
+
+XS_ACOT_MAGNETIC_6E: "微型神秘炮"
+SMALL_ACOT_MAGNETIC_6E: "小型神秘大炮"
+MEDIUM_ACOT_MAGNETIC_6E: "中型神秘加农炮"
+LARGE_ACOT_MAGNETIC_6E: "神秘大炮"
+
+XS_ACOT_MAGNETIC_6S: "微型星星炮"
+SMALL_ACOT_MAGNETIC_6S: "小型星星炮"
+MEDIUM_ACOT_MAGNETIC_6S: "中型星星炮"
+LARGE_ACOT_MAGNETIC_6S: "大型星星炮"
+
+
+
+####### AL #######
+
+tech_acot_mass_drivers_al_4: "轨道炮火炮"
+tech_acot_mass_drivers_al_4_desc: "古老的轨道炮的新版本，具有更坚固的轨道和增强的电源。,这些武器比它们的前辈更强大、更精确。"
+tech_acot_mass_drivers_al_5: "高斯炮"
+tech_acot_mass_drivers_al_5_desc: "旧线圈炮设计的更新版本比最新的轨道炮设计更具破坏性。,它能够以令人难以置信的精度和速度发射射弹。"
+
+tech_acot_mass_drivers_al_6e: "神秘的高斯炮"
+tech_acot_mass_drivers_al_6e_desc: "旧线圈炮设计的更新版本比最新的轨道炮设计更具破坏性。,它能够以令人难以置信的精度和速度发射射弹。"
+
+tech_acot_mass_drivers_al_6s: "星光高斯炮"
+tech_acot_mass_drivers_al_6s_desc: "旧线圈炮设计的更新版本比最新的轨道炮设计更具破坏性。,它能够以令人难以置信的精度和速度发射射弹。"
+
+ACOT_MAGNETIC_ARTILLERY_4: "轨道炮火炮"
+ACOT_MAGNETIC_ARTILLERY_4_DESC: "用于对抗主力舰的远程、升级版磁性射弹发射器。\n\n最小射程：60"
+ACOT_MAGNETIC_ARTILLERY_5: "高斯火炮"
+ACOT_MAGNETIC_ARTILLERY_5_DESC: "用于对抗主力舰的远程高斯加农炮的升级版本。\n\n最小射程：60"
+
+ACOT_MAGNETIC_ARTILLERY_6E: "高斯火炮"
+ACOT_MAGNETIC_ARTILLERY_6E_DESC: "用于对抗主力舰的远程高斯加农炮的升级版本。\n\n最小射程：60"
+
+ACOT_MAGNETIC_ARTILLERY_6S: "高斯火炮"
+ACOT_MAGNETIC_ARTILLERY_6S_DESC: "用于对抗主力舰的远程高斯加农炮的升级版本。\n\n最小射程：60"
+####### XL #######
+
+#tech_mass_accelerator_1: "Mass Accelerator"
+#tech_mass_accelerator_1_desc: "An enormous mass accelerator cannon that can only be placed in a spinal mount and fires monstrously powerful rounds over vast distances."
+#tech_mass_accelerator_2: "Gauss Accelerato"
+#tech_mass_accelerator_2_desc: "An even more powerful mass accelerator cannon that can rip through even the toughest shields."
+
+tech_acot_mass_drivers_xl_6e: "原型超级质量加速器"
+tech_acot_mass_drivers_xl_6e_desc: "遵循制造更强大、更致命的强光冲击炮射弹的相同概念，新的 MAC 应该被证明是一种强大的武器，将超越我们当前的 Giga。"
+
+tech_acot_mass_drivers_xl_6s: "原型超级质量加速器"
+tech_acot_mass_drivers_xl_6s_desc: "遵循制造更强大、更致命的强光冲击炮射弹的相同概念，新的 MAC 应该被证明是一种强大的武器，将超越我们当前的 Giga。"
+
+ACOT_MAGNETIC_XL_4: "质量加速器"
+ACOT_MAGNETIC_XL_4_DESC: "动能火炮的巨大变体，体积如此之大，以至于必须放置在固定的脊柱支架上。"
+ACOT_MAGNETIC_XL_5: "高斯加速器"
+ACOT_MAGNETIC_XL_5_DESC: "脊椎安装动能火炮的威力更强大的变体。"
+
+ACOT_MAGNETIC_XL_6E: "神秘的质量加速器"
+ACOT_MAGNETIC_XL_6E_DESC: "模范级 MAC 比旧的千兆加农炮更强大，可以以惊人的效率击穿各种盾牌。"
+
+ACOT_MAGNETIC_XL_6S: "恒星质量加速器"
+ACOT_MAGNETIC_XL_6S_DESC: "模范级 MAC 比旧的千兆加农炮更强大，可以以惊人的效率击穿各种盾牌。"
+
+####### T #######
+
+tech_acot_mass_drivers_t_5: "泰坦加速器"
+tech_acot_mass_drivers_t_5_desc: "旧线圈炮设计的更新版本比最新的轨道炮设计更具破坏性。,它能够以令人难以置信的精度和速度发射射弹。"
+
+tech_acot_mass_drivers_t_6e: "泰坦神秘加速器"
+tech_acot_mass_drivers_t_6e_desc: "新改进的加速系统和加固的铁路使我们最终能够开发出泰坦尼克号规模的动能加速器。"
+
+tech_acot_mass_drivers_t_6s: "泰坦星辰加速器"
+tech_acot_mass_drivers_t_6s_desc: "新改进的加速系统和加固的铁路使我们最终能够开发出泰坦尼克号规模的动能加速器。"
+
+ACOT_MAGNETIC_TITAN_5: "泰坦加速器"
+ACOT_MAGNETIC_TITAN_5_DESC: "泰坦加速器"
+
+ACOT_MAGNETIC_TITAN_6E: "神秘的泰坦加速器"
+ACOT_MAGNETIC_TITAN_6E_DESC: "神秘的泰坦加速器"
+
+ACOT_MAGNETIC_TITAN_6S: "恒星泰坦加速器"
+ACOT_MAGNETIC_TITAN_6S_DESC: "恒星泰坦加速器"
+
+ACOT_MAGNETIC_TITAN_W_5: "泰坦加速器"
+ACOT_MAGNETIC_TITAN_W_5_DESC: "泰坦加速器"
+
+ACOT_MAGNETIC_TITAN_W_6E: "神秘的泰坦加速器"
+ACOT_MAGNETIC_TITAN_W_6E_DESC: "神秘的泰坦加速器"
+
+ACOT_MAGNETIC_TITAN_W_6S: "恒星泰坦加速器"
+ACOT_MAGNETIC_TITAN_W_6S_DESC: "恒星泰坦加速器"
+############################################################ AUTOGUN ############################################################
+
+####### STANDARD #######
+
+#tech_autocannons_1: "Autoguns"
+#tech_autocannons_1_desc: "Large-caliber ballistic weapons that fire cased explosive shells. The main advantage of these cannons is their high rate of fire."
+#tech_autocannons_2: "Autocannons"
+#tech_autocannons_2_desc: "These upgraded rotary autocannons feature improved tracking and fire control systems. This allows them to maintain an even higher rate of fire."
+#tech_autocannons_3: "Advanced Autocannon"
+#tech_autocannons_3_desc: "Advanced rotary autocannons capable of spewing a cloud of high-explosive shells at a target."
+tech_acot_autocannons_4: "开膛手自动炮"
+tech_acot_autocannons_4_desc: "这些升级的旋转自动炮具有改进的跟踪和火控系统。,这使他们能够保持更高的射速。"
+tech_acot_autocannons_5: "暴火自动炮"
+tech_acot_autocannons_5_desc: "先进的旋转自动加农炮，能够向目标喷射大量高爆炮弹。"
+
+tech_acot_autocannons_6e: "神秘自动炮"
+tech_acot_autocannons_6e_desc: "基于冲击炮的概念，还可以开发这种基于强光的新型射弹的自动炮变体。"
+
+tech_acot_autocannons_6s: "星星自动炮"
+tech_acot_autocannons_6s_desc: "基于冲击炮的概念，还可以开发这种基于强光的新型射弹的自动炮变体。"
+
+ACOT_AUTOCANNON_1: "自动枪"
+ACOT_AUTOCANNON_1_DESC: "发射爆炸弹的大口径弹道武器。,这些大炮的主要优点是射速高。"
+ACOT_AUTOCANNON_2: "自动炮"
+ACOT_AUTOCANNON_2_DESC: "这些升级的旋转自动炮具有改进的跟踪和火控系统。,这使他们能够保持更高的射速。"
+ACOT_AUTOCANNON_3: "先进自动炮"
+ACOT_AUTOCANNON_3_DESC: "这些升级的旋转自动炮具有改进的跟踪和火控系统。,这使他们能够保持更高的射速。"
+ACOT_AUTOCANNON_4: "开膛手自动炮"
+ACOT_AUTOCANNON_4_DESC: "这些升级的旋转自动炮具有改进的跟踪和火控系统。,这使他们能够保持更高的射速。"
+ACOT_AUTOCANNON_5: "暴火自动炮"
+ACOT_AUTOCANNON_5_DESC: "先进的旋转自动加农炮，能够向目标喷射大量高爆炮弹。"
+
+ACOT_AUTOCANNON_6E: "神秘自动炮"
+ACOT_AUTOCANNON_6E_DESC: "神秘自动炮使用原型强光射弹快速咀嚼敌人的护盾。"
+
+ACOT_AUTOCANNON_6S: "星星自动炮"
+ACOT_AUTOCANNON_6S_DESC: "星石自动炮使用原型强光射弹快速咀嚼敌人的护盾。"
+
+
+XS_ACOT_AUTOCANNON_1: "微型自动枪"
+SMALL_ACOT_AUTOCANNON_1: "小型自动枪"
+MEDIUM_ACOT_AUTOCANNON_1: "中型自动枪"
+LARGE_ACOT_AUTOCANNON_1: "大型自动枪"
+
+XS_ACOT_AUTOCANNON_2: "微型自动炮"
+SMALL_ACOT_AUTOCANNON_2: "小型自动炮"
+MEDIUM_ACOT_AUTOCANNON_2: "中型自动炮"
+LARGE_ACOT_AUTOCANNON_2: "大型自动炮"
+
+XS_ACOT_AUTOCANNON_3: "微型先进自动炮"
+SMALL_ACOT_AUTOCANNON_3: "小型先进自动炮"
+MEDIUM_ACOT_AUTOCANNON_3: "中型高级自动炮"
+LARGE_ACOT_AUTOCANNON_3: "大型先进自动炮"
+
+XS_ACOT_AUTOCANNON_4: "微型开膛手自动炮"
+SMALL_ACOT_AUTOCANNON_4: "小型开膛手自动炮"
+MEDIUM_ACOT_AUTOCANNON_4: "中型开膛手自动炮"
+LARGE_ACOT_AUTOCANNON_4: "大型开膛手自动炮"
+
+XS_ACOT_AUTOCANNON_5: "小型暴风自动炮"
+SMALL_ACOT_AUTOCANNON_5: "小型暴风自动炮"
+MEDIUM_ACOT_AUTOCANNON_5: "中型风暴火自动炮"
+LARGE_ACOT_AUTOCANNON_5: "大型暴风自动炮"
+ 
+XS_ACOT_AUTOCANNON_6E: "微型神秘自动炮"
+SMALL_ACOT_AUTOCANNON_6E: "小型神秘自动炮"
+MEDIUM_ACOT_AUTOCANNON_6E: "中型神秘自动炮"
+LARGE_ACOT_AUTOCANNON_6E: "大型神秘自动炮"
+
+XS_ACOT_AUTOCANNON_6S: "微型星星自动炮"
+SMALL_ACOT_AUTOCANNON_6S: "小型星星自动炮"
+MEDIUM_ACOT_AUTOCANNON_6S: "中型星星自动炮"
+LARGE_ACOT_AUTOCANNON_6S: "大型星星自动炮"
+
+
+####### AL #######
+
+tech_acot_autocannons_al_4: "开膛手巨炮"
+tech_acot_autocannons_al_4_desc: "这些升级的旋转自动炮具有改进的跟踪和火控系统。,这使他们能够保持更高的射速。"
+tech_acot_autocannons_al_5: "暴风巨炮"
+tech_acot_autocannons_al_5_desc: "先进的旋转自动加农炮，能够向目标喷射大量高爆炮弹。"
+
+tech_acot_autocannons_al_6e: "巨炮"
+tech_acot_autocannons_al_6e_desc: "我们在强光操纵方面的进步使我们能够制造出足够坚固的炮塔，以容纳带有重型强光射弹的快速发射自动加农炮。,射速的大幅提高是通过牺牲武器射程和跟踪能力来实现的。"
+
+tech_acot_autocannons_al_6s: "巨炮"
+tech_acot_autocannons_al_6s_desc: "我们在强光操纵方面的进步使我们能够制造出足够坚固的炮塔，以容纳带有重型强光射弹的快速发射自动加农炮。,射速的大幅提高是通过牺牲武器射程和跟踪能力来实现的。"
+
+ACOT_AUTOCANNON_ARTILLERY_4: "开膛手巨炮"
+ACOT_AUTOCANNON_ARTILLERY_4_DESC: "用于对抗主力舰的远程、升级版裂土机自动炮。\n\n最小射程：40"
+ACOT_AUTOCANNON_ARTILLERY_5: "暴风巨炮"
+ACOT_AUTOCANNON_ARTILLERY_5_DESC: "用于对抗主力舰的远程升级版风暴火自动炮。\n\n最小射程：40"
+
+ACOT_AUTOCANNON_ARTILLERY_6E: "投石者大炮"
+ACOT_AUTOCANNON_ARTILLERY_6E_DESC: "用于对抗主力舰的远程升级版风暴火自动炮。\n\n最小射程：40"
+
+ACOT_AUTOCANNON_ARTILLERY_6S: "投石者大炮"
+ACOT_AUTOCANNON_ARTILLERY_6S_DESC: "用于对抗主力舰的远程升级版风暴火自动炮。\n\n最小射程：40"
+
+####### XL #######
+
+tech_acot_autocannons_xl_4: "开膛手超级大炮"
+tech_acot_autocannons_xl_4_desc: "这些升级的旋转自动炮具有改进的跟踪和火控系统。,这使他们能够保持更高的射速。"
+tech_acot_autocannons_xl_5: "暴风超级炮"
+tech_acot_autocannons_xl_5_desc: "先进的旋转自动加农炮，能够向目标喷射大量高爆炮弹。"
+
+tech_acot_autocannons_xl_6e: "暴风超级炮"
+tech_acot_autocannons_xl_6e_desc: "先进的旋转自动加农炮，能够向目标喷射大量高爆炮弹。"
+
+tech_acot_autocannons_xl_6s: "暴风超级炮"
+tech_acot_autocannons_xl_6s_desc: "先进的旋转自动加农炮，能够向目标喷射大量高爆炮弹。"
+
+
+ACOT_AUTOCANNON_XL_4: "开膛手超级大炮"
+ACOT_AUTOCANNON_XL_4_DESC: "开膛手超级大炮"
+ACOT_AUTOCANNON_XL_5: "暴风超级炮"
+ACOT_AUTOCANNON_XL_5_DESC: "暴风超级炮"
+
+ACOT_AUTOCANNON_XL_6E: "投石手超级炮"
+ACOT_AUTOCANNON_XL_6E_DESC: "投石手超级炮"
+
+ACOT_AUTOCANNON_XL_6S: "投石手超级炮"
+ACOT_AUTOCANNON_XL_6S_DESC: "投石手超级炮"
+
+
+####### T #######
+
+tech_acot_autocannons_t_5: "暴风巨炮"
+tech_acot_autocannons_t_5_desc: "先进的旋转自动加农炮，能够向目标喷射大量高爆炮弹。"
+
+tech_acot_autocannons_t_6e: "暴风巨炮"
+tech_acot_autocannons_t_6e_desc: "先进的旋转自动加农炮，能够向目标喷射大量高爆炮弹。"
+
+tech_acot_autocannons_t_6s: "暴风巨炮"
+tech_acot_autocannons_t_6s_desc: "先进的旋转自动加农炮，能够向目标喷射大量高爆炮弹。"
+
+ACOT_AUTOCANNON_TITAN_5: "暴风巨炮"
+ACOT_AUTOCANNON_TITAN_5_DESC: "暴风巨炮"
+
+ACOT_AUTOCANNON_TITAN_6E: "投石手巨加农炮"
+ACOT_AUTOCANNON_TITAN_6E_DESC: "投石手巨加农炮"
+
+ACOT_AUTOCANNON_TITAN_6S: "投石手巨加农炮"
+ACOT_AUTOCANNON_TITAN_6S_DESC: "投石手巨加农炮"
+
+ACOT_AUTOCANNON_TITAN_W_5: "暴风巨炮"
+ACOT_AUTOCANNON_TITAN_W_5_DESC: "暴风巨炮"
+
+ACOT_AUTOCANNON_TITAN_W_6E: "投石手巨加农炮"
+ACOT_AUTOCANNON_TITAN_W_6E_DESC: "投石手巨加农炮"
+
+ACOT_AUTOCANNON_TITAN_W_6S: "投石手巨加农炮"
+ACOT_AUTOCANNON_TITAN_W_6S_DESC: "投石手巨加农炮"
+############################################################ WRECKER ############################################################
+
+####### STANDARD #######
+
+tech_acot_wrecker_1: "重力弹射系统"
+tech_acot_wrecker_1_desc: "冲击炮"
+tech_acot_wrecker_2: "冲击炮"
+tech_acot_wrecker_2_desc: "冲击炮"
+tech_acot_wrecker_3: "粉碎炮"
+tech_acot_wrecker_3_desc: "粉碎炮"
+tech_acot_wrecker_4: "破壳炮"
+tech_acot_wrecker_4_desc: "破壳炮"
+tech_acot_wrecker_5: "毁船炮"
+tech_acot_wrecker_5_desc: "毁船炮"
+
+tech_acot_wrecker_6e: "冲击炮"
+tech_acot_wrecker_6e_desc: "在我们达到极限之前，动能武器只能走这么远。,记录表明，在过去，前身帝国往往不太关注轨道炮技术，而更多地关注产生强光弹的能力，这些弹可以以中等高速发射，同时造成重大伤害，仅仅因为这些弹的优点,自己极其致命。,借助先进的制导系统，炮弹也可以从远距离发射，而无需精确的瞄准精度。"
+
+tech_acot_wrecker_6s: "冲击炮"
+tech_acot_wrecker_6s_desc: "在我们达到极限之前，动能武器只能走这么远。,记录表明，在过去，前身帝国往往不太关注轨道炮技术，而更多地关注产生强光弹的能力，这些弹可以以中等高速发射，同时造成重大伤害，仅仅因为这些弹的优点,自己极其致命。,借助先进的制导系统，炮弹也可以从远距离发射，而无需精确的瞄准精度。"
+
+ACOT_WRECKER_1: "重力加农炮"
+ACOT_WRECKER_1_DESC: "Pre-FTL 反船体弹道炮经过改装可在太空中使用。,炮弹爆炸成多个碎片，可以损坏船内的关键结构，但对动能屏障无效。"
+ACOT_WRECKER_2: "冲击炮"
+ACOT_WRECKER_2_DESC: "升级到 FTL 之前的 AHB 以适应太空战的新标准，冲击炮擅长穿透敌人的护盾屏障，如果动能屏障被突破，就能摧毁敌人的内部系统。"
+ACOT_WRECKER_3: "粉碎炮"
+ACOT_WRECKER_3_DESC: "先进的工程技术可以发射更致命的炮弹，以提高战斗效果。"
+ACOT_WRECKER_4: "破壳炮"
+ACOT_WRECKER_4_DESC: "第四代 AHB 加农炮在不牺牲速度或射程的情况下更加强大。"
+ACOT_WRECKER_5: "毁船炮"
+ACOT_WRECKER_5_DESC: "毁掉他们就好了。"
+
+ACOT_WRECKER_6E: "神秘的冲击炮"
+ACOT_WRECKER_6E_DESC: "冲击炮较少依赖于像高斯炮那样发射快速射弹的能力，而更多地依赖于产生能够击中目标的强大子弹的实际能力。"
+
+ACOT_WRECKER_6S: "星光冲击炮"
+ACOT_WRECKER_6S_DESC: "冲击炮较少依赖于像高斯炮那样发射快速射弹的能力，而更多地依赖于产生能够击中目标的强大子弹的实际能力。"
+
+
+XS_ACOT_WRECKER_1: "微型重力炮"
+SMALL_ACOT_WRECKER_1: "小型重力加农炮"
+MEDIUM_ACOT_WRECKER_1: "中型重力加农炮"
+LARGE_ACOT_WRECKER_1: "大型重力加农炮"
+
+XS_ACOT_WRECKER_2: "微型冲击炮"
+SMALL_ACOT_WRECKER_2: "小型冲击炮"
+MEDIUM_ACOT_WRECKER_2: "中型冲击炮"
+LARGE_ACOT_WRECKER_2: "大型冲击炮"
+
+XS_ACOT_WRECKER_3: "微粉碎炮"
+SMALL_ACOT_WRECKER_3: "小型粉碎炮"
+MEDIUM_ACOT_WRECKER_3: "中型粉碎炮"
+LARGE_ACOT_WRECKER_3: "大型粉碎炮"
+
+XS_ACOT_WRECKER_4: "微型破壳炮"
+SMALL_ACOT_WRECKER_4: "小型破壳炮"
+MEDIUM_ACOT_WRECKER_4: "中型破壳炮"
+LARGE_ACOT_WRECKER_4: "大型破壳炮"
+
+XS_ACOT_WRECKER_5: "微型毁船炮"
+SMALL_ACOT_WRECKER_5: "小型毁船者加农炮"
+MEDIUM_ACOT_WRECKER_5: "中型毁船炮"
+LARGE_ACOT_WRECKER_5: "大型毁船炮"
+
+XS_ACOT_WRECKER_6E: "微型冲击炮"
+SMALL_ACOT_WRECKER_6E: "小型冲击炮"
+MEDIUM_ACOT_WRECKER_6E: "中型冲击炮"
+LARGE_ACOT_WRECKER_6E: "大型冲击炮"
+
+XS_ACOT_WRECKER_6S: "微型冲击炮"
+SMALL_ACOT_WRECKER_6S: "小型冲击炮"
+MEDIUM_ACOT_WRECKER_6S: "中型冲击炮"
+LARGE_ACOT_WRECKER_6S: "大型冲击炮"
+
+
+####### AL #######
+
+#tech_kinetic_artillery_1: "Graviton Battery"
+#tech_kinetic_artillery_1_desc: "Very long-range artillery capable of hurling powerful rounds over extreme distances with a large degree of accuracy."
+#tech_kinetic_artillery_2: "Graviton Artillery"
+#tech_kinetic_artillery_2_desc: "An even more powerful long-range, ship-based artillery cannon, equipped with a new barrel and an upgraded fire control computer."
+
+tech_acot_wrecker_al_6e: "原型强光火炮"
+tech_acot_wrecker_al_6e_desc: "现在是我们终于开始为实际的远程强光火炮系统做准备的时候了。,第一个原型应该很快就能进行现场测试。"
+
+tech_acot_wrecker_al_6s: "原型强光火炮"
+tech_acot_wrecker_al_6s_desc: "现在是我们终于开始为实际的远程强光火炮系统做准备的时候了。,第一个原型应该很快就能进行现场测试。"
+
+ACOT_WRECKER_ARTILLERY_4: "破壳者引力子电池"
+ACOT_WRECKER_ARTILLERY_4_DESC: "超远程火炮，能够在极远的距离上以极高的精度投掷强大的炮弹。"
+ACOT_WRECKER_ARTILLERY_5: "毁船者引力火炮"
+ACOT_WRECKER_ARTILLERY_5_DESC: "威力更强大的远程舰载火炮，配备新的炮管和升级的火控计算机。"
+
+ACOT_WRECKER_ARTILLERY_6E: "神秘的冲击炮"
+ACOT_WRECKER_ARTILLERY_6E_DESC: "顾名思义，原型硬光火炮是由硬光材料制成的发射弹。"
+
+ACOT_WRECKER_ARTILLERY_6S: "星光大炮"
+ACOT_WRECKER_ARTILLERY_6S_DESC: "顾名思义，原型硬光火炮是由硬光材料制成的发射弹。"
+
+
+####### XL #######
+
+tech_acot_wrecker_xl_4: "重力破碎机"
+tech_acot_wrecker_xl_4_desc: "重力破碎机"
+tech_acot_wrecker_xl_5: "引力子粉碎机"
+tech_acot_wrecker_xl_5_desc: "引力子粉碎机"
+
+tech_acot_wrecker_xl_6e: "引力子粉碎机"
+tech_acot_wrecker_xl_6e_desc: "引力子粉碎机"
+
+tech_acot_wrecker_xl_6s: "引力子粉碎机"
+tech_acot_wrecker_xl_6s_desc: "引力子粉碎机"
+
+ACOT_WRECKER_XL_4: "破壳者重力破碎机"
+ACOT_WRECKER_XL_4_DESC: "破壳者X"
+ACOT_WRECKER_XL_5: "毁船者重力粉碎机"
+ACOT_WRECKER_XL_5_DESC: "毁船者 X"
+
+ACOT_WRECKER_XL_6E: "人类白细胞抗原X"
+ACOT_WRECKER_XL_6E_DESC: "人类白细胞抗原X"
+ 
+ACOT_WRECKER_XL_6S: "人类白细胞抗原X"
+ACOT_WRECKER_XL_6S_DESC: "人类白细胞抗原X"
+
+####### T #######
+
+tech_acot_wrecker_t_5: "泰坦破坏者"
+tech_acot_wrecker_t_5_desc: "泰坦破壳者"
+
+tech_acot_wrecker_t_6e: "泰坦破坏者"
+tech_acot_wrecker_t_6e_desc: "泰坦破壳者"
+
+tech_acot_wrecker_t_6s: "泰坦破坏者"
+tech_acot_wrecker_t_6s_desc: "泰坦破壳者"
+
+
+ACOT_WRECKER_TITAN_5: "泰坦破坏者"
+ACOT_WRECKER_TITAN_5_DESC: "泰坦破坏者"
+
+ACOT_WRECKER_TITAN_6E: "主宰毁灭者"
+ACOT_WRECKER_TITAN_6E_DESC: "主宰毁灭者"
+ACOT_WRECKER_TITAN_7E: "巨像食者"
+ACOT_WRECKER_TITAN_7E_DESC: "巨像食者"
+ACOT_WRECKER_TITAN_8E: "巨兽猎人"
+ACOT_WRECKER_TITAN_8E_DESC: "巨兽猎人"
+ACOT_WRECKER_TITAN_9E: "§RG神分离器"
+ACOT_WRECKER_TITAN_9E_DESC: "§RG神分离器"
+
+ACOT_WRECKER_TITAN_6S: "主宰毁灭者"
+ACOT_WRECKER_TITAN_6S_DESC: "主宰毁灭者"
+ACOT_WRECKER_TITAN_7S: "巨像食者"
+ACOT_WRECKER_TITAN_7S_DESC: "巨像食者"
+ACOT_WRECKER_TITAN_8S: "巨兽猎人"
+ACOT_WRECKER_TITAN_8S_DESC: "巨兽猎人"
+ACOT_WRECKER_TITAN_9S: "§RG神分离器"
+ACOT_WRECKER_TITAN_9S_DESC: "§RG神分离器"
+
+ACOT_WRECKER_TITAN_W_5: "泰坦破坏者"
+ACOT_WRECKER_TITAN_W_5_DESC: "泰坦破坏者"
+
+ACOT_WRECKER_TITAN_W_6E: "主宰毁灭者"
+ACOT_WRECKER_TITAN_W_6E_DESC: "主宰毁灭者"
+
+ACOT_WRECKER_TITAN_W_6S: "主宰毁灭者"
+ACOT_WRECKER_TITAN_W_6S_DESC: "主宰毁灭者"
+
+############################################################ PD ############################################################
+
+#tech_pd_tracking_1: "AM-PDS"
+#tech_pd_tracking_1_desc: "The best defense is a good offense."
+#tech_pd_tracking_2: "Interlinked Support Systems"
+#tech_pd_tracking_2_desc: "Arrays of defensive armaments prove much more effective than independent countermeasures."
+#tech_pd_tracking_3: "Predictive Algorithms"
+#tech_pd_tracking_3_desc: "Advanced prediction greatly increases the accuracy of active countermeasure systems."
+tech_acot_pd_tracking_4: "互联支持系统"
+tech_acot_pd_tracking_4_desc: "事实证明，一系列防御性武器比单独的对抗措施要有效得多。"
+tech_acot_pd_tracking_5: "预测算法"
+tech_acot_pd_tracking_5_desc: "先进的预测大大提高了主动对抗系统的准确性。"
+
+tech_acot_pd_tracking_6e: "神秘的点防御"
+tech_acot_pd_tracking_6e_desc: "我们越来越接近了解过去的各种技术奇迹，脉冲束可以修改为适用于筛选导弹和攻击机的有效点防御。"
+
+tech_acot_pd_tracking_6s: "神秘的点防御"
+tech_acot_pd_tracking_6s_desc: "我们越来越接近了解过去的各种技术奇迹，脉冲束可以修改为适用于筛选导弹和攻击机的有效点防御。"
+
+ACOT_POINT_DEFENSE_1: "AM点防御系统"
+ACOT_POINT_DEFENSE_1_DESC: "对于较大且速度较慢的军舰来说，针对导弹和攻击艇的船体反制措施通常至关重要。"
+XS_ACOT_POINT_DEFENSE_1: "AM 微型点防御系统"
+SMALL_ACOT_POINT_DEFENSE_1: "AM点防御系统"
+MEDIUM_ACOT_POINT_DEFENSE_1: "AM点防御系统"
+LARGE_ACOT_POINT_DEFENSE_1: "AM点防御系统"
+
+ACOT_POINT_DEFENSE_2: "AAM 点防御系统"
+ACOT_POINT_DEFENSE_2_DESC: "更新的预测算法提高了跟踪和点防御效率。"
+XS_ACOT_POINT_DEFENSE_2: "AAM 微型点防御系统"
+SMALL_ACOT_POINT_DEFENSE_2: "AAM 点防御系统"
+MEDIUM_ACOT_POINT_DEFENSE_2: "AAM 点防御系统"
+LARGE_ACOT_POINT_DEFENSE_2: "AAM 点防御系统"
+
+ACOT_POINT_DEFENSE_3: "Shielder 点防御系统"
+ACOT_POINT_DEFENSE_3_DESC: "更广泛的可用弹药类型极大地提高了对传入威胁的有效拦截率。"
+XS_ACOT_POINT_DEFENSE_3: "Shielder 微型点防御系统"
+SMALL_ACOT_POINT_DEFENSE_3: "Shielder 点防御系统"
+MEDIUM_ACOT_POINT_DEFENSE_3: "Shielder 点防御系统"
+LARGE_ACOT_POINT_DEFENSE_3: "Shielder 点防御系统"
+
+ACOT_POINT_DEFENSE_4: "障碍点防御系统"
+ACOT_POINT_DEFENSE_4_DESC: "更广泛的可用弹药类型极大地提高了对传入威胁的有效拦截率。"
+XS_ACOT_POINT_DEFENSE_4: "屏障微点防御系统"
+SMALL_ACOT_POINT_DEFENSE_4: "障碍点防御系统"
+MEDIUM_ACOT_POINT_DEFENSE_4: "障碍点防御系统"
+LARGE_ACOT_POINT_DEFENSE_4: "障碍点防御系统"
+
+ACOT_POINT_DEFENSE_5: "守护者点防御系统"
+ACOT_POINT_DEFENSE_5_DESC: "更广泛的可用弹药类型极大地提高了对传入威胁的有效拦截率。"
+XS_ACOT_POINT_DEFENSE_5: "Guardian 微型点防御系统"
+SMALL_ACOT_POINT_DEFENSE_5: "守护者点防御系统"
+MEDIUM_ACOT_POINT_DEFENSE_5: "守护者点防御系统"
+LARGE_ACOT_POINT_DEFENSE_5: "守护者点防御系统"
+
+ACOT_POINT_DEFENSE_6E: "神秘的点防御"
+ACOT_POINT_DEFENSE_6E_DESC: "神秘的点防御发射集中能量束来压制敌方导弹。"
+XS_ACOT_POINT_DEFENSE_6E: "神秘的微点防御"
+SMALL_ACOT_POINT_DEFENSE_6E: "神秘的点防御"
+MEDIUM_ACOT_POINT_DEFENSE_6E: "神秘的点防御"
+LARGE_ACOT_POINT_DEFENSE_6E: "神秘的点防御"
+
+ACOT_POINT_DEFENSE_6S: "星辰点防御"
+ACOT_POINT_DEFENSE_6S_DESC: "星石点防御发射集中能量束来压制敌方导弹。"
+XS_ACOT_POINT_DEFENSE_6S: "Stellarite 微点防御"
+SMALL_ACOT_POINT_DEFENSE_6S: "星辰点防御"
+MEDIUM_ACOT_POINT_DEFENSE_6S: "星辰点防御"
+LARGE_ACOT_POINT_DEFENSE_6S: "星辰点防御"
+
+############################################################ FLAK ############################################################
+
+#tech_flak_batteries_1: "Sentry Gun"
+#tech_flak_batteries_1_desc: "Gun batteries that fire shrapnel rounds at close range. They are particularly lethal to enemy strike craft, but can also defend against missiles."
+#tech_flak_batteries_2: "Improved Sentry Gun"
+#tech_flak_batteries_2_desc: "Upgraded flak batteries with new, more powerful shrapnel rounds."
+#tech_flak_batteries_3: "Sentry Cannon"
+#tech_flak_batteries_3_desc: "Predictive tracking algorithms and even more powerful rounds make these batteries incredibly lethal to enemy strike craft."
+tech_acot_flak_batteries_4: "先进哨兵炮"
+tech_acot_flak_batteries_4_desc: "先进哨兵炮"
+tech_acot_flak_batteries_5: "守护哨兵炮"
+tech_acot_flak_batteries_5_desc: "守护哨兵炮"
+
+tech_acot_flak_batteries_6e: "Delphic 瞄准计算机"
+tech_acot_flak_batteries_6e_desc: "用强大而神秘的德尔斐战斗计算机更新我们当前的动能防御系统将大大使该系统比旧的高射炮更加强大。"
+
+tech_acot_flak_batteries_6s: "Delphic 瞄准计算机"
+tech_acot_flak_batteries_6s_desc: "用强大而神秘的德尔斐战斗计算机更新我们当前的动能防御系统将大大使该系统比旧的高射炮更加强大。"
+
+ACOT_FLAK_CANNON_1: "步哨枪"
+ACOT_FLAK_CANNON_1_DESC: "$tech_flak_batteries_1_desc$"
+XS_ACOT_FLAK_CANNON_1: "微型步哨枪"
+SMALL_ACOT_FLAK_CANNON_1: "步哨枪"
+MEDIUM_ACOT_FLAK_CANNON_1: "步哨枪"
+LARGE_ACOT_FLAK_CANNON_1: "步哨枪"
+
+ACOT_FLAK_CANNON_2: "改进型步哨枪"
+ACOT_FLAK_CANNON_2_DESC: "$tech_flak_batteries_2_desc$"
+XS_ACOT_FLAK_CANNON_2: "微型改良步哨枪"
+SMALL_ACOT_FLAK_CANNON_2: "改进型步哨枪"
+MEDIUM_ACOT_FLAK_CANNON_2: "改进型步哨枪"
+LARGE_ACOT_FLAK_CANNON_2: "改进型步哨枪"
+
+ACOT_FLAK_CANNON_3: "哨兵炮"
+ACOT_FLAK_CANNON_3_DESC: "$tech_flak_batteries_3_desc$"
+XS_ACOT_FLAK_CANNON_3: "微型哨兵炮"
+SMALL_ACOT_FLAK_CANNON_3: "哨兵炮"
+MEDIUM_ACOT_FLAK_CANNON_3: "哨兵炮"
+LARGE_ACOT_FLAK_CANNON_3: "哨兵炮"
+
+ACOT_FLAK_CANNON_4: "先进哨兵炮"
+ACOT_FLAK_CANNON_4_DESC: "$tech_flak_batteries_3_desc$"
+XS_ACOT_FLAK_CANNON_4: "微型高级哨兵炮"
+SMALL_ACOT_FLAK_CANNON_4: "先进哨兵炮"
+MEDIUM_ACOT_FLAK_CANNON_4: "先进哨兵炮"
+LARGE_ACOT_FLAK_CANNON_4: "先进哨兵炮"
+
+ACOT_FLAK_CANNON_5: "守护哨兵炮"
+ACOT_FLAK_CANNON_5_DESC: "$tech_flak_batteries_3_desc$"
+XS_ACOT_FLAK_CANNON_5: "微型守护哨兵炮"
+SMALL_ACOT_FLAK_CANNON_5: "守护哨兵炮"
+MEDIUM_ACOT_FLAK_CANNON_5: "守护哨兵炮"
+LARGE_ACOT_FLAK_CANNON_5: "守护哨兵炮"
+
+ACOT_FLAK_CANNON_6E: "神秘哨兵炮"
+ACOT_FLAK_CANNON_6E_DESC: "强大的动能防御系统，擅长击落讨厌的攻击机和导弹。"
+XS_ACOT_FLAK_CANNON_6E: "微型神秘哨兵炮"
+SMALL_ACOT_FLAK_CANNON_6E: "神秘哨兵炮"
+MEDIUM_ACOT_FLAK_CANNON_6E: "神秘哨兵炮"
+LARGE_ACOT_FLAK_CANNON_6E: "神秘哨兵炮"
+
+ACOT_FLAK_CANNON_6S: "星星哨兵炮"
+ACOT_FLAK_CANNON_6S_DESC: "强大的动能防御系统，擅长击落讨厌的攻击机和导弹。"
+XS_ACOT_FLAK_CANNON_6S: "微型星星哨兵炮"
+SMALL_ACOT_FLAK_CANNON_6S: "星星哨兵炮"
+MEDIUM_ACOT_FLAK_CANNON_6S: "星星哨兵炮"
+LARGE_ACOT_FLAK_CANNON_6S: "星星哨兵炮"
+
+############################################################ CCM ############################################################
+
+tech_acot_ccm_1: "对抗导弹"
+tech_acot_ccm_1_desc: "近距离发射弹片的炮组。,它们对敌方攻击机特别致命，但也可以防御导弹。"
+tech_acot_ccm_2: "改进的对抗导弹"
+tech_acot_ccm_2_desc: "升级后的高能电池配备了威力更强大的新弹片。"
+tech_acot_ccm_3: "对抗导弹"
+tech_acot_ccm_3_desc: "预测跟踪算法和更强大的弹药使这些电池对敌方攻击机具有难以置信的杀伤力。"
+tech_acot_ccm_4: "先进对抗导弹"
+tech_acot_ccm_4_desc: "先进对抗导弹"
+tech_acot_ccm_5: "守护者对抗导弹"
+tech_acot_ccm_5_desc: "守护者对抗导弹"
+
+tech_acot_ccm_6e: "Delphic 瞄准计算机"
+tech_acot_ccm_6e_desc: "用强大而神秘的德尔斐战斗计算机更新我们当前的动能防御系统将大大使该系统比旧的高射炮更加强大。"
+
+tech_acot_ccm_6s: "Delphic 瞄准计算机"
+tech_acot_ccm_6s_desc: "用强大而神秘的德尔斐战斗计算机更新我们当前的动能防御系统将大大使该系统比旧的高射炮更加强大。"
+
+
+ACOT_CCM_1: "对抗导弹"
+ACOT_CCM_1_DESC: "$tech_acot_ccm_1_desc$"
+XS_ACOT_CCM_1: "微型对抗导弹"
+SMALL_ACOT_CCM_1: "对抗导弹"
+MEDIUM_ACOT_CCM_1: "对抗导弹"
+LARGE_ACOT_CCM_1: "对抗导弹"
+
+ACOT_CCM_2: "改进的对抗导弹"
+ACOT_CCM_2_DESC: "$tech_acot_ccm_2_desc$"
+XS_ACOT_CCM_2: "微型改进型对抗导弹"
+SMALL_ACOT_CCM_2: "改进的对抗导弹"
+MEDIUM_ACOT_CCM_2: "改进的对抗导弹"
+LARGE_ACOT_CCM_2: "改进的对抗导弹"
+
+ACOT_CCM_3: "对抗导弹"
+ACOT_CCM_3_DESC: "$tech_acot_ccm_3_desc$"
+XS_ACOT_CCM_3: "微型对抗导弹"
+SMALL_ACOT_CCM_3: "对抗导弹"
+MEDIUM_ACOT_CCM_3: "对抗导弹"
+LARGE_ACOT_CCM_3: "对抗导弹"
+
+ACOT_CCM_4: "先进对抗导弹"
+ACOT_CCM_4_DESC: "$tech_acot_ccm_3_desc$"
+XS_ACOT_CCM_4: "微型先进对抗导弹"
+SMALL_ACOT_CCM_4: "先进对抗导弹"
+MEDIUM_ACOT_CCM_4: "先进对抗导弹"
+LARGE_ACOT_CCM_4: "先进对抗导弹"
+
+ACOT_CCM_5: "守护者对抗导弹"
+ACOT_CCM_5_DESC: "$tech_acot_ccm_3_desc$"
+XS_ACOT_CCM_5: "微型卫士对抗导弹"
+SMALL_ACOT_CCM_5: "守护者对抗导弹"
+MEDIUM_ACOT_CCM_5: "守护者对抗导弹"
+LARGE_ACOT_CCM_5: "守护者对抗导弹"
+
+ACOT_CCM_6E: "神秘的对抗导弹"
+ACOT_CCM_6E_DESC: "强大的动能防御系统，擅长击落讨厌的攻击机和导弹。"
+XS_ACOT_CCM_6E: "微型神秘对抗导弹"
+SMALL_ACOT_CCM_6E: "神秘的对抗导弹"
+MEDIUM_ACOT_CCM_6E: "神秘的对抗导弹"
+LARGE_ACOT_CCM_6E: "神秘的对抗导弹"
+
+
+ACOT_CCM_6S: "星星对抗导弹"
+ACOT_CCM_6S_DESC: "强大的动能防御系统，擅长击落讨厌的攻击机和导弹。"
+XS_ACOT_CCM_6S: "微型星星对抗导弹"
+SMALL_ACOT_CCM_6S: "星星对抗导弹"
+MEDIUM_ACOT_CCM_6S: "星星对抗导弹"
+LARGE_ACOT_CCM_6S: "星星对抗导弹"
+
+############################################################ACOT_DESTABLIZER ############################################################
+
+ACOT_DESTABLIZER_1: "照明弹"
+ACOT_DESTABLIZER_1_DESC: "照明弹"
+ACOT_DESTABLIZER_2: "反对抗照明弹"
+ACOT_DESTABLIZER_2_DESC: "反对抗照明弹"
+ACOT_DESTABLIZER_3: "防护照明弹"
+ACOT_DESTABLIZER_3_DESC: "防护照明弹"
+ACOT_DESTABLIZER_4: "守护者照明弹"
+ACOT_DESTABLIZER_4_DESC: "守护者照明弹"
+ACOT_DESTABLIZER_5: "复制人耀斑"
+ACOT_DESTABLIZER_5_DESC: "复制人耀斑"
+
+
+############################################################ MISSILES ############################################################
+
+tech_acot_weapon_explosive: "爆炸和跟踪系统"
+tech_acot_weapon_explosive_desc: "爆炸和跟踪系统"
+
+tech_acot_weapon_explosive_2: "先进的爆炸瞄准系统"
+tech_acot_weapon_explosive_2_desc: "先进的爆炸瞄准系统"
+
+tech_acot_weapon_explosive_3: "复制人重新点火瞄准系统"
+tech_acot_weapon_explosive_3_desc: "复制人重新点火瞄准系统"
+
+tech_acot_weapon_explosive_6e: "复制人重新点火瞄准系统"
+tech_acot_weapon_explosive_6e_desc: "复制人重新点火瞄准系统"
+
+tech_acot_weapon_explosive_6s: "复制人重新点火瞄准系统"
+tech_acot_weapon_explosive_6s_desc: "复制人重新点火瞄准系统"
+
+
+ # Missile Branch
+#tech_missiles_1: "Disruption Missiles"
+#tech_missiles_1_desc: "Space-to-space missiles equipped with high-yield nuclear warheads. Although based on old pre-space technology, these crude fire-and-forget weapons can be surprisingly effective at range."
+#tech_missiles_2: "EMP Missiles"
+#tech_missiles_2_desc: "These updated space-to-space missiles have more powerful fusion warheads and improved flight performance."
+#tech_missiles_3: "Saboteur Missiles"
+#tech_missiles_3_desc: "Advanced missiles equipped with very powerful antimatter warheads. A new and improved guidance system gives them a better chance of finding their targets."
+#tech_missiles_4: "Havoc Missiles"
+#tech_missiles_4_desc: "The latest version of space-to-space missile, this upgraded variant has an immensely powerful warhead that draws its energy from a zero point vacuum."
+#tech_missiles_5: "Avalanche Missiles"
+#tech_missiles_5_desc: "These highly advanced missiles are equipped with limited onboard AI pilots that substantially improve their performance and ability to track targets."
+
+tech_acot_missiles_6e: "幽灵导弹"
+tech_acot_missiles_6e_desc: "掠夺者导弹可以升级为幽灵导弹，其材质更强，爆炸威力更高。"
+
+tech_acot_missiles_6s: "灼热导弹"
+tech_acot_missiles_6s_desc: "掠夺者导弹可以升级为幽灵导弹，其材质更强，爆炸威力更高。"
+
+ACOT_MISSILE_1: "干扰导弹"
+ACOT_MISSILE_1_DESC: "配备高当量核弹头的空对空导弹。,尽管基于古老的前太空技术，这些简陋的发射后不管武器在射程上的效果却令人惊讶。"
+ACOT_MISSILE_2: "电磁脉冲导弹"
+ACOT_MISSILE_2_DESC: "这些更新的空对空导弹拥有更强大的聚变弹头和改进的飞行性能。"
+ACOT_MISSILE_3: "破坏者导弹"
+ACOT_MISSILE_3_DESC: "配备非常强大的反物质弹头的先进导弹。,新的和改进的引导系统使他们有更好的机会找到目标。"
+ACOT_MISSILE_4: "浩劫导弹"
+ACOT_MISSILE_4_DESC: "作为最新版本的空对空导弹，这种升级版拥有威力巨大的弹头，可以从零点真空中汲取能量。"
+ACOT_MISSILE_5: "雪崩导弹"
+ACOT_MISSILE_5_DESC: "这些高度先进的导弹配备了有限的机载人工智能飞行员，大大提高了其性能和跟踪目标的能力。"
+
+ACOT_MISSILE_6E: "幽灵导弹"
+ACOT_MISSILE_6E_DESC: "幽灵导弹比掠夺者导弹更强，好吧，它们是幽灵，而不是收割者或海军陆战队员。,他们应该击败掠夺者。"
+
+ACOT_MISSILE_6S: "灼热导弹"
+ACOT_MISSILE_6S_DESC: "幽灵导弹比掠夺者导弹更强，好吧，它们是幽灵，而不是收割者或海军陆战队员。,他们应该击败掠夺者。"
+
+
+XS_ACOT_MISSILE_1: "干扰微型导弹"
+SMALL_ACOT_MISSILE_1: "干扰导弹"
+MEDIUM_ACOT_MISSILE_1: "双干扰导弹"
+LARGE_ACOT_MISSILE_1: "四枚干扰导弹"
+
+XS_ACOT_MISSILE_2: "电磁脉冲微型导弹"
+SMALL_ACOT_MISSILE_2: "电磁脉冲导弹"
+MEDIUM_ACOT_MISSILE_2: "双 EMP 导弹"
+LARGE_ACOT_MISSILE_2: "四枚 EMP 导弹"
+
+XS_ACOT_MISSILE_3: "破坏者微型导弹"
+SMALL_ACOT_MISSILE_3: "破坏者导弹"
+MEDIUM_ACOT_MISSILE_3: "双破坏者导弹"
+LARGE_ACOT_MISSILE_3: "四枚破坏者导弹"
+
+XS_ACOT_MISSILE_4: "浩劫微型导弹"
+SMALL_ACOT_MISSILE_4: "浩劫导弹"
+MEDIUM_ACOT_MISSILE_4: "双浩劫导弹"
+LARGE_ACOT_MISSILE_4: "四重浩劫导弹"
+
+XS_ACOT_MISSILE_5: "雪崩微型导弹"
+SMALL_ACOT_MISSILE_5: "雪崩导弹"
+MEDIUM_ACOT_MISSILE_5: "双雪崩导弹"
+LARGE_ACOT_MISSILE_5: "四枚雪崩导弹"
+
+XS_ACOT_MISSILE_6E: "幽灵微型导弹"
+SMALL_ACOT_MISSILE_6E: "幽灵导弹"
+MEDIUM_ACOT_MISSILE_6E: "双幽灵导弹"
+LARGE_ACOT_MISSILE_6E: "四枚幽灵导弹"
+
+XS_ACOT_MISSILE_6S: "幽灵微型导弹"
+SMALL_ACOT_MISSILE_6S: "幽灵导弹"
+MEDIUM_ACOT_MISSILE_6S: "双幽灵导弹"
+LARGE_ACOT_MISSILE_6S: "四枚幽灵导弹"
+
+
+tech_acot_missiles_al_4: "实验性拦河坝系统"
+tech_acot_missiles_al_4_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+tech_acot_missiles_al_5: "实验性拦河坝系统"
+tech_acot_missiles_al_5_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+
+tech_acot_missiles_al_6e: "实验性拦河坝系统"
+tech_acot_missiles_al_6e_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+
+tech_acot_missiles_al_6s: "实验性拦河坝系统"
+tech_acot_missiles_al_6s_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+
+
+ACOT_MISSILE_AL_4: "浩劫 MRLS"
+ACOT_MISSILE_AL_4_DESC: "浩劫 MRLS"
+ACOT_MISSILE_AL_5: "雪崩 MRLS"
+ACOT_MISSILE_AL_5_DESC: "雪崩 MRLS"
+
+ACOT_MISSILE_AL_6E: "雪崩 MRLS"
+ACOT_MISSILE_AL_6E_DESC: "雪崩 MRLS"
+
+ACOT_MISSILE_AL_6S: "雪崩 MRLS"
+ACOT_MISSILE_AL_6S_DESC: "雪崩 MRLS"
+
+
+############ XL
+
+tech_acot_missiles_xl_4: "实验性拦河坝系统"
+tech_acot_missiles_xl_4_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+tech_acot_missiles_xl_5: "实验性拦河坝系统"
+tech_acot_missiles_xl_5_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+
+tech_acot_missiles_xl_6e: "实验性拦河坝系统"
+tech_acot_missiles_xl_6e_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+
+tech_acot_missiles_xl_6s: "实验性拦河坝系统"
+tech_acot_missiles_xl_6s_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+
+ACOT_MISSILE_XL_4: "浩劫战斧"
+ACOT_MISSILE_XL_4_DESC: "浩劫战斧"
+ACOT_MISSILE_XL_5: "雪崩战斧"
+ACOT_MISSILE_XL_5_DESC: "雪崩战斧"
+
+ACOT_MISSILE_XL_6E: "雪崩战斧"
+ACOT_MISSILE_XL_6E_DESC: "雪崩战斧"
+
+ACOT_MISSILE_XL_6S: "雪崩战斧"
+ACOT_MISSILE_XL_6S_DESC: "雪崩战斧"
+
+tech_acot_missiles_t_5: "实验性拦河坝系统"
+tech_acot_missiles_t_5_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+ACOT_MISSILE_T_5: "雪崩泰坦弹头"
+ACOT_MISSILE_T_5_DESC: "雪崩泰坦弹头"
+ACOT_MISSILE_T_W_5: "雪崩泰坦弹头"
+ACOT_MISSILE_T_W_5_DESC: "雪崩泰坦弹头"
+
+tech_acot_missiles_t_6e: "实验性拦河坝系统"
+tech_acot_missiles_t_6e_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+ACOT_MISSILE_T_6E: "雪崩泰坦弹头"
+ACOT_MISSILE_T_6E_DESC: "雪崩泰坦弹头"
+ACOT_MISSILE_T_W_6E: "雪崩泰坦弹头"
+ACOT_MISSILE_T_W_6E_DESC: "雪崩泰坦弹头"
+
+tech_acot_missiles_t_6s: "实验性拦河坝系统"
+tech_acot_missiles_t_6s_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+ACOT_MISSILE_T_6S: "雪崩泰坦弹头"
+ACOT_MISSILE_T_6S_DESC: "雪崩泰坦弹头"
+ACOT_MISSILE_T_W_6S: "雪崩泰坦弹头"
+ACOT_MISSILE_T_W_6S_DESC: "雪崩泰坦弹头"
+
+############################################################ SEEKER ############################################################
+
+ # Missile Branch
+tech_acot_seeker_1: "干扰导弹"
+tech_acot_seeker_1_desc: "配备高当量核弹头的空对空导弹。,尽管基于古老的前太空技术，这些简陋的发射后不管武器在射程上的效果却令人惊讶。"
+tech_acot_seeker_2: "电磁脉冲导弹"
+tech_acot_seeker_2_desc: "这些更新的空对空导弹拥有更强大的聚变弹头和改进的飞行性能。"
+tech_acot_seeker_3: "破坏者导弹"
+tech_acot_seeker_3_desc: "配备非常强大的反物质弹头的先进导弹。,新的和改进的引导系统使他们有更好的机会找到目标。"
+tech_acot_seeker_4: "浩劫导弹"
+tech_acot_seeker_4_desc: "作为最新版本的空对空导弹，这种升级版拥有威力巨大的弹头，可以从零点真空中汲取能量。"
+tech_acot_seeker_5: "雪崩导弹"
+tech_acot_seeker_5_desc: "这些高度先进的导弹配备了有限的机载人工智能飞行员，大大提高了其性能和跟踪目标的能力。"
+
+tech_acot_seeker_6e: "幽灵导弹"
+tech_acot_seeker_6e_desc: "掠夺者导弹可以升级为幽灵导弹，其材质更强，爆炸威力更高。"
+
+tech_acot_seeker_6s: "幽灵导弹"
+tech_acot_seeker_6s_desc: "掠夺者导弹可以升级为幽灵导弹，其材质更强，爆炸威力更高。"
+
+
+ACOT_SEEKER_1: "搜寻者无人机"
+ACOT_SEEKER_1_DESC: "配备高当量核弹头的空对空导弹。,尽管基于古老的前太空技术，这些简陋的发射后不管武器在射程上的效果却令人惊讶。"
+ACOT_SEEKER_2: "改进的导引头无人机"
+ACOT_SEEKER_2_DESC: "这些更新的空对空导弹拥有更强大的聚变弹头和改进的飞行性能。"
+ACOT_SEEKER_3: "先进的导引头无人机"
+ACOT_SEEKER_3_DESC: "配备非常强大的反物质弹头的先进导弹。,新的和改进的引导系统使他们有更好的机会找到目标。"
+ACOT_SEEKER_4: "猎人杀手无人机"
+ACOT_SEEKER_4_DESC: "作为最新版本的空对空导弹，这种升级版拥有威力巨大的弹头，可以从零点真空中汲取能量。"
+ACOT_SEEKER_5: "复制杀手无人机"
+ACOT_SEEKER_5_DESC: "这些高度先进的导弹配备了有限的机载人工智能飞行员，大大提高了其性能和跟踪目标的能力。"
+
+ACOT_SEEKER_6E: "神秘的杀手无人机"
+ACOT_SEEKER_6E_DESC: "幽灵导弹比掠夺者导弹更强，好吧，它们是幽灵，而不是收割者或海军陆战队员。,他们应该击败掠夺者。"
+
+ACOT_SEEKER_6S: "恒星杀手无人机"
+ACOT_SEEKER_6S_DESC: "幽灵导弹比掠夺者导弹更强，好吧，它们是幽灵，而不是收割者或海军陆战队员。,他们应该击败掠夺者。"
+
+
+XS_ACOT_SEEKER_1: "迷你搜索无人机"
+SMALL_ACOT_SEEKER_1: "小型探索者无​​人机"
+MEDIUM_ACOT_SEEKER_1: "中型搜索无人机"
+LARGE_ACOT_SEEKER_1: "大型导引头无人机"
+
+XS_ACOT_SEEKER_2: "迷你改良型导引头无人机"
+SMALL_ACOT_SEEKER_2: "小型改良型导引头无人机"
+MEDIUM_ACOT_SEEKER_2: "中型改良型导引头无人机"
+LARGE_ACOT_SEEKER_2: "大型改良型导引头无人机"
+
+XS_ACOT_SEEKER_3: "迷你高级导引头无人机"
+SMALL_ACOT_SEEKER_3: "小型先进导引无人机"
+MEDIUM_ACOT_SEEKER_3: "中型高级导引无人机"
+LARGE_ACOT_SEEKER_3: "大型先进导引无人机"
+
+XS_ACOT_SEEKER_4: "迷你猎人杀手无人机"
+SMALL_ACOT_SEEKER_4: "小型猎人杀手无人机"
+MEDIUM_ACOT_SEEKER_4: "中型猎人杀手无人机"
+LARGE_ACOT_SEEKER_4: "大型猎人杀手无人机"
+
+XS_ACOT_SEEKER_5: "迷你复制杀手无人机"
+SMALL_ACOT_SEEKER_5: "小型复制杀手无人机"
+MEDIUM_ACOT_SEEKER_5: "中型复制杀手无人机"
+LARGE_ACOT_SEEKER_5: "大型复制杀手无人机"
+
+XS_ACOT_SEEKER_6E: "迷你神秘杀手无人机"
+SMALL_ACOT_SEEKER_6E: "小型神秘杀手无人机"
+MEDIUM_ACOT_SEEKER_6E: "中型神秘杀手无人机"
+LARGE_ACOT_SEEKER_6E: "大型神秘杀手无人机"
+
+XS_ACOT_SEEKER_6S: "迷你恒星杀手无人机"
+SMALL_ACOT_SEEKER_6S: "小型恒星杀手无人机"
+MEDIUM_ACOT_SEEKER_6S: "中型星星杀手无人机"
+LARGE_ACOT_SEEKER_6S: "大型星星杀手无人机"
+
+tech_acot_seeker_al_4: "巨龙"
+tech_acot_seeker_al_4_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+tech_acot_seeker_al_5: "复制巨龙"
+tech_acot_seeker_al_5_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+
+tech_acot_seeker_al_6e: "神秘的巨龙"
+tech_acot_seeker_al_6e_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+
+tech_acot_seeker_al_6s: "恒星巨龙"
+tech_acot_seeker_al_6s_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+
+ACOT_SEEKER_AL_4: "猎人杀手巨龙"
+ACOT_SEEKER_AL_4_DESC: "猎人杀手巨龙"
+ACOT_SEEKER_AL_5: "复制人杀手巨龙"
+ACOT_SEEKER_AL_5_DESC: "复制人杀手巨龙"
+
+ACOT_SEEKER_AL_6E: "神秘杀手巨龙"
+ACOT_SEEKER_AL_6E_DESC: "神秘杀手巨龙"
+
+ACOT_SEEKER_AL_6S: "星辰杀手巨龙"
+ACOT_SEEKER_AL_6S_DESC: "星辰杀手巨龙"
+
+############ XL
+
+tech_acot_seeker_xl_4: "威震天发射器"
+tech_acot_seeker_xl_4_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+tech_acot_seeker_xl_5: "复制品威震天发射器"
+tech_acot_seeker_xl_5_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+
+tech_acot_seeker_xl_6e: "神秘的威震天发射器"
+tech_acot_seeker_xl_6e_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+
+tech_acot_seeker_xl_6s: "Stellarite Megadron 发射器"
+tech_acot_seeker_xl_6s_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+
+ACOT_SEEKER_XL_4: "猎人杀手威震天"
+ACOT_SEEKER_XL_4_DESC: "猎人杀手威震天"
+ACOT_SEEKER_XL_5: "复制人杀手威震天"
+ACOT_SEEKER_XL_5_DESC: "复制人杀手威震天"
+
+ACOT_SEEKER_XL_6E: "神秘杀手威震天"
+ACOT_SEEKER_XL_6E_DESC: "神秘杀手威震天"
+
+ACOT_SEEKER_XL_6S: "星辰杀手威震天"
+ACOT_SEEKER_XL_6S_DESC: "星辰杀手威震天"
+
+tech_acot_seeker_t_5: "复制人杀手泰坦德隆"
+tech_acot_seeker_t_5_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+ACOT_SEEKER_T_5: "复制人杀手泰坦雄"
+ACOT_SEEKER_T_5_DESC: "复制人杀手泰坦德隆"
+ACOT_SEEKER_T_W_5: "复制人杀手泰坦雄"
+ACOT_SEEKER_T_W_5_DESC: "复制人杀手泰坦德隆"
+
+tech_acot_seeker_t_6e: "神秘杀手泰坦德隆"
+tech_acot_seeker_t_6e_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+ACOT_SEEKER_T_6E: "神秘杀手泰坦德隆"
+ACOT_SEEKER_T_6E_DESC: "神秘杀手泰坦德隆"
+ACOT_SEEKER_T_W_6E: "神秘杀手泰坦德隆"
+ACOT_SEEKER_T_W_6E_DESC: "神秘杀手泰坦德隆"
+
+tech_acot_seeker_t_6s: "星辰杀手泰坦德隆"
+tech_acot_seeker_t_6s_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+ACOT_SEEKER_T_6S: "星辰杀手泰坦德隆"
+ACOT_SEEKER_T_6S_DESC: "星辰杀手泰坦德隆"
+ACOT_SEEKER_T_W_6S: "星辰杀手泰坦德隆"
+ACOT_SEEKER_T_W_6S_DESC: "星辰杀手泰坦德隆"
+
+############################################################ MMG ############################################################
+
+ # Bollter Branch
+tech_acot_mmg_1: "爆弹炮"
+tech_acot_mmg_1_desc: "爆弹炮，或称爆弹枪，是一种利用带有爆炸性推进剂的电磁弹射器的爆炸性武器。弹丸本身是一种多级丢弃式穿甲弹，发射后的所有级都配有火箭发动机。,有效载荷本身是专门为使用携带高爆炸力的等离子钻头摧毁船体而制造的。"
+tech_acot_mmg_2: "改进的爆弹炮"
+tech_acot_mmg_2_desc: "推进系统和炸药包的升级将使我们的爆弹炮达到更现代化的标准。"
+tech_acot_mmg_3: "先进的爆弹炮"
+tech_acot_mmg_3_desc: "先进的瞄准软件将使弹丸的计算机能够定位船舶上最脆弱的部分，进行攻击并造成最大的损害。"
+tech_acot_mmg_4: "蛇怪爆弹炮"
+tech_acot_mmg_4_desc: "受古代方法启发，实施新的爆炸方法将使我们能够制造出更强大的螺栓加农炮，并具有多种新的可能性来获得更大的火力。"
+tech_acot_mmg_5: "毒蛇爆弹炮"
+tech_acot_mmg_5_desc: "毒蛇型爆弹炮是我们帝国对爆弹炮技术的完全复制版。,其火力是其前辈无法比拟的。"
+
+tech_acot_mmg_6e: "奇美拉爆弹炮"
+tech_acot_mmg_6e_desc: "掠夺者导弹可以升级为幽灵导弹，其材质更强，爆炸威力更高。"
+tech_acot_mmg_6s: "奇美拉爆弹炮"
+tech_acot_mmg_6s_desc: "掠夺者导弹可以升级为幽灵导弹，其材质更强，爆炸威力更高。"
+
+
+ACOT_MMG_1: "爆弹炮"
+ACOT_MMG_1_DESC: "电磁弹射器，由爆炸性推进剂辅助。,弹丸本身是一种多级废弃弹壳，发射后的所有级都配有火箭发动机。,从枪口加速到目标。,有效载荷是一个等离子钻，携带着一大堆炸药。"
+ACOT_MMG_2: "改进的爆弹炮"
+ACOT_MMG_2_DESC: "对基本爆弹炮的改进，具有卓越的推进力和爆炸力。"
+ACOT_MMG_3: "先进的爆弹炮"
+ACOT_MMG_3_DESC: "电磁弹射器，由爆炸性推进剂辅助。,弹丸本身是一种多级废弃弹壳，发射后的所有级都配有火箭发动机。,从枪口加速到目标。,有效载荷是一个等离子钻，携带着一大堆炸药。"
+ACOT_MMG_4: "蛇怪爆弹炮"
+ACOT_MMG_4_DESC: "电磁弹射器，由爆炸性推进剂辅助。,弹丸本身是一种多级废弃弹壳，发射后的所有级都配有火箭发动机。,从枪口加速到目标。,有效载荷是一个等离子钻，携带着一大堆炸药。"
+ACOT_MMG_5: "毒蛇爆弹炮"
+ACOT_MMG_5_DESC: "电磁弹射器，由爆炸性推进剂辅助。,弹丸本身是一种多级废弃弹壳，发射后的所有级都配有火箭发动机。,从枪口加速到目标。,有效载荷是一个等离子钻，携带着一大堆炸药。"
+
+ACOT_MMG_6E: "奇美拉爆弹炮"
+ACOT_MMG_6E_DESC: "电磁弹射器，由爆炸性推进剂辅助。,弹丸本身是一种多级废弃弹壳，发射后的所有级都配有火箭发动机。,从枪口加速到目标。,有效载荷是一个等离子钻，携带着一大堆炸药。"
+
+ACOT_MMG_6S: "奇美拉爆弹炮"
+ACOT_MMG_6S_DESC: "电磁弹射器，由爆炸性推进剂辅助。,弹丸本身是一种多级废弃弹壳，发射后的所有级都配有火箭发动机。,从枪口加速到目标。,有效载荷是一个等离子钻，携带着一大堆炸药。"
+
+
+XS_ACOT_MMG_1: "螺栓微型加农炮"
+SMALL_ACOT_MMG_1: "小型爆弹炮"
+MEDIUM_ACOT_MMG_1: "中型爆弹炮"
+LARGE_ACOT_MMG_1: "大型爆弹炮"
+
+XS_ACOT_MMG_2: "改进型螺栓微型加农炮"
+SMALL_ACOT_MMG_2: "小型改进型爆弹炮"
+MEDIUM_ACOT_MMG_2: "中型改进型爆矢炮"
+LARGE_ACOT_MMG_2: "大型改进型爆弹炮"
+
+XS_ACOT_MMG_3: "先进的螺栓微型加农炮"
+SMALL_ACOT_MMG_3: "小型高级爆弹炮"
+MEDIUM_ACOT_MMG_3: "中型高级破坏者爆弹炮"
+LARGE_ACOT_MMG_3: "大型先进爆弹炮"
+
+XS_ACOT_MMG_4: "超微型加农炮"
+SMALL_ACOT_MMG_4: "小型超级爆弹炮"
+MEDIUM_ACOT_MMG_4: "中型超级爆矢炮"
+LARGE_ACOT_MMG_4: "大型超级爆矢炮"
+
+XS_ACOT_MMG_5: "复制微型加农炮"
+SMALL_ACOT_MMG_5: "小型复制螺栓炮"
+MEDIUM_ACOT_MMG_5: "中型复制螺栓加农炮"
+LARGE_ACOT_MMG_5: "大型复制螺栓加农炮"
+
+XS_ACOT_MMG_6E: "神秘的微型加农炮"
+SMALL_ACOT_MMG_6E: "小型神秘爆弹炮"
+MEDIUM_ACOT_MMG_6E: "中型神秘爆弹炮"
+LARGE_ACOT_MMG_6E: "大型神秘爆弹炮"
+
+XS_ACOT_MMG_6S: "星星微型炮"
+SMALL_ACOT_MMG_6S: "小型星光爆弹炮"
+MEDIUM_ACOT_MMG_6S: "中型星星爆弹炮"
+LARGE_ACOT_MMG_6S: "大型星光爆弹炮"
+
+tech_acot_mmg_al_4: "风暴之锤电池"
+tech_acot_mmg_al_4_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+tech_acot_mmg_al_5: "风暴弩炮"
+tech_acot_mmg_al_5_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+
+tech_acot_mmg_al_6e: "实验性拦河坝系统"
+tech_acot_mmg_al_6e_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+
+tech_acot_mmg_al_6s: "实验性拦河坝系统"
+tech_acot_mmg_al_6s_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+
+
+ACOT_MMG_AL_4: "蛇怪 StormBolt 电池"
+ACOT_MMG_AL_4_DESC: "蛇怪 StormBolt 电池"
+ACOT_MMG_AL_5: "毒蛇风暴螺栓火炮"
+ACOT_MMG_AL_5_DESC: "毒蛇风暴螺栓火炮"
+
+ACOT_MMG_AL_6E: "奇美拉风暴弩炮"
+ACOT_MMG_AL_6E_DESC: "奇美拉风暴弩炮"
+
+ACOT_MMG_AL_6S: "奇美拉风暴弩炮"
+ACOT_MMG_AL_6S_DESC: "奇美拉风暴弩炮"
+############ XL
+
+tech_acot_mmg_xl_4: "脊椎螺栓火炮系统"
+tech_acot_mmg_xl_4_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+tech_acot_mmg_xl_5: "复制品爆弹炮"
+tech_acot_mmg_xl_5_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+
+tech_acot_mmg_xl_6e: "实验性拦河坝系统"
+tech_acot_mmg_xl_6e_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+
+tech_acot_mmg_xl_6s: "实验性拦河坝系统"
+tech_acot_mmg_xl_6s_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+
+ACOT_MMG_XL_4: "爆矢炮"
+ACOT_MMG_XL_4_DESC: "爆矢炮"
+ACOT_MMG_XL_5: "复制品爆弹炮"
+ACOT_MMG_XL_5_DESC: "复制品爆弹炮"
+
+ACOT_MMG_XL_6E: "神秘的爆矢炮"
+ACOT_MMG_XL_6E_DESC: "神秘爆弹炮"
+
+
+ACOT_MMG_XL_6S: "神秘爆弹炮"
+ACOT_MMG_XL_6S_DESC: "神秘爆弹炮"
+
+tech_acot_mmg_t_5: "复制型螺栓歼灭炮"
+tech_acot_mmg_t_5_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+ACOT_MMG_T_5: "复制型螺栓歼灭炮"
+ACOT_MMG_T_5_DESC: "复制型螺栓歼灭炮"
+ACOT_MMG_T_W_5: "复制型螺栓歼灭炮"
+ACOT_MMG_T_W_5_DESC: "复制型螺栓歼灭炮"
+
+tech_acot_mmg_t_6e: "螺栓歼灭炮"
+tech_acot_mmg_t_6e_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+ACOT_MMG_T_6E: "螺栓歼灭炮"
+ACOT_MMG_T_6E_DESC: "螺栓歼灭炮"
+ACOT_MMG_T_W_6E: "螺栓歼灭炮"
+ACOT_MMG_T_W_6E_DESC: "螺栓歼灭炮"
+
+tech_acot_mmg_t_6s: "螺栓歼灭炮"
+tech_acot_mmg_t_6s_desc: "推进器、炸药和强光操纵方面的进步使我们能够探索改进爆炸武器库的新方法。最苛刻的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计，戈尔贡弹幕系统。\n\n虽然有效载荷的增加迫使我们将武器系统恢复为火箭弹，牺牲了弹头的跟踪能力，从而大幅增加了攻击力。,火力、射程和有效载荷。"
+ACOT_MMG_T_6S: "螺栓歼灭炮"
+ACOT_MMG_T_6S_DESC: "螺栓歼灭炮"
+ACOT_MMG_T_W_6S: "螺栓歼灭炮"
+ACOT_MMG_T_W_6S_DESC: "螺栓歼灭炮"
+
+############################################################ EMITTERS ############################################################
+
+#tech_arc_emitter_1: "Arc Emitters"
+#tech_arc_emitter_1_desc: "Powerful weapons that launch a lightning arc of chaotic energy at targets, which in part can ignore armor and shields."
+#tech_arc_emitter_2: "Focused Arc Emitters"
+#tech_arc_emitter_2_desc: "These upgraded emitters are equipped with better focusing lenses, resulting in a more powerful energy discharge."
+
+ACOT_ARC_EMITTER_4: "发射器"
+ACOT_ARC_EMITTER_4_DESC: "发射器"
+
+ACOT_ARC_EMITTER_5: "发射器"
+ACOT_ARC_EMITTER_5_DESC: "发射器"
+
+ACOT_ARC_EMITTER_6E: "神秘的发射器"
+ACOT_ARC_EMITTER_6E_DESC: "这种脊柱武器利用神秘的能量制造出一种非常致命的发射器武器，可以损坏敌舰的内部系统。,不幸的是，由于我们目前的限制，它的射程比 Focusaed 电弧发射器要低。"
+tech_arc_emitter_6e: "神秘的发射器"
+tech_arc_emitter_6e_desc: "使用相同的神秘能量来增强我们当前的聚焦电弧发射器是可能的，但在我们真正了解如何运用暗能量之前，原型神秘能量发射器的有效范围将略低于聚焦电弧发射器。"
+
+ACOT_ARC_EMITTER_6S: "神秘的发射器"
+ACOT_ARC_EMITTER_6S_DESC: "这种脊柱武器利用神秘的能量制造出一种非常致命的发射器武器，可以损坏敌舰的内部系统。,不幸的是，由于我们目前的限制，它的射程比 Focusaed 电弧发射器要低。"
+tech_arc_emitter_6s: "神秘的发射器"
+tech_arc_emitter_6s_desc: "使用相同的神秘能量来增强我们当前的聚焦电弧发射器是可能的，但在我们真正了解如何运用暗能量之前，原型神秘能量发射器的有效范围将略低于聚焦电弧发射器。"
+
+############################################################ STRIKECRAFTS ############################################################
+ 
+tech_acot_weapon_strike_craft: "虚拟指挥系统"
+tech_acot_weapon_strike_craft_desc: "通过将操作员连接到虚拟网络，他们可以安全地操作 USC，而不会面临危险。"
+
+tech_acot_weapon_strike_craft_2: "自适应虚拟网络"
+tech_acot_weapon_strike_craft_2_desc: "增加网络容量和航班响应能力将使运营商能够更快地做出响应并减少延迟。"
+
+tech_acot_weapon_strike_craft_3: "复制南加州大学协调"
+tech_acot_weapon_strike_craft_3_desc: "通过使用基于复制品的 DAI 网络系统，我们可以部署更强大的攻击机，甚至可以为我们的大型舰艇配备无人护卫舰大小的武装直升机。"
+
+tech_acot_weapon_strike_craft_6e: "复制南加州大学协调"
+tech_acot_weapon_strike_craft_6e_desc: "通过使用基于复制品的 DAI 网络系统，我们可以部署更强大的攻击机，甚至可以为我们的大型舰艇配备无人护卫舰大小的武装直升机。"
+
+tech_acot_weapon_strike_craft_6s: "复制南加州大学协调"
+tech_acot_weapon_strike_craft_6s_desc: "通过使用基于复制品的 DAI 网络系统，我们可以部署更强大的攻击机，甚至可以为我们的大型舰艇配备无人护卫舰大小的武装直升机。"
+
+########## CEPTOR ##########
+ 
+tech_acot_strikecrafts_interceptor_1: "拦截器"
+tech_acot_strikecrafts_interceptor_1_desc: "拦截器。"
+tech_acot_strikecrafts_interceptor_2: "Mark II 拦截机"
+tech_acot_strikecrafts_interceptor_2_desc: "马克二号拦截机。"
+tech_acot_strikecrafts_interceptor_3: "马克 III 拦截机"
+tech_acot_strikecrafts_interceptor_3_desc: "马克 III 拦截机"
+tech_acot_strikecrafts_interceptor_4: "马克四号拦截机"
+tech_acot_strikecrafts_interceptor_4_desc: "马克四号拦截机"
+tech_acot_strikecrafts_interceptor_5: "Mark V 拦截机"
+tech_acot_strikecrafts_interceptor_5_desc: "Mark V 拦截机"
+
+tech_acot_strikecrafts_interceptor_6e: "Mark V 拦截机"
+tech_acot_strikecrafts_interceptor_6e_desc: "Mark V 拦截机"
+
+tech_acot_strikecrafts_interceptor_6s: "Mark V 拦截机"
+tech_acot_strikecrafts_interceptor_6s_desc: "Mark V 拦截机"
+
+ACOT_SC_INTERCEPTOR_1: "拦截器"
+ACOT_SC_INTERCEPTOR_1_DESC: "拦截器"
+ACOT_SC_INTERCEPTOR_2: "Mark II 拦截机"
+ACOT_SC_INTERCEPTOR_2_DESC: "Mark II 拦截机"
+ACOT_SC_INTERCEPTOR_3: "马克 III 拦截机"
+ACOT_SC_INTERCEPTOR_3_DESC: "马克 III 拦截机"
+ACOT_SC_INTERCEPTOR_4: "马克四号拦截机"
+ACOT_SC_INTERCEPTOR_4_DESC: "马克四号拦截机"
+ACOT_SC_INTERCEPTOR_5: "Mark V 拦截机"
+ACOT_SC_INTERCEPTOR_5_DESC: "Mark V 拦截机"
+
+ACOT_SC_INTERCEPTOR_6E: "马克六号拦截机"
+ACOT_SC_INTERCEPTOR_6E_DESC: "马克六号拦截机"
+
+ACOT_SC_INTERCEPTOR_6S: "马克六号拦截机"
+ACOT_SC_INTERCEPTOR_6S_DESC: "马克六号拦截机"
+
+SMALL_ACOT_SC_INTERCEPTOR_1: "拦截器"
+MEDIUM_ACOT_SC_INTERCEPTOR_1: "拦截器"
+LARGE_ACOT_SC_INTERCEPTOR_1: "拦截器"
+SMALL_ACOT_SC_INTERCEPTOR_2: "Mark II 拦截机"
+MEDIUM_ACOT_SC_INTERCEPTOR_2: "Mark II 拦截机"
+LARGE_ACOT_SC_INTERCEPTOR_2: "Mark II 拦截机"
+SMALL_ACOT_SC_INTERCEPTOR_3: "马克 III 拦截机"
+MEDIUM_ACOT_SC_INTERCEPTOR_3: "马克 III 拦截机"
+LARGE_ACOT_SC_INTERCEPTOR_3: "马克 III 拦截机"
+SMALL_ACOT_SC_INTERCEPTOR_4: "马克四号拦截机"
+MEDIUM_ACOT_SC_INTERCEPTOR_4: "马克四号拦截机"
+LARGE_ACOT_SC_INTERCEPTOR_4: "马克四号拦截机"
+SMALL_ACOT_SC_INTERCEPTOR_5: "Mark V 拦截机"
+MEDIUM_ACOT_SC_INTERCEPTOR_5: "Mark V 拦截机"
+LARGE_ACOT_SC_INTERCEPTOR_5: "Mark V 拦截机"
+
+SMALL_ACOT_SC_INTERCEPTOR_6E: "马克六号拦截机"
+MEDIUM_ACOT_SC_INTERCEPTOR_6E: "马克六号拦截机"
+LARGE_ACOT_SC_INTERCEPTOR_6E: "马克六号拦截机"
+
+SMALL_ACOT_SC_INTERCEPTOR_6S: "马克六号拦截机"
+MEDIUM_ACOT_SC_INTERCEPTOR_6S: "马克六号拦截机"
+LARGE_ACOT_SC_INTERCEPTOR_6S: "马克六号拦截机"
+########## FIGHTER ##########
+
+tech_acot_strikecrafts_fighter_1: "战士"
+tech_acot_strikecrafts_fighter_1_desc: "战士。"
+tech_acot_strikecrafts_fighter_2: "马克二号战斗机"
+tech_acot_strikecrafts_fighter_2_desc: "马克二号战斗机"
+tech_acot_strikecrafts_fighter_3: "马克三世战斗机"
+tech_acot_strikecrafts_fighter_3_desc: "马克三世战斗机"
+tech_acot_strikecrafts_fighter_4: "马克四世战斗机"
+tech_acot_strikecrafts_fighter_4_desc: "马克四世战斗机"
+tech_acot_strikecrafts_fighter_5: "马克五世战斗机"
+tech_acot_strikecrafts_fighter_5_desc: "马克五世战斗机"
+
+tech_acot_strikecrafts_fighter_6e: "马克六世战斗机"
+tech_acot_strikecrafts_fighter_6e_desc: "马克六世战斗机"
+
+tech_acot_strikecrafts_fighter_6s: "马克六世战斗机"
+tech_acot_strikecrafts_fighter_6s_desc: "马克六世战斗机"
+
+ACOT_SC_FIGHTER_0: "实用吊舱"
+ACOT_SC_FIGHTER_0_DESC: "太空时代早期发明的基本单驾驶舱，用于协助航天器摧毁微小碎片。,由于缺乏速度、防护能力和火力，它们不适合战斗。"
+SMALL_ACOT_SC_FIGHTER_0: "实用吊舱"
+MEDIUM_ACOT_SC_FIGHTER_0: "实用吊舱"
+LARGE_ACOT_SC_FIGHTER_0: "实用吊舱"
+
+ACOT_SC_FIGHTER_1: "战士"
+ACOT_SC_FIGHTER_1_DESC: "战士"
+ACOT_SC_FIGHTER_2: "马克二号战斗机"
+ACOT_SC_FIGHTER_2_DESC: "马克二号战斗机"
+ACOT_SC_FIGHTER_3: "马克三世战斗机"
+ACOT_SC_FIGHTER_3_DESC: "马克三世战斗机"
+ACOT_SC_FIGHTER_4: "马克四世战斗机"
+ACOT_SC_FIGHTER_4_DESC: "马克四世战斗机"
+ACOT_SC_FIGHTER_5: "马克五世战斗机"
+ACOT_SC_FIGHTER_5_DESC: "马克五世战斗机"
+
+ACOT_SC_FIGHTER_6E: "马克六号拦截机"
+ACOT_SC_FIGHTER_6E_DESC: "拦截机不再是无用的侦察机，其设计目的是击落其他攻击机和导弹，同时也擅长削弱大型舰艇的护盾。"
+
+ACOT_SC_FIGHTER_6S: "马克六世战斗机"
+ACOT_SC_FIGHTER_6S_DESC: "拦截机不再是无用的侦察机，其设计目的是击落其他攻击机和导弹，同时也擅长削弱大型舰艇的护盾。"
+
+SMALL_ACOT_SC_FIGHTER_1: "战士"
+MEDIUM_ACOT_SC_FIGHTER_1: "战士"
+LARGE_ACOT_SC_FIGHTER_1: "战士"
+SMALL_ACOT_SC_FIGHTER_2: "马克二号战斗机"
+MEDIUM_ACOT_SC_FIGHTER_2: "马克二号战斗机"
+LARGE_ACOT_SC_FIGHTER_2: "马克二号战斗机"
+SMALL_ACOT_SC_FIGHTER_3: "马克三世战斗机"
+MEDIUM_ACOT_SC_FIGHTER_3: "马克三世战斗机"
+LARGE_ACOT_SC_FIGHTER_3: "马克三世战斗机"
+SMALL_ACOT_SC_FIGHTER_4: "马克四世战斗机"
+MEDIUM_ACOT_SC_FIGHTER_4: "马克四世战斗机"
+LARGE_ACOT_SC_FIGHTER_4: "马克四世战斗机"
+SMALL_ACOT_SC_FIGHTER_5: "马克五世战斗机"
+MEDIUM_ACOT_SC_FIGHTER_5: "马克五世战斗机"
+LARGE_ACOT_SC_FIGHTER_5: "马克五世战斗机"
+
+SMALL_ACOT_SC_FIGHTER_6E: "马克六世战斗机"
+MEDIUM_ACOT_SC_FIGHTER_6E: "马克六世战斗机"
+LARGE_ACOT_SC_FIGHTER_6E: "马克六世战斗机"
+
+SMALL_ACOT_SC_FIGHTER_6S: "马克六世战斗机"
+MEDIUM_ACOT_SC_FIGHTER_6S: "马克六世战斗机"
+LARGE_ACOT_SC_FIGHTER_6S: "马克六世战斗机"
+########## BOMBER ##########
+
+#tech_strike_craft_1: "Bombers"
+#tech_strike_craft_1_desc: "These manned strike craft are launched from a mothership and rely on their speed and small size to survive long enough to punch through enemy defenses."
+#tech_strike_craft_2: "Improved Bombers"
+#tech_strike_craft_2_desc: "The next generation of strike craft, featuring improved avionics, better handling characteristics and more powerful armaments."
+#tech_strike_craft_3: "Advanced Bombers"
+#tech_strike_craft_3_desc: "A further refinement in strike craft design, these advanced strike craft are a pilot's dream. Their performance far exceeds that of previous models."
+tech_acot_strikecrafts_bomber_4: "非常轰炸机"
+tech_acot_strikecrafts_bomber_4_desc: "非常打击工艺"
+tech_acot_strikecrafts_bomber_5: "超级轰炸机"
+tech_acot_strikecrafts_bomber_5_desc: "超级打击工艺"
+
+tech_acot_strikecrafts_bomber_6e: "攻击工艺修改"
+tech_acot_strikecrafts_bomber_6e_desc: "我们的战略家认为放弃战斗机的发展是一个错误，特别是考虑到侦察兵不能……实际上进行侦察，这使得他们的存在毫无意义。,我们可以很容易地纠正这些错误，并最终开始开发执行各种任务的真正强大的攻击机。"
+
+tech_acot_strikecrafts_bomber_6s: "攻击工艺修改"
+tech_acot_strikecrafts_bomber_6s_desc: "我们的战略家认为放弃战斗机的发展是一个错误，特别是考虑到侦察兵不能……实际上进行侦察，这使得他们的存在毫无意义。,我们可以很容易地纠正这些错误，并最终开始开发执行各种任务的真正强大的攻击机。"
+
+ACOT_SC_BOMBER_1: "轰炸机"
+ACOT_SC_BOMBER_1_DESC: "轰炸机"
+ACOT_SC_BOMBER_2: "马克二号轰炸机"
+ACOT_SC_BOMBER_2_DESC: "马克二号轰炸机"
+ACOT_SC_BOMBER_3: "马克三号轰炸机"
+ACOT_SC_BOMBER_3_DESC: "马克三号轰炸机"
+ACOT_SC_BOMBER_4: "马克四号轰炸机"
+ACOT_SC_BOMBER_4_DESC: "马克四号轰炸机"
+ACOT_SC_BOMBER_5: "马克 V 轰炸机"
+ACOT_SC_BOMBER_5_DESC: "马克 V 轰炸机"
+
+ACOT_SC_BOMBER_6E: "极光级轰炸机"
+ACOT_SC_BOMBER_6E_DESC: "专用轰炸机不仅具有更高的火力，而且还提高了耐用性、速度和飞行员。"
+
+ACOT_SC_BOMBER_6S: "极光级轰炸机"
+ACOT_SC_BOMBER_6S_DESC: "专用轰炸机不仅具有更高的火力，而且还提高了耐用性、速度和飞行员。"
+
+SMALL_ACOT_SC_BOMBER_1: "轰炸机"
+MEDIUM_ACOT_SC_BOMBER_1: "轰炸机"
+LARGE_ACOT_SC_BOMBER_1: "轰炸机"
+SMALL_ACOT_SC_BOMBER_2: "马克二号轰炸机"
+MEDIUM_ACOT_SC_BOMBER_2: "马克二号轰炸机"
+LARGE_ACOT_SC_BOMBER_2: "马克二号轰炸机"
+SMALL_ACOT_SC_BOMBER_3: "马克三号轰炸机"
+MEDIUM_ACOT_SC_BOMBER_3: "马克三号轰炸机"
+LARGE_ACOT_SC_BOMBER_3: "马克三号轰炸机"
+SMALL_ACOT_SC_BOMBER_4: "马克四号轰炸机"
+MEDIUM_ACOT_SC_BOMBER_4: "马克四号轰炸机"
+LARGE_ACOT_SC_BOMBER_4: "马克四号轰炸机"
+SMALL_ACOT_SC_BOMBER_5: "马克 V 轰炸机"
+MEDIUM_ACOT_SC_BOMBER_5: "马克 V 轰炸机"
+LARGE_ACOT_SC_BOMBER_5: "马克 V 轰炸机"
+
+SMALL_ACOT_SC_BOMBER_6E: "马克六号轰炸机"
+MEDIUM_ACOT_SC_BOMBER_6E: "马克六号轰炸机"
+LARGE_ACOT_SC_BOMBER_6E: "马克六号轰炸机"
+
+SMALL_ACOT_SC_BOMBER_6S: "马克六号轰炸机"
+MEDIUM_ACOT_SC_BOMBER_6S: "马克六号轰炸机"
+LARGE_ACOT_SC_BOMBER_6S: "马克六号轰炸机"
+
+########## GUNSHIP ##########
+
+tech_acot_strikecrafts_gunship_4: "武装直升机攻击艇"
+tech_acot_strikecrafts_gunship_4_desc: "虽然轰炸机和拦截机已经明确界定了攻击机的作用，但仍存在某些问题。,这两种类型的攻击艇都需要花费大量时间才能到达攻击距离。,在许多战斗中，航母在这些灵活的攻击机首次起飞之前就被摧毁了。,目前正在计划建造一种专门的远程攻击艇。"
+tech_acot_strikecrafts_gunship_5: "武装直升机攻击艇"
+tech_acot_strikecrafts_gunship_5_desc: "虽然轰炸机和拦截机已经明确界定了攻击机的作用，但仍存在某些问题。,这两种类型的攻击艇都需要花费大量时间才能到达攻击距离。,在许多战斗中，航母在这些灵活的攻击机首次起飞之前就被摧毁了。,目前正在计划建造一种专门的远程攻击艇。"
+
+tech_acot_strikecrafts_gunship_6e: "武装直升机攻击艇"
+tech_acot_strikecrafts_gunship_6e_desc: "虽然轰炸机和拦截机已经明确界定了攻击机的作用，但仍存在某些问题。,这两种类型的攻击艇都需要花费大量时间才能到达攻击距离。,在许多战斗中，航母在这些灵活的攻击机首次起飞之前就被摧毁了。,目前正在计划建造一种专门的远程攻击艇。"
+
+tech_acot_strikecrafts_gunship_6s: "武装直升机攻击艇"
+tech_acot_strikecrafts_gunship_6s_desc: "虽然轰炸机和拦截机已经明确界定了攻击机的作用，但仍存在某些问题。,这两种类型的攻击艇都需要花费大量时间才能到达攻击距离。,在许多战斗中，航母在这些灵活的攻击机首次起飞之前就被摧毁了。,目前正在计划建造一种专门的远程攻击艇。"
+
+ACOT_SC_GUNSHIP_4: "武装直升机"
+ACOT_SC_GUNSHIP_4_DESC: 武装直升机
+ACOT_SC_GUNSHIP_5: "先进武装直升机"
+ACOT_SC_GUNSHIP_5_DESC: "先进武装直升机"
+
+ACOT_SC_GUNSHIP_6E: "特立独行的武装直升机"
+ACOT_SC_GUNSHIP_6E_DESC: "特立独行的武装直升机"
+
+ACOT_SC_GUNSHIP_6S: "特立独行的武装直升机"
+ACOT_SC_GUNSHIP_6S_DESC: "特立独行的武装直升机"

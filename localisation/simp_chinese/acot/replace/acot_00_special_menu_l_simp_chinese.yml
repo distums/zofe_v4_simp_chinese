@@ -1,0 +1,39 @@
+﻿l_simp_chinese:
+
+###################################################################################
+
+jumpstarted_exp_development: "仿生模拟协议生效"
+ 
+return_to_menu: "返回主选项"
+ 
+acot_special_menu.3.title: "振兴室"
+acot_special_menu.3.desc: "快点。,更卑鄙。,更好的。,更强。"
+acot_special_menu.3.1.name: "消除生物领袖的负面特征。"
+acot_special_menu.3.1.explain: "这一过程将消除所有阻碍我们的领导者以最佳绩效运作的愚蠢和无用的特征，然后用积极的特征取代这些愚蠢的特征。\n\n§Y目前仅支持普通的负面特征。§!"
+not_has_shitty_leaders: "我们现在没有哪个领导是愚蠢的，我们需要先等有人表现出精神疾病的迹象"
+ 
+acot_special_menu.3.2.name: "仿生接口模拟协议。"
+acot_special_menu.3.2.explain: "此过程将立即授予所有生物领袖§Y2500§！,值得的经验。,任何至少达到 6 级的生物科学家也将获得§Y天才火花§！,特征。"
+too_soon_to_do_that_nub: "仿生界面模拟给我们的领导者带来了很大的压力。,一旦开始，他们有时需要休息才能再次完成该过程"
+ 
+acot_special_menu.4.title: "纳米组装"
+acot_special_menu.4.desc: "智能但不人工。"
+acot_special_menu.4.1.name: "消除机械领导者的负面特征。"
+acot_special_menu.4.1.explain: "这一过程将消除所有阻碍我们领导者以最佳绩效运作的愚蠢和无用的故障，然后用积极的特征取代这些愚蠢的特征。\n\n§Y目前仅支持普通的负面特征。§!"
+not_has_shitty_leaders_machine: "我们目前没有什么可怕的领导人，我们需要先等待有人表现出腐败迹象"
+ 
+ 
+acot_special_menu.4.2.a: "启用不朽协议"
+acot_special_menu.4.2.a.tooltip: "当协议生效时，我们的机械领导者将保留他们的记忆，并在他们终止时复活。,然而，这将大大增加他们的维护成本并耗尽我们的影响力。 \n\n请注意，系统无法识别领导者是否被摧毁或只是被解雇。,不管怎样，协议都会触发。"
+acot_special_menu.4.2.b: "禁用不朽协议"
+acot_special_menu.4.2.b.tooltip: "我们的领导人将履行其职责，直至被解职。,然后我们用新的替换它。,并非一切都意味着永远持续下去。"
+ 
+ 
+resurface_protocol: "不朽协议已生效"
+resurface_protocol_desc: "永恒的服务。"
+ 
+acot_special_menu.50.title: "不朽协议已生效"
+acot_special_menu.50.desc: "我们的一位领导人 [From.GetName] 已被解雇。,但不朽协议已经生效，并且能够将 [From.GetName] 重建回来。\n\n但是，系统无法区分 [From.GetName] 是否已被破坏，或者只是因无能而被解雇。\n\n应,我们复活这位领袖？"
+acot_special_menu.50.a: "是的，我们将重建 [From.GetName]，我们有技术。"
+acot_special_menu.50.a.explain: "将复活领袖。,不要对被解雇的领导者使用此方法。"
+acot_special_menu.50.b: "是否定的，[From.GetName] 对我们来说很烦人且无用，我们只会得到一个更好的模型。"

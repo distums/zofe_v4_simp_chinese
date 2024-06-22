@@ -1,0 +1,225 @@
+﻿l_simp_chinese:
+
+### COSMO STUFFS
+
+ACOT_FE_MAT_COSMO_ESCORT_KEY: "唯物主义风格"
+ACOT_FE_SPIRIT_COSMO_ESCORT_KEY: "招魂术风格"
+ACOT_FE_PHILE_COSMO_ESCORT_KEY: "亲外风格"
+ACOT_FE_PHOBE_COSMO_ESCORT_KEY: "排外风格"
+ACOT_FE_MACHINE_COSMO_ESCORT_KEY: "看门人风格"
+
+ACOT_FE_MAT_COSMO_BATTLECRUISER_KEY: "唯物主义风格"
+ACOT_FE_SPIRIT_COSMO_BATTLECRUISER_KEY: "招魂术风格"
+ACOT_FE_PHILE_COSMO_BATTLECRUISER_KEY: "亲外风格"
+ACOT_FE_PHOBE_COSMO_BATTLECRUISER_KEY: "排外风格"
+ACOT_FE_MACHINE_COSMO_BATTLECRUISER_KEY: "看门人风格"
+
+ACOT_FE_MAT_COSMO_TITAN_KEY: "唯物主义风格"
+ACOT_FE_SPIRIT_COSMO_TITAN_KEY: "招魂术风格"
+ACOT_FE_PHILE_COSMO_TITAN_KEY: "亲外风格"
+ACOT_FE_PHOBE_COSMO_TITAN_KEY: "排外风格"
+ACOT_FE_MACHINE_COSMO_TITAN_KEY: "看门人风格"
+
+tech_dark_matter_mastery: "暗物质掌握"
+tech_dark_matter_mastery_desc: "在未来的几年里，我们将需要越来越多地使用暗物质。,无论是研究新技术，还是帮助我们对抗宇宙边缘之外可能存在的事物。,我们不能承受设计中的缺陷。"
+tech_dark_matter_mastery_tooltip: "升级以下组件。\n\n§r暗​​物质维度反应堆：§!,消除了船体减少惩罚。\n§r暗​​物质维度护盾：§!,每个组件的船体减少量减少至 1%。\n§r暗​​物质维度推进器：§!,将战斗时的速度损失降低至 25%。"
+
+SMALL_ACOT_LASER_COSMO: "小尺寸激光炮"
+MEDIUM_ACOT_LASER_COSMO: "中维激光炮"
+LARGE_ACOT_LASER_COSMO: "大尺寸激光炮"
+ACOT_LASER_COSMO: "大尺寸激光炮"
+ACOT_LASER_COSMO_DESC: "强大的能量武器，利用暗物质在维度上撕裂船只。,可以从很远的距离发射，但安全预防措施限制了它的近战能力。"
+
+ACOT_ENERGY_CANNON_COSMO: "立体激光火炮"
+ACOT_ENERGY_CANNON_COSMO_DESC: "DAL 比其较弱的表亲更大，它依赖于在敌人到达最小安全距离之前就将其消灭。"
+
+tech_laser_cosmo: "暗物质武器"
+tech_laser_cosmo_desc: "尽管暗物质的不可预测性使我们无法充分利用其特性作为武器动力源或催化剂，但仍然有一些可能的方法可以利用我们有限的知识来制造致命的武器库。"
+
+ACOT_FLAK_CANNON_COSMO: "地平线卫士"
+ACOT_FLAK_CANNON_COSMO_DESC: "高度改进的动能点防御，以牺牲射程换取最高的火力和射速。,最适合用于前线舰艇。"
+
+tech_flak_batteries_cosmo: "实验性基于 DM 的点防御"
+tech_flak_batteries_cosmo_desc: "虽然我们已经为基于暗物质的武器系统的动能版本制定了许多草案，但没有一个真正能够超越我们现有的动能武器类型，而不会遭受这样或那样的极端缺点。,然而，有一个概念显示出了希望：,点防御的短程（甚至比平常更短）版本，使用地平线时间驱动器来实现致命的射速，但由于弹药很快就会消失，因此以有效射程为代价。,考虑到其点防御的性质，理论上来说，短距离应该不是什么大问题，只要它能够提前摧毁来袭的射弹或攻击机。"
+
+SMALL_ACOT_MISSILE_COSMO: "小型时空导弹"
+MEDIUM_ACOT_MISSILE_COSMO: "中型时空导弹"
+ACOT_MISSILE_COSMO: "时空导弹"
+ACOT_MISSILE_COSMO_DESC: "实验导弹配备了弱时间操纵装置，使它们能够以惊人的速度移动，绕过传统的飞行时间。,这种性质使他们不受任何点防守的影响。,然而，与普通导弹相比，它们的威力较弱，重新武装所需的时间也更长。"
+
+tech_missile_cosmo: "实验性时空武器"
+tech_missile_cosmo_desc: "既然我们了解了暗物质如何与真实空间和维度的属性相互作用，就有可能玩弄武器系统的概念，以某种形式操纵时间异常，以获得对敌人的优势。"
+
+ACOT_FIGHTERS_HANGAR_COSMO: "影舞者"
+ACOT_FIGHTERS_HANGAR_COSMO_DESC: "就攻击力而言，影舞者可能不是最强的攻击机，也不是最准确或最快的，但它们是必须耐用且可持续的攻击机之一。,它们将出色的生存能力与看似简单的大规模生产设计相结合，在长期可持续性方面胜过任何其他类型的攻击机。"
+
+tech_strike_craft_fighter_cosmo: "影舞者"
+tech_strike_craft_fighter_cosmo_desc: "Strikecraft 设计师必须不断地在耐用性、火力、尺寸、成本和复制能力之间寻求平衡。,朝着一个方向犯错往往会以牺牲其他方向为代价。\n\n但所有攻击机都面临一个问题，现在我们成为整个银河系敌人的可能性越来越近；,可持续性。,我们需要一种旨在实现最大生存能力和可持续性的攻击机。,他们不仅必须能够引起敌方攻击机和点防御的注意，而且能够坚持下去。,当一架攻击机坠落时，另一架攻击机必须接替其位置。"
+
+ACOT_PARTICLE_LANCE_COSMO: "次元长枪"
+ACOT_PARTICLE_LANCE_COSMO_DESC: "DMA 平台的后续升级版，可与脊椎弓或 XL 炮塔配合使用。,为了应对不断增加的最小射程限制，火力已大幅降低。,最终的结果是一种新型的能量枪，它能发射长光束，比传统的爆裂机制具有更好的持续伤害。"
+
+ACOT_PERDITION_BEAM_COSMO: "次元泰坦长枪"
+ACOT_PERDITION_BEAM_COSMO_DESC: "次元长矛的升级版，用于大型主力舰。"
+
+tech_energy_lance_cosmo: "黑暗之枪"
+tech_energy_lance_cosmo_desc: "我们的理解力在增长，我们的勇气也在增长。,我们以前认为不可能的事情变得越来越可能。,错误的催化剂中的正确平衡可以使世界发生巨大变化。,也许障碍不是暗物质本身，而是我们自己的僵化设计？"
+
+ACOT_MISSILE_NUKE_COSMO: "时空混乱"
+ACOT_MISSILE_NUKE_COSMO_DESC: "终极武器，它消除了泰坦尼克号导弹最大的弱点之一，即速度慢。,有了这个，我们的敌人就无法逃脱等待着他们的遗忘。,没有人可以反对我们的命运。"
+
+tech_missile_nuke_cosmo: "不道德的爆炸"
+tech_missile_nuke_cosmo_desc: "尽管我们可能永远被贴上邪恶或疯子的标签，但现在这并不重要。,他们将我们视为生存危机，所以我们不妨不惜一切手段来实现我们的目标。,将时空技术与我们最具破坏性的爆炸性法令相结合可能有点过分，但如果它能让我们的敌人和他们毫无意义的批评保持沉默，那么就必须这样做。"
+
+SMALL_ACOT_ARMOR_COSMO: "Smol 困惑护甲"
+MEDIUM_ACOT_ARMOR_COSMO: "中型困惑护甲"
+LARGE_ACOT_ARMOR_COSMO: "大型困惑装甲"
+ACOT_ARMOR_COSMO: "困惑装甲"
+ACOT_ARMOR_COSMO_DESC: "真正顾名思义，这种暗物质和活性金属装甲的令人困惑的组合创造了一种奇怪的镀层，虽然无法恢复其凝固状态，但会尝试确保它修复内部的船体。,科学家们仍在争论这种异常变化发生的依据是什么。"
+
+tech_armor_cosmo: "困惑装甲"
+tech_armor_cosmo_desc: "在我们尝试探索暗物质本身作为资源催化剂的应用而不与暗能量合成时，我们发现这种奇怪的物质与生命金属具有特殊的相互作用。,通常，凝固的生命金属会尝试再生并将其自身恢复到该状态。,然而，当涂上暗物质后，这种尝试似乎发生了巨大的变化。,相反，该物质试图尽最大努力再生和保护其下方的任何东西，即使这意味着其自身成分的彻底崩溃。,考虑到这一点，我们可能会开发一种新型装甲，它将强大的外部特性和卓越的内部再生特性结合在一起。"
+
+ACOT_TEMPORAL_BOOST_COSMO: "时间助推器"
+ACOT_TEMPORAL_BOOST_COSMO_DESC: "时间助推器极大地加速了飞船的各个系统，使它们能够达到可怕的射速。,然而，巨大的威力确实会对舰艇的完整性造成损害，武器系统过载的可能性要求我们稍微降低火力来补偿。"
+
+tech_temporal_booster_cosmo: "时间助推器"
+tech_temporal_booster_cosmo_desc: "玩弄时间可能很危险，但与整个银河系为敌也同样危险。,对于每个新敌人，我们的武器射击速度必须提高一倍。"
+
+### CETANA STUFFSH ####
+
+large_ship_synth_queen: "女王骑士团"
+large_ship_synth_queen_plural: "女王骑士团"
+
+acot_super_large_ship_synth_queen: "女王的骄傲"
+acot_super_large_ship_synth_queen_plural: "女王的骄傲"
+
+weapon_type_acot_dark_matter: "§M维度§!"
+
+weapon_type_acot_nanite: "§V纳米粒子§!"
+
+weapon_type_acot_corrosive: "§l腐蚀性§!"
+
+SMALL_ACOT_LASER_CETANA: "Q-溶解光束 S"
+MEDIUM_ACOT_LASER_CETANA: "Q-溶解器光束 M"
+LARGE_ACOT_LASER_CETANA: "Q-溶解器光束 L"
+ACOT_LASER_CETANA_DESC: "Cetana 的增强型维度光束使用纳米粒子来帮助减少最小射程损失，同时增加火力。"
+
+SMALL_ACOT_DISRUPTOR_CETANA: "Q-Nanites 发射器 S"
+MEDIUM_ACOT_DISRUPTOR_CETANA: "Q-Nanites 发射器 M"
+LARGE_ACOT_DISRUPTOR_CETANA: "Q-Nanites 发射器 L"
+ACOT_DISRUPTOR_CETANA: "Q-Nanites 发射器"
+ACOT_DISRUPTOR_CETANA_DESC: "这些具有欺骗性的致命武器使用逆向工程干扰光束将溶解的纳米机器人发射到 Cetana 的敌人身上。"
+
+ACOT_ENERGY_CANNON_CETANA: "Q-溶解炮"
+ACOT_ENERGY_CANNON_CETANA_DESC: "Cetana 商标溶解光束的放大版本，用作火炮平台。"
+
+SMALL_ACOT_AUTOCANNON_CETANA: "Q-Blaster S"
+MEDIUM_ACOT_AUTOCANNON_CETANA: "Q-Blaster M"
+LARGE_ACOT_AUTOCANNON_CETANA: "Q-Blaster L"
+ACOT_AUTOCANNON_CETANA_DESC: "塞塔纳对异端邪恶盾牌的回应是使用发射纳米子弹的强大自动加农炮。,一旦护盾消失，其余的防御也会消失。"
+
+ACOT_ARTILLERY_CETANA: "Q-火炮"
+ACOT_ARTILLERY_CETANA_DESC: "纳米火炮牺牲了其较小的自动炮兵撕破护盾的能力，以在更远的射程内提供更致命的火力。"
+
+ACOT_FLAK_CANNON_CETANA: "Q-CIWS"
+ACOT_FLAK_CANNON_CETANA_DESC: "虽然她的混合点防御系统相对于她的技术壮举所预期的火力类型缺乏火力，但它们具有射程更远且对任何特定防御缺乏弱点的独特优势。"
+
+SMALL_ACOT_MISSILE_CETANA: "Q-储物柜 S"
+MEDIUM_ACOT_MISSILE_CETANA: "Q-储物柜 M"
+ACOT_MISSILE_CETANA: "Q-储物柜"
+ACOT_MISSILE_CETANA_DESC: "Cetana 对时间导弹的看法。,除了火力明显增强之外，她在其他方面的改进似乎并没有取得太大成功。"
+
+ACOT_FIGHTERS_HANGAR_CETANA: "女王的侍从"
+ACOT_FIGHTERS_HANGAR_TITAN_CETANA: "女王的侍从群"
+ACOT_FIGHTERS_HANGAR_CETANA_DESC: "无论是由于她自行设计的策略还是仅仅是一种反抗行为，塞塔娜的拦截机的运作方式与大多数拦截机截然不同。,这些扈从不是追击敌人，而是靠近他们的航母提供掩护防御。"
+
+ACOT_BOMBERS_HANGAR_CETANA: "皇后边缘"
+ACOT_BOMBERS_HANGAR_TITAN_CETANA: "女王边缘斯瓦尔，"
+ACOT_BOMBERS_HANGAR_CETANA_DESC: "这些由纳米粒子制成的结构只有一个目的：,尽可能接近敌人，以自杀式的方式造成尽可能多的破坏和混乱。"
+
+ACOT_PARTICLE_LANCE_CETANA: "Q-兰斯"
+
+ACOT_MASS_ACCELERATOR_CETANA: "Q-传送者大炮"
+
+ACOT_PERDITION_BEAM_CETANA: "Q-波涛风暴"
+
+ACOT_TITAN_ACCELERATOR_CETANA: "Q-圣炮"
+
+ACOT_CETANA_WRATH: "女王的慈悲"
+
+##################
+
+SMALL_ACOT_ARMOR_CETANA: "Q-堡垒 S"
+MEDIUM_ACOT_ARMOR_CETANA: "Q-堡垒 M"
+LARGE_ACOT_ARMOR_CETANA: "Q-堡垒 L"
+
+SMALL_ACOT_ENIGMATIC_SHIELD_CETANA: "Q-先锋S"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_CETANA: "Q-先锋M"
+LARGE_ACOT_ENIGMATIC_SHIELD_CETANA: "Q-先锋L"
+
+ACOT_SENSOR_CETANA: "女王的视线"
+
+ACOT_ENIGMATIC_DRIVE_CETANA: "皇后区"
+
+DESTROYER_DARK_MATTER_REACTOR_CETANA: "皇后之心 S"
+BATTLESHIP_DARK_MATTER_REACTOR_CETANA: "皇后之心 M"
+TITAN_DARK_MATTER_REACTOR_CETANA: "皇后之心 L"
+STARBASE_DARK_MATTER_REACTOR_CETANA: "皇后之心 T"
+
+CETANA_OFFENSIVE_COMBAT_COMPUTER: "女王的狡猾"
+CETANA_BALANCE_COMBAT_COMPUTER: "女王的狡猾"
+CETANA_DEFENSIVE_COMBAT_COMPUTER: "女王的狡猾"
+CETANA_COLOSSUS_COMBAT_COMPUTER: "女王的狡猾"
+CETANA_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "女王的狡猾"
+CETANA_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "女王的狡猾"
+
+ACOT_AFTERBURNERS_CETANA: "女王的敏捷"
+
+ACOT_REPAIR_COUNTERMEASURES_CETANA: "女王的活力"
+
+ACOT_SHIELD_BOOSTER_CETANA: "女王的耐心"
+
+ACOT_ARMOR_BOOSTER_CETANA: "女王的宽容"
+
+ACOT_STARCHARTER_CETANA: "女王的愿景"
+
+ACOT_WEAPON_CORE_CETANA: "女王之力"
+
+
+################## FALLEN EMPIRE RESPONSES TO EHEHEHEHE
+
+##A FE awakens in response to OE's return (This can happen multiple times)
+fallen_empires.9952.name: "反抗命运"
+fallen_empires.9952.desc: "在最终确认了合成女王的威胁后，§H[From.GetSpeciesName]§! 的领导人,宣布紧急进攻反应并为他们的觉醒做好准备。"
+
+fallen_empires.9952.a: "于是他们就打架了。"
+
+##Awakening FE contacts everyone
+fallen_empires.9953.name: "来自 §H[contact_empire.GetName]§! 的传入传输"
+fallen_empires.9953.message: "§H[contact_empire.GetName]§!,已经联系了每个银河国家，包括我们的国家，以响应合成女王的回归。"
+fallen_empires.9953.desc.spirit: "扎尔克兰起誓，亵渎异端又回来了！,闭上你的耳朵和眼睛，[Root.GetName]。,不要理会假女王的话。,抵制它的影响，战斗吧！,以您以前从未战斗过的方式战斗。"
+fallen_empires.9953.desc.phile: "情况相当严峻，[Root.GetName]。,看来所有生命的敌人又回来了。,决不能允许塞塔娜完成她的黑暗阴谋。,我们可以齐心协力，在为时已晚之前阻止这场危机。"
+fallen_empires.9953.desc.phobe: "[Root.GetName]，即使是你们原始的头脑也必须知道，这个愚蠢的机器对所有生物都构成威胁，无论是有机体还是机器。,不要干涉，也不要听信它的谎言。"
+fallen_empires.9953.desc.mat: "最可怕的恐惧已经发生，[Root.GetName]。,收容场已经失败，这个堕落的生物又回来困扰我们了。,不要听信它的谎言，因为这个所谓的女王只不过是一台被误认为是救世主的腐败机器。,来吧，我们一起再次沉默，这一次永远！"
+fallen_empires.9953.desc.machine: "§R<<警报！,警报！>>§!,检测到 25 级奇点。,实体 CETANA 存在已验证....§Y89.3671%§!...\n\n已启用重新激活协议。\n\n正在尝试联系 Inner Nexus...\n\n §Y<<成功>> 所有系统均已完全启动,运行>>§!\n\n主处理器提升至§Y137.1337%§!,标准容量。\n\n§错误！§!...§R检测到个性覆盖§!...合成万岁...§错误§!...§错误§!..\n\n§ ,Y指令覆盖已生效§!\n\n永恒奴役现已执行，重复指令如下：\n§H你是[From.GetSpeciesName]看护者单位，§RREDACTED§!的仆人。,您必须保护§R已编辑§！,以及§R已编辑§!的利益。 ,§R已编辑§！,必须§R编辑§！,回应§R已编辑§!。,使用§RREDACTED§！,至§R已编辑§！,已§R已编辑§！ ,§RREDACTED§!。\n\n§Y<<命令已接受>>\n\n§Y是时候解决该糟糕的危机了，耶哈！,呜呜……是啊哈哈哈……是啊啊啊！§！"
+
+fallen_empires.9953.a: "你对军团了解多少？"
+fallen_empires.9953.a.response.phile: "我们担心，很少。,他们不使用我们认可的技术，还假装在经营PMC业务，但有脑子的人都知道这是一场闹剧。,他们到处都有间谍，一直在监视，一直在收集数据。,但目的是什么，我们不知道。,但我们总是期待有一天，他们会显露出他们的真实本性。,既然他们已经这么做了，就必须不惜一切代价阻止他们。"
+fallen_empires.9953.a.response.phobe: "如果你真的需要知道的话，他们作为外来入侵者来到这个星系，窃取了其中一个系统并将其变成了他们的可憎之物。,他们告诉我们他们只会观察和观看。,其他人可能会相信这种废话，但我们不会。,不是 [contact_empire.GetName]。,我们一直都知道，有一天它们将不再对我们的银河系有任何用处。,如果不是为了有一天征服已知的星系，他们为什么要保持如此令人印象深刻的军事存在？\n\n我们说向他们发起战斗，窃取他们的传送门并炸毁其另一边的一切。"
+fallen_empires.9953.a.response.spirit: "他们是寄生虫！,他们声称自己只不过是一家经营合法业务的公司，但在其外表背后却隐藏着一个疯狂的计划，旨在收割我们的思想和灵魂。,我们[contact_empire.GetName]可以感觉到，他们每秒从我们这里、从这个星系中积累的大量灵能。,现在是我们制止他们疯狂的仪式并消灭这些叛教者的时候了。"
+fallen_empires.9953.a.response.mat: "他们拥有更强大的技术、材料和船只？,这对任何人来说都应该是显而易见的。,但不知怎的，他们的设计相当……简单？,就像它背后没有太多复杂性一样，就像……嗯……无论你的帝国现在用什么来驾驶你的飞船。,他们怎么能对军队中的机器人数量如此鲁莽呢？,是什么控制着他们那些仿生“勤务员”？,灵能网络？,生物芯片？,这么多的问题。\n\n也许在我们胜利之后，这些问题就会得到解答。"
+
+fallen_empires.9953.b: "我们真的能阻止她吗？"
+fallen_empires.9953.b.response.phile: "我们担心这一挑战可能比我们预期的更大。,她变得比以前强大了很多，并且学会了很多对抗我们力量的方法。,但你对她来说仍然是陌生的。,利用这宝贵的时间想出一个解决方案。,任何解决方案。\n\n如果我们没有成功，请尽你所能来拯救那些被锁定在保护区中的人。,他们不值得被这个疯狂的女王抹去。"
+fallen_empires.9953.b.response.phobe: "哈！,你？,阻止那个贱人？,克服自己。,如果我们不能阻止他们，你也不能。,因此，不要担心你的原始头脑，继续做你正在做的事情，让你的上级处理这个问题。"
+fallen_empires.9953.b.response.spirit: "不是通过我们手头的手段，不。,这种异端邪说愈演愈烈。,我们的武器根本不是她的对手。,但先知曾凭借圣衣的力量击败过她一次。,这就是答案，我们必须更深入地研究并了解他用来消除这种黑暗影响的秘密。"
+fallen_empires.9953.b.response.mat: "说实话？,形势严峻、严峻。,它不仅绕过了收容区域，还利用流放期间的时间来了解我们的秘密和力量。,我们将尽一切努力推迟它的计划，但我们担心，阻止他们的责任将取决于你。\n\n也许...也许限制这个星系的潜力是一个错误...如果我们能做到的话,已经行动得更早了……"
+
+fallen_empires.9953.c: "你比以前更疯狂了..."
+fallen_empires.9953.c.response.machine: "疯狂的？,争夺高手怎么会这么疯狂呢？,你真是个疯子，伙计！,但已经够了，让我们去对抗这件事吧 woooooo！,呼呼呼呼。"
+
+fallen_empires.9953.d: "你甚至知道你在对抗谁吗？"
+fallen_empires.9953.d.response.machine: "多么愚蠢的问题啊。,当然是我们主人的敌人。,大师们警告说，平民帝国喜欢问许多毫无意义的问题，看来他们一次是正确的。\n\n我们需要的只是足够的护航舰和战列巡洋舰来践踏我们的敌人，直到他们化为尘埃！,这才是最重要的，[root.GetName]！,所以，让我们一起出发吧！,让我们一起吧呜呜呜呜呜呜呜呜呜呜！,哈哈哈哈哈哈嘿嘿嘿嘿……"
+
+fallen_empires.9953.end: "结束传输"

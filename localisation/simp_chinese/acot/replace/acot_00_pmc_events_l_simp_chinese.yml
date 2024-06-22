@@ -1,0 +1,1045 @@
+﻿l_simp_chinese:
+ 
+acot_phanon_early_sensor_debuff: "法农军团回顾炸弹事件"
+acot_phanon_early_sensor_debuff_desc: "传感器操作方式的改变遭到了特工们的强烈不满，而且传感器还需要一段时间才能恢复正常状态。"
+
+acot_vault_good_cover_buff_25: "好封面 25"
+acot_vault_good_cover_buff_25_desc: "25"
+
+acot_vault_exposed_debuff_25: "坏封面 25"
+acot_vault_exposed_debuff_25_desc: "25"
+
+acot_vault_exposed_debuff_50: "可怕的封面 50"
+acot_vault_exposed_debuff_50_desc: "50"
+
+acot_vault_psi_gas_debuff: "磅/平方英寸气体"
+acot_vault_psi_gas_debuff_desc: "煤气 煤气 煤气"
+
+acot_phanon_event_chain: "法农军团"
+acot_phanon_event_chain_title: "法农军团"
+acot_phanon_event_chain_desc: "这个名为“法农军团”的神秘派系将自己描绘成一个神秘的准军事公司。,除了他们强大的舰队之外，我们对他们知之甚少。,我们的直觉告诉我们，无论他们对我们的银河系有什么想法，都不会是一个好主意。,对抗似乎不可避免。"
+phanon_ship_destroyed: "获得的声波碎片"
+phi_tech_level_stage: "Phi 科技级阶段"
+phanon_vault_stage: "法农跳马舞台"
+phanon_tech_level_stage: "Phi 科技级阶段"
+
+acot_pmc.0.title: "检测到身份不明的接触者！"
+acot_pmc.0.desc: "[root.GetName] 在 [from.GetName] 的空间内检测到一个由未知派系拥有的大型装置。,未知的舰队和星际基地似乎是中立的，他们的武器都瞄准我们的船只，但没有动力。,他们使用的船只似乎具有非常先进的设计，但我们无法识别。,但最令人震惊的景象是，该系统的恒星似乎被困在一艘泰坦尼克号大小的航天器内。,谁掌控了这个系统，谁就必须拥有极其古老而强大的技术。"
+acot_pmc.0.a: “我们应该尝试破译他们的语言和通讯方式。” ,#无恐惧症
+acot_pmc.0.b: “另一个危险的外星人......”#phobe
+acot_pmc.0.c: “我们不在乎他们是谁，他们最终都会死。” ,#愚蠢的净化器
+acot_pmc.0.d: “这不会是一个容易的猎物。” ,#折扣泰伦虫
+acot_pmc.0.e: “但它们是有机物吗？” ,#Edgebots
+ 
+acot_pmc.diplo_title: "法农军团"
+ 
+acot_pmc.1.desc: "欢迎旅行者来到法农军团的行动基地。,我们已将我们组织的语言上传到您的翻译软件中，这样您就不必自己执行此操作。,你一定想知道我们在这里做什么，我们是一家私人军事公司，或者是雇佣兵。,与那些掠夺者失败者不同，我们实际上拥有成为合法企业的技术、人力和资源，我们不会在每颗小行星上绑上推进器并称它们为一艘船。\n\n我们将授予我们系统的通道，并且不会开放,除非首先被射击，否则会着火。,请尽情享受您的光临。,如果您有任何疑问，请随时询问我们。"
+acot_pmc.1.a: “你好呀。” ,## 非诺普霍贝
+acot_pmc.1.b: “很好。” ,## 菲比
+acot_pmc.1.purifier.a: "我们不会与异形做生意。"
+acot_pmc.1.purifier.a.response: "你不会吗？,我们可以为您提供很多东西，我们不在乎您的意识形态或信仰，只要您愿意为服务付费。,如果您愿意，您可以使用我们的服务以您的帝国的名义取得胜利。"
+acot_pmc.1.swarm.a: "我们不与食物相互作用。"
+acot_pmc.1.swarm.a.response: "啊，你一定是那些饥饿的蜂群思想中的一员。,但无论如何，只要您愿意付费，我们都愿意为您的竞选活动提供帮助。"
+acot_pmc.1.exterminator.a: "你是一个有机体。,你不值得信任。"
+acot_pmc.1.exterminator.a.response: "你确定我们是有机物吗？,或者您只是通过我们的轮廓来判断我们？\n\n无论如何，您会发现我们的服务和专业知识在您的灭绝活动中非常有用。,我们不关心道德，只关心报酬。"
+acot_pmc.1.insult: "<对走私者进行长达 25 分钟的侮辱>"
+acot_pmc.1.insult.tooltip: "这种令人作呕的生命体在这个星系中没有立足之地。,他们只不过是一个被美化的海盗，他们可能只是把所有东西都漆成红色，看起来很前卫。,法农军团？,这是某种急躁的想成为妖怪的人吗？,我们是传奇；,我们将把这个毫无价值的傻瓜从本应属于我们的银河系中移除。,然后我们会拿走他们所有的玩具，因为他们显然不擅长使用这些玩具。"
+acot_pmc.1.purifier.insult.response: "噢，天啊，如此多的敌意。\n\n尽管如此，军团将忽略这种无端的侮辱，并将把我们的专业知识提供给出价最高的人。"
+acot_pmc.1.swarm.insult.response: "噢，天啊，如此多的敌意。\n\n尽管如此，军团将忽略这种无端的侮辱，并将把我们的专业知识提供给出价最高的人。"
+acot_pmc.1.exterminator.insult.response: "噢，天啊，如此多的敌意。\n\n尽管如此，军团将忽略这种无端的侮辱，并将把我们的专业知识提供给出价最高的人。"
+ 
+acot_pmc.100.title: "法农军团"
+acot_pmc.100.desc: “至此，我们与这个神秘的法农作物的第一次接触就结束了。该军团与我们之前见过的任何其他飞地或雇佣兵承包商不同。他们的技术、舰队力量和经济实力对于一个小型独立组织来说实在是太惊人了,尽管他们彬彬有礼，但显然他们既想给我们留下深刻印象，又想恐吓我们。\n\n虽然我们目前没有理由担心他们会对我们的扩张构成威胁，但我们无法动摇他们的态度。,奇怪的感觉是，他们的事情比看上去的要复杂得多，我们最好保持谨慎，为未来可能与军团发生的冲突做好准备。”
+acot_pmc.100.a: "他们的可信度就如同太空蜗牛的可信度一样。"
+acot_pmc.100.b: "但与此同时，他们的服务可能会被证明是有用的。"
+
+ 
+acot_pmc.2.desc.a: "法农军团竭诚为您服务。"
+acot_pmc.2.desc.b: "法农军团能为您做什么？"
+acot_pmc.2.desc.c: "让我们开始吧。"
+acot_pmc.2.desc.d: "只要你有信誉，我们就有货。"
+acot_pmc.2.desc.e: "会是什么？"
+ 
+acot_pmc.2.desc.purifier: "你是带着新的侮辱来到这里，还是我们会像绅士一样行事？"
+acot_pmc.2.desc.swarm: "显然，除了您的饥饿之外，我们还必须为您提供一些您需要的东西？"
+acot_pmc.2.desc.exterminator: "消灭者，您是否正在考虑在您的竞选活动中使用我们的服务？"
+ 
+acot_pmc.1.end: "就这些。"
+ 
+acot_pmc.1.back: "其实我们想聊点别的事。"
+
+########################## BASE MENU
+ 
+ 
+acot_pmc.2.a: "我们需要您的佣金服务。"
+acot_pmc.2.a.explain: "这将开放佣金服务。,佣金服务是由 Phanon 支持的内部管理，利用我们帝国自己的资源和技术。,通过使用法农庞大的网络情报和高度先进的工业，他们也许能够更有效地从我们的帝国中找到有能力的领导人，或者根据我们自己的设计建造舰队和军队。\n\n委员会服务使用£energy£和£influence£来购买,。"
+acot_pmc.2.b: "我们需要你的雇佣兵服务。"
+acot_pmc.2.b.explain: "这将开放雇佣兵合同服务，您可以在其中获取并查看当前所有可用雇佣兵的列表。"
+acot_pmc.2.b.fail_text: "目前已经没有可用的雇佣兵了。"
+acot_pmc.2.c: "我们需要您的特殊服务。"
+acot_pmc.2.c.explain: "这将开放不属于标准佣金范围的特殊服务。,通常与破坏或特殊情况有关。"
+acot_pmc.2.d: "访问Phanon Ultra 服务。"
+acot_pmc.2.d.explain: "这将开放需要 Phanon 币的 Phanon 服务。"
+acot_pmc.2.d.purchase: "订阅Phanon Ultra 会员资格"
+acot_pmc.2.d.purchase.explain: "Ultra 订阅使我们能够访问 Ultra 服务，该服务通常涉及 Phanon Corp 的资产本身。,会员资格有效期为10年，我们将获得1 Phanon Coin作为奖励。"
+acot_pmc.2.d.purchase.response: "感谢您的订阅，亲爱的顾客。 ,Phanon Coin 已注册到您的帐户中，只要订阅有效，您现在就可以访问我们的 Ultra 服务。"
+acot_pmc.2.e: "我们希望更多地了解军团。"
+acot_pmc.2.e.explain: "您可以在这里了解有关军团的更多信息。,这也用于根据需要学习和购买额外服务。"
+acot_pmc.2.f: "拨打神秘的后台通道"
+acot_pmc.2.f.explain: "使用神秘联系人提供的特殊反向通道链接进行拨号。"
+ 
+acot_pmc.2.service.fail: "§R我们缺乏访问此服务的授权。§!"
+acot_pmc.2.border: "你能开放你的边界吗？"
+acot_pmc.2.border.explain: "看来即使让他们开放边境也需要付款......"
+acot_pmc.2.border.response: "交易已完成。\n\n您现在已被授予进入我们边境的权限。"
+ 
+acot_pmc.2.end: "我们稍后再说。"
+acot_pmc.2.end.genocide: "终止通讯"
+
+acot_pmc.201.name: "法农军团盐重定向器"
+acot_pmc.201.desc: "......\n\n§Y军团似乎已经切断了与我们的通讯。§!"
+acot_pmc.201.a: "进入后通道"
+acot_pmc.201.b: "终止通讯"
+
+acot_pmc.202.name: "Phanon Corps Raeg 发电机自动应答器"
+acot_pmc.202.desc.a: "§R...燃烧..§！"
+acot_pmc.202.desc.b: "§R...灭亡..§！"
+acot_pmc.202.desc.c: "§R...悔改..§!"
+acot_pmc.202.desc.d: "§R...死..§！"
+acot_pmc.202.a: "这个星系拒绝你。"
+acot_pmc.202.a.response: "§R...我们将会看到...§!"
+acot_pmc.202.b: "愚蠢的自动响应生成器..."
+acot_pmc.202.b.tooltip: "根据我们对技术人员的理解，这些尖锐的报价只不过是自动回复。,特工，以及他们的任何特工，都不再真正与我们交谈了。"
+acot_pmc.202.b.response: "§R...摧毁...§!"
+
+acot_pmc.203.a.desc: "<无线电静电>....bzzzztz...§R...准备...§!...bzzzztzttz...§R...为...§!...bbzzzztzt... ,§R...必须是 eclai..§!...."
+acot_pmc.203.b.desc: "<无线电干扰>....bzzzztz....§R...代表未能继续...§!...bzzzzzzttz...§R...终止正在生效...§!.. ,.bbzzztzt...§R...没有更多的借口，下一个...§!..."
+acot_pmc.203.a: "终止通讯"
+
+acot_phanon_subscription: "Phanon Ultra 订阅"
+acot_phanon_subscription_desc: "太超了，太超了……"
+
+########################## Commission SERVICE MENU #############
+
+acot_pmc.3.name: "法农军团委员会服务"
+acot_pmc.3.desc.a: "已确认，正在将频道转移至佣金服务。\n\n请具体说明您的请求？"
+
+acot_pmc.3.a: "我们希望委托领导人。"
+acot_pmc.3.a.explain: "这将打开领导者服务面板。,领袖将来自你帝国的主要种族。"
+acot_pmc.3.b: "我们希望委托舰队。"
+acot_pmc.3.b.explain: "这将打开车队服务面板。,该设计是从您的帝国现有设计中随机产生的。"
+acot_pmc.3.c: "我们希望派遣军队。"
+acot_pmc.3.c.explain: "这将打开入侵部队面板。,拥有物种的军队将来自你的帝国的主要物种。"
+acot_pmc.3.d: "我们希望委托行星服务。"
+acot_pmc.3.d.explain: "这将打开行星管理服务面板。,每次购买后做出决定来瞄准地球。"
+
+########################## LEADER COMMISSION
+
+acot_pmc.30.name: "法农军团领袖委员会服务"
+acot_pmc.30.desc.a: "肯定。,军团可以从您的系统中追踪并找到符合您指定标准的潜在领导者。\n\n您希望雇用什么样的领导者？\n\n§G当前技能设置：5§!\n\n领导者将生成 § ,Y2§!,积极的特质。"
+acot_pmc.30.desc.b: "肯定。,军团可以从您的系统中追踪并找到符合您指定标准的潜在领导者。\n\n您希望雇用什么样的领导者？\n\n§G当前技能设置：7§!\n\n领导者将生成 § ,Y3§!,积极的特质。"
+acot_pmc.30.desc.c: "肯定。,军团可以从您的系统中追踪并找到符合您指定标准的潜在领导者。\n\n您希望雇用什么样的领导者？\n\n§G当前技能设置：10§!\n\n领导者将生成 § ,Y3§!,积极的特质和§Y1§!,先进的特质。"
+
+acot_pmc.30.setskill: "更改技能设置"
+acot_pmc.30.setskill.explain: "在 5、7 和 10 之间切换领袖技能设置。\n\n§Y领袖价格将相应改变。"
+acot_pmc.30.a: "给我们找一位好的海军上将。"
+acot_pmc.30.b: "给我们找个好将军。"
+acot_pmc.30.c: "为我们找一位优秀的科学家。"
+acot_pmc.30.d: "给我们找个好官员。"
+
+acot_pmc.30.b.response: "是的，一名具备所需技能的指挥官已被派遣。"
+acot_pmc.30.c.response: "已确认，现在正在确定符合您描述的科学家的位置。"
+acot_pmc.30.d.response: "承认了。,已跟踪您的描述的官方配件。"
+acot_pmc.30.no.response: "不幸的是，目前尚无可供聘用的领导者担任此职位。"
+
+########################## FLEET COMMISSION
+
+acot_phanon_shipping_debuff: "即时传送停机"
+acot_phanon_shipping_debuff_desc: "这支舰队最近进行了一次传送，性能有所下降。"
+
+acot_pmc.31.name: "法农军团舰队委托服务"
+acot_pmc.31.desc.a: "问候。,欢迎来到法农军团的舰队委托服务。,请说明您的要求。,如果您有疑问，请参阅咨询服务。\n\n§G当前舰队规模设置：小§!\n\n§Y您可以通过将鼠标悬停在舰艇选项上方来确定将添加多少艘舰艇。"
+acot_pmc.31.desc.b: "问候。,欢迎来到法农军团的舰队委托服务。,请说明您的要求。,如果您有疑问，请参阅咨询服务。\n\n§G当前舰队规模设置：中§!\n\n§Y您可以通过将鼠标悬停在舰艇选项上方来确定要添加的舰艇数量。"
+acot_pmc.31.desc.c: "问候。,欢迎来到法农军团的舰队委托服务。,请说明您的要求。,如果您有疑问，请参阅咨询服务。\n\n§G当前舰队规模设置：大§!\n\n§Y您可以通过将鼠标悬停在舰艇选项上方来确定将添加多少艘舰艇。"
+
+acot_pmc.31.setsize: "更改车队规模"
+acot_pmc.31.setsize.explain: "在小型、中型和大型之间更改添加到委托船队的船舶数量。\n\n§Y船队价格将相应变化。"
+acot_pmc.31.setlocation.phanon: "发货地点：§RPhanon 系统§!"
+acot_pmc.31.setlocation.capital: "运送地点：§Y首都系统§!"
+acot_pmc.31.setlocation.explain: "更改委托车队出现的位置。,默认情况下，该位置设置为 Phanon Corps 的 Droppoint。,切换到在你的首都空投将导致船只遭受§R25%§！ ,§Y360§! 的射速和速度,\n\n§H将舰队运送到特殊行星时要格外小心，因为它们可能无法正确注册。,如果舰队未能以这种方式消失，军团将不会退款。"
+acot_pmc.31.a: "我们需要一支小型船只舰队。"
+acot_pmc.31.a.explain.small: “套装包括 §Y8§! 小型容器。” ,#4800
+acot_pmc.31.a.explain.medium: “套装包括 §Y16§! 小型容器。” ,#9600
+acot_pmc.31.a.explain.large: “套装包括§Y32§!小型容器。” ,#19200
+acot_pmc.31.a.response: "已获承认。,小型舰队准备就绪。"
+acot_pmc.31.b: "我们需要一支中型船只船队。"
+acot_pmc.31.b.explain.small: “套装包括§Y6§!中型容器。” ,#9600
+acot_pmc.31.b.explain.medium: “套装包括§Y12§!中型容器。” ,#19200
+acot_pmc.31.b.explain.large: “套装包括§Y24§!中型容器。” ,#38400
+acot_pmc.31.b.response: "已获承认。,中型舰队准备就绪。"
+acot_pmc.31.c: "我们需要一支重型船只舰队。"
+acot_pmc.31.c.explain.small: “套装包括§Y4§!重型船只。” ,#14400
+acot_pmc.31.c.explain.medium: “套装包括§Y8§!重型船只。” ,#28800
+acot_pmc.31.c.explain.large: “套装包括§Y16§!重型船只。” ,#57600
+acot_pmc.31.c.response: "已获承认。,重型舰队准备就绪。"
+acot_pmc.31.d: "我们需要一支主力舰舰队。"
+acot_pmc.31.d.explain.small: “套装包括§Y2§!主力舰。” ,#12000
+acot_pmc.31.d.explain.medium: “套装包括§Y4§!主力舰。” ,#24000
+acot_pmc.31.d.explain.large: “套装包括§Y8§!主力舰。” ,#48000
+acot_pmc.31.d.response: "已获承认。,主力舰舰队准备就绪。"
+acot_pmc.31.e: "我们需要一支由旗舰主导的完整舰队。"
+acot_pmc.31.e.explain.small: “套装包括以下物品：\n§Y8§!小型船只。\n§Y6§!中型船只。\n§Y4§!重型船只。\n§Y2§!主力舰。§Y1§!旗舰。” ,#60800
+acot_pmc.31.e.explain.medium: “套装包括以下物品：\n§Y16§!小型船只。\n§Y12§!中型船只。\n§Y8§!重型船只。\n§Y4§!主力舰。§Y1§!旗舰。” ,#101600
+acot_pmc.31.e.explain.large: “套装包括以下物品：\n§Y32§!小型船只。\n§Y24§!中型船只。\n§Y16§!重型船只。\n§Y8§!主力舰。§Y1§!旗舰。” ,#183200
+acot_pmc.31.e.response: "已获承认。,旗舰舰队准备就绪。"
+
+########################## ARMY COMMISSION
+
+acot_pmc.32.name: "法农军团陆军委员会服务处"
+acot_pmc.32.desc.a: "问候。,欢迎来到法农军团的陆军委员会服务。,请说明您的要求。,如果您有疑问，请参阅咨询服务。\n\n§G当前军队规模设置：小§!\n\n§Y您可以通过将鼠标悬停在军队选项上方来确定将添加多少军队。\n\n ,§R仅标准军队类型可供选择。"
+acot_pmc.32.desc.b: "问候。,欢迎来到法农军团的陆军委员会服务。,请说明您的要求。,如果您有疑问，请参阅咨询服务。\n\n§G当前军队规模设置：中§!\n\n§Y您可以通过将鼠标悬停在军队选项上方来确定将添加多少军队。\n\n ,§R仅标准军队类型可供选择。"
+acot_pmc.32.desc.c: "问候。,欢迎来到法农军团的陆军委员会服务。,请说明您的要求。,如果您有疑问，请参阅咨询服务。\n\n§G当前军队规模设置：大§!\n\n§Y您可以通过将鼠标悬停在军队选项上方来确定将添加多少军队。\n\n ,§R仅标准军队类型可供选择。"
+
+acot_pmc.32.setsize: "改变军队规模"
+acot_pmc.32.setsize.explain: "更改添加到委托军队中的小型、中型和大型运输机的数量。\n\n§Y军队价格将相应改变。§!"
+acot_pmc.32.setlocation.phanon: "发货地点：§RPhanon 系统§!"
+acot_pmc.32.setlocation.capital: "运送地点：§Y首都系统§!"
+acot_pmc.32.setlocation.explain: "更改委托陆军运输机出现的位置。,默认情况下，该位置设置为 Phanon Corps 的 Droppoint。,切换到在你的首都降落将导致运输受到§R25%§！ ,§Y360§! 的射速和速度,\n\n§H将舰队运送到特殊行星时要格外小心，因为它们可能无法正确注册。,如果舰队未能以这种方式消失，军团将不会退款。"
+
+acot_pmc.32.a: "我们需要一支步兵部队。"
+acot_pmc.32.a.explain.small: "套装包括§Y10§！,步兵部队。"
+acot_pmc.32.a.explain.medium: “套装包括§Y20§!步兵单位。”
+acot_pmc.32.a.explain.large: "套装包括§Y40§！,步兵部队。"
+acot_pmc.32.a.response: "已获承认。,步兵部队准备就绪。"
+
+acot_pmc.32.b: "我们需要一支轻型突击部队。"
+acot_pmc.32.b.explain.small: “套装包括§Y5§!轻型突击部队。”
+acot_pmc.32.b.explain.medium: “套装包括 §Y10§! 轻型突击部队。”
+acot_pmc.32.b.explain.large: “套装包括 §Y20§! 轻型突击部队。”
+acot_pmc.32.b.response: "已获承认。,灯光装置准备就绪。"
+
+acot_pmc.32.c: "我们需要一支重型突击部队。"
+acot_pmc.32.c.explain.small: "套装包括§Y2§！,重型突击部队。"
+acot_pmc.32.c.explain.medium: "套装包括§Y4§！,重型突击部队。"
+acot_pmc.32.c.explain.large: "套装包括§Y8§！,重型突击部队。"
+acot_pmc.32.c.response: "已获承认。,重型单位准备就绪。"
+
+acot_pmc.32.d: "我们需要一支行星入侵战斗群。"
+acot_pmc.32.d.explain.small: "套装包括§Y10§！,步兵部队，§Y5§!,轻型突击部队和§Y2§!,重型突击部队。"
+acot_pmc.32.d.explain.medium: "套装包括§Y20§！,步兵部队，§Y5§!,轻型突击部队和§Y4§!,重型突击部队。"
+acot_pmc.32.d.explain.large: "套装包括§Y40§！,步兵部队，§Y5§!,轻型突击部队和§Y8§!,重型突击部队。"
+acot_pmc.32.d.response: "已获承认。,战斗群集结完毕，准备服役。"
+
+
+########################## PLANET COMMISSION
+
+acot_pmc.33.name: "法农军团行星管理服务处"
+acot_pmc.33.desc.a: "问候。,欢迎来到法农军团的行星管理服务。,请说明您的要求。,如果您有疑问，请参阅咨询部分。\n\n§G当前套餐设置：基本§!"
+acot_pmc.33.desc.b: "问候。,欢迎来到法农军团的行星管理服务。,请说明您的要求。,如有疑问，请参阅查询服务。\n\n§G当前套餐设置：高级§!。"
+acot_pmc.33.desc.c: "问候。,欢迎来到法农军团的行星管理服务。,请说明您的要求。,如有疑问，请咨询咨询服务。\n\n§G当前套餐设置：豪华§!"
+
+acot_pmc.33.setsize: "更改包级别"
+acot_pmc.33.setsize.explain: "将提供的殖民服务的级别更改为基本、高级和豪华。\n\n§Y价格将相应变化。§!"
+
+acot_pmc.33.a: "我们想购买一个殖民套餐。"
+acot_pmc.33.a.explain.small: "殖民包允许我们使用特殊决策来快速殖民我们境内的一颗行星。\n\n§Y该星球将正常殖民，无需额外更改。§!\n\n§E需要 360 天的时间来部署。§!"
+acot_pmc.33.a.explain.medium: "殖民包允许我们使用特殊决策来快速殖民我们境内的一颗星球。\n\n§Y该星球将被一个基本首都和 4 个额外人口殖民。§!\n\n§E需要 180 天的时间来部署。 ,§！"
+acot_pmc.33.a.explain.large: "殖民套餐允许我们使用特殊决策来快速殖民我们境内的一颗星球。\n\n§Y该星球将被一个主要首都、8个额外人口和所有障碍物清除而被殖民。§!"
+acot_pmc.33.a.response: "交易完成。,享受勇敢迎接新地平线的乐趣！\n\n§Y要使用购买的服务，请选择帝国边界内的任何未殖民星球，然后使用决策快速殖民它。\n\n§E需要 18 天的时间来部署。§!"
+decision_pmc_service_colonize_package: "标准声子定植包"
+decision_pmc_service_colonize_package_desc: "使用未知的方法，这个从法农军团购买的包裹可以用来快速殖民一颗星球。"
+decision_pmc_service_colonize_package_effect: "§Y行星将正常殖民，无需额外更改。§!\n\n§E部署需要 360 天。§!"
+decision_pmc_service_colonize_package_medium: "先进的声子定植包"
+decision_pmc_service_colonize_package_medium_desc: "使用未知的方法，这个从法农军团购买的包裹可以用来快速殖民一颗星球。"
+decision_pmc_service_colonize_package_medium_effect: "§Y这个星球将被一个基本首都和 4 个额外人口殖民。§!n\n§E需要 180 天来部署。§!"
+decision_pmc_service_colonize_package_large: "豪华法农殖民套餐"
+decision_pmc_service_colonize_package_large_desc: "使用未知的方法，这个从法农军团购买的包裹可以用来快速殖民一颗星球。"
+decision_pmc_service_colonize_package_large_effect: "§Y这个星球将被殖民，拥有一个主要首都、8个额外人口并且清除所有障碍物。§!n\n§E需要 18 天来部署。§!"
+
+acot_pmc.33.b: "我们想购买一个地形改造包。"
+acot_pmc.33.b.explain.small: "地球化包允许我们使用一个特殊的决定来快速对我们境内的一颗行星进行地球化。,即使我们缺乏通常的必备技术，也可以使用 Terraform 软件包。\n\n§Y地球将在 360 天内进行地球化改造。,只允许选择标准行星。"
+acot_pmc.33.b.explain.medium: "地球化包允许我们使用一个特殊的决定来快速对我们境内的一颗行星进行地球化。,即使我们缺乏通常的必备技术，也可以使用 Terraform 软件包。\n\n§Y地球将在 180 天内完成地球化改造。"
+acot_pmc.33.b.explain.large: "地球化包允许我们使用一个特殊的决定来快速对我们境内的一颗行星进行地球化。,即使我们缺乏通常的必备技术，也可以使用 Terraform 软件包。\n\n§Y地球将在 18 天内完成地球化改造。"
+acot_pmc.33.b.response: "交易完成。,世界现在由您来塑造！\n\n§Y要使用购买的服务，请选择您帝国边界内的任何行星，然后使用决策快速将其改造。"
+decision_pmc_service_terraform_package: "标准Phanon Terraformation 包"
+decision_pmc_service_terraform_package_desc: "使用未知的方法，这个从 Phanon Corps 购买的软件包可用于快速改造地球。"
+decision_pmc_service_terraform_package_medium: "先进的Phanon Terraform包"
+decision_pmc_service_terraform_package_medium_desc: "使用未知的方法，这个从 Phanon Corps 购买的软件包可用于快速改造地球。"
+decision_pmc_service_terraform_package_large: "豪华 Phanon 地形改造套餐"
+decision_pmc_service_terraform_package_large_desc: "使用未知的方法，这个从 Phanon Corps 购买的软件包可用于快速改造地球。"
+
+acot_pmc.33.c: "我们想购买人口套餐。"
+acot_pmc.33.c.explain.small: "人口包使我们能够快速地在我们的殖民地之一上填充我们的主要物种。\n\n§Y这个星球将容纳 5 个额外的人口。"
+acot_pmc.33.c.explain.medium: "人口包使我们能够快速地在我们的殖民地之一上填充我们的主要物种。\n\n§Y这个星球将容纳 10 个额外的人口。"
+acot_pmc.33.c.explain.large: "人口包使我们能够快速地在我们的殖民地之一上填充我们的主要物种。\n\n§Y这个星球将容纳 25 名额外的人口。"
+acot_pmc.33.c.response: "交易完成。,权力归于人民！,不要问他们来自哪里！\n\n§Y要使用购买的服务，请选择帝国边界内的任何星球，然后使用决策快速填充它。"
+decision_pmc_service_pop_package: "标准声子人口包"
+decision_pmc_service_pop_package_desc: "使用未知的方法，这个从 Phanon Corps 购买的软件包可用于快速将 5 个人口添加到选定的星球上。"
+decision_pmc_service_pop_package_medium: "高级 Phanon 群体包"
+decision_pmc_service_pop_package_medium_desc: "使用未知的方法，这个从 Phanon Corps 购买的软件包可用于快速将 10 个人添加到选定的星球上。"
+decision_pmc_service_pop_package_large: "豪华Phanon人口套餐"
+decision_pmc_service_pop_package_large_desc: "使用未知的方法，这个从 Phanon Corps 购买的软件包可用于快速将 25 个人添加到选定的星球上。"
+acot_pmc.33.fail: "§R此软件包已处于活动状态。,我们需要先使用它，然后才能购买另一个。§!"
+########################## MERCENARY SERVICE MENU #############
+
+acot_pmc.4.name: "法农军团雇佣兵服务"
+acot_pmc.4.desc.a: "已确认，正在将频道转移至雇佣兵服务。\n\n显示可用的雇佣兵合同。,请检查并验证。\n\n§B蓝色名称§! ,= 舰队雇佣兵\n§G绿色名字§! ,= 陆军雇佣兵\n§M紫名§! ,= 稀有雇佣兵\n§Y黄名§! ,=传奇佣兵\n\n\n§H佣兵名册每五年刷新一次。\n任意时刻总共可以存在五名佣兵，超过此限制将随机替换已有的佣兵。§!"
+acot_pmc.4.setlocation.phanon: "发货地点：§RPhanon 系统§!"
+acot_pmc.4.setlocation.capital: "运送地点：§Y首都系统§!"
+acot_pmc.4.setlocation.explain: "更改委托雇佣兵出现的位置。,默认情况下，该位置设置为 Phanon Corps 的 Droppoint。,切换到降落在你的首都将需要额外的影响力和能源成本。\n\n§H将舰队运送到特殊行星时要格外小心，因为它们可能无法正确注册。,如果舰队未能以这种方式消失，军团将不会退款。"
+
+acot_pmc.4.kraggan: "§GKraggan 血包雇佣兵§!"
+acot_pmc.4.kraggan.explain: "克拉根人以其在战斗中令人难以置信的坚韧、残暴和野蛮而闻名，他们是地面上令人畏惧的战士。,他们对疼痛的巨大耐受力和对战斗的热爱使他们在压力下极难崩溃，也很难在多次打击中幸存下来。"
+acot_pmc.4.kraggan.condition: "这些克拉根人似乎不喜欢亲外帝国。,他们没有说明原因。"
+
+acot_pmc.4.freeboota: "§BFreeboota 雇佣兵§!"
+acot_pmc.4.freeboota.explain: "这些奇怪的绿皮喜欢掠夺和袭击。,尽管他们的船只的质量还有很多不足之处，但他们的进出速度相当快，从而弥补了这一点。,他们似乎在为任何人工作时没有任何问题。"
+
+acot_pmc.4.zurgush: "§G祖古什巢穴§!"
+acot_pmc.4.zurgush.explain: "这群奇怪的类昆虫外星人似乎属于虫巢思维。,显然，他们的任务是通过蜂巢女王在其他星系传播恐怖。,对于雇佣兵来说这是一个奇怪的选择，但他们的战士却极其致命。"
+acot_pmc.4.zurgush.condition: "巢穴拒绝为另一个蜂巢思维而战，也许他们想避免直接竞争？"
+
+acot_pmc.4.robert: "§M罗伯特·麦考伊§!"
+acot_pmc.4.robert.explain: "这个人形起源的小男孩不知何故设法收集了足够的积分来购买我们的雇佣兵合同。,除了一艘相当便宜的小型掠夺船之外，他一无所有。,他的战斗经验基本上是没有的。,然而他并不要求任何东西，只是为了让他离开他的旧星系。"
+acot_pmc.4.robert.condition: "显然他不想加入一个可能把他变成晚餐的帝国。"
+
+acot_pmc.4.samuroi: "§B武士刀§!"
+acot_pmc.4.samuroi.explain: "这些以荣誉为荣的雇佣兵战士为那些坚持其独特的战争和军事传统的人提供服务。,他们的舰队由强大的中型和重型船舶组成。,他们似乎更喜欢敏捷和力量，而不是懦弱的远程武器。"
+acot_pmc.4.samuroi.condition: "这些战士似乎不喜欢为和平主义者工作。"
+
+acot_pmc.4.jacksonrevenge: "§Y杰克逊的复仇§!"
+acot_pmc.4.jacksonrevenge.explain: "一支海盗乐队设法获得了一艘旗舰。,据说，船员们花了整整一周的时间互相残杀，以决定谁能成为船长。,船员虽然不太可靠，但战斗意识非常好，而且这艘船相当强大。"
+
+acot_pmc.4.vampiris: "§G吸血鬼色调§!"
+acot_pmc.4.vampiris.explain: "一群强大的吸食死灵骑士，他们希望从其他星系获得新的品味。"
+acot_pmc.4.vampiris.condition: "这些像吸血鬼一样的生物不会为没有生命的机器工作。"
+
+########################## SPECIAL SERVICE MENU #############
+
+acot_pmc.5.name: "法农军团特别服务"
+acot_pmc.5.desc: "重新路由至特殊服务。\n\n请具体说明我们今天能为您做什么。"
+
+# FE SABOTAGE
+acot_pmc.5.fe: "我们需要帮助来击败堕落帝国。"
+acot_pmc.5.fe.error: "§R我们目前没有处于战争状态或与任何堕落帝国竞争。§!"
+
+#EMPIRE SABOTAGE
+acot_pmc.5.rivals: "我们需要帮助来应对我们的竞争对手。"
+acot_pmc.5.rivals.error: "§R我们目前没有处于战争状态或与任何帝国竞争。§!"
+
+# CRISIS SABOTAGE
+acot_pmc.5.crisis: "我们需要帮助来应对当前的危机。"
+acot_pmc.5.crisis.error: "§R目前没有持续的危机。§!"
+
+# DARK DESIGN - GO TO DARK DESIGN
+acot_pmc.5.darkmatter: "我们需要帮助创建暗物质反应堆。"
+ 
+########## FE
+
+acot_pmc.500.name: "法能军团奶奶欺凌系统V4.6a"
+acot_pmc.500.desc: "明白了。,请指定您需要什么样的援助来对抗堕落帝国。\n\n当前目标是 [FallenEmpireTarget.GetName]。"
+
+acot_pmc.500.changetarget: "改变目标：堕落帝国。"
+acot_pmc.500.a: "破坏他们的舰队。"
+acot_pmc.500.a.tooltip: "这会导致目标堕落帝国受到暂时的负面修正，导致他们遭受§R-50%§!,船舶武器射速和伤害。\n持续 10 年。\n只能每 20 年进行一次。"
+acot_phanon_fe_fleet_sabotage_debuff: "舰队遭到破坏"
+acot_pmc.500.b: "扰乱他们的生产。"
+acot_pmc.500.b.tooltip: "这会导致目标堕落帝国受到暂时的负面修正，导致他们遭受§R-100%§!,造船厂、军队和行星建造速度加快，并阻止他们建造攻城舰。\n持续 10 年。\n只能每 20 年完成一次。"
+acot_phanon_fe_production_debuff: "生产遭到破坏"
+acot_pmc.500.c: "抓住他们的弱点。"
+acot_pmc.500.c.tooltip: "暂时给予我们帝国§G50%§！,对堕落帝国的额外伤害持续五年。\n只能每 10 年进行一次。"
+acot_phanon_fe_weakpoint_analysis: "堕落帝国弱点分析"
+acot_pmc.500.c.fail.done: "§R已经有了这个有趣的东西..§！"
+acot_pmc.500.d: "造成他们队伍的混乱。"
+acot_pmc.500.d.tooltip: "这导致目标堕落帝国的一部分舰队对所有人都充满敌意。,当堕落帝国舰队变得太大时很有用。\n只能每 50 年完成一次.."
+acot_pmc.500.e: "使他们的军队士气低落。"
+acot_pmc.500.e.tooltip: "这会导致目标堕落帝国受到暂时的负面修正，导致他们遭受§R-25%§!,军队健康状况和伤害以及§R-55%§!,士气。\n持续 10 年。\n只能每 20 年进行一次。"
+acot_phanon_fe_army_morale_debuff: "悲伤和科皮姆"
+acot_pmc.500.fail.done: "§R堕落帝国已经遭到破坏。§!"
+acot_pmc.500.fail.cd: "§R 冷却。§!"
+
+########## EMPIRE SABOTAGE
+
+acot_pmc.510.desc: "明白了。,请指定您需要什么样的援助来对抗您的竞争对手帝国。\n\n当前目标是[Root.GetName]。"
+
+acot_pmc.510.changetarget: "改变目标敌对帝国。"
+
+########## Crisis SABOTAGE
+
+acot_pmc.520.name: "法农军团危机对策服务"
+acot_pmc.520.desc: "明白了。,请具体说明您需要什么样的援助来应对危机。"
+
+acot_pmc.520.swarm.a: "天灾军团有什么弱点？"
+acot_pmc.520.swarm.a.tooltip: "暂时给予我们帝国§G50%§！,对天灾军团的额外伤害持续十年。\n只能每 20 年进行一次。"
+acot_phanon_scourge_weakpoint_analysis: "天灾基因组武器。"
+acot_pmc.520.contingency.a: "应急计划有什么弱点？"
+acot_pmc.520.contingency.a.tooltip: "暂时给予我们帝国§G50%§！,针对意外事件的额外伤害持续十年。\n只能每 20 年进行一次。"
+acot_phanon_contingency_weakpoint_analysis: "应急逻辑病毒。"
+acot_pmc.520.edi.a: "异次元入侵者有什么弱点？"
+acot_pmc.520.edi.a.tooltip: "暂时给予我们帝国§G50%§！,针对异次元入侵者的额外伤害持续十年。\n只能每 20 年进行一次。"
+acot_phanon_edi_weakpoint_analysis: "异次元召唤师。"
+acot_pmc.520.khan.a: "大可汗的掠夺者有什么弱点？"
+acot_pmc.520.khan.a.tooltip: "暂时给予我们帝国§G50%§！,对大汗掠夺者的额外伤害持续十年。\n只能每 20 年进行一次。"
+acot_phanon_khan_weakpoint_analysis: "诽谤可汗媒体。"
+acot_pmc.520.a.fail.done: "§R已经有了§!"
+acot_pmc.520.fail.cd: "§R 冷却。§!"
+
+########## Matter Acquisitioon
+acot_pmc.530.name: "Phanon Corps 技术采购服务"
+acot_pmc.530.desc: "明白，正在重新路由至技术获取服务。\n\n您希望我们如何协助您获取暗物质技术？"
+
+acot_pmc.530.a: "从其他帝国窃取蓝图。"
+acot_pmc.530.a.tooltip: "最简单的方法，中间的道路成本。,当然，这只有在另一个帝国已经拥有这项技术的情况下才能做到。,鉴于该公司的声誉和技能，受害者不太可能意识到这些黑暗行为。,然而，在该过程完成之前将会有一些延迟。"
+acot_pmc.530.a.response: "已获承认。,进行渗透行动。,这可能需要几个月的时间。,请放心，无论结果如何，您参与该委员会的情况都不会泄露给目标。"
+acot_pmc.530.a.fail: "§R显然，目前还没有其他帝国或派系拥有这项技术。§!"
+acot_pmc.530.b: "增强我们的科学家。"
+acot_pmc.530.b.tooltip: "最便宜的方法。,这将创建一个特殊的项目，需要一些时间，这将提高所有科学家的水平以满足项目的最佳要求，或者如果他们的门槛已经超过，则增加一个额外的水平。,除了帮助我们实现目标之外，我们科学家技能的提高可能对未来的其他项目有用。"
+acot_pmc.530.b.response: "已获承认。,立即为您的帝国科学家传输所需的数据研究。,希望他们能充分利用它。"
+acot_pmc.530.c: "我们可以从你那里买吗？"
+acot_pmc.530.c.tooltip: "最直接的方法，但也是最昂贵的。,蓝图和规格的交付是即时的，这意味着我们将立即准备好技术进行研究。"
+acot_pmc.530.c.response: "但是当然。,一旦您了解了正确的关键组件，就只需要对暗物质技术有基本的了解。,交易成功，顾客，享受你的新玩具吧！"
+
+acot_pmc.531.name: "Phanon Corps 技术采购服务"
+acot_pmc.531.desc: "你好，[root.GetName]。,我们很高兴地通知您，您提到的技术数据已成功...从第三方盗用。,数据现在已准备好传输。"
+acot_pmc.531.a: "那么谁是那个倒霉的人呢？"
+acot_pmc.531.a.response: "哦，您不需要知道这一点，相信我们。,但请放心，他们不知道刚刚发生了什么。,剩下的就取决于你了。"
+acot_pmc.531.b: "几乎担心你会拿走积分然后逃跑。"
+acot_pmc.531.b.response: "现在现在，亲爱的顾客。,您在这里与专家打交道。,我们是法农军团，不是掠夺者那样的死水雇佣兵。,我们总是得到我们想要的，我们想要的就是您需要的。"
+acot_pmc.531.c: "时间到了。,这笔生意就结束了。"
+acot_pmc.531.c.response: "的确。,请记住，Phanon 军团始终在注视着您。,当您想要最好的时，请选择Phanon Corps。"
+########################### PHANON SERVICE
+
+acot_pmc.6.name: "Phanon Corps Ultra 服务"
+acot_pmc.6.desc: “欢迎来到 Ultra Services，VIP 客户可以在这里请求更多...独特的佣金和请求，前提是他们符合我们的准则和规定。\n\n您目前拥有 §Y[This.$owned_phanon_coin$]§! Phanon,你的账户里有硬币。”
+acot_pmc.6.a: "我们想购买法农军团。"
+acot_pmc.6.b: "我们想购买法农军团的船只。"
+acot_pmc.6.c: "我们想购买Phanon Corps Technologies。"
+acot_pmc.6.c.response: "我们很遗憾地通知您，由于最近的安全问题，此服务不可用。"
+acot_pmc.6.c.response.goodgirl: "扫描缺失的核心技术。,完成，现在正在传输数据。,请享受。"
+acot_pmc.6.d: "我们想购买法农军团的特殊能力。"
+acot_pmc.6.e: "我们想赚取Phanon币。"
+
+acot_pmc.6.fail: "§RPhanon 硬币不足！§!"
+
+owned_phanon_coin: "acot_phanon_coin_var"
+
+acot_phanon_coin_var: "法农硬币计数"
+
+########################## PHANON SUPER COMMISSION
+
+acot_pmc.600.name: "法农军团执勤合同服务"
+acot_pmc.600.desc: "问候。,欢迎来到法农军团的执勤合同服务。,我们的勤务兵军团在技能和装备上都是无与伦比的。,将鼠标悬停在终端中的选项上可查看其详细信息、规格和成本。\n\n根据规定，购买的单位被视为合法属于客户，直到其主权被破坏，从而导致合同终止。,如果对 Phanon 军团采取敌对行动，现有的契约部队将不会被用来对付客户。\n\n你目前拥有 §Y[This.$owned_phanon_coin$]§!,您帐户中的Phanon Coin。"
+
+acot_pmc.600.setlocation.phanon: "发货地点：§RPhanon 系统§!"
+acot_pmc.600.setlocation.capital: "运送地点：§Y首都系统§!"
+acot_pmc.600.setlocation.explain: "更改委托陆军运输机出现的位置。,默认情况下，该位置设置为 Phanon Corps 的 Droppoint。,切换到在你的首都降落将导致运输受到§R25%§！ ,§Y360§! 的射速和速度,\n\n§H将舰队运送到特殊行星时要格外小心，因为它们可能无法正确注册。,如果舰队未能以这种方式消失，军团将不会退款。"
+
+acot_pmc.600.a: "购买一队勤务兵。"
+acot_pmc.600.a.explain: "套装包括§Y15§！,值班士兵和§Y5§!,值班狙击手部队。\n\n值班人员是通用步兵部队，擅长对抗不专门造成士气伤害的敌人。,另一方面，狙击手则擅长给敌军造成恐慌，当他们被一一消灭时，会降低他们的士气。"
+acot_pmc.600.a.response: "值班人员准备好了。,莫尔·巴拉顿！"
+
+acot_pmc.600.b: "购买一支精英勤务兵军团。"
+acot_pmc.600.b.explain: “套装包括§Y12§!执勤精英和§Y3§!爱国者坦克部队。\n\n精英执勤人员比标准士兵更强大，而坦克是自动化的，不会受到士气伤害。”
+acot_pmc.600.b.response: "已获承认。,精英们准备好了。"
+
+acot_pmc.600.c: "购买一支恐怖野兽军团。"
+acot_pmc.600.c.explain: "套装包括§Y20§！ ,Terrone 无人机和 §Y3§!,恐怖獠牙单位。\n\n两种类型的单位都是无所畏惧的机器人，非常适合恐怖战争和最大程度的屠杀，非常适合净化行星而不用担心附带损害。"
+acot_pmc.600.c.response: "已获承认。,恐怖野兽准备好了。"
+
+acot_pmc.600.d: "我们不想关心地面战斗。"
+acot_pmc.600.d.explain: "套装包括§Y30§！,值班士兵，§Y10§!,值班狙击手，§Y10§!,勤务精英，§Y5§!,爱国者坦克，§Y20§! ,Terrone 无人机和 §Y5§!,恐怖獠牙部队由两名特工领导。 ,\n\n这个庞大的军团应该能让你赢得有史以来大多数地面战斗。,小心不要在太空战斗中失去他们。"
+acot_pmc.600.d.response: "已获承认。,让你的敌人颤抖。"
+
+###########
+
+acot_pmc.601.name: "法农军团海军合同服务"
+acot_pmc.601.desc: "问候。,欢迎来到法农军团的海军合同服务。,我们的船只由一些最优质的材料制成，并采用最先进的组件和武器系统。,您想控制空间，别再犹豫了。\n\n根据规定，购买的船舶被视为合法地属于客户，直到其主权被破坏，从而导致合同终止。,如果对 Phanon 军团采取敌对行动，现有的契约部队将不会被用来对付客户。\n\n你目前拥有 §Y[This.$owned_phanon_coin$]§!,您帐户中的Phanon Coin。"
+
+acot_pmc.601.setlocation.phanon: "发货地点：§RPhanon 系统§!"
+acot_pmc.601.setlocation.capital: "运送地点：§Y首都系统§!"
+acot_pmc.601.setlocation.explain: "更改委托车队出现的位置。,默认情况下，该位置设置为 Phanon Corps 的 Droppoint。,切换到在你的首都空投将导致船只遭受§R25%§！ ,§Y360§! 的射速和速度,\n\n§H将舰队运送到特殊行星时要格外小心，因为它们可能无法正确注册。,如果舰队未能以这种方式消失，军团将不会退款。"
+acot_pmc.601.a: "购买一个追星者中队。"
+acot_pmc.601.a.explain: “套装包括由一名星际入侵者领导的§Y3§!追星者中队。\n\n追星者是速度惊人的 ISC，具有看似高的耐用性和火力。星际入侵者是由特工通过神经网络控制的精英变体。” ,#4800
+acot_pmc.601.a.response: "已获承认。,追星者已准备就绪。"
+acot_pmc.601.b: "购买两艘歼星舰。"
+acot_pmc.601.b.explain: “套装包括 §Y2§! 歼星舰。\n\n虽然被认为是法农军团使用的最小的主线战舰，但它们的尺寸和火力仍然很容易使银河系的大多数舰艇黯然失色。它们可能无法赢得战争，但,他们制造出强大的全能战舰，可以胜任多种角色。” ,#9600
+acot_pmc.601.b.response: "已获承认。,歼星舰准备就绪。"
+acot_pmc.601.c: "购买星际毁灭者。"
+acot_pmc.601.c.explain: "套装中包括一艘星际毁灭者。\n\n星际毁灭者是中间的公路舰，可以对抗其他主力舰，并且仍然保留一些较小口径的武器来对付小昆虫。"
+acot_pmc.601.c.response: "已获承认。,星际毁灭者待命。"
+acot_pmc.601.d: "购买一个星辰毁灭者。"
+acot_pmc.601.d.explain: "套装包括一个星型毁灭者。\n\n毁灭者是专用的反主力舰移动火炮系统。,他们著名的大炮即使不是一次击中，也能在几次击穿中击穿最坚固的船只。"
+acot_pmc.601.d.response: "已获承认。,毁灭者在线。"
+acot_pmc.601.e: "购买星际统治者 II"
+acot_pmc.601.e.explain: "套装中包括一台 Star Dominator II。\n\n一个不幸的委托的令人惊讶且有效的产品。 ,Dominator II 是 Phanon 军团的主要主力舰。,底部机翼部分和锤脊的增加使其比其前身更加致命，尽管这会显着增加成本。"
+acot_pmc.601.e.response: "已获承认。,统治者听从你的指挥。"
+acot_pmc.601.f: "购买星际歼灭者"
+acot_pmc.601.f.explain: "套装中包括一艘歼星舰。\n\n歼星舰是帕农军团中最大、最强大的旗舰，已获准在星系中部署。"
+acot_pmc.601.f.response: "已获承认。,法农舰队中最优秀的舰艇任你掌控。"
+
+###########
+
+acot_pmc.602.name: "法农军团特别礼宾服务"
+acot_pmc.602.desc: "问候。,欢迎来到法农军团的特殊礼宾服务。,您可以从我们商店中的各种类型的特殊协议系统中购买。\n\n特殊协议是强大的动作，可以通过法令或使用目标巨型结构来激活，以实现对敌人的战术优势。\n\n您目前拥有,§Y[这个.$owned_phanon_coin$]§!,您帐户中的Phanon Coin。"
+
+acot_pmc.602.a: "购买 Runic Elite 编程协议。"
+acot_pmc.602.a.explain: “套装包括一次性使用符文精英编程协议法令。\n\n精英协议法令授予§Y5§!年份修正值，使造船厂建造的每艘舰艇的武器伤害增加§G50%§!，§G25%§ ,! 射速、船体、装甲和盾牌增加，但其建造时间增加§R30%§! 同样，在此期间生产的所有军队将获得§G100%§! 伤害，§G50%§! ,G200%§! 士气增加，但需要 §R40%§! 来完成。” ,#4800
+acot_pmc.602.a.response: "已获承认。,已购买精英协议。\n\n§Y可通过法令菜单使用。§!"
+
+acot_elite_protocol_modifier: "符文精英协议"
+acot_elite_protocol_modifier_desc: "跨维度训练的奇迹..."
+acot_elite_protocol_ship_buff: "符文精英协议"
+acot_elite_protocol_army_buff: "符文精英协议"
+
+edict_acot_phanon_elite_protocol: "激活符文精英协议"
+edict_acot_phanon_elite_protocol_desc: "精英协议法令授予§Y5§!,年份修正，使造船厂建造的每艘舰艇都有§G50%§!,增加武器伤害，§G25%§!,提高射速、船体、装甲和盾牌，但将其建造速度提高§R30%§!。,同样，在此期间产生的所有军队都将获得§G100%§!,增加生命值，§G50%§!,伤害增加，§G200%§!,士气增加，但需要§R40%§!,更多的时间来制作。"
+
+acot_pmc.602.b: "购买影舞协议。"
+acot_pmc.602.b.explain: “套装包含一次性使用影舞协议力量。\n\n激活后，影舞协议赋予所有盟军船只相同的§G10§!隐形强度以及§G200%§!基础舰船速度提高，同时立即将,在使用暗影之舞时，它们会进入隐身模式，并在 §Y30§! 天内增加 §G25%§! 伤害和§G50%§! ,#4800
+acot_pmc.602.b.response: "已获承认。,已购买影舞协议。\n\n§Y可以通过巨型结构激活来激活。§!"
+
+acot_shadow_dance_protocol_stealth_buff: "影舞协议"
+acot_shadow_dance_protocol_ambush_buff: "影舞伏击！"
+
+###########
+
+acot_pmc.603.name: "Phanon Corps Macotransaction 服务"
+acot_pmc.603.desc: "问候。,欢迎使用Phanon Corps 的宏观交易服务。,从这里，您可以选择当前可用的赚取 Phanon 硬币的方法。,如果有可用的方法，请稍后再回来。\n\n您目前拥有 §Y[This.$owned_phanon_coin$]§!,您帐户中的Phanon Coin。"
+
+acot_pmc.603.task_exist.fail: "§R已经在执行任务 nubnab！§!"
+
+acot_pmc.603.leader: "职责：领袖捐赠 - §Y1 硬币§！"
+acot_pmc.603.leader.explain: “如果军团看重一件事，那就是其表现出非凡技能的有能力的人。\n\n你的帝国中至少等级为 §Y10§! 的随机非议员领导者将被投降给法农军团。领导者 §,不可能§! 是通过 Phanon Corp 的领导者委员会服务获得的。”
+acot_pmc.603.leader.fail: "§R我们的帝国中没有符合标准的领袖。§!"
+acot_pmc.603.leader.response: "是的，感谢您的贡献，添加§Y1§！,立即将 Phanon 硬币存入您的帐户。\n\n我们的一位领导者 [event_target:acot_pmc_eaten_leader.GetName] 已被选中加入 Phanon 军团。"
+
+acot_pmc.603.fleet: "职责：舰队捐赠 - §Y1 硬币§!"
+acot_pmc.603.fleet.explain: "有时，军团需要直接分析和获取某些舰队以达到其目的。,这些目的是什么并不重要。\n\n组建一支至少拥有 §Y5,000,000§! 的庞大舰队,舰队力量实力并向法农军团展示"
+acot_pmc.603.fleet.fail: "§R法农军团空投点没有具备所需兵力的舰队。§!"
+acot_pmc.603.fleet.response: "是的，感谢您的贡献，添加§Y1§！,现在将 Phanon 硬币存入您的帐户。\n\n我们驻扎在空投点的一支舰队已交给 Phanon 军团。"
+
+acot_pmc.603.donation: "职责：资源捐赠 - §Y1 币§!"
+acot_pmc.603.donation.explain: "军团需要一些原材料，但是有什么用呢？\n\n支付列出的资源的前期成本以获得一枚硬币。"
+acot_pmc.603.donation.response: "是的，感谢您的贡献，添加§Y1§！,现在将Phanon Coin存入您的帐户。"
+
+acot_pmc.603.groundbattle: "职责：值班人员退休 - §Y3 硬币§!"
+acot_pmc.603.groundbattle.explain: “无论是因为流氓、失误，还是其他未公开的原因，都有军团要求处置一批执勤人员，他们的‘损失’不能直接与军团本身挂钩，需要第三方。” ,n\n将提供行星决策来对抗一大群执勤者部队，击败他们以赚取金币。”
+acot_pmc.603.groundbattle.response: "我们感谢您在此事上的酌处权。,一旦您摆脱了不良行为，我们将再次与您联系并给您奖励。"
+
+decision_acot_fight_phanon_soldier: "值班员退休"
+decision_acot_fight_phanon_soldier_desc: "不管出于什么原因，法农军团要求我们处理这些有缺陷的勤务人员。,尽管如此，它们仍然是强大的威胁，我们不应掉以轻心。,如果我们不能控制局势，可能会出现问题。"
+
+acot_pmc.6030.name: "勤务员的故事"
+acot_pmc.6030.desc: "货物打开了，但里面的值班人员似乎不知道自己的处境，事实上，他们似乎根本不明白自己的目的。\n\n§Y“我们是谁？我们是什么？”§!"
+acot_pmc.6030.a: "我们的士兵。"
+acot_pmc.6030.a.tooltip: "这些值勤人员现在将为我们服务，但这意味着我们没有得到我们要求的法农硬币。,另外，船上的补给品对我们也很有用。"
+acot_pmc.6030.b: "需要剔除的缺陷。"
+acot_pmc.6030.b.tooltip: "我们有我们的职责，他们也有。,帮不上忙"
+
+acot_pmc.6031.name: "职责结束"
+acot_pmc.6031.desc: "§Y“很好。”§!\n\n执勤指挥官敬礼，然后通过自我终止所有生命机能来自杀。,然后，其余队伍依次跟随，直到全部完成。,没有幸存者，他们都永远沉睡，无痛。"
+acot_pmc.6031.a: "嗯，这很容易。"
+acot_pmc.6031.b: "太吓人了。"
+
+acot_pmc.6032.name: "藐视职责"
+acot_pmc.6032.desc: "§Y“否定。我们不是缺陷。受到考验的是你们！”§!\n\n执勤指挥官命令特遣队向我们开火，战斗已经加入！"
+acot_pmc.6032.a: "各单位，随意开火！"
+
+acot_pmc.603.spacebattle: "职责：舰队退役 - §Y3 硬币§!"
+acot_pmc.603.spacebattle.explain: "无论是由于欺诈、故障还是其他未公开的原因，军团无敌舰队中的一些舰艇都必须由其他人处置。,我们必须填补这一角色。\n\n将提供一项全球决策来选择军团将丢弃必须摧毁的废弃舰队的系统。\n\n§R我们必须是提供杀戮的人,吹，否则这些硬币将流向其他人！§！"
+acot_pmc.603.spacebattle.response: "我们感谢您在此事上的酌处权。,一旦您处理好业务，我们将再次与您联系并给您奖励。"
+
+decision_acot_fight_phanon_fleet: "法能舰队退役"
+decision_acot_fight_phanon_fleet_desc: "按照法农军团的说法，这支特殊的舰队必须被摧毁，而且不是他们亲手能完成的。,完成任务取决于我们，我们最好确保是我们获得致命一击。\n\n选择此决定将召唤一支由法农军团舰艇组成的敌对舰队，必须将其摧毁才能获得奖励。"
+
+acot_pmc.603.research: "职责：研究分析 - §Y2 币§!"
+acot_pmc.603.research.explain: "军团每天需要处理许多科学数据。,但如果我们愿意帮助他们，一些硬币就可以是我们的。\n\n将提供一个需要花费大量科学领域资金的特殊项目，并且必须进行研究才能获得硬币。\n\n§ ,R我们必须在计时器到期之前研究该项目，否则它就会被浪费！§!"
+acot_pmc.603.research.response: "我们感谢您在此事上的酌处权。,一旦您解决问题，我们将再次与您联系并为您提供奖励。"
+
+ACOT_PHANON_DUTY_SCIENCE_PHYSICS: "声子任务分配：难以理解的物理"
+ACOT_PHANON_DUTY_SCIENCE_PHYSICS_DESC: "大量与符文、元宇宙、索布拉克、回收者或其他奇怪词语相关的深不可测的数据。,值得庆幸的是，大多数程序似乎都是自动化的，我们只需要......监督它？"
+ACOT_PHANON_DUTY_SCIENCE_SOCIETY: "法农职责分配：无意义的社会"
+ACOT_PHANON_DUTY_SCIENCE_SOCIETY_DESC: "奇怪地提到了诺万网络解剖学、Xharon Apex 序列或 Yuukonite 的主要政党。 ,IT 部门感觉这些类型的数据稍后可能会反过来影响我们。,但硬币就是硬币。"
+ACOT_PHANON_DUTY_SCIENCE_ENGINEER: "Phanon 任务分配：不可能的工程"
+ACOT_PHANON_DUTY_SCIENCE_ENGINEER_DESC: "多次提及 World Ships、Star Contra、Nova Bombs、Lightseekers、Q.A.M.,球体等。,一切看起来都很荒谬且难以理解，但对军团来说仍然非常重要。"
+
+acot_pmc.6033.name: "法农研究完成"
+acot_pmc.6033.desc: "我们已经完成了我们的研究工作，军团也已经登记了我们的努力并向我们的账户添加了 1 个 Phanon 币。"
+acot_pmc.6033.a: "最后。"
+
+acot_pmc.6035.name: "值班人员退休完成"
+acot_pmc.6035.desc: "我们成功击败了军团希望我们除掉的值班人员。,他们应该很快就会联系我们。"
+acot_pmc.6035.a: "非常好。"
+
+acot_pmc.6034.name: "法农军团赔偿服务"
+acot_pmc.6034.desc: "我们已收到您的更新。,感谢你的努力工作。 ,§Y3 硬币§!,已添加到您的帐户。,愿您也能利用这些额外的资源来解决您的麻烦。"
+acot_pmc.6034.a: "查庆."
+
+acot_pmc.6036.name: "法农军团叛徒舰队"
+acot_pmc.6036.desc: "我们要击败的舰队已经出现。,我们应该在他们开始制造麻烦之前尽快解决这个问题。"
+acot_pmc.6036.a: "给武器加电。"
+
+acot_pmc.6037.name: "法农军团叛徒舰队被摧毁"
+acot_pmc.6037.desc: "流氓舰队已经不复存在了。,虽然我们仍然不知道军团为何希望摧毁这些强大的舰艇，但行动已经完成。"
+acot_pmc.6037.a: "是时候兑现了。"
+
+###########
+
+acot_pmc.605.name: "Phanon Corps Ultra 服务"
+acot_pmc.605.desc.a: "尊敬的 [Root.GetName] 客户，军团谨此通知您，您订阅的 Phanon Corps Ultra 会员资格即将到期。,您想续订吗？,如果您现在续订，您将获得折扣和 1 个额外的 Phanon 硬币！"
+acot_pmc.605.desc.b: "再次问好，[Root.GetName]。,您订阅的 Phanon Corps Ultra 会员资格似乎即将到期。,您想续订吗？,如果您现在续订，您将获得折扣和 2 个额外的 Phanon 硬币！"
+acot_pmc.605.desc.c: "我来自 [Root.GetName] 的好朋友。,十年过去了，你知道这意味着什么吗？,更多免费金币等你来拿！"
+acot_pmc.605.a: "是的，你们的服务很有用。"
+acot_pmc.605.a.response: "交易完成。,军团感谢您一如既往的支持。 ,2 个额外的 Phanon 硬币已添加到您的帐户！,谢谢，祝您旅途安全且富有成效！"
+acot_pmc.605.b: "确实，继续交易。"
+acot_pmc.605.b.response: "交易完成。,军团感谢您一如既往的支持。 ,6 个额外的 Phanon 硬币已添加到您的帐户！,让信用继续滚动！"
+acot_pmc.605.c: "最后。"
+acot_pmc.605.c.response: "交易完成。 ,10 个额外的 Phanon 硬币已添加到您的帐户！"
+acot_pmc.605.d: "是否定的，我们不会续订。"
+acot_pmc.605.d.response: "肯定。,正在更新状态。,如果您改变主意，该选项仍然开放。"
+
+########################### PHANON BACKSTABBER
+
+acot_pmc.2001.name: "意外发生"
+acot_pmc.2001.desc: "我们受到高度加密的通信网络的欢迎。,我们不知道另一边是谁或是什么，但它的一些特征与法农军团的特征相似。,无论他们是什么，他们都希望与我们谈判。"
+acot_pmc.2001.a: "打开通讯通道。"
+acot_pmc.2001.a.tooltip: "方便的是，我们试图购买 Phanon Corp 的技术但被拒绝后不久就收到了。,也许他们的这款游戏还有更多内容？"
+acot_pmc.2001.b: "无视该命令。"
+acot_pmc.2001.b.tooltip: "法农军团通常不会这样做。,要么是一个骗局，要么是以后会对我们造成危害的东西。,我们应该谨慎行事。\n\n§R这将锁定 Phanon Corp 事件链结局的替代解决方案。§!"
+
+acot_pmc.2002.name: "???"
+acot_pmc.2002.desc: "你好，[Root.GetName]。,我们的消息来源告诉我，您正在寻求收购 Phanon 技术，是吗？\n\n我们可以帮助您。"
+acot_pmc.2002.a: "什么？,你是谁？"
+acot_pmc.2002.a.response: "这么说吧……我们是……这个星系中当前运行法农行动的竞争对手。,你看，军团内部的权力平衡变化很快。,他们面临的麻烦越多，我们就越容易……利用。"
+acot_pmc.2002.b: "你的信号。,你也是军团的一员吗？"
+acot_pmc.2002.b.response: "但是当然。,尽管我们服从不同的权力，但我们确实是法农军团的一部分。,如果你们银河系中的那些人……在冲突的混乱中……消失，我们将受益匪浅。"
+acot_pmc.2002.c: "我们怎么能相信你呢？"
+acot_pmc.2002.c.response: "就是这样。,你不能。,你永远不会相信来自法农军团、来自我们的任何人。,但如果它能满足你想要的，你在乎吗？"
+acot_pmc.2002.d: "军团知道这件事吗？"
+acot_pmc.2002.d.response: "对所有事情都持怀疑态度是每个特工的天性，但他们无法理解这一点。,对他们来说为时已晚。,只需按照我们的说明进行操作，您就会得到您想要的。"
+acot_pmc.2002.e: "这最好不要回来咬我们。"
+acot_pmc.2002.e.response: "军团内部的暗箭伤人是一种期望，而你，我的朋友，是我们任何人的潜在资产。,所以不，即使真相被揭露，你也不会得到任何结果。"
+acot_pmc.2002.f: "但你能提供什么？"
+acot_pmc.2002.f.response: "当地代理商不希望您拥有的东西。,他们的蓝图、他们的代码、他们的弱点。,一切。,我们所要求的只是一些……贡献。"
+acot_pmc.2002.g: "很好，我们现在达成协议了。"
+acot_pmc.2002.h: "我们还不信任你。"
+acot_pmc.2002.h.response: "那就随心所欲吧。,但请记住，我们一直在关注。,如果您改变主意，请使用这些反向通道坐标来访问此通信。"
+acot_pmc.2002.h.tooltip: "现在可以从 Phanon Corps 联系人菜单访问神秘联系人。"
+
+acot_pmc.2003.name: "对手法农军团特工"
+acot_pmc.2003.desc: "非常好。,让我们开始吧。"
+acot_pmc.2003.a: "我们想要他们的技术。"
+acot_pmc.2003.a.fail.response: "嗯...我认为你需要首先在现有技术上做更多的工作。,当你更......高级一点时再回来。"
+acot_pmc.2003.a.fail.alreadyhas.response: "这是我们目前能为您提供的限制。,如果你想要更强大的东西，我们必须进入下一阶段。"
+acot_pmc.2003.b: "他们的弱点是什么？"
+acot_pmc.2003.c: "目前的计划是什么？"
+acot_pmc.2003.c.response.a: "现在，专注于增强你的优势并获取新技术。,一旦你积累了两者，我们将进入下一阶段。\n\n此外，无论你做什么，都不要攻击主分支。,还不行，每一块拼图都必须先设置好。"
+acot_pmc.2003.c.response.b: "你做得很好，也学到了很多东西。,但如果你想取得……针对我们共同对手的全面胜利，这还不够。,你也许能够摧毁舰队并确保空投点的安全，但是法农特工不能那么容易摆脱，但这就是我们进来的地方。\n\n将我们提供的这个软件包安装到你的系统中，然后我们就准备好了,为下一阶段。,再次强调，在你这样做之前，你还不能攻击主分支。"
+acot_pmc.2003.c.response.c: "与我们共同的敌人作战。,占领他们的星际基地，然后是避难所。,我们将派出支援人员一路为您提供帮助。,哦，还有别死。"
+acot_pmc.2003.d: "如果你的这个计划成功的话，实际上会发生什么？"
+acot_pmc.2003.d.response: "我们自己的代理将接管运营，一切将恢复正常。,除了一个例外，您将赢得一份恩惠，永久的 Ultra 身份将属于您。,我们还可以向您保证许多其他好处。,至于Drop Point系统，我们只是说你将获得保留它一段时间的权利。"
+acot_pmc.2003.e: "暂时没有别的事了。"
+
+acot_pmc.2004.name: "对手法农军团特工"
+acot_pmc.2004.desc.a: "所以你正在加紧盘子。,非常好。,您的阿尔法技术将作为进一步适应的良好起点。,暂时忘记调整军团使用的技术吧，你还差得很远。,但你可以在两者之间做一些垫脚石。,我们将向您发送这些原理图和数据，前提是您可以支付费用。,为了简单起见，我们将这项技术称为“Phi”。"
+acot_pmc.2004.desc.b: "现在您已经了解了 Phi 的基础知识。,是时候继续进行更高级的复制了。,一旦你获得了资源，我们就会开始交易。"
+acot_pmc.2004.desc.c: "你已经做得很好了，只剩下最后一块拼图了。,获取资源并进行最后一笔交易。,一旦完成研究，最后阶段就可以开始。"
+acot_pmc.2004.a: "等等，我们需要付钱给他们吗？"
+acot_pmc.2004.a.response: "当然，我们是法农军团，不是圣诞老人军团。,此外，就 Coprs 政策而言，这样做...交易被认为是合法的。,相信我们，如果以公事公办的方式做事会更好。"
+acot_pmc.2004.b: "总支会怀疑什么吗？"
+acot_pmc.2004.b.response: "当然可以，但请交给我们。,一旦我们开始自己的任务，他们就没有时间来对付你了。,他们可能会问某些问题，但只要您不透露您的牌，就不会发生任何问题。"
+acot_pmc.2004.c.a: "好吧，这最好是值得的。"
+acot_pmc.2004.c.a.response: "赚钱很容易，挑战在于你从中赚到的钱。,现在正在上传数据。"
+acot_pmc.2004.c.b: "那么我们就结束这件事吧。"
+acot_pmc.2004.c.b.response: "如果这会让你感觉好一点，想想你在战斗中浪费了多少钱，哈哈。"
+acot_pmc.2004.c.c: "这最好是最后一次。"
+acot_pmc.2004.c.c.response: "至少在你花的钱方面会是这样。,但困难而有趣的部分还没有到来。"
+acot_pmc.2004.d: "没关系，我们想谈谈别的事情。"
+acot_pmc.2004.e: "我们还不能付款。,也许以后吧。"
+
+acot_pmc.2005.name: "Phanon Corps 事实核查服务"
+acot_pmc.2005.desc: "抱歉耽误您的时间，[root.GetName]。,但我们这边遇到了一些技术问题，传感器似乎在绿色和黄色之间波动，给我们发出错误警报，表明您可能藏有一些可能属于 Phanon 军团的机密数据和设备。,我们希望对您的系统进行直接扫描。,我们将补偿这一不便。"
+acot_pmc.2005.a: "可笑，我们为什么要保守你的秘密！"
+acot_pmc.2005.a.response: "这样做是出于安全考虑，您将得到补偿。"
+acot_pmc.2005.b: "我们是您的 Ultra 会员，请给予一些尊重。"
+acot_pmc.2005.b.response: "当然，你是对的。,我们不会进一步强调这个问题。,这可能是我们这边的一个错误。"
+acot_pmc.2005.c: "滚出我们的系统，这不关你的事！"
+acot_pmc.2005.c.response: "现在你表现得格外sus。,更有理由对你进行检查。"
+acot_pmc.2005.d: "是的，我们有你的一些玩具，呃。"
+acot_pmc.2005.d.response: "是这样吗？,看来我们的安全肯定已经被破坏了。,我们感谢您的诚实，我们将相应地更新我们的加密。,请与§Y4§一起接受这些奖励！,法农硬币为您解决麻烦。"
+acot_pmc.2005.e: "相反，我们可以付钱给你，让你不要打扰我们吗？"
+acot_pmc.2005.e.response: "很好。,军团感谢您的贡献和热情。,我们不会进一步追究此事。"
+
+acot_pmc.2006.name: "Phanon Corps 事实核查服务"
+acot_pmc.2006.desc.a: "正在运行扫描...阴性信号。\n\n看来你已经没事了，[root.GetName]。,抱歉浪费了您的时间，请享受这个补偿方案。"
+acot_pmc.2006.desc.b: "正在运行扫描...\n\n不幸的是，警报似乎是肯定的。,我们不知道你是如何拥有这些技术的，但这意味着我们的安全系统已受到损害。,我们不会责怪你，但错误在于我们。,有人背叛了我们，他们会为此负责。\n\n收下这个补偿包，不要再篡改了。,祝你今天过得愉快。"
+acot_pmc.2006.a: "你真慷慨。"
+acot_pmc.2006.a.tooltip: "我们的欺骗行得通"
+acot_pmc.2006.b: "那好吧。"
+acot_pmc.2006.b.tooltip: "军团似乎已经更新了他们的安全系统和设计。,我们曾经对他们拥有的任何优势可能不再有效。"
+
+acot_pmc_security_update_debuff: "过时的声子分析"
+acot_pmc_security_update_debuff_desc: "没有任何内容与数据库匹配了！,承诺的秘密排气口在哪里？！"
+
+acot_pmc.2007.name: "对手法农军团特工"
+acot_pmc.2007.desc.a: "看起来你成功地处理了这个情况。,干得好，我们也掩盖了我们的足迹。,在我们采取最后行动之前，他们不会再怀疑任何事情。,再说一遍，干得好。"
+acot_pmc.2007.desc.b: "哦，好吧，我们假设这可能会发生。,但无论如何，这次挫折不会阻止我们实现最终目标。,继续工作。"
+acot_pmc.2007.desc.c: "笨蛋。,现在你只是让我们俩的处境变得更加困难，没有什么不可理解的原因。,如果您不认真对待这件事，请忘记我们的交易。,我们会找到另一种方式。"
+acot_pmc.2007.a: "相当不错，对吧？"
+acot_pmc.2007.a.response: "相当不错，是的。,只是不要让它超出你的头脑。"
+acot_pmc.2007.b: "只要一切顺利。"
+acot_pmc.2007.b.response: "如果你正确地扮演你的角色，那么它就会成功。"
+acot_pmc.2007.c: "抱歉，那太愚蠢了，是的。"
+acot_pmc.2007.c.response: "请不要再犯任何错误并坚持计划。,会更好。"
+acot_pmc.2007.d: "别再表现得像个老板了。"
+acot_pmc.2007.d.response: "我们来这里是为了建立伙伴关系，而不是照顾孩子。,你无法表现出常识只会给我们带来更多麻烦。,考虑一下被取消的交易。,真是浪费时间。,愚蠢的平民。\n\n§R我们失去了对后通道的访问权。,此外，他们还侵入了我们的系统并窃取了我们的一些资源，并植入了需要清除的相当令人讨厌的病毒。§!"
+
+acot_pmc_rival_hack_debuff: "§R令人讨厌的离别礼物§!"
+acot_pmc_rival_hack_debuff_desc: "别惹军团。"
+
+acot_pmc.2008.name: "对手法农军团特工"
+acot_pmc.2008.desc: "您已经获得了完成计划下一阶段所需的大部分技术。,所以请仔细聆听，因为一旦舞台搭建完毕，就不会再有回头路了。,所有的手套都会脱掉，我们的敌人不会给我们任何空间，所以你也不能。\n\n首先安装我们将为你提供的这个软件包。,这将使赔率变得均匀。"
+acot_pmc.2008.a: "这是什么包？"
+acot_pmc.2008.a.response: "作为一种发射器，它将使我们能够将我们的部队直接发送到您的位置并绕过我们所有敌人的加密和防御网络。,只需按照提供的说明进行操作，一切都会变得清晰。"
+acot_pmc.2008.b: "我们宁愿不安装恶意技术。"
+acot_pmc.2008.b.response: "不要目光短浅！,我们现在已经接近结束了。,如果我们能为你们提供直接支持，那么对付我们的敌人就会容易得多。,现在独自攻击军团只会导致不必要的麻烦。,相信计划。,这才是最重要的。"
+acot_pmc.2008.c: "很好。,我们开始做吧。"
+acot_pmc.2008.c.response: "非常好，一旦软件包安全并安装，将提供进一步的说明。"
+acot_pmc.2008.c.tooltip: "§Y完成这个特殊项目将在法农军团事件链中开启一条不归路！,如果您想按照自己的方式对抗法农军团，请忽略这个特殊项目§！"
+acot_pmc.2008.d: "抱歉，我们不会这样做。"
+acot_pmc.2008.d.response: "那么我们就浪费了时间。,不幸的是，但可以预见。,再见，我们不会再见面了。"
+acot_pmc.2008.d.tooltip: "§Y这将永久地将您锁定在法农事件链的替代路线之外。,如果您选择这条道路，您将需要按照自己的方式与法农军团作战。§!"
+
+ACOT_PHANON_RIVAL_PACKAGE: "对手Phanon Corps特别套餐"
+ACOT_PHANON_RIVAL_PACKAGE_DESC: "据竞争对手联系人称，这将使他们能够直接向我们提供资产，帮助我们对抗当地的法农军团。,一旦完成，我们就应该准备一场真正的战斗。\n\n§Y完成这个特殊项目将在法农军团事件链中开启一个不归路！,如果您想按照自己的方式对抗法农军团，请忽略这个特殊项目§！"
+
+acot_pmc.2009.name: "手套脱了"
+acot_pmc.2009.desc: "该包已受到保护，正在传输。,信号不再明显。,银河系中每个拥有功能传感器的人都知道我们在做什么。,法农军团的主力显然不会喜欢这样。,他们的时间即将到了。,我们只需要生存。"
+acot_pmc.2009.a: "是时候发挥我们的双手了。"
+acot_pmc.2009.b: "这个设备能更好地完成它的工作，否则我们会非常害怕。"
+
+acot_pmc_rival_analysis_buff: "超级声子发射机"
+acot_pmc_rival_analysis_buff_desc: "多亏了我们的恩人安装的设备，我们知道了公司船只的许多新弱点。"
+
+acot_pmc.2010.name: "法农军团报复者"
+acot_pmc.2010.desc.a: "[Root.GetName]，你危害法农军团安全的行为不能再被忽视。,因为你，这个星系不再值得我们怜悯。,你和其他所有的平民都会被我的手卷走。,然后我就会让这个闹剧的幕后黑手为他们的背叛付出代价！"
+acot_pmc.2010.desc.b: "[Root.GetName]，我们遗憾地通知您，与您共享这个星系的帝国之一已明确表示自己是军团的敌人。,截至目前，清除协议已激活。,你和每一个可悲的平民都将被毁灭。,与你的最后时刻保持平静。"
+acot_pmc.2010.a: "我们一直在等待这个！"
+acot_pmc.2010.a.tooltip: "§RA我也§！"
+acot_pmc.2010.b: "你们这些杂种，花了你们足够长的时间了。"
+acot_pmc.2010.b.tooltip: "§R为遗忘做好准备，可怜的平民。§!"
+acot_pmc.2010.c: "荒谬的！,我们不是你的敌人！"
+acot_pmc.2010.c.tooltip: "§R好吧，你现在就是了。,做好准备！§!"
+acot_pmc.2010.d: "但我们是您的超级会员！"
+acot_pmc.2010.d.tooltip: "§R没有区别。,你还是有罪。§!"
+acot_pmc.2010.e: "可惜不是我们先做的。"
+acot_pmc.2010.e.tooltip: "§RI 瞧……所以你是他们中的一员。,所有阴谋者都必须被铲除。§!"
+
+acot_pmc.2011.name: "法农觉醒了！"
+acot_pmc.2011.desc.a: "由于某些原因，法农军团已经提高了全面戒备，并调集了舰队进行战争。,所有合同和服务均已终止。,看来他们会攻击所有人，包括我们。,我们必须保卫自己！"
+acot_pmc.2011.desc.b: "看来别人也有和我们一样的想法。,法农军团已进入全面戒备状态，并动员舰队备战。,所有合同和服务均已终止。,他们把每个人都当作敌人。,我们必须保卫自己。"
+acot_pmc.2011.a: "什么？,但我们什么也没做！"
+acot_pmc.2011.b: "是谁先吓到他们的？"
+
+acot_pmc.2012.name: "敌对舰队增援！"
+acot_pmc.2012.desc.a: "好消息，第一批恩人先锋援军已经抵达！,他们以大型追星者中队的形式出现。,他们可能无法独自对抗法能舰队，但他们应该为我们提供额外的火力支援。"
+acot_pmc.2012.desc.b: "我们的恩人的更多帮助已经到来！,这一次，这是一个更大的追星者中队，由他们自己的一名特工领导，他驾驶着私人星际入侵者！"
+acot_pmc.2012.desc.c: "第三批也是最后一批恩人先锋援军已经抵达。,他们派出了更多的追星者和一些歼星舰来援助我们。,如果我们能再坚持一会儿，那么主力阿拉马达就将由我们指挥。"
+acot_pmc.2012.a: "出色的！"
+acot_pmc.2012.b: "非常好！"
+acot_pmc.2012.c: "极好的！"
+
+acot_pmc.2013.name: "敌对舰队增援！"
+acot_pmc.2013.desc: "“§Y霸天虎无敌舰队报告。我们由你指挥，[root.GetName]！”§!\n\n我们的恩人的主舰队终于抵达了。,是时候向我们的敌人发起战斗并彻底粉碎他们了！"
+acot_pmc.2013.a: "是时候埋葬愚人了。"
+########################### PHANON DIGGING SERVICE
+
+acot_pmc.7.name: "法农军团查询服务"
+acot_pmc.7.desc: “重定向至咨询频道。您好！亲爱的顾客，您想了解我们什么？”
+acot_pmc.7.a: "法农军团到底是什么？"
+acot_pmc.7.a.response: "法农军团是银河官方认可的准军事服务组织。,简而言之，我们是雇佣力量。,如果您有问题，可以来找我们，我们很可能可以帮助解决问题，当然是有代价的。"
+acot_pmc.7.b: "你和其他飞地一样吗？"
+acot_pmc.7.b.response: "如果您的意思是我们是中立的服务提供商，那么是的。,但我们提供的服务更......独特的利益。,作为一家自筹资金的组织，我们不会因缺乏客户而面临任何直接的财务危机。,因此，我们以昂贵但高质量的服务将自己与不太精致的竞争对手区分开来。"
+acot_pmc.7.c: "你拥有令人印象深刻的技术，它们是什么？"
+acot_pmc.7.c.response: "确实令人印象深刻，是吗？,尽管出于安全考虑，我们不允许透露太多有关我们规格的信息，但要知道我们使用的电源不是你们的帝国可能能够获得的。,并不是说你没有能力，但它们需要某些……整个银河系不容易满足的条件。,但我只想说，你会发现我们的技术和武器比大多数人都强，很少有人能抵挡我们的火力。"
+acot_pmc.7.d: "军团有真正的目标吗？"
+acot_pmc.7.d.response: "当然，尽管这可能看起来不合常规，而且对于像您这样的客户来说可能有点难以理解。,但可以说的是，军团非常有兴趣维持跨星系权力之间的某些……现状。,但请放心，对于那些不首先寻求我们侵略的人来说，我们不会构成威胁。,我们是一个中立的政党，并且愿意保持中立。"
+acot_pmc.7.e: "你们实际上提供什么服务？"
+acot_pmc.7.e.response: "各种类型的服务，包括佣金、破坏、信息和其他更多……非正统的事情。,控制面板将使您大致了解军团可以为您提供什么。,请注意，如果采取敌对行动，服务将被暂停，但这应该是常识。"
+acot_pmc.7.f: "法农军团有多大？"
+acot_pmc.7.f.response: "比你想象的要大。,如果我们的门户网站还不够暴露的话，你应该已经能够猜到我们的影响力已经超出了当地的明星。,但这就是您需要知道的全部。,我们人数众多，而且我们永远不会真正处于劣势，这才是最重要的。"
+
+###########################
+ 
+acot_pmc.9.desc: "你们的舰队对军团发起了无端攻击。,军团现在将采取积极的反应来保护我们的资产。"
+acot_pmc.9.a: "那是一场意外！"
+acot_pmc.9.a.response: "逻辑另有规定。"
+acot_pmc.9.b: "你所有的基地都属于我们。"
+acot_pmc.9.b.response: “适当注意到了侵略行为。”
+
+acot_pmc.900.title: "打击侵略行为"
+acot_pmc.900.desc: “无论有意与否，我们对法农军团的侵略已经导致了敌对反应。我们现在正与这个神秘组织正式交战。我们相信，了解该军团的技术能力对于任何正在进行的战斗都至关重要。不幸的是，,他们的大部分部件会在飞船被摧毁时分解并自毁，因此我们将无法直接分析他们飞船的任何碎片。\n\n但是，我们相信，如果我们能够摧毁足够多的他们的飞船，我们的研究人员,也许能够形成一种模式并围绕其加密系统制定对策，使我们能够结合我们自己的技术和他们的技术来开发新组件。”
+acot_pmc.900.a: "我们会取得胜利。"
+acot_pmc.900.b: "他们无法阻止我们。"
+
+acot_phanon_decipher_buff: "声子对策"
+acot_phanon_decipher_buff_desc: "从法农碎片中收集到的碎片被用来识别他们飞船的弱点。,我们应该在军团更新设计之前充分利用它。"
+
+acot_pmc.9001.title: "了解你的敌人"
+acot_pmc.9001.desc: “我们与军团的战斗让我们有机会研究他们的神秘技术是如何工作的。虽然他们几乎所有的设备在被破坏时都会崩溃，很可能是自毁机制的一部分，但有多个碎片可以研究。,如果足够幸运，我们也许能够通过将这些碎片与我们自己的 Alpha 组件相结合来开发新技术，以平衡竞争环境。\n\n或者，我们可以简单地将这些组件液化成原材料，并将其数据插入到我们的战斗计算机的目标中,系统，这将使我们更容易在战斗中暂时损坏他们的船只。”
+acot_pmc.9001.a: "我们将研究他们的技术。"
+acot_pmc.9001.a.tooltip: "将需要 50 个碎片并用于分析军团的技术。"
+acot_pmc.9001.b: "他们没什么用，找到他们的弱点就够了。"
+acot_pmc.9001.b.tooltip: "我们不应该尝试实施他们的技术，而应该开发对抗他们的方法。,所有碎片都将被耗尽，以暂时增强我们对抗军团的武器，直到他们开发出对抗我们算法的方法。,任何未来的碎片都将简单地转化为合金，每个碎片的比例为 100 种合金。"
+
+acot_pmc.9002.title: "内在的秘密"
+acot_pmc.9002.desc: “现在我们对法农工程和技术更加熟悉，是时候利用我们收集的知识和碎片来更多地了解军团了。”
+acot_pmc.9002.a: "扩大视野。"
+acot_pmc.9002.a.tooltip: "将需要 200 个碎片并用于分析军团的更多技术。"
+
+acot_pmc.9003.title: "菲结论"
+acot_pmc.9003.desc: “我们已经准备好做最后的准备工作，编译军团所有剩余的碎片，以完成最后缺失的基于 Phi 的技术。一旦这个过程完成，我们将拥有完整的 Phi 武器库。任何未来的碎片都将,自动以每个碎片 100 种合金的速度转化为合金。”
+acot_pmc.9003.a: "就这样结束了。"
+acot_pmc.9003.a.tooltip: "需要 1000 个碎片来分析更多的军团技术才能完成 Phi 级技术。,任何未来的碎片都会自动以每个碎片 100 合金的速度转化为合金。"
+
+acot_pmc.10.title: "法能星基地被禁用！"
+acot_pmc.10.desc.a: "经过长时间的战斗，法农军团的星际基地已经瘫痪。,对我们来说幸运的是，由于星际基地的完全自动化性质，我们的网络专家已经设法重新路由其系统以响应我们的命令，并且我们现在正在承担直接控制权。,作为回应，军团已经使用某种先进的超光速跳跃序列撤退了他们的大型星际旅行者，而我们此时无法再追踪它的存在。,剩下的唯一障碍是避难所。,如果我们想继续，就必须捕获它。"
+acot_pmc.10.desc.b: "经过长时间的战斗，法农军团的星际基地已经瘫痪。,对我们来说幸运的是，由于星际基地的完全自动化性质，我们的网络专家已经设法重新路由其系统以响应我们的命令，并且我们现在正在承担直接控制权。,位于中心的巨大星际旅行者似乎正试图逃跑，但它的超光速系统已被堵塞。,我们假设我们的恩人参与了这件事。,这意味着现在只有避难所才是威胁。,如果我们想继续，就必须捕获它。"
+acot_pmc.10.desc.c: "我们设法再次控制了降落点。,这次我们要确保它站在我们这边。"
+acot_pmc.10.a: "让我们开始工作吧。,必须占领避难所。"
+acot_pmc.10.a.tooltip: "试图占领避难所可能会导致军团试图以更激烈的抵抗重新夺回它。,我们应该小心。"
+acot_pmc.10.b: "不，风险太高了。,避难所必须被摧毁。"
+acot_pmc.10.b.tooltip: "试图摧毁避难所的风险似乎较小，军团似乎并不关心避难所的安全，而是关心他们想向我们隐瞒的秘密。,但谁知道他们会尝试做什么呢？"
+acot_pmc.10.c: "让我们看看我们的恩人的下一个指示是什么。"
+acot_pmc.10.c.tooltip: "他们会知道下一步该做什么。"
+acot_pmc.10.d: "的确。"
+
+acot_pmc.1000.desc.a: "不可思议！,我的防御可能会被突破……但这还没有结束！,你不会轻易突破我的避难所的防御，我的部队很快就会到达，将这个星系烧成灰烬！\n\n§遵守红色警报协议！,很快你的银河系就会燃烧！§!"
+acot_pmc.1000.desc.b: "诅咒你和那些该死的背后捅刀子的人！,我不会让事情就这样结束...\n\n什么？,你做了什么！？,星际旅行者的控制系统没有响应！\n\n§RTTRAITORS！,我不肯被这样打！,不是由你这样的人决定的！§!"
+acot_pmc.1000.a: "我们不会被你吓倒。"
+acot_pmc.1000.a.response: "§我的错误必须得到纠正。 ,PHANON 必须称霸§！"
+acot_pmc.1000.b: "尽你所能，公司混蛋！"
+acot_pmc.1000.b.response: “§死亡最终会夺走我们所有人的生命。对此请放心。§!”
+acot_pmc.1000.c: "每只手都反对你。"
+acot_pmc.1000.c.tooltip: "看来我们的接触已经完成了他们的任务，敌人无处可逃，无处可藏。"
+acot_pmc.1000.c.response: “§你不配获得这场胜利！我的人会掩护我逃跑，我会回来！§!”
+
+acot_phanon_vault_disable_shield: "打倒法农"
+acot_phanon_vault_disable_shield_type: "黑客攻击"
+acot_phanon_vault_disable_shield_desc: "贪婪到此结束"
+acot_phanon_vault_disable_shield_monthly_change_tooltip: "贪婪到此结束"
+
+acot_pmc.1001.title: "明天之后的路"
+acot_pmc.1001.desc.a: “虽然我们在最近对军团的胜利后有理由庆祝，但军团代表的不祥反应令人非常担忧。军团已经放弃了所有礼貌和专业精神的外表，所以很明显，他们打算摧毁,我们的银河系作为报复。\n\n只要军团仍然控制着他们神秘的次元镜，传送点就不会安全，这似乎负责派遣新的援军。避难所内的秘密应该是关键。,禁用它。\n\n防护罩使避难所从外部几乎坚不可摧，但它似乎无法阻止入侵部队登船，因此我们的下一个合乎逻辑的目标应该是组建一支强大的军队并从内部摧毁他们的防御。”
+acot_pmc.1001.desc.b: “刚刚发生了大事，显然帕农军团的传送点已经被另一个帝国占领了！军团正在全面撤退，他们的星际旅行者也消失了。目前，军团已经停止了与所有人的所有通讯和服务。目前未知。”,接下来会发生什么。”
+acot_pmc.1001.a: "准备进攻！"
+acot_pmc.1001.b: "他们已经如愿以偿了。,很快我们就一劳永逸地解决了他们。"
+acot_pmc.1001.c: "这不可能是好事。"
+acot_pmc.1001.d: "有人自找麻烦。"
+
+acot_pmc.1003.name: "法农军团报复者"
+acot_pmc.1003.desc.a: "你做到了！,干得好，[root.GetName]。,他们的防御已经崩溃了！,现在，你必须给予致命一击！,使用我们将提供的这些军队，他们会帮助你摧毁避难所，这是他们最后的据点。\n\n至于星际旅行者，我们的特工大师已经覆盖了它的紧急 FTL 代码，但它只能暂时起作用。,如果你想捕获它，请使用科学船并指示他们使用这些代码来锁定引擎和驱动器。,但一定要快点，否则它会和敌方特工一起逃跑。"
+acot_pmc.1003.desc.b: "[Root.GetName]，现在你必须知道主分支的主系统已经被占领了。,但正如我们所建议的，该协议已经与另一个帝国敲定，因此他们将从现在开始采取行动。,但无论如何，我们的代理大师还是认可你的贡献，所以我们为你准备了这些补偿方案。,但如果你想把事情掌握在自己手中，我们不会干预。,随心所欲地攻击系统的新主人。\n\n§Y根据协议，掉落点的所有权已转移到另一个帝国。,如果我们还想认领的话，就得稍后再处理了。"
+acot_pmc.1003.desc.c: "看来 [event_target:acot_phanon_non_spook_country.GetName] 首先声称拥有了降落点系统。,但根据我们的协议，我们会将系统的控制权转移给您。,我们有点失望，因为你不是对我们的敌人造成致命一击的人，但这已经不重要了。,他们的防御已经崩溃。,现在，是最后一击的时候了。,使用我们将提供的这些军队，他们会帮助你摧毁避难所，这是他们最后的据点。\n\n至于星际旅行者，我们的特工大师已经覆盖了它的紧急 FTL 代码，但它只能暂时起作用。,如果你想捕获它，请使用科学船并指示他们使用这些代码来锁定引擎和驱动器。,但一定要快点，否则它会和敌方特工一起逃跑。"
+acot_pmc.1003.a: "你到底是怎么阻止星际旅行者的？"
+acot_pmc.1003.a.response: "相信我们，如果没有您的贡献，这是不可能的，但正如我们所说的。,这不会持续太久，如果你想保护这艘船，你需要派一艘科学船到那里并破解它。"
+acot_pmc.1003.b: "避难所的防御力有多强？"
+acot_pmc.1003.b.response: "强大是轻描淡写的。,由于敌方特工隐藏在那里，他们所有可用的部队很可能会聚集在最坚固的位置。,你必须集结最强大、最强大的入侵部队，并摧毁驻军。,请记住使用我们将提供的力量，它们在降落点本身已准备就绪。\n\n哦，请注意，虽然避难所具有内置的自我修复机制，但它可能不足以阻止来自更多的损坏,强大的武器，所以尽量避免使用带有......你知道......很多附带损害的军队。"
+acot_pmc.1003.c: "好吧，那么我们就开始吧。"
+acot_pmc.1003.c.response: "祝你好运。,不要低估我们的敌人。"
+acot_pmc.1003.d: "现在这是一个想法...不过还是谢谢你的钱。"
+acot_pmc.1003.d.response: "很高兴，我们对您未来在其中的角色感兴趣。,或许，yy 可能会让我们感到惊讶。"
+acot_pmc.1003.e: "我们仍然认为这笔交易是嘉宝的。"
+acot_pmc.1003.e.response: "不幸的是，是的。,但正如我们所说，如果您以后想从他们那里夺走系统，您仍然可以这样做。"
+
+acot_pmc.1004.title: "独自在黑暗中"
+acot_pmc.1004.desc: “黑客攻击完成。星际旅行者现在哪儿也去不了。敌人无处可逃。是时候消灭他们了。”
+acot_pmc.1004.a: "就像一只走投无路的动物。"
+
+acot_pmc.1005.title: "失足的猎物"
+acot_pmc.1005.desc: “不幸的是，我们没能在星际旅行者号恢复系统之前及时入侵他们。敌方特工利用这个快速机会登上了这艘巨大的飞船并消失了。”
+acot_pmc.1005.a: "那好吧。"
+
+acot_pmc.1006.name: "法农军团可耻散布者"
+acot_pmc.1006.desc: "哈哈哈！,你失败了！,拿走该死的系统和你想要的东西，但你永远找不到我！,你永远不会带走我！\n\n我在嘲笑你，平民！,再见！,我们再也见不到对方了！"
+acot_pmc.1006.a: "你的“朋友”会找到你。"
+acot_pmc.1006.a.response: "我指望它！,他们将为这次背叛付出代价！"
+
+acot_pmc.1007.name: "对手法农军团特工"
+acot_pmc.1007.desc: "看来敌方特工逃跑了。,哦，好吧，我猜我们不能指望一切都进展顺利。,但这是我们该担心的事。\n\n继续你的工作，消灭避难所的驻军。"
+acot_pmc.1007.a: "逃跑的特工以后会不会有问题？"
+acot_pmc.1007.a.response: "至少不适合你。,其余的你不需要知道。"
+acot_pmc.1007.b: "你不能覆盖Vault吗？"
+acot_pmc.1007.b.response: "敌方特工仍然有两名特工在现场充当最后的防火墙防护。,你必须将它们与其他防御工事一起消灭。"
+acot_pmc.1007.c: "对失败感到抱歉。"
+acot_pmc.1007.c.response: "帮不上忙。,这是一场混乱的战斗。,但胜利仍然触手可及。"
+acot_pmc.1007.d: "正确的。,让我们继续保持下去。"
+acot_pmc.1007.d.response: "请记住，我们会关注。"
+
+ACOT_PHANON_DISABLE_TRAVELLER: "星际旅行者黑客"
+ACOT_PHANON_DISABLE_TRAVELLER_DESC: "利用我们的捐助者提供的代码，我们可以阻止星际旅行者逃跑。,但距离他们从系统入侵中恢复过来的时间已经不多了！"
+
+acot_pmc.1010.desc: "亵渎！,你竟敢破坏我的金库！？,你的傲慢无底线！,很好，让我们看看谁更快！\n\n§RENGAGE 致命协议！,我们不会安静地进入虚空！§!"
+acot_pmc.1010.b: "不管怎样，你对这个星系的统治到此结束。"
+acot_pmc.1010.b.response: “§死亡最终会夺走我们所有人的生命。对此请放心。§!”
+
+acot_pmc.11.title: "夺取金库"
+acot_pmc.11.desc.a: “我们对军团避难所的初步入侵是成功的。虽然避难所的许多防御者已经进一步撤退到其复杂而令人费解的走廊内，但正面部分已经安全并准备好进行调整。从现在开始，深入将变得更加困难，并且,如果有机会的话，军团无疑会试图夺回避难所，如果我们之前没有研究过他们的碎片，那么现在就是时候了，因为如果我们想了解他们的技术是如何进行的，那么研究他们的技术将至关重要。,金库工作了。”
+acot_pmc.11.desc.b: “我们对军团避难所的初步入侵已经成功。他们的其余防御部队以及特工的特工保镖已经在更深处准备了一个坚固的阵地。这是他们的最后一道防线。\n\n我们共同的朋友已经提供了,我们又增援了一波，但他们可能还不够。”
+acot_pmc.11.desc.c: “我们再次能够重新控制避难所，敌人已经撤退。我们的人民甚至我们的任何基础设施都没有幸存者的踪迹，军团确保将其全部清理干净。如果我们想阻止,为了防止这种情况再次发生，避难所必须始终保持安全。”
+acot_pmc.11.a: "我们把他们困住了，他们哪儿也去不了。"
+acot_pmc.11.a.tooltip: "一旦我们准备好了，就可以通过现在应该可用的行星决策来攻击避难所的无限走廊。"
+acot_pmc.11.b: "我们把他们赶出去吧。"
+acot_pmc.11.b.tooltip: "一旦我们准备好了，就可以通过现在应该可用的行星决策来攻击避难所的无限走廊。\n\n敌对的法农军团特工已经提供了额外的军队增援。"
+acot_pmc.11.c: "我们不要养成这种习惯。"
+
+acot_pmc.12.title: "避难所外层走廊突击"
+acot_pmc.12.desc: “我们的部队已经集结完毕，准备攻击这个所谓的无限走廊的最外层。扫描仪显示有相当多的抵抗力量正在蹲守，等待我们的攻击。如果我们从正面攻击，我们预计会遇到大量的抵抗力量。”,抵抗，但我们将拥有优越的掩护优势，还有一条可能的侧翼路线会让我们的敌人暴露，但我们必须处理一些额外的死亡陷阱。最后，这个区域有一个 psi 气体终端。,这可能会降低双方任何生存单位的协调性和士气，我们从哪里发起攻击？”
+acot_pmc.12.a: "前线强攻，无一幸存！"
+acot_pmc.12.a.tooltip: "得益于卓越的掩护和高度，我们的部队将在 60 天内获得额外 25% 的生命值，或者直到战斗结束。\n\n§预期抵抗：§!\n\n§R<<法农仿生师>>§ ,!\n§H80§!,法农值勤人员\n§H20§!,法能精英\n§H1§!,法农军官"
+acot_pmc.12.b: "从侧面攻击并将它们冲走。,陷阱可以被禁用。"
+acot_pmc.12.b.tooltip: "替代路线使法农的部队暴露在外，使他们的生命值减少 25%，士气减少 25%，持续 180 天或直到战斗结束。,但我们必须应对一些额外的自动防御，这些防御不会受到这些惩罚。\n\n§预期抵抗：§!\n\n§R<<Phanon Bionic Division>>§!\n§H80§ ,！,法农值勤人员\n§H20§!,法能精英\n§H1§!,法农军官\n§R<<法农自动防御>>§!\n§H5§!,法农步哨枪"
+acot_pmc.12.c: "激活 Psi-Gas，恐吓他们！"
+acot_pmc.12.c.tooltip: "使用Psi-Gas将使双方所有建制军队（包括载人车辆）受到的伤害减少10%，士气减少75%。,此效果将对所有战斗人员持续 180 天，并且在战斗后不会消失。\n\n§预期抵抗：§!\n\n§R<<法农仿生师>>§!\n§H80§!,法农值勤人员\n§H20§!,法能精英\n§H1§!,法农军官"
+acot_pmc.12.d: "取消攻击。,我们需要更多的准备。"
+
+acot_pmc.1200.title: "突击成功"
+acot_pmc.1200.desc.a: “在避难所内经过一番激烈的战斗后，我们的军队成功地清除了外层走廊内的所有敌对势力。所有幸存的法农部队都进一步撤退到了中区。随着外层区域的安全，我们可以更多地利用,此外，我们的清理人员设法获取了该部分中存储的许多数据和技术。\n\n中间走廊暂时被锁定，需要一段时间才能被攻击，我们应该使用它。,这次为了下次战斗而恢复兵力，军团无疑会加倍防御。”
+acot_pmc.1200.a: "干得好！"
+
+acot_pmc.13.title: "避难所中部走廊突击"
+acot_pmc.13.desc: “我们的军队再次做好了进攻的准备，这次是在无限走廊的中段。抵抗会比上次更加激烈，但如果我们有效地部署我们的军队，更广阔的空间可能对我们有利。,这里完全是机械化的，没有建制部队，从正面进攻是不明智的，因为军团已经布置了额外的陷阱和自动防御系统，这里有一个实验性的异形收容区，可以用来分散我们的敌人的注意力。,一旦军团消失，他们肯定会向我们发起攻击。最后，我们可以分配大量合金、能源和神秘资源来建造强大的攻城武器，这将创造一条可以绕过这些自动化防御的新攻击路线。”
+acot_pmc.13.a: "没有什么能阻止我们。,我们从前门进去！"
+acot_pmc.13.a.tooltip: "从戒备森严的正面区域进攻将需要我们应对额外的自动化防御。\n\n§预期抵抗：§!\n\n§R<<法农机械化师>>§!\n§H80§!,法农枪防御者\n§H30§!,法农宙斯盾防御者\n§H10§!,法农突击队后卫\n§H1§! ,Phanon Defender Prime\n§R<<Phanon 自动防御>>§!\n§H10§!,法能步哨枪\n§H5§!,法农死亡陷阱"
+acot_pmc.13.b: "释放异形！,我们稍后再处理他们。"
+acot_pmc.13.b.tooltip: "大量增强型控制论异形将加入我们的军队 360 天，之后他们将恢复敌对状态。,强烈建议在他们发狂之前清理中间走廊。\n\n§预期抵抗：§!\n\n§R<<法农机械化师>>§!\n§H80§!,法农枪防御者\n§H30§!,法农宙斯盾防御者\n§H10§!,法农突击队后卫\n§H1§! ,Phanon Defender Prime\n§R<<Phanon 自动防御>>§!\n§H10§!,法能步哨枪\n§H5§!,法农死亡陷阱\n\n§预期援助：§!\n\n§B!<<法农实验>>§!\n§H80§!,声子增强型异形"
+acot_pmc.13.c: "让防御见鬼去吧，我们钻透它们。"
+acot_pmc.13.c.tooltip: "花费大量资源，绕过自动化防御，开辟新的突袭途径。\n\n§预期抵抗：§!\n\n§R<<法农机械化师>>§!\n§H80§ ,！,法农枪防御者\n§H30§!,法农宙斯盾防御者\n§H10§!,法农突击队后卫\n§H1§!,法能防御者 Prime"
+acot_pmc.13.d: "取消攻击。,我们需要更多的准备。"
+
+acot_pmc.1300.title: "突击成功"
+acot_pmc.1300.desc.a: “不管怎样，我们成功地将军团赶出了中间走廊，剩余的法农部队正在全面撤退。就像以前一样，我们设法清理出额外的空间并发现新的秘密。\n\n内部走廊将是,有时无法进入，在那之前我们应该做好准备。”
+acot_pmc.1300.a: "到达那里。"
+
+acot_pmc.14.title: "避难所内部走廊袭击"
+acot_pmc.14.desc: “我们的部队渴望与法农的痛处进行战斗。内区显然不适合任何非军团踏足，就好像避难所本身正在抵抗我们一样。机械单位似乎是,如果可能的话，我们应该换成其他类型的部队，但是它们彼此相距很远，所以我们也许可以先消灭掉一方。,或者，如果我们有信心，我们可以直接深入中间，与两军正面交锋，这样做会使我们的军队受到两面夹击，但最初的渗透冲击可能会让我们的敌人变得脆弱。,很短一段时间内。”
+acot_pmc.14.a: "首先与执勤者战斗，他们是一个更大的威胁。"
+acot_pmc.14.a.tooltip: "如果我们能够足够快地消灭敌人，我们或许可以在机械化部队到来之前锁定出入口，从而完全绕过敌人的增援。,不过，他们可能会在最后关卡重新集结。\n\n§预期抵抗：§!\n\n§R<<Phanon Bionic Division>>§!\n§H80§!,法农值勤人员\n§H40§!,法农精英\n§H20§!,法农 Psi 突击队\n§H3§!,法农军官\n\n§Y预期增援：§!\n§R<<法农机械化师>>§!\n§H80§!,法农枪防御者\n§H40§!,法农宙斯盾防御者\n§H40§!,法农突击队后卫\n§H3§!,法能防御者 Prime"
+acot_pmc.14.b: "先把机械化部队拿出来，必须消灭掉。"
+acot_pmc.14.b.tooltip: "如果我们能够足够快地消灭敌人，我们也许能够在仿生部队到达之前锁定接入点，从而完全绕过敌人的增援。,他们可能会在最后一层重新集结\n\n§预期抵抗：§!\n\n§R<<法农机械化师>>§!\n§H80§!,法农枪防御者\n§H40§!,法农宙斯盾防御者\n§H40§!,法农突击队后卫\n§H3§! ,Phanon Defender Prime\n\n§Y预期增援：§!\n§R<<Phanon Bionic Division>>§!\n§H80§!,法农值勤人员\n§H40§!,法农精英\n§H20§!,法农 Psi 突击队\n§H3§!,法农军官"
+acot_pmc.14.c: "直击心脏！,压倒他们！"
+acot_pmc.14.c.tooltip: "对他们编队中心的大胆先头攻击可能会暂时暴露军团大约 180 天，导致他们遭受 -50% 士气损失和 -10% 生命值和伤害。,如果我们不能造成足够的伤害来削弱他们，我们的军队将与两支大军对抗。,强烈建议小心谨慎。\n\n§预期阻力：§!\n\n§R<<Phanon Bionic Division>>§!\n§H80§!,法农值勤人员\n§H40§!,法农精英\n§H20§!,法农 Psi 突击队\n§H3§!,法农军官\n§R<<法农机械化师>>§!\n§H80§!,法农枪防御者\n§H40§!,法农宙斯盾防御者\n§H40§!,法农突击队后卫\n§H3§!,法能防御者 Prime"
+acot_pmc.14.d: "取消攻击。,我们需要更多的准备。"
+
+acot_pmc.1400.title: "突击成功"
+acot_pmc.1400.desc.a: “在避难所内经过一番激烈的战斗后，我们的军队成功地清除了外层走廊内的所有敌对势力。所有幸存的法农部队都进一步撤退到了中区。随着外层区域的安全，我们可以更多地利用,此外，我们的清理人员设法获取了该部分中存储的许多数据和技术。 \n\n中间走廊暂时被锁定，需要一段时间才能攻击他们，我们应该使用它。,这次为了下次战斗而恢复兵力，军团无疑会加倍防御。”
+acot_pmc.1400.a: "我们必须继续前进。"
+
+acot_pmc.15.title: "避难所最后走廊突袭"
+acot_pmc.15.desc: “我们即将袭击最后的走廊。军团无处可逃，他们必须在这里站稳脚跟。毫无疑问，他们会竭尽全力阻止我们。检测到大量的能量读数和活动。这个签名与,一支特工队，所以期待一场前所未有的战斗，但即使他们也无法阻止我们，如果没有解决任何来自内部走廊的敌人，他们现在肯定会出现，但我们已经来了。,胜利只有一种方法，我们准备好出击了吗？”
+acot_pmc.15.a: "向前！,今天他们倒下了！"
+acot_pmc.15.a.tooltip: "这是公司的最后一站。,庞大的防御军队由行动小组亲自领导。,如果我们想成功，就必须全力以赴。,我们应该派出自己的英雄军队去对抗他们，以平分秋色。,如果我们设法避开内部走廊的任何军队，他们就会加入这场战斗，所以预计会有额外的抵抗。\n\n§预期抵抗：§!\n\n§R<<法农仿生师>>§!\ ,n§H100§!,法农值班员\n§H60§!,法农精英\n§H20§!,法农 Psi 突击队\n§H5§!,法农军官\n§R<<法农机械化师>>§!\n§H100§!,法农枪防御者\n§H50§!,法农宙斯盾防御者\n§H50§!,法农突击队后卫\n§H5§! ,Phanon Defender Prime\n§R<<Phanon 自动防御>>§!\n§H20§!,法农哨兵炮\n§R<<法农最终防御单位>>§!\n§H1§!,法农现场操作员"
+acot_pmc.15.d: "取消攻击。,我们需要更多的准备。"
+
+acot_pmc.1500.title: "最终胜利！"
+acot_pmc.1500.desc.a: “终于胜利了！法农军团已经被清除出该地区，整个避难所现在终于安全了。避难所内部不会再派出援军。最后的时刻即将到来。”
+acot_pmc.1500.a: "啊，终于！"
+
+acot_pmc.16.title: "避难所最终堡垒突袭"
+acot_pmc.16.desc: “在这无限走廊最坚固的地方深处，数量庞大的法农防卫军坚决而反抗。他们决心不惜一切代价保护他们的主人和资产。这不是一件容易的事。我们准备好了吗？”,罢工？”
+acot_pmc.16.a: "开始进攻！,这一次，他们死了。"
+acot_pmc.16.a.tooltip: "所有剩余的特工都聚集在一起，集结他们主人的部队来保卫无限走廊。,即使有我们的恩人的帮助，我们也不能宽恕他们。,只有最致命、最大规模的部队才能应对这场可怕的围攻。\n\n§预期抵抗：§!\n\n§R<<法农仿生师>>§!\n§H150§!,法农值勤人员\n§H50§!,法能精英\n§H50§!,法农 Psi 突击队\n§H10§!,法农军官\n§R<<法农机械化师>>§!\n§H125§!,法农枪防御者\n§H75§!,法农宙斯盾防御者\n§H50§!,法农突击队后卫\n§H5§! ,Phanon Defender Prime\n§R<<Phanon 自动防御>>§!\n§H50§!,法能步哨枪\n§H5§!,法农死亡陷阱\n§R<<法农最终防御单位>>§!\n§H4§!,法农现场特工\n§H1§! ,Phanon Agent Guy 配备 Ahoge 级 PDW（可能）"
+acot_pmc.16.d: "取消攻击。,我们需要更多的准备。"
+
+acot_pmc.1600.title: "至高无上的胜利"
+acot_pmc.1600.desc.a: “胜利终于属于我们了！效忠敌方特工的法农部队全部被歼灭。至于特工，他们似乎是为了避免被俘虏而自杀了。”
+acot_pmc.1600.desc.b: “胜利终于属于我们了！效忠敌方特工的法农部队全部被歼灭，可惜特工已经逃走了。”
+acot_pmc.1600.a: "这个胆小鬼甚至没有为自己的生命而战。"
+acot_pmc.1600.b: "尸体看起来完好无损，我们把它们吃掉吧。"
+acot_pmc.1600.b.tooltip: "好好的一顿饭为什么要浪费呢？"
+acot_pmc.1600.c: "无论如何，代理不再是我们关心的事情了。"
+
+acot_pmc.1601.name: "即将成为新的Phanon Corps Management"
+acot_pmc.1601.desc.a: "干得好，[root.GetName]。,我们的敌人现在已经彻底失败了。,现在只剩下一个悬而未决的事情了，是时候告别你的存在了……\n\n开个玩笑，哈哈哈。,你确实做得很好，非常非常好。,现在我们自己的代理人将完成他们的工作并做出安排。,服务将一如既往地继续下去。\n\n但是，当然，您一定对承诺的奖励感到兴奋，是吗？,享受这些数据示意图，它们将允许您使用军团使用的大部分技术，这些技术可以安全地部署在您的银河系中。,此外，您将被视为永久 Ultra 会员，并将获得所有 Ultra 服务的折扣以及 §Y10§!,每十年产生一次 Phanon 硬币，除了立即支付这些资源和 §Y20§! ,Phanon 硬币。\n\n任何提供的 Phanon 资产都可以由您保留。"
+acot_pmc.1601.desc.b: "干得好，[root.GetName]。,我们的敌人现在已经彻底失败了。,无论如何，我们稍后会处理这个胆小的朋友。\n\n现在我们自己的代理人将完成他们的工作并做出安排。,服务将一如既往地继续下去。\n\n这是您完成我们合同的奖励。,享受这些数据示意图，它们将允许您使用军团使用的大部分技术，这些技术可以安全地部署在您的银河系中。,此外，您将被视为永久 Ultra 会员，并将获得所有 Ultra 服务以及§Y2§! 的折扣。,每年 Phanon 币，除了立即支付这些资源和 §Y10§! ,Phanon 硬币。\n\n任何提供的 Phanon 资产都可以由您保留。"
+acot_pmc.1601.desc.c: "你好，[root.GetName]。,我们想通知您，与军团的战争已经结束。\n\n现在我们自己的特工将完成他们的工作并做出安排。,服务将一如既往地继续下去。\n\n这是您完成我们合同的奖励。,享受这些数据示意图，它们将允许您使用军团使用的大部分技术，这些技术可以安全地部署在您的银河系中。,此外，您将获得 10 年免费 Ultra 会员期限，并将获得所有 Ultra 服务以及 §Y2§! 的折扣！,每个订阅期的 Phanon 币，除了立即支付这些资源和 §Y10§! ,Phanon 硬币。\n\n任何提供的 Phanon 资产都可以由您保留。"
+acot_pmc.1601.desc.d: "你好，[root.GetName]。,我们想通知您，与军团的战争已经结束。\n\n对于前任主管可能造成的骚动，我们深表歉意。,服务现在将恢复如常。"
+acot_pmc.1601.a: "大多数技术人员？,少了什么东西？"
+acot_pmc.1601.a.response: "Phanon 独有的飞船，例如 Star Series 和 Operatives。,但如果你想访问这些，就从我们这里买吧，哈哈。,我的意思是，有了你所拥有的金币数量，就不应该再那么贵了，是吗？"
+acot_pmc.1601.b: "下一步是什么？"
+acot_pmc.1601.b.response: "服务将继续正常进行，由我们自己的一名工作人员负责。,您将继续拥有 Drop Point，除非其他人从您手中夺走它。,我们最终会整合并在稍后适当地派遣一位新主管，但这需要一段时间，可能不会在你的一生中。,所以不要想太多，该发生的时候就会发生。\n\n请注意，技术服务现已开放，因此任何拥有 Ultra 会员资格的人都可以购买技术。,所以，如果你想抢占先机，动作要快。"
+acot_pmc.1601.c: "这是一种荣幸。"
+acot_pmc.1601.c.response: "同样，享受新玩具的乐趣，[root.GetName]。"
+acot_pmc.1601.d: "现在会发生什么？"
+acot_pmc.1601.d.response: "服务将继续正常进行，由我们自己的一名工作人员负责。,如果您希望自己乘坐降落点，那是您的决定。,我们最终会整合并在稍后适当地派遣一位新主管，但这需要一段时间，可能不会在你的一生中。,所以不要想太多，该发生的时候就会发生。\n\n此外，技术服务现在将开放，因此任何拥有 Ultra 会员资格的人都可以购买技术。"
+acot_pmc.1601.e: "那就以后吧。"
+acot_pmc.1601.e.response: "再见。"
+acot_pmc.1601.f: "这对我们意味着什么？"
+acot_pmc.1601.f.response: "真的没什么。,服务将继续正常进行，由我们自己的一名工作人员负责。,如果您希望自己乘坐降落点，那是您的决定。,我们最终会整合并在稍后适当地派遣一位新主管，但这需要一段时间，可能不会在你的一生中。,所以不用想太多，该发生的时候就会发生。,你应该庆幸战争结束了。\n\n顺便说一下，技术服务现在将开放，因此任何拥有 Ultra 会员资格的人都可以购买技术。"
+acot_pmc.1601.g: "你就不能离开这个该死的星系吗？"
+acot_pmc.1601.g.response: "错过所有的乐趣和商业机会？,当然不是！"
+acot_pmc.1601.h: "很好。"
+acot_pmc.1601.h.response: "只是把整个磨难想象成……管理上的改变，真的。"
+
+acot_pmc.1299.title: "避难所控制丢失！"
+acot_pmc.1299.desc: “法农军团已经夺回了避难所！我们所有的人口都被清除了，我们在空投点的舰队也被从星系中弹出了！”
+acot_pmc.1299.a: "惨重！"
+
+###############################################
+
+acot_pmc.17.title: "次元镜"
+acot_pmc.17.desc: "尽管我们已经直接控制了大部分法农资产，但军团仍然保留着对次元镜的控制，并且他们在这个星系中的存在仍然存在。,只要它存在，军团就有能力轻松返回并对我们的攻击进行报复。,必须重新调整并禁用它。"
+acot_pmc.17.a: "我们必须将它们排除在外。"
+
+acot_pmc.1700.title: "次元镜失效了！"
+acot_pmc.1700.desc: "次元镜已成功被禁用！,军团的信号正在迅速减弱。,他们现在无法使用它直接返回这个星系。\n\n不过我们必须谨慎，如果他们有能力建造星际旅行者，我们可以假设镜子并不是唯一的途径,超越面纱。,这可能不会很快发生，也许不会在我们有生之年发生，但我们可以肯定他们会回来收回他们的资产。"
+acot_pmc.1700.a: "我们必须保持警惕"
+acot_pmc.1700.a.tooltip: "Phanon Corps 内容的当前阶段到此结束，在另行通知之前不会有实际的 Phanon 报复。"
+
+acot_pmc.1701.desc: "§R这还没有结束！,总有一天我会带着一支庞大的舰队回来，它将把你们可悲的星系烧成灰烬§!\n\n§Y信号正在减弱，看来特工已经不在这个星系中了。"
+acot_pmc.1701.a: "只吠，不咬。"
+acot_pmc.1701.a.response: "§R...将会...ber...这个！§!"
+
+ACOT_PHANON_DISABLE_PORTAL: "重新调整次元镜"
+ACOT_PHANON_DISABLE_PORTAL_DESC: "为了防止法农军团不断回来骚扰我们，他们的次元镜必须重新调整以使其失效。"
+
+######################### PHANON RETALIAITON
+
+acot_pmc.9101.title: "法农金库报复迫在眉睫"
+acot_pmc.9101.desc: "传感器正在采集避难所内的活动。,看起来军团正在调动一支部队，试图从内部夺回避难所。,罢工可能会在几个月内发生。,我们将提供有关预期抵抗的详细信息。\n\\n我们现在可以在他们准备好获得优势之前攻击他们，或者等待攻击发生，以便我们可以从避难所一侧可能提供的防御位置中受益。"
+acot_pmc.9101.a: "在他们准备好之前立即攻击他们！"
+acot_pmc.9101.a.tooltip: "现在攻击他们会给我们带来暂时的意外优势，但我们将离开我们的防御位置，并且可能会错过我们这边潜在的可利用的安全防御。"
+acot_pmc.9101.b: "等待并准备攻击。"
+acot_pmc.9101.b.tooltip: "准备好我们的防御工事将使军团能够全力集结，同时也使我们能够利用我们这边避难所的许多防御工事来发挥我们的优势。"
+
+acot_pmc.9914.name: "法农军团摧毁了 [FromFrom.GetName]！"
+acot_pmc.9914.desc: "我们未能抵御法农军团对 [FromFrom.GetName] 的攻击！,军团使用未知手段摧毁了殖民地，没有幸存者报告。"
+acot_pmc.9914.a: "我们必须加强防御。"
+
+##A FE awakens in response to OE's return (This can happen multiple times)
+acot_pmc.9952.name: "致命反应"
+acot_pmc.9952.desc: "§H[From.GetSpeciesName]§! 的领导人对法农军团突然出现的敌意感到不满。,宣布紧急进攻反应并做好战争准备。"
+
+acot_pmc.9952.a: "另一个加入游戏。"
+acot_pmc.9952.b: "他们不知道。"
+
+##Awakening FE contacts everyone
+acot_pmc.9953.name: "来自 §H[contact_empire.GetName]§! 的传入传输"
+acot_pmc.9953.message: "§H[contact_empire.GetName]§!,已经联系了每个银河国家，包括我们的国家，以响应星源号的回归。"
+acot_pmc.9953.desc.spirit: "那么军团终于露出了他们的真面目？\n\n这些不忠的军团败类必须从银河系中清除。 ,[root.owner.species.GetNamePlural]，加入我们，一劳永逸地清除这些外来入侵者。"
+acot_pmc.9953.desc.phile: "啊，所以他们终于决定做出恶行了？,正如我们所怀疑的那样。,军团不能再被信任了，他们可以被扔出去吗？请注意，距离并不远。\n\n但现在已经到了这一步，我们有责任再次消除银河系中腐败的邪恶。,地方。,保卫自己，[root.GetName]，因为这场战斗不会是一场轻松的战斗。"
+acot_pmc.9953.desc.phobe: "当然，那些愚蠢的阴暗混蛋变得疯狂了。,为什么我们在这类事情上总是正确的？\n\n如果你不想陷入困境，那么你最好远离我们。,严重的事情还是交给有能力反抗的人吧。"
+acot_pmc.9953.desc.mat: "该死的……太快了。,太快了！,我们希望他们能花更多时间来分析他们的弱点。\n\n但这不再重要，我们拥有的就足够了。,法农军团因鲁莽地使用未经证实的危险武器和技术而对银河系构成威胁。,他们必须被摧毁，他们的资产必须被没收。"
+acot_pmc.9953.a: "你对军团了解多少？"
+acot_pmc.9953.a.response.phile: "我们担心，很少。,他们不使用我们认可的技术，还假装在经营PMC业务，但有脑子的人都知道这是一场闹剧。,他们到处都有间谍，一直在监视，一直在收集数据。,但目的是什么，我们不知道。,但我们总是期待有一天，他们会显露出他们的真实本性。,既然他们已经这么做了，就必须不惜一切代价阻止他们。"
+acot_pmc.9953.a.response.phobe: "如果你真的需要知道的话，他们作为外来入侵者来到这个星系，窃取了其中一个系统并将其变成了他们的可憎之物。,他们告诉我们他们只会观察和观看。,其他人可能会相信这种废话，但我们不会。,不是 [contact_empire.GetName]。,我们一直都知道，有一天它们将不再对我们的银河系有任何用处。,如果不是为了有一天征服已知的星系，他们为什么要保持如此令人印象深刻的军事存在？\n\n我们说向他们发起战斗，窃取他们的传送门并炸毁其另一边的一切。"
+acot_pmc.9953.a.response.spirit: "他们是寄生虫！,他们声称自己只不过是一家经营合法业务的公司，但在其外表背后却隐藏着一个疯狂的计划，旨在收割我们的思想和灵魂。,我们[contact_empire.GetName]可以感觉到，他们每秒从我们这里、从这个星系中积累的大量灵能。,现在是我们制止他们疯狂的仪式并消灭这些叛教者的时候了。"
+acot_pmc.9953.a.response.mat: "他们拥有更强大的技术、材料和船只？,这对任何人来说都应该是显而易见的。,但不知怎的，他们的设计相当……简单？,就像它背后没有太多复杂性一样，就像……嗯……无论你的帝国现在用什么来驾驶你的飞船。,他们怎么能对军队中的机器人数量如此鲁莽呢？,是什么控制着他们那些仿生“勤务员”？,灵能网络？,生物芯片？,这么多的问题。\n\n也许在我们胜利之后，这些问题就会得到解答。"
+
+acot_pmc.9953.b: "你真的能阻止他们吗？"
+acot_pmc.9953.b.response.phile: "也许并不孤单。,但我们确信，如果整个银河系在我们的领导下共同努力，我们就可以挫败任何反对派。\n\n§Y他们可能会说出合作的真相，但他们是领导者吗？§!"
+acot_pmc.9953.b.response.phobe: "各位，你们应该更担心自己。,我们会让你知道，我们并不打算拯救你或其他任何人，你是资产，应该被用来利用军团的弱点。,我建议你对其他人也这样做。,让炮灰死掉，才能做好决定性打击的准备。"
+acot_pmc.9953.b.response.spirit: "如果不依靠力量，那么凭借信仰和灵能，我们将战胜我们的敌人。,但信仰需要的不仅仅是我们的祈祷和言语，我们还需要支持者。,如果你想渡过这场危机，那么帮助我们会很好。"
+acot_pmc.9953.b.response.mat: "也许如果我们能在他们撤出更多援军之前足够快地击败他们的话。,在我们准备部队的时候，你应该分散他们的注意力。,我们已经走到了这一步，经历了许多攻击，击败了许多敌人。,这一次也不会有什么不同。\n\n§Y接近尾声时语气的轻微变化意味着他们对自己的胜利并不像他们所描绘的那样有信心。§!"
+
+acot_pmc.9953.end: "结束传输"

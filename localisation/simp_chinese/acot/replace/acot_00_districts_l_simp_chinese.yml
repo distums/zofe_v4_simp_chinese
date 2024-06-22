@@ -1,0 +1,210 @@
+﻿l_simp_chinese:
+ 
+col_acot_fractured_colony: "§E破碎的殖民地§!"
+col_acot_fractured_colony_desc: "这是一个严酷而危险的殖民地，只有最核心的暗物质和能量爱好者才敢涉足。"
+ 
+col_acot_enigmatic_colony: "§E神秘殖民地§!"
+col_acot_enigmatic_colony_desc: "平静的风暴和过去的怪异回声召唤着那些敢于勇敢迎接新时代的人们。"
+
+col_acot_enigmopolis: "§B虚空领域§!"
+col_acot_enigmopolis_desc: "那些敢于挑战虚空的人的领域令人惊叹。,不断响起的皇家节奏和颂歌，提醒人们他们已经踏上了漫长的旅程。"
+ 
+col_acot_phanon_vault: "§RPhanon Vault§!"
+col_acot_phanon_vault_desc: "§R神秘空间站，除了法农军团自己之外，其他人完全不知道其目的。§!"
+ 
+col_acot_enigma_capital: "§E神秘的资本世界§!"
+col_acot_enigma_capital_desc: "这个帝国的首都世界已经将其神秘科技的力量完全融入到世界功能的各个方面，极大地提高了其土地上的所有能力。"
+
+col_acot_brw: "§E神秘的提取世界§!"
+col_acot_brw_desc: "这个世界正在引导神秘的力量来增强古老基本资源的产出潜力。"
+
+col_acot_indus_refin: "§E神秘的工业世界§！"
+col_acot_indus_refin_desc: "这个世界正在引导神秘的力量提高其获取先进和基础战略资源的能力。"
+
+col_acot_knowledge_is_power: "§E神秘的研究世界§!"
+col_acot_knowledge_is_power_desc: "这个世界正在引导神秘的力量来增强其产生科学的能力。"
+
+#### WORLD ######
+ 
+sc_acot_void_star: "虚空星"
+
+acot_cracked_fractured: "虚空破碎星球"
+acot_cracked_fractured_adj: "虚空破碎星球"
+acot_cracked_fractured_desc: "曾经美丽的世界被压倒性的黑暗能量所支离破碎，导致了一个难以想象的世界的存在。"
+
+pc_acot_void_star: "虚空星"
+pc_acot_void_star_adj: "虚空星"
+pc_acot_void_star_desc: "一颗恒星充满了银河系有史以来部署的最强大武器的混乱能量和黑暗能量。"
+
+pc_acot_void_hole: "§B虚空§!"
+pc_acot_void_hole_adj: "§B虚空§!"
+pc_acot_void_hole_desc: "不管这是什么，我们用我们的力量制造的不敬虔的恐怖无疑是令人毛骨悚然的。,堕落的帝国恐惧地移开视线，平民们在看到这个曾经美丽的事物变成了这个怪物的景象时弄湿了自己。,因为我们所创造的东西确实有些可怕。,太糟糕了。"
+
+pc_dark_fractured: "破碎的世界"
+pc_dark_fractured_adj: "破碎的世界"
+pc_dark_fractured_desc: "破碎的世界被猛烈的风暴所覆盖，并充满了许多黑暗异常现象。,尽管现在有些地方适合居住，但这颗星球仍然是一片荒凉的土地，几乎无法维持任何生命。"
+ 
+pc_dark_fractured_ae: "超断裂世界"
+pc_dark_fractured_ae_adj: "超断裂世界"
+pc_dark_fractured_ae_desc: "破碎的世界被猛烈的风暴所覆盖，并充满了许多黑暗异常现象。,尽管现在有些地方适合居住，但这颗星球仍然是一片荒凉的土地，几乎无法维持任何生命。"
+ 
+pc_dark_fractured_unstable: "不稳定的破碎世界"
+pc_dark_fractured_unstable_desc: "破碎的世界被猛烈的风暴所覆盖，并充满了许多黑暗异常现象。,厚厚的风暴云太危险了，以至于船只无法辨别方向，从而阻止任何着陆尝试。"
+ 
+pc_dark_fractured_ae_unstable: "不稳定的超断裂世界"
+pc_dark_fractured_ae_unstable_desc: "破碎的世界被猛烈的风暴所覆盖，并充满了许多黑暗异常现象。,厚厚的风暴云太危险了，以至于船只无法辨别方向，从而阻止任何着陆尝试。"
+ 
+
+pc_acot_enigmatic: "神秘世界"
+pc_acot_enigmatic_adj: "神秘世界"
+pc_acot_enigmatic_desc: "神秘的世界被致命但稳定的风暴所覆盖，虽然很危险，但也保护地球免受各种轰炸。,尽管现在大部分行星都可以安全航行，但在没有保护的情况下，该行星对大多数生命体来说仍然是致命的。"
+ 
+pc_acot_enigmopolis: "虚空球体"
+pc_acot_enigmopolis_adj: "虚空球体"
+pc_acot_enigmopolis_desc: "强大的世界都市，由古老的先驱核心提供动力，周围环绕着拱门和自我屏障。"
+ 
+trait_pc_dark_fractured_preference: "暗裔"
+trait_pc_dark_fractured_preference_desc: "他们喜欢呆在黑洞里。"
+mod_pc_dark_fractured_habitability: "破碎的世界生存能力"
+ 
+trait_pc_dark_fractured_ae_preference: "地狱之子"
+trait_pc_dark_fractured_ae_preference_desc: "也许它们就是黑洞？"
+mod_pc_dark_fractured_ae_habitability: "超破碎世界的生存能力"
+ 
+trait_pc_acot_enigmopolis_preference: "虚空之卵"
+trait_pc_acot_enigmopolis_preference_desc: "它们诞生了黑洞。"
+mod_pc_acot_enigmopolis_habitability: "超破碎世界的生存能力"
+
+trait_pc_acot_enigmatic_preference: "地狱之子"
+trait_pc_acot_enigmatic_preference_desc: "也许它们就是黑洞？"
+mod_pc_acot_enigmatic_habitability: "神秘世界的生存能力"
+
+#### DUSTRRYCIT ######
+ 
+district_acot_fractured_shelter: "三角洲庇护所"
+district_acot_fractured_shelter_plural: "三角洲庇护所"
+district_acot_fractured_shelter_desc: "三角洲庇护所为在世界恶劣环境下工作的勇敢者提供保护和住房。"
+ 
+tech_acot_fractured_shelter: "加固庇护所"
+tech_acot_fractured_shelter_desc: "在破碎世界的暴力天空中爆发暗能量风暴并不罕见。,不稳定的地形和敌对因素需要建立适当的庇护所来防御这些危险。"
+ 
+district_acot_fractured_science_dome: "三角洲天文台"
+district_acot_fractured_science_dome_plural: "三角洲天文台"
+district_acot_fractured_science_dome_desc: "达美天文台为研究人员提供必要的工具和设备，以安全地对饱受蹂躏的世界进行观测和实验。"
+ 
+tech_acot_fractured_science_dome: "观察未知"
+tech_acot_fractured_science_dome_desc: "有许多奇迹和异常现象挑战着所有先前已知的关于破碎世界的理论和物理定律。,但如果我们要把我们的研究人员派到那里，他们就必须得到很好的保护和支持，免受危险环境的影响。"
+ 
+district_acot_fractured_dm_trapper: "三角洲尖塔"
+district_acot_fractured_dm_trapper_plural: "三角洲尖顶"
+district_acot_fractured_dm_trapper_desc: "德尔塔尖顶为技师和炼金术士提供了创造暗物质和暗能量所需的研讨会。"
+ 
+tech_acot_fractured_trapper: "神秘的尖塔"
+tech_acot_fractured_trapper_desc: "尽管破碎世界周围充斥着大量的暗能量和暗物质，但大多数都太不稳定且分散，无法收集。,神秘尖塔的设计旨在捕获这些非自然现象并将其转化为无限的供应。"
+ 
+district_acot_fractured_dm_fort: "三角洲前哨基地"
+district_acot_fractured_dm_fort_plural: "三角洲前哨基地"
+district_acot_fractured_dm_fort_desc: "三角洲前哨站是安全检查站，可以检测入侵者并播放响亮的前卫音乐主题以吓跑他们。"
+ 
+tech_acot_fractured_fort: "虚空城堡"
+tech_acot_fractured_fort_desc: "破碎世界拥有许多危险元素，试图摧毁任何殖民企图。,其中许多元素会发现传统堡垒的弱点和缺口，因此需要专门的防御区来阻止这些敌对的访客。"
+ 
+tech_acot_fractured_size_upgrade_1: "分形连续体"
+tech_acot_fractured_size_upgrade_1_desc: "破碎世界的无情景观使人们难以适应，导致不必要的调整，导致我们浪费额外的区域空间。,我们必须学会适应它。"
+tech_acot_fractured_size_upgrade_1_tooltip: "升级破碎世界和超破碎世界的地区，以减少消耗 1 个地区槽位。"
+ 
+tech_acot_fractured_size_upgrade_2: "主控终端"
+tech_acot_fractured_size_upgrade_2_desc: "MCT 可以安装到位，自行读取和修复任何损坏的位置，而不是依靠技术人员和工程师不断对区域的结构完整性进行检查。,这将使我们无需为现场工程团队分配额外的空间，并减少所需的区域空间。"
+tech_acot_fractured_size_upgrade_2_tooltip: "升级破碎世界和超破碎世界的地区，以进一步减少 1 个地区槽位的消耗。,有效地使它们最终只花费一个槽位。"
+ 
+#### AOULPA DUSTRRYCIT ######
+ 
+district_acot_fractured_ae_shelter: "阿尔法避难所"
+district_acot_fractured_ae_shelter_plural: "阿尔法避难所"
+district_acot_fractured_ae_shelter_desc: "阿尔法庇护所为在世界恶劣环境下工作的勇敢灵魂提供保护和住房。"
+ 
+district_acot_fractured_ae_science_dome: "阿尔法天文台"
+district_acot_fractured_ae_science_dome_plural: "阿尔法天文台"
+district_acot_fractured_ae_science_dome_desc: "阿尔法天文台为研究人员提供必要的工具和设备，以安全地对饱受蹂躏的世界进行观测和实验。"
+ 
+district_acot_fractured_ae_trapper: "阿尔法尖塔"
+district_acot_fractured_ae_trapper_plural: "阿尔法尖塔"
+district_acot_fractured_ae_trapper_desc: "阿尔法尖塔为技师和炼金术士提供了创造暗物质和暗能量所需的研讨会。"
+ 
+district_acot_fractured_ae_fort: "阿尔法前哨站"
+district_acot_fractured_ae_fort_plural: "阿尔法前哨站"
+district_acot_fractured_ae_fort_desc: "阿尔法前哨站是安全检查站，可以检测入侵者并使用响亮的前卫音乐主题来吓跑他们。"
+
+#### CUPOLIS DUSTRRYCIT ######
+ 
+district_acot_enigmapolis_city: "虚空连结"
+district_acot_enigmapolis_city_plural: "虚空涅西"
+district_acot_enigmapolis_city_desc: "虚空涅西是虚空领域社会的核心。,所有管理办公室和大型超级城市的系统都位于这里。"
+ 
+tech_acot_enigmapolis_science: "颠覆模拟"
+tech_acot_enigmapolis_science_desc: "考虑到我们所拥有的技术水平和维度掌握，再加上虚空法庭区域内的先进设备，我们可以使用这些力量来模拟维度甚至星系，以在将其应用于真实空间之前测试和挑战所有造物。"
+tech_acot_enigmapolis_science_tooltip: "升级虚空法庭，从提供传统工作转变为具有卓越产出的独特工作。"
+
+district_acot_enigmapolis_science: "无效法庭"
+district_acot_enigmapolis_science_plural: "无效法庭"
+district_acot_enigmapolis_science_desc: "虚空法庭是知识和进步的地方。,从这里开始，科学家、研究人员和哲学家就拥有了他们在生活中以及以后掌握现实秘密所需的一切。"
+ 
+tech_acot_enigmapolis_forge: "虚空穿越"
+tech_acot_enigmapolis_forge_desc: "我们拥有适当的锚点和技术，可以直接突破其他维度空间，在那里收获暗能量和暗物质将比传统的合成手段更有效。"
+tech_acot_enigmapolis_forge_tooltip: "升级 Void Alphaspace，从提供传统工作转变为具有卓越输出的独特工作。"
+
+district_acot_enigmapolis_forge: "虚空阿尔法景观"
+district_acot_enigmapolis_forge_plural: "虚空阿尔法景观"
+district_acot_enigmapolis_forge_desc: "虚空阿尔法景观允许虚空旅行者安全地穿越到次维度空间并吸取那里的资源。"
+
+#####################
+
+tech_acot_enigmapolis_silo: "维度收获"
+tech_acot_enigmapolis_silo_desc: "当我们可以使用超自然手段时，为什么要依靠自然或非自然手段来收集资源呢？"
+tech_acot_enigmapolis_silo_tooltip: "虚空熔炉提供了强大的经济推动力，但需要进一步扩张才能获取特定资源，这可以通过决策来完成。"
+
+district_acot_enigmapolis_silo: "虚空熔炉"
+district_acot_enigmapolis_silo_plural: "虚空熔炉"
+district_acot_enigmapolis_silo_desc: "虚空熔炉是大量的强光工厂，可以通过传统的合成和维度手段将各种资源物质化。"
+ 
+acot_modifier_voidsphere_silo_alloys: "合金尺寸"
+acot_modifier_voidsphere_silo_alloys_desc: "所有§E$district_acot_enigmapolis_silo$§!,提供§E$job_acot_voidsphere_siloman_alloys$§!,或它们的格式塔对应物以及它们自己的生成合金。"
+decision_acot_voidsphere_silo_alloys: "合金尺寸锻造"
+decision_acot_voidsphere_silo_alloys_desc: "所有§E$district_acot_enigmapolis_silo$§!,提供§E$job_acot_voidsphere_siloman_alloys$§!,或它们的格式塔对应物以及它们自己的生成合金。"
+
+acot_modifier_voidsphere_silo_minerals: "矿物尺寸"
+acot_modifier_voidsphere_silo_minerals_desc: "所有§E$district_acot_enigmapolis_silo$§!,提供§E$job_acot_voidsphere_siloman_minerals$§!,或它们的格式塔对应物以及它们自己的生成矿物。"
+decision_acot_voidsphere_silo_minerals: "矿物维度锻造"
+decision_acot_voidsphere_silo_minerals_desc: "所有§E$district_acot_enigmapolis_silo$§!,提供§E$job_acot_voidsphere_siloman_minerals$§!,或它们的格式塔对应物以及它们自己的生成矿物。"
+
+acot_modifier_voidsphere_silo_energy: "能量维度"
+acot_modifier_voidsphere_silo_energy_desc: "所有§E$district_acot_enigmapolis_silo$§!,提供§E$job_acot_voidsphere_siloman_energy$§!,或它们的格式塔对应物以及它们自己的发电能量。"
+decision_acot_voidsphere_silo_energy: "能量次元锻造"
+decision_acot_voidsphere_silo_energy_desc: "所有§E$district_acot_enigmapolis_silo$§!,提供§E$job_acot_voidsphere_siloman_energy$§!,或它们的格式塔对应物以及它们自己的发电能量。"
+
+acot_modifier_voidsphere_silo_food: "食品维度"
+acot_modifier_voidsphere_silo_food_desc: "所有§E$district_acot_enigmapolis_silo$§!,提供§E$job_acot_voidsphere_siloman_food$§！,或它们的格式塔对应物以及它们自己的生成食物。"
+decision_acot_voidsphere_silo_food: "食品维度锻造"
+decision_acot_voidsphere_silo_food_desc: "所有§E$district_acot_enigmapolis_silo$§!,提供§E$job_acot_voidsphere_siloman_food$§！,或它们的格式塔对应物以及它们自己的生成食物。"
+
+acot_modifier_voidsphere_silo_goods: "模因维度"
+acot_modifier_voidsphere_silo_goods_desc: "所有§E$district_acot_enigmapolis_silo$§!,提供§E$job_acot_voidsphere_siloman_goods$§！,或他们的格式塔同行以及愚蠢地高估了自己资源的一代人。"
+decision_acot_voidsphere_silo_goods: "米姆维度锻造"
+decision_acot_voidsphere_silo_goods_desc: "所有§E$district_acot_enigmapolis_silo$§!,提供§E$job_acot_voidsphere_siloman_goods$§！,或他们的格式塔同行以及愚蠢地高估了自己资源的一代人。"
+
+####################
+
+tech_acot_enigmapolis_fortress: "千兆扩展"
+tech_acot_enigmapolis_fortress_desc: "如何改进已经拥有千兆堡垒的行星保护？,当然，让行星墙壁本身布满千兆堡垒。"
+tech_acot_enigmapolis_fortress_tooltip: "升级虚空屏障后，每个屏障还提供一个千兆要塞干员职位。"
+
+district_acot_enigmapolis_fortress: "虚空屏障"
+district_acot_enigmapolis_fortress_plural: "虚空屏障"
+district_acot_enigmapolis_fortress_desc: "虚空屏障为行星提供防御力量和千兆大炮。"
+
+tech_acot_enigmapolis_stellarite: "虚空星辰碎片"
+tech_acot_enigmapolis_stellarite_desc: "尽管 Void Sphere 主要是为基于 Enigmatic 的技术而设计的，但其强大而灵活的架构也非常适合创建用于恒星生成的恒星碎片质量阵列，前提是我们可以将它们与其他不兼容的元素隔离开来。"
+
+district_acot_enigmapolis_stellarite: "虚空星辰碎片"
+district_acot_enigmapolis_stellarite_plural: "虚空星辰碎片"
+district_acot_enigmapolis_stellarite_desc: "尽管第一颗星可能永远不会再被恢复，但即使是它曾经辉煌的威严中的一小部分也可以创造永恒的奇迹，而这样的奇迹需要一个非常小心和耐用的地方。"

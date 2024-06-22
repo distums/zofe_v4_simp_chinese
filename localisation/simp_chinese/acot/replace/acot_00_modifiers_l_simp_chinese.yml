@@ -1,0 +1,80 @@
+﻿l_simp_chinese:
+
+  planet_districts_rw_science: "$district_rw_science_plural$"
+  planet_districts_rw_industrial: "$district_rw_industrial_plural$"
+
+  mod_planet_districts_industrial_alloys_produces_add: "$r_alloys$ 来自 £district£ $planet_districts_industrial$"
+  mod_planet_districts_industrial_consumer_goods_produces_add: "$r_consumer_goods$ 来自 £district£ $planet_districts_induscial$"
+  mod_planet_districts_generator_energy_produces_add: "$r_energy$ 来自 £district£ $planet_districts_generator$"
+  mod_planet_districts_farming_food_produces_add: "$r_food$ 来自 £district£ $planet_districts_farming$"
+  mod_planet_districts_mining_minerals_produces_add: "$r_minerals$ 来自 £district£ $planet_districts_mining$"
+  mod_planet_districts_hab_mining_minerals_produces_add: "$r_minerals$ 来自 £district£ $planet_districts_hab_mining$"
+  mod_planet_districts_hab_energy_energy_produces_add: "$r_energy$ 来自 £district£ $planet_districts_hab_energy$"
+  mod_planet_districts_rw_science_physics_research_produces_add: "$r_physical$ 来自 £district£ $planet_districts_rw_science$"
+  mod_planet_districts_rw_science_engineering_research_produces_add: "$r_engineering$ 来自 £district£ $planet_districts_rw_science$"
+  mod_planet_districts_rw_science_society_research_produces_add: "$r_society$ 来自 £district£ $planet_districts_rw_science$"
+  mod_planet_districts_rw_generator_energy_produces_add: "$r_energy$ 来自 £district£ $planet_districts_rw_generator$"
+  mod_planet_districts_rw_farming_food_produces_add: "$r_food$ 来自 £district£ $planet_districts_rw_farming$"
+  mod_planet_districts_rw_industrial_consumer_goods_produces_add: "$r_consumer_goods$ 来自 £district£ $planet_districts_rw_industrial$"
+  mod_planet_districts_rw_industrial_alloys_produces_add: "$r_alloys$ 来自 £district£ $planet_districts_rw_induscial$"
+
+
+  mod_planet_districts_industrial_sr_dark_matter_upkeep_add: "$planet_districts_induscial$ $sr_dark_matter$ 维护"
+  mod_planet_districts_generator_acot_sr_dark_energy_upkeep_add: "$planet_districts_generator$ $acot_sr_dark_energy$ 维护"
+  mod_planet_districts_farming_sr_dark_matter_upkeep_add: "$planet_districts_farming$ $sr_dark_matter$ 维护"
+  mod_planet_districts_farming_acot_sr_dark_energy_upkeep_add: "$planet_districts_farming$ $acot_sr_dark_energy$ 维护"
+  mod_planet_districts_mining_sr_dark_matter_upkeep_add: "$planet_districts_mining$ $sr_dark_matter$ 维护"
+  mod_planet_districts_hab_mining_sr_dark_matter_upkeep_add: "$planet_districts_hab_mining$ $sr_dark_matter$ 维护"
+  mod_planet_districts_hab_energy_acot_sr_dark_energy_upkeep_add: "$planet_districts_hab_energy$ $acot_sr_dark_energy$ 维护"
+  mod_planet_districts_rw_science_sr_dark_matter_upkeep_add: "$planet_districts_rw_science$ $sr_dark_matter$ 维护"
+  mod_planet_districts_rw_science_acot_sr_dark_energy_upkeep_add: "$planet_districts_rw_science$ $acot_sr_dark_energy$ 维护"
+  mod_planet_districts_rw_generator_acot_sr_dark_energy_upkeep_add: "$planet_districts_rw_generator$ $acot_sr_dark_energy$ 维护"
+  mod_planet_districts_rw_farming_sr_dark_matter_upkeep_add: "$planet_districts_rw_farming$ $sr_dark_matter$ 维护"
+  mod_planet_districts_rw_farming_acot_sr_dark_energy_upkeep_add: "$planet_districts_rw_farming$ $acot_sr_dark_energy$ 维护"
+  mod_planet_districts_rw_industrial_sr_dark_matter_upkeep_add: "$planet_districts_rw_industrial$ $sr_dark_matter$ 维护"
+
+  acot_meme_vette_buff: "$NAME_Meme_Corvette_FLEET$"
+  acot_ancient_armada_buff: "古代无敌舰队"
+  acot_dimensional_phasing_aftercloak_debuff: "最近的维度阶段"
+  acot_light_cloak_buff: "轻型隐身"
+  acot_heavy_cloak_buff: "重型隐形"
+  acot_psionic_repel_buff: "$ACOT_PSIONIC_REPEL$"
+  acot_navy_engineer_buff: "$AE_NAVY_ENGINEER_OFFICER$"
+  acot_navy_commissar_buff: "$AE_NAVY_COMMMISSAR_OFFICER$"
+  acot_navy_priest_buff: "$AE_PRIEST_OFFICER$"
+  acot_navy_priest_hard_buff: "$AE_PRIEST_OFFICER$"
+
+  mod_country_base_acot_sr_dark_energy_produces_add: "帝国$acot_sr_dark_energy$一代"
+
+  mod_planet_metallurgists_minerals_upkeep_mult: "$mod_planet_metalurgists_minerals_upkeep_add$"
+  mod_planet_metallurgists_food_upkeep_mult: "$mod_planet_metalurgists_food_upkeep_add$"
+  mod_planet_artisans_minerals_upkeep_mult: "$mod_planet_artisans_minerals_upkeep_add$"
+
+  mod_shipclass_military_hull_mult: ""
+  mod_shipclass_military_special_hull_mult: ""
+  mod_shipsize_constructor_hull_add: ""
+  mod_shipsize_colonizer_hull_add: ""
+  mod_shipsize_science_hull_add: ""
+  mod_shipsize_transport_hull_add: ""
+
+  mod_weapon_type_acot_enigmatic_weapon_damage_mult: "$weapon_type_acot_enigmatic$ 伤害"
+  mod_weapon_type_acot_enigmatic_weapon_fire_rate_mult: "$weapon_type_acot_enigmatic$ 射速"
+
+  mod_weapon_type_acot_nanite_weapon_damage_mult: "$weapon_type_acot_nanite$ 伤害"
+  mod_weapon_type_acot_nanite_weapon_fire_rate_mult: "$weapon_type_acot_nanite$ 射速"
+
+  mod_weapon_type_acot_dark_matter_weapon_damage_mult: "$weapon_type_acot_dark_matter$ 伤害"
+  mod_weapon_type_acot_dark_matter_weapon_fire_rate_mult: "$weapon_type_acot_dark_matter$ 射速"
+
+  mod_weapon_type_acot_corrosive_weapon_damage_mult: "$weapon_type_acot_tropic$伤害"
+  mod_weapon_type_acot_corrosive_weapon_fire_rate_mult: "$weapon_type_acot_tropic$ 射速"
+
+
+
+
+  mod_damage_vs_country_type_default_mult: "对违约国家的损害"
+  mod_damage_vs_country_type_acot_allied_fe_mult: "对盟军堕落帝国的损害"
+
+  acot_special_country_army_morale_reduction: "消除额外士气"
+  acot_special_country_army_defense_morale_reduction: "消极防守额外士气"
+  acot_special_country_army_morale_damage_taken_reduction: "士气伤害减少"

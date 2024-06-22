@@ -1,0 +1,110 @@
+﻿﻿#Space Race
+#By ViolentBeetle
+
+l_simp_chinese:
+
+ mem_space_race.1.name:0 "太空竞赛"
+ mem_space_race.1.desc:0 "为了银河和平以及文化和技术交流，提出了一项新的体育赛事。 ,\n\n“太空竞赛”将包括一系列竞赛，旨在选出银河系中最熟练的飞行员和工程师。,建议的形式包括让小型驾驶飞船在我们空间的复杂轨道上相互竞赛。 ,\n\n我们应该自愿成为东道国吗？"
+ mem_space_race.1.a:0 "好主意！,发出邀请函。"
+ mem_space_race.1.b:0 "不，这是一个坏主意。"
+ 
+ mem_space_race.2.name:0 "太空竞赛邀请函"
+ mem_space_race.2.desc:0 "你好，[root.GetSpeciesName]。,我们正在组织一项银河体育赛事，即太空竞赛，我们希望通过这项赛事找出银河系中最熟练的飞行员和工程师。,我们邀请每个主要国家——当然也包括你们自己——参与。,你想不想来？"
+ mem_space_race.2.a:0 "多么伟大的想法啊。,我们当然会来。"
+ mem_space_race.2.b:0 "我们宁愿不。"
+ mem_space_race.2.b.psycho:0 "你是认真的？！"
+ mem_space_race.2.b.inwards:0 "我们对你的事情没有兴趣。"
+ mem_space_race_must_be_diplomatic:0 "我们对异种外交不感兴趣。"
+ 
+ mem_space_race.4.name:0 "比赛是一场比赛"
+ mem_space_race.4.desc:0 "足够多的外国帝国表达了参与我们盛大的新太空竞赛的愿望。,我们应该开始准备工作。"
+ mem_space_race.4.a:0 "我已经等不及了。"
+ 
+ mem_space_race.5.name:0 "太空竞赛取消"
+ mem_space_race.5.desc:0 "我们找不到足够多的国家愿意参加拟议的太空竞赛，因此值得付出努力。,该活动不得不取消。"
+ mem_space_race.5.a:0 "最令人失望的是。"
+ 
+ mem_space_race.6.name:0 "比赛准备"
+ mem_space_race.6.desc:0 "太空竞赛越来越近了。,每个参赛国家都在努力准备比赛用具和飞行员。,我们的工程师正在努力为我们的飞行员提供他们所能提供的一切优势。\n\n这场比赛将展示 [Root.GetName] 和其他帝国可以提供的最佳技术。,然而，比赛规则限制了飞船的大小，迫使我们选择优先考虑的系统。,我们应该努力发挥我们最大的技术优势还是弥补我们的短板？,或者只是简单地给予一切同等的优先权，并希望我们的整体技术影响力占上风？"
+
+ mem_space_race.6.a:0 "对一切都给予同等的重视。"
+ mem_space_race.6.b:0 "专注于盾牌。"
+ mem_space_race.6.c:0 "专注于推力。"
+ mem_space_race.6.d:0 "专注于装甲。"
+ 
+ mem_space_race.7.name:0 "我们取消参加太空竞赛"
+ mem_space_race.7.desc:0 "由于我们目前正在进行的战争，我们将无法投入资源来装备一支团队来参加我们报名参加的太空竞赛。"
+
+ mem_space_race.8.name:0 "太空竞赛即将开始"
+ mem_space_race.8.desc:0 "随着我们的帝国准备举办银河系最激动人心的体育赛事，最后的准备工作正在完成。,很快，来自已知太空的最伟大的飞行员和工程师将前来展示他们的技能。"
+ mem_space_race.8.a:0 "这太令人兴奋了。"
+ 
+ mem_space_race.10.name:0 "被太空竞赛淘汰"
+ mem_space_race.10.desc.shield:0 "最近一轮的 [mem_space_race_host.GetAdj] 太空竞赛在恒星附近进行，迫使飞行员依靠护盾来避免危险的太阳风和热量。 ,\n\n不幸的是，我们的飞船无法承受热量，因此被迫与恒星保持距离，在较长的轨道上失去了宝贵的时间。,它没有及时到达终点，被淘汰了。"
+ mem_space_race.10.desc.thrust:0 "最近一轮的 [mem_space_race_host.GetAdj] 太空竞赛涉及围绕许多不同行星和其他巨大天体的漫长而复杂的轨迹。 ,\n\n我们的飞行器的发动机似乎不够强大，无法在强重力井内有效机动，导致它损失了宝贵的时间。,它没有及时到达终点，被淘汰了。"
+ mem_space_race.10.desc.armor:0 "最近一轮的 [mem_space_race_host.GetAdj] 太空竞赛让参与者穿过厚厚的太空碎片云，迫使他们依靠飞船的装甲来避免因碰撞而致残。 ,\n\n我们的飞行器勇敢地克服了一段时间的障碍，但其船体无法承受这种惩罚，最终损坏至极点，不得不退出。"
+ mem_space_race.10.a:0 "令人失望。"
+ 
+ mem_space_race.11.name:0 “太空竞赛第三名”
+ mem_space_race.11.desc.shield:0 "$mem_space_race.10.desc.shield$ \n\n在本阶段的比赛中被淘汰使我们的总得分排名第三。,这不是胜利，但我们已经登上了基座。"
+ mem_space_race.11.desc.thrust:0 "$mem_space_race.10.desc.thrust$ \n\n在本阶段的比赛中被淘汰使我们的总得分排名第三。,这不是胜利，但我们已经登上了基座。"
+ mem_space_race.11.desc.armor:0 "$mem_space_race.10.desc.armor$ \n\n 在本阶段的比赛中被淘汰使我们的总得分排名第三。,这不是胜利，但我们已经登上了基座。"
+ mem_space_race.11.a:0 "令人失望。"
+ 
+ mem_space_race.13.name:0 "我们赢得了太空竞赛"
+ mem_space_race.13.desc:0 "今天，传说中的 [mem_space_race_host.GetAdj] 太空竞赛结束了最后一轮。,盛大的闭幕式在 [mem_space_race_host.Capital_Scope.GetName] 举行，[mem_space_race_host.GetSpeciesAdj] [mem_space_race_host.GetRulerTitle] [mem_space_race_host.GetRulerName] [mem_space_race_host.Leader.GetHerHim] 向获奖者表示祝贺。,我们队获得了第一名，并获得了一枚由纯锇制成的珍贵奖牌。,来自 [second_place.GetName] 的团队获得了第二名和一枚铑牌。 ,[third_place.GetName]获得了第三名和一枚铱星奖牌。 ,\n\n这次比赛对于所有参与者来说都是一个独特的机会，可以磨练他们的工程技能并测试自己是否能够对抗外来文化。"
+ mem_space_race.13.a:0 "祝贺团队。"
+ mem_space_race.13.a.machine:0 "快点。,更强。,更好的。"
+ mem_space_race.13.a.hive:0 "我们对我们的进展感到满意。"
+ mem_space_race.13.a.auth:0 "事实证明我们的方法是最好的！"
+ 
+ 
+ mem_space_race.14.name:0 "我们在太空竞赛中获得第二名"
+ mem_space_race.14.desc:0 "今天，传说中的 [mem_space_race_host.GetAdj] 太空竞赛结束了最后一轮。,盛大的闭幕式在 [mem_space_race_host.Capital_Scope.GetName] 举行，[mem_space_race_host.GetSpeciesAdj] [mem_space_race_host.GetRulerTitle] [mem_space_race_host.GetRulerName] [mem_space_race_host.Leader.GetHerHim] 向获奖者表示祝贺。\n\n我们的团队获得了冠军,第二名并被授予纯铑制成的珍贵奖牌。,唯一超越我们的队伍是来自[first_place.GetName]的队伍，他们被授予了锇奖章。 ,[third_place.GetName]获得了第三名和一枚铱星奖牌。 ,\n\n这次比赛对于所有参与者来说都是一个独特的机会，可以磨练他们的工程技能并测试自己是否能够对抗外来文化。"
+ mem_space_race.14.a:0 "我们几乎成功了！"
+ mem_space_race.14.a.machine:0 "部分完成任务参数。"
+ mem_space_race.14.a.auth:0 "第二名是给失败者的。"
+ 
+ mem_space_race.15.name:0 "我们在太空竞赛中获得第三名"
+ mem_space_race.15.desc:0 "今天，传说中的 [mem_space_race_host.GetAdj] 太空竞赛结束了最后一轮。,盛大的闭幕式在 [mem_space_race_host.Capital_Scope.GetName] 举行，[mem_space_race_host.GetSpeciesAdj] [mem_space_race_host.GetRulerTitle] [mem_space_race_host.GetRulerName] [mem_space_race_host.Leader.GetHerHim]亲自祝贺获奖者。\n\n我们的团队来了,总成绩第三名，荣获纯铱奖章。,超越我们的两支队伍是来自[first_place.GetName]和[second_place.GetName]的队伍，他们获得了第一名和第二名，分别获得了锇奖牌和铑奖牌。 ,\n\n这次比赛对于所有参与者来说都是一个独特的机会，可以磨练他们的工程技能并测试自己是否能够对抗外来文化。"
+ mem_space_race.15.a:0 "至少我们得到了一些东西。"
+ mem_space_race.15.a.machine:0 "任务状态：暂时成功。"
+ mem_space_race.15.a.auth:0 "[Root.GetSpeciesNamePlural] 应该比这更好！"
+ 
+ mem_space_race.16.name:0 "太空竞赛结束"
+ mem_space_race.16.desc:0 "今天，传说中的 [mem_space_race_host.GetAdj] 太空竞赛结束了最后一轮。,盛大的闭幕式在[mem_space_race_host.Capital_Scope.GetName]举行，[mem_space_race_host.GetSpeciesAdj] [mem_space_race_host.GetRulerTitle] [mem_space_race_host.GetRulerName] [mem_space_race_host.Leader.GetHerHim]亲自祝贺获奖者。\n\n第一名和第一名,来自[first_place.GetName]的团队赢得了一枚珍贵的纯锇奖章。,来自[second_place.GetName]的团队获得了第二名和铑牌。,最后，来自[third_place.GetName]的队伍获得了第三名，并获得了铱星奖章。,我们早在获胜者确定之前就被淘汰了，没有赢得任何奖牌或名誉。 ,\n\n这次比赛对于所有参与者来说都是一个独特的机会，可以磨练他们的工程技能并测试自己是否能够对抗外来文化。"
+ mem_space_race.16.a:0 "祝大家比赛顺利。"
+ mem_space_race.16.a.machine:0 "绩效考核：不理想。"
+ mem_space_race.16.a.hive:0 "我们怎么会失败呢？！"
+ mem_space_race.16.a.auth:0 "一定有人会为这种可耻的行为付出代价！"
+ 
+ mem_space_race.17.desc:0 " "
+ mem_space_race.17.machine:0 " "
+ mem_space_race.17.hive:0 " "
+ mem_space_race.18.desc:0 " "
+ mem_space_race.18.machine:0 " "
+ mem_space_race.18.hive:0 " "
+ 
+ mem_space_race.20.name:0 "太空竞赛被取消"
+ mem_space_race.20.desc:0 "由于报名的参与者人数较少，[mem_space_race_host.GetAdj] 太空竞赛不得不取消。"
+ mem_space_race.20.a:0 "最令人失望的是。"
+ 
+ mem_space_race.21.name:0 "太空竞赛被取消"
+ mem_space_race.21.desc:0 "由于我们卷入武装冲突，我们既无法为太空竞赛投入资源，也无法保证参赛者的安全。,该活动不得不取消。"
+ mem_space_race.21.a:0 "太可惜了。"
+ 
+ mem_space_race.22.name:0 "太空竞赛被取消"
+ mem_space_race.22.desc:0 "由于 [mem_space_race_host.GetName] 卷入战争，[mem_space_race_host.GetAdj] 太空竞赛已提前取消。,由于无法保证参赛者的安全，赛事不得不取消。"
+ mem_space_race.22.a:0 "太可惜了。"
+ 
+ mem_space_race_host:0 "举办太空竞赛"
+ mem_space_race_participant:0 "参加太空竞赛"
+
+ resolution_categories_mem_cultural_events: "银河文化活动"
+
+ resolution_mem_space_race: "组织太空竞赛"
+ resolution_mem_space_race_desc: "我们应该组织一场§S太空竞赛§！ ,- 参与帝国最著名的飞行员和工程师之间的银河范围内的竞赛，看看谁最有能力快速穿越外太空的危险环境并活着讲述故事。"
+
+ mem_space_race_resolution_effect: "太空竞赛的准备工作即将开始。,提议举办该活动的帝国将首先提出主办该活动。,如果它衰落，银河共同体的其他非格式塔成员将有机会。"
+
+ mem_space_race_gain_intel: "所有参与者的相互情报水平都提高了。"

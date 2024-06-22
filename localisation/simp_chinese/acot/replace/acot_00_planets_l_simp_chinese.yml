@@ -1,0 +1,286 @@
+﻿l_simp_chinese:
+ 
+planet_pops_energy_upkeep_mult: "食物维持乘数"
+planet_pops_food_upkeep_mult: "能量维持倍数"
+
+########################## MODIFIERS ##########################
+ 
+acot_modifier_fractured_mutants: "虚空变种人"
+acot_modifier_fractured_mutants_desc: "不幸的有机受害者设法在这片被遗弃的土地上生存下来。,他们拥有一个必须由地面部队铲除的据点。\n\n§R如果防守不力，将定期攻击殖民地。§!\n§E建造前哨区以阻止或阻止这些攻击。§!"
+ 
+acot_void_mutants_army: "虚空变种人"
+acot_void_mutants_army_plural: "虚空变种人"
+acot_void_mutants_army_desc: "不幸的有机受害者设法在这片被遗弃的土地上生存下来。,他们只保留基本的智力来操作各种神秘的设备，类似于部落和亡命之徒。,虽然技能不高，但他们对大多数武器的抵抗力和令人印象深刻的再生因子使他们成为可怕的敌人。"
+ 
+acot_void_mutants_hero: "虚空督军"
+acot_void_mutants_hero_plural: "虚空军阀"
+acot_void_mutants_hero_desc: "不幸的有机受害者设法在这片被遗弃的土地上生存下来。,他们只保留基本的智力来操作各种神秘的设备，类似于部落和亡命之徒。,酋长们在战术战斗和掌握新力量方面都明显更加熟练。"
+ 
+ 
+decision_acot_kill_void_mutant: "攻击变异据点"
+decision_acot_kill_void_mutant_desc: "发起对所有主要变种人据点的攻击，试图摧毁他们的行动基地并将他们从地球上清除。"
+ 
+##########################
+ 
+acot_modifier_fractured_lifeforms: "虚空恶魔"
+acot_modifier_fractured_lifeforms_desc: "由当地野生动物变异而来，在这种恶劣的环境下茁壮成长，地面部队必须烧毁它们的巢穴。\n\n§R如果防御不力，将定期攻击殖民地。§!\n§E建造前哨区以威慑或阻止,这些攻击。§!"
+ 
+acot_void_fiends_army: "虚空恶魔"
+acot_void_fiends_army_plural: "虚空恶魔"
+acot_void_fiends_army_desc: "当地野生动物变异而成的可憎之物在这种恶劣的环境下得以繁衍生息。,他们中的许多人似乎能够利用暗能量和暗物质产生强大的攻击。"
+ 
+acot_void_fiends_hero: "虚空破碎者"
+acot_void_fiends_hero_plural: "虚空破碎者"
+acot_void_fiends_hero_desc: "大量憎恶是由当地野生动物变异而来，在这种恶劣的环境下得以繁衍生息。,虚空破碎机高耸于建筑物之上，非常危险。"
+ 
+ 
+decision_acot_kill_void_lifeform: "入侵恶魔巢穴"
+decision_acot_kill_void_lifeform_desc: "对所有主要恶魔巢穴发起攻击，试图清除它们的侵扰并将它们从地球上清除。"
+ 
+##########################
+ 
+acot_modifier_fractured_sentient_crystal: "虚空水晶"
+acot_modifier_fractured_sentient_crystal_desc: "当地的矿物簇和岩层似乎受到了地球上不稳定的神秘能量的驱动，它们的地下洞穴必须被地面部队摧毁。\n\n§R如果防御不力，将定期攻击殖民地。§!\n§ ,E构建前哨区以阻止或防止这些攻击。§!"
+ 
+acot_void_crystal_army: "虚空水晶"
+acot_void_crystal_army_plural: "虚空水晶"
+acot_void_crystal_army_desc: "当地的矿物簇和岩层似乎被地球上不稳定的神秘能量所驱动，有效地将它们变成了具有巨大破坏力的有感知的魔像……KONO POWAH？"
+ 
+acot_void_crystal_hero: "虚空巨像"
+acot_void_crystal_hero_plural: "虚空巨像"
+acot_void_crystal_hero_desc: "当地的矿物簇和岩层似乎被地球上不稳定的神秘能量所驱动，有效地将它们变成了具有愚蠢的巨大破坏力的有知觉的巨人......科诺波瓦？"
+ 
+ 
+decision_acot_kill_void_crystal: "水晶洞路线"
+decision_acot_kill_void_crystal_desc: "对所有主要的虚空水晶簇发起攻击，试图阻止它们的扩散并将它们从地球上清除。"
+ 
+##########################
+ 
+acot_modifier_fractured_machines: "虚空机器"
+acot_modifier_fractured_machines_desc: "被暗能量腐蚀的剩余机器和设备。,他们的工厂必须被地面部队摧毁。\n\n§R如果防御不力，将定期攻击殖民地。§!\n§E建造前哨区来阻止或阻止这些攻击。§!"
+ 
+acot_void_machine_army: "虚空机"
+acot_void_machine_army_plural: "虚空机器"
+acot_void_machine_army_desc: "被暗能量腐蚀的剩余机器和设备。,虽然总体上很弱，但他们的庞大数量可以很快压垮准备不足的军队。"
+ 
+acot_void_machine_hero: "虚空橡皮擦"
+acot_void_machine_hero_plural: "虚空橡皮擦"
+acot_void_machine_hero_desc: "被暗能量腐蚀的剩余机器和设备。,橡皮擦似乎比那些脆弱的对手更加先进和致命。"
+ 
+decision_acot_kill_void_machine: "突击虚空工厂"
+decision_acot_kill_void_machine_desc: "对所有主要的虚空工厂发起攻击，试图阻止它们的生产并将它们从地球上清除。"
+ 
+##########################
+ 
+acot_modifier_fractured_plants: "虚空植物群"
+acot_modifier_fractured_plants_desc: "受到暗物质影响的植物和树木对殖民地构成了巨大的威胁。,森林必须被地面部队烧毁。\n\n§R如果防御不力，将定期攻击殖民地。§!\n§E建造前哨区来阻止或阻止这些攻击。§!"
+ 
+acot_void_plant_army: "虚空植物群"
+acot_void_plant_army_plural: "虚空植物群"
+acot_void_plant_army_desc: "受到暗物质影响的植物和树木对殖民地构成了巨大的威胁。,它们可以产生致命的腐蚀性物质，可以熔化盾牌和盔甲，它们的刺像高频刀片一样锋利。"
+ 
+acot_void_plant_hero: "虚空恐怖"
+acot_void_plant_hero_plural: "虚空恐怖"
+acot_void_plant_hero_desc: "受到暗物质影响的植物和树木对殖民地构成了巨大的威胁。,恐惧尤其巨大且致命，只需一击即可杀死多个风暴英雄。"
+ 
+ 
+decision_acot_kill_void_flora: "燃烧虚空花园"
+decision_acot_kill_void_flora_desc: "对所有主要的虚空花园发起攻击，试图将它们烧毁并将其从地球上清除。"
+ 
+##########################
+ 
+d_acot_void_terrain: "地形变化"
+d_acot_void_terrain_desc: "这个世界的地形已经被强大的神秘力量极大地改变，导致它们不断移动。,如果不加以控制，它们可能会损坏或摧毁建筑物和地区。"
+ 
+tech_acot_end_shifting_ground: "稳定地形"
+tech_acot_end_shifting_ground_desc: "用合成的暗物质和暗能量对地形进行地形改造和稳定，以防止其结构进一步改变。"
+ 
+ 
+##########################
+ 
+d_acot_void_rift: "不稳定的虚空裂缝"
+d_acot_void_rift_desc: "残留的炮击对这个饱受蹂躏的世界造成了不稳定的虚空裂缝的出现。,这些裂缝会吸走并吞噬其路径上的任何东西。,如果不加以控制，它们将对民众构成巨大危险。"
+ 
+tech_acot_end_rift: "消除裂痕"
+tech_acot_end_rift_desc: "当一个巨大的暗物质注入物体进入裂缝时，可以向其发射集中的暗能量束，导致两个实体不稳定并最终使裂缝塌陷。"
+ 
+##########################
+ 
+d_acot_void_chasm: "虚空裂缝"
+d_acot_void_chasm_desc: "巨大的裂缝不断扩大，吞噬空间并阻碍任何区域的建设。,如果不加以控制，它们可能会摧毁我们的地区并减少建筑空间。"
+ 
+tech_acot_end_chasm: "清除虚空裂缝"
+tech_acot_end_chasm_desc: "可以通过使用强光技术创建大型人行道来消除虚空裂缝，以创建合成路面，从而消除并最终阻止裂缝的扩展。"
+ 
+############################# EVENTS #############################
+ 
+acot_planets.300.name: "虚空机器来袭！"
+acot_planets.300.desc: "损坏的虚空机器攻击了我们在 [root.GetName] 上的殖民地！,我们必须把他们赶回来，否则殖民地可能会消失！"
+acot_planets.300.a: "他们反对[root.GetRulerName]！"
+ 
+acot_planets.301.name: "虚空变异者来袭！"
+acot_planets.301.desc: "疯狂的虚空变种人攻击了我们在 [root.GetName] 上的殖民地！,我们必须把他们赶回来，否则殖民地可能会消失！"
+acot_planets.301.a: "杀死变种人！"
+ 
+acot_planets.302.name: "虚空植物来袭！"
+acot_planets.302.desc: "敌对的虚空植物群袭击了我们在 [root.GetName] 上的殖民地！,我们必须把他们赶回来，否则殖民地可能会消失！"
+acot_planets.302.a: "把他们活活烧死！"
+ 
+acot_planets.303.name: "虚空魔物来袭！"
+acot_planets.303.desc: "疯狂的虚空领域攻击了我们在 [root.GetName] 上的殖民地！,我们必须把他们赶回来，否则殖民地可能会消失！"
+acot_planets.303.a: "他们必须死！"
+ 
+acot_planets.304.name: "虚空水晶攻击！"
+acot_planets.304.desc: "激动的虚空水晶攻击了我们在 [root.GetName] 上的殖民地！,我们必须把他们赶回来，否则殖民地可能会消失！"
+acot_planets.304.a: "消灭他们！"
+
+acot_planets.305.name: "[root.GetName] 丢失了！"
+acot_planets.305.desc: "[root.GetName] 星球上的敌方已经占领了城市，殖民地实际上已经消失。"
+acot_planets.305.a: "我们太晚了..."
+################################################ VOID SPHERE ########################
+ 
+acot_planets.1.name: "感染已清除！"
+acot_planets.1.desc.mutant: "我们在 [FROMFROM.GetName] 上战胜了虚空变种人！,清理队现在正在清除所有剩下的掉队者！"
+acot_planets.1.desc.lifeform: "我们在 [FROMFROM.GetName] 上战胜了虚空生命体！,清理队现在正在清除所有剩下的掉队者！"
+acot_planets.1.desc.machine: "我们在 [FROMFROM.GetName] 上战胜了虚空机器！,清理队现在正在清除所有剩下的掉队者！"
+acot_planets.1.desc.crystals: "我们在 [FROMFROM.GetName] 上战胜了虚空水晶！,清理队现在正在清理所有剩余的阵型！"
+acot_planets.1.desc.plants: "我们在 [FROMFROM.GetName] 上战胜了虚空植物！,清理小组现在正在清除所有剩余的植物！"
+acot_planets.1.a.mutant: "没有任何变种人可以对抗我们的力量！"
+acot_planets.1.a.lifeform: "而是供宰杀的野兽！"
+acot_planets.1.a.machine: "破损的机器无法阻止我们！"
+acot_planets.1.a.crystals: "水晶是为了开采而存在的！"
+acot_planets.1.a.plants: "这些植物很弱！"
+ 
+acot_planets.2.name: "突袭失败！"
+acot_planets.2.desc: "我们对 [FromFrom.GetName] 的攻击失败了！,双方造成的巨大破坏，让世界更加不稳定，最终导致了爆炸！"
+acot_planets.2.a: "我们低估了威胁..."
+ 
+################################################ PLANET SHOWER ########################
+
+decision_fractured_self_detonation: "最终协议"
+decision_fractured_self_detonation_desc: "在选定的星球上发布最终协议。,地形改造设备将准备就绪，让我们能够准备破碎或融化地球。"
+ 
+decision_fractured_self_detonation_effect: "将添加一个特殊项目来沐浴地球。\n\n改造拥有的行星将花费更多的影响力和额外的团结。,将现有的断裂世界转变为超断裂世界将比其他类型的世界更便宜。"
+ 
+ACOT_FINAL_WORD_PLANET: "关于 [FromFrom.GetName] 的最终决定"
+ACOT_FINAL_WORD_PLANET_DESC: "根据我们伟大帝国的命令，[FromFrom.GetName] 的世界被判处最终协议。,行星边的改造船正在待命。\n\n如果计时器超时，将退还一半的影响力成本。"
+
+ACOT_STABLIZE_PLANET: "[FromFrom.GetName] 稳定项目"
+ACOT_STABLIZE_PLANET_DESC: "[FromFrom.GetName] 的世界充满了猛烈的虚空风暴，必须先稳定下来才能对行星表面进行视觉扫描。"
+
+decision_fractured_stablize: "稳定破碎的世界"
+decision_fractured_stablize_desc: "准备好程序来稳定破碎世界的猛烈风暴。"
+
+decision_stellarite_reactor_detonation: "光荣退伍"
+decision_stellarite_reactor_detonation_desc: "在选定的行星上发布荣誉放电协议，开始反应堆熔毁倒计时，并释放巨大的恒星能量爆炸，这将摧毁该行星并摧毁绕其运行的任何船只。"
+ 
+decision_stellarite_reactor_detonation_effect: "伤害程度取决于行星上恒星发生器的数量。\n\n之后，恒星能量炸弹将在行星轨道上方形成，如果不被摧毁，它将在几个月内爆炸，造成全系统损坏。"
+
+################################################ VOID SPHERE ########################
+
+ACOT_CREATE_ENIGMATIC_WORLD: "维度重构"
+ACOT_CREATE_ENIGMATIC_WORLD_DESC: "如果破碎的世界要再次成为一个稳定和安全的地方，不仅需要资源和适当的程序来重建行星表面，而且还需要保留其独特的维度锚特性。"
+ 
+tech_acot_create_enigmatic_world: "神秘的世界创造"
+tech_acot_create_enigmatic_world_desc: "是时候开始新的未来了。,我们拥有真正创造时代奇迹所需的所有知识和技术。,虚空球体，一座宏伟的世界都市，将开启帝国的新时代。"
+
+ACOT_CREATE_ENIGMAPOLIS: "虚空球体创建"
+ACOT_CREATE_ENIGMAPOLIS_DESC: "必须在行星上安装几个先驱拱门才能将其打造成虚空球。"
+ 
+tech_acot_create_enigmapolis: "内空，外空"
+tech_acot_create_enigmapolis_desc: "是时候开始新的未来了。,我们拥有真正创造时代奇迹所需的所有知识和技术。,虚空球体，一座宏伟的世界都市，将开启帝国的新时代。"
+ 
+decision_transform_into_enigmatic_planet: "维度重构"
+decision_transform_into_enigmatic_planet_desc: "如果破碎的世界要再次成为一个稳定和安全的地方，不仅需要资源和适当的程序来重建行星表面，而且还需要保留其独特的维度锚定特性。"
+
+decision_transform_into_super_awesome: "虚空球体创建"
+decision_transform_into_super_awesome_desc: "准备将这颗星球打造成虚空球体。,需要大量的资源和努力。"
+ 
+acot_planets.4.name: "骨折重建"
+acot_planets.4.desc: "重建 [FROMFROM.GetName] 的过程现在将开始，派遣一艘科学船绕行星运行，在那里它将协助地球化过程。"
+acot_planets.4.a: "继续。"
+ 
+acot_planets.5.name: "[FROMFROM.GetName] 重建完成！"
+acot_planets.5.desc: "[FROMFROM.GetName]的重构已经完成！,地球已恢复到更明显的状态，最危险的影响已降至最低水平。"
+acot_planets.5.a: "做得好。"
+ 
+acot_planets.6.name: "虚空球体构造"
+acot_planets.6.desc: "要开始清理 [root.GetName]，请派遣一艘建造船和一艘科学船绕行星运行，在那里他们将在行星周围建造球体并将其地球化。"
+acot_planets.6.a: "没时间浪费。"
+ 
+acot_planets.7.name: "虚空领域完成！"
+acot_planets.7.desc: "[FROMFROM.GetName] 上的虚空球体的创建已经完成！,所有系统均已全面运转，这颗行星现在成为虚空的宝石和群星羡慕的对象。"
+acot_planets.7.a: "我们的权力是至高无上的。"
+ 
+
+acot_void_sphere_ship: "释放虚空球体"
+acot_void_sphere_ship_plural: "释放虚空球体"
+ACOT_VOIDSPHERE_SECTION: "虚空球体"
+
+############### PLANETS UPGRADE ########################
+ 
+decision_upgrade_gen_growth: "复制器输注"
+decision_upgrade_gen_growth_desc: "将强大的遗传因子注入到这个星球的大气中，使其人口能够随意复制自己，完全绕过性活动和自然生长的需要，从而大大提高增长率。"
+ 
+acot_modifier_upgrade_gen_growth: "复制器"
+acot_modifier_upgrade_gen_growth_desc: "这个星球上的每个人口都拥有自己的复制器官系统，极大地提高了他们的增长率。"
+ 
+decision_upgrade_gen_adapt: "虚空养分吸收"
+decision_upgrade_gen_adapt_desc: "为这个星球上的人们注入基因序列，让他们通过亚维度营养吸收场的过程，完全否定对食物的需求。"
+ 
+acot_modifier_upgrade_gen_adapt: "虚空养分吸收"
+acot_modifier_upgrade_gen_adapt_desc: "这个星球上的每个人都可以通过产生个人的次维度场来吸收营养，从而消除对大多数食物的需求。"
+ 
+decision_upgrade_synth_extra_space: "动态车身选择系统"
+decision_upgrade_synth_extra_space_desc: "用先进的合成身体升级这个星球上的所有人口，让他们能够随意重塑自己的肉身并围绕它们进行建造。,增加的自由空间将为地球提供额外的区域空间。 ,（环形世界额外获得一张）"
+ 
+acot_modifier_upgrade_synth_extra_space: "动态车身选择"
+acot_modifier_upgrade_synth_extra_space_desc: "得益于先进的合成技术，这个星球上的每一个人口都可以随意重塑他们的身体并在他们周围建造，使这个星球能够容纳比其他地方更多的区域。"
+ 
+acot_modifier_upgrade_synth_extra_space_ringworld: "动态车身选择"
+acot_modifier_upgrade_synth_extra_space_ringworld_desc: "得益于先进的合成技术，这个星球上的每一个人口都可以随意重塑他们的身体并在他们周围建造，使这个星球能够容纳比其他地方更多的区域。"
+ 
+decision_upgrade_synth_assemble: "独立外肢"
+decision_upgrade_synth_assemble_desc: "升级该星球上的人口以使用独立的外肢，使他们无需拥有完整的身体即可执行任务，从而减少了组装物理系统所需的时间。"
+ 
+acot_modifier_upgrade_synth_assemble: "独立外肢"
+acot_modifier_upgrade_synth_assemble_desc: "这个星球上的合成人口在日常生活中不需要完整的身体来运作，从而减少了组装物理系统所需的时间。"
+ 
+decision_upgrade_psi_manipulate: "念力真相"
+decision_upgrade_psi_manipulate_desc: "通过心灵感应和措辞谨慎的灵感信息将这个星球上的人们联系起来，增加他们的道德吸引力并完全消除降级计时器。"
+ 
+acot_modifier_upgrade_psi_manipulate: "念力真相"
+acot_modifier_upgrade_psi_manipulate_desc: "这个星球上的人们通过心灵感应与措辞谨慎的灵感信息联系在一起，增加了他们的忠诚度以及在需要时为更大的利益奉献自己的必要性。"
+ 
+decision_upgrade_psi_telekinesis: "心灵传动工程"
+decision_upgrade_psi_telekinesis_desc: "为地球上的所有建筑物注入强大的心灵遥感力量，这些力量可以读取人们的思想并自行移动建筑材料，同时为人们提供强大的灵能护盾。"
+ 
+acot_modifier_upgrade_psi_telekinesis: "心灵传动工程"
+acot_modifier_upgrade_psi_telekinesis_desc: "这个星球上充满了强大的心灵遥感力量，它们可以读取人们的思想并自行移动建筑材料，同时为人们提供强大的灵能护盾。"
+ 
+decision_upgrade_hive_harvest: "超自适应序列"
+decision_upgrade_hive_harvest_desc: "使用超适应性序列来进化种群，大大提高他们的生产力和响应能力。"
+ 
+acot_modifier_upgrade_hive_harvest: "超自适应序列"
+acot_modifier_upgrade_hive_harvest_desc: "这个星球上的人们可以在身体和精神上快速适应执行任何任务，从而大大提高他们的生产力和反应能力。"
+ 
+decision_upgrade_hive_growth: "倍增因素"
+decision_upgrade_hive_growth_desc: "通过取代具有将人类所受的伤口转化为更多伤口的能力的治疗因子来改善地球的人口增长。"
+ 
+acot_modifier_upgrade_hive_growth: "倍增因素"
+acot_modifier_upgrade_hive_growth_desc: "对这个星球上的人们造成的伤害并没有从伤害中治愈，而是变成了更多的伤口，大大加速了他们的成长。"
+ 
+decision_upgrade_machine_cyberspace: "次元网络空间网络"
+decision_upgrade_machine_cyberspace_desc: "通过使人们能够通过进入自我创建的次维度空间来自动存储他们的身体，从而消除人们的住房需求。"
+ 
+acot_modifier_upgrade_machine_cyberspace: "次元网络空间网络"
+acot_modifier_upgrade_machine_cyberspace_desc: "这个星球上的人们不需要住房，因为他们的身体会自动进入自我创建的次维度空间来恢复他们的系统。"
+ 
+decision_upgrade_machine_upkeep: "时间框架系统"
+decision_upgrade_machine_upkeep_desc: "通过创建一个小型、基本但有用的时间场来减少人口维护，该时间场将其身体的某些部分悬浮在恒定、永久的状态，从而无需维护它们。"
+ 
+acot_modifier_upgrade_machine_upkeep: "时间框架系统"
+acot_modifier_upgrade_machine_upkeep_desc: "这个星球上的人们能够创造出小而基本但有用的时间场，将他们身体的某些部分悬浮在恒定、永恒的状态，从而无需维护它们。"
+ 
+
+

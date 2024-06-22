@@ -1,0 +1,116 @@
+﻿l_simp_chinese:
+ 
+acot_war_in_hell.1.name: "来自 [from.GetName] 的传入传输"
+acot_war_in_hell.1.desc.spiritualist: "异教徒！,你竟敢用你的亵渎和腐败的改变来玷污神圣的暗物质艺术！？,这种暴行不容忽视！\n\n作为同一信仰的神圣守护者，我们要求你们立即交出你们腐化的技术，否则我们将对你们的私生子带来神圣的惩罚！"
+acot_war_in_hell.1.desc.materialist: "这是什么意思？ ,[FallenEmpireTaskTarget.GetName]，您违反了 Codex GTX-3198 第 133337-163641 页有关使用危险技术的既定规定。 ,§R“在任何情况下，五级技术帝国都不允许在没有我们监督的情况下对基于暗物质的技术进行改造。”§!.\n\n我们现在必须执行法律并没收你们所有的技术。,一旦我们能够验证潜力和危险，您将被允许保留我们认为合适的任何技术。,反抗，我们将使用致命力量，[FallenEmpireTaskTarget.GetName]的技术优势必须占上风。"
+acot_war_in_hell.1.desc.xenophile: "[FallenEmpireTaskTarget.GetName]，您正在尝试使用超出我们安全规定的技术。,我们可以看到您将使用它来达到恶意目的。,这是我们不能允许的。,我们 [FallenEmpireTaskOrigin.GetName] 是这个星系的守护者，因此我们有责任确保你的错误行为不会不受惩罚。\n\n将这些技术归还给我们，我们不会将你视为拥有危险力量的罪犯,。"
+acot_war_in_hell.1.desc.xenophobe: "傻瓜们，你们以为你们愚蠢地超越我们的企图没有被忽视吗！？,我们命令并征服你，将你最近获得的技术交给我们，我们会杀了你。,拒绝，我们就会杀了你。,选择是明确的。,这件事你没有发言权。"
+ 
+acot_war_in_hell.1.a: "Alpha 项目理所当然是我们的！,离开！"
+acot_war_in_hell.1.a.tooltip: "你将被标记为堕落帝国的终结，预计地狱很快就会到来。"
+acot_war_in_hell.1.a.response: "你忘记了你的位置，[root.GetName]。,享受你最后的时刻吧，风暴很快就会来临，吞噬你可怜的帝国。"
+ 
+acot_war_in_hell.1.b: "我们没有时间做这个。,拿着这些数据就出去。"
+acot_war_in_hell.1.b.tooltip: "堕落帝国将苏醒并获得所有他们在超过一百万年以来从未设法学习的先进技术，而我们可以在几年内做到这一点。,但至少他们不会立即向我们宣战。"
+acot_war_in_hell.1.b.response: "我们将会看到。,执行者，准备没收所有技术并将技术缓存带到我们的家园进行研究。"
+
+acot_war_in_hell.1.c: "不要恐吓我们。,我们的军队与你们的军队不相上下。"
+acot_war_in_hell.1.c.tooltip: "考虑到我们目前的军事能力，堕落帝国在尝试任何有趣的事情之前可能会三思而后行。,但这些衰弱的长者往往缺乏理性。"
+acot_war_in_hell.1.c.response: "哈！,你认为你的力量有能力阻止我们吗？,我们将会看到，小家伙。,我们将会看到..."
+
+acot_war_in_hell.1.d: "§Y（谎言）§！,我们的目标是开发这种新的力量供您使用，伟大的力量。"
+acot_war_in_hell.1.d.tooltip: "我们会假装给他们技术，但他们几乎不知道里面的缓存充满了强大的前体病毒，会对基于前体的技术造成巨大损害。,大多数拥有适当科学部门的现代帝国应该能够轻松检测和遏制病毒，但考虑到这些老傻瓜的无能和缺乏发展，他们很可能不会变得更明智。"
+acot_war_in_hell.1.d.response: "好的。,学会尊重我们的权威，你的帝国也许有机会在我们统治的一小部分时间里生存下来。\n\n执行者，准备好没收所有技术，并将技术缓存带到我们的家园进行研究。,我们立即开始准备！"
+ 
+acot_war_in_hell.1.e: "§Y（Phanon Ultra 会员）§!,你知道我们是谁。,你想和军团打交道吗？"
+acot_war_in_hell.1.e.tooltip: "作为 Phanon Ultra 会员的会员，我们获得针对某些权力（例如堕落帝国）的保护。,他们不敢伤害军团的尊贵客户。"
+acot_war_in_hell.1.e.response: "什么！？,胆小鬼！,你以为你可以永远躲在那些妖怪背后吗？,噗！,好吧，但我们不会那么容易忘记这一点。"
+
+acot_war_in_hell.300.name: "旧人苏醒。"
+acot_war_in_hell.300.desc.a: "我们持续的反抗似乎极大地激怒了[FallenEmpireTaskOrigin.GetName]，他们不浪费时间准备他们的战争机器和金库以进行扩张。,他们再次寻求重建自己的霸主地位。"
+acot_war_in_hell.300.desc.b: "银河气候中发生了一个有趣的发展。,显然，[FallenEmpireTaskOrigin.GetName] 似乎已经放弃了之前的隔离政策，现在正在寻求再次扩张。,他们的舰队已经启动，他们的生产设施开始为战争做准备。"
+acot_war_in_hell.300.a: “我们没有留下深刻的印象。” ,# 给予者
+acot_war_in_hell.300.b: “奇特。” ,＃ 其他的
+acot_war_in_hell.300.c: “长老们……” # 子孙
+ 
+acot_war_in_hell.200.name: "旧人苏醒。"
+acot_war_in_hell.200.desc.a: "被我们的反抗激怒了，[FallenEmpireTaskOrigin.GetName]已经开始集结他们破旧的舰队。,他们的大量复制的劣质技术飞船开始蜂拥而至，使他们的家乡星球的空间变得漆黑。,过不了多久他们就会试图攻击我们。"
+acot_war_in_hell.200.desc.b: "银河气候中发生了一个有趣的发展。,显然，一定有人让[FallenEmpireTaskOrigin.GetName]非常非常生气，因为他们决定停止休眠并再次苏醒以夺回失去的荣耀。"
+acot_war_in_hell.200.a: “我们不会动摇。” ,# 给予者
+acot_war_in_hell.200.b: “这对银河系来说不是好兆头。” ,＃ 其他的
+acot_war_in_hell.200.c: “长老们回来了……” # 接班人
+ 
+acot_war_in_hell.400.name: "[FallenEmpireTaskOrigin.GetName] 获得更多舰队！"
+acot_war_in_hell.400.desc: "[FallenEmpireTaskOrigin.GetName] 集结了另一支舰队，越来越多的船只被添加到他们的死亡球中。,看来他们可能是“获得”了额外的帮助，以他们现在的造船能力，不可能在这么短的时间内聚集如此庞大的舰队。"
+acot_war_in_hell.400.a: "我们不会被压倒！"
+acot_war_in_hell.400.b: "一场伟大的战争即将来临。"
+ 
+acot_war_in_hell.401.desc: "[FallenEmpireTaskOrigin.GetName] 集结了另一支舰队，越来越多的船只被添加到他们的死亡球中。,然而，他们的一些舰队似乎并不符合他们的设计。,他们似乎开始耗尽资源。,报告显示，他们聚集的一些舰队采用现代设计，可能来自私营军事公司。,甚至有报道称，他们的舰队中有视力正常的海盗。"
+acot_war_in_hell.401.a: "他们越来越绝望。"
+acot_war_in_hell.401.b: "他们真的很想赢得这场战争......"
+ 
+acot_war_in_hell.16.name: "胜利！"
+acot_war_in_hell.16.desc: "凭借纯粹的决心和意志，我们战胜了倒下的敌人。,我们已经向银河系表明，没落的帝国只不过是一张谎言的蜘蛛网。,相信它们就等于什么都不相信。,堕落帝国号称拥有无与伦比的力量，他们被赋予了终极武器、终极技术……但他们还是失败了！ ,\n\n在他们的最后时刻，他们试图破坏和摧毁最后的知识和资源，但我们的快速行动成功地挫败了大多数这些尝试，而资源的恩惠是,现在可供我们使用。"
+acot_war_in_hell.16.a: "胜利者，战利品归于胜利者！"
+ 
+ 
+acot_war_in_hell.17.desc: "看吧，你们这些平民对战争一无所知。,想到了如此先进的技术，你还是输了，这足以证明你是多么可悲。,这样的力量不适合弱者使用。\n\n为了确保不再犯错误，你们所有的领导人都将被处决。你们的所有技术现在都将由我们指挥和征服。,你的资源将会被耗尽。,你们的舰队将被摧毁。\n\n你们自己很幸运，我们的祖先会做得更糟。"
+acot_war_in_hell.17.a: "糟糕。"
+ 
+acot_war_in_hell.18.name: "史诗般的失败"
+acot_war_in_hell.18.desc.others: "哇！,令人震惊的事情发生了。,显然 [FallenEmpireTaskOrigin.GetName] 的首都系统发生了严重错误！,首都行星刚刚爆炸，所有绕该星系运行的舰队都变成了冒烟的陨石坑。\n\n他们一定出了什么严重的问题。"
+acot_war_in_hell.18.desc: "该设备按计划工作。,堕落帝国试图破解其首都星球上充满病毒的储藏室。,但病毒造成的破坏似乎比我们预想的要大得多，就好像他们的整个系统完全崩溃了！ \n\n报告显示，驻扎在他们家园的整个海军已经与星球本身一起被摧毁。,也许它们已经变得如此依赖先驱技术，以至于病毒基本上将它们全部消灭了。"
+acot_war_in_hell.18.a: "鉴于他们缺乏常识，这种结果是不可避免的。"
+acot_war_in_hell.18.b: "他们被称为堕落帝国是有原因的。"
+ 
+acot_war_in_hell.19.name: "最后的航程"
+acot_war_in_hell.19.desc.others: "哇！,刚刚发生了令人震惊的事情。,显然 [FallenEmpireTaskOrigin.GetName] 的首都系统发生了严重错误！,首都星球刚刚爆炸​​并引发了大规模的连锁反应，不知何故导致整个帝国的基础设施燃烧成大规模的暗物质爆炸。,堕落帝国已不复存在。"
+acot_war_in_hell.19.desc: "该设备按计划工作。,堕落帝国试图破解其首都星球上充满病毒的储藏室。,但病毒造成的破坏似乎比我们预想的要大得多，就好像他们的整个系统完全崩溃了！ \n\n报告显示，驻扎在他们家园的整个海军已经与星球本身一起被摧毁。,也许它们已经变得如此依赖先驱技术，以至于病毒基本上将它们全部消灭了。"
+acot_war_in_hell.19.a: "多么浪费空间。,甩掉包袱。"
+acot_war_in_hell.19.b: "会有人哀悼他们吗？,他们很烦人。"
+ 
+acot_war_in_hell.20.name: "长老的陨落"
+acot_war_in_hell.20.desc: "[mountain_king_victor.GetName] 在对抗堕落帝国的战争中取得了胜利。,这是银河历史的标志，因为最古老的文明之一刚刚被毁灭。,凭借这次胜利，[mountain_king_victor.GetName]获得了多项战利品，他们的力量也变得越来越强大。"
+acot_war_in_hell.20.a: "似乎一个新的银河秩序已经崛起。"
+ 
+acot_war_in_hell.21.name: "长老胜利了"
+acot_war_in_hell.21.desc: "[mountain_king_victor.GetName] 在他们的远征中取得了胜利。,他们没收了敌人的每一项技术。,看来这条老蛇的毒液还没有失去。"
+acot_war_in_hell.21.a: "我们必须谨慎。"
+########## MODIFIERS ###############
+ 
+triggered_opinion_beat_the_fe: "赢得了对抗堕落帝国的地狱之战"
+ 
+triggered_opinion_war_in_hell_fe: "地狱之战候选人"
+ 
+acot_war_in_hell_buff: "地狱战争炒作"
+ 
+ war_goal_acot_wg_mountain_king: "地狱之战"
+ war_goal_acot_wg_mountain_king_desc: "堕落帝国宣战以夺取他们未能自行开发的技术。"
+ 
+acot_war_in_hell.6.name: "地狱战争宣言！"
+acot_war_in_hell.6.desc.spiritualist: "罪人得到应许报应的时候到了。,在你试图超越神的选民的过程中，你对唯一的真正信仰犯下了严重的不尊重。,异教徒们，做好准备吧。,现在正义将得到伸张。"
+acot_war_in_hell.6.desc.materialist: "[root.GetName]，你试图利用危险技术的邪恶行为现在将得到治愈。,广大低等智力群体所表现出的疯狂将再次因我们的行动而平息。,愿银河记住谁是所有技术的先驱！"
+acot_war_in_hell.6.desc.xenophile: "[root.GetRulerName]，你们的行为使你们脱离了议会的怜悯。,在试图篡夺我们既定的霸权的过程中，你们已经让你们的人民遭受毁灭。,你拥有这些危险的技术将会招致其他超级大国的侵略并造成难以言表的混乱。,你的继续存在只会破坏这个星系的和平与秩序，我们必须没收你的技术为己所用，这样我们才能继续成为这个星系最强大的捍卫者。\n\n但不要担心，你的失败将被记录下来，以便,其他人可能会从你的错误中吸取教训。"
+acot_war_in_hell.6.desc.xenophobe: "时机已到。,准备被消灭吧，原始败类。,这样的力量不属于你这样的废物。,你们的世界将会燃烧。"
+acot_war_in_hell.6.a.default: "好吧，无所谓了。,再见。"
+acot_war_in_hell.6.a.mat: "你无法接受事实：我们只是更聪明。"
+acot_war_in_hell.6.a.spirit: "你的神已经抛弃了你，可怜的小家伙 [from.GetSpeciesName]"
+acot_war_in_hell.6.a.paci: "多么可怜的宣战借口，我们期望更好。"
+acot_war_in_hell.6.a.mili: "这场战斗让我厌烦了。,离开。"
+acot_war_in_hell.6.a.phile: "您是问题所在，而我们是解决方案。"
+acot_war_in_hell.6.a.phobe: "呃，古老的化石又开始吠叫了。,典型的原语。"
+acot_war_in_hell.6.a.ega: "你们的人民同意这场战争的概率小于 6.36%"
+acot_war_in_hell.6.a.auth: "强者登高，弱者佯装。"
+acot_war_in_hell.6.a.hive: "我们很多，你只是其中之一。,我们会毁了你。"
+acot_war_in_hell.6.a.machine: "检测到 FallenEmpire.exe。,将文件移至回收站。"
+acot_war_in_hell.6.a.mega: "你们都没有手机吗？"
+acot_war_in_hell.6.a.swarm: "嘘。,食物不应该说话。,现在保持沉默。"
+acot_war_in_hell.6.a.termin: "检测到劣质有机物。,等待终止。"
+acot_war_in_hell.6.a.purifier: "你们的世界将会燃烧，你们的鲜血将会洒落！"
+ 
+ casus_belli_acot_cb_mountain_king: "地狱之战"
+ casus_belli_acot_cb_mountain_king_desc: "堕落帝国已将你标记为地狱之战。,为混乱做好准备。"
+ acot_cb_mountain_king: "地狱之战"
+ acot_cb_mountain_king_desc: "堕落帝国已将你标记为地狱之战。,为混乱做好准备。"
+
+

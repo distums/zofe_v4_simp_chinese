@@ -1,0 +1,25 @@
+﻿l_simp_chinese:
+ #Black Hole Anomaly 1
+ #Writing by deezee
+ #Code by ShiroKitsune
+ mem_black_hole_1_category:0 "超越之路"
+ mem_black_hole_1_category_desc:0 "黑洞§Y[Root.GetName]§!,似乎有一个小物体在事件视界外绕轨道运行。,经过仔细检查，它似乎是一个由未知文明建造的小型古老虫洞发生器，可能是作为打开进入事件视界并调查事件视界之外的事物的一种方式。,我们的科学家希望更仔细地研究这项技术。"
+ MEM_BLACK_HOLE_1_PROJECT:0 "超越之路"
+ MEM_BLACK_HOLE_1_PROJECT_DESC:0 "科学家应该尝试激活古老的虫洞发生器......"
+ mem_black_hole_1.1.name:0 "成功调查"
+ mem_black_hole_1.1.desc:0 "经过仔细检查，虫洞发生器显然已经因时间的流逝而受到损坏。,然而，首席科学家§Y[Root.GetLeaderName]§！,相信可以修复。"
+ mem_black_hole_1.1.a:0 "做吧。"
+ mem_black_hole_1.1.b:0 "这太危险了。"
+ mem_black_hole_1.2.name:0 "成功？"
+ mem_black_hole_1.2.desc:0 "修复虫洞发生器后，科学船§Y[Root.GetName]§!,被吸到事件视界之外，现在失踪了。,我们只能希望虫洞足够坚固，让他们能够返回。"
+ mem_black_hole_1.2.a:0 "我们屏息以待……"
+ mem_black_hole_1.3.name:0 "更远的地方是什么"
+ mem_black_hole_1.3.desc:0 "科学船回来了，船员也发生了转变。,他们拒绝讨论事件视界之外的“无法形容”的事情，但我们必须相信这些见解将使我们的帝国受益。"
+ mem_black_hole_1.3.a:0 "我们希望他们一切都好。"
+ mem_black_hole_1.4.name:0 "古老的遗迹"
+ mem_black_hole_1.4.desc:0 "经过仔细检查，虫洞发生器显然已经因时间的流逝而受到损坏。,鉴于其接近事件视界，进一步的调查将非常不安全，并且不太可能取得成果。"
+ mem_black_hole_1.4.a:0 "不幸的。"
+ mem_black_hole_1.5.name:0 "一个悲剧性的错误！"
+ mem_black_hole_1.5.desc:0 "在研究虫洞发生器时，首席科学家§Y[Root.GetLeaderName]§!,不小心打开了它，却没有意识到它已损坏。,结果，科学船§Y[Root.GetName]§!,被虫洞吸进黑洞，再也见不到了。"
+ mem_black_hole_1.5.a:0 "糟糕的。"
+ 

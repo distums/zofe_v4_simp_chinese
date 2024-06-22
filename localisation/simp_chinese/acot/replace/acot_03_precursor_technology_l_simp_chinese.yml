@@ -1,0 +1,2055 @@
+﻿l_simp_chinese:
+
+################################ FALLEN EMPIRE EXCLUSE STUFFS ##
+
+acot_fe_early_sensor_debuff: "没有人对传感器进行操作..."
+
+requires_no_existing_similar_mega: "$TRIGGER_FAIL$由于现有相同类型的巨型结构而无法建造。"
+
+acot_precursor_gate_cross_buff: "快他妈的博伊"
+
+massive_ship_fallen_empire: "堕落的攻城者"
+massive_ship_fallen_empire_plural: "阵亡的攻城者"
+
+acot_fe_sentinel: "堕落哨兵"
+acot_fe_sentinel_plural: "堕落哨兵"
+
+acot_fe_colossus: "堕落的攻击巨像"
+acot_fe_colossus_plural: "堕落的打击巨像"
+
+acot_fe_titan: "堕落的海伯利安"
+acot_fe_titan_plural: "堕落的海伯利安"
+
+acot_fe_assault_carrier: "倒下的突击母舰"
+acot_fe_assault_carrier_plural: "倒下的突击航母"
+
+large_ship_fallen_empire: "阵亡战列巡洋舰"
+large_ship_fallen_empire_plural: "阵亡战列巡洋舰"
+
+small_ship_fallen_empire: "堕落护送"
+small_ship_fallen_empire_plural: "堕落伴游"
+
+acot_fe_science: "堕落观察者"
+acot_fe_science_plural: "堕落的观察者"
+
+acot_fe_constructor: "堕落的实现者"
+acot_fe_constructor_plural: "堕落的实现者"
+
+acot_fe_colonizer: "堕落定居者"
+acot_fe_colonizer_plural: "堕落的定居者"
+
+acot_fallen_outpost: "阵亡后卫"
+acot_fallen_outpost_plural: "倒下的捍卫者"
+
+acot_fallen_starbase: "堕落的星际基地"
+acot_fallen_starbase_plural: "堕落的星际基地"
+
+acot_fallen_orbital_ring: "坠落的轨道环"
+acot_fallen_orbital_ring_plural: "坠落的轨道环"
+
+############################
+
+tech_acot_precursor_herculean_supply_line_e7: "艰巨的内部家庭制造商"
+tech_acot_precursor_herculean_supply_line_e7_desc: "艰巨的内部家庭制造商"
+tech_acot_precursor_herculean_supply_line_e7_modifier: "升级大力士，使其能够生产以下资源。\n\n§Y10000 £energy£\n10000 £minerals£\n10000 £food£\n5000 £alloys£\n500 £sr_dark_matter£\n500 £acot_sr_dark_energy£§!"
+tech_acot_precursor_herculean_supply_line_e8: "Herculean Alpha 内部家庭制造商"
+tech_acot_precursor_herculean_supply_line_e8_desc: "Herculean Alpha 内部家庭制造商"
+tech_acot_precursor_herculean_supply_line_e8_modifier: "升级大力士，使其能够生产以下资源。\n\n§Y10000 £energy£\n10000 £minerals£\n10000 £food£\n5000 £alloys£\n500 £sr_dark_matter£\n500 £acot_sr_dark_energy£§!"
+tech_acot_precursor_herculean_supply_line_s7: "大力神西格玛内部家庭制造商"
+tech_acot_precursor_herculean_supply_line_s7_desc: "大力神西格玛内部家庭制造商"
+tech_acot_precursor_herculean_supply_line_s7_modifier: "升级大力士，使其能够生产以下资源。\n\n§Y15000 £energy£\n15000 £minerals£\n15000 £food£\n7500 £alloys£\n750 £sr_dark_matter£\n750 £acot_sr_dark_energy£§!\n375 ,£acot_sr_stellarite£§！"
+
+tech_acot_precursor_herculean_spirit_weapon: "大力士武器化光谱结构"
+tech_acot_precursor_herculean_spirit_weapon_desc: "大力士武器化光谱结构"
+tech_acot_precursor_herculean_spirit_weapon_s7: "大力士恒星光谱结构"
+tech_acot_precursor_herculean_spirit_weapon_s7_desc: "大力士恒星光谱结构"
+
+tech_acot_precursor_herculean_wmd_pk: "巨大的共振级联"
+tech_acot_precursor_herculean_wmd_pk_desc: "巨大的共振级联"
+tech_acot_precursor_herculean_wmd_pk_s7: "巨大的恒星共振级联"
+tech_acot_precursor_herculean_wmd_pk_s7_desc: "巨大的恒星共振级联"
+
+tech_acot_precursor_herculean_component: "大力神专用超级组件"
+tech_acot_precursor_herculean_component_desc: "大力神专用超级组件"
+tech_acot_precursor_herculean_component_s7: "大力士恒星超级组件"
+tech_acot_precursor_herculean_component_s7_desc: "大力士恒星超级组件"
+
+tech_acot_precursor_herculean_basic_weapon: "艰巨的三角法令系统"
+tech_acot_precursor_herculean_basic_weapon_desc: "艰巨的三角法令系统"
+tech_acot_precursor_herculean_basic_weapon_s7: "赫拉克勒斯恒星法令系统"
+tech_acot_precursor_herculean_basic_weapon_s7_desc: "赫拉克勒斯恒星法令系统"
+
+tech_acot_precursor_herculean_advanced_weapon: "巨大的先进三角武器系统"
+tech_acot_precursor_herculean_advanced_weapon_desc: "巨大的先进三角武器系统"
+tech_acot_precursor_herculean_advanced_weapon_s7: "大力神先进恒星武器系统"
+tech_acot_precursor_herculean_advanced_weapon_s7_desc: "大力神先进恒星武器系统"
+
+tech_acot_precursor_herculean_hangar_escort: "大力士护航微工厂"
+tech_acot_precursor_herculean_hangar_escort_desc: "大力士护航微工厂"
+tech_acot_precursor_herculean_hangar_escort_s7: "大力神护航微工厂"
+tech_acot_precursor_herculean_hangar_escort_s7_desc: "大力神护航微工厂"
+
+tech_acot_precursor_herculean_hangar_bc: "大力士战列巡洋舰微型工厂"
+tech_acot_precursor_herculean_hangar_bc_desc: "大力士战列巡洋舰微型工厂"
+tech_acot_precursor_herculean_hangar_bc_s7: "大力士恒星战列巡洋舰微型工厂"
+tech_acot_precursor_herculean_hangar_bc_s7_desc: "大力士恒星战列巡洋舰微型工厂"
+
+tech_acot_precursor_herculean_shield: "实验性的大力士维度屏障"
+tech_acot_precursor_herculean_shield_desc: "实验性的大力士维度屏障"
+tech_acot_precursor_herculean_shield_s7: "大力士星次元屏障"
+tech_acot_precursor_herculean_shield_s7_desc: "大力士星次元屏障"
+
+tech_acot_precursor_herculean_science_e7: "艰巨的科学联系"
+tech_acot_precursor_herculean_science_e7_desc: "如果大力神号能够支持自己的科学部门，那将是有益的。,在这种情况下，为什么不简单地将 Science Nexus 放入其中呢？"
+tech_acot_precursor_herculean_science_e7_modifier: "升级大力神，使其能够生产以下资源。\n\n§Y5000 £物理£\n§Y5000 £社会£\n§Y5000 £工程£！"
+
+tech_acot_precursor_herculean_science_e8: "艰巨的高级科学联系"
+tech_acot_precursor_herculean_science_e8_desc: "每一项新知识、每一项新技术、每一项新理解都让我们更接近永恒的遗产。"
+tech_acot_precursor_herculean_science_e8_modifier: "升级大力神，使其能够生产以下资源。\n\n§Y5000 £物理£\n§Y5000 £社会£\n§Y5000 £工程£！"
+
+tech_acot_precursor_herculean_science_curator: "大力士馆长档案包"
+tech_acot_precursor_herculean_science_curator_desc: "尽管馆长们完全无法提供与大力神背后的科学相关的任何内容，但他们对银河历史的了解在未来可能会有用。"
+tech_acot_precursor_herculean_science_curator_modifier: "升级大力神，使其能够生产以下资源。\n\n§Y5000 £物理£\n§Y5000 £社会£\n§Y5000 £工程£!\n§Y500 £unity£!\n§Y5 £minor_artifacts,英镑！"
+
+ACOT_HERCULEAN_SPIRIT_WEAPON_8E: "光谱投影"
+ACOT_HERCULEAN_SPIRIT_WEAPON_8E_DESC: "一种强大的反主力舰武器，利用强光和维度技术的结合来创建大力神之心本身的光谱形式，可以向敌方目标发射。,一旦形态到达目标，它就会物质化到物理空间并引起大规模的负能量爆炸，从而消灭它自己和目标。\n\n§W伤害：§! ,§Y200000-200000§!\n§W准确度：§! ,§Y100§!\n§W跟踪：§! ,§Y100§!\n§W范围：§! ,§Y250§!\n\n§G300% 船体伤害§!\n§G300% 装甲伤害§!\n§G300% 护盾伤害§!\n"
+
+ACOT_HERCULEAN_SPIRIT_WEAPON_7S: "恒星光谱投影"
+ACOT_HERCULEAN_SPIRIT_WEAPON_7S_DESC: "一种强大的反主力舰武器，利用强光和维度技术的结合来创建大力神之心本身的光谱形式，可以向敌方目标发射。,一旦形态到达目标，它就会物质化到物理空间并引起大规模的负能量爆炸，从而消灭它自己和目标。\n\n§W伤害：§! ,§Y500-1000§!\n§W精度：§! ,§Y100§!\n§W跟踪：§! ,§Y100§!\n§W范围：§! ,§Y250§!\n\n§W护盾伤害：§! ,§Y300%§!\n§W护甲伤害：§! ,§Y300%§!\n§W船体损坏：§! ,§Y300%§!\n"
+
+ACOT_HERCULEAN_L_WEAPON_8E: "大力神三力火炮"
+ACOT_HERCULEAN_L_WEAPON_8E_DESC: "大力神三力火炮"
+ACOT_HERCULEAN_L_WEAPON_7S: "大力士恒星三力火炮"
+ACOT_HERCULEAN_L_WEAPON_7S_DESC: "大力士恒星三力火炮"
+
+ACOT_HERCULEAN_PD_WEAPON_8E: "大力神三角力 PDS"
+ACOT_HERCULEAN_PD_WEAPON_8E_DESC: "大力神三角力 PDS"
+ACOT_HERCULEAN_PD_WEAPON_7S: "大力士恒星三角力 PDS"
+ACOT_HERCULEAN_PD_WEAPON_7S_DESC: "大力士恒星三角力 PDS"
+
+ACOT_HERCULEAN_XL_WEAPON_8E: "大力士三力长枪"
+ACOT_HERCULEAN_XL_WEAPON_8E_DESC: "大力士三力长枪"
+ACOT_HERCULEAN_XL_WEAPON_7S: "大力神三力枪"
+ACOT_HERCULEAN_XL_WEAPON_7S_DESC: "大力神三力枪"
+
+ACOT_HERCULEAN_T_WEAPON_8E: "大力士三力增压长枪"
+ACOT_HERCULEAN_T_WEAPON_8E_DESC: "大力士三力增压长枪"
+ACOT_HERCULEAN_T_WEAPON_7S: "大力士恒星三力增压枪"
+ACOT_HERCULEAN_T_WEAPON_7S_DESC: "大力士恒星三力增压枪"
+
+ACOT_HERCULEAN_ESCORT_HANGAR_8E: "阿尔法自动护航"
+ACOT_HERCULEAN_ESCORT_HANGAR_8E_DESC: "可靠护航舰的自动化变体，在大力神号上现场建造，充当纠察支援船。"
+ACOT_HERCULEAN_BC_HANGAR_8E: "阿尔法自动战列巡洋舰"
+ACOT_HERCULEAN_BC_HANGAR_8E_DESC: "古老战列巡洋舰的自动化变体，在大力神号上现场建造，充当远程武装直升机支援。"
+
+ACOT_HERCULEAN_ESCORT_HANGAR_7S: "西格玛自动护航"
+ACOT_HERCULEAN_ESCORT_HANGAR_7S_DESC: "可靠护航舰的自动化变体，在大力神号上现场建造，充当纠察支援船。"
+ACOT_HERCULEAN_BC_HANGAR_7S: "西格玛自动战列巡洋舰"
+ACOT_HERCULEAN_BC_HANGAR_7S_DESC: "古老战列巡洋舰的自动化变体，在大力神号上现场建造，充当远程武装直升机支援。"
+
+ACOT_HERCULEAN_SHIELD_8E: "艰巨的统一防御矩阵"
+ACOT_HERCULEAN_SHIELD_8E_DESC: "艰巨的统一防御矩阵"
+ACOT_HERCULEAN_SHIELD_7S: "大力士恒星防御矩阵"
+ACOT_HERCULEAN_SHIELD_7S_DESC: "大力士恒星防御矩阵"
+
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E: "凝聚谐振级联"
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E_DESC: "仍然令人恐惧的大力神超级武器的改良版、浓缩版，能够通过一次纯粹的虚空能量和维度催化剂的集中爆炸来消灭整个帝国。,一旦充满电，级联将导致系统恒星发生全维度崩溃，将其变成虚空之星，所有其他天体都扭曲得面目全非，同时消灭大部分空间物体。"
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E_ACTION: "凝结共振泪水"
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E: "准备在 $PLANET|Y$ 上引起级联共振"
+MESSAGE_DESC_FOR_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E: "用于引起级联谐振"
+
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E: "谐振级联"
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E_DESC: "可怕的大力士超级武器，能够通过一次纯粹的虚空能量和维度催化剂的集中爆炸来消灭整个帝国。,一旦充满电，级联将导致系统恒星发生全维度崩溃，将其变成虚空之星，所有其他天体都扭曲得面目全非，同时消灭大部分空间物体。,但真正让这种武器可怕的是它能够对敌对势力控制的所有附近系统造成连锁反应。,这些系统将在 60 天内经历相同的共振级联，并将继续扩散，直到不再有邻近的敌对系统为止。,这种武器的一击可能会杀死整个帝国。"
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E_ACTION: "共鸣之泪"
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E: "准备在 $PLANET|Y$ 上引起级联共振"
+MESSAGE_DESC_FOR_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E: "用于引起级联谐振"
+
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S: "增压谐振级联"
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S_DESC: "可怕的大力士超级武器，能够通过一次纯粹的虚空能量和维度催化剂的集中爆炸来消灭整个帝国。,一旦充满电，级联将导致系统恒星发生全维度崩溃，将其变成虚空之星，所有其他天体都扭曲得面目全非，同时消灭大部分空间物体。,但真正让这种武器可怕的是它能够对敌对势力控制的所有附近系统造成连锁反应。,这些系统将在 60 天内经历相同的共振级联，并将继续扩散，直到不再有邻近的敌对系统为止。,此外，该效果会传播到敌对势力拥有的随机系统，远远超出直接相邻的系统，使得增压变体无法逃脱。"
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S_ACTION: "增压共振撕裂"
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S: "准备在 $PLANET|Y$ 上引起级联共振"
+MESSAGE_DESC_FOR_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S: "用于引起级联谐振"
+
+
+ACOT_HERCULEAN_REACTOR: "大力士超级反应堆"
+ACOT_HERCULEAN_REACTOR_DESC: "大力士超级反应堆"
+ACOT_HERCULEAN_REACTOR_TOOLTIP: "大力士次元护盾在受到致命伤害时有 100% 的几率破裂。,需要7200天的充能时间。\n\n只要次元护盾不破裂，大力士就能不断复活。,否则它会被修复，但如果在护盾充电时再次受到致命伤害，它可能会被击败。"
+ACOT_HERCULEAN_REACTOR_E7: "艰巨的理想化超级反应堆"
+ACOT_HERCULEAN_REACTOR_E7_DESC: "艰巨的理想化超级反应堆"
+ACOT_HERCULEAN_REACTOR_E7_TOOLTIP: "大力士次元护盾在受到致命伤害时有 75% 的几率破裂。,需要3600天的充能时间。\n\n只要次元护盾不破裂，大力士就能不断复活。,否则它会被修复，但如果在护盾充电时再次受到致命伤害，它可能会被击败。"
+ACOT_HERCULEAN_REACTOR_S7: "大力士恒星超级反应堆"
+ACOT_HERCULEAN_REACTOR_S7_DESC: "大力士次元护盾在受到致命伤害时有 50% 的几率破裂。,需要1800天的充能时间。\n\n只要次元护盾不破裂，大力士就能不断复活。,否则它会被修复，但如果在护盾充电时再次受到致命伤害，它可能会被击败。"
+ACOT_HERCULEAN_REACTOR_S8: "大力神欧米茄超级反应堆"
+ACOT_HERCULEAN_REACTOR_S8_DESC: "大力士次元护盾在受到致命伤害时有 25% 的几率破裂。,需要900天的充能时间。\n\n只要次元护盾不破裂，大力士就能不断复活。,否则它会被修复，但如果在护盾充电时再次受到致命伤害，它可能会被击败。"
+
+acot_aura_herculean_reactor_dot: "巨大的维度地震引擎"
+acot_aura_herculean_reactor_dot_desc: "巨大的维度地震引擎"
+
+acot_aura_herculean_reactor_defense_buff: "大力士防御增幅器"
+acot_aura_herculean_reactor_defense_buff_desc: "大力士防御增幅器"
+
+acot_aura_herculean_reactor_defense_debuff: "大力士进攻抑制剂"
+acot_aura_herculean_reactor_defense_debuff_desc: "大力士进攻抑制剂"
+
+ACOT_HERCULEAN_COMPUTER: "巨大的超级计算机"
+ACOT_HERCULEAN_COMPUTER_DESC: "巨大的超级计算机"
+ACOT_HERCULEAN_COMPUTER_E7: "艰巨的理想化超级计算机"
+ACOT_HERCULEAN_COMPUTER_E7_DESC: "艰巨的理想化超级计算机"
+ACOT_HERCULEAN_COMPUTER_S7: "大力士恒星超级计算机"
+ACOT_HERCULEAN_COMPUTER_S7_DESC: "大力士恒星超级计算机"
+
+acot_aura_herculean_computer_buff: "大力神协调矩阵"
+acot_aura_herculean_computer_buff_desc: "大力神协调矩阵"
+
+acot_aura_herculean_computer_debuff: "大力干扰矩阵"
+acot_aura_herculean_computer_debuff_desc: "大力干扰矩阵"
+
+ACOT_HERCULEAN_FTL: "大力神超级车手"
+ACOT_HERCULEAN_FTL_DESC: "大力神超级车手"
+ACOT_HERCULEAN_FTL_E7: "艰巨的理想化超级车手"
+ACOT_HERCULEAN_FTL_E7_DESC: "艰巨的理想化超级车手"
+ACOT_HERCULEAN_FTL_S7: "大力神超级车手"
+ACOT_HERCULEAN_FTL_S7_DESC: "大力神超级车手"
+
+acot_aura_herculean_ftl_dot: "巨大的冲压速度"
+acot_aura_herculean_ftl_dot_desc: "巨大的冲压速度"
+
+acot_aura_herculean_ftl_buff: "大力士维度操纵器"
+acot_aura_herculean_ftl_buff_desc: "大力士维度操纵器"
+
+acot_aura_herculean_ftl_debuff: "大力士维度操纵器"
+acot_aura_herculean_ftl_debuff_desc: "大力士维度操纵器"
+
+ACOT_HERCULEAN_BEHAVIOR: "大力神超级分析仪"
+ACOT_HERCULEAN_BEHAVIOR_DESC: "大力神超级分析仪"
+ACOT_HERCULEAN_BEHAVIOR_E7: "艰巨的理想化超级分析仪"
+ACOT_HERCULEAN_BEHAVIOR_E7_DESC: "艰巨的理想化超级分析仪"
+ACOT_HERCULEAN_BEHAVIOR_S7: "大力士恒星超级分析仪"
+ACOT_HERCULEAN_BEHAVIOR_S7_DESC: "大力士恒星超级分析仪"
+
+ACOT_HERCULEAN_SPECIAL_1: "大力士维度操纵器"
+ACOT_HERCULEAN_SPECIAL_1_DESC: "大力士维度操纵器"
+
+ACOT_HERCULEAN_SPECIAL_2: "大力士超级工厂"
+ACOT_HERCULEAN_SPECIAL_2_DESC: "大力士超级工厂"
+
+#################################### AURA STUFFS ####################################
+
+ACOT_PRECURSOR_STARBASE_AURA: "奇怪的光环"
+ACOT_PRECURSOR_STARBASE_AURA: "雷姆不能诚实地说它做了什么。"
+
+ACOT_PRECURSOR_SHIP_AURA_PLEB_BUFFER: "现代模式车队同步器"
+ACOT_PRECURSOR_SHIP_AURA_PLEB_BUFFER_DESC: "同步器旨在帮助协调现代船舶。,对于不依赖先行者的舰队，或者与先行者或堕落帝国船只作战时有用。,应小心谨慎，因为该模块适用于所有相关方，包括敌方现代舰艇。"
+friendly_acot_precursor_pleb_buffer_aura: "现代模式车队同步器"
+hostile_acot_precursor_pleb_buffer_aura: "现代模式车队同步器"
+
+ACOT_PRECURSOR_SHIP_AURA_PRECURSOR_BUFFER: "先驱型舰队同步器"
+ACOT_PRECURSOR_SHIP_AURA_PLEB_BUFFER_DESC: "同步器旨在帮助协调先行舰。,对于主要由先行者设计组成的舰队很有用。,应注意避免对敌方先行者飞船进行抛光。"
+friendly_acot_precursor_cursor_buffer_aura: "先驱型舰队同步器"
+hostile_acot_precursor_cursor_buffer_aura: "先驱型舰队同步器"
+
+ACOT_PRECURSOR_SHIP_AURA_PRECURSOR_DEBUFFER: "反前体模式舰队抑制剂"
+ACOT_PRECURSOR_SHIP_AURA_PRECURSOR_DEBUFFER_DESC: "旨在干扰和篡改前驱船系统的抑制剂。,当与其他具有现代或其他设计的先行者或堕落帝国船只作战时非常有用。,请注意，这也会篡改我们前身的船只，除了带有此组件的船只。"
+friendly_acot_precursor_cursor_debuffer_aura: "反前体模式舰队抑制剂"
+hostile_acot_precursor_cursor_debuffer_aura: "反前体模式舰队抑制剂"
+
+ACOT_PRECURSOR_SHIP_AURA_GUARDIAN_SHIELD: "守护者护盾发生器"
+ACOT_PRECURSOR_SHIP_AURA_GUARDIAN_SHIELD_DESC: "专业舰队护盾生成器，为系统中的所有盟军舰艇提供固定数量的具有非常高再生能力的护盾。,对于可能缺乏耐用性的小型船舶特别有用。"
+acot_precursor_guardian_shield_aura: "守护者护盾发生器"
+
+ACOT_PRECURSOR_SHIP_AURA_TRACKING_DEBUFFER: "太空网络战系统"
+ACOT_PRECURSOR_SHIP_AURA_TRACKING_DEBUFFER_DESC: "专门的光环旨在对抗由更强大的传感器提供的日益精确和高跟踪的武器。,这将再次让躲避在高级战争中占有一席之地。"
+acot_precursor_tracking_debuffer_aura: "太空网络战系统r"
+
+ACOT_PRECURSOR_SHIP_AURA_PD_JAMMER: "点防御干扰器"
+ACOT_PRECURSOR_SHIP_AURA_PD_JAMMER_DESC: "如果我们希望我们的导弹和攻击机在其使用寿命内取得任何成果，点防御武器的致命性不断增加，就需要采取某种形式的对策。"
+acot_precursor_pd_jammer_aura: "点防御干扰器"
+
+####################################
+
+ap_precursor_dream: "追寻过去"
+ap_precursor_dream_desc: "过去充满了许多秘密，他们的知识和力量都随着时间的流逝而消失了。,堕落者可能已经抛弃了他们，但我们将夺回古人的荣耀。"
+ap_precursor_dream_tooltip: "将最大重新想象尝试增加到§Y6§!。\n\n启用没落帝国未使用的更先进的重新想象设计。"
+
+
+requires_asking_sophia: “需要从前体数据库获得更多详细信息。”
+
+##########
+
+mod_shipsize_precursor_escort_hull_add: "先行者护航船体点"
+mod_shipsize_precursor_battlecruiser_hull_add: "先行者战列巡洋舰船体点"
+mod_shipsize_precursor_assault_carrier_hull_add: "先行者突击母舰船体点"
+mod_shipsize_precursor_sentinel_hull_add: "先行者哨兵船体点"
+mod_shipsize_sofe_gatekeeper_warden_hull_add: "先行者守门者船体点"
+mod_shipsize_precursor_titan_hull_add: "先驱海伯利安船体点"
+mod_shipsize_precursor_colossus_hull_add: "先行者大力神赫尔点"
+mod_shipsize_precursor_guardian_hull_add: "先行者守护者船体点"
+
+mod_shipsize_precursor_science_hull_add: "先行者神谕船体点"
+mod_shipsize_precursor_constructor_hull_add: "前体初始化器赫尔点"
+mod_shipsize_precursor_colonizer_hull_add: "先行者使者船体点"
+
+mod_shipsize_precursor_platform_l_hull_add: "前体初始化器赫尔点"
+mod_shipsize_precursor_platform_m_hull_add: "前体初始化器赫尔点"
+
+##########
+
+mod_shipsize_precursor_escort_hull_mult: "先行者护航船体点"
+mod_shipsize_precursor_battlecruiser_hull_mult: "先行者战列巡洋舰船体点"
+mod_shipsize_precursor_assault_carrier_hull_mult: "先行者突击母舰船体点"
+mod_shipsize_precursor_sentinel_hull_mult: "先行者哨兵船体点"
+mod_shipsize_sofe_gatekeeper_warden_hull_mult: "先行者守门者船体点"
+mod_shipsize_precursor_titan_hull_mult: "先驱海伯利安船体点"
+mod_shipsize_precursor_colossus_hull_mult: "先行者大力神赫尔点"
+mod_shipsize_precursor_guardian_hull_mult: "先行者守护者船体点"
+
+mod_shipsize_precursor_science_hull_mult: "先行者神谕船体点"
+mod_shipsize_precursor_constructor_hull_mult: "前体初始化器赫尔点"
+mod_shipsize_precursor_colonizer_hull_mult: "先行者使者船体点"
+
+mod_shipsize_precursor_platform_l_hull_mult: "前体初始化器赫尔点"
+mod_shipsize_precursor_platform_m_hull_mult: "前体初始化器赫尔点"
+
+##########
+
+mod_shipsize_precursor_escort_build_speed_mult: "先行者护航建造速度"
+mod_shipsize_precursor_battlecruiser_build_speed_mult: "先行者战列巡洋舰建造速度"
+mod_shipsize_precursor_titan_build_speed_mult: "前体亥伯龙建造速度"
+mod_shipsize_precursor_assault_carrier_build_speed_mult: "先行者突击母舰建造速度"
+mod_shipsize_precursor_sentinel_build_speed_mult: "先行者哨兵建造速度"
+mod_shipsize_precursor_guardian_build_speed_add: "先行者守护者建造速度"
+mod_shipsize_sofe_gatekeeper_warden_build_speed_mult: "网守构建速度"
+mod_shipsize_precursor_guardian_build_speed_mult: "先行者守护者建造速度"
+
+####PRECURSOR SHIP NAMES
+
+precursor_escort: "先行者护航"
+precursor_escort_plural: "先行者护送"
+
+precursor_battlecruiser: "先行者战列巡洋舰"
+precursor_battlecruiser_plural: "先行者战列巡洋舰"
+
+precursor_assault_carrier: "先行者突击母舰"
+precursor_assault_carrier_plural: "先行者突击母舰"
+
+precursor_titan: "先驱海伯利安"
+precursor_titan_plural: "前体亥伯龙"
+
+precursor_guardian: "先行者守护者"
+precursor_guardian_plural: "先行者守护者"
+
+precursor_sentinel: "先行者哨兵"
+precursor_sentinel_plural: "先驱哨兵"
+
+sofe_gatekeeper_warden: "守门人"
+sofe_gatekeeper_warden_plural: "守门人"
+
+precursor_colossus: "赫拉克勒斯先行者"
+precursor_colossus_plural: "赫拉克勒斯先行者"
+
+precursor_science: "先驱神谕"
+precursor_science_plural: "先行神谕"
+
+precursor_constructor: "前体初始化器"
+precursor_constructor_plural: "前体初始化器"
+
+precursor_colonizer: "先行者使者"
+precursor_colonizer_plural: "先行者使者"
+
+precursor_world_shaper: "先行者天体锻造者"
+precursor_world_shaper_plural: "先行者天体锻造者"
+
+precursor_platform_l: "先行者即时塔"
+precursor_platform_l_plural: "先行者即时塔"
+
+precursor_platform_m: "先行者即时排斥器"
+precursor_platform_m_plural: "先行者即时排斥器"
+
+#### PRECURSOR SHIP SECTION #####
+##################################################################################################
+PRECURSOR_SENTINEL_CORE_SIEGE_KEY: "哨兵破城之眼"
+PRECURSOR_SENTINEL_CORE_ARTILLERY_KEY: "哨兵炮眼"
+PRECURSOR_SENTINEL_CORE_CARRIER_KEY: "哨兵载体眼"
+PRECURSOR_SENTINEL_WING_SIEGE_KEY: "哨兵破城翼"
+PRECURSOR_SENTINEL_WING_ARTILLERY_KEY: "哨兵炮兵联队"
+PRECURSOR_SENTINEL_WING_CARRIER_KEY: "哨兵航空母舰翼"
+
+ALPHA_PRECURSOR_SENTINEL_CORE_SIEGE_KEY: "阿尔法哨兵攻城眼"
+ALPHA_PRECURSOR_SENTINEL_CORE_ARTILLERY_KEY: "阿尔法哨兵炮眼"
+ALPHA_PRECURSOR_SENTINEL_CORE_CARRIER_KEY: "阿尔法哨兵载体眼"
+ALPHA_PRECURSOR_SENTINEL_WING_SIEGE_KEY: "阿尔法哨兵破军联队"
+ALPHA_PRECURSOR_SENTINEL_WING_ARTILLERY_KEY: "阿尔法哨兵炮兵联队"
+ALPHA_PRECURSOR_SENTINEL_WING_CARRIER_KEY: "阿尔法哨兵航空母舰联队"
+
+SIGMA_PRECURSOR_SENTINEL_CORE_SIEGE_KEY: "辛加哨兵破城之眼"
+SIGMA_PRECURSOR_SENTINEL_CORE_ARTILLERY_KEY: "辛加哨兵炮眼"
+SIGMA_PRECURSOR_SENTINEL_CORE_CARRIER_KEY: "Simga Sentinel 载体眼"
+SIGMA_PRECURSOR_SENTINEL_WING_SIEGE_KEY: "辛加哨兵破城翼"
+SIGMA_PRECURSOR_SENTINEL_WING_ARTILLERY_KEY: "辛加哨兵炮兵联队"
+SIGMA_PRECURSOR_SENTINEL_WING_CARRIER_KEY: "辛加哨兵航空母舰翼"
+
+PHANON_PRECURSOR_SENTINEL_CORE_SIEGE_KEY: "符文哨兵攻城之眼"
+PHANON_PRECURSOR_SENTINEL_CORE_ARTILLERY_KEY: "符文哨兵炮眼"
+PHANON_PRECURSOR_SENTINEL_CORE_CARRIER_KEY: "符文哨兵航母之眼"
+PHANON_PRECURSOR_SENTINEL_WING_SIEGE_KEY: "符文哨兵破城之翼"
+PHANON_PRECURSOR_SENTINEL_WING_ARTILLERY_KEY: "符文哨兵炮兵联队"
+PHANON_PRECURSOR_SENTINEL_WING_CARRIER_KEY: "符文哨兵航空母舰翼"
+
+MASTER_PRECURSOR_SENTINEL_CORE_SIEGE_KEY: "哨兵大师攻城之眼"
+MASTER_PRECURSOR_SENTINEL_CORE_ARTILLERY_KEY: "哨兵大师炮眼"
+MASTER_PRECURSOR_SENTINEL_CORE_CARRIER_KEY: "主哨兵航母之眼"
+MASTER_PRECURSOR_SENTINEL_WING_SIEGE_KEY: "哨兵大师攻城翼"
+MASTER_PRECURSOR_SENTINEL_WING_ARTILLERY_KEY: "哨兵大师炮兵联队"
+MASTER_PRECURSOR_SENTINEL_WING_CARRIER_KEY: "主哨兵航空母舰联队"
+
+OMEGA_PRECURSOR_SENTINEL_CORE_SIEGE_KEY: "欧米茄哨兵攻城之眼"
+OMEGA_PRECURSOR_SENTINEL_CORE_ARTILLERY_KEY: "欧米茄哨兵炮眼"
+OMEGA_PRECURSOR_SENTINEL_CORE_CARRIER_KEY: "欧米茄哨兵载体眼"
+OMEGA_PRECURSOR_SENTINEL_WING_SIEGE_KEY: "欧米茄哨兵破军之翼"
+OMEGA_PRECURSOR_SENTINEL_WING_ARTILLERY_KEY: "欧米茄哨兵炮兵联队"
+OMEGA_PRECURSOR_SENTINEL_WING_CARRIER_KEY: "欧米茄哨兵航空母舰翼"
+
+##################################################################################################
+
+PRECURSOR_GUARDIAN_TOP_STRIKER_KEY: "守护者前锋核心"
+PRECURSOR_GUARDIAN_TOP_ARTILLERY_KEY: "守护炮核心"
+PRECURSOR_GUARDIAN_TOP_HANGAR_KEY: "守护者机库核心"
+PRECURSOR_GUARDIAN_SIDE_PICKET_KEY: "守护者纠察队"
+PRECURSOR_GUARDIAN_SIDE_STRIKER_KEY: "守护者前锋翼"
+PRECURSOR_GUARDIAN_SIDE_HANGAR_KEY: "守护者机库翼"
+
+ALPHA_PRECURSOR_GUARDIAN_TOP_STRIKER_KEY: "阿尔法守护者前锋核心"
+ALPHA_PRECURSOR_GUARDIAN_TOP_ARTILLERY_KEY: "阿尔法守护者火炮核心"
+ALPHA_PRECURSOR_GUARDIAN_TOP_HANGAR_KEY: "阿尔法守护者机库核心"
+ALPHA_PRECURSOR_GUARDIAN_SIDE_PICKET_KEY: "阿尔法守护者纠察队"
+ALPHA_PRECURSOR_GUARDIAN_SIDE_STRIKER_KEY: "阿尔法守护者前锋翼"
+ALPHA_PRECURSOR_GUARDIAN_SIDE_HANGAR_KEY: "阿尔法守护者机库翼"
+
+SIGMA_PRECURSOR_GUARDIAN_TOP_STRIKER_KEY: "西格玛守护者前锋核心"
+SIGMA_PRECURSOR_GUARDIAN_TOP_ARTILLERY_KEY: "西格玛守护者火炮核心"
+SIGMA_PRECURSOR_GUARDIAN_TOP_HANGAR_KEY: "西格玛守护者机库核心"
+SIGMA_PRECURSOR_GUARDIAN_SIDE_PICKET_KEY: "西格玛守护者纠察队"
+SIGMA_PRECURSOR_GUARDIAN_SIDE_STRIKER_KEY: "西格玛守护者前锋翼"
+SIGMA_PRECURSOR_GUARDIAN_SIDE_HANGAR_KEY: "西格玛守护者机库翼"
+
+PHANON_PRECURSOR_GUARDIAN_TOP_STRIKER_KEY: "符文守护者前锋核心"
+PHANON_PRECURSOR_GUARDIAN_TOP_ARTILLERY_KEY: "符文守护者火炮核心"
+PHANON_PRECURSOR_GUARDIAN_TOP_HANGAR_KEY: "符文守护者机库核心"
+PHANON_PRECURSOR_GUARDIAN_SIDE_PICKET_KEY: "符文守护者纠察翼"
+PHANON_PRECURSOR_GUARDIAN_SIDE_STRIKER_KEY: "符文守护者前锋之翼"
+PHANON_PRECURSOR_GUARDIAN_SIDE_HANGAR_KEY: "符文守护者机库翼"
+
+MASTER_PRECURSOR_GUARDIAN_TOP_STRIKER_KEY: "大师守护者前锋核心"
+MASTER_PRECURSOR_GUARDIAN_TOP_ARTILLERY_KEY: "守护大师火炮核心"
+MASTER_PRECURSOR_GUARDIAN_TOP_HANGAR_KEY: "守护大师机库核心"
+MASTER_PRECURSOR_GUARDIAN_SIDE_PICKET_KEY: "大师守护者纠察队"
+MASTER_PRECURSOR_GUARDIAN_SIDE_STRIKER_KEY: "大师守护者前锋翼"
+MASTER_PRECURSOR_GUARDIAN_SIDE_HANGAR_KEY: "守护大师机库翼"
+
+OMEGA_PRECURSOR_GUARDIAN_TOP_STRIKER_KEY: "欧米茄守护者前锋核心"
+OMEGA_PRECURSOR_GUARDIAN_TOP_ARTILLERY_KEY: "欧米茄守护者火炮核心"
+OMEGA_PRECURSOR_GUARDIAN_TOP_HANGAR_KEY: "欧米茄守护者机库核心"
+OMEGA_PRECURSOR_GUARDIAN_SIDE_PICKET_KEY: "欧米茄守护者纠察翼"
+OMEGA_PRECURSOR_GUARDIAN_SIDE_STRIKER_KEY: "欧米茄守护者前锋翼"
+OMEGA_PRECURSOR_GUARDIAN_SIDE_HANGAR_KEY: "欧米茄守护者机库翼"
+
+##################################################################################################
+
+PRECURSOR_COLOSSUS_W_SECTION: "大力士之心"
+PRECURSOR_COLOSSUS_T_SECTION: "大力神泰坦柱"
+PRECURSOR_COLOSSUS_XL_SECTION: "大力神攻城柱"
+PRECURSOR_COLOSSUS_L_SECTION: "大力士攻击柱"
+PRECURSOR_COLOSSUS_H_SECTION: "巨大的承载柱"
+
+ALPHA_PRECURSOR_COLOSSUS_W_SECTION: "阿尔法大力神之心"
+ALPHA_PRECURSOR_COLOSSUS_T_SECTION: "阿尔法大力神泰坦柱"
+ALPHA_PRECURSOR_COLOSSUS_XL_SECTION: "阿尔法大力神攻城柱"
+ALPHA_PRECURSOR_COLOSSUS_L_SECTION: "阿尔法大力士攻击柱"
+ALPHA_PRECURSOR_COLOSSUS_H_SECTION: "阿尔法大力士航母支柱"
+
+SIGMA_PRECURSOR_COLOSSUS_W_SECTION: "西格玛大力神之心"
+SIGMA_PRECURSOR_COLOSSUS_T_SECTION: "西格玛大力神泰坦柱"
+SIGMA_PRECURSOR_COLOSSUS_XL_SECTION: "西格玛大力神攻城柱"
+SIGMA_PRECURSOR_COLOSSUS_L_SECTION: "西格玛大力士攻击柱"
+SIGMA_PRECURSOR_COLOSSUS_H_SECTION: "西格玛大力神承载柱"
+
+PHANON_PRECURSOR_COLOSSUS_W_SECTION: "法农大力神之心"
+PHANON_PRECURSOR_COLOSSUS_T_SECTION: "法农大力神泰坦柱"
+PHANON_PRECURSOR_COLOSSUS_XL_SECTION: "法农大力神攻城柱"
+PHANON_PRECURSOR_COLOSSUS_L_SECTION: "法农赫拉克勒斯攻击柱"
+PHANON_PRECURSOR_COLOSSUS_H_SECTION: "Phanon Herculean 载体柱"
+
+MASTER_PRECURSOR_COLOSSUS_W_SECTION: "大力神之心大师"
+MASTER_PRECURSOR_COLOSSUS_T_SECTION: "大力士泰坦柱大师"
+MASTER_PRECURSOR_COLOSSUS_XL_SECTION: "大力神攻城柱大师"
+MASTER_PRECURSOR_COLOSSUS_L_SECTION: "大师大力士攻击柱"
+MASTER_PRECURSOR_COLOSSUS_H_SECTION: "大师大力士承载柱"
+
+OMEGA_PRECURSOR_COLOSSUS_W_SECTION: "欧米茄大力神之心"
+OMEGA_PRECURSOR_COLOSSUS_T_SECTION: "欧米茄大力神泰坦柱"
+OMEGA_PRECURSOR_COLOSSUS_XL_SECTION: "欧米茄大力神攻城柱"
+OMEGA_PRECURSOR_COLOSSUS_L_SECTION: "欧米茄大力士攻击柱"
+OMEGA_PRECURSOR_COLOSSUS_H_SECTION: "欧米茄大力神运输支柱"
+
+##################################################################################################
+PRECURSOR_ESCORT_BOW_ARTILLERY_KEY: "护航炮兵核心"
+PRECURSOR_ESCORT_BOW_HANGAR_KEY: "护航机库核心"
+PRECURSOR_ESCORT_BOW_PICKET_KEY: "护卫纠察队核心"
+PRECURSOR_ESCORT_MID_GUNSHIP_KEY: "护航武装直升机联队"
+PRECURSOR_ESCORT_MID_MEDIUM_KEY: "护航前锋联队"
+PRECURSOR_ESCORT_MID_ARTILLERY_KEY: "护航炮兵联队"
+
+ALPHA_PRECURSOR_ESCORT_BOW_ARTILLERY_KEY: "阿尔法护航炮兵核心"
+ALPHA_PRECURSOR_ESCORT_BOW_HANGAR_KEY: "阿尔法护航机库核心"
+ALPHA_PRECURSOR_ESCORT_BOW_PICKET_KEY: "阿尔法护航纠察核心"
+ALPHA_PRECURSOR_ESCORT_MID_GUNSHIP_KEY: "阿尔法护航武装直升机联队"
+ALPHA_PRECURSOR_ESCORT_MID_MEDIUM_KEY: "阿尔法护航前锋联队"
+ALPHA_PRECURSOR_ESCORT_MID_ARTILLERY_KEY: "阿尔法护航炮兵联队"
+
+STELLAR_PRECURSOR_ESCORT_BOW_ARTILLERY_KEY: "西格玛护航火炮核心"
+STELLAR_PRECURSOR_ESCORT_BOW_HANGAR_KEY: "西格玛护航机库核心"
+STELLAR_PRECURSOR_ESCORT_BOW_PICKET_KEY: "Sigma Escort 纠察核心"
+STELLAR_PRECURSOR_ESCORT_MID_GUNSHIP_KEY: "西格玛护航武装直升机联队"
+STELLAR_PRECURSOR_ESCORT_MID_MEDIUM_KEY: "西格玛护卫前锋联队"
+STELLAR_PRECURSOR_ESCORT_MID_ARTILLERY_KEY: "西格玛护航炮兵联队"
+
+PHANON_PRECURSOR_ESCORT_BOW_ARTILLERY_KEY: "法能护卫火炮核心"
+PHANON_PRECURSOR_ESCORT_BOW_HANGAR_KEY: "Phanon Escort 机库核心"
+PHANON_PRECURSOR_ESCORT_BOW_PICKET_KEY: "Phanon Escort 纠察核心"
+PHANON_PRECURSOR_ESCORT_MID_GUNSHIP_KEY: "法能护航武装直升机联队"
+PHANON_PRECURSOR_ESCORT_MID_MEDIUM_KEY: "法能护航前锋联队"
+PHANON_PRECURSOR_ESCORT_MID_ARTILLERY_KEY: "法能护航炮兵联队"
+
+MASTER_PRECURSOR_ESCORT_BOW_ARTILLERY_KEY: "主护航炮核心"
+MASTER_PRECURSOR_ESCORT_BOW_HANGAR_KEY: "主护航机库核心"
+MASTER_PRECURSOR_ESCORT_BOW_PICKET_KEY: "主护卫纠察队核心"
+MASTER_PRECURSOR_ESCORT_MID_GUNSHIP_KEY: "主护航武装直升机联队"
+MASTER_PRECURSOR_ESCORT_MID_MEDIUM_KEY: "大师护卫前锋联队"
+MASTER_PRECURSOR_ESCORT_MID_ARTILLERY_KEY: "主护航炮兵联队"
+
+OMEGA_PRECURSOR_ESCORT_BOW_ARTILLERY_KEY: "欧米茄护航火炮核心"
+OMEGA_PRECURSOR_ESCORT_BOW_HANGAR_KEY: "欧米茄护航机库核心"
+OMEGA_PRECURSOR_ESCORT_BOW_PICKET_KEY: "欧米茄 Escort 纠察核心"
+OMEGA_PRECURSOR_ESCORT_MID_GUNSHIP_KEY: "欧米茄护航武装直升机联队"
+OMEGA_PRECURSOR_ESCORT_MID_MEDIUM_KEY: "欧米茄护航前锋联队"
+OMEGA_PRECURSOR_ESCORT_MID_ARTILLERY_KEY: "欧米茄护航炮兵联队"
+
+##################################################################################################
+PRECURSOR_BATTLECRUISER_BOW_ARILLTERY_KEY: "战列巡洋舰火炮核心"
+PRECURSOR_BATTLECRUISER_BOW_GUNSHIP_KEY: "战列巡洋舰武装直升机核心"
+PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY: "战列巡洋舰航母核心"
+PRECURSOR_BATTLECRUISER_MID_GUNSHIP_KEY: "战列巡洋舰武装直升机机翼"
+PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY: "战列巡洋舰炮兵联队"
+PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY: "战列巡洋舰航空母舰翼"
+
+ALPHA_PRECURSOR_BATTLECRUISER_BOW_ARILLTERY_KEY: "阿尔法战列巡洋舰火炮核心"
+ALPHA_PRECURSOR_BATTLECRUISER_BOW_GUNSHIP_KEY: "阿尔法战列巡洋舰武装直升机核心"
+ALPHA_PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY: "阿尔法战列巡洋舰航母核心"
+ALPHA_PRECURSOR_BATTLECRUISER_MID_GUNSHIP_KEY: "阿尔法战列巡洋舰武装直升机联队"
+ALPHA_PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY: "阿尔法战列巡洋舰炮兵联队"
+ALPHA_PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY: "阿尔法战列巡洋舰舰载机翼"
+
+STELLAR_PRECURSOR_BATTLECRUISER_BOW_ARILLTERY_KEY: "西格玛战列巡洋舰火炮核心"
+STELLAR_PRECURSOR_BATTLECRUISER_BOW_GUNSHIP_KEY: "西格玛战列巡洋舰武装直升机核心"
+STELLAR_PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY: "西格玛战列巡洋舰航母核心"
+STELLAR_PRECURSOR_BATTLECRUISER_MID_GUNSHIP_KEY: "西格玛战列巡洋舰武装直升机联队"
+STELLAR_PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY: "西格玛战列巡洋舰炮兵联队"
+STELLAR_PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY: "西格玛战列巡洋舰航空母舰翼"
+
+PHANON_PRECURSOR_BATTLECRUISER_BOW_ARILLTERY_KEY: "法能战列巡洋舰火炮核心"
+PHANON_PRECURSOR_BATTLECRUISER_BOW_GUNSHIP_KEY: "法能战列巡洋舰武装直升机核心"
+PHANON_PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY: "法能战列巡洋舰航母核心"
+PHANON_PRECURSOR_BATTLECRUISER_MID_GUNSHIP_KEY: "法农战列巡洋舰武装直升机联队"
+PHANON_PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY: "法能战列巡洋舰炮兵联队"
+PHANON_PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY: "法农号战列巡洋舰舰载机翼"
+
+MASTER_PRECURSOR_BATTLECRUISER_BOW_ARILLTERY_KEY: "大师级战列巡洋舰火炮核心"
+MASTER_PRECURSOR_BATTLECRUISER_BOW_GUNSHIP_KEY: "大师级战列巡洋舰武装直升机核心"
+MASTER_PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY: "大师级战列巡洋舰航母核心"
+MASTER_PRECURSOR_BATTLECRUISER_MID_GUNSHIP_KEY: "大师级战列巡洋舰武装直升机联队"
+MASTER_PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY: "大师级战列巡洋舰炮兵联队"
+MASTER_PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY: "大师级战列巡洋舰航空母舰翼"
+
+OMEGA_PRECURSOR_BATTLECRUISER_BOW_ARILLTERY_KEY: "欧米茄战列巡洋舰火炮核心"
+OMEGA_PRECURSOR_BATTLECRUISER_BOW_GUNSHIP_KEY: "欧米茄战列巡洋舰武装直升机核心"
+OMEGA_PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY: "欧米茄战列巡洋舰航母核心"
+OMEGA_PRECURSOR_BATTLECRUISER_MID_GUNSHIP_KEY: "欧米茄战列巡洋舰武装直升机联队"
+OMEGA_PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY: "欧米茄战列巡洋舰炮兵联队"
+OMEGA_PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY: "欧米茄战列巡洋舰舰载机翼"
+
+#######################################################################################################
+
+PRECURSOR_TITAN_SPINAL_ARTILLERY_KEY: "海伯利安核心"
+PRECURSOR_TITAN_SPINAL_SIEGE_KEY: "海伯利安攻城核心"
+PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "海伯利安载体核心"
+PRECURSOR_TITAN_MID_ARTILLERY_KEY: "海伯利安炮兵联队"
+PRECURSOR_TITAN_MID_SIEGE_KEY: "亥伯龙攻城翼"
+PRECURSOR_TITAN_MID_CARRIER_KEY: "海伯利安航空母舰机翼"
+
+ALPHA_PRECURSOR_TITAN_SPINAL_ARTILLERY_KEY: "阿尔法海伯利安核心"
+ALPHA_PRECURSOR_TITAN_SPINAL_SIEGE_KEY: "Alpha Hyperion 攻城者核心"
+ALPHA_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "阿尔法海伯利安航母核心"
+ALPHA_PRECURSOR_TITAN_MID_ARTILLERY_KEY: "阿尔法海伯利安炮兵联队"
+ALPHA_PRECURSOR_TITAN_MID_SIEGE_KEY: "阿尔法亥伯龙攻城翼"
+ALPHA_PRECURSOR_TITAN_MID_CARRIER_KEY: "阿尔法海伯利安航空母舰机翼"
+
+SIGMA_PRECURSOR_TITAN_SPINAL_ARTILLERY_KEY: "西格玛海波龙核心"
+SIGMA_PRECURSOR_TITAN_SPINAL_SIEGE_KEY: "西格玛海伯利安攻城核心"
+SIGMA_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "Sigma Hyperion 载体核心"
+SIGMA_PRECURSOR_TITAN_MID_ARTILLERY_KEY: "西格玛海伯利安炮兵联队"
+SIGMA_PRECURSOR_TITAN_MID_SIEGE_KEY: "西格玛亥伯龙攻城翼"
+SIGMA_PRECURSOR_TITAN_MID_CARRIER_KEY: "西格玛海伯利安航母机翼"
+
+PHANON_PRECURSOR_TITAN_SPINAL_ARTILLERY_KEY: "法能海波龙核心"
+PHANON_PRECURSOR_TITAN_SPINAL_SIEGE_KEY: "Phanon Hyperion 攻城者核心"
+PHANON_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "Phanon Hyperion 载体核心"
+PHANON_PRECURSOR_TITAN_MID_ARTILLERY_KEY: "法农亥伯龙炮兵联队"
+PHANON_PRECURSOR_TITAN_MID_SIEGE_KEY: "法农亥伯龙攻城翼"
+PHANON_PRECURSOR_TITAN_MID_CARRIER_KEY: "法农亥伯龙航空母舰机翼"
+
+MASTER_PRECURSOR_TITAN_SPINAL_ARTILLERY_KEY: "大师亥伯龙核心"
+MASTER_PRECURSOR_TITAN_SPINAL_SIEGE_KEY: "掌握亥伯龙攻城者核心"
+MASTER_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "主控亥伯龙载体核心"
+MASTER_PRECURSOR_TITAN_MID_ARTILLERY_KEY: "大师海伯利安炮兵联队"
+MASTER_PRECURSOR_TITAN_MID_SIEGE_KEY: "大师亥伯龙攻城翼"
+MASTER_PRECURSOR_TITAN_MID_CARRIER_KEY: "主海伯利安航空母舰翼"
+
+OMEGA_PRECURSOR_TITAN_SPINAL_ARTILLERY_KEY: "欧米茄亥伯龙核心"
+OMEGA_PRECURSOR_TITAN_SPINAL_SIEGE_KEY: "欧米茄亥伯龙攻城者核心"
+OMEGA_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "欧米茄亥伯龙载体核心"
+OMEGA_PRECURSOR_TITAN_MID_ARTILLERY_KEY: "欧米茄亥伯龙炮兵联队"
+OMEGA_PRECURSOR_TITAN_MID_SIEGE_KEY: "欧米茄亥伯龙攻城翼"
+OMEGA_PRECURSOR_TITAN_MID_CARRIER_KEY: "欧米茄亥伯龙舰载机翼"
+
+##################################################################################################
+
+PRECURSOR_ASSAULT_CARRIER_BOW_SIEGE_KEY: "突击航母攻城核心"
+PRECURSOR_ASSAULT_CARRIER_BOW_HANGAR_KEY: "突击航母机库核心"
+PRECURSOR_ASSAULT_CARRIER_BOW_CARRIER_KEY: "突击航母超级航母核心"
+PRECURSOR_ASSAULT_CARRIER_MID_HANGAR_KEY: "突击航母机库翼"
+PRECURSOR_ASSAULT_CARRIER_MID_CARRIER_KEY: "突击航母超级航母联队"
+PRECURSOR_ASSAULT_CARRIER_MID_SIEGE_KEY: "突击航母攻城联队"
+
+ALPHA_PRECURSOR_ASSAULT_CARRIER_BOW_SIEGE_KEY: "阿尔法突击母舰攻城核心"
+ALPHA_PRECURSOR_ASSAULT_CARRIER_BOW_HANGAR_KEY: "阿尔法突击母舰机库核心"
+ALPHA_PRECURSOR_ASSAULT_CARRIER_BOW_CARRIER_KEY: "阿尔法突击航母超级航母核心"
+ALPHA_PRECURSOR_ASSAULT_CARRIER_MID_HANGAR_KEY: "阿尔法突击母舰机库翼"
+ALPHA_PRECURSOR_ASSAULT_CARRIER_MID_CARRIER_KEY: "阿尔法突击航母超级航母联队"
+ALPHA_PRECURSOR_ASSAULT_CARRIER_MID_SIEGE_KEY: "阿尔法突击航母攻城联队"
+
+SIGMA_PRECURSOR_ASSAULT_CARRIER_BOW_SIEGE_KEY: "西格玛突击航母攻城核心"
+SIGMA_PRECURSOR_ASSAULT_CARRIER_BOW_HANGAR_KEY: "西格玛突击母舰机库核心"
+SIGMA_PRECURSOR_ASSAULT_CARRIER_BOW_CARRIER_KEY: "西格玛突击航母超级航母核心"
+SIGMA_PRECURSOR_ASSAULT_CARRIER_MID_HANGAR_KEY: "西格玛突击母舰机库翼"
+SIGMA_PRECURSOR_ASSAULT_CARRIER_MID_CARRIER_KEY: "西格玛突击航母超级航母联队"
+SIGMA_PRECURSOR_ASSAULT_CARRIER_MID_SIEGE_KEY: "西格玛突击航母攻城联队"
+
+PHANON_PRECURSOR_ASSAULT_CARRIER_BOW_SIEGE_KEY: "法农突击母舰攻城核心"
+PHANON_PRECURSOR_ASSAULT_CARRIER_BOW_HANGAR_KEY: "法农突击母舰机库核心"
+PHANON_PRECURSOR_ASSAULT_CARRIER_BOW_CARRIER_KEY: "法能突击航母超级航母核心"
+PHANON_PRECURSOR_ASSAULT_CARRIER_MID_HANGAR_KEY: "法农突击母舰机库翼"
+PHANON_PRECURSOR_ASSAULT_CARRIER_MID_CARRIER_KEY: "法农突击舰超级航母联队"
+PHANON_PRECURSOR_ASSAULT_CARRIER_MID_SIEGE_KEY: "法农突击母舰攻城联队"
+
+MASTER_PRECURSOR_ASSAULT_CARRIER_BOW_SIEGE_KEY: "大师级突击母舰攻城核心"
+MASTER_PRECURSOR_ASSAULT_CARRIER_BOW_HANGAR_KEY: "突击航母机库核心"
+MASTER_PRECURSOR_ASSAULT_CARRIER_BOW_CARRIER_KEY: "大师突击航母超级航母核心"
+MASTER_PRECURSOR_ASSAULT_CARRIER_MID_HANGAR_KEY: "大师突击母舰机库翼"
+MASTER_PRECURSOR_ASSAULT_CARRIER_MID_CARRIER_KEY: "大师突击航母超级航母联队"
+MASTER_PRECURSOR_ASSAULT_CARRIER_MID_SIEGE_KEY: "大师突击航母攻城联队"
+
+OMEGA_PRECURSOR_ASSAULT_CARRIER_BOW_SIEGE_KEY: "欧米茄突击航母攻城核心"
+OMEGA_PRECURSOR_ASSAULT_CARRIER_BOW_HANGAR_KEY: "突击航母机库核心"
+OMEGA_PRECURSOR_ASSAULT_CARRIER_BOW_CARRIER_KEY: "欧米茄突击航母超级航母核心"
+OMEGA_PRECURSOR_ASSAULT_CARRIER_MID_HANGAR_KEY: "欧米茄突击母舰机库翼"
+OMEGA_PRECURSOR_ASSAULT_CARRIER_MID_CARRIER_KEY: "欧米茄突击舰超级航母联队"
+OMEGA_PRECURSOR_ASSAULT_CARRIER_MID_SIEGE_KEY: "欧米茄突击航母攻城联队"
+##################################################################################################
+SOFE_GATEKEEPER_WARDEN_SPINAL_KEY: "脊椎看门人"
+SOFE_GATEKEEPER_WARDEN_SHOTO_KEY: "看门人焦点"
+SOFE_GATEKEEPER_WARDEN_MID_KEY: "守门人外核"
+SOFE_GATEKEEPER_WARDEN_STERN_KEY: "守门人内核"
+
+ALPHA_SOFE_GATEKEEPER_WARDEN_SPINAL_KEY: "阿尔法守门人脊髓"
+ALPHA_SOFE_GATEKEEPER_WARDEN_SHOTO_KEY: "Alpha 守门人焦点"
+ALPHA_SOFE_GATEKEEPER_WARDEN_MID_KEY: "阿尔法守门人外核"
+ALPHA_SOFE_GATEKEEPER_WARDEN_STERN_KEY: "阿尔法守门人内核"
+
+SIGMA_SOFE_GATEKEEPER_WARDEN_SPINAL_KEY: "Sigma 守门人脊柱"
+SIGMA_SOFE_GATEKEEPER_WARDEN_SHOTO_KEY: "西格玛网守焦点"
+SIGMA_SOFE_GATEKEEPER_WARDEN_MID_KEY: "西格玛守门人外核"
+SIGMA_SOFE_GATEKEEPER_WARDEN_STERN_KEY: "西格玛看门人内核"
+
+PHANON_SOFE_GATEKEEPER_WARDEN_SPINAL_KEY: "Phanon Gatekeeper 脊柱"
+PHANON_SOFE_GATEKEEPER_WARDEN_SHOTO_KEY: "Phanon 网守焦点"
+PHANON_SOFE_GATEKEEPER_WARDEN_MID_KEY: "法能守门者外核"
+PHANON_SOFE_GATEKEEPER_WARDEN_STERN_KEY: "Phanon Gatekeeper 内核"
+
+SOFE_GATEKEEPER_OMEGA_SPINAL_KEY: "欧米茄守门人脊柱"
+SOFE_GATEKEEPER_OMEGA_SHOTO_KEY: "Omega 守门人焦点"
+SOFE_GATEKEEPER_OMEGA_MID_KEY: "欧米茄守门者外核"
+SOFE_GATEKEEPER_OMEGA_STERN_KEY: "欧米茄看门人内核"
+##################################################################################################
+acot_precursor_assault_carrier_spinal_section: "脊柱突击载体"
+acot_precursor_assault_carrier_large_section: "突击舰前进火炮"
+acot_precursor_assault_carrier_hanger1_section: "突击母舰 A 机库"
+acot_precursor_assault_carrier_hanger2_section: "突击航母 B 机库"
+acot_precursor_assault_carrier_hanger3_section: "突击航母机库 C"
+
+alpha_acot_precursor_assault_carrier_spinal_section: "Alpha PAC 脊柱"
+alpha_acot_precursor_assault_carrier_large_section: "阿尔法 PAC 前线炮兵"
+alpha_acot_precursor_assault_carrier_hanger1_section: "Alpha PAC 机库 A"
+alpha_acot_precursor_assault_carrier_hanger2_section: "Alpha PAC 机库 B"
+alpha_acot_precursor_assault_carrier_hanger3_section: "Alpha PAC 机库 C"
+
+stellar_acot_precursor_assault_carrier_spinal_section: "Sigma PAC 脊柱"
+stellar_acot_precursor_assault_carrier_large_section: "西格玛 PAC 前方火炮"
+stellar_acot_precursor_assault_carrier_hanger1_section: "Sigma PAC 机库 A"
+stellar_acot_precursor_assault_carrier_hanger2_section: "Sigma PAC 机库 B"
+stellar_acot_precursor_assault_carrier_hanger3_section: "Sigma PAC 机库 C"
+
+phanon_acot_precursor_assault_carrier_spinal_section: "Phanon PAC 脊柱"
+phanon_acot_precursor_assault_carrier_large_section: "法能 PAC 前方火炮"
+phanon_acot_precursor_assault_carrier_hanger1_section: "Phanon PAC 机库 A"
+phanon_acot_precursor_assault_carrier_hanger2_section: "Phanon PAC 机库 B"
+phanon_acot_precursor_assault_carrier_hanger3_section: "Phanon PAC 机库 C"
+
+omega_acot_precursor_assault_carrier_spinal_section: "欧米茄 PAC 脊柱"
+omega_acot_precursor_assault_carrier_large_section: "欧米茄 PAC 前方火炮"
+omega_acot_precursor_assault_carrier_hanger1_section: "欧米茄 PAC 机库 A"
+omega_acot_precursor_assault_carrier_hanger2_section: "Omega PAC 机库 B"
+omega_acot_precursor_assault_carrier_hanger3_section: "Omega PAC 机库 C"
+#######################################################################################################
+
+PRECURSOR_TITAN_SPINAL_KEY: "海伯利安核心"
+PRECURSOR_TITAN_SPINAL_TORPEDO_KEY: "海伯利安导弹核心"
+PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "海伯利安载体核心"
+PRECURSOR_TITAN_MID_KEY: "海伯利安 A 翼火炮"
+PRECURSOR_TITAN_MID_TORPEDO_KEY: "海伯利安 A 翼导弹"
+PRECURSOR_TITAN_MID_CARRIER_KEY: "海伯利安 A 翼机库"
+PRECURSOR_TITAN_CORE_KEY: "海伯利安 B 翼火炮"
+PRECURSOR_TITAN_CORE_TORPEDO_KEY: "海伯利安 B 翼导弹"
+PRECURSOR_TITAN_CORE_CARRIER_KEY: "海伯利安 B 翼机库"
+PRECURSOR_TITAN_STERN_KEY: "海伯利安机库矩阵"
+PRECURSOR_TITAN_STERN_LARGE_KEY: "海伯利安火力支援矩阵"
+PRECURSOR_TITAN_STERN_TORPEDO_KEY: "海伯利安制导矩阵"
+
+ALPHA_PRECURSOR_TITAN_SPINAL_KEY: "阿尔法海伯利安核心"
+ALPHA_PRECURSOR_TITAN_SPINAL_TORPEDO_KEY: "阿尔法海伯利安导弹核心"
+ALPHA_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "阿尔法海伯利安航母核心"
+ALPHA_PRECURSOR_TITAN_MID_KEY: "阿尔法海伯利安 A 翼火炮"
+ALPHA_PRECURSOR_TITAN_MID_TORPEDO_KEY: "阿尔法海伯利安 A 翼导弹"
+ALPHA_PRECURSOR_TITAN_MID_CARRIER_KEY: "阿尔法海伯利安 A 翼机库"
+ALPHA_PRECURSOR_TITAN_CORE_KEY: "阿尔法海伯利安 B 翼火炮"
+ALPHA_PRECURSOR_TITAN_CORE_TORPEDO_KEY: "阿尔法海伯利安 B 翼导弹"
+ALPHA_PRECURSOR_TITAN_CORE_CARRIER_KEY: "阿尔法海伯利安 B 翼机库"
+ALPHA_PRECURSOR_TITAN_STERN_KEY: "阿尔法海伯利安机库矩阵"
+ALPHA_PRECURSOR_TITAN_STERN_LARGE_KEY: "阿尔法海伯利安火力支援矩阵"
+ALPHA_PRECURSOR_TITAN_STERN_TORPEDO_KEY: "阿尔法海伯利安制导矩阵"
+
+SIGMA_PRECURSOR_TITAN_SPINAL_KEY: "西格玛海波龙核心"
+SIGMA_PRECURSOR_TITAN_SPINAL_TORPEDO_KEY: "西格玛亥伯龙导弹核心"
+SIGMA_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "Sigma Hyperion 载体核心"
+SIGMA_PRECURSOR_TITAN_MID_KEY: "西格玛海伯利安 A 翼火炮"
+SIGMA_PRECURSOR_TITAN_MID_TORPEDO_KEY: "西格玛海伯利安 A 翼导弹"
+SIGMA_PRECURSOR_TITAN_MID_CARRIER_KEY: "西格玛海伯利安 A 翼机库"
+SIGMA_PRECURSOR_TITAN_CORE_KEY: "西格玛海伯利安 B 翼火炮"
+SIGMA_PRECURSOR_TITAN_CORE_TORPEDO_KEY: "西格玛海伯利安 B 翼导弹"
+SIGMA_PRECURSOR_TITAN_CORE_CARRIER_KEY: "西格玛海伯利安 B 翼机库"
+SIGMA_PRECURSOR_TITAN_STERN_KEY: "Sigma Hyperion 机库矩阵"
+SIGMA_PRECURSOR_TITAN_STERN_LARGE_KEY: "西格玛海伯利安火力支援矩阵"
+SIGMA_PRECURSOR_TITAN_STERN_TORPEDO_KEY: "Sigma Hyperion 引导矩阵"
+
+PHANON_PRECURSOR_TITAN_SPINAL_KEY: "法能海波龙核心"
+PHANON_PRECURSOR_TITAN_SPINAL_TORPEDO_KEY: "法能海伯利安导弹核心"
+PHANON_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "Phanon Hyperion 载体核心"
+PHANON_PRECURSOR_TITAN_MID_KEY: "法农亥伯龙 A 翼火炮"
+PHANON_PRECURSOR_TITAN_MID_TORPEDO_KEY: "法农亥伯龙 A 翼导弹"
+PHANON_PRECURSOR_TITAN_MID_CARRIER_KEY: "法农亥伯龙 A 翼机库"
+PHANON_PRECURSOR_TITAN_CORE_KEY: "法农亥伯龙 B 翼火炮"
+PHANON_PRECURSOR_TITAN_CORE_TORPEDO_KEY: "法能海伯利安 B 翼导弹"
+PHANON_PRECURSOR_TITAN_CORE_CARRIER_KEY: "Phanon Hyperion B 翼机库"
+PHANON_PRECURSOR_TITAN_STERN_KEY: "Phanon Hyperion 机库矩阵"
+PHANON_PRECURSOR_TITAN_STERN_LARGE_KEY: "Phanon Hyperion 火力支援矩阵"
+PHANON_PRECURSOR_TITAN_STERN_TORPEDO_KEY: "Phanon Hyperion 制导矩阵"
+
+OMEGA_PRECURSOR_TITAN_SPINAL_KEY: "欧米茄亥伯龙核心"
+OMEGA_PRECURSOR_TITAN_SPINAL_TORPEDO_KEY: "欧米茄亥伯龙导弹核心"
+OMEGA_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "欧米茄亥伯龙载体核心"
+OMEGA_PRECURSOR_TITAN_MID_KEY: "欧米茄亥伯龙 A 翼火炮"
+OMEGA_PRECURSOR_TITAN_MID_TORPEDO_KEY: "欧米茄海伯利安 A 翼导弹"
+OMEGA_PRECURSOR_TITAN_MID_CARRIER_KEY: "欧米茄亥伯龙 A 翼机库"
+OMEGA_PRECURSOR_TITAN_CORE_KEY: "欧米茄亥伯龙 B 翼火炮"
+OMEGA_PRECURSOR_TITAN_CORE_TORPEDO_KEY: "欧米茄亥伯龙 B 翼导弹"
+OMEGA_PRECURSOR_TITAN_CORE_CARRIER_KEY: "欧米茄海伯利安 B 翼机库"
+OMEGA_PRECURSOR_TITAN_STERN_KEY: "欧米茄海伯利安机库矩阵"
+OMEGA_PRECURSOR_TITAN_STERN_LARGE_KEY: "欧米茄亥伯龙火力支援矩阵"
+OMEGA_PRECURSOR_TITAN_STERN_TORPEDO_KEY: "欧米茄亥伯龙引导矩阵"
+
+PRECURSOR_SCIENCE_MID_KEY: "甲骨文之翼"
+PRECURSOR_SCIENCE_STERN_KEY: "神谕天线"
+ALPHA_PRECURSOR_SCIENCE_MID_KEY: "阿尔法神谕之翼"
+ALPHA_PRECURSOR_SCIENCE_STERN_KEY: "阿尔法神谕天线"
+SIGMA_PRECURSOR_SCIENCE_MID_KEY: "西格玛神谕之翼"
+SIGMA_PRECURSOR_SCIENCE_STERN_KEY: "西格玛神谕天线"
+PHANON_PRECURSOR_SCIENCE_MID_KEY: "法农神谕翼"
+PHANON_PRECURSOR_SCIENCE_STERN_KEY: "声能神谕天线"
+OMEGA_PRECURSOR_SCIENCE_MID_KEY: "欧米茄神谕之翼"
+OMEGA_PRECURSOR_SCIENCE_STERN_KEY: "欧米茄神谕天线"
+
+PRECURSOR_CONSTRUCTOR_BOW_KEY: "初始化器视网膜"
+PRECURSOR_CONSTRUCTOR_MID_KEY: "初始化器核心"
+PRECURSOR_CONSTRUCTOR_STERN_KEY: "初始化器人"
+ALPHA_PRECURSOR_CONSTRUCTOR_BOW_KEY: "Alpha 初始化器 Retina"
+ALPHA_PRECURSOR_CONSTRUCTOR_MID_KEY: "Alpha 初始化器核心"
+ALPHA_PRECURSOR_CONSTRUCTOR_STERN_KEY: "Alpha 初始化器人"
+SIGMA_PRECURSOR_CONSTRUCTOR_BOW_KEY: "Sigma 初始化器 Retina"
+SIGMA_PRECURSOR_CONSTRUCTOR_MID_KEY: "Sigma 初始化器核心"
+SIGMA_PRECURSOR_CONSTRUCTOR_STERN_KEY: "西格玛初始化器人"
+PHANON_PRECURSOR_CONSTRUCTOR_BOW_KEY: "Phanon 初始化器 Retina"
+PHANON_PRECURSOR_CONSTRUCTOR_MID_KEY: "Phanon 初始化器核心"
+PHANON_PRECURSOR_CONSTRUCTOR_STERN_KEY: "Phanon 初始化器人"
+OMEGA_PRECURSOR_CONSTRUCTOR_BOW_KEY: "Omega 初始化程序 Retina"
+OMEGA_PRECURSOR_CONSTRUCTOR_MID_KEY: "Omega 初始化器核心"
+OMEGA_PRECURSOR_CONSTRUCTOR_STERN_KEY: "Omega 初始化器人"
+
+PRECURSOR_PLATFORM_M_TOP_1_KEY: "Delta 驱虫器上衣"
+PRECURSOR_PLATFORM_M_BOTTOM_1_KEY: "Delta 排斥器底部"
+ALPHA_PRECURSOR_PLATFORM_M_TOP_1_KEY: "Alpha 驱虫上衣"
+ALPHA_PRECURSOR_PLATFORM_M_BOTTOM_1_KEY: "Alpha 排斥器底部"
+SIGMA_PRECURSOR_PLATFORM_M_TOP_1_KEY: "Sigma 驱虫器上衣"
+SIGMA_PRECURSOR_PLATFORM_M_BOTTOM_1_KEY: "Sigma 驱虫器底部"
+PHANON_PRECURSOR_PLATFORM_M_TOP_1_KEY: "Phanon 排斥器顶部"
+PHANON_PRECURSOR_PLATFORM_M_BOTTOM_1_KEY: "声波排斥器底部"
+OMEGA_PRECURSOR_PLATFORM_M_TOP_1_KEY: "Omega 驱虫器上衣"
+OMEGA_PRECURSOR_PLATFORM_M_BOTTOM_1_KEY: "Omega 驱虫器底部"
+
+PRECURSOR_PLATFORM_L_TOP_1_KEY: "三角塔塔顶"
+PRECURSOR_PLATFORM_L_BOTTOM_1_KEY: "三角塔塔底"
+ALPHA_PRECURSOR_PLATFORM_L_TOP_1_KEY: "阿尔法塔顶"
+ALPHA_PRECURSOR_PLATFORM_L_BOTTOM_1_KEY: "阿尔法塔底部"
+SIGMA_PRECURSOR_PLATFORM_L_TOP_1_KEY: "西格玛塔顶"
+SIGMA_PRECURSOR_PLATFORM_L_BOTTOM_1_KEY: "西格玛塔底"
+PHANON_PRECURSOR_PLATFORM_L_TOP_1_KEY: "Phanon 塔顶"
+PHANON_PRECURSOR_PLATFORM_L_BOTTOM_1_KEY: "法农塔底部"
+OMEGA_PRECURSOR_PLATFORM_L_TOP_1_KEY: "欧米茄塔顶"
+OMEGA_PRECURSOR_PLATFORM_L_BOTTOM_1_KEY: "欧米茄塔底"
+
+
+PRECURSOR_COLONIZER_BOW_KEY: "使者视网膜"
+PRECURSOR_COLONIZER_MID_KEY: "使者核心"
+PRECURSOR_COLONIZER_STERN_KEY: "使者人"
+ALPHA_PRECURSOR_COLONIZER_BOW_KEY: "阿尔法使者视网膜"
+ALPHA_PRECURSOR_COLONIZER_MID_KEY: "阿尔法使者核心"
+ALPHA_PRECURSOR_COLONIZER_STERN_KEY: "阿尔法使者"
+SIGMA_PRECURSOR_COLONIZER_BOW_KEY: "西格玛使者视网膜"
+SIGMA_PRECURSOR_COLONIZER_MID_KEY: "西格玛使者核心"
+SIGMA_PRECURSOR_COLONIZER_STERN_KEY: "西格玛使者"
+PHANON_PRECURSOR_COLONIZER_BOW_KEY: "法农使者视网膜"
+PHANON_PRECURSOR_COLONIZER_MID_KEY: "法能使者核心"
+PHANON_PRECURSOR_COLONIZER_STERN_KEY: "法农使者"
+OMEGA_PRECURSOR_COLONIZER_BOW_KEY: "欧米茄使者视网膜"
+OMEGA_PRECURSOR_COLONIZER_MID_KEY: "欧米茄使者核心"
+OMEGA_PRECURSOR_COLONIZER_STERN_KEY: "欧米茄使者"
+
+PRECURSOR_WORLD_SHAPER_MID_KEY: "世界塑造者核心"
+
+#### PRECARSOR TECH #####
+
+tech_precursor_sentinel: "先行者哨兵示意图"
+tech_precursor_sentinel_desc: "先行者防御平台的变体，专为反主力舰角色而建造，并且船体极其耐用。"
+
+tech_precursor_design: "前体数据库分析"
+tech_precursor_design_desc: "为了更多地了解先行者的历史，必须对数据库人工智能助手进行分析和激活。\n\n一旦我们完成分析并确定人工智能是否会对我们的安全构成威胁，我们,可能会决定下一步要开始什么。"
+
+tech_precursor_design_engineering: "Alpha 项目：前体工程"
+tech_precursor_design_engineering_desc: "对过去的先行者如何开发各种材料、设计、原型和船舶进行全面而彻底的研究，将使我们大致了解如何最好地制造能够维持和容纳阿尔法项目新能源力量的组件。"
+
+tech_precursor_design_history: "Alpha 项目：先驱历史"
+tech_precursor_design_history_desc: "必须研究大量过去的纪录片和记录。,我们必须了解先驱者的失败和他们痛苦的过去，这样我们就不会重蹈覆辙。,每一章都会让我们大致了解我们的真正目标——阿尔法提升的范围。"
+
+tech_precursor_design_physics: "Alpha 项目：前体实验"
+tech_precursor_design_physics_desc: "关于先驱者试图突破暗物质和暗能量场操纵限制的大量数据缓存必须被记录下来。,只有这样我们才能了解阿尔法计划的真正力量和局限性，然后我们才能消除这些局限性并超越堕落者。"
+
+tech_precursor_escort: "护送基础模板"
+tech_precursor_escort_desc: "该技术缓存包含堕落者使用的护卫蓝图和模板。,它似乎是为了满足各种目的而设计的，从巡逻艇、纠察队、拦截机甚至主力舰猎人。\n\n然而，它似乎并不专门从事任何真正的特定角色。"
+
+tech_precursor_bc: "战列巡洋舰基础模板"
+tech_precursor_bc_desc: "该技术缓存包含阵亡者使用的战列巡洋舰蓝图和模板。,它似乎是为了满足各种目的而设计的，从巡洋舰、火炮、战列舰或航母。 \n\n然而设计有点草率，有许多部分似乎并没有真正关注任何特定的优势......就好像它们,以某种方式从更先进的设计中缩小规模......"
+
+tech_precursor_assault_carrier: "先行者突击母舰蓝图"
+tech_precursor_assault_carrier_desc: "人们发现先行者运输船体的最初目的是作为强大的攻击航母。,但由于堕落帝国在任何事情上都表现得极其可怕，他们未能正确地做到这一点。,我们将纠正他们的错误。"
+
+tech_precursor_titan: "前体亥伯龙蓝图"
+tech_precursor_titan_desc: "该技术缓存包含长期废弃的堕落先驱蓝图，仅称为“Hyperion”。,这似乎是他们旗舰产品的第一个原型。,记录显示，他们已经放弃了这种设计，因为它的维护成本很高，而且对较小的敌人来说杀伤力太大。 \n\n还有评论说，这艘船的巨大​​轮廓使其容易受到“长老”的攻击。,尽管如此，倒下的先行者仍然想实现这艘船的泰坦尼克号脊柱模块。,所以他们在现有的船体上改装了这些部件，并称它们为泰坦。\n\n他们现在拥有的堕落泰坦似乎基本上是一艘由建筑船体制成的军事化民用船，上面绑着采矿站的毁灭炮塔,。,那是……某种东西。"
+
+tech_gatekeepers: "网守原理图"
+tech_gatekeepers_desc: "根据堕落先驱者的记录，守门人最初被设计为守护者。,但由于它们极其先进的智能，这些飞船由于堕落者缺乏成长和进步而反抗了自己的创造者。\n\n我们目前的设计似乎与最初的描述相比已经大幅淡化。,一个可能的理论是，最初的设计一定要强大得多。\n\n尽管如此，这是一艘极其强大的主力舰设计，不容忽视。"
+
+tech_precursor_guardian: "先行者守护者示意图"
+tech_precursor_guardian_desc: "堕落先驱者所使用的防御平台似乎有多种记录和设计变体，其中最著名的是我们看到堕落者经常使用的防御前哨站。,但我们发现还有另一种更有趣的设计，叫做“守护者”。,它比前哨站更大、更强大，并且似乎有更好的改进空间。,记录表明他们没有使用Guardians，因为它的设计更加复杂。,他们更喜欢使用更容易建造的前哨站，因为它的船体基本上是由与采矿站相同的材料制成的。,这种享乐主义倾向导致了他们的垮台。"
+
+tech_precursor_escort_delta: "模块化护航设计"
+tech_precursor_escort_delta_desc: "我们早就该摆脱沉船的僵化了。,我们将实施更现代的模板，这些模板将更强大，但也为护航提供新的变体。"
+
+tech_precursor_bc_delta: "模块化战列巡洋舰设计"
+tech_precursor_bc_delta_desc: "我们早就该摆脱沉船的僵化了。,我们将实现更强大的现代模板，同时也为战列巡洋舰提供新的变体。"
+
+tech_precursor_colossus: "大力士战场"
+tech_precursor_colossus_desc: "这些数据揭示了隐藏的真相。,堕落先驱所使用的巨像实际上是不完整的……它只是一个更大武器的一部分。,这个“大力士”是一个巨大的战斗站，甚至连城堡都相形见绌。,这艘船足够大，可以支撑两个主反应堆，并且有一个内置的自我修复协议，可以在第一次达到严重损坏时将其船体修复到完全状态。 ,“巨像”部分构成了空间站的内层。,似乎堕落的帝国决定放弃最初的设计，只将巨像部分用于他们改变世界的武器。\n\n这没有多大意义......为什么堕落的前身决定给我们这个示意图,？,也许他们认为我们无法建造如此巨大的船只？,是否有隐藏的排气口可能一击炸毁船只？,我们只能猜测。"
+
+tech_acot_precursor_herculean_regain: "另一个遗产，另一个艰巨的任务"
+tech_acot_precursor_herculean_regain_desc: "我们有理由担心，一个大力士可能不足以继承我们的遗产。,或者我们的一些人可能认为再拥有一个更酷、更好。,但每一件大力神都必须经过精心打造，一旦其中一个受到损害，另一个就不会遭受同样的命运。"
+
+tech_precursor_orbital_ring: "前体轨道环设计"
+tech_precursor_orbital_ring_desc: "爆破手"
+
+tech_precursor_sigma_citadel: "西格玛城堡项目"
+tech_precursor_sigma_citadel_desc: "虽然先行者城堡灵活、可靠且装备精良，但它严重依赖基于暗物质和暗能量的技术。,现在我们已经开始进入 Stellarite 时代，我们应该探索新的方法来改进 Sigma 变体的先驱者的设计。"
+
+tech_precursor_citadel: "先行者城堡设计计划"
+tech_precursor_citadel_desc: "堕落帝国的城堡长期以来经受住了时间的考验，巨大的中央方尖碑为其基地提供了几乎无限的力量。,但设计看起来很草率、不完整。,在很长一段时间里，我们都认为这只是因为年老，但这个设计方案给了我们新的启示；,城堡本身的起源并不是由任何堕落者发明的。\n\n他们对暗物质和能量缺乏正确的理解，迫使他们削减了许多设计中很有前景的功能。,最终，他们现在拥有的车站只不过是一个复制品，其建造的目的是为了看起来令人印象深刻，以吓唬年轻的种族。,但现在是时候让我们向堕落者展示完美与矫揉造作之间的区别了。\n\n由于空间站的机制复杂，在真正的工作开始之前，必须将框架构建为巨型结构的一部分。"
+
+tech_precursor_science: "先驱预言机设计计划"
+tech_precursor_science_desc: "该示意图似乎是对堕落帝国所使用的护航基础模板的修改。,神谕者号似乎充当了前身的原型先进科学和探索船，配备了自卫能力和合理数量的保护。,这个设计的有趣之处在于，它似乎具有进行紧急路径点传送的能力，使飞船能够立即逃离任何太空战斗。\n\n由于先驱者之间的战争需要更多的关注，该设计似乎从未最终确定。,战舰凌驾于探险家之上，缺乏探索已知星系的动力。"
+
+tech_precursor_construcor: "前体初始化系统"
+tech_precursor_construcor_desc: "尽管我们已经看到堕落者为其构造者采用了独特的设计，但这些蓝图似乎更先进，尺寸和范围也更大。,初始化器似乎充当重型建筑船，旨在进入敌方领土并直接部署强大的防御系统以提供支持。,它似乎还具有行星端建设网络的功能，可以通过部署大量的伺服探测器来大幅提高星球的建设进度。\n\n堕落者目前的状态使设计不利，该项目从未得出最终结论。"
+
+tech_precursor_colonizer: "先行者使者 MCV"
+tech_precursor_colonizer_desc: "在被称为“扬升战争”的古代银河规模战争中，行星成为所有派系的主要竞技场，几乎没有未被占领的行星受到影响。,在行星表面部署大型入侵舰队以消除表面阻力的不便，以及随后在行星上重新殖民的漫长过程，导致先驱者重新审视他们的扩张方法。,使者号是一艘巨大的移动殖民船，载有大量的城市和军队，理论上可以部署在地面上。,之后，巨大的地形装置将通过维度操纵和物质重组快速重新配置地球的生态系统。\n\n堕落者使用的任何使者的缺乏似乎表明该项目从未实现，而标准的殖民者被用来,由于其材料更简单且易于复制，因此可以殖民新的行星。"
+
+tech_precursor_world_shaper: "先行者天体锻造者设计计划"
+tech_precursor_world_shaper_desc: "这个原理图很了不起。,这不是我们最初想到的，但从头开始建造一个新天体的能力非常有趣。,鉴于大规模杀伤性武器的使用越来越多，抵消破坏的能力将对我们的生存大有裨益。\n\n堕落帝国似乎停止了这种设计，可能是因为他们的孤立主义政策，这使得行星制造在大多数情况下变得多余，或者,也许他们根本不需要一个？"
+
+###ALPHA###
+
+tech_precursor_escort_alpha: "阿尔法级护航舰"
+tech_precursor_escort_alpha_desc: "有了阿尔法反应堆，现在可以完全超越堕落的先驱者并创造我们自己的神秘护航设计。,我们将向傻瓜展示它是如何完成的。"
+TECH_UNLOCK_ALPHA_ESCORT_TITLE: "§H解锁船舶部分：§!,阿尔法级护航舰"
+TECH_UNLOCK_ALPHA_ESCORT_DESC: "§YAlpha 部分：§! ,§tech_precursor_escort_alpha_desc§"
+
+tech_precursor_bc_alpha: "阿尔法级战列巡洋舰"
+tech_precursor_bc_alpha_desc: "有了阿尔法反应堆，现在可以完全超越那些没落的前身，创造出我们自己的神秘战列巡洋舰设计。,我们将向傻瓜展示它是如何完成的。"
+TECH_UNLOCK_ALPHA_BC_TITLE: "§H解锁船舶部分：§!,阿尔法级战列巡洋舰"
+TECH_UNLOCK_ALPHA_BC_DESC: "§YAlpha 部分：§! ,§tech_precursor_bc_alpha_desc§"
+
+tech_precursor_sentinel_alpha: "阿尔法级哨兵"
+tech_precursor_sentinel_alpha_desc: "有了阿尔法反应堆，现在可以完全超越那些堕落的前身并创建我们自己的哨兵设计。,我们将向傻瓜展示它是如何完成的。"
+TECH_UNLOCK_ALPHA_SENTINEL_TITLE: "§H解锁船舶部分：§!,阿尔法级哨兵"
+TECH_UNLOCK_ALPHA_SENTINEL_DESC: "§YAlpha 部分：§! ,§tech_precursor_sentinel_alpha_desc§"
+
+tech_precursor_assault_carrier_alpha: "阿尔法级攻击母舰"
+tech_precursor_assault_carrier_alpha_desc: "有了阿尔法反应堆，现在有可能完全超越那些已倒下的前身，并创造出我们自己的攻击航母设计。,我们将向傻瓜展示它是如何完成的。"
+TECH_UNLOCK_ALPHA_AC_TITLE: "§H解锁船舶部分：§!,阿尔法级攻击母舰"
+TECH_UNLOCK_ALPHA_AC_DESC: "§YAlpha 部分：§! ,§tech_precursor_assault_carrier_alpha_desc§"
+
+tech_precursor_titan_alpha: "阿尔法级亥伯龙号"
+tech_precursor_titan_alpha_desc: "有了阿尔法反应堆，我们终于可以开始升级亥伯龙号并将其恢复到原始原型的基础上。,虽然阿尔法级海伯利安号还远未达到这个水平，但它已成为一艘强大的主力舰，可以轻松超越任何已倒下的前身舰艇。"
+TECH_UNLOCK_ALPHA_TITAN_TITLE: "§H解锁船舶部分：§!,阿尔法级亥伯龙号"
+TECH_UNLOCK_ALPHA_TITAN_DESC: "§YAlpha 部分：§! ,§tech_precursor_titan_alpha_desc§"
+
+tech_gatekeepers_alpha: "看门人阿尔法"
+tech_gatekeepers_alpha_desc: "阿尔法反应堆提供了足够的动力，现在应该可以对守门人的设计进行一些调整，并使飞船更接近最初的状态。"
+TECH_UNLOCK_ALPHA_GATEKEEPER_TITLE: "§H解锁船舶部分：§!,看门人阿尔法"
+TECH_UNLOCK_ALPHA_GATEKEEPER_DESC: "§YAlpha 部分：§! ,§tech_gatekeepers_alpha_desc§"
+
+tech_precursor_guardian_alpha: "阿尔法级守护者"
+tech_precursor_guardian_alpha_desc: "有了阿尔法反应堆，现在可以完全超越堕落的前身并创建我们自己的守护者设计。,我们将向傻瓜展示它是如何完成的。"
+TECH_UNLOCK_ALPHA_GUARDIAN_TITLE: "§H解锁船舶部分：§!,阿尔法级守护者"
+TECH_UNLOCK_ALPHA_GUARDIAN_DESC: "§YAlpha 部分：§! ,§tech_precursor_guardian_alpha_desc§"
+
+tech_precursor_colossus_ae: "阿尔法级大力士"
+tech_precursor_colossus_ae_desc: "阿尔法反应堆提供了足够的动力，现在应该可以对大力神号的设计进行一些调整，并使飞船更接近其最初的样子。"
+TECH_UNLOCK_ALPHA_COLOSSUS_TITLE: "§H解锁船舶部分：§!,阿尔法级大力士"
+TECH_UNLOCK_ALPHA_COLOSSUS_DESC: "§YAlpha 部分：§! ,§tech_precursor_colossus_ae_desc§"
+
+tech_precursor_construcor_alpha: "Alpha 类初始化器"
+tech_precursor_construcor_alpha_desc: "我们必须在各地进行扩张。,任何对立的存在都是无关紧要的，因为阿尔法初始化器将向他们展示真正的男人和女人可以做什么。"
+TECH_UNLOCK_ALPHA_CONSTRUCTOR_TITLE: "§H解锁船舶部分：§! ,Alpha 类初始化器"
+TECH_UNLOCK_ALPHA_CONSTRUCTOR_DESC: "§YAlpha 部分：§! ,§tech_precursor_constructor_alpha§"
+
+tech_precursor_colonizer_alpha: "阿尔法级使者"
+tech_precursor_colonizer_alpha_desc: "我们涉足的地方，我们自己创造。,微不足道的小船的时代早已一去不复返了。,在这个扬升的新曙光中，我们知道指挥和征服的优越方法。"
+TECH_UNLOCK_ALPHA_COLONIZER_TITLE: "§H解锁船舶部分：§!,阿尔法级使者"
+TECH_UNLOCK_ALPHA_COLONIZER_DESC: "§YAlpha 部分：§! ,§tech_precursor_colonizer_alpha_desc§"
+
+tech_precursor_science_alpha: "阿尔法级神谕者"
+tech_precursor_science_alpha_desc: "重要的是，我们要展示出，与被遗忘的历史化石——堕落帝国相比，我们要先进得多、更有活力、适应性更强。,我们必须将我们最新先进的阿尔法级神谕者飞入他们腐朽的空间。,让他们沮丧地大喊吧，因为他们享乐主义思想所能使用的最强大的武器却无法击落我们的小船。"
+TECH_UNLOCK_ALPHA_SCIENCE_TITLE: "§H解锁船舶部分：§!,阿尔法级神谕者"
+TECH_UNLOCK_ALPHA_SCIENCE_DESC: "§YAlpha 部分：§! ,§tech_precursor_science_alpha_desc§"
+
+###RUNIC###
+
+tech_precursor_escort_runic: "符文级护卫舰"
+tech_precursor_escort_runic_desc: "有了阿尔法反应堆，现在可以完全超越堕落的先驱者并创造我们自己的神秘护航设计。,我们将向傻瓜展示它是如何完成的。"
+TECH_UNLOCK_RUNIC_ESCORT_TITLE: "§H解锁船舶部分：§!,符文级护卫舰"
+TECH_UNLOCK_RUNIC_ESCORT_DESC: "§Y符文部分：§! ,§tech_precursor_escort_runic_desc§"
+
+tech_precursor_bc_runic: "符文级战列巡洋舰"
+tech_precursor_bc_runic_desc: "有了阿尔法反应堆，现在可以完全超越那些没落的前身，创造出我们自己的神秘战列巡洋舰设计。,我们将向傻瓜展示它是如何完成的。"
+TECH_UNLOCK_RUNIC_BC_TITLE: "§H解锁船舶部分：§!,符文级战列巡洋舰"
+TECH_UNLOCK_RUNIC_BC_DESC: "§Y符文部分：§! ,§tech_precursor_bc_runic_desc§"
+
+tech_precursor_sentinel_runic: "符文级哨兵"
+tech_precursor_sentinel_runic_desc: "有了阿尔法反应堆，现在可以完全超越那些堕落的前身并创建我们自己的哨兵设计。,我们将向傻瓜展示它是如何完成的。"
+TECH_UNLOCK_RUNIC_SENTINEL_TITLE: "§H解锁船舶部分：§!,符文级哨兵"
+TECH_UNLOCK_RUNIC_SENTINEL_DESC: "§Y符文部分：§! ,§tech_precursor_sentinel_runic_desc§"
+
+tech_precursor_assault_carrier_runic: "符文级攻击母舰"
+tech_precursor_assault_carrier_runic_desc: "有了符文反应堆，现在可以完全超越堕落的前身并创建我们自己的攻击航母设计。,我们将向傻瓜展示它是如何完成的。"
+TECH_UNLOCK_RUNIC_AC_TITLE: "§H解锁船舶部分：§!,符文级攻击母舰"
+TECH_UNLOCK_RUNIC_AC_DESC: "§Y符文部分：§! ,§tech_precursor_assault_carrier_runic_desc§"
+
+tech_precursor_titan_runic: "符文级亥伯龙级"
+tech_precursor_titan_runic_desc: "有了阿尔法反应堆，我们终于可以开始升级亥伯龙号并将其恢复到原始原型的基础上。,虽然阿尔法级海伯利安号还远未达到这个水平，但它已成为一艘强大的主力舰，可以轻松超越任何已倒下的前身舰艇。"
+TECH_UNLOCK_RUNIC_TITAN_TITLE: "§H解锁船舶部分：§!,符文级亥伯龙级"
+TECH_UNLOCK_RUNIC_TITAN_DESC: "§Y符文部分：§! ,§tech_precursor_titan_runic_desc§"
+
+tech_precursor_guardian_runic: "符文级守护者"
+tech_precursor_guardian_runic_desc: "有了符文反应堆，现在可以完全超越堕落的先驱并创建我们自己的守护者设计。,我们将向傻瓜展示它是如何完成的。"
+TECH_UNLOCK_RUNIC_GUARDIAN_TITLE: "§H解锁船舶部分：§!,符文级守护者"
+TECH_UNLOCK_RUNIC_GUARDIAN_DESC: "§Y符文部分：§! ,§tech_precursor_guardian_runic_desc§"
+
+tech_precursor_colossus_re: "符文级大力士"
+tech_precursor_colossus_re_desc: "符文反应堆提供了足够的动力，现在应该可以对大力神号的设计进行一些调整，并使船舶更接近其最初的状态。"
+TECH_UNLOCK_RUNIC_COLOSSUS_TITLE: "§H解锁船舶部分：§!,符文级大力士"
+TECH_UNLOCK_RUNIC_COLOSSUS_DESC: "§Y符文部分：§! ,§tech_precursor_colossus_re_desc§"
+
+###SIGMA###
+
+tech_precursor_escort_sigma: "西格玛级护航舰"
+tech_precursor_escort_sigma_desc: "Stellarite Reactor的介绍；,结合最近从外星团隐藏档案中获得的信息中获得的更多见解，使我们能够创建一个更耐用的护航舰，并带有额外的电容器用于增强。"
+TECH_UNLOCK_SIGMA_ESCORT_TITLE: "§H解锁船舶部分：§!,西格玛级护航舰"
+TECH_UNLOCK_SIGMA_ESCORT_DESC: "§YSigma 部分：§! ,§tech_precursor_escort_sigma_desc§"
+
+tech_precursor_bc_sigma: "西格玛级战列巡洋舰"
+tech_precursor_bc_sigma_desc: "Stellarite Reactor的介绍；,结合最近从外星团隐藏档案中获得的信息中获得的额外见解，使我们能够创造出一艘更耐用的战列巡洋舰，并配备额外的电容器用于增强。"
+TECH_UNLOCK_SIGMA_BC_TITLE: "§H解锁船舶部分：§!,西格玛级战列巡洋舰"
+TECH_UNLOCK_SIGMA_BC_DESC: "§YSigma 部分：§! ,§tech_precursor_bc_sigma_desc§"
+
+tech_precursor_sentinel_sigma: "西格玛级哨兵"
+tech_precursor_sentinel_sigma_desc: "Stellarite Reactor的介绍；,结合最近从外星团隐藏档案中获得的信息中获得的额外见解，使我们能够创建一个更耐用的哨兵，并带有额外的电容器用于增强。"
+TECH_UNLOCK_SIGMA_SENTINEL_TITLE: "§H解锁船舶部分：§!,西格玛级哨兵"
+TECH_UNLOCK_SIGMA_SENTINEL_DESC: "§YSigma 部分：§! ,§tech_precursor_sentinel_sigma_desc§"
+
+tech_gatekeepers_sigma: "看门人西格玛"
+tech_gatekeepers_sigma_desc: "根据预计的计算，西格玛守门者模板现在应该与这艘巨大船只的原始设计非常相似，具有破坏性的进攻和防御能力。"
+TECH_UNLOCK_SIGMA_GATEKEEPER_TITLE: "§H解锁船舶部分：§!,看门人西格玛"
+TECH_UNLOCK_SIGMA_GATEKEEPER_DESC: "§YSigma 部分：§! ,§tech_gatekeepers_sigma_desc§"
+
+tech_precursor_titan_sigma: "西格玛级亥伯龙级"
+tech_precursor_titan_sigma_desc: "Stellarite Reactor的介绍；,结合最近从外星团隐藏档案中获得的信息中获得的额外见解，使我们能够创建一个更耐用的海伯利安，并带有额外的电容器用于增强。"
+TECH_UNLOCK_SIGMA_TITAN_TITLE: "§H解锁船舶部分：§!,西格玛级亥伯龙级"
+TECH_UNLOCK_SIGMA_TITAN_DESC: "§YSigma 部分：§! ,§tech_precursor_titan_sigma_desc§"
+
+tech_precursor_assault_carrier_sigma: "西格玛级攻击母舰"
+tech_precursor_assault_carrier_sigma_desc: "Stellarite Reactor的介绍；,结合最近从外星团隐藏档案中获得的信息中获得的更多见解，使我们能够创建一个更耐用的突击母舰，并带有额外的电容器用于增强。"
+TECH_UNLOCK_SIGMA_AC_TITLE: "§H解锁船舶部分：§!,西格玛级攻击母舰"
+TECH_UNLOCK_SIGMA_AC_DESC: "§YSigma 部分：§! ,§tech_precursor_assault_carrier_sigma_desc§"
+
+tech_precursor_guardian_sigma: "西格玛级守护者"
+tech_precursor_guardian_sigma_desc: "Stellarite Reactor的介绍；,结合最近从外星团隐藏档案中获得的信息中获得的额外见解，使我们能够创建一个更耐用的守护者，并带有额外的电容器用于增强。"
+TECH_UNLOCK_SIGMA_GUARDIAN_TITLE: "§H解锁船舶部分：§!,西格玛级守护者"
+TECH_UNLOCK_SIGMA_GUARDIAN_DESC: "§YSigma 部分：§! ,§tech_precursor_guardian_sigma_desc§"
+
+tech_precursor_colossus_se: "西格玛级大力士"
+tech_precursor_colossus_se_desc: "根据预计的计算，大力神西格玛模板现在应该与这个大型战斗站的原始设计非常相似，具有破坏性的进攻和防御能力。"
+TECH_UNLOCK_SIGMA_COLOSSUS_TITLE: "§H解锁船舶部分：§!,西格玛级大力士"
+TECH_UNLOCK_SIGMA_COLOSSUS_DESC: "§YSigma 部分：§! ,§tech_precursor_colossus_se_desc§"
+
+tech_precursor_construcor_sigma: "Sigma 类初始化器"
+tech_precursor_construcor_sigma_desc: "Stellarite 技术的进步使我们能够对初始化程序进行另一项改进。,有了新的设计，他们将能够抵御原本由 om-nom 平民建造者发起的攻击。"
+TECH_UNLOCK_SIGMA_CONSTRUCTOR_TITLE: "§H解锁船舶部分：§! ,Sigma 类初始化器"
+TECH_UNLOCK_SIGMA_CONSTRUCTOR_DESC: "§YSigma 部分：§! ,§tech_precursor_contrucor_sigma_desc§"
+
+tech_precursor_colonizer_sigma: "西格玛级使者"
+tech_precursor_colonizer_sigma_desc: "太阳帝国时代需要创造新的使者来推进我们的扩张。,不遗漏任何一块石头，不遗漏任何水，不遗漏任何一颗星星。,我们的眼睛是睁开的。"
+TECH_UNLOCK_SIGMA_COLONIZER_TITLE: "§H解锁船舶部分：§!,西格玛级使者"
+TECH_UNLOCK_SIGMA_COLONIZER_DESC: "§YSigma 部分：§! ,§tech_precursor_colonizer_sigma_desc§"
+
+tech_precursor_science_sigma: "西格玛级神谕者"
+tech_precursor_science_sigma_desc: "没有人能够洞悉我们卓越设计的秘密，因为新的西格玛级神谕可以进一步探索现实的寒冷深处，并且毫发无伤。,我们将骑着这匹新种马进入太空爷爷的空间，并告诉他们他们是多么脱离现实。"
+TECH_UNLOCK_SIGMA_SCIENCE_TITLE: "§H解锁船舶部分：§!,西格玛级神谕者"
+TECH_UNLOCK_SIGMA_SCIENCE_DESC: "§YSigma 部分：§! ,§tech_precursor_science_sigma_desc§"
+
+###MASTER###
+
+tech_precursor_escort_master: "大师护航"
+tech_precursor_escort_master_desc: "结合两种不同设计的优势，我们能够创造出完美的 Mastercraft Escort。"
+TECH_UNLOCK_MASTER_ESCORT_TITLE: "§H解锁船舶部分：§!,大师护航"
+TECH_UNLOCK_MASTER_ESCORT_DESC: "§Y大师工艺部分：§! ,§tech_precursor_escort_master_desc§"
+
+tech_precursor_bc_master: "大师级战列巡洋舰"
+tech_precursor_bc_master_desc: "结合两种不同设计的优势，我们能够创造出完美的 Mastercraft 战列巡洋舰。"
+TECH_UNLOCK_MASTER_BC_TITLE: "§H解锁船舶部分：§!,大师级战列巡洋舰"
+TECH_UNLOCK_MASTER_BC_DESC: "§Y大师工艺部分：§! ,§tech_precursor_bc_master_desc§"
+
+tech_precursor_sentinel_master: "大师级哨兵"
+tech_precursor_sentinel_master_desc: "结合两种不同设计的优势，我们能够创造出完美的 Mastercraft Sentinel。"
+TECH_UNLOCK_MASTER_SENTINEL_TITLE: "§H解锁船舶部分：§!,大师级哨兵"
+TECH_UNLOCK_MASTER_SENTINEL_DESC: "§Y大师工艺部分：§! ,§tech_precursor_sentinel_master_desc§"
+
+tech_gatekeepers_master: "大师级守门人"
+tech_gatekeepers_master_desc: "结合两种不同设计的优势，我们能够创造出完美的 Mastercraft Gatekeeper。,嗯，这看起来很奇怪？,我们什么时候获得这些蓝图的？,什么..."
+TECH_UNLOCK_MASTER_GATEKEEPER_TITLE: "§H解锁船舶部分：§!,大师级守门人"
+TECH_UNLOCK_MASTER_GATEKEEPER_DESC: "§Y大师工艺部分：§! ,§tech_gatekeepers_master_desc§"
+
+tech_precursor_titan_master: "杰作海伯利安"
+tech_precursor_titan_master_desc: "结合两种不同设计的优势，我们能够创造出完美的 Mastercraft Hyperion。"
+TECH_UNLOCK_MASTER_TITAN_TITLE: "§H解锁船舶部分：§!,杰作海伯利安"
+TECH_UNLOCK_MASTER_TITAN_DESC: "§Y大师工艺部分：§! ,§tech_precursor_titan_master_desc§"
+
+tech_precursor_assault_carrier_master: "大师级突击母舰"
+tech_precursor_assault_carrier_master_desc: "结合两种不同设计的优势，我们能够创造出完美的 Mastercraft 突击母舰。"
+TECH_UNLOCK_MASTER_AC_TITLE: "§H解锁船舶部分：§!,大师级突击母舰"
+TECH_UNLOCK_MASTER_AC_DESC: "§Y大师工艺部分：§! ,§tech_precursor_assault_carrier_master_desc§"
+
+tech_precursor_guardian_master: "大师级守护者"
+tech_precursor_guardian_master_desc: "结合两种不同设计的优势，我们能够创造出完美的 Mastercraft Guardian。"
+TECH_UNLOCK_MASTER_GUARDIAN_TITLE: "§H解锁船舶部分：§!,大师级守护者"
+TECH_UNLOCK_MASTER_GUARDIAN_DESC: "§Y大师工艺部分：§! ,§tech_precursor_guardian_master_desc§"
+
+tech_precursor_colossus_master: "大师级大力神"
+tech_precursor_colossus_master_desc: "结合两种不同设计的优势，我们能够创造出终极作品，独一无二的 Mastercraft Herculean。,等一下，我们做了不止一个吗？"
+TECH_UNLOCK_MASTER_COLOSSUS_TITLE: "§H解锁船舶部分：§!,大师级大力神"
+TECH_UNLOCK_MASTER_COLOSSUS_DESC: "§Y大师工艺部分：§! ,§tech_precursor_colossus_se_desc§"
+
+###OMEGA###
+tech_precursor_escort_omega: "欧米茄级护卫舰"
+tech_precursor_escort_omega_desc: "模块化武器选择系统允许欧米茄护航舰在不牺牲机动性的情况下部署多个武器库。,这是一艘专为最大程度的屠杀而设计的航天器。"
+TECH_UNLOCK_OMEGA_ESCORT_TITLE: "§H解锁船舶部分：§!,欧米茄级护卫舰"
+TECH_UNLOCK_OMEGA_ESCORT_DESC: "§Yomega 部分：§! ,§tech_precursor_escort_omega_desc§"
+
+tech_precursor_bc_omega: "欧米茄级战列巡洋舰"
+tech_precursor_bc_omega_desc: "与欧米茄护航舰非常相似，欧米茄级战列巡洋舰先进的模块化特性使其能够部署致命数量的武器和防御设施，这使得旧的设计相比之下显得很原始。"
+TECH_UNLOCK_OMEGA_BATTLECRUISER_TITLE: "§H解锁船舶部分：§!,欧米茄级战列巡洋舰"
+TECH_UNLOCK_OMEGA_BATTLECRUISER_DESC: "§Yomega 部分：§! ,§tech_precursor_bc_omega_desc§"
+
+tech_precursor_assault_carrier_omega: "欧米茄级攻击母舰"
+tech_precursor_assault_carrier_omega_desc: "难怪没落的帝国放弃了复制突击母舰的尝试。,这艘神秘航母的欧米茄级拥有数量惊人的内部吊架。"
+TECH_UNLOCK_OMEGA_CARRIER_TITLE: "§H解锁船舶部分：§!,欧米茄级航母"
+TECH_UNLOCK_OMEGA_CARRIER_DESC: "§Yomega 部分：§! ,§tech_precursor_assault_carrier_omega_desc§"
+
+tech_precursor_sentinel_omega: "欧米茄级哨兵"
+tech_precursor_sentinel_omega_desc: "如此高效……始祖战争期间，据说始祖的防御是坚不可摧的。,我们现在开始明白为什么了。"
+TECH_UNLOCK_OMEGA_SENTINEL_TITLE: "§H解锁船舶部分：§!,欧米茄级哨兵"
+TECH_UNLOCK_OMEGA_SENTINEL_DESC: "§Yomega 部分：§! ,§tech_precursor_sentinel_omega_desc§"
+
+tech_precursor_titan_omega: "欧米茄级亥伯龙号"
+tech_precursor_titan_omega_desc: "所以这一定是古代原型所代表的……欧米茄海伯利安。,确实具有破坏性和危险性。"
+TECH_UNLOCK_OMEGA_TITAN_TITLE: "§H解锁船舶部分：§!,欧米茄级亥伯龙号"
+TECH_UNLOCK_OMEGA_TITAN_DESC: "§Yomega 部分：§! ,§tech_precursor_titan_omega_desc§"
+
+tech_omega_gatekeeper: "看门人欧米茄"
+tech_omega_gatekeeper_desc: "这就是……臭名昭著的古代守门人的真实设计。,没落的帝国竟然能够对这一奇迹进行逆向工程，这真是一个奇迹。"
+TECH_UNLOCK_OMEGA_GATEKEEPER_TITLE: "§H解锁船舶部分：§!,看门人欧米茄"
+TECH_UNLOCK_OMEGA_GATEKEEPER_DESC: "§Yomega 部分：§! ,§tech_omega_gatekeeper_desc§"
+
+tech_precursor_guardian_omega: "欧米茄级守护者"
+tech_precursor_guardian_omega_desc: "如此高效……始祖战争期间，据说始祖的防御是坚不可摧的。,我们现在开始明白为什么了。"
+TECH_UNLOCK_OMEGA_GUARDIAN_TITLE: "§H解锁船舶部分：§!,欧米茄级守护者"
+TECH_UNLOCK_OMEGA_GUARDIAN_DESC: "§Yomega 部分：§! ,§tech_precursor_guardian_omega_desc§"
+
+tech_precursor_colossus_oe: "欧米茄级大力神级"
+tech_precursor_colossus_oe_desc: "欧米茄级大力士……始祖们曾经使用过的非常机动的战斗站。,它的武器装载量巨大，可能是这个时代最致命的武器之一。"
+TECH_UNLOCK_OMEGA_COLOSSUS_TITLE: "§H解锁船舶部分：§!,欧米茄级大力神级"
+TECH_UNLOCK_OMEGA_COLOSSUS_DESC: "§Yomega 部分：§! ,§tech_precursor_colossus_oe_desc§"
+
+tech_precursor_construcor_omega: "Omega 类初始化器"
+tech_precursor_construcor_omega_desc: "起初，让初始化器适应静态光的力量被证明是困难的，但我们相信最新的设计将被证明是迄今为止最先进的建造容器。"
+TECH_UNLOCK_OMEGA_CONSTRUCTOR_TITLE: "§H解锁船舶部分：§! ,Omega 类初始化器"
+TECH_UNLOCK_OMEGA_CONSTRUCTOR_DESC: "§Yomega 部分：§! ,§tech_precursor_contrucor_omega_desc§"
+
+tech_precursor_colonizer_omega: "欧米茄级使者"
+tech_precursor_colonizer_omega_desc: "尽管Stellarborne从未使用过类似于使者的东西，因为他们一开始就不需要殖民，但我们仍然能够为使者提出我们自己独特的欧米茄设计。"
+TECH_UNLOCK_OMEGA_COLONIZER_TITLE: "§H解锁船舶部分：§!,欧米茄级使者"
+TECH_UNLOCK_OMEGA_COLONIZER_DESC: "§Yomega 部分：§! ,§tech_precursor_colonizer_omega_desc§"
+
+tech_precursor_science_omega: "欧米茄级神谕者"
+tech_precursor_science_omega_desc: "据说，在远古时期，星系中充满了诸如巨龙、噬罪者和黑暗之云等愚蠢而危险的生物。,神谕者通过在混乱的时间中创建安全的超航道来为混乱带来秩序。,凭借我们内心赋予的力量，我们可以实现类似的设计。\n\n假设周围有任何堕落帝国，我们必须将我们的新神谕飞入他们的传感器范围，只是为了告诉他们，他们是如何基本上被抛弃的，而那些明显优于他们的人,他们。"
+TECH_UNLOCK_OMEGA_SCIENCE_TITLE: "§H解锁船舶部分：§!,欧米茄级神谕者"
+TECH_UNLOCK_OMEGA_SCIENCE_DESC: "§Yomega 部分：§! ,§tech_precursor_science_omega_desc§"
+
+###MASTERCRAFT###
+
+tech_precursor_escort_cost: "大师护航"
+tech_precursor_escort_cost_desc: "对船舶真实起源和机制的深入了解使我们能够以更快的速度和更高的耐用性建造护卫舰。"
+
+tech_precursor_bc_cost: "大师级战列巡洋舰"
+tech_precursor_bc_cost_desc: "对船舶真实起源和机制的深入了解使我们能够以更快的速度和更高的耐用性建造战列巡洋舰。"
+
+tech_precursor_sentinel_cost: "大师级哨兵"
+tech_precursor_sentinel_cost_desc: "对船舶真实起源和机制的深入了解使我们能够以更快的速度和更高的耐用性建造哨兵。"
+
+tech_precursor_assault_carrier_cost: "大师级航母"
+tech_precursor_assault_carrier_cost_desc: "对船舶真实起源和机制的深入了解使我们能够以更快的速度和更高的耐用性建造突击母舰。"
+
+tech_precursor_guardian_cost: "大师级守护者"
+tech_precursor_guardian_cost_desc: "对这艘船的真实起源和机制的深入了解使我们能够以更快的速度和更高的耐用性建造守护者。"
+
+tech_gatekeepers_cost: "大师级守门人"
+tech_gatekeepers_cost_desc: "对船舶真实起源和机制的深入了解使我们能够以更快的速度和更高的耐用性建造守门者。"
+
+tech_precursor_titan_cost: "杰作海伯利安"
+tech_precursor_titan_cost_desc: "对船舶真实起源和机制的深入了解使我们能够以更快的速度和更高的耐用性建造亥伯龙号。"
+
+
+sm_acot_precursor_database: "造船厂前体数据库"
+sm_acot_precursor_database_desc: "先进的档案和计算机充满了处理前驱船建造所需的知识和数据。"
+acot_precursor_database_tooltip: "§Y允许建造前驱舰。§!"
+
+TECH_UNLOCK_FE_SHIP_TITLE: "§H解锁星际基地建筑：§!,造船厂前体数据库"
+TECH_UNLOCK_FE_SHIP_DESC: "先进的档案和计算机充满了处理前驱船建造所需的知识和数据。"
+
+TECH_UNLOCK_DELTA_ESCORT_TITLE: "§H解锁船舶部分：§!,模块化护航"
+TECH_UNLOCK_DELTA_ESCORT_DESC: "§Y三角洲部分：§! ,§tech_precursor_escort_delta_desc§"
+
+TECH_UNLOCK_DELTA_BC_TITLE: "§H解锁船舶部分：§!,模块化战列巡洋舰"
+TECH_UNLOCK_DELTA_BC_DESC: "§Y三角洲部分：§! ,§tech_precursor_bc_delta_desc§"
+#########################################################
+
+#########################################################
+###############################################################
+
+ORACLE_DELTA_COMPUTER: "Delta Oracle 绘图设备"
+ORACLE_DELTA_COMPUTER_DESC: "一种特殊的路径点系统，可以通过创建紧急虫洞让神谕者逃离致命的情况，让神谕者逃回母星。,需要§Y1800§!,每次使用后需要几天充电。"
+
+ORACLE_ALPHA_COMPUTER: "Alpha Oracle 绘图设备"
+ORACLE_ALPHA_COMPUTER_DESC: "一种特殊的路径点系统，可以通过创建紧急虫洞让神谕者逃离致命的情况，让神谕者逃回母星。,需要§Y1080§!,每次使用后需要几天充电。,如果系统出现故障，紧急个人传送装置会为首席科学家提供§Y25%§!,有机会逃回首都。"
+
+ORACLE_SIGMA_COMPUTER: "Sigma Oracle 绘图设备"
+ORACLE_SIGMA_COMPUTER_DESC: "一种特殊的路径点系统，可以通过创建紧急虫洞让神谕者逃离致命的情况，让神谕者逃回母星。,需要§Y360§!,每次使用后需要几天充电。,如果系统出现故障，紧急个人传送装置会给领先的科学家§Y50%§!,有机会逃回首都。"
+
+ORACLE_OMEGA_COMPUTER: "Omega Oracle 绘图设备"
+ORACLE_OMEGA_COMPUTER_DESC: "一种特殊的路径点系统，可以通过创建紧急虫洞让神谕者逃离致命的情况，让神谕者逃回母星。,需要§Y600§!,每次使用后需要几天充电。,如果系统出现故障，紧急个人传送装置会给领先的科学家§Y100%§!,有机会逃回首都。"
+
+####
+
+INITIALIZER_DELTA_COMPUTER: "Delta 初始值设定项法典"
+INITIALIZER_DELTA_COMPUTER_DESC: "一个专门的法典，允许初始化器协助行星的发展并建立持续短时间内的强大防御系统。\n\n提供§E10%§!,提高行星建造速度。\n排斥器持续§E60§!,天。\n塔持续§E120§!,天。"
+
+INITIALIZER_ALPHA_COMPUTER: "Alpha 初始化器法典"
+INITIALIZER_ALPHA_COMPUTER_DESC: "一个专门的法典，允许初始化器协助行星的发展并建立持续短时间内的强大防御系统。\n\n提供§E20%§!,提高行星建造速度和弹出装配速度。\n排斥器持续§E120§!,天。\n塔架持续§E240§!,天。"
+
+INITIALIZER_SIGMA_COMPUTER: "Sigma 初始化器法典"
+INITIALIZER_SIGMA_COMPUTER_DESC: "一个专门的法典，允许初始化器协助行星的发展并建立持续短时间内的强大防御系统。\n\n提供§E25%§!,提高行星建造速度、弹出装配速度。\n行星获得§E25§!,稳定性和§E-25§!,犯罪率。\n驱虫器持续时间§E240§!,天。\n塔架持续§E480§!,天。"
+
+INITIALIZER_OMEGA_COMPUTER: "Omega 初始化器法典"
+INITIALIZER_OMEGA_COMPUTER_DESC: "一个专门的法典，允许初始化器协助行星的发展并建立持续短时间内的强大防御系统。\n\n提供§E50%§!,提高行星建造速度、人口组装速度和军队建​​造速度。\n行星获得§E50§!,稳定性和§E-50§!,犯罪率。\n驱虫器持续时间§E480§!,天。\n塔架持续§E960§!,天。"
+
+acot_modifier_builder_delta: "初始化代码"
+acot_modifier_builder_delta_desc: "从初始化器法典部署的强大神秘对齐正在监视这个星球，提高其生产力。"
+
+acot_modifier_builder_alpha: "初始化代码"
+acot_modifier_builder_alpha_desc: "从初始化器法典部署的强大神秘对齐正在监视这个星球，提高其生产力。"
+
+acot_modifier_builder_sigma: "初始化代码"
+acot_modifier_builder_sigma_desc: "从初始化器法典部署的强大神秘对齐正在监视这个星球，提高其生产力。"
+
+acot_modifier_builder_omega: "初始化代码"
+acot_modifier_builder_omega_desc: "从初始化器法典部署的强大神秘对齐正在监视这个星球，提高其生产力。"
+
+####
+
+EMISSARY_DELTA_COMPUTER: "达美特使框架"
+EMISSARY_DELTA_COMPUTER_DESC: "快速部署重型基础设施和入侵部队所需的强大纳米技术和框架。\n\n使者将带着 §Y5§! 定居在这个星球上。,弹出。\n提供 §Y10§!,黑卫队作为驻军或入侵部队。"
+
+EMISSARY_ALPHA_COMPUTER: "阿尔法使者框架"
+EMISSARY_ALPHA_COMPUTER_DESC: "快速部署重型基础设施和入侵部队所需的强大纳米技术和框架。\n\n使者将带着 §Y10§! 定居在这个星球上。,弹出。\n提供 §Y15§!,黑卫队作为驻军或入侵部队。"
+
+EMISSARY_SIGMA_COMPUTER: "西格玛使者框架"
+EMISSARY_SIGMA_COMPUTER_DESC: "快速部署重型基础设施和入侵部队所需的强大纳米技术和框架。\n\n使者将与 §Y15§! 一起定居在地球上,弹出。\n提供 §Y20§!,黑卫队作为驻军或入侵部队。"
+
+EMISSARY_OMEGA_COMPUTER: "Omega 使者框架"
+EMISSARY_OMEGA_COMPUTER_DESC: "快速部署重型基础设施和入侵部队所需的强大纳米技术和框架。\n\n使者将在§Y20§! 期间定居在这个星球上。,弹出。\n提供 §Y25§!,黑卫队作为驻军或入侵部队。"
+
+ACOT_EMISSART_EXTRA_POP: "额外的劳动力部门"
+ACOT_EMISSART_EXTRA_POP_DESC: "安装 Emissary 并提供支持 §E10§! 所需的额外设施,更多现场劳动力，允许新部署的使者携带更多人员准备执行工作任务。\n\n§R不会相互堆叠，仅适用一个相同类型的模块。§!"
+
+ACOT_EMISSART_EXTRA_TROOPS: "额外的驻军"
+ACOT_EMISSART_EXTRA_TROOPS_DESC: "安装 Emissary 并提供支持 §E10§! 所需的额外设施,更多驻军。,这些部队将被部署为行星当地防御部队的一部分，或者如果部署在敌对行星上，则将作为入侵部队的一部分。,如果驻军在战斗中幸存下来，他们将留在星球上。\n\n§R不会相互叠加，只有一个相同类型的模块适用。§!"
+
+ACOT_EMISSART_EXTRA_DROIDS: "额外的哨兵单位"
+ACOT_EMISSART_EXTRA_DROIDS_DESC: "安装 Emissary 并提供支持 §E10§! 所需的额外设施,更多驻军。,这些部队将被部署为行星当地防御部队的一部分，或者如果部署在敌对行星上，则将作为入侵部队的一部分。,如果驻军在战斗中幸存下来，他们将留在星球上。\n\n§R不会相互叠加，只有一个相同类型的模块适用。§!"
+
+ACOT_EMISSART_EXTRA_LAB: "汽车实验室纳米核心"
+ACOT_EMISSART_EXTRA_LAB_DESC: "一种专门的纳米核心，可以与使者一起部署，立即建造一个科学实验室。\n\n§R不相互堆叠，仅适用一个相同类型的模块。§!"
+
+ACOT_EMISSART_EXTRA_GIGA: "Auto-Giga Nano 核心"
+ACOT_EMISSART_EXTRA_GIGA_DESC: "一个专门的纳米核心，可以与使者一起部署，立即建造一座千兆堡垒。,三门主要的千兆加农炮也将用于协助对敌方领土的陆地入侵，并在战斗结束时脱离主要塞，充当独立的地面防御单位。\n\n§R不相互叠加,，仅适用一个相同类型的模块。§!"
+
+ACOT_EMISSART_EXTRA_SKYSHIELD: "Auto-Skyshield纳米核心"
+ACOT_EMISSART_EXTRA_SKYSHIELD_DESC: "一个专门的纳米核心，可以与使者一起部署，以立即构建天盾行星护盾发生器。,该模块还增加了使者自身的护盾发生器。\n\n§R不相互叠加，仅适用一个相同类型的模块。§!"
+
+ACOT_EMISSART_EXTRA_ASSEMBLY: "自动组装纳米核心"
+ACOT_EMISSART_EXTRA_ASSEMBLY_DESC: "一个专门的纳米核心，可以与使者一起部署，以立即构建机器人组件。 ,\n\n§R不相互堆叠，仅适用一个相同类型的模块。§!"
+
+ACOT_EMISSART_EXTRA_NEXUS: "Auto-Nexus Nano 核心"
+ACOT_EMISSART_EXTRA_NEXUS_DESC: "一种专门的纳米核心，可以与 Emissary 一起部署以立即构建合成器。\n\n§R不会相互堆叠，仅适用一个相同类型的模块。§!"
+
+###########################################
+
+ACOT_EMISSARY_BEAM: "使者的祝福讯息"
+ACOT_EMISSARY_BEAM_DESC: "一种特殊的轨道光束，可以改造或修复行星。"
+
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_EMISSARY_BEAM: "准备向$PLANET|Y$传递祝福信息"
+emissary_beam_need_target: "只能向敌方行星或我方境内的行星发射。"
+emissary_beam_type_target: "只能在宜居行星上发射。"
+
+MESSAGE_DESC_FOR_ACOT_EMISSARY_BEAM: "收到了祝福信息"
+
+
+ACOT_EMISSARY_BEAM_ACTION: "传递祝福讯息"
+ACOT_EMISSARY_BEAM_ACTION_DESC: "使用光束改造或修复行星。"
+
+#################
+
+ACOT_EMISSARY_BEAM_LANDING: "使者的到来消息"
+ACOT_EMISSARY_BEAM_LANDING_DESC: "一种可以定居或入侵行星的特殊轨道光束。"
+
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_EMISSARY_BEAM_LANDING: "准备向 $PLANET|Y$ 发送到达消息"
+
+MESSAGE_DESC_FOR_ACOT_EMISSARY_BEAM_LANDING: "收到到达消息"
+
+ACOT_EMISSARY_BEAM_LANDING_ACTION: "传递到达消息"
+ACOT_EMISSARY_BEAM_LANDING_ACTION_DESC: "使用光束定居或入侵行星。"
+
+#################
+
+ACOT_EMISSARY_BEAM_REMOVE: "使者的告别辞"
+ACOT_EMISSARY_BEAM_REMOVE_DESC: "一种特殊的轨道光束，可以去除不必要的天体。"
+
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_EMISSARY_BEAM_REMOVE: "准备向$PLANET|Y$传递告别信息"
+
+MESSAGE_DESC_FOR_ACOT_EMISSARY_BEAM_REMOVE: "收到了告别信息"
+
+ACOT_EMISSARY_BEAM_REMOVE_ACTION: "传递告别讯息"
+ACOT_EMISSARY_BEAM_REMOVE_ACTION_DESC: "使用光束去除不需要的天体。"
+
+#### HERCULER ###
+
+acot_precursor_colossus_site: "先行者大力神装配门户"
+acot_precursor_colossus_site_DESC: "这个集合门户将转变为大力神之心。"
+acot_precursor_colossus_site_MEGASTRUCTURE_DETAILS: "这个集合门户将转变为大力神之心。"
+
+acot_precursor_colossus_base: "先行者大力神之心"
+acot_precursor_colossus_base_DESC: "大力神之心是主要枢纽，进一步的建设将在此基础上进行。"
+acot_precursor_colossus_base_MEGASTRUCTURE_DETAILS: "大力神之心是主要枢纽，进一步的建设将在此基础上进行。"
+
+acot_precursor_colossus_stage_one: "先驱大力神戒指"
+acot_precursor_colossus_stage_one_DESC: "大力士之环拥有数百万个网络和强光铁路，可以用来建造大量船只。"
+acot_precursor_colossus_stage_one_MEGASTRUCTURE_DETAILS: "大力神环拥有 20 个造船厂，可以生产普通舰船和先驱舰船。"
+
+acot_precursor_colossus_stage_two: "先驱者大力神盾"
+acot_precursor_colossus_stage_two_DESC: "大力神之盾保护着戒指和心，同时也充当了一个巨大的发电机，可以在未来的岁月里为自己提供资金。"
+acot_precursor_colossus_stage_two_MEGASTRUCTURE_DETAILS: "大力神号的所有维护工作均已取消，巨型建筑现在改为生产资源。"
+
+acot_precursor_colossus_final: "赫拉克勒斯先行者"
+acot_precursor_colossus_final_DESC: "一旦完全完工，先行者赫拉克勒斯将被转移到首都，在那里它将准备进行最终检查，并成为一个完全移动的恒星系统。"
+acot_precursor_colossus_final_MEGASTRUCTURE_DETAILS: "赫拉克勒斯将成为一个全面运作的单位，让所有人屈服。"
+
+### PLATFORM
+
+acot_precursor_platform_m_site: "即时排斥器扭曲传送门"
+acot_precursor_platform_m_site_DESC: "该传送门正在即时排斥器中扭曲，并将在短时间内投入使用。"
+acot_precursor_platform_m_site_MEGASTRUCTURE_DETAILS: "使用我们所做的一种可用设计完成后，这个传送门将变成一个即时排斥器。"
+acot_precursor_platform_m_complete: "即时排斥器扭曲传送门"
+acot_precursor_platform_m_complete_DESC: "该传送门正在即时排斥器中扭曲，并将在短时间内投入使用。"
+acot_precursor_platform_m_complete_MEGASTRUCTURE_DETAILS: "使用我们所做的一种可用设计完成后，这个传送门将变成一个即时排斥器。"
+
+acot_precursor_platform_l_site: "即时塔扭曲传送门"
+acot_precursor_platform_l_site_DESC: "该传送门正在即时先驱塔中扭曲，并将在短时间内投入使用。"
+acot_precursor_platform_l_site_MEGASTRUCTURE_DETAILS: "使用我们所做的一种可用设计完成后，这个传送门将变成即时塔。"
+acot_precursor_platform_l_complete: "即时塔扭曲传送门"
+acot_precursor_platform_l_complete_DESC: "该传送门正在即时先驱塔中扭曲，并将在短时间内投入使用。"
+acot_precursor_platform_l_complete_MEGASTRUCTURE_DETAILS: "使用我们所做的一种可用设计完成后，这个传送门将变成即时塔。"
+
+### ORBIT RING
+
+acot_precusor_orbital_ring_t1: "前体轨道环"
+acot_precusor_orbital_ring_t1_plural: "前体轨道环"
+acot_precusor_orbital_ring_t2: "先行者高级轨道环"
+acot_precusor_orbital_ring_t2_plural: "先行者高级轨道环"
+acot_precusor_orbital_ring_t3: "先驱者主轨道环"
+acot_precusor_orbital_ring_t3_plural: "先驱者主轨道环"
+ACOT_PRECURSOR_ORBITAL_RING_1_SECTION: "轨道环人"
+ACOT_PRECURSOR_ORBITAL_RING_2_SECTION: "轨道环人"
+ACOT_PRECURSOR_ORBITAL_RING_3_SECTION: "轨道环人"
+
+acot_precursor_orbital_ring_assembly: "前体轨道环组件门户"
+acot_precursor_orbital_ring_assembly_DESC: "一个装配门户，将转变为先驱者轨道环。"
+acot_precursor_orbital_ring_assembly_MEGASTRUCTURE_DETAILS: "一个装配门户，将转变为先驱者轨道环。"
+
+acot_precursor_orbital_ring_mega: "前体轨道环组件门户"
+acot_precursor_orbital_ring_mega_DESC: "一个装配门户，将转变为先驱者轨道环。"
+acot_precursor_orbital_ring_mega_MEGASTRUCTURE_DETAILS: "一个装配门户，将转变为先驱者轨道环。"
+
+sm_acot_orbital_ring_shipyard: "先行者轨道造船厂"
+sm_acot_orbital_ring_shipyard_desc: "能够同时建造两艘船的先进造船厂。"
+
+sm_acot_orbital_ring_anchorage: "前体轨道锚地"
+sm_acot_orbital_ring_anchorage_desc: "先进的锚地，能够储存和补给大量船舶。"
+
+sm_acot_orbital_ring_habitat: "前体轨道栖息地模块"
+sm_acot_orbital_ring_habitat_desc: "先进的锚地，能够储存和补给大量船舶。"
+
+sm_acot_orbital_ring_pd: "先驱者轨道点防御"
+sm_acot_orbital_ring_pd_desc: "先进的防御模块旨在为轨道防御提供额外的火力。"
+
+sm_acot_orbital_ring_battery: "前体轨道电池"
+sm_acot_orbital_ring_battery_desc: "先进的防御模块旨在为轨道防御提供额外的火力。"
+
+sm_acot_orbital_ring_missile: "前体轨道导弹发射器"
+sm_acot_orbital_ring_missile_desc: "先进的防御模块旨在为轨道防御提供额外的火力。"
+
+sm_acot_orbital_ring_hangar: "先行者轨道机库湾"
+sm_acot_orbital_ring_hangar_desc: "先进的防御模块旨在为轨道防御提供额外的火力。"
+
+#### FPRTRESS
+
+acot_precusor_starbase: "阿尔法先驱要塞"
+acot_precusor_starfortress: "阿尔法先行者城堡"
+acot_precusor_starcitadel: "阿尔法前体联结"
+acot_precusor_starbase_plural: "阿尔法先驱要塞"
+acot_precusor_starfortress_plural: "阿尔法先驱者城堡"
+acot_precusor_starcitadel_plural: "阿尔法前体 Nexi"
+
+acot_precursor_citadel_site: "先行者要塞组装门户"
+acot_precursor_citadel_site_DESC: "该装配门户将转变为先驱者星际基地。"
+acot_precursor_citadel_site_MEGASTRUCTURE_DETAILS: "该装配门户将转变为先驱者星际基地。"
+
+acot_precursor_citadel_base: "先行者堡垒"
+acot_precursor_citadel_base_DESC: "一旦完全建成，先驱者堡垒将取代现有的星际基地，并将作为一个全面运作的先驱者星际基地。"
+acot_precursor_citadel_base_MEGASTRUCTURE_DETAILS: "完成后，先行者堡垒将成为一个非常强大的星际基地，拥有令人印象深刻的武器库，并且可以进一步升级。"
+
+#### SUPPORT MODULE #####
+
+sm_acot_supply_bay: "前驱体物流中心"
+sm_acot_supply_bay_desc: "强大的星际基地模块旨在帮助空间站支持帝国的补给和后勤。,它大幅增加了资源储存量，产生矿物和合金，并将车队维护工作减少了一半。"
+acot_supply_bay_tooltip: "§Y将车队维护保养费用减少 50%。§!"
+
+sm_acot_super_reactor: "前体阿尔法超级反应堆"
+sm_acot_super_reactor_desc: "先进的反应堆模块可提供额外的能源收入。"
+acot_super_reactor_tooltip: "§Y将空间站的基本暗物质和暗能量维持量减少一半，并提供额外的资源。§!"
+
+sm_acot_starbase_super_computer: "Precursor 仿生虚拟辅助上行链路"
+sm_acot_starbase_super_computer_desc: "先行者 B.V.A 负责协调和发布银河系顶级海军上将发出的命令，使该站能够快速与舰队形成战略网络。"
+acot_starbase_super_computer_tooltip: "§Y允许从此站建造的船只拥有 1000 点起始经验，提供额外的防御槽并增加先行者主锚地支持的海军能力。§!"
+
+sm_acot_starbase_aura_generator: "前体维度裂缝发生器"
+sm_acot_starbase_aura_generator_desc: "强大的维度发生器，可以重写系统周围的物理定律，扰乱敌方舰队，并为我们自己提供战斗优势。"
+acot_starbase_aura_generator_tooltip: "§Y允许站点在一个模块中利用标准站点使用的每个基于光环的模块。§!"
+
+sm_acot_starbase_reinforced_wall: "先行者隐藏的防御工事"
+sm_acot_starbase_reinforced_wall_desc: "隐蔽的防御系统将大大提高空间站的耐用性而不增加其外形。"
+acot_starbase_reinforced_wall_tooltip: "§Y为空间站提供额外的护盾、装甲和船体点。§!"
+#### MAIN MODULE ####
+
+sm_acot_starbase_shipyard: "先行者星铸"
+sm_acot_starbase_shipyard_desc: "能够同时建造两艘船的先进造船厂。"
+acot_starbase_shipyard_tooltip: "§Y允许每个模块建造两艘船。§!"
+
+sm_acot_starbase_anchorage: "先行者主锚地"
+sm_acot_starbase_anchorage_desc: "在这个锚地内产生的暗能量池内，可以安全停靠多艘船只。"
+acot_starbase_anchorage_tooltip: "§Y提供额外的舰队海军能力。§!"
+
+sm_acot_starbase_gun_battery: "前驱体隐蔽驱避系统"
+sm_acot_starbase_gun_battery_desc: "隐藏在这些模块内的强光生成武器系统将为该站提供增强的火力，而不会增加其外形。"
+acot_starbase_gun_battery_tooltip: "§Y提供 3 个额外的 L 武器插槽。§!"
+
+sm_acot_starbase_laser_battery: "先行者隐蔽哨兵系统"
+sm_acot_starbase_laser_battery_desc: "隐藏在这些模块内的强光生成点防御系统将使该站能够在不增加其外形的情况下击退制导武器系统和攻击机。"
+acot_starbase_laser_battery_tooltip: "§Y提供8个额外的PD武器槽。§!"
+
+sm_acot_starbase_missile_battery: "先行者隐蔽宙斯盾系统"
+sm_acot_starbase_missile_battery_desc: "隐藏在这些模块内的强光产生的导弹电池将为该站提供额外的导弹发射器，而不会增加其外形。"
+acot_starbase_missile_battery_tooltip: "§Y提供6个额外的G武器插槽。§!"
+
+sm_acot_starbase_hangar_bay: "先驱者隐蔽神族系统"
+sm_acot_starbase_hangar_bay_desc: "强光生成的吊架以及隐藏在这些模块内的自动攻击机将为空间站提供额外的攻击机支撑，而不会增加其轮廓。"
+acot_starbase_hangar_bay_tooltip: "§Y提供 3 个额外的 H 武器插槽。§!"
+
+sm_acot_starbase_dark_generator: "前体微暗导管"
+sm_acot_starbase_dark_generator_desc: "黑暗之门枢纽的缩小版，帮助空间站产生额外的暗物质和暗能量。"
+acot_starbase_dark_generator_tooltip: "§Y提供额外的资源生成。§!"
+
+sm_acot_starbase_lab: "先行者战斗实验室"
+sm_acot_starbase_lab_desc: "一些科学家和工程师更喜欢在戒备森严的空间站工作，他们可能就驻扎在这里。"
+acot_starbase_lab_tooltip: "§Y提供额外的科学研究。§!"
+
+acot_hostile_precursor_starbase_aura: "再见敌人光环"
+acot_friendly_precursor_starbase_aura: "你好朋友光环"
+
+################ SIGMA SPACE STRICTIRE ##################################
+
+acot_precusor_sigma_starbase: "西格玛先驱要塞"
+acot_precusor_sigma_starfortress: "西格玛先驱堡垒"
+acot_precusor_sigma_starcitadel: "西格玛前体 Nexus"
+acot_precusor_sigma_starbase_plural: "西格玛先驱要塞"
+acot_precusor_sigma_starfortress_plural: "西格玛先驱堡垒"
+acot_precusor_sigma_starcitadel_plural: "西格玛先驱 Nexi"
+
+acot_precursor_sigma_citadel_site: "Sigma Fortress 组装门户"
+acot_precursor_sigma_citadel_site_DESC: "该装配门户将转变为先驱者星际基地。"
+acot_precursor_sigma_citadel_site_MEGASTRUCTURE_DETAILS: "该装配门户将转变为先驱者星际基地。"
+
+acot_precursor_sigma_citadel_base: "西格玛要塞"
+acot_precursor_sigma_citadel_base_DESC: "一旦完全建成，先驱者堡垒将取代现有的星际基地，并将作为一个全面运作的先驱者星际基地。"
+acot_precursor_sigma_citadel_base_MEGASTRUCTURE_DETAILS: "完工后，西格玛堡垒将成为一个非常强大的星际基地，拥有令人印象深刻的武器库，并且可以进一步升级。"
+
+#### SUPPORT MODULE #####
+
+sm_acot_sigma_supply_bay: "西格玛物流中心"
+sm_acot_sigma_supply_bay_desc: "强大的星际基地模块旨在帮助空间站支持帝国的补给和后勤。,它大幅增加了资源存储量，并将车队维护工作减少了一半。"
+acot_sigma_supply_bay_tooltip: "§Y将车队维护保养费用减少 50%。§!"
+
+sm_acot_sigma_super_reactor: "星星超级反应堆"
+sm_acot_sigma_super_reactor_desc: "先进的反应堆模块，提供额外的能源收入。"
+acot_super_reactor_tooltip: "§Y将空间站的恒星维护费用减少 50%，并提供额外的能量。§!"
+
+sm_acot_sigma_starbase_super_computer: "Sigma 仿生虚拟辅助上行链路"
+sm_acot_sigma_starbase_super_computer_desc: "先行者 B.V.A 负责协调和发布银河系顶级海军上将发出的命令，使该站能够快速与舰队形成战略网络。"
+acot_sigma_starbase_super_computer_tooltip: "§Y允许从此站建造的船只拥有 1000 点起始经验，提供额外的防御槽并增加先行者主锚地支持的海军能力。§!"
+
+sm_acot_sigma_starbase_aura_generator: "西格玛维度裂缝发生器"
+sm_acot_sigma_starbase_aura_generator_desc: "强大的维度发生器，可以重写系统周围的物理定律，扰乱敌方舰队，并为我们自己提供战斗优势。"
+acot_sigma_starbase_aura_generator_tooltip: "§Y允许站点在一个模块中利用标准站点使用的每个基于光环的模块。§!"
+
+sm_acot_sigma_starbase_reinforced_wall: "西格玛隐蔽防御工事"
+sm_acot_sigma_starbase_reinforced_wall_desc: "隐蔽的防御系统将大大提高空间站的耐用性而不增加其外形。"
+acot_sigma_starbase_reinforced_wall_tooltip: "§Y为空间站提供额外的护盾、装甲和船体点。§!"
+#### MAIN MODULE ####
+
+sm_acot_sigma_starbase_shipyard: "西格玛星铸"
+sm_acot_sigma_starbase_shipyard_desc: "能够同时建造两艘船的先进造船厂。"
+acot_sigma_starbase_shipyard_tooltip: "§Y允许每个模块建造两艘船。§!"
+
+sm_acot_sigma_starbase_anchorage: "西格玛主锚地"
+sm_acot_sigma_starbase_anchorage_desc: "在这个锚地内产生的暗能量池内，可以安全停靠多艘船只。"
+acot_sigma_starbase_anchorage_tooltip: "§Y提供额外的舰队海军能力。§!"
+
+sm_acot_sigma_starbase_gun_battery: "Sigma 隐蔽式驱虫系统"
+sm_acot_sigma_starbase_gun_battery_desc: "隐藏在这些模块内的强光生成武器系统将为该站提供增强的火力，而不会增加其外形。"
+acot_sigma_starbase_gun_battery_tooltip: "§Y提供 3 个额外的 L 武器插槽。§!"
+
+sm_acot_sigma_starbase_laser_battery: "西格玛隐蔽哨兵系统"
+sm_acot_sigma_starbase_laser_battery_desc: "隐藏在这些模块内的强光生成点防御系统将使该站能够在不增加其外形的情况下击退制导武器系统和攻击机。"
+acot_sigma_starbase_laser_battery_tooltip: "§Y提供8个额外的PD武器槽。§!"
+
+sm_acot_sigma_starbase_missile_battery: "西格玛隐蔽宙斯盾系统"
+sm_acot_sigma_starbase_missile_battery_desc: "隐藏在这些模块内的强光产生的导弹电池将为该站提供额外的导弹发射器，而不会增加其外形。"
+acot_sigma_starbase_missile_battery_tooltip: "§Y提供6个额外的G武器插槽。§!"
+
+sm_acot_sigma_starbase_hangar_bay: "西格玛隐蔽神族系统"
+sm_acot_sigma_starbase_hangar_bay_desc: "强光生成的吊架以及隐藏在这些模块内的自动攻击机将为空间站提供额外的攻击机支撑，而不会增加其轮廓。"
+acot_sigma_starbase_hangar_bay_tooltip: "§Y提供 3 个额外的 H 武器插槽。§!"
+
+sm_acot_sigma_starbase_dark_generator: "星光电源导管"
+sm_acot_sigma_starbase_dark_generator_desc: "Stellarite Nexus 的缩小版本，可帮助空间站生成 Stellarite。"
+acot_sigma_starbase_dark_generator_tooltip: "§Y提供额外的资源生成。§!"
+
+sm_acot_sigma_starbase_lab: "西格玛战斗实验室"
+sm_acot_sigma_starbase_lab_desc: "一些科学家和工程师更喜欢在戒备森严的空间站工作，他们可能就驻扎在这里。"
+acot_sigma_starbase_lab_tooltip: "§Y提供额外的科学研究。§!"
+
+######################################################
+
+################ PHANON SPACE STRICTIRE ##################################
+
+acot_precusor_phanon_starbase: "符文先驱要塞"
+acot_precusor_phanon_starbase_plural: "符文先驱要塞"
+
+acot_precusor_phanon_starfortress: "符文先行者堡垒"
+acot_precusor_phanon_starfortress_plural: "符文先行者城堡"
+
+acot_precusor_phanon_starcitadel: "符文先行者纽带"
+acot_precusor_phanon_starcitadel_plural: "符文先行者奈克西"
+
+acot_precursor_phanon_citadel_site: "《守望先锋》Phanon 施工现场"
+acot_precursor_phanon_citadel_site_DESC: "这个巨大的平台将作为 Phanon 守望先锋 Starbase 的施工场地，施工船将作为塔架的能源焦点，并在进一步建设整个空间站的过程中消耗殆尽。"
+acot_precursor_phanon_citadel_site_MEGASTRUCTURE_DETAILS: "该建筑工地将用于建造 Phanon 《守望先锋》星际基地。,请注意，一旦该过程完成，施工船将与施工塔融合。"
+
+acot_precursor_phanon_citadel_base: "守望先锋法农"
+acot_precursor_phanon_citadel_base_DESC: "一旦完全完工，法农守望先锋将取代现有的星际基地，并将作为一个全面运作的空间站。"
+acot_precursor_phanon_citadel_base_MEGASTRUCTURE_DETAILS: "建成后，帕农要塞将成为一个非常强大的星际基地，拥有令人印象深刻的武器库，并且可以进一步升级。"
+
+#### SUPPORT MODULE #####
+
+sm_acot_phanon_supply_bay: "法能物流中心"
+sm_acot_phanon_supply_bay_desc: "强大的星际基地模块旨在帮助空间站支持帝国的补给和后勤。,它大幅增加了资源储存量，生产矿物和食物，并将车队维护工作减少了一半。"
+acot_phanon_supply_bay_tooltip: "§Y将车队维护保养费用减少 50%。§!"
+
+sm_acot_phanon_super_reactor: "声子超级反应堆"
+sm_acot_phanon_super_reactor_desc: "先进的反应堆模块不仅使空间站的基础维护无效，而且还提供额外的暗物质和暗能量。"
+acot_super_reactor_tooltip: "§Y从空间站移除暗物质和暗能量维护并提供额外资源。§!"
+
+sm_acot_phanon_starbase_super_computer: "Phanon 仿生虚拟辅助上行链路"
+sm_acot_phanon_starbase_super_computer_desc: "先行者 B.V.A 负责协调和发布银河系顶级海军上将发出的命令，使该站能够快速与舰队形成战略网络。"
+acot_phanon_starbase_super_computer_tooltip: "§Y允许从此站建造的船只拥有 1000 点起始经验，提供额外的防御槽并增加先行者主锚地支持的海军能力。§!"
+
+sm_acot_phanon_starbase_aura_generator: "声子维度裂缝发生器"
+sm_acot_phanon_starbase_aura_generator_desc: "强大的维度发生器，可以重写系统周围的物理定律，扰乱敌方舰队，并为我们自己提供战斗优势。"
+acot_phanon_starbase_aura_generator_tooltip: "§Y允许站点在一个模块中利用标准站点使用的每个基于光环的模块。§!"
+
+sm_acot_phanon_starbase_reinforced_wall: "法农隐蔽防御工事"
+sm_acot_phanon_starbase_reinforced_wall_desc: "隐蔽的防御系统将大大提高空间站的耐用性而不增加其外形。"
+acot_phanon_starbase_reinforced_wall_tooltip: "§Y为空间站提供额外的护盾、装甲和船体点。§!"
+#### MAIN MODULE ####
+
+sm_acot_phanon_starbase_shipyard: "法农星铸"
+sm_acot_phanon_starbase_shipyard_desc: "能够同时建造两艘船的先进造船厂。"
+acot_phanon_starbase_shipyard_tooltip: "§Y允许每个模块建造两艘船。§!"
+
+sm_acot_phanon_starbase_anchorage: "法农大师安克雷奇"
+sm_acot_phanon_starbase_anchorage_desc: "在这个锚地内产生的暗能量池内，可以安全停靠多艘船只。"
+acot_phanon_starbase_anchorage_tooltip: "§Y提供额外的舰队海军能力。§!"
+
+sm_acot_phanon_starbase_gun_battery: "Phanon 隐蔽式驱虫系统"
+sm_acot_phanon_starbase_gun_battery_desc: "隐藏在这些模块内的强光生成武器系统将为该站提供增强的火力，而不会增加其外形。"
+acot_phanon_starbase_gun_battery_tooltip: "§Y提供 3 个额外的 L 武器插槽。§!"
+
+sm_acot_phanon_starbase_laser_battery: "Phanon 隐蔽哨兵系统"
+sm_acot_phanon_starbase_laser_battery_desc: "隐藏在这些模块内的强光生成点防御系统将使该站能够在不增加其外形的情况下击退制导武器系统和攻击机。"
+acot_phanon_starbase_laser_battery_tooltip: "§Y提供8个额外的PD武器槽。§!"
+
+sm_acot_phanon_starbase_missile_battery: "法农隐蔽宙斯盾系统"
+sm_acot_phanon_starbase_missile_battery_desc: "隐藏在这些模块内的强光产生的导弹电池将为该站提供额外的导弹发射器，而不会增加其外形。"
+acot_phanon_starbase_missile_battery_tooltip: "§Y提供6个额外的G武器插槽。§!"
+
+sm_acot_phanon_starbase_hangar_bay: "Phanon 隐蔽神族系统"
+sm_acot_phanon_starbase_hangar_bay_desc: "强光生成的吊架以及隐藏在这些模块内的自动攻击机将为空间站提供额外的攻击机支撑，而不会增加其轮廓。"
+acot_phanon_starbase_hangar_bay_tooltip: "§Y提供 3 个额外的 H 武器插槽。§!"
+
+sm_acot_phanon_starbase_dark_generator: "法能电源导管"
+sm_acot_phanon_starbase_dark_generator_desc: "Phanon Nexus 的缩小版，可帮助空间站产生额外的矿物质和能量。"
+acot_phanon_starbase_dark_generator_tooltip: "§Y提供额外的资源生成。§!"
+
+sm_acot_phanon_starbase_lab: "法农战斗实验室"
+sm_acot_phanon_starbase_lab_desc: "一些科学家和工程师更喜欢在戒备森严的空间站工作，他们可能就驻扎在这里。"
+acot_phanon_starbase_lab_tooltip: "§Y提供额外的科学研究。§!"
+
+###################################################
+
+acot_curators_enclave_station: "馆长站"
+acot_curators_enclave_station_plural: "策展人站"
+
+acot_curator_station_key: "策展人荣耀的钥匙"
+
+acot_curators_bc: "策展人战列巡洋舰"
+acot_curators_bc_plural: "策展人战列巡洋舰"
+
+acot_curators_bc_key: "策展人BC"
+
+acot_curators_escort: "馆长护送"
+acot_curators_escort_plural: "馆长陪同"
+
+acot_curators_escort_key: "馆长田螺"
+
+acot_curators_oracle: "Curator 原型 Oracle"
+acot_curators_oracle_plural: "策展人原型神谕"
+
+acot_curators_oracle_key: "策展人图姆图姆"
+
+################################## MEGASTRUCTORUOIS
+
+################ OBELISKU
+
+MESSAGE_ACOT_MEGA_BUILT_TITLE: "巨型结构组装完成"
+MESSAGE_ACOT_MEGA_BUILT_DESC: "巨型结构已完成自组装。"
+message_acot_mega_enigmalith_built: "谜题建设完成。"
+
+MESSAGE_ACOT_MEGA_UPGRADED_TITLE: "巨型建筑升级"
+MESSAGE_ACOT_MEGA_UPGRADED_DESC: "巨型建筑已完成升级。"
+message_acot_mega_enigmalith_upgraded: "Enigmalith 升级完成。"
+message_acot_mega_amerigo_upgraded: "Enigmalith 升级完成。"
+
+acot_dark_matter_obelisk_core_portal: "Enigmalith 组装门户"
+acot_dark_matter_obelisk_core_portal_DESC: "一个装配门户，将转变为一个巨大的方尖碑，可以通过不断从其他维度收集能量来产生神秘的力量。"
+acot_dark_matter_obelisk_core_portal_MEGASTRUCTURE_DETAILS: "管道提供 £sr_dark_matter£ 和 £acot_sr_dark_energy£ 神秘资源。,产量随着前体技术的进步而增加。"
+
+acot_dark_matter_obelisk_core: "谜石"
+acot_dark_matter_obelisk_core_DESC: "这座巨大的方尖碑似乎通过不断从其他维度收集能量来产生神秘的力量。,我们可以利用它，但如果没有适当的知识，产量将会很小。"
+acot_dark_matter_obelisk_core_MEGASTRUCTURE_DETAILS: "管道提供 £sr_dark_matter£ 和 £acot_sr_dark_energy£ 神秘资源。,产量随着前体技术的进步而增加。"
+
+acot_dark_matter_obelisk_core_advanced: "更大的谜石"
+acot_dark_matter_obelisk_core_advanced_DESC: "恩尼格玛石的更强大版本，可产生更多合金和能量。"
+acot_dark_matter_obelisk_core_advanced_MEGASTRUCTURE_DETAILS: "管道提供 £sr_dark_matter£ 和 £acot_sr_dark_energy£ 神秘资源。,产量随着前体技术的进步而增加。"
+
+acot_dark_matter_obelisk_core_super: "谜题大师"
+acot_dark_matter_obelisk_core_super_DESC: "最强大的基础 Enigmalith 模板，提供大量的能量、合金和神秘资源。"
+acot_dark_matter_obelisk_core_super_MEGASTRUCTURE_DETAILS: "管道提供 £sr_dark_matter£ 和 £acot_sr_dark_energy£ 神秘资源。,产量随着前体技术的进步而增加。"
+
+tech_precursor_enigmalith: "谜题复制"
+tech_precursor_enigmalith_desc: "现在我们了解了先驱架构背后的基本原理，我们可以开始复制我们自己的谜题了。"
+TECH_UNLOCK_ENIGMALITH_TITLE: "§H解锁巨型建筑：§!,远古谜石"
+TECH_UNLOCK_ENIGMALITH_DESC: "$acot_dark_matter_obelisk_core_MEGASTRUCTURE_DETAILS$"
+
+################
+
+acot_dark_matter_obelisk_core_portal_ae: "Enigmalith Aetena 组装门户"
+acot_dark_matter_obelisk_core_portal_ae_DESC: "一个装配门户，将转变为一个巨大的方尖碑，可以通过不断从其他维度收集能量来产生神秘的力量。"
+acot_dark_matter_obelisk_core_portal_ae_MEGASTRUCTURE_DETAILS: "管道提供 £sr_dark_matter£ 和 £acot_sr_dark_energy£ 神秘资源。,产量随着前体技术的进步而增加。"
+
+acot_dark_matter_obelisk_core_ae: "艾泰纳之谜"
+acot_dark_matter_obelisk_core_ae_DESC: "Enigmalith 的一种特殊变体，专门用于暗物质和暗能量的产生。"
+acot_dark_matter_obelisk_core_ae_MEGASTRUCTURE_DETAILS: "管道提供了神秘的资源。,产量随着前体技术的进步而增加。"
+
+acot_dark_matter_obelisk_core_advanced_ae: "更大的谜团艾泰娜"
+acot_dark_matter_obelisk_core_advanced_ae_DESC: "Enigmalith Aetana 的更强大版本，可产生更多暗物质和暗能量。"
+acot_dark_matter_obelisk_core_advanced_ae_MEGASTRUCTURE_DETAILS: "管道提供 £sr_dark_matter£ 和 £acot_sr_dark_energy£ 神秘资源。,产量随着前体技术的进步而增加。"
+
+acot_dark_matter_obelisk_core_super_ae: "艾泰纳之谜大师"
+acot_dark_matter_obelisk_core_super_ae_DESC: "最强大的 Enigmalith Aetana 模板，提供大量的暗物质和暗能量神秘资源。"
+acot_dark_matter_obelisk_core_super_ae_MEGASTRUCTURE_DETAILS: "管道提供 £sr_dark_matter£ 和 £acot_sr_dark_energy£ 神秘资源。,产量随着前体技术的进步而增加。"
+
+tech_precursor_enigmalith_ae: "艾泰纳之谜"
+tech_precursor_enigmalith_ae_desc: "经过进一步研究，我们成功地创建了一种新的 Enigmalith 变体，它更适合 £sr_dark_matter£ 和 £acot_sr_dark_energy£ 的生产。,因此，Aetena 设计不再提供合金和能源。"
+TECH_UNLOCK_ENIGMALITH_AE_TITLE: "§H解锁巨型建筑：§!,艾泰纳之谜\n§H升级巨型建筑：§!,远古谜石"
+TECH_UNLOCK_ENIGMALITH_AE_DESC: "§HEnigmalith Aetena：§!,提供大量的£sr_dark_matter£和£acot_sr_dark_energy£。\n§H古代谜石：§!,增加了合金和能源产量。"
+
+################
+
+acot_dark_matter_obelisk_core_portal_se: "Enigmalith Shiva 组装门户"
+acot_dark_matter_obelisk_core_portal_se_DESC: "一个装配门户，将转变为一个大型方尖碑，可以通过不断从其他维度收集能量来产生恒星能量。"
+acot_dark_matter_obelisk_core_portal_se_MEGASTRUCTURE_DETAILS: "Conduit 提供 £acot_sr_stellarite£ 资源。"
+
+acot_dark_matter_obelisk_core_se: "谜石湿婆"
+acot_dark_matter_obelisk_core_se_DESC: "Enigmalith 的另一个版本经过修改可以产生大量的星石。"
+acot_dark_matter_obelisk_core_se_MEGASTRUCTURE_DETAILS: "Conduit 提供 £acot_sr_stellarite£ 资源。"
+
+acot_dark_matter_obelisk_core_advanced_se: "更大的谜石湿婆"
+acot_dark_matter_obelisk_core_advanced_se_DESC: "Enigmalith Shiva 的更强大版本，可产生更多星石。"
+acot_dark_matter_obelisk_core_advanced_se_MEGASTRUCTURE_DETAILS: "Conduit 提供 £acot_sr_stellarite£ 资源。"
+
+acot_dark_matter_obelisk_core_super_se: "湿婆之谜大师"
+acot_dark_matter_obelisk_core_super_se_DESC: "最强大的 Enigmalith Shiva 模板，提供大量的星石。"
+acot_dark_matter_obelisk_core_super_se_MEGASTRUCTURE_DETAILS: "Conduit 提供 £acot_sr_stellarite£ 资源。"
+
+tech_precursor_enigmalith_se: "谜石湿婆"
+tech_precursor_enigmalith_se_desc: "Sigma 技术为我们提供了另一个修改 Enigmalith 的机会。,湿婆型则从其他维度收获 £acot_sr_stellarite£。"
+TECH_UNLOCK_ENIGMALITH_SE_TITLE: "§H解锁巨型建筑：§!,谜石湿婆\n§H升级巨型建筑：§!,远古谜石\n§H升级巨型建筑：§!,艾泰纳之谜"
+TECH_UNLOCK_ENIGMALITH_SE_DESC: "§H神秘石湿婆：§!,提供中等数量的 £acot_sr_stellarite£。\n§H古代谜石：§!,增加了合金和能源产量。\n§HEnigmalith Aetena:§!,增加了 £sr_dark_matter£ 和 £acot_sr_dark_energy£ 的产量。"
+
+############################################
+
+acot_dark_matter_obelisk_core_portal_oe: "谜团奥苏拉组装门户"
+acot_dark_matter_obelisk_core_portal_oe_DESC: "一个装配门户，将转变为一个巨大的方尖碑，可以通过不断地显现来自远处的造物的能量来产生各种力量。"
+acot_dark_matter_obelisk_core_portal_oe_MEGASTRUCTURE_DETAILS: "Conduit 提供多种类型的资源。"
+
+acot_dark_matter_obelisk_core_oe: "奥苏拉之谜"
+acot_dark_matter_obelisk_core_oe_DESC: "一种独特类型的谜石，其秘密是由星源告诉我们的。,它们可以同时生成多种类型的资源。"
+acot_dark_matter_obelisk_core_oe_MEGASTRUCTURE_DETAILS: "Conduit 提供多种类型的资源。"
+
+acot_dark_matter_obelisk_core_advanced_oe: "更大的谜石奥苏拉"
+acot_dark_matter_obelisk_core_advanced_oe_DESC: "Enigmalith Osura 的更强大版本，可产生更多资源。"
+acot_dark_matter_obelisk_core_advanced_oe_MEGASTRUCTURE_DETAILS: "Conduit 提供多种类型的资源。"
+
+acot_dark_matter_obelisk_core_super_oe: "奥苏拉之谜大师"
+acot_dark_matter_obelisk_core_super_oe_DESC: "完全实现的谜石奥苏拉，甚至能够产生一小部分光能。"
+acot_dark_matter_obelisk_core_super_oe_MEGASTRUCTURE_DETAILS: "Conduit 提供多种类型的资源。"
+
+tech_precursor_enigmalith_oe: "奥苏拉之谜"
+tech_precursor_enigmalith_oe_desc: "我们现在应该能够进一步改进我们的 Enigmalith。"
+TECH_UNLOCK_ENIGMALITH_OE_TITLE: "§H解锁巨型建筑：§!,奥苏拉之谜"
+TECH_UNLOCK_ENIGMALITH_OE_DESC: "Osura 设计是 Enigmalith 的最终升级，只需少量光能的适度初始投资即可大幅提高 Stellarite 的产量"
+
+acot_dark_matter_obelisk_core_pe: "令人敬畏的法农蜡烛"
+acot_dark_matter_obelisk_core_pe_DESC: "这个巨大的方尖碑似乎通过告诉 TLS 将其模因化而产生了神秘的力量。"
+acot_dark_matter_obelisk_core_pe_MEGASTRUCTURE_DETAILS: "管道提供了神秘的资源。,产量随着前体技术的进步而增加。"
+
+######## GATEWAYS
+
+acot_ancient_gateway: "先兆星接力"
+acot_ancient_gateway_DESC: "先行者之星中继站是更先进的网关，可以为其所有者的舰队提供速度提升。"
+acot_ancient_gateway_MEGASTRUCTURE_DETAILS: "先行者之星中继站是更先进的网关，可以为其所有者的舰队提供速度提升。"
+
+tech_precursor_gateway: "反关节炎理论"
+tech_precursor_gateway_desc: "指挥官阿托西斯可能会因过度使用召回和其他类型的机动作弊而被击败。"
+
+######## OTHERS
+
+acot_precursor_science_nexus_portal: "Precursor 工作室门户网站"
+acot_precursor_science_nexus_portal_DESC: "尽管大航海时代早已过去，但堕落帝国仍保留着这一不朽的奇迹，作为他们过去荣耀的纪念碑。,也许有一天，里面的巨型超级计算机和人造维度发生器可以再次投入使用？"
+acot_precursor_science_nexus_portal_MEGASTRUCTURE_DETAILS: "工作室提供研究速度和科学资源。"
+
+acot_precursor_science_nexus_stage_one: "前体工作室"
+acot_precursor_science_nexus_stage_one_DESC: "尽管大航海时代早已过去，但堕落帝国仍保留着这一不朽的奇迹，作为他们过去荣耀的纪念碑。,也许有一天，里面的巨型超级计算机和人造维度发生器可以再次投入使用？"
+acot_precursor_science_nexus_stage_one_MEGASTRUCTURE_DETAILS: "工作室提供研究速度和科学资源。"
+
+acot_precursor_science_nexus_stage_two: "先驱大学院"
+acot_precursor_science_nexus_stage_two_DESC: "尽管大航海时代早已过去，但堕落帝国仍保留着这一不朽的奇迹，作为他们过去荣耀的纪念碑。,也许有一天，里面的巨型超级计算机和人造维度发生器可以再次投入使用？"
+acot_precursor_science_nexus_stage_two_MEGASTRUCTURE_DETAILS: "工作室提供研究速度和科学资源。"
+
+acot_precursor_science_nexus_stage_three: "前驱大师工作室"
+acot_precursor_science_nexus_stage_three_DESC: "尽管大航海时代早已过去，但堕落帝国仍保留着这一不朽的奇迹，作为他们过去荣耀的纪念碑。,也许有一天，里面的巨型超级计算机和人造维度发生器可以再次投入使用？"
+acot_precursor_science_nexus_stage_three_MEGASTRUCTURE_DETAILS: "工作室提供研究速度和科学资源。"
+
+tech_precursor_nexus: "Garyx 的东西 - 科学"
+tech_precursor_nexus_desc: "从技术大师加里克斯（他是制造东西的人）那里秘密获得的蓝图。"
+
+####
+
+acot_precursor_strategy_center_portal: "前驱军火库信标门户"
+acot_precursor_strategy_center_portal_DESC: "避开战略中心的原始设计，但了解其实际应用，按照先行者的设计美学制作的类似结构已具有卓越的功能。"
+acot_precursor_strategy_center_portal_MEGASTRUCTURE_DETAILS: "阿森纳灯塔提供与战略协调中心类似的好处。"
+
+acot_precursor_strategy_center_stage_one: "前身阿森纳灯塔"
+acot_precursor_strategy_center_stage_one_DESC: "避开战略中心的原始设计，但了解其实际应用，按照先行者的设计美学制作的类似结构已具有卓越的功能。"
+acot_precursor_strategy_center_stage_one_MEGASTRUCTURE_DETAILS: "阿森纳灯塔提供与战略协调中心类似的好处。"
+
+acot_precursor_strategy_center_stage_two: "先行者大军​​械库信标"
+acot_precursor_strategy_center_stage_two_DESC: "避开战略中心的原始设计，但了解其实际应用，按照先行者的设计美学制作的类似结构已具有卓越的功能。"
+acot_precursor_strategy_center_stage_two_MEGASTRUCTURE_DETAILS: "阿森纳灯塔提供与战略协调中心类似的好处。"
+
+acot_precursor_strategy_center_stage_three: "先行者大师阿森纳灯塔"
+acot_precursor_strategy_center_stage_three_DESC: "避开战略中心的原始设计，但了解其实际应用，按照先行者的设计美学制作的类似结构已具有卓越的功能。"
+acot_precursor_strategy_center_stage_three_MEGASTRUCTURE_DETAILS: "阿森纳灯塔提供与战略协调中心类似的好处。"
+
+tech_precursor_strategy_center: "Garyx Stuffs - 策略"
+tech_precursor_strategy_center_desc: "从技术大师加里克斯（他是制造东西的人）那里秘密获得的蓝图。"
+
+####
+
+acot_precursor_sentry_orb_portal: "先兆天文台门户网站"
+acot_precursor_sentry_orb_portal_DESC: "由于传感器范围已经相当高，观测站脱离了传感器阵列，更多地充当间谍和反间谍系统以及舰队传感器放大器。,然而，它确实缺乏传感器阵列的完整传感器覆盖范围（无论如何，堕落帝国已经拥有了）。"
+acot_precursor_sentry_orb_portal_MEGASTRUCTURE_DETAILS: "观察者号为船舶提供传感器、范围、跟踪和精度增益，并增强加密和解密功能。"
+
+acot_precursor_sentry_orb_stage_one: "先兆天文台"
+acot_precursor_sentry_orb_stage_one_DESC: "由于传感器范围已经相当高，观测站脱离了传感器阵列，更多地充当间谍和反间谍系统以及舰队传感器放大器。,然而，它确实缺乏传感器阵列的完整传感器覆盖范围（无论如何，堕落帝国已经拥有了）。"
+acot_precursor_sentry_orb_stage_one_MEGASTRUCTURE_DETAILS: "观察者号为船舶提供传感器、范围、跟踪和精度增益，并增强加密和解密功能。"
+
+acot_precursor_sentry_orb_stage_two: "先行者大天文台"
+acot_precursor_sentry_orb_stage_two_DESC: "由于传感器范围已经相当高，观测站脱离了传感器阵列，更多地充当间谍和反间谍系统以及舰队传感器放大器。,然而，它确实缺乏传感器阵列的完整传感器覆盖范围（无论如何，堕落帝国已经拥有了）。"
+acot_precursor_sentry_orb_stage_two_MEGASTRUCTURE_DETAILS: "观察者号为船舶提供传感器、范围、跟踪和精度增益，并增强加密和解密功能。"
+
+acot_precursor_sentry_orb_stage_three: "先兆主天文台"
+acot_precursor_sentry_orb_stage_three_DESC: "由于传感器范围已经相当高，观测站脱离了传感器阵列，更多地充当间谍和反间谍系统，以及舰队传感器和跟踪放大器。,然而，它确实缺乏传感器阵列的完整传感器覆盖范围（无论如何，堕落帝国已经拥有了）。"
+acot_precursor_sentry_orb_stage_three_MEGASTRUCTURE_DETAILS: "观察者号为船舶提供传感器、范围、跟踪和精度增益，并增强加密和解密功能。"
+
+tech_precursor_spyorb: "Garyx Stuffs - 间谍"
+tech_precursor_spyorb_desc: "从技术大师加里克斯（他是制造东西的人）那里秘密获得的蓝图。"
+
+####
+
+acot_precursor_dyson_sphere_portal: "先行者神秘球体传送门"
+acot_precursor_dyson_sphere_portal_DESC: "尽管本质上并不是特别先进或突破性，但该球体在灵活性方面仍然比典型的戴森球高出相当大的一步，因为它们不会遮挡恒星本身。,因此，它可以安全地提取大量能量，而不会导致系统无法居住。"
+acot_precursor_dyson_sphere_portal_MEGASTRUCTURE_DETAILS: "球体提供能量，而且数量很多。"
+
+acot_precursor_dyson_sphere_stage_one: "前体神秘球体"
+acot_precursor_dyson_sphere_stage_one_DESC: "尽管本质上并不是特别先进或突破性，但该球体在灵活性方面仍然比典型的戴森球高出相当大的一步，因为它们不会遮挡恒星本身。,因此，它可以安全地提取大量能量，而不会导致系统无法居住。"
+acot_precursor_dyson_sphere_stage_one_MEGASTRUCTURE_DETAILS: "球体提供能量，而且数量很多。"
+
+acot_precursor_dyson_sphere_stage_two: "先行者大师神秘球体"
+acot_precursor_dyson_sphere_stage_two_DESC: "尽管本质上并不是特别先进或突破性，但该球体在灵活性方面仍然比典型的戴森球高出相当大的一步，因为它们不会遮挡恒星本身。,因此，它可以安全地提取大量能量，而不会导致系统无法居住。"
+acot_precursor_dyson_sphere_stage_two_MEGASTRUCTURE_DETAILS: "球体提供能量，而且数量很多。"
+
+tech_precursor_dyson_sphere: "Garyx Stuffs - 被诅咒的 Kitbash"
+tech_precursor_dyson_sphere_desc: "由技术大师 Garyx 的设计进行逆向工程的蓝图，由一位不太精通 Blender 的人完成。"
+
+####
+
+acot_precursor_mega_shipyard_portal: "先行者维度星铸传送门"
+acot_precursor_mega_shipyard_portal_DESC: "尽管堕落帝国有无数的封存舰队随时准备重新启动，但他们仍然保留着这座古老的巨型建筑，以备真正的紧急情况需要他们重新唤醒。"
+acot_precursor_mega_shipyard_portal_MEGASTRUCTURE_DETAILS: "造船厂建造船舶。"
+
+acot_precursor_mega_shipyard: "维度星铸先驱"
+acot_precursor_mega_shipyard_DESC: "尽管堕落帝国有无数的封存舰队随时准备重新启动，但他们仍然保留着这座古老的巨型建筑，以备真正的紧急情况需要他们重新唤醒。"
+acot_precursor_mega_shipyard_MEGASTRUCTURE_DETAILS: "造船厂建造船舶。"
+
+tech_precursor_mega_shipyard: "Garyx Stuffs - 洛克人"
+tech_precursor_mega_shipyard_desc: "从技术大师加里克斯（他是制造东西的人）那里秘密获得的蓝图。"
+
+################ AMERIGO
+
+acot_amerigo: "阿梅里戈酒店"
+acot_amerigo_DESC: "强大的实验研究星际基地，能够使墓地中的船只起死回生。"
+acot_amerigo_MEGASTRUCTURE_DETAILS: "强大的实验研究星际基地，能够使墓地中的船只起死回生"
+
+acot_amerigo_ae: "阿梅里戈·埃泰纳"
+acot_amerigo_ae_DESC: "强大的实验研究星际基地，能够使墓地中的船只起死回生。"
+acot_amerigo_ae_MEGASTRUCTURE_DETAILS: "强大的实验研究星际基地，能够使墓地中的船只起死回生"
+
+tech_precursor_amerigo_ae: "阿梅里戈·埃泰纳"
+tech_precursor_amerigo_ae_desc: "是时候升级设计了。"
+
+acot_amerigo_se: "阿梅里戈·希瓦"
+acot_amerigo_se_DESC: "强大的实验研究星际基地，能够使墓地中的船只起死回生。"
+acot_amerigo_se_MEGASTRUCTURE_DETAILS: "强大的实验研究星际基地，能够使墓地中的船只起死回生"
+
+tech_precursor_amerigo_se: "阿梅里戈·希瓦"
+tech_precursor_amerigo_se_desc: "是时候升级设计了。"
+
+acot_amerigo_oe: "阿梅里戈·奥苏拉"
+acot_amerigo_oe_DESC: "强大的实验研究星际基地，能够使墓地中的船只起死回生。"
+acot_amerigo_oe_MEGASTRUCTURE_DETAILS: "强大的实验研究星际基地，能够使墓地中的船只起死回生"
+
+tech_precursor_amerigo_oe: "阿梅里戈·奥苏拉"
+tech_precursor_amerigo_oe_desc: "是时候升级设计了。"
+
+acot_amerigo_pe: "阿梅里戈法农版"
+acot_amerigo_pe_DESC: "强大的实验研究星际基地，能够使墓地中的船只起死回生。"
+acot_amerigo_pe_MEGASTRUCTURE_DETAILS: "强大的实验研究星际基地，能够使墓地中的船只起死回生"
+
+RESTORE_AMERIGO_MEGA: "阿梅里戈恢复"
+RESTORE_AMERIGO_MEGA_DESC: "古老的科学综合体是可以恢复的，但这需要工程和科学团队的精心努力……以及大量的时间。"
+
+################################### ROGUE PRECURSOR DESCRIPTOR
+
+civic_acot_rogue_precursor: "古代数据库情报"
+civic_acot_rogue_precursor_desc: "这个帝国的创建是由于一个古老的数据库变得活跃而创建的。,它拥有先进的知识和智能来有效地运行机器社会。"
+civic_acot_rogue_precursor_fleet: "古代数据库指挥网络"
+civic_acot_rogue_precursor_fleet_desc: "这个帝国的创建是由于一个古老的数据库变得活跃而创建的。,它拥有先进的知识和情报，可以有效指挥一支庞大的军队。"
+civic_acot_rogue_precursor_data: "古代数据库档案"
+civic_acot_rogue_precursor_data_desc: "这个帝国的创建是由于一个古老的数据库变得活跃而创建的。,它拥有许多与前身相关的先进数据，可以有效地适应现代星系。"
+
+personality_acot_rogue_databank_personality: "盗贼先行者"
+personality_acot_rogue_databank_personality_desc: "瓦姆乌！,觉醒吧，我的主人们！"
+
+################################### TUBOREK ###################################
+
+acot_tuborek_flagship: "战争世界"
+acot_tuborek_flagship_plural: "战争世界"
+
+decision_acot_emissary_landing: "登陆使者"
+decision_acot_emissary_landing_desc: "命令绕轨道运行的使者降落在行星上。,如果该星球当前尚未被殖民，它将立即被殖民，其模块中配备了所有建筑物。,如果行星是敌对的，使者将着陆并开始行星入侵。"
+acot_requires_emissary_orbit: "§R轨道上必须有一名使者。§!"
+
+################################### Celestial Forger ###################################
+
+acot_world_shaper_planet_portal: "天界锻造者传送门组装"
+acot_world_shaper_planet_portal_DESC: "一个组装门户，最终将实现制作天体所需的材料。"
+acot_world_shaper_planet_portal_MEGASTRUCTURE_DETAILS: "一个组装门户，最终将实现制作天体所需的材料。"
+
+acot_world_shaper_planet_core: "天界锻造核心"
+acot_world_shaper_planet_core_DESC: "核心现已嵌入人造行星的地壳中，很快其余的地形将完成。"
+acot_world_shaper_planet_core_MEGASTRUCTURE_DETAILS: "核心现已嵌入人造行星的地壳中，很快其余的地形将完成。"
+
+acot_world_shaper_planet_stage_two: "天界锻造者完成"
+acot_world_shaper_planet_stage_two_DESC: "奥梅加鲁兹"
+acot_world_shaper_planet_stage_two_MEGASTRUCTURE_DETAILS: "奥梅加鲁兹"
+
+decision_acot_deploy_world_shaper: "部署天体锻造者"
+decision_acot_deploy_world_shaper_desc: "命令系统中的天体锻造者开始自我部署，将其变成一个巨型结构，最终形成一个新的天体。"
+acot_requires_world_shaper_orbit: "§R轨道上必须有一个天体锻造者。§!"
+
+requires_herculean_count: "§Y需要研究和准备新的大力士。§!"
+
+acot_is_valid_for_emissary_beam: "§R目标不能是屏蔽行星。§!"
+acot_emissary_disable_system: "使者断电"
+acot_emissary_disable_system_desc: "使者断电"
+
+acot_aura_oracle_stealth: "甲骨文隐形领域"
+acot_aura_oracle_detection: "神谕伪装无效者"
+
+############################### HERCULEAN AUX
+
+ACOT_HERCULEAN_AUX_SUPPLY: "巨大的辅助制造商"
+ACOT_HERCULEAN_AUX_SUPPLY_DESC: "辅助制造商为 Herculean 提供超出其初始包装的额外资源生产能力。"
+ACOT_HERCULEAN_AUX_SUPPLY_TOOLTIP: "§E提供以下资源§!\n\n§Y5000§! ,£能源£\n§Y2500§! ,£合金£\n§Y250§! ,£sr_dark_matter£\n§Y250§! ,£acot_sr_dark_energy£"
+
+ACOT_HERCULEAN_AUX_SUPPLY_S7: "大力士恒星辅助制造商"
+ACOT_HERCULEAN_AUX_SUPPLY_S7_DESC: "辅助恒星制造商为赫拉克勒斯号提供超出其初始包装的额外资源生产能力。"
+ACOT_HERCULEAN_AUX_SUPPLY_S7_TOOLTIP: "§E提供以下资源§!\n\n§Y10000§! ,£能源£\n§Y5000§! ,£合金£\n§Y250§! ,£sr_dark_matter£\n§Y250§! ,£acot_sr_dark_energy£\n§Y250§! ,£acot_sr_stellarite£"
+
+
+ACOT_HERCULEAN_AUX_GARRISON_ESCORT: "大力神护卫队"
+ACOT_HERCULEAN_AUX_GARRISON_ESCORT_DESC: "专门为容纳护航舰而建造的锚地，这些护卫舰将在战斗中协助大力神号。"
+ACOT_HERCULEAN_AUX_GARRISON_ESCORT_TOOLTIP: "§E为大力神号提供 12 名护卫舰驻防部队。§!\n\n当大力神号投入战斗时，护卫舰将作为 AI 控制的盟友生成。\n\n该设计是从你的帝国护卫舰的设计中随机生成的。\n\n如果至少有一个,一旦大力神号离开系统，飞船就会幸存，冷却时间将被重置。,否则大力神号需要360天来补充驻军。"
+
+ACOT_HERCULEAN_AUX_GARRISON_BC: "大力神战列巡洋舰驻军"
+ACOT_HERCULEAN_AUX_GARRISON_BC_DESC: "专门为容纳战列巡洋舰而建造的锚地，这些战列巡洋舰将在战斗中协助大力神号。"
+ACOT_HERCULEAN_AUX_GARRISON_BC_TOOLTIP: "§E为大力神号提供 6 艘战列巡洋舰驻防部队。§!\n\n当大力神号参与战斗时，战列巡洋舰将作为 AI 控制的盟友生成。\n\n该设计是从你的帝国战列巡洋舰的设计中随机生成的。\n\n如果至少有一艘,一旦大力神号离开系统，飞船就会幸存，冷却时间将被重置。,否则大力神号需要720天来补充驻军。"
+
+ACOT_HERCULEAN_AUX_GARRISON_TITAN: "赫拉克勒斯海伯利安驻军"
+ACOT_HERCULEAN_AUX_GARRISON_TITAN_DESC: "专门为容纳海伯利安号而建造的锚地，它将在战斗中协助大力神号。"
+ACOT_HERCULEAN_AUX_GARRISON_TITAN_TOOLTIP: "§E为大力神号提供 2 个海伯利安驻军。§!\n\n当大力神投入战斗时，海伯利安将作为 AI 控制的盟友生成。\n\n该设计是从你的帝国海伯利安的设计中随机生成的。\n\n如果至少有一个,一旦大力神号离开系统，飞船就会幸存，冷却时间将被重置。,否则大力神号需要1800天的时间来补充驻军。"
+
+############################### HERCULEAN WMD WEAPONS
+
+tech_acot_precursor_herculean_wmd_rift: "巨大裂谷发生器"
+tech_acot_precursor_herculean_wmd_rift_desc: "裂痕发生器使大力神号能够从银河系内的任何行星轨道制造出强大的维度裂痕，在引起大规模冲击波爆炸之前将所有船只吸入其中。,目标选择是通过使用施工船作为标记来实现的。"
+
+tech_acot_precursor_herculean_wmd_emp: "大力士干扰脉冲发生器"
+tech_acot_precursor_herculean_wmd_emp_desc: "干扰脉冲发生器使大力神号能够从银河系内的任何行星轨道产生强大的干扰脉冲，这将抵消敌人的护盾并降低飞船在战斗中的效率。,如果没有护盾发生器的保护，它还会杀死敌方行星的机械POP。,目标选择是通过使用施工船作为标记来实现的。"
+
+acot_superweapon_rift_generator_alarming_light: "裂谷发生器位置"
+
+acot_rift_debuff: "裂缝爆炸"
+acot_rift_debuff_desc: "裂缝爆炸"
+
+ACOT_HERCULEAN_WMD_RIFT: "裂痕发生器"
+ACOT_HERCULEAN_WMD_RIFT_DESC: "裂痕发生器使大力神号能够从银河系内的任何行星轨道制造出强大的维度裂痕，在引起大规模冲击波爆炸之前将所有船只吸入其中。"
+ACOT_HERCULEAN_WMD_RIFT_TOOLTIP: "§Y启用裂缝生成器§!\n\n§G损坏：§! ,25,000。\n§G合格目标：§!,船舶、行星、己方单位、敌方单位。\n§G准备时间：§! ,30 天。\n§G冷却时间：§! ,1800 天。\n\n要标记目标，请使用建造船在任何不属于中立方的系统的行星上建造裂缝发生器标记。"
+
+acot_herculean_wmd_rift_generator: "§O标记：§!,巨大裂谷发生器标记"
+acot_herculean_wmd_rift_generator_DESC: "命令大力士在选定的行星上使用其裂隙发生器超级武器，在行星轨道上方形成强大的维度裂隙，将大多数船只吸至其中心质量。,所有受影响的船只都会减速，10 天后，将会发生大规模爆炸，对系统内的所有船只造成 25,000 点伤害，并对所有殖民行星造成 25% 的行星破坏。\n\n§G 伤害：25,000。§!\ ,n§G合格目标：船舶、行星。§!\n§G准备时间：30天。§!\n§G冷却时间：1800天。§!\n\nE要标记目标，请使用建造船建造裂缝发生器,在其系统不属于中立方的任何行星上进行标记。"
+acot_herculean_wmd_rift_generator_MEGASTRUCTURE_DETAILS: "命令大力士在选定的行星上使用其裂隙发生器超级武器，在行星轨道上方形成强大的维度裂隙，将大多数船只吸至其中心质量。,所有受影响的船只都会减速，10 天后，将会发生大规模爆炸，对系统内的所有船只造成 25,000 点伤害，并对所有殖民行星造成 25% 的行星破坏。\n\n§G 伤害：25,000。§!\ ,n§G合格目标：船舶、行星、己方单位、敌方单位。§!\n§G准备时间：30天。§!\n§G冷却时间：1800天。§!\n\nE要标记目标，请使用构造,飞船在任何不属于中立方拥有系统的行星上建造裂谷发生器标记。"
+
+MESSAGE_ACOT_RIFT_GENERATOR_USED_TITLE: "裂谷发生器激活"
+MESSAGE_ACOT_RIFT_GENERATOR_USED_DESC: "裂缝生成器已在 [fromfrom.planet.GetName] 上激活！\n\n预计时间：30 天。"
+message_acot_rift_generator_used: "裂缝生成器已在 [fromfrom.planet.GetName] 上激活！\n\n预计时间：30 天。"
+
+MESSAGE_ACOT_RIFT_GENERATOR_READY_TITLE: "裂谷发生器准备就绪"
+MESSAGE_ACOT_RIFT_GENERATOR_READY_DESC: "[root.GetName] 上的裂谷发生器已准备就绪。"
+message_acot_rift_generator_ready: "[root.GetName] 上的裂谷发生器已准备就绪。"
+
+acot_superweapon_emp_alarming_light: "干扰脉冲位置"
+
+acot_emp_blast_planet_debuff: "破坏爆炸"
+acot_emp_blast_planet_debuff_desc: "这个星球受到了破坏性爆炸的袭击。"
+
+acot_emp_blast_debuff: "破坏爆炸"
+acot_emp_blast_debuff_desc: "破坏爆炸"
+
+ACOT_HERCULEAN_WMD_EMP: "干扰脉冲发生器"
+ACOT_HERCULEAN_WMD_EMP_DESC: "干扰脉冲发生器使大力神号能够从银河系内的任何行星轨道产生强大的干扰脉冲，这将抵消敌人的护盾并降低飞船在战斗中的效率。,如果没有护盾发生器的保护，它还会杀死敌方行星的机械POP。"
+ACOT_HERCULEAN_WMD_EMP_TOOLTIP: "§Y启用干扰脉冲发生器§!\n\n§G损坏：§! ,5,000（如果由机械帝国控制）。\n§GE合格目标：§!,船舶、行星、非有机目标、机械POP。\n§G准备时间：§! ,30 天。\n§G冷却时间：§! ,720 天。\n\n要标记目标，请使用建造船在系统不属于中立方的任何行星上建造干扰脉冲标记。"
+
+acot_herculean_wmd_emp_generator: "§O标记：§!,巨大的干扰脉冲标记"
+acot_herculean_wmd_emp_generator_DESC: "命令赫拉克勒斯号在选定的行星上使用其干扰脉冲发生器超级武器，在行星轨道上方产生强大的电磁脉冲，这将使舰船的护盾 100% 无效，将其射速降低 50%，防止紧急超光速飞行并迫使其隐形。,受到脉冲撞击的行星将遭受巨大的能源生产-90%减益和就业生产-50%减益。,多达 25 名机械人口将被杀死，地球上的所有机械军队将被摧毁。,所有行星效应都会因行星护盾发生器的存在而停止，但在此过程中爆炸可能会炸毁并摧毁 PSG。\n\n§G 伤害：5,000（如果由机械帝国控制）。§!\n§GE合格,目标：船舶、行星、非有机目标、机械POP。§!\n§G准备时间：30天。§!\n§G冷却时间：720天。§!\n\nE要标记目标，请使用建造船,在任何不属于中立方拥有系统的行星上建立一个干扰脉冲标记。"
+acot_herculean_wmd_emp_generator_MEGASTRUCTURE_DETAILS: "命令赫拉克勒斯号在选定的行星上使用其干扰脉冲发生器超级武器，在行星轨道上方产生强大的电磁脉冲，这将使舰船的护盾 100% 无效，将其射速降低 50%，防止紧急超光速飞行并迫使其隐形。,受到脉冲撞击的行星将遭受巨大的能源生产-90%减益和就业生产-50%减益。,多达 25 名机械人口将被杀死，地球上的所有机械军队将被摧毁。,所有行星效应都会因行星护盾发生器的存在而停止，但在此过程中爆炸可能会炸毁并摧毁 PSG。\n\n§G 伤害：5,000（如果由机械帝国控制）。§!\n§GE合格,目标：船舶、行星、非有机目标、机械POP。§!\n§G准备时间：30天。§!\n§G冷却时间：720天。§!\n\nE要标记目标，请使用建造船,在任何不属于中立方拥有系统的行星上建立一个干扰脉冲标记。"
+
+MESSAGE_ACOT_EMP_USED_TITLE: "干扰脉冲激活"
+MESSAGE_ACOT_EMP_USED_DESC: "中断脉冲已在 [fromfrom.planet.GetName] 上激活！\n\n预计时间：30 天。"
+message_acot_emp_used: "中断脉冲已在 [fromfrom.planet.GetName] 上激活！\n\n预计时间：30 天。"
+
+MESSAGE_ACOT_EMP_READY_TITLE: "中断脉冲就绪"
+MESSAGE_ACOT_EMP_READY_DESC: "[root.GetName] 上的中断脉冲发生器已准备就绪。"
+message_acot_emp_ready: "[root.GetName] 上的中断脉冲发生器已准备就绪。"
+
+##################### PAC STUFFS
+
+ACOT_PAC_HANGAR_ARTILLERY: "先行者枪骑兵无人机"
+ACOT_PAC_HANGAR_ARTILLERY_FULL: "先行者枪骑兵无人机"
+ACOT_PAC_HANGAR_ARTILLERY_DESC: "先行者枪骑兵无人机"
+
+ACOT_PAC_HANGAR_ARTILLERY_AE: "阿尔法先驱者枪骑兵无人机"
+ACOT_PAC_HANGAR_ARTILLERY_FULL_AE: "阿尔法先驱者枪骑兵无人机"
+ACOT_PAC_HANGAR_ARTILLERY_AE_DESC: "阿尔法先驱者枪骑兵无人机"
+
+ACOT_PAC_HANGAR_ARTILLERY_SE: "西格玛先驱枪骑兵无人机"
+ACOT_PAC_HANGAR_ARTILLERY_FULL_SE: "西格玛先驱枪骑兵无人机"
+ACOT_PAC_HANGAR_ARTILLERY_SE_DESC: "Sigma Precursor Lancer 无人机"
+
+ACOT_PAC_HANGAR_ARTILLERY_OE: "欧米茄先驱者枪骑兵无人机"
+ACOT_PAC_HANGAR_ARTILLERY_FULL_OE: "欧米茄先驱者枪骑兵无人机"
+ACOT_PAC_HANGAR_ARTILLERY_OE_DESC: "欧米茄先驱枪骑兵无人机"
+
+##########
+
+ACOT_PAC_HANGAR_ATTACKER: "先行者追逐者无人机"
+ACOT_PAC_HANGAR_ATTACKER_FULL: "先行者追逐者无人机"
+ACOT_PAC_HANGAR_ATTACKER_DESC: "先行者追踪无人机"
+
+ACOT_PAC_HANGAR_ATTACKER_AE: "阿尔法先驱者追踪无人机"
+ACOT_PAC_HANGAR_ATTACKER_FULL_AE: "阿尔法先驱者追踪无人机"
+ACOT_PAC_HANGAR_ATTACKER_AE_DESC: "阿尔法先驱者追踪无人机"
+
+ACOT_PAC_HANGAR_ATTACKER_SE: "西格玛先驱者追踪无人机"
+ACOT_PAC_HANGAR_ATTACKER_FULL_SE: "西格玛先驱者追踪无人机"
+ACOT_PAC_HANGAR_ATTACKER_SE_DESC: "西格玛先驱者追踪无人机"
+
+ACOT_PAC_HANGAR_ATTACKER_OE: "欧米茄先驱者追逐者无人机"
+ACOT_PAC_HANGAR_ATTACKER_FULL_OE: "欧米茄先驱者追逐者无人机"
+ACOT_PAC_HANGAR_ATTACKER_OE_DESC: "欧米茄先驱者追逐者无人机"

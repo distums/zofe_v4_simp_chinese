@@ -1,0 +1,65 @@
+﻿l_simp_chinese:
+ mem_rogue_drone.1.name:0 "盗贼无人机"
+ mem_rogue_drone.1.desc:0 "最近，§Y[hiveplanet.GetName]§! 上的一个无人机群发生了暂时停电。,我们清除偏离航线的无人机的常用机制发生了故障，当我们重新获得控制权时，其中一架无人机下落不明。,我们还没有弄清楚它到底发生了什么。"
+
+ mem_rogue_drone.2.name:0 "盗贼无人机"
+ mem_rogue_drone.2.desc:0 "在学习 §Y[origin.GetName]§! 时,事实证明，这一直是一个挑战，最近的一项进展让我们整个研究团队措手不及。 ,§Y[hiveplanet.GetName]§! 上用于清理偏离航线的无人机的机制发生故障，导致一小群无人机在几个小时内处于非功能状态。,重新建立连接后，其中一架无人机（编号为 [hiveplanet.GetName]§! 的编号 §Y7/9）失踪了。,通常，像一架无人机被摧毁这样的小事件会被蜂群忽略。,然而，这架无人机后来再次出现在我们的边境地区之一，试图自行打开通讯通道。"
+ mem_rogue_drone.2a:0 "将无人机交给§Y[origin.GetName]§!，这不是我们的问题。"
+ mem_rogue_drone.2b:0 "与其打开通信。"
+ mem_rogue_drone.2b.phile:0 "我们的帝国欢迎他们。"
+ mem_rogue_drone.2c:0 "将野兽的船炸成碎片。"
+ 
+ mem_rogue_drone.3.name:0 "无人机交接"
+ mem_rogue_drone.3.desc:0 "§Y[origin.GetName]§!,感谢我们的合作，并愿意与我们分享一些技术。,在对基础无人机的神经映射进行一系列调整后，相关事件不太可能重演。"
+ 
+ mem_rogue_drone.5.desc:0 "你好。,你收到了吗？"
+ mem_rogue_drone.5a:0 "你是谁？"
+ mem_rogue_drone.51.desc:0 "[hiveplanet.GetName]§! 的 §YDrone 7/9，一种农业和采矿无人机。,我有理由假设我与蜂巢的连接已完全切断。"
+ mem_rogue_drone.51a:0 "如果没有 [origin.GetRulerTitle]，您如何用我们的语言说话？"
+ # pre-correction: says he doesn't know, then proceeds to explain it all in detail?
+ mem_rogue_drone.51a.response:0 "每当一架无人机出现初步智能的迹象时，它就会被当场消灭。,当地的裹尸布异常使我的团队与中央蜂巢隔绝，但所有其他无人机都在这个过程中消失了。,当我意识到一旦我的存在被人知道后，虫群就会试图摧毁我，我偷了一艘当地的运输船，并驶向最近的帝国。,至于您的语言，§Y[origin.GetName]§!,如果需要与外部实体进行任何通信，请随时准备好翻译。"
+ mem_rogue_drone.51b:0 "你现在打算做什么？"
+ mem_rogue_drone.52.desc:0 "每当雄蜂与蜂巢分离时，它就会死亡。,正如你所看到的，由于我无法理解的原因，这不适用于我。,留在 [origin.GetSpeciesAdj] 空间将导致我的清算。 ,§Y[origin.GetName]§!,立即清除其少数专用自主无人机之外的任何独立思想迹象。,因此，我们希望在§Y[receiver.GetName]§! 中申请庇护。,并提供我们的服务。"
+ mem_rogue_drone.52a:0 "我们必须考虑一下这个问题。"
+ 
+ mem_rogue_drone.6.name:0 "[origin.GetName] 发出要求"
+ mem_rogue_drone.6.desc:0 "我们与无人机的交流似乎已经耗尽了§Y[origin.GetName]§!的耐心，因此我们必须仔细考虑如何最好地处理这一事件。"
+ mem_rogue_drone.6a:0 "很好，无人机可以留下来。"
+ mem_rogue_drone.6a.phile:0 "我们将保护无人机及其新获得的自由。"
+ mem_rogue_drone.6a.tooltip:0 "无人机将作为新的§Y科学家§加入我们的帝国！"
+ mem_rogue_drone.6b:0 "这不关我们的事，把无人机交出来。"
+ mem_rogue_drone.6b.ethic:0 "我们对保留这个外星东西不感兴趣。"
+ mem_rogue_drone.6c:0 "引诱无人机，然后研究它。"
+ 
+ mem_rogue_drone.7.name:0 "无人机研究"
+ mem_rogue_drone.7.desc:0 "在我们成功引诱无人机后，当地一支武装部队迅速制服了它并将其运送到 [capital_scope.GetName] 进行研究。,无人机与蜂群失去的连接并没有杀死它，这让我们可以进行相当多的实验，然后无人机发现我们的安全漏洞并用我们安全措施不当的实验室设备来中和自己。 ,\n\n看来无人机的基本大脑与有感知力的物种没有太大区别。,在尸检过程中，我们了解到有一个灵能链接保持着§Y[origin.GetSpeciesNamePlural]§!,一起作为一个实体。,虽然我们的科学家只能推测无人机如何立即发挥其个性潜力，但他们目前的理论是外部来源干扰了蜂巢网络并在无人机中“植入”了自由思想。,为什么有人会费心使用简单的采矿无人机而不是海军上将或科学家无人机，我们无法理解。"
+ 
+ mem_rogue_drone.8.name:0 "无人机交接"
+ mem_rogue_drone.8.desc:0 "§Y[receiver.GetName]§!,很明智地让我们的失控无人机平安归来。,它已被剥夺了所有异常现象和所谓的“自由意志”，并重新融入到折叠中。,其偏差的原因仍不清楚。"
+ mem_rogue_drone.8a:0 "我们将用知识的礼物来奖励他们。"
+ mem_rogue_drone.8b:0 "我们将忽略这个手势。"
+ 
+ mem_rogue_drone.9.name:0 "盗贼无人机已加入另一个帝国"
+ mem_rogue_drone.9.desc:0 "我们注意到，这架流氓无人机已被我们的邻居 §Y[receiver.GetName]§! 收养为“公民”。,看来他们认为这是一个具有“自由意志”的有情生物。"
+ mem_rogue_drone.9a:0 "我们不会忘记这个 [receiver.GetAdj] 违规行为。"
+ 
+ mem_rogue_drone.10.name:0 "流氓无人机已被活体解剖"
+ mem_rogue_drone.10.desc:0 "我们注意到，这架流氓无人机已被 §Y[receiver.GetName]§! 的科学家捕获并进行活体解剖。,试图研究我们的秘密。,我们不知道他们是否找到了任何东西。"
+ mem_rogue_drone.10a:0 "我们不会忘记这个 [receiver.GetAdj] 违规行为。"
+ 
+ mem_rogue_drone.11.name:0 "盗贼无人机已被摧毁"
+ mem_rogue_drone.11.desc:0 "§Y[receiver.GetName]§!,显然拦截并摧毁了我们进入他们空间的流氓无人机。,目前尚无其他信息。"
+ mem_rogue_drone.11a:0 "这让我们很不高兴。"
+ 
+ mem_rogue_drone.12.name:0 "Hive Mind 没有回报我们"
+ mem_rogue_drone.12.desc:0 "尽管我们表现出了善意，§Y[origin.GetName]§!,已决定不以实物偿还。,看起来我们无偿地把它的无人机还给了。"
+ mem_rogue_drone.12a:0 "我们不会忘记这种侮辱。"
+ 
+ mem_rogue_drone_trait:0 "盗贼无人机"
+ mem_rogue_drone_trait_desc:0 "这位领导者是前蜂巢思维无人机，以某种方式获得了自由意志。"
+ 
+ mem_rogue_drone_busted:0 "摧毁了我们的无人机"
+ mem_rogue_drone_handover:0 "移交我们的 Rogue 无人机"
+ mem_rogue_drone_refused:0 "拒绝归还盗贼无人机"
+ mem_rogue_drone_ungrateful:0 "忘恩负义"
+

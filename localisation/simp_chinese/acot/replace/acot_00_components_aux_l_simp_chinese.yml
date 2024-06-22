@@ -1,0 +1,297 @@
+﻿l_simp_chinese:
+
+############################################################ AFTERBURNERS ############################################################
+
+#tech_afterburners_1: "Afterburners"
+#tech_afterburners_1_desc: "These powerful thrusters provide additional combat speed but consume a great deal of power."
+#tech_afterburners_2: "Advanced Afterburners"
+#tech_afterburners_2_desc: "This improved version of the standard afterburners provide an even greater boost to a ship's combat speed."
+tech_acot_afterburners_5: "先进的加力燃烧室"
+tech_acot_afterburners_5_desc: "标准加力燃烧室的这种改进版本可以更大程度地提高舰艇的战斗速度。"
+
+ACOT_AFTERBURNER_1: "基本加力燃烧室"
+ACOT_AFTERBURNER_1_DESC: "基本加力燃烧室"
+
+ACOT_AFTERBURNER_3: "先进的加力燃烧室"
+ACOT_AFTERBURNER_3_DESC: "先进的加力燃烧室"
+
+ACOT_AFTERBURNER_5: "复制加力燃烧室"
+ACOT_AFTERBURNER_5_DESC: "复制加力燃烧室"
+
+############################################################ SHIELD BOOSTERS ############################################################
+
+#tech_shield_rechargers_1: "Shield Capacitors"
+#tech_shield_rechargers_1_desc: "These capacitors store surplus energy which can quickly be transferred to reinforce a ship's shields."
+tech_acot_shield_recharger_3: "高级护盾增强器"
+tech_acot_shield_recharger_3_desc: "这些电容器储存多余的能量，可以快速转移以加固船舶的防护罩。"
+tech_acot_shield_recharger_5: "复制人护盾增强器"
+tech_acot_shield_recharger_5_desc: "这些电容器储存多余的能量，可以快速转移以加固船舶的防护罩。"
+
+ACOT_SHIELD_BOOSTER_1: "基本护盾增强器"
+ACOT_SHIELD_BOOSTER_1_DESC: "基本护盾增强器"
+
+ACOT_SHIELD_BOOSTER_3: "高级护盾增强器"
+ACOT_SHIELD_BOOSTER_3_DESC: "高级护盾增强器"
+
+ACOT_SHIELD_BOOSTER_5: "复制人护盾增强器"
+ACOT_SHIELD_BOOSTER_5_DESC: "复制人护盾增强器"
+
+############################################################ ARMOR BOOSTERS ############################################################
+
+tech_acot_armor_absorber_1: "动能固化剂"
+tech_acot_armor_absorber_1_desc: "动能固化剂"
+tech_acot_armor_absorber_3: "高级动能固化剂"
+tech_acot_armor_absorber_3_desc: "高级动能固化剂"
+tech_acot_armor_absorber_5: "复制动力强化剂"
+tech_acot_armor_absorber_5_desc: "复制动力强化剂"
+
+
+ACOT_ARMOR_BOOSTER_1: "基本动能固化剂"
+ACOT_ARMOR_BOOSTER_1_DESC: "基本动能固化剂"
+
+ACOT_ARMOR_BOOSTER_3: "高级动能固化剂"
+ACOT_ARMOR_BOOSTER_3_DESC: "高级动能固化剂"
+
+ACOT_ARMOR_BOOSTER_5: "复制动力强化剂"
+ACOT_ARMOR_BOOSTER_5_DESC: "复制动力强化剂"
+
+############################################################ HULL BOOSTERS ############################################################
+
+#tech_regenerative_hull_tissue: "Regenerative Hull Tissue"
+#tech_regenerative_hull_tissue_desc: "A genetically altered version of silicon-based bacteria could potentially be manipulated to regenerate non-organic materials."
+tech_acot_hull_reinforcer_3: "先进的船体加强件"
+tech_acot_hull_reinforcer_3_desc: "先进的船体加强件"
+tech_acot_hull_reinforcer_5: "复制体船体加固器"
+tech_acot_hull_reinforcer_5_desc: "复制体船体加固器"
+
+
+ACOT_HULL_BOOSTER_1: "基本船体加强件"
+ACOT_HULL_BOOSTER_1_DESC: "基本船体加强件"
+
+ACOT_HULL_BOOSTER_3: "先进的船体加强件"
+ACOT_HULL_BOOSTER_3_DESC: "先进的船体加强件"
+
+ACOT_HULL_BOOSTER_5: "复制体船体加固器"
+ACOT_HULL_BOOSTER_5_DESC: "复制体船体加固器"
+
+############################################################ TARGETING BOOSTERS ############################################################
+
+#tech_auxiliary_fire_control: "Auxiliary Fire-control System"
+#tech_auxiliary_fire_control_desc: "Basic Targeting Booster"
+tech_acot_targeting_3: "高级瞄准助推器"
+tech_acot_targeting_3_desc: "高级瞄准助推器"
+tech_acot_targeting_5: "复制人目标助推器"
+tech_acot_targeting_5_desc: "复制人目标助推器"
+
+ACOT_TARGETING_BOOSTER_1: "基本定位助推器"
+ACOT_TARGETING_BOOSTER_1_DESC: "基本定位助推器"
+
+ACOT_TARGETING_BOOSTER_3: "高级瞄准助推器"
+ACOT_TARGETING_BOOSTER_3_DESC: "高级瞄准助推器"
+
+ACOT_TARGETING_BOOSTER_5: "复制人目标助推器"
+ACOT_TARGETING_BOOSTER_5_DESC: "复制人目标助推器"
+
+############################################################ WEAPON BOOSTERS ############################################################
+
+#Overcharged Explosive Warhead
+ACOT_WEAPON_EXPLOSIVE_BOOSTER_1: "OEW 基础入门"
+ACOT_WEAPON_EXPLOSIVE_BOOSTER_1_DESC: "OEW 基础入门"
+
+ACOT_WEAPON_EXPLOSIVE_BOOSTER_3: "高级 OEW 入门"
+ACOT_WEAPON_EXPLOSIVE_BOOSTER_3_DESC: "高级 OEW 入门"
+
+ACOT_WEAPON_EXPLOSIVE_BOOSTER_5: "复制人 OEW 入门"
+ACOT_WEAPON_EXPLOSIVE_BOOSTER_5_DESC: "复制人 OEW 入门"
+
+#Reinfirced Kinetic Munition
+ACOT_WEAPON_KINETIC_BOOSTER_1: "基础知识管理系统"
+ACOT_WEAPON_KINETIC_BOOSTER_1_DESC: "基础知识管理系统"
+
+ACOT_WEAPON_KINETIC_BOOSTER_3: "先进的客户关系管理系统"
+ACOT_WEAPON_KINETIC_BOOSTER_3_DESC: "先进的客户关系管理系统"
+
+ACOT_WEAPON_KINETIC_BOOSTER_5: "复制人RKM系统"
+ACOT_WEAPON_KINETIC_BOOSTER_5_DESC: "复制人RKM系统"
+
+#Energy Capacitor Booster
+ACOT_WEAPON_ENERGY_BOOSTER_1: "基本欧洲央行单位"
+ACOT_WEAPON_ENERGY_BOOSTER_1_DESC: "基本欧洲央行单位"
+
+ACOT_WEAPON_ENERGY_BOOSTER_3: "高级欧洲央行单位"
+ACOT_WEAPON_ENERGY_BOOSTER_3_DESC: "高级欧洲央行单位"
+
+ACOT_WEAPON_ENERGY_BOOSTER_5: "复制欧洲央行单位"
+ACOT_WEAPON_ENERGY_BOOSTER_5_DESC: "复制欧洲央行单位"
+
+#Computer-Assisted Virtual Strikecraft
+ACOT_WEAPON_STRIKECRAFT_BOOSTER_1: "基本CIVS系统"
+ACOT_WEAPON_STRIKECRAFT_BOOSTER_1_DESC: "基本CIVS系统"
+
+ACOT_WEAPON_STRIKECRAFT_BOOSTER_3: "先进的CIVS系统"
+ACOT_WEAPON_STRIKECRAFT_BOOSTER_3_DESC: "先进的CIVS系统"
+
+ACOT_WEAPON_STRIKECRAFT_BOOSTER_5: "复制CIVS系统"
+ACOT_WEAPON_STRIKECRAFT_BOOSTER_5_DESC: "复制CIVS系统"
+
+############################################################
+################### AUX REACTORS
+############################################################
+
+ACOT_AUX_REACTOR_1: "基本微反应器"
+ACOT_AUX_REACTOR_1_DESC: "微型反应堆是小型反应堆节点，旨在帮助为航天器的特定部分提供电力。"
+ACOT_AUX_REACTOR_3: "先进微反应器"
+ACOT_AUX_REACTOR_3_DESC: "微型反应堆是小型反应堆节点，旨在帮助为航天器的特定部分提供电力。"
+ACOT_AUX_REACTOR_5: "复制微型反应堆"
+ACOT_AUX_REACTOR_5_DESC: "微型反应堆是小型反应堆节点，旨在帮助为航天器的特定部分提供电力。"
+
+SMALL_ACOT_AUX_REACTOR_1: "基本小型微型反应器"
+MEDIUM_ACOT_AUX_REACTOR_1: "基础中微反应器"
+LARGE_ACOT_AUX_REACTOR_1: "基本大型微型反应器"
+
+SMALL_ACOT_AUX_REACTOR_3: "先进小型微反应器"
+MEDIUM_ACOT_AUX_REACTOR_3: "先进中微反应堆"
+LARGE_ACOT_AUX_REACTOR_3: "先进大型微型反应釜"
+
+SMALL_ACOT_AUX_REACTOR_5: "复制小型微型反应堆"
+MEDIUM_ACOT_AUX_REACTOR_5: "复制中型微型反应堆"
+LARGE_ACOT_AUX_REACTOR_5: "复制大型微型反应堆"
+############################################################
+################### RESOURCE BOOSTERS 
+############################################################
+
+############################ ENERGY ############################
+
+ACOT_RESOURCE_NODE_ENERGY_AUX_1: "基本发电机"
+ACOT_RESOURCE_NODE_ENERGY_AUX_1_DESC: "基本发电机提供§G6§! ,£能源£。"
+
+ACOT_RESOURCE_NODE_ENERGY_AUX_3: "先进的发电机"
+ACOT_RESOURCE_NODE_ENERGY_AUX_3_DESC: "高级发电机提供§G12§! ,£能源£。"
+
+ACOT_RESOURCE_NODE_ENERGY_AUX_5: "复制发电机"
+ACOT_RESOURCE_NODE_ENERGY_AUX_5_DESC: "复制发电机提供§G240§! ,£能源£。"
+
+############################ MINERAL ############################
+
+ACOT_RESOURCE_NODE_MINERALS_AUX_1: "基础挖矿节点"
+ACOT_RESOURCE_NODE_MINERALS_AUX_1_DESC: "基础挖矿节点提供§G4§! ,£矿物质£。"
+
+ACOT_RESOURCE_NODE_MINERALS_AUX_3: "高级挖矿节点"
+ACOT_RESOURCE_NODE_MINERALS_AUX_3_DESC: "高级挖矿节点提供§G8§! ,£矿物质£。"
+
+ACOT_RESOURCE_NODE_MINERALS_AUX_5: "复制挖矿节点"
+ACOT_RESOURCE_NODE_MINERALS_AUX_5_DESC: "复制挖矿节点提供§G240§! ,£矿物质£。"
+
+############################ ALLOY ############################
+
+ACOT_RESOURCE_NODE_ALLOYS_AUX_1: "基础合金铸造厂"
+ACOT_RESOURCE_NODE_ALLOYS_AUX_1_DESC: "基础合金铸造厂提供§G4§! ,£合金£。"
+
+ACOT_RESOURCE_NODE_ALLOYS_AUX_3: "先进合金铸造厂"
+ACOT_RESOURCE_NODE_ALLOYS_AUX_3_DESC: "先进合金铸造厂提供§G8§! ,£合金£。"
+
+ACOT_RESOURCE_NODE_ALLOYS_AUX_5: "复制合金铸造厂"
+ACOT_RESOURCE_NODE_ALLOYS_AUX_5_DESC: "复制合金铸造厂提供§G120§！ ,£合金£。"
+
+############################ FOOD ############################
+
+ACOT_RESOURCE_NODE_FOOD_AUX_1: "基本熟食中心"
+ACOT_RESOURCE_NODE_FOOD_AUX_1_DESC: "基本熟食中心提供§G8§! ,$食物$。"
+
+ACOT_RESOURCE_NODE_FOOD_AUX_3: "高级美食广场"
+ACOT_RESOURCE_NODE_FOOD_AUX_3_DESC: "美食广场提供§G16§！ ,$食物$。"
+
+ACOT_RESOURCE_NODE_FOOD_AUX_5: "复制食品花园"
+ACOT_RESOURCE_NODE_FOOD_AUX_5_DESC: "复制食品花园提供§G240§！ ,$食物$。"
+
+############################ GOODS ############################
+
+ACOT_RESOURCE_NODE_GOODS_AUX_1: "基础供应中心"
+ACOT_RESOURCE_NODE_GOODS_AUX_1_DESC: "基本供应中心提供§G6§! ,£consumer_goods£。"
+
+ACOT_RESOURCE_NODE_GOODS_AUX_3: "高级会议中心"
+ACOT_RESOURCE_NODE_GOODS_AUX_3_DESC: "高级会议中心提供§G6§! ,£consumer_goods£。"
+
+ACOT_RESOURCE_NODE_GOODS_AUX_5: "复制人物流中心"
+ACOT_RESOURCE_NODE_GOODS_AUX_5_DESC: "复制人物流中心提供§G120§！ ,£consumer_goods£。"
+
+############################ UNITY ############################
+
+ACOT_RESOURCE_NODE_UNITY_AUX_1: "基本呼叫中心"
+ACOT_RESOURCE_NODE_UNITY_AUX_1_DESC: "基本呼叫中心提供§G6§! ,£团结£。"
+
+ACOT_RESOURCE_NODE_UNITY_AUX_3: "高级太空档案馆"
+ACOT_RESOURCE_NODE_UNITY_AUX_3_DESC: "太空档案馆提供§G12§！ ,£团结£。"
+
+ACOT_RESOURCE_NODE_UNITY_AUX_5: "复制人太空博物馆"
+ACOT_RESOURCE_NODE_UNITY_AUX_5_DESC: "复制人太空博物馆提供§G240§！ ,£团结£。"
+
+############################ SOCIETY ############################
+
+ACOT_RESOURCE_NODE_SOCIETY_AUX_1: "基础生物实验室"
+ACOT_RESOURCE_NODE_SOCIETY_AUX_1_DESC: "基本生物实验室提供§G6§!,英镑社会。"
+
+ACOT_RESOURCE_NODE_SOCIETY_AUX_3: "先进的生源行动"
+ACOT_RESOURCE_NODE_SOCIETY_AUX_3_DESC: "高级生物源行动提供§G12§!,英镑社会。"
+
+ACOT_RESOURCE_NODE_SOCIETY_AUX_5: "复制生物设施"
+ACOT_RESOURCE_NODE_SOCIETY_AUX_5_DESC: "复制生物设施提供§G120§！,英镑社会。"
+
+############################ ENGINER ############################
+
+ACOT_RESOURCE_NODE_ENGINEERING_AUX_1: "基础工程实验室"
+ACOT_RESOURCE_NODE_ENGINEERING_AUX_1_DESC: "基础工程实验室提供§G6§! ,£工程£。"
+
+ACOT_RESOURCE_NODE_ENGINEERING_AUX_3: "高级工程操作"
+ACOT_RESOURCE_NODE_ENGINEERING_AUX_3_DESC: "高级工程运营提供§G12§! ,£工程£。"
+
+ACOT_RESOURCE_NODE_ENGINEERING_AUX_5: "复制工程设施"
+ACOT_RESOURCE_NODE_ENGINEERING_AUX_5_DESC: "复制人工程设施提供§G120§！ ,£工程£。"
+
+############################ PHYSICS ############################
+
+ACOT_RESOURCE_NODE_PHYSICS_AUX_1: "基础物理实验室"
+ACOT_RESOURCE_NODE_PHYSICS_AUX_1_DESC: "基础物理实验室提供§G6§!,英镑物理英镑。"
+
+ACOT_RESOURCE_NODE_PHYSICS_AUX_3: "高级物理操作"
+ACOT_RESOURCE_NODE_PHYSICS_AUX_3_DESC: "高级物理操作提供§G12§!,英镑物理英镑。"
+
+ACOT_RESOURCE_NODE_PHYSICS_AUX_5: "复制物理设施"
+ACOT_RESOURCE_NODE_PHYSICS_AUX_5_DESC: "复制物理设施提供§G120§！,英镑物理英镑。"
+
+############################################################
+################### RESOURCE STATION AUX 
+############################################################
+
+############################ ENERGY ############################
+
+ACOT_RESOURCE_STATION_BASIC_AUX_1: "基础资源节点"
+ACOT_RESOURCE_STATION_BASIC_AUX_1_DESC: "基本电源节点提供§G6§! ,£能源£和£矿物质£。"
+
+ACOT_RESOURCE_STATION_BASIC_AUX_3: "高级资源节点"
+ACOT_RESOURCE_STATION_BASIC_AUX_3_DESC: "高级电源节点提供§G12§! ,£能源£和£矿物质£。"
+
+ACOT_RESOURCE_STATION_BASIC_AUX_5: "复制资源节点"
+ACOT_RESOURCE_STATION_BASIC_AUX_5_DESC: "复制电源节点提供§G18§! ,£能源£和£矿物质£。"
+
+############################ ALLOY ############################
+
+ACOT_RESOURCE_STATION_ALLOYS_AUX_1: "基础合金铸造厂"
+ACOT_RESOURCE_STATION_ALLOYS_AUX_1_DESC: "基础合金铸造厂提供§G4§! ,£合金£。"
+
+ACOT_RESOURCE_STATION_ALLOYS_AUX_3: "先进合金铸造厂"
+ACOT_RESOURCE_STATION_ALLOYS_AUX_3_DESC: "先进合金铸造厂提供§G8§! ,£合金£。"
+
+ACOT_RESOURCE_STATION_ALLOYS_AUX_5: "复制合金铸造厂"
+ACOT_RESOURCE_STATION_ALLOYS_AUX_5_DESC: "复制合金铸造厂提供§G12§！ ,£合金£。"
+
+############################ PHYSICS ############################
+
+ACOT_RESOURCE_STATION_SCIENCE_AUX_1: "基础科学频道"
+ACOT_RESOURCE_STATION_SCIENCE_AUX_1_DESC: "基础科学频道提供§G6§! ,£工程£、£物理学£和£社会£。"
+
+ACOT_RESOURCE_STATION_SCIENCE_AUX_3: "高级科学岗位"
+ACOT_RESOURCE_STATION_SCIENCE_AUX_3_DESC: "高级科学帖子提供§G12§! ,£工程£、£物理学£和£社会£。"
+
+ACOT_RESOURCE_STATION_SCIENCE_AUX_5: "复制科学地堡"
+ACOT_RESOURCE_STATION_SCIENCE_AUX_5_DESC: "复制科学地堡提供§G18§！ ,£工程£、£物理学£和£社会£。"

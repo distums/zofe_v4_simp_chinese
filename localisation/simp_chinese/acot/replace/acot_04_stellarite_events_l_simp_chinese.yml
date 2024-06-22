@@ -1,0 +1,362 @@
+﻿﻿
+l_simp_chinese:
+ 
+stellarite_events.1.name: "超越星星的力量"
+stellarite_events.1.desc.a: "我们有一个有趣的情况。,显然，我们的一些科学家声称在用我们的先进传感器扫描能量特征一段时间后发现了一种新型能量特征。,这种力量与太阳能相似，但更加微妙。\n\n我们还无法验证这一说法的真实性，因为这似乎与太阳能有关......我们甚至在我们的帝国有能力之前就知道了这一点,太空旅行。"
+stellarite_events.1.desc.b: "我们有一个有趣的情况。,显然，我们的一些科学家声称从我们击败的恒星吞噬者身上发现了更多我们之前研究过的恒星能量特征。,能量微弱且难以追踪，但似乎比吞噬者上的能量纯净得多。"
+stellarite_events.1.desc.c: "我们有一个有趣的情况。,显然，我们的一些科学家声称从我们击败的恒星吞噬者身上发现了更多我们之前研究过的恒星能量特征。,能量微弱且难以追踪，但似乎比吞噬者上的能量纯净得多。"
+stellarite_events.1.a: "也许索菲亚可以告诉我们更多。"
+stellarite_events.1.b: "现在还不是尝试的时候。"
+ 
+stellarite_events.100.name: "前体数据库"
+stellarite_events.100.desc.a: "有趣的是……碎片的残骸可以一直到达这里……\n\n抱歉，只是大声思考。,你们科学家的假设是正确的，你们检测到的能量特征与太阳能有关，但它更强大，更神圣。,你所看到的只是它曾经辉煌的存在的闪烁。,第一星的碎片，星晶的力量。,但必须承认，我没想到你们的科学家真的能够在这里一路追踪它的签名。\n\n如果你对这种力量感兴趣，那么我可以教你它......在我设法找到一个,以家庭友好的方式做到这一点......"
+stellarite_events.100.desc.b: "有趣的是……碎片的残骸可以一直到达这里……当然！,吞噬者！,不知怎的，我完全错过了这个细节！\n\n抱歉，只是大声思考。,你们科学家的假设是正确的，你们检测到的能量特征与太阳能有关，但它更强大，更神圣。,你所看到的只是它曾经辉煌的存在的闪烁。,第一星的碎片，星晶的力量。,与你之前打败的吞食者身上表现出的力量相同。\n\n如果你对这种力量感兴趣，那么我可以教你……在我设法找到一种适合家庭的方法之后。 ,.."
+stellarite_events.100.desc.c: "啊，很高兴你终于也注意到了这一点。,是的，你正在拾取一种新型能源，恒星能量，第一颗恒星的碎片。,这个星系中的一个帝国已经设法将其光芒重新饱和到宇宙中，所以现在你感受到了它的存在。\n\n如果你有兴趣，我会做出适当的安排，转发必要的数据,你去获取它。"
+stellarite_events.100.desc.d: "又是这个话题？,我以为你对此不感兴趣，你后来改变主意了吗？"
+stellarite_events.100.a: "这第一颗星是什么？"
+stellarite_events.100.a.response: "呃……这是一个很长的故事，诚然我的知识是二手的。,但可以说，正如其名称所暗示的那样，它是这个现实的第一颗恒星。,由高等生物创造，作为某种礼物。,但我们只能说，由于一系列不幸的事件，第一颗星已经不复存在，它的碎片散成了无法辨认的碎片。,然而它的力量仍然存在，那些能够利用它的人，将获得不可估量的力量，即星石的力量。"
+stellarite_events.100.b: "这个力量真的可以使用吗？"
+stellarite_events.100.b.response: "理论上是的。,碎片与调用者的愿望产生共鸣，那些了解其本质的人可以利用星石，将其弯曲成任何需要的东西。,坦率地说，问题是，你的帝国和人民更有可能在试图理解其设计范围而不是实际使用它时爆炸。,但或许还有机会..."
+stellarite_events.100.b2.response: "嗯，当然，否则其他人也不会在这个时候使用它。,碎片与调用者的愿望产生共鸣，那些了解其本质的人可以利用星石，将其弯曲成任何需要的东西。,坦率地说，问题是，你的帝国和人民更有可能在试图理解其设计范围而不是实际使用它时爆炸。,但在我的帮助下，这个问题可以解决。"
+stellarite_events.100.c: "那么它是如何与太阳能连接的呢？"
+stellarite_events.100.c.response: "呃……老实说我还是不确定，就像我说的，这是二手知识。,据说，你看到的普通星星就像是……尸体？,灰尘？,或者只是第一颗星的闪烁残骸。,足以提供温暖、生命和环境能量，但仅此而已。,但星晶不同，它是纯净的、神圣的，是远古诸神所创造的。"
+stellarite_events.100.d: "这种权力有风险吗？"
+stellarite_events.100.d.response: "哦哦哦。,你不知道。,看，在过去，我的姐妹们确实尝试转发她们正在合作的帝国的详细信息，以自行开发恒星。,不用说……结果是相当爆炸性的。,最好的情况是一些科学家爆炸，最坏的情况是？,整个银河系有点……崩溃了？,情况很复杂。,但请放心，我们不会再采取那些冒险的方法了。,我只需要想出一种你可以轻松理解的方式来教你，最好是一种不需要我做太多工作的方式。,被抱起来可不是什么好玩的事，不是吗？"
+stellarite_events.100.d2.response: "现在存在间接风险，因为有人完成了重新点燃碎片的艰巨任务。,你所要做的就是按照我的指示，观察如何利用暗物质的维度特性将暗能量转化为星石。,关键的风险很简单，其他人已经做到了，他们可能不热衷于你达到同样的竞争环境，当然除非你是他们的盟友。"
+stellarite_events.100.e: "我们希望利用这种力量。"
+stellarite_events.100.f: "别以为我们有任何用处。"
+stellarite_events.100.f.response: "啊，真可惜。,没关系。"
+
+stellarite_events.2.name: "恒星项目"
+stellarite_events.2.desc.a: "嗯……你的帝国肯定通过了行使权力的最低技术要求，这是肯定的。,但我更担心由于你们对其科学缺乏了解而导致的潜在后果。,你不太可能将力量塑造为充分发挥潜力，特别是考虑到你已经摸索出虚空能量的方式……实际上，也许你仍然可以解决并创建一个仍然与你已经拥有的功能足够相似的东西,有。,由于依赖对抗元素，力量的威力会有所减弱，但应该还是很强大的。\n\n嗯，我还想不出更好的方法，而不需要我这边大量的工作量。,所以现在，请认为这是我的慷慨。 ,SOPHIA 将为您进行第一次转换！,你只需要大量的暗物质和谜团......咳咳，我的意思是暗能量。,我的意思是很多。"
+stellarite_events.2.desc.b: "嗯……你的帝国肯定通过了行使权力的最低技术要求，这是肯定的。,因为有人已经完成了这项复杂的工作。,回想起来，你的事情会简单得多。,你只需要准备大量的暗物质和暗能量，然后按照我的指示进行即可。,希望你的科学团队有足够的能力在别人炸毁你之前完成任务。,很简单，对吧？"
+stellarite_events.2.a: "这究竟是如何运作的？"
+stellarite_events.2.a.response: "虚空能量又名黑暗能量是恒星能量的逆转、扭曲的方面。,通常，两个非常接近的功率会相互抵消，使两者都为零。,但借助暗物质的维度特性，可以将暗能量转化为星石能量。,然而，这种转换并不完美，而且非常浪费。,一旦这个过程完成，银河系将再次获得恒星之力的加持！,听起来很简单，对吧？"
+stellarite_events.2.a2.response: "虚空能量又名黑暗能量是恒星能量的逆转、扭曲的方面。,通常，两个非常接近的功率会相互抵消，使两者都为零。,但借助暗物质的维度特性，可以将暗能量转化为星石能量。,然而，这种转换并不完美，而且非常浪费。,所以要尽量省钱，提前存很多钱。"
+stellarite_events.2.b: "那么这次有什么风险呢？"
+stellarite_events.2.b.response: "令人惊讶的是，这次没有，真的谢谢你。,看，我将处理最困难的部分，第一次转换和饱和。,我所需要的只是极大量的暗物质和暗能量。,然后你们的科学家只需要仔细遵循我的指示即可。\n\n哦，值得注意的是，用恒星充满星系的过程只需要做一次。,这意味着一旦完成，其他所有帝国也将更容易地研究它们，只要我的姐妹们教他们如何做。,所以最好小心你正在启动的东西！"
+stellarite_events.2.b2.response: "令人惊讶的是，这次不是这样，感谢你们和另一个首先做到这一点的帝国。,看，我会处理最困难的部分。,我所需要的只是极大量的暗物质和暗能量。,然后你们的科学家只需要仔细遵循我的指示即可。,如果一切按计划进行，您也将获得 Stellarite 的力量。"
+stellarite_events.2.c: "这次你看起来非常慷慨。"
+stellarite_events.2.c.response: "帮不上忙。,老实说，为了我们双方的利益，我宁愿采用不太直接的方法。,但我姐妹们过去的报告有点令人讨厌，到处都是爆炸和坠机事件。,在我们找到更好的解决方案之前，这必须是这样。,不过，不要太自在，目前这是一个特殊情况。"
+stellarite_events.2.d: "堕落帝国会再次疯狂吗？"
+stellarite_events.2.d.response: "可能不会。,至少不会像你进行阿尔法计划时那么疯狂，这是肯定的。,我怀疑他们甚至不再理解这种力量了。"
+stellarite_events.2.e: "那么我们就开始吧。"
+stellarite_events.2.e.response: "然后，指示您的科学团队遵循我现在将转发的程序。,别担心，不会发生爆炸。,一切都是计算出来的。"
+stellarite_events.2.f: "目前我们还承担不起这个费用。"
+stellarite_events.2.f.response: "很公平。,您将不得不花费大量积蓄。,最好注意安全。"
+
+RESEARCH_STELLARITE_POWER: "超越星星的力量"
+RESEARCH_STELLARITE_POWER_DESC: "在索菲亚的帮助下，我们将开始重新点燃整个银河系微弱的恒星力量，以便我们可以充分利用它们。"
+RESEARCH_STELLARITE_POWER_CHEAP: "超越星星的力量"
+RESEARCH_STELLARITE_POWER_CHEAP_DESC: "在索菲亚的帮助下，我们将了解如何将暗能量转化为星石的秘密，以实现这一新发现的奇迹。"
+ 
+stellarite_events.3.name: "恒星号"
+stellarite_events.3.desc.a: "完成了！,根据索菲亚的指示，我们已经成功地使整个银河系的星石重新饱和，现在我们可以开始开发专为利用这些星石而设计的新一代反应堆。"
+stellarite_events.3.desc.b: "完成了！,按照索菲亚的指示，我们已经成功学会了如何将暗能量转化为星石，现在我们可以开始开发专为利用暗能量而设计的新一代反应堆。"
+stellarite_events.3.desc.stellaritegate: "门内的记录，大量暗示着星辰之力的存在，这证明了这种力量在过去确实存在过。,但我们还没有可用于军事应用的工作原型。,我们必须更深入地挖掘。"
+stellarite_events.3.a: "将我们的目标定得很高。"
+stellarite_events.3.tooltip: "恒星研究现已推出。,但要小心，几年后，其他帝国只需要研究这项技术，就能够获得它。"
+
+RESEARCH_STELLARITE_POWER_SIMPLE: "超越星星的力量"
+RESEARCH_STELLARITE_POWER_SIMPLE_DESC: "这种新的恒星能量拥有如此多的前景，我们只需要研究它们即可。"
+
+
+stellarite_events.5.name: "力量压倒性！"
+stellarite_events.5.desc: "终于！,我们的研究已经取得成果，第一个 Stellarite Reactor 已准备好进行大规模部署！,这项新发明为各种战斗应用带来了多种未来的努力，我们应该立即开始探索它们！"
+stellarite_events.5.a: "我们扬升的真相被揭示了！"
+
+stellarite_events.500.name: "前体数据库"
+stellarite_events.500.desc: "恭喜！,你成功地完全遵循了我的指示，并避免了在此过程中爆炸！\n\n我必须说，我对你的机会表示怀疑，但你无论如何都坚持了下来。,现在您可以开始试验并将恒星集成到您的武器库中。,但我必须警告您，从技术上讲，星石不应该以这种方式使用。,单独结合虚空能量就已经足够冒险了，但同时还混入了暗物质。,如果你不小心，可能会产生一些……不可预见的后果。,还要确保控制好你的恒星库存，你不希望出现一些愤怒的恒星实体。"
+stellarite_events.500.a: "阿森纳？,基础设施升级怎么样？"
+stellarite_events.500.a.response: "那里很容易。,你勉强凑齐了 Stellarite 的力量来配合你目前的技术。,单独使用它们作为武器已经够棘手的了，但至少你可以享受到军用级硬件的好处。,将其压缩到你日常的行星建筑中可能有点超出你目前的能力。,它需要太多的……“技术收购”才能真正发挥作用。,但这不是卡诺……没关系，假装你没有听到最后一部分。"
+stellarite_events.500.b: "这会带来什么不可预见的后果呢？"
+stellarite_events.500.b.response: "如果你还不清楚的话，虚空能量和恒星石不能很好地结合在一起。,尽管您基本上能够在暗物质和其他一些程序的帮助下隔离不兼容的部分，但该产品仍然明显是基于空隙的。,添加更多的它们来增加你的恒星产量可能会导致......至少可以说是极其爆炸性的结果。"
+stellarite_events.500.c: "为什么我们要排气星石？"
+stellarite_events.500.c.response: "简单来说，星晶对情感和思想有一定的调节作用，它的力量来自于初星碎片。,如果你想变得阴森恐怖，不易利用的原始恒星可能会利用过去时代挥之不去的存在……鬼魂。,对于更先进的恒星帝国来说，这很少是一个问题，但对于像你们这样的帝国来说，控制这些异常可能会更具挑战性。,然而，尽管他们被权力所吸引，但他们仍然只是挥之不去的情感和想法。,即使他们在物质世界中获得了一些外表，它也不会持久。,如果你不亲自处理它们，一旦力量耗尽，它们很可能就会消失得无影无踪。"
+stellarite_events.500.d: "那时我们还有很多事要做。"
+stellarite_events.500.d.response: "是的。,我确信激动人心的日子就在前方。,我想知道你会用这个新力量做什么。"
+
+stellarite_events.501.name: "旭日新帝国"
+stellarite_events.501.desc: "我们从可靠来源得到报告称，[event_target:new_stellarite_empire.GetName] 最近开发了一种新的电源，它似乎比没落帝国所使用的电源更强大。,细节很粗略，但似乎与先驱技术有关。"
+stellarite_events.501.desc.b: "我们从可靠来源得到报告称，[event_target:new_stellarite_empire.GetName] 最近开发了一种新的电源，它似乎比没落帝国所使用的电源更强大。,不幸的是我们不知道这种新力量是什么。"
+stellarite_events.501.desc.c: "我们从可靠来源得到报告称，[event_target:new_stellarite_empire.GetName] 最近开发了一种与 Stellarite 的读数和细节相匹配的新电源。,如果这是正确的，这意味着另一个帝国正在走向新的启示。,我们应该非常仔细地监控他们的进展。"
+stellarite_events.501.a: "也许索菲亚可以告诉我们更多。"
+stellarite_events.501.b: "目前看来有点超出我们的水平。"
+stellarite_events.501.c: "我们将会看到。"
+ 
+stellarite_events.10.name: "发现恒星异常！"
+stellarite_events.10.desc: "警报！,检测到不稳定异常。,据报道，我们的一个系统中开始形成一个恒星实体。,我们可以通过驱散我们的恒星库存或在实体形成之前攻击它来阻止它，尽管并非没有风险。,或者，我们可以让实体形成，然后看看会产生什么。"
+stellarite_events.10.a.desc: "警报！,检测到不稳定异常。,另一个恒星实体正在开始形成。,它似乎利用了我们的星石库存来实现，如果我们现在将一些星石冲走，该生物将无法维持其存在。,或者，如果我们不介意一些爆炸性的结果，我们可以阻止它的形成。"
+stellarite_events.10.a: "给恒星发泄。,我们没有时间浪费在这上面。"
+stellarite_events.10.a.tooltip: “一点点星石的损失不会损害我们的经济。这比对付疯狂的鬼魂要好。”
+stellarite_events.10.b: "让实体形成。,我们可能会学到一些有用的东西。"
+stellarite_events.10.b.tooltip: “一分耕耘，一分收获。这是一个难得的机会，可以进一步研究星石异常！”
+stellarite_events.10.c: “阻止这个实体。我们不会失去星石！”
+stellarite_events.10.c.tooltip: “试图直接干扰它的形成可能会导致它变形。考虑到我们在这里谈论的是星石，可能有点冒险。”
+
+stellarite_events.1000.name: "恒星异常故障"
+stellarite_events.1000.desc: "不幸的是，该实体似乎未能获得有形的形式，并很快消散回虚无。,无论如何，我们能够收获一些剩余的恒星。"
+stellarite_events.1000.desc.b: "该实体似乎很难将自己形成有形的形式，并且可能很快就会消散。,然而，应该可以给它喂食更多的恒星，以将其形态显现到物理空间中。"
+stellarite_events.1000.a: "有总比没有好。"
+stellarite_events.1000.b: "不，让它消散。"
+stellarite_events.1000.c: “是的，我们试试吧。”
+stellarite_events.1000.c.tooltip: “这不太符合逻辑，但无论如何都非常令人兴奋。”
+
+stellarite_events.1001.name: "恒星异常故障"
+stellarite_events.1001.desc: "该实体似乎很难将自己形成有形的形式，并且可能很快就会消散。,然而，应该可以给它喂食更多的恒星，以将其形态显现到物理空间中。,该实体当前位于 [event_target:stellarite_forming_location.GetName]。"
+stellarite_events.1001.a: "不，让它消散。"
+stellarite_events.1001.b: “是的，我们试试吧。”
+stellarite_events.1001.b.tooltip: “这不太符合逻辑，但无论如何都非常令人兴奋。”
+
+stellarite_events.1002.name: "恒星实体"
+stellarite_events.1002.desc: "星石形成了一个特殊的实体。,它似乎缺乏智慧，表现出类似于太空实体（如 tiyanki）的行为。,虽然它目前没有表现出敌意的迹象，但摧毁它可能会给我们带来一些恒星。,该实体当前位于 [event_target:stellarite_forming_location.GetName]。"
+stellarite_events.1002.a: "它是无害的。,随它去。"
+stellarite_events.1002.a.tooltip: “该实体将被留下来，让它为所欲为，直到其恒星储备耗尽并到期。”
+stellarite_events.1002.b: “毁了它，我们需要那些星石。”
+stellarite_events.1002.b.tooltip: “该实体将变得敌对，必须被摧毁，之后才能提取其剩余的星石。”
+
+stellarite_events.1003.name: "恒星实体"
+stellarite_events.1003.desc: "星石形成了一个特殊的实体。,它似乎表现出了基本的智慧和对我们命令的反应能力。,我们可以保留它，或者将它消耗成恒星。,该实体当前位于 [event_target:stellarite_forming_location.GetName]。"
+stellarite_events.1003.a: "是的。,我们现在是你的主人了，小家伙。"
+stellarite_events.1003.a.tooltip: “该实体可以被控制，直到其恒星储备耗尽并到期。”
+stellarite_events.1003.b: “我们需要恒星，而不是宠物。”
+stellarite_events.1003.b.tooltip: “该实体可以被安全摧毁，并且其恒星可以毫无抵抗地恢复。”
+
+stellarite_events.1004.name: "恒星褪色"
+stellarite_events.1004.desc.a: "我们作为宠物保存的恒星实体[root.GetName]终于耗尽了它的能量并开始消失。,我们可以尝试通过喂食额外的星石来延长它的寿命，但它会变得更弱。,此后它不太可能再经历另一次降级。"
+stellarite_events.1004.desc.b: "我们作为宠物保存的恒星实体[root.GetName]最终耗尽了它最后的能量储备并消失了。,我们已经无能为力了，因为它的光线已经严重退化了。"
+stellarite_events.1004.desc.c: "我们作为宠物保存的恒星实体[root.GetName]正在显示出退化的迹象，它已经开始失去一些力量，但在其他方面仍然保持着有形的存在。"
+stellarite_events.1004.a: "我们还没有与我们的宠物分开！"
+stellarite_events.1004.b: "所有的事情都必须结束。"
+stellarite_events.1004.c: “哦，不是宠物。”
+stellarite_events.1004.d: “回想起来，这是不可避免的。”
+stellarite_events.1004.e: “麻烦了。”
+stellarite_events.1004.f: “那么最好直接将其命名为恒星。”
+
+stellarite_events.1005.name: "击败星星实体"
+stellarite_events.1005.desc.a: "我们已经击败了一个恒星实体。,该实体含有大量仍可使用的剩余星石能量。"
+stellarite_events.1005.desc.b: "我们已经击败了一个恒星实体。,该实体仍含有适量的剩余恒星能量，仍可使用。"
+stellarite_events.1005.desc.c: "我们已经击败了一个恒星实体。,该实体似乎只剩下少量仍可使用的剩余恒星能量。"
+stellarite_events.1005.desc.d: "我们已经打败了这个奇怪而可怕的实体。,该生物在最后一刻释放出奇怪的能量，但我们仍然无法确定这到底是什么能量。"
+stellarite_events.1005.a: "好赏金！"
+stellarite_events.1005.b: "多么好奇啊。"
+
+stellarite_events.1010.name: "星龙战败！"
+stellarite_events.1010.desc.a: "我们打败了伟大的星龙！,当它死亡时，可以收获大量的恒星能量！"
+stellarite_events.1010.desc.b: "我们的投资已见成效！,在我们击败了伟大的星龙之后，似乎有更多的星石从它的本质中涌出！\n\n我们要么收集这些星石为己所用，要么尝试再次重新点燃，也许会发生一些有趣的事情？"
+stellarite_events.1010.a: "好赏金！"
+stellarite_events.1010.b: "否定，只是收获恒星。"
+stellarite_events.1010.c: “是的，我们试试吧。”
+stellarite_events.1010.c.tooltip: “这不太符合逻辑，但无论如何都非常令人兴奋。”
+
+stellarite_events.1010.explain.outcome.1: “另外两条敌对的星龙将会生成。每条星龙都会在死亡后重复此事件。”
+stellarite_events.1010.explain.outcome.2: “另一只星龙在你的控制下出现。”
+
+stellarite_events.1011.name: "巨龙觉醒！"
+stellarite_events.1011.desc.a: "恒星生命体似乎已经实体化为一种非常独特的形状，那就是一只以太龙。,扫描表明它比普通的强得多。,但如果我们能打败它，或许就能收获大量的星石。"
+stellarite_events.1011.desc.b: "又一只星龙出现了……它和上一只一样强大。,然而，处理它的选项保持不变。"
+stellarite_events.1011.a: "终于有对手了！"
+stellarite_events.1011.b: "这会很痛，不是吗？"
+
+stellarite_events.12.name: "星辰超载！"
+stellarite_events.12.desc: "令人震惊！ ,[event_target:stellarite_fucked_up_planet.GetName] 上的 Stellarite 发电机在长时间过度充电后发生熔毁，摧毁了附近的建筑物并杀死了一些人。,我们应该在事情​​变得更糟之前立即停止这一切！"
+stellarite_events.12.a: "是的，我们不想炸毁我们的殖民地。"
+stellarite_events.12.b: "不，必须为了更大的利益而做出牺牲。"
+stellarite_events.12.b.tooltip: "直到明年行星坠落或取消超载之前，不会再通知此类损坏报告。"
+ 
+stellarite_events.13.name: "星星严重故障"
+stellarite_events.13.desc: "由于我们在 [event_target:stellarite_fucked_up_planet.GetName] 上鲁莽地使用了 Stellarite 反应堆，发电机遭受了严重的熔毁并引发了大规模爆炸，迎来了一场毁灭整个殖民地的大灾难。\n\n一支救援小组已被派出,试图找到幸存者，尽管似乎没有幸存者。"
+stellarite_events.13.a: "这是我们自己造成的。"
+stellarite_events.13.b: "一颗行星的毁灭对于更多的Stellarite来说是微不足道的。"
+
+stellarite_events.14.name: "恒星黄色警报"
+stellarite_events.14.desc: "警报！ ,[event_target:stellarite_fucked_up_planet.GetName] 上的 Stellarite 生成器长期处于系统过载状态。,目前还没有退化的迹象，但如果我们继续下去，事故可能很快就会发生。,我们应该立即停止这个序列！"
+stellarite_events.14.a: "是的，我们不想炸毁我们的殖民地。"
+stellarite_events.14.b: "不，我们需要更多的恒星。,继续充电。"
+ 
+acot_stellarite_chain: "恒星之力"
+acot_stellarite_chain_title: "恒星之力"
+acot_stellarite_chain_desc: "有理论和证据表明，恒星本身的力量可以被用来制造超出目前已知的强大武器。,细节尚存疑问，但如果有足够的资源和承诺，可能会透露更多信息。"
+ 
+acot_stellarite_experiment: "生存还是毁灭？"
+acot_stellarite_experiment_desc: "目前细节还太粗略，大多数科学委员会对这种所谓的恒星能量持怀疑态度。,没有任何文明使用这种力量的记录，甚至没有任何文明的先驱。,鉴于太阳能的概念已被广泛了解和采用，几乎没有理由相信它还有更多内容。\n\n无论如何，一群科学家愿意进行实验，但需要一位经验丰富的科学家来领导,该项目。,虽然科学家不需要放弃当前的任务，但似乎只有少数人对此类项目表现出兴趣。,风险很高，因此我们应该谨慎行事。"
+
+acot_stellarite_research: "掌握星星"
+acot_stellarite_research_desc: "现在很明显，Stellarite确实是一种强大的新能源。,下一个障碍是探索如何在太空战争中利用力量。,我们早期的原型太不稳定且太危险，无法实际使用。,因此，我们开发一种安全的屏蔽装置非常重要，该装置可以容纳这种能量，并且在受到各种危险反应时不会引起大爆炸。\n\n为此，需要一位在物理领域有天赋的科学家。,科学家必须拥有天才火花、馆长、智能人工智能助理、博学、脑力或粒子专业知识（还需要 10 级技能）"
+
+################### WIP STUFFS
+
+WIP_acot_stellarite_dragon_stage_one: "星龙收容装置"
+WIP_acot_stellarite_dragon_stage_one_desc: "索菲亚给我们带来的第一个挑战就是将实体从收容装置中打破。,她选择不为我们这样做似乎已经是她测试的一部分，或者是为了她自己的娱乐。,无论如何，我们都会继续努力。,在我们的首都系统集结最多 8 支军事舰队，然后选择法令开始战斗。,如果运气好的话，我们也许能够在所有舰队消失之前摧毁该装置。"
+
+WIP_acot_stellarite_dragon_stage_second: "星龙收容装置"
+WIP_acot_stellarite_dragon_stage_second_desc: "索菲亚给我们带来的第一个挑战就是将实体从收容装置中打破。,她选择不为我们这样做似乎已经是她测试的一部分，或者是为了她自己的娱乐。,无论如何，我们都会继续努力。,在我们的首都系统集结最多 8 支军事舰队，然后选择法令开始战斗。,如果运气好的话，我们也许能够在所有舰队消失之前摧毁该装置。"
+
+WIP_acot_stellarite_dragon_stage_three: "星龙收容装置"
+WIP_acot_stellarite_dragon_stage_three_desc: "索菲亚给我们带来的第一个挑战就是将实体从收容装置中打破。,她选择不为我们这样做似乎已经是她测试的一部分，或者是为了她自己的娱乐。,无论如何，我们都会继续努力。,在我们的首都系统集结最多 8 支军事舰队，然后选择法令开始战斗。,如果运气好的话，我们也许能够在所有舰队消失之前摧毁该装置。"
+
+WIP_acot_stellarite_dragon_stage_four: "星龙收容装置"
+WIP_acot_stellarite_dragon_stage_four_desc: "索菲亚给我们带来的第一个挑战就是将实体从收容装置中打破。,她选择不为我们这样做似乎已经是她测试的一部分，或者是为了她自己的娱乐。,无论如何，我们都会继续努力。,在我们的首都系统集结最多 8 支军事舰队，然后选择法令开始战斗。,如果运气好的话，我们也许能够在所有舰队消失之前摧毁该装置。"
+
+WIP_acot_stellarite_research: "掌握星星"
+WIP_acot_stellarite_research_desc: "现在很明显，Stellarite确实是一种强大的新能源。,下一个障碍是探索如何在太空战争中利用力量。,我们早期的原型太不稳定且太危险，无法实际使用。,因此，我们开发一种安全的屏蔽装置非常重要，该装置可以容纳这种能量，并且在受到各种危险反应时不会引起大爆炸。\n\n为此，需要一位在物理领域有天赋的科学家。,科学家必须拥有天才火花、馆长、智能人工智能助理、博学、脑力或粒子专业知识（还需要 10 级技能）"
+
+##################
+
+stellarite_events.15.name: "光荣出院确认书"
+stellarite_events.15.desc: "荣誉放电协议已在星球 [root.GetName] 上获得授权。,继续？"
+stellarite_events.15.a: "继续。"
+stellarite_events.15.b: "遵守该命令。,虚惊。"
+
+#################### SPECIAL ENEMIES #############################
+
+acot_stellarite_fading_debuff: "虚弱的"
+acot_stellarite_fading_debuff_desc: "虚弱的"
+acot_stellarite_strong_buff: "强的"
+acot_stellarite_strong_buff_desc: "强的"
+
+acot_bomb_stellarite: "§H恒星能量炸弹§!"
+acot_bomb_stellarite_plural: "§H恒星能量炸弹§!"
+acot_bomb_stellarite_desc: "§H恒星能量炸弹§!"
+
+acot_bomb_stellarite_key: "§H恒星能量炸弹§!"
+
+ACOT_MONSTER_BOMB_STELLARITE_SMALL: "§H不稳定的恒星放电§!"
+ACOT_MONSTER_BOMB_STELLARITE_SMALL_DESC: "§H不稳定的恒星放电§!"
+
+ACOT_MONSTER_BOMB_STELLARITE_LARGE: "§H恒星放电§!"
+ACOT_MONSTER_BOMB_STELLARITE_Large_DESC: "§H恒星放电§!"
+
+acot_large_stellarite: "§HGiga-Stellarite Devouver§!"
+acot_large_stellarite_plural: "§HG 超级恒星吞噬者§!"
+acot_large_stellarite_desc: "§HG 超级恒星吞噬者§!"
+
+acot_large_stellarite_key: "§HGiga-Stellarite Devouver§!"
+
+acot_dragon_stellarite: "§HStellarwrynm§!"
+acot_dragon_stellarite_plural: "§HStellarwrynm§!"
+acot_dragon_stellarite_desc: "§HStellarwrynm§!"
+
+acot_dragon_stellarite_key: "§H星辰星龙§!"
+
+ACOT_MONSTER_TITAN_STELLARITE_BEAM: "§HGiga 恒星 Terrablast§!"
+ACOT_MONSTER_TITAN_STELLARITE_BEAM_DESC: "§HGiga 恒星 Terrablast§!"
+
+ACOT_MONSTER_STELLARITE_BEAM: "§HG超级恒星爆炸§!"
+ACOT_MONSTER_STELLARITE_BEAM_DESC: "§HG超级恒星爆炸§!"
+
+ACOT_MONSTER_STELLARITE_MISSILE: "§HG超级恒星耀斑§!"
+ACOT_MONSTER_STELLARITE_MISSILE_DESC: "§HG超级恒星耀斑§!"
+
+ACOT_MONSTER_STELLARITE_PLASMA: "§HG超级明星犯规§！"
+ACOT_MONSTER_STELLARITE_PLASMA_DESC: "§HG超级明星犯规§！"
+
+ACOT_MONSTER_STELLARITE_LASER: "§HGiga 恒星热度§!"
+ACOT_MONSTER_STELLARITE_LASER_DESC: "§HGiga 恒星热度§!"
+
+########################### BOMBASTIC STELLARWYRM FIGHT 
+
+###  FIRST STAGE
+
+acot_dragon_stellarite_prison: "§H前体遏制系统§!"
+acot_dragon_stellarite_prison_plural: "§H前体遏制系统§!"
+acot_dragon_stellarite_prison_desc: "§H前体遏制系统§!"
+
+acot_dragon_stellarite_prison_bomb: "§H优化的战术新星炸弹§!"
+acot_dragon_stellarite_prison_bomb_plural: "§H优化的战术新星炸弹§!"
+acot_dragon_stellarite_prison_bomb_desc: "§H优化的战术新星炸弹§!"
+
+###  SECOND STAGE
+
+acot_dragon_stellarite: "§H星龙之灵§!"
+acot_dragon_stellarite_plural: "§H星龙烈酒§!"
+acot_dragon_stellarite_desc: "§H星龙烈酒§!"
+
+acot_dragon_stellarite_key: "§H星辰星龙§!"
+
+ACOT_MONSTER_STELLARITE_DRAGON_WEAPON: "§HStellarwrynm Starbreaker§!"
+ACOT_MONSTER_STELLARITE_DRAGON_WEAPON_DESC: "§HStellarwrynm Starbreaker§!"
+
+ACOT_MONSTER_STELLARITE_DRAGON_WEAPON: "§HStellarwrynm Starbreaker§!"
+ACOT_MONSTER_STELLARITE_DRAGON_WEAPON_DESC: "§HStellarwrynm Starbreaker§!"
+
+ACOT_MONSTER_STELLARITE_DRAGON_BEAM: "星龙之怒§!"
+ACOT_MONSTER_STELLARITE_DRAGON_BEAM_DESC: "星龙之怒§!"
+
+ACOT_MONSTER_STELLARITE_DRAGON_PLASMA: "§H恒星乌龙光辉§!"
+ACOT_MONSTER_STELLARITE_DRAGON_PLASMA_DESC: "§H恒星乌龙光辉§!"
+
+ACOT_MONSTER_STELLARITE_DRAGON_LASER: "§H恒星乌龙壳§!"
+ACOT_MONSTER_STELLARITE_DRAGON_LASER_DESC: "§H恒星乌龙壳§!"
+
+ACOT_AURA_BOSS_STELLARWYRM_RESISTANCE: "§H恒星乌龙抵抗§!"
+ACOT_AURA_BOSS_STELLARWYRM_RESISTANCE_DESC: "§H恒星乌龙抵抗§!"
+
+acot_dragon_stellarite_add: "§HD龙之子§!"
+acot_dragon_stellarite_add_plural: "§H龙族生成§!"
+acot_dragon_stellarite_add_desc: "§H龙族生成§!"
+
+acot_dragon_stellarite_orb_of_fire: "§H星辰龙珠超§!"
+acot_dragon_stellarite_orb_of_fire_plural: "§H恒星龙珠超级§!"
+acot_dragon_stellarite_orb_of_fire_desc: "§H恒星龙珠超级§!"
+
+acot_dragon_stellarite_aoe_object: "§H恒星裂谷§!"
+acot_dragon_stellarite_aoe_object_plural: "§H恒星裂痕§!"
+acot_dragon_stellarite_aoe_object_desc: "§H恒星裂谷§!"
+
+ACOT_MONSTER_STELLARITE_DRAGON_AOE_LASER: "死亡光束"
+ACOT_MONSTER_STELLARITE_DRAGON_AOE_LASER_DESC: "死亡光束"
+
+###  THIRD STAGE
+
+acot_dragon_stellarite_egg: "§H恒星龙核心§!"
+acot_dragon_stellarite_egg_plural: "§H恒星龙核心§!"
+acot_dragon_stellarite_egg_desc: "§H恒星龙核心§!"
+
+### FInAL STAGE
+
+acot_dragon_stellarite_final: "§H恒星龙崛起§!"
+acot_dragon_stellarite_final_plural: "§H恒星龙崛起§!"
+acot_dragon_stellarite_final_desc: "§H恒星龙崛起§!"
+
+
+############ QUOTES ##########
+
+### FIRST STAGE
+
+acot_bq_stellarwyrm_prison_initial: "§E检测到入侵者！,战斗模式已启动！§!"
+acot_bq_stellarwyrm_stage_one_gravity_quote: "§E维度裂缝协议已初始化！§!"
+acot_bq_stellarwyrm_stage_one_add_quote: "§E入侵者仍然存在。,请求增援！§!"
+acot_bq_stellarwyrm_stage_one_add_spawn_quote: "§EUnit 准备就绪！§!"
+acot_bq_stellarwyrm_stage_one_add_defense_quote: "§E遇到进一步的阻力。,加强防御措施！§!"
+acot_bq_stellarwyrm_stage_one_nova_bomb_quote: "§敌人抵抗力增强...部署新星炸弹！§!"
+acot_bq_stellarwyrm_stage_one_relocation_quote: "§E情况危急！,调整位置以补偿...§!"
+acot_bq_stellarwyrm_stage_one_death_quote: "§E警告...检测到遏制系统故障...已...§！"
+acot_bq_stellarwyrm_stage_one_death_2_quote: "§H...这种感觉...我...回来了？§!"
+acot_bq_stellarwyrm_stage_one_death_3_quote: "§H...是的...圣光在我体内涌动！,但我面前这些卑微的生物是谁？§！"
+acot_bq_stellarwyrm_stage_one_death_4_quote: "§H...我认出了这些恶臭...肮脏的萨罗尼亚奴隶！,我将享用你的精华！§!"
+
+### SECOND STAGE
+
+acot_bq_stellarwyrm_initial: "§H于是我的精神再次燃烧起来！§!"
+acot_bq_stellarwyrm_stage_two_orb_of_fire_quote: "§霍布斯！,照亮我的道路！§!"
+acot_bq_stellarwyrm_stage_two_orb_of_fire_first_buff_quote: "§H我的力量正在提升！§!"
+acot_bq_stellarwyrm_stage_two_orb_of_fire_second_buff_quote: "§H永恒余烬由我指挥！§!"
+acot_bq_stellarwyrm_stage_two_summon_minion_quote: "§H德拉科尼亚的仆人！,为你的主人而战！§!"
+acot_bq_stellarwyrm_stage_two_minion_quote_1: "§H我们服从！§!"
+acot_bq_stellarwyrm_stage_two_minion_quote_2: "§H我们为德拉科尼亚献出生命！§!"
+acot_bq_stellarwyrm_stage_two_minion_quote_3: "§H我们领主的敌人都去死吧！§!"
+acot_bq_stellarwyrm_stage_two_raidwide_firery_blast_quote: "§H你一定会的！§!"
+acot_bq_stellarwyrm_stage_two_raidwide_firery_blast_final_quote: "§H燃烧！§！"
+acot_bq_stellarwyrm_stage_two_aoe_summon_quote: "§H你无法逃脱我火热的目光！§!"
+acot_bq_stellarwyrm_stage_two_death_quote: "§H不...我的火焰...无法熄灭！§!"
+
+acot_stellarwyrm_stage_two_aoe_summon_entity: "恒星裂痕"
+
+acot_stelalrwyrm_orb_buff: "德拉科尼亚的余烬"
+acot_stelalrwyrm_orb_buff_desc: "炽热的心在复仇之魂中熊熊燃烧。"
+
+### THIRD STAGE
+
+
+### FInAL STAGE

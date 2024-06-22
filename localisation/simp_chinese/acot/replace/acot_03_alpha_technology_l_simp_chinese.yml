@@ -1,0 +1,547 @@
+﻿l_simp_chinese:
+ 
+### SHIP TEXTS
+BASE_COMBAT_COMPUTER_COLOSSUS_AE: "仿生大力士计算机"
+BASE_COMBAT_COMPUTER_COLOSSUS_AE_DESC: “黑暗在召唤。”
+ 
+HERCULEAN_COMBAT_COMPUTER_AE: “仿生接口大力计算机”
+HERCULEAN_COMBAT_COMPUTER_AE_DESC: "这艘先进的舰艇采用独特的战斗计算机，与船员形成仿生联系。,它不受所有入侵尝试的影响，并拥有无与伦比的战斗算法。"
+ 
+################################################
+ 
+################################################
+ 
+PAC_COMBAT_COMPUTER_DEFENSE_AE: "仿生接口载体计算机（回避型）"
+PAC_COMBAT_COMPUTER_DEFENSE_AE_DESC: "这艘先进的舰艇采用独特的战斗计算机，与船员和所有攻击艇形成仿生联系。"
+ 
+PAC_COMBAT_COMPUTER_OFFENSE_AE: "仿生接口载体计算机（固定式）"
+PAC_COMBAT_COMPUTER_OFFENSE_AE_DESC: "这艘先进的舰艇采用独特的战斗计算机，与船员和所有攻击艇形成仿生联系。"
+ 
+ 
+### WEAPONS CHECK OK #####
+SMALL_ACOT_LASER_AE: "小型阿尔法激光"
+MEDIUM_ACOT_LASER_AE: "中阿尔法激光"
+LARGE_ACOT_LASER_AE: "大型阿尔法激光器"
+ACOT_LASER_AE: "阿尔法激光"
+ACOT_LASER_AE_DESC: "对 Delta 激光聚焦透镜进行额外校准，使我们能够开发出 Alpha 激光，它对装甲板来说更加致命。,这是我们精通暗能量操控的证明。"
+tech_laser_ae: "阿尔法激光"
+tech_laser_ae_desc: "对 Delta 激光聚焦透镜进行额外校准，使我们能够开发出 Alpha 激光，它对装甲板来说更加致命。,这是我们精通暗能量操控的证明。"
+ 
+ 
+SMALL_ACOT_PLASMA_AE: "小型阿尔法等离子炮"
+MEDIUM_ACOT_PLASMA_AE: "中型阿尔法等离子炮"
+LARGE_ACOT_PLASMA_AE: "大型阿尔法等离子炮"
+ACOT_PLASMA_AE: "阿尔法等离子炮"
+ACOT_PLASMA_AE_DESC: "随着我们暗能量技术的改进，我们可以创造出更致命的暗能量等离子体，它的强度和破坏力都更大。"
+tech_plasma_ae: "阿尔法等离子炮"
+tech_plasma_ae_desc: "随着我们暗能量技术的改进，我们可以创造出更致命的暗能量等离子体，它的强度和破坏力都更大。"
+ 
+SMALL_ACOT_DISRUPTOR_AE: "小型阿尔法干扰器"
+MEDIUM_ACOT_DISRUPTOR_AE: "中型阿尔法干扰器"
+LARGE_ACOT_DISRUPTOR_AE: "大型阿尔法干扰器"
+ACOT_DISRUPTOR_AE: "阿尔法干扰者"
+ACOT_DISRUPTOR_AE_DESC: "阿尔法干扰者用比其前身更强的极其强大的暗能量射线炸毁敌舰。"
+tech_disruptor_ae: "阿尔法干扰者"
+tech_disruptor_ae_desc: "阿尔法干扰者用比其前身更强的极其强大的暗能量射线炸毁敌舰。"
+ 
+ACOT_ENERGY_CANNON_AE: "阿尔法能量炮"
+ACOT_ENERGY_CANNON_AE_DESC: "Delta 能量炮的升级版，更强。"
+tech_energy_cannon_ae: "阿尔法能量炮"
+tech_energy_cannon_ae_desc: "安装基于阿尔法设计的强大能量放大器应该会增加我们能量炮的破坏力。"
+ 
+ACOT_ENERGY_TORPEDO_AE: "阿尔法能量鱼雷"
+ACOT_ENERGY_TORPEDO_MEDIUM_AE: "阿尔法能量鱼雷"
+ACOT_ENERGY_TORPEDO_AE_DESC: "暗能量可以形成一种强大的武器，可以融化组织。 ,Alpha 变体比 Delta 前辈更精致、更强大"
+tech_energy_torpedo_ae: "阿尔法能量鱼雷"
+tech_energy_torpedo_ae_desc: "基于暗能量武器的原理，这一代能量炮将能量的负面特性集中到等离子弹丸上，快速吞噬敌方舰船的船体。"
+
+ACOT_POINT_DEFENSE_AE: "阿尔法点防御"
+SMALL_ACOT_POINT_DEFENSE_AE: "阿尔法点防御"
+MEDIUM_ACOT_POINT_DEFENSE_AE: "中型阿尔法点防御"
+ACOT_POINT_DEFENSE_AE_DESC: "这种暗能量点防御会发射集中的纯暗能量光束来抵消敌方导弹。\n\n非 PD 炮塔上添加的点防御只会向导弹开火。"
+tech_point_defense_ae: "阿尔法点防御"
+tech_point_defense_ae_desc: "这种暗能量点防御会发射集中的纯暗能量光束来抵消敌方导弹。\n\n非 PD 炮塔上添加的点防御只会向导弹开火。"
+ 
+SMALL_ACOT_MASS_DRIVER_AE: "小型阿尔法动能冲击波"
+MEDIUM_ACOT_MASS_DRIVER_AE: "中型阿尔法动能冲击波"
+LARGE_ACOT_MASS_DRIVER_AE: "大型阿尔法动能冲击波"
+ACOT_MASS_DRIVER_AE: "阿尔法动能冲击波"
+ACOT_MASS_DRIVER_AE_DESC: "阿尔法级加农炮利用内置物质发生器进一步提高射弹的效率，使其能够轻松穿透护盾。"
+tech_mass_driver_ae: "阿尔法炮"
+tech_mass_driver_ae_desc: "阿尔法级加农炮利用内置物质发生器进一步提高射弹的效率，使其能够轻松穿透护盾。"
+ 
+ACOT_AUTOCANNON_AE: "Smol阿尔法自动炮"
+MEDIUM_ACOT_AUTOCANNON_AE: "中型阿尔法自动炮"
+LARGE_ACOT_AUTOCANNON_AE: "大型阿尔法自动炮"
+ACOT_AUTOCANNON_AE_DESC: "阿尔法自动炮使用强光射弹快速击穿敌人的护盾并瞄准其船体的弱点。"
+tech_autocannons_ae: "Alpha 级瞄准传感器"
+tech_autocannons_ae_desc: "使用专门的瞄准软件更新 Delta Autocannon 来精确定位关键弱点将大大增加其伤害输出。"
+ 
+ACOT_ARTILLERY_AE: "阿尔法动能火炮"
+ACOT_ARTILLERY_AE_DESC: "Alpha 级动能火炮采用了更强的强光材料，这得益于我们卓越的设计。,这个更新的模板消除了以前火炮中存在的许多缺陷。"
+tech_kinetic_artillery_ae: "阿尔法动能火炮"
+tech_kinetic_artillery_ae_desc: "Alpha 级动能火炮采用了更强的强光材料，这得益于我们卓越的设计。,这个更新的模板消除了以前火炮中存在的许多缺陷。"
+ 
+ACOT_FLAK_CANNON_AE: "阿尔法防御矩阵"
+SMALL_ACOT_FLAK_CANNON_AE: "阿尔法防御矩阵"
+MEDIUM_ACOT_FLAK_CANNON_AE: "中型阿尔法防御矩阵"
+ACOT_FLAK_CANNON_AE_DESC: "阿尔法防御矩阵是对久经考验的德尔塔变体的改进，保留了其反攻击机功能，具有更强的火力和准确性。"
+tech_flak_batteries_ae: "阿尔法防御矩阵"
+tech_flak_batteries_ae_desc: "阿尔法防御矩阵是对久经考验的德尔塔变体的改进，保留了其反攻击机功能，具有更强的火力和准确性。"
+ 
+ACOT_MISSILE_AE: "阿尔法导弹"
+MEDIUM_ACOT_MISSILE_AE: "阿尔法导弹"
+ACOT_MISSILE_AE_DESC: "阿尔法导弹利用小型暗能量作为弹头，使其优于前几代导弹。,我们的推进器的改进也大大提高了它们的速度。"
+tech_missile_ae: "阿尔法导弹"
+tech_missile_ae_desc: "阿尔法导弹利用小型暗能量作为弹头，使其优于前几代导弹。,我们的推进器的改进也大大提高了它们的速度。"
+ 
+ACOT_TORPEDO_AE: "阿尔法鱼雷"
+ACOT_TORPEDO_MEDIUM_AE: "阿尔法鱼雷"
+ACOT_TORPEDO_AE_DESC: "阿尔法鱼雷是对三角洲鱼雷的改进，可利用极其强大的精制暗能量弹头和强光材料对敌方舰队编队造成严重破坏。"
+tech_torpedo_ae: "阿尔法鱼雷"
+tech_torpedo_ae_desc: "阿尔法鱼雷优于三角洲鱼雷，利用极其强大的精制暗能量弹头和强光材料对敌方舰队编队造成严重破坏。"
+ 
+ 
+ACOT_SWARMER_MISSILES_AE: "阿尔法集束导弹"
+ACOT_SWARMER_MISSILES_AE_DESC: "阿尔法集束导弹利用基于来源不明的极其古老的前身的原型计算系统，优于仿生传感器。"
+tech_swarmer_missile_ae: "阿尔法集束导弹"
+tech_swarmer_missile_ae_desc: "对集束导弹的 Delta 变体进行了轻微调整。,由于其与中型常规导弹的重叠性质，阿尔法 CM 很可能是同类产品的最后一代。,展望未来，军事科学家正在寻求将两种类型导弹的功能结合在一起。"
+ 
+ 
+ACOT_MISSILE_BARRAGE_AE: "阿尔法导弹拦截系统"
+ACOT_MISSILE_BARRAGE_AE_DESC: "从四联发射器发射的致命远程火箭系统，牺牲跟踪能力以增强火力。"
+tech_barrage_missile_ae: "阿尔法级MBS"
+tech_barrage_missile_ae_desc: "Delta MBS 是一个坚实的开始，现在我们进入下一个爆炸物领域。 ,Alpha 版本结合了之前版本的独创性和新 Alpha 技术带来的增强火力。"
+ 
+ACOT_MISSILE_XL_AE: "阿尔法中小型企业"
+ACOT_MISSILE_XL_AE_DESC: "强大的基于脊柱的导弹系统，可发射一对具有高跟踪能力的高速、致命精确导弹。"
+tech_xl_missile_ae: "阿尔法中小型企业"
+tech_xl_missile_ae_desc: "随着阿尔法项目的成功以及我们的爆炸和制导技术的升级。,我们现在可以将相同的原理应用于旧的 Delta 基础的 Quicksilver。,科学家们已经没有关于武器名称的想法了，所以他们进行了投票，阿尔法获胜，因为这是主导项目的想法。"
+ 
+ACOT_MISSILE_NUKE_AE: "阿尔法千兆弹头发射器"
+ACOT_MISSILE_NUKE_AE_DESC: "大型弹头发射器，旨在通过重型法令摧毁主力舰。"
+tech_missile_nuke_ae: "阿尔法千兆弹头发射器"
+tech_missile_nuke_ae_desc: "千兆弹头武器系统的下一集。,增加暗能量在混合物中的分配将产生更大的破坏力。"
+ 
+ACOT_PARTICLE_LANCE_AE: "阿尔法·兰斯"
+ACOT_PARTICLE_LANCE_AE_DESC: "暗物质和能量的改进使我们能够创造出更强大的暗能量枪。,敌人将在阿尔法长枪的负能量下燃烧。"
+tech_energy_lance_ae: "阿尔法·兰斯"
+tech_energy_lance_ae_desc: "暗物质和能量的改进使我们能够创造出更强大的暗能量枪。,敌人将在阿尔法长枪的负能量下燃烧。"
+ 
+ 
+ACOT_ARC_EMITTER_AE: "阿尔法发射器"
+ACOT_ARC_EMITTER_AE_DESC: "新星发射器改进了暗能量发射器，其可怕的光芒将像风暴一样穿透敌人的舰队，使我们家园的天空变黑。"
+tech_arc_emitter_ae: "阿尔法发射器"
+tech_arc_emitter_ae_desc: "阿尔法发射器改进了暗能量发射器，其可怕的光芒将像风暴一样穿透敌人的舰队，使我们家园的天空变黑。"
+ 
+ 
+ACOT_MASS_ACCELERATOR_AE: "阿尔法质量加速炮"
+ACOT_MASS_ACCELERATOR_AE_DESC: "阿尔法炮使用了更大的脊椎火炮平台，这得益于我们在强光和暗能量技术方面的完美。,即使是最先进的护盾也无法长时间承受这个庞然大物的直接攻击。"
+tech_mass_accelerator_ae: "阿尔法质量加速炮"
+tech_mass_accelerator_ae_desc: "阿尔法炮使用了更大的脊椎火炮平台，这得益于我们在强光和暗能量技术方面的完美。,即使是最先进的护盾也无法长时间承受这个庞然大物的直接攻击。"
+ 
+ 
+ACOT_PERDITION_BEAM_AE: "阿尔法千兆光束炮"
+ACOT_PERDITION_BEAM_AE_DESC: "顾名思义，阿尔法级加农炮发射全通道且聚焦的暗能量束，将彻底摧毁整艘船。"
+tech_perdition_beam_ae: "阿尔法千兆光束炮"
+tech_perdition_beam_ae_desc: "顾名思义，阿尔法级加农炮发射全通道且聚焦的暗能量束，将彻底摧毁整艘船。"
+ 
+ACOT_FIGHTERS_HANGAR_AE: "阿尔法战士"
+ACOT_FIGHTERS_HANGAR_AE_DESC: "这些新型拦截机配备了强大的自动加农炮，可以毫不费力地摧毁敌人的攻击艇并超载敌人的护盾。"
+ACOT_SCOUT_HANGAR_AE: "阿尔法拦截机"
+ACOT_SCOUT_HANGAR_AE_DESC: "高性能掩护机，凭借其快速射击的点防御能力，可以在短时间内消灭较小的飞船。"
+ACOT_BOMBERS_HANGAR_AE: "阿尔法轰炸机"
+ACOT_BOMBERS_HANGAR_AE_DESC: "这些新型轰炸机配备了强大的爆炸能鱼雷，可以在短时间内消灭大型船只。"
+ACOT_GUNSHIP_HANGAR_AE: "阿尔法武装直升机"
+ACOT_GUNSHIP_HANGAR_AE_DESC: "阿尔法武装直升机是专门的攻击艇，擅长为大型舰艇提供远程火力支援。,然而，它们的部署数量很少，并且需要更长的时间来加强。"
+tech_strike_craft_scout_ae: "阿尔法拦截机"
+tech_strike_craft_scout_ae_desc: "现在可以通过引入阿尔法反应堆、推进器和防御系统对攻击舰进行进一步升级。"
+tech_strike_craft_fighter_ae: "阿尔法战士"
+tech_strike_craft_fighter_ae_desc: "现在可以通过引入阿尔法反应堆、推进器和防御系统对攻击舰进行进一步升级。"
+tech_strike_craft_bomber_ae: "阿尔法轰炸机"
+tech_strike_craft_bomber_ae_desc: "现在可以通过引入阿尔法反应堆、推进器和防御系统对攻击舰进行进一步升级。"
+tech_strike_craft_gunship_ae: "阿尔法武装直升机"
+tech_strike_craft_gunship_ae_desc: "现在可以通过引入阿尔法反应堆、推进器和防御系统来进一步升级攻击舰艇"
+ 
+ACOT_MACROCANNON_AE: "阿尔法巨炮"
+ACOT_MACROCANNON_AE_MEDIUM: "阿尔法巨炮"
+ACOT_MACROCANNON_AE_DESC: "改进的弹药和瞄准系统使这款 Alpha 变体比以前更强大。"
+tech_macrocannon_ae: "阿尔法巨炮"
+tech_macrocannon_ae_desc: "巨炮虽然非常规，但在某些特殊情况下似乎非常有用。,至少足以让一些人提出进一步的改进。"
+ 
+ACOT_TITAN_EMITTER_AE: "阿尔法泰坦稳定发射器"
+ACOT_TITAN_EMITTER_AE_DESC: "与它的前身一样，这款泰坦尼克号发射器提供了穿透力，但其可靠性没有任何缺点。"
+tech_titan_emitter_ae: "阿尔法泰坦稳定发射器"
+tech_titan_emitter_ae_desc: "新的电源为已经强大的泰坦发射器带来了新的改进。"
+ 
+ACOT_TITAN_ACCELERATOR_AE: "阿尔法泰坦加速炮"
+ACOT_TITAN_ACCELERATOR_AE_DESC: "泰坦尼克号规模的质量加速器能够击中极远距离的目标，造成巨大伤害。"
+tech_titan_accelerator_ae: "四轴加速器铁路"
+tech_titan_accelerator_ae_desc: "随着先进的强光工程的出现，现在可以安全地将轨道炮加速器加倍，而不会冒船体损坏的风险。"
+ 
+######## ARMOR HERE
+SMALL_ACOT_ARMOR_AE: "小型阿尔法硬轻型装甲"
+MEDIUM_ACOT_ARMOR_AE: "中型阿尔法硬轻型装甲"
+LARGE_ACOT_ARMOR_AE: "大型阿尔法硬轻型装甲"
+ACOT_ARMOR_AE: "阿尔法硬轻型装甲"
+ACOT_ARMOR_AE_DESC: "由于额外引导的暗能量，阿尔法硬光装甲具有更大的密度。"
+tech_armor_ae: "阿尔法硬轻型装甲"
+tech_armor_ae_desc: "由于额外引导的暗能量，阿尔法硬光装甲具有更大的密度。"
+ 
+#####
+
+SMALL_ACOT_ENIGMATIC_SHIELD_AE: "小型阿尔法能量护盾"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_AE: "中型阿尔法能量护盾"
+LARGE_ACOT_ENIGMATIC_SHIELD_AE: "大型阿尔法能量护盾"
+ACOT_ENIGMATIC_SHIELD_AE: "阿尔法能量护盾"
+ACOT_ENIGMATIC_SHIELD_AE_DESC: "阿尔法能量护盾比德尔塔变种更强，因为它对暗物质的认识较少，而对暗能量的认识较多。"
+tech_dark_matter_deflector_ae: "阿尔法暗能量护盾"
+tech_dark_matter_deflector_ae_desc: "阿尔法能量护盾比德尔塔变种更强，因为它对暗物质的认识较少，而对暗能量的认识较多。"
+ 
+#####
+
+SMALL_ACOT_HULL_POWER_AE: "小 Alpha HLP 镀层"
+MEDIUM_ACOT_HULL_POWER_AE: "中等 Alpha HLP 镀层"
+LARGE_ACOT_HULL_POWER_AE: "大型 Alpha HLP 镀层"
+ACOT_HULL_POWER_AE: "Alpha HLP 电镀"
+ACOT_HULL_POWER_AE_DESC: "硬光是一种由纯固体光构成的动态材质。,完全形成时，它比中子密度更大、硬度更高。"
+tech_hull_power_ae: "Alpha 强光电源电镀"
+tech_hull_power_ae_desc: "提出的比较奇特的概念之一是一石二鸟的想法，同时解决船舶日益苛刻的功耗和船体完整性的问题。,过去，试图解决这些问题通常会导致成本大幅增加或船舶整体物理形状的改变，从而使其不可行。,但通过对维度空间进行一些修改，也许可以创造出一种新型的船体板，它不仅可以提高耐用性，而且还可以在不损害船舶挂载点的情况下兼作强大的发电机。"
+
+######## OTHER STUFFS HERE
+ACOT_SHIP_THRUSTER_AE: "阿尔法推进器"
+ACOT_SHIP_THRUSTER_AE_DESC: "这种原始且完全优化的暗能量推进系统可能是银河系中最强的推进器，轻松超越前几代。"
+ 
+DESTROYER_SHIP_THRUSTER_AE: "阿尔法推进器"
+DESTROYER_SHIP_THRUSTER_AE_DESC: "这种原始且完全优化的暗能量推进系统可能是银河系中最强的推进器，轻松超越前几代。"
+ 
+CRUISER_SHIP_THRUSTER_AE: "阿尔法推进器"
+CRUISER_SHIP_THRUSTER_AE_DESC: "这种原始且完全优化的暗能量推进系统可能是银河系中最强的推进器，轻松超越前几代。"
+ 
+BATTLESHIP_SHIP_THRUSTER_AE: "阿尔法推进器"
+BATTLESHIP_SHIP_THRUSTER_AE_DESC: "这种原始且完全优化的暗能量推进系统可能是银河系中最强的推进器，轻松超越前几代。"
+ 
+TITAN_SHIP_THRUSTER_AE: "阿尔法推进器"
+TITAN_SHIP_THRUSTER_AE_DESC: "这种原始且完全优化的暗能量推进系统可能是银河系中最强的推进器，轻松超越前几代。"
+ 
+COLOSSUS_SHIP_THRUSTER_AE: "阿尔法推进器"
+COLOSSUS_SHIP_THRUSTER_AE_DESC: "这种原始且完全优化的暗能量推进系统可能是银河系中最强的推进器，轻松超越前几代。"
+ 
+tech_thrusters_ae: "暗物质推进改进"
+tech_thrusters_ae_desc: "堕落帝国使用的推进器相当古老，而且远没有想象中那么强大。,如果我们能够改进这些推进器的内部工作原理，我们将能够带回与我们的动力相称的真正强大的船舶发动机。"
+TECH_UNLOCK_AE_THRUSTER_TITLE: "§H解锁组件：§!,阿尔法推进器"
+TECH_UNLOCK_AE_THRUSTER_DESC: "§HAlpha 推进器§!\n这种原始且完全优化的暗能量推进系统可能是银河系中最强的推进器，轻松超越前几代。"
+ 
+ 
+CORVETTE_DARK_MATTER_REACTOR_AE: "阿尔法反应堆"
+CORVETTE_DARK_MATTER_REACTOR_AE_DESC: "阿尔法神秘反应堆在第一代德尔塔反应堆的基础上进行了改进，重新调整了暗物质和暗能量之间的平衡，创造了一个更强大的发电机。"
+ 
+DESTROYER_DARK_MATTER_REACTOR_AE: "阿尔法反应堆"
+DESTROYER_DARK_MATTER_REACTOR_AE_DESC: "阿尔法神秘反应堆在第一代德尔塔反应堆的基础上进行了改进，重新调整了暗物质和暗能量之间的平衡，创造了一个更强大的发电机。"
+ 
+CRUISER_DARK_MATTER_REACTOR_AE: "阿尔法反应堆"
+CRUISER_DARK_MATTER_REACTOR_AE_DESC: "阿尔法神秘反应堆在第一代德尔塔反应堆的基础上进行了改进，重新调整了暗物质和暗能量之间的平衡，创造了一个更强大的发电机。"
+ 
+BATTLESHIP_DARK_MATTER_REACTOR_AE: "阿尔法反应堆"
+BATTLESHIP_DARK_MATTER_REACTOR_AE_DESC: "阿尔法神秘反应堆在第一代德尔塔反应堆的基础上进行了改进，重新调整了暗物质和暗能量之间的平衡，创造了一个更强大的发电机。"
+ 
+TITAN_DARK_MATTER_REACTOR_AE: "阿尔法反应堆"
+TITAN_DARK_MATTER_REACTOR_AE_DESC: "阿尔法神秘反应堆在第一代德尔塔反应堆的基础上进行了改进，重新调整了暗物质和暗能量之间的平衡，创造了一个更强大的发电机。"
+ 
+COLOSSUS_DARK_MATTER_REACTOR_AE: "阿尔法反应堆"
+COLOSSUS_DARK_MATTER_REACTOR_AE_DESC: "阿尔法神秘反应堆在第一代德尔塔反应堆的基础上进行了改进，重新调整了暗物质和暗能量之间的平衡，创造了一个更强大的发电机。"
+ 
+PLATFORM_DARK_MATTER_REACTOR_AE: "阿尔法反应堆"
+PLATFORM_DARK_MATTER_REACTOR_AE_DESC: "阿尔法神秘反应堆在第一代德尔塔反应堆的基础上进行了改进，重新调整了暗物质和暗能量之间的平衡，创造了一个更强大的发电机。"
+ 
+ION_CANNON_DARK_MATTER_REACTOR_AE: "阿尔法反应堆"
+ION_CANNON_DARK_MATTER_REACTOR_AE_DESC: "阿尔法神秘反应堆在第一代德尔塔反应堆的基础上进行了改进，重新调整了暗物质和暗能量之间的平衡，创造了一个更强大的发电机。"
+ 
+STARBASE_DARK_MATTER_REACTOR_AE: "阿尔法反应堆"
+STARBASE_DARK_MATTER_REACTOR_AE_DESC: "阿尔法神秘反应堆在第一代德尔塔反应堆的基础上进行了改进，重新调整了暗物质和暗能量之间的平衡，创造了一个更强大的发电机"
+ 
+tech_dark_matter_power_core_ae: "Alpha级神秘力量"
+tech_dark_matter_power_core_ae_desc: "Delta Technologies 为我们提供了许多有关暗能量技术潜在未来的见解。,尽管我们有更多的理由相信，先前关于暗物质和暗能量联系在一起的假设可能并不完全准确，但这个名字已经出现，所以我们暂时仍将其称为暗能量。,不管怎样，我们的科学家希望从一个新的、全新的角度开始，所以反应堆的下一阶段的代号将是§H“Alpha”§!。,此版本将看到更多地使用暗能量 SR 来平衡暗物质。\n\n§R研究这项技术可能会激怒没落的帝国，因为我们基本上将在技术上超越他们。§!"
+TECH_UNLOCK_DARK_MATTER_POWER_AE_TITLE: "§H解锁组件：§!,阿尔法神秘反应堆"
+TECH_UNLOCK_DARK_MATTER_POWER_AE_DESC: "§HAlpha 神秘反应堆§!\nAlpha 神秘反应堆在第一代 Delta 反应堆的基础上进行了改进，重新调整了暗物质和暗能量之间的平衡，创造了一个更强大的发电机。"
+ 
+######################################################################################
+###
+#####################################################################################
+ 
+AE_OFFENSIVE_COMBAT_COMPUTER: "进攻性仿生战斗计算机（小型舰艇）"
+AE_OFFENSIVE_COMBAT_COMPUTER_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机（或合成）操作员与舰艇德尔斐计算机之间形成强大的联系。,该网络允许在几乎没有停机时间的情况下发出命令。,这个特殊版本针对进攻战术进行了优化。"
+ 
+AE_BALANCE_COMBAT_COMPUTER: "平衡仿生战斗计算机（小型船舶）"
+AE_BALANCE_COMBAT_COMPUTER_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机（或合成）操作员与舰艇德尔斐计算机之间形成强大的联系。,该网络允许在几乎没有停机时间的情况下发出命令。"
+ 
+AE_DEFENSIVE_COMBAT_COMPUTER: "防御性仿生战斗计算机（小型舰艇）"
+AE_DEFENSIVE_COMBAT_COMPUTER_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机（或合成）操作员与舰艇德尔斐计算机之间形成强大的联系。,该网络允许在几乎没有停机时间的情况下发出命令。,这个特殊版本针对防御战术进行了优化。"
+ 
+AE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "进攻性仿生战斗计算机（大型舰艇）"
+AE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机（或合成）操作员与舰艇德尔斐计算机之间形成强大的联系。,该网络允许在几乎没有停机时间的情况下发出命令。,这个特殊版本针对进攻战术进行了优化。"
+ 
+AE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "平衡仿生战斗计算机（大型船舶）"
+AE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机（或合成）操作员与舰艇德尔斐计算机之间形成强大的联系。,该网络允许在几乎没有停机时间的情况下发出命令。"
+ 
+AE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "防御性仿生战斗计算机（大型船舶）"
+AE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机（或合成）操作员与舰艇德尔斐计算机之间形成强大的联系。,该网络允许在几乎没有停机时间的情况下发出命令。,这个特殊版本针对防御战术进行了优化。"
+ 
+AE_OFFENSIVE_COMBAT_COMPUTER_TITAN: "进攻性仿生战斗计算机（泰坦尼克号）"
+AE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机（或合成）操作员与舰艇德尔斐计算机之间形成强大的联系。,该网络允许在几乎没有停机时间的情况下发出命令。,这个特殊版本针对进攻战术进行了优化。"
+ 
+AE_BALANCE_COMBAT_COMPUTER_TITAN: "平衡仿生战斗计算机（泰坦尼克号）"
+AE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机（或合成）操作员与舰艇德尔斐计算机之间形成强大的联系。,该网络允许在几乎没有停机时间的情况下发出命令。"
+ 
+AE_DEFENSIVE_COMBAT_COMPUTER_TITAN: "防御性仿生战斗计算机（泰坦尼克号）"
+AE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机（或合成）操作员与舰艇德尔斐计算机之间形成强大的联系。,该网络允许在几乎没有停机时间的情况下发出命令。,这个特殊版本针对防御战术进行了优化。"
+ 
+AE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "进攻性仿生战斗计算机（主力舰）"
+AE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机（或合成）操作员与舰艇德尔斐计算机之间形成强大的联系。,该网络允许在几乎没有停机时间的情况下发出命令。,这个特殊版本针对进攻战术进行了优化。"
+ 
+AE_BALANCE_COMBAT_COMPUTER_GOLIATH: "平衡仿生战斗计算机（主力舰）"
+AE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机（或合成）操作员与舰艇德尔斐计算机之间形成强大的联系。,该网络允许在几乎没有停机时间的情况下发出命令。"
+ 
+AE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "防御性仿生战斗计算机（主力舰）"
+AE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机（或合成）操作员与舰艇德尔斐计算机之间形成强大的联系。,该网络允许在几乎没有停机时间的情况下发出命令。,这个特殊版本针对防御战术进行了优化。"
+ 
+AE_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "进攻性仿生战斗计算机（站）"
+AE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机（或合成）操作员与舰艇德尔斐计算机之间形成强大的联系。,该网络允许在几乎没有停机时间的情况下发出命令。,这个特殊版本针对进攻战术进行了优化。"
+ 
+AE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "防御性仿生战斗计算机（平台站 XBOX One）"
+AE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机（或合成）操作员与舰艇德尔斐计算机之间形成强大的联系。,该网络允许在几乎没有停机时间的情况下发出命令。,这个特殊版本针对防御战术进行了优化。"
+ 
+TECH_UNLOCK_BIONIC_COMPUTER_TITLE: "§H解锁组件：§!,仿生接口作战计算机"
+TECH_UNLOCK_BIONIC_COMPUTER_DESC: "一种独特的战斗计算机，在有机、合成和德尔菲网络之间形成仿生联系。,它不受所有入侵尝试的影响，并拥有无与伦比的战斗算法。"
+tech_bionic_interface: "仿生接口系统"
+tech_bionic_interface_desc: "结合有机思维和合成思维的特点，为新一代战斗计算机开辟了新的可能性。"
+ 
+######################################################
+
+AE_NAVY_ENGINEER_OFFICER: "硕士工程师研讨会"
+AE_NAVY_ENGINEER_OFFICER_UTILITY: "硕士工程师研讨会"
+AE_NAVY_ENGINEER_OFFICER_DESC: "专门为总工程师及其船员维护船舶、提高船舶耐用性和维修能力的研讨会。"
+tech_onbaord_engineer: "船上工程人员"
+tech_onbaord_engineer_desc: "通过在我们的船上分配更多的工程人员，我们现在可以高枕无忧，因为我们知道我们的船体将为即将到来的战斗进行安全维修，并减少维护我们的船舶系统所需的维护成本。"
+AE_NAVY_ENGINEER_OFFICER_TOOLTIP: "§Y快速打捞：§!,装有此组件的飞船击杀后，它会修复§G25%§！,其船体，具有 §Y10%§!,有机会完全恢复船体。,该船还获得§G10%§!,增加船体和装甲的再生时间，持续 10 天。\n\n§Y安全反应堆：§!,该组件赋予对干扰脉冲特殊武器的免疫力。"
+
+#################
+
+AE_NAVY_COMMMISSAR_OFFICER: "海军政委办公室"
+AE_NAVY_COMMMISSAR_OFFICER_UTILITY: "海军政委办公室"
+AE_NAVY_COMMMISSAR_OFFICER_DESC: "专门供海军政委对船员发挥纪律魔法的办公室。,在他们的监督下，在最高指挥部下达命令之前，任何人都不会撤退。"
+tech_navy_commissar: "舰队政委视察"
+tech_navy_commissar_desc: "我们的舰队上将必须体现我们卓越的舰船设计。,我们将训练特别政委并将他们分配到我们的舰队中。,我们不会在敌人面前表现出软弱和怯懦！,我们的船只不会在敌人面前动摇。"
+AE_NAVY_COMMMISSAR_OFFICER_TOOLTIP: “§Y无情：§!配备此组件的舰船击杀后，将获得额外的§G25%§!射速提升，持续 30 天。\n\n§Y至最后：§!海军政委授予额外的§G25% ,§! 帝国的火速增加是军国主义的。”
+
+#################
+
+AE_PRIEST_OFFICER: "虚空牧师冥想室"
+AE_PRIEST_OFFICER_UTILITY: "虚空牧师冥想室"
+AE_PRIEST_OFFICER_DESC: "虚空牧师增强了他们所分配到的舰船的决心，提高了他们在战斗和超光速系统中的精确度。"
+tech_onboard_priest: "虚空祭司"
+tech_onboard_priest_desc: "尽管海军中有一些信仰宗教的男女，但我们还没有组织一个适当的宗教人物教派来直接在船上服务。,通过一些资金和训练，我们可以通过指派牧师在海军上服役来为我们的海军增添强大的力量。"
+AE_PRIEST_OFFICER_TOOLTIP: "§Y对教会的信仰：§!,只要帝国仍然致力于招魂术，该组件的所有奖励调整值都会加倍。\n\n§Y复仇者：§!,当具有该组件的船舶被摧毁时，所有其他具有该组件的船舶都会获得§G15%§！ ,30 天的伤害加成。,附带此组件时，此效果会加倍。,仅当帝国是通灵者时才有效。"
+
+################# 
+
+AE_PSI_MENTAT_OFFICER: "门塔特协调员室"
+AE_PSI_MENTAT_OFFICER_UTILITY: "门塔特协调员室"
+AE_PSI_MENTAT_OFFICER_DESC: "门泰特协调员用他们巨大的战斗冥想技术来支持这艘船，掩盖这艘船的能量特征，增强他们的机动性，并用他们自己的灵能屏障技术增强这艘船的护盾。"
+ 
+TECH_UNLOCK_PSI_COMPUTER_TITLE: "§H解锁组件：§!,门塔特协调员室"
+TECH_UNLOCK_PSI_COMPUTER_DESC: "“门塔特协调员用他们巨大的战斗冥想技术来支持这艘船，掩盖这艘船的能量特征，增强他们的机动性，并用他们自己的灵能屏障技术增强这艘船的护盾。"
+tech_ae_psi_computer: "门泰特协调员"
+tech_ae_psi_computer_desc: "机器并不总是可靠的，无论它们多么先进。,精神高于物质。,我们将训练一批强大的心灵术士成为门泰特，他们擅长提供额外的保护、增强的机动性和增加的躲避能力。,他们将在一个专门的灵能室中工作，该室占据了船内单个辅助模块的空间。"
+ 
+#################
+ 
+AE_HIVE_OVERSEER_OFFICER: "霸主战略家巢穴"
+AE_HIVE_OVERSEER_OFFICER_UTILITY: "霸主战略家巢穴"
+AE_HIVE_OVERSEER_OFFICER_DESC: "霸主战略家是半智能的战场指挥官，可以在不依赖更高实体的情况下发布自己的命令。,他们增强船舶瞄准系统的能力非常有价值。"
+
+TECH_UNLOCK_HIVE_COMPUTER_TITLE: "§H解锁组件：§!,霸主战略家巢穴"
+TECH_UNLOCK_HIVE_COMPUTER_DESC: "霸主战略家是半智能的战场指挥官，可以在不依赖更高实体的情况下发布自己的命令。,他们增强船舶瞄准系统的能力非常有价值。"
+tech_ae_hive_computer: "船上蜂巢霸主"
+tech_ae_hive_computer_desc: "蜂巢长期以来一直依靠机器和一组特殊无人机来操作太空飞船，但这些效率低下，并且会耗尽蜂巢的浓度。,可以制定一个方案，让霸主充当半独立的战场指挥官，以增强现有的作战计算机。"
+ 
+######################################################
+ 
+ACOT_AFTERBURNERS_AE: "阿尔法加力燃烧室"
+ACOT_AFTERBURNERS_AE_DESC: "在这种情况下，仅靠推进器仍然不足以让船走得更快。,阿尔法加力燃烧室可用于提高船舶的最高速度。"
+ACOT_AFTERBURNERS_AURA_AE: "Alpha子空间放大器"
+ACOT_AFTERBURNERS_AURA_AE_DESC: "用于帮助提高舰队亚光速速度的专用组件。"
+tech_darkmatter_afterburners_ae: "Alpha 级加力燃烧室"
+tech_darkmatter_afterburners_ae_desc: "在这种情况下，仅靠推进器仍然不足以让船走得更快。,阿尔法加力燃烧室可用于提高船舶的最高速度。"
+ 
+ACOT_HYPERCHARGED_JUMPER_AE: "增压超光速放大器"
+ACOT_HYPERCHARGED_JUMPER_AE_DESC: "可以在跳跃驱动器的模块化涡轮机上安装额外的辅助放大器，以提高其性能。,然而，该模块从 FTL 组件获取电力，并将减慢飞船的 FTL 结束时间。"
+ACOT_HYPERCHARGED_JUMPER_AURA_AE: "跳跃稳定器"
+ACOT_HYPERCHARGED_JUMPER_AURA_AE_DESC: "跳跃稳定器可以安装在带有适当模块的主力舰上，以增加舰队的跳跃范围。"
+tech_darkmatter_hyper_jump_drive_ae: "高级超空间驱动增强"
+tech_darkmatter_hyper_jump_drive_ae_desc: "额外的辅助放大器可以安装在 FTL 驱动器的模块化涡轮机上，以提高其性能。,然而，该模块从 FTL 系统获取电力，并将减慢船舶的 FTL 结束时间。"
+friendly_jumpdrive_aura: "跳跃稳定器"
+friendly_jumpdrive_aura_desc: "增加舰队的跳跃范围。"
+ 
+ACOT_REPAIR_COUNTERMEASURES_AE: "阿尔法反应对抗无人机"
+ACOT_REPAIR_COUNTERMEASURES_AE_DESC: "阿尔法级反应对抗无人机提供更高的装甲抵抗力和更强的维修能力。"
+ACOT_REPAIR_COUNTERMEASURES_AURA_AE: "阿尔法舰队 RCD"
+ACOT_REPAIR_COUNTERMEASURES_AURA_AE_DESC: "用于容纳大型 RCD 网络以支持车队的专用组件。,效率不如单艘船舶的 RCD 系统，但在大型舰队中非常有用。"
+tech_darkmatter_reactive_drone_ae: "阿尔法反应对抗系统"
+tech_darkmatter_reactive_drone_ae_desc: "将有限的德尔斐智能应用到无人机上，以读取船舶技术人员的仿生链接，应该会使它们以更高的效率运行。"
+TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_AE_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_REPAIR_COUNTERMEASURES_AE$"
+TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_AE_DESC: "$ACOT_REPAIR_COUNTERMEASURES_AE_DESC$"
+ 
+ACOT_REACTOR_BOOSTER_AE: "Alpha 辅助功率放大器"
+ACOT_REACTOR_BOOSTER_AE_DESC: "如果主反应堆功率不够，AAPA 可以提供额外的备用电源。,与 Delta 变体非常相似，如果存在护盾，放大器也可以提供小幅度的船舶性能提升和护盾再生系数。"
+ACOT_REACTOR_BOOSTER_AURA_AE: "Alpha Supra 放大器"
+ACOT_REACTOR_BOOSTER_AURA_AE_DESC: "该船可以利用空间安装额外的 APA，而不需要额外的电源，以代替典型的光环组件。"
+tech_darkmatter_reactor_booster_ae: "Alpha级辅助功率放大器"
+tech_darkmatter_reactor_booster_ae_desc: "如果主反应堆功率不够，AAPA 可以提供额外的备用电源。,与 Delta 变体非常相似，如果存在护盾，放大器也可以提供小幅度的船舶性能提升和护盾再生系数。"
+ 
+ACOT_SHIELD_BOOSTER_AE: "阿尔法增压屏障"
+ACOT_SHIELD_BOOSTER_AE_DESC: "增压护盾可以提高舰船护盾发生器的效能，但会消耗电力。,它还为护盾提供硬化效果。"
+ACOT_SHIELD_BOOSTER_AURA_AE: "阿尔法盾群"
+ACOT_SHIELD_BOOSTER_AURA_AE_DESC: "增压护盾辅助单元的特殊变体，牺牲局部力量以获得更广泛的效果。"
+tech_darkmatter_shield_supercharger_ae: "阿尔法增压屏障"
+tech_darkmatter_shield_supercharger_ae_desc: "增压护盾可以提高舰船护盾发生器的效能，但会消耗电力。,它还为护盾提供硬化效果。"
+TECH_UNLOCK_ACOT_SHIELD_BOOSTER_AE_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_SHIELD_BOOSTER_AE$"
+TECH_UNLOCK_ACOT_SHIELD_BOOSTER_AE_DESC: "$ACOT_SHIELD_BOOSTER_AE_DESC$"
+ 
+ACOT_ARMOR_BOOSTER_AE: "Alpha 增强动能屏障"
+ACOT_ARMOR_BOOSTER_AE_DESC: "增强型动能屏障可提高舰船的装甲及其动能吸收能力，并提供硬化效果。"
+ACOT_ARMOR_BOOSTER_AURA_AE: "阿尔法动能屏障群"
+ACOT_ARMOR_BOOSTER_AURA_AE_DESC: "动能屏障辅助单元的特殊变体，牺牲局部力量以获得更广泛的效果。"
+tech_darkmatter_armor_supercharger_ae: "Alpha 增强动能屏障"
+tech_darkmatter_armor_supercharger_ae_desc: "增强型动能屏障可提高舰船的装甲及其动能吸收能力，并提供硬化效果。"
+TECH_UNLOCK_ACOT_ARMOR_BOOSTER_AE_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_ARMOR_BOOSTER_AE$"
+TECH_UNLOCK_ACOT_ARMOR_BOOSTER_AE_DESC: "$ACOT_ARMOR_BOOSTER_AE_DESC$"
+ 
+ACOT_STARCHARTER_AE: "阿尔法星宪章"
+ACOT_STARCHARTER_AE_DESC: "一个特殊的辅助室，包含多个传感器单元，可扩展船舶的传感器，用于系统导航和武器跟踪。"
+ACOT_STARCHARTER_AURA_AE: "阿尔法哨兵网络"
+ACOT_STARCHARTER_AURA_AE_DESC: "星宪章模块的另一种变体，可以增强整个舰队的跟踪。"
+tech_darkmatter_star_charter_ae: "阿尔法星包机模块"
+tech_darkmatter_star_charter_ae_desc: "一个特殊的辅助室，包含多个传感器单元，可扩展船舶的传感器，用于系统导航和武器跟踪。"
+ 
+ACOT_AURA_TECH_INHIBITOR_AE: "神秘的网络抑制剂"
+ACOT_AURA_TECH_INHIBITOR_AE_DESC: "这种强大的装置会干扰敌方系统，消除他们的力量并将其赋予盟军船只。,你所有的权力都属于我们。"
+tech_darkmatter_aura_energy_drainer_ae: "神秘的网络抑制剂"
+tech_darkmatter_aura_energy_drainer_ae_desc: "这种强大的装置会干扰敌方系统，消除他们的力量并将其赋予盟军船只。,你所有的权力都属于我们。"
+TECH_UNLOCK_ENERGY_DRAINER_AE_TITLE: "§H解锁组件：§!,神秘的网络抑制剂"
+TECH_UNLOCK_ENERGY_DRAINER_AE_DESC: "§H神秘的网络抑制剂§!\n这种强大的装置会干扰敌方系统，消除他们的力量并将其赋予盟军船只。,你所有的权力都属于我们。"
+ 
+ACOT_SENSOR_AE: "阿尔法传感器"
+ACOT_SENSOR_AE_DESC: "使用仿生链接技术来检测敌方船只的先进传感器。,该系统可以检测有机物和无机物。"
+tech_sensor_ae: "阿尔法传感器"
+tech_sensor_ae_desc: "使用仿生链接技术来检测敌方船只的先进传感器。,该系统可以检测有机物和无机物。"
+TECH_UNLOCK_FE_SENSOR_TITLE: "§H解锁组件：§!,仿生传感器"
+TECH_UNLOCK_FE_SENSOR_DESC: "§HBionic 传感器§!\n$FE_SENSOR_SHIP$"
+
+ACOT_ENIGMATIC_DRIVE_AE: "阿尔法易位器驱动器"
+ACOT_ENIGMATIC_DRIVE_AE_DESC: "新一代 Translocator Drive 比 Delta Variant 更好，提供更强大的 FTL 穿越能力和更强大的跳跃系统。"
+tech_enigmatic_drive_ae: "高级易位"
+tech_enigmatic_drive_ae_desc: "由于我们收集并解决了许多维度异常的潜在风险，现在可以对易位方法进行改进。"
+TECH_UNLOCK_ENIG_DRIVE: "§H解锁组件：§!,阿尔法易位器驱动器"
+TECH_UNLOCK_ENIG_DRIVE_DESC: "§HAlpha 易位器驱动器§!\n$ENIGMATIC_DRIVE_DESC$"
+ 
+#####WEAPON CORES###
+ 
+ACOT_WEAPON_CORE_AE: "超混合武器校准器"
+ACOT_WEAPON_CORE_AE_DESC: "协同使用其他战略资源可以对舰船武器系统进行相当非正统但有效的校准。,然而，这些系统中的挥发性混合物可能会降低船体强度。"
+tech_weapon_core_ae: "超混合武器校准器"
+tech_weapon_core_ae_desc: "协同使用其他战略资源可以对舰船武器系统进行相当非正统但有效的校准。,然而，这些系统中的挥发性混合物可能会降低船体强度。"
+
+ACOT_WEAPON_EXPLOSIVE_CORE_AE: "高爆导弹有效载荷"
+ACOT_WEAPON_EXPLOSIVE_CORE_AE_DESC: "所有标准配备的导弹武器系统都可以通过专用辅助系统进行增强，以进一步提高其火力。"
+tech_missile_core_ae: "高爆导弹有效载荷"
+tech_missile_core_ae_desc: "所有标准配备的导弹武器系统都可以通过专用辅助系统进行增强，以进一步提高其火力。"
+ 
+ACOT_WEAPON_KINETIC_CORE_AE: "强光动能有效载荷"
+ACOT_WEAPON_KINETIC_CORE_AE_DESC: "一个复杂的微型工厂，可以快速生产更强、更快的强光弹药。"
+tech_kinetic_core_ae: "强光弹丸动力系统"
+tech_kinetic_core_ae_desc: "硬光材料非常耐用且生产速度快。,如果我们愿意投入操作它们所需的额外动力，也许它们可以用作我们火炮的动能炮弹。"
+ 
+ACOT_WEAPON_ENERGY_CORE_AE: "能量计数器畸变流形"
+ACOT_WEAPON_ENERGY_CORE_AE_DESC: "这个微球体蕴藏着强大的神秘能量，可以通过弯曲时空和违反各种物理定律来直接改进飞船的能量武器系统。"
+tech_energy_core_ae: "能量计数器畸变矩阵"
+tech_energy_core_ae_desc: "大多数能量武器都会因重力而变形，导致它们失去焦点且不稳定。,随着能够弯曲时空并抵消一切扭曲效应的球形装置的发明，我们的能量武器将发挥更大的潜力。"
+ 
+ACOT_WEAPON_FIGHTER_CORE_AE: "高性能机库支持"
+ACOT_WEAPON_FIGHTER_CORE_AE_DESC: "用专用的高性能维护辅助设备升级传统机库将大大提高航母在战斗中管理和维护攻击机的能力。"
+tech_fighter_core_ae: "高性能机库支持"
+tech_fighter_core_ae_desc: "用专用的高性能维护辅助设备升级传统机库将大大提高航母在战斗中管理和维护攻击机的能力。"
+ 
+tech_darkmatter_stealth_generator_ae: "阿尔法隐形发电机"
+tech_darkmatter_stealth_generator_ae_desc: "更好的隐形技术带来了许多新的有趣的策略。,很快，我们将能够设计出除了立即突然袭击之外还有用的隐形机制。"
+tech_darkmatter_stealth_dimensional: "维度阶段"
+tech_darkmatter_stealth_dimensional_desc: "与新的隐身技术相关的是维度定相。,一种新的隐身方法，涉及将真实空间之外的飞船移入口袋维度，使飞船几乎不可能被探测到，除非有最强的探测。,这有一个缺点，因为分阶段要求船舶是无形的，装甲甚至船体可能不依赖。"
+
+
+ACOT_CLOAKING_LIGHT_AE_TOOLTIP: "§ELight 隐形发生器在交战时没有护盾惩罚，但提供有限的隐形能力。§!\n\n"
+ACOT_CLOAKING_HEAVY_AE_TOOLTIP: "$CLOAKING_SHIELD_REDUCTION_HEADER$ §R80%§!\n\n§E$SHIP_SHIELD_REDUCTION_CLOAKING$ 如果配备至少 Delta 级的护盾增幅器辅助组件，可减少一半。§!\n\n"
+
+ACOT_CLOAKING_LIGHT_AE: "阿尔法光隐形发生器"
+ACOT_CLOAKING_LIGHT_AE_DESC: "阿尔法光隐形发生器"
+ACOT_CLOAKING_FULL_AE: "阿尔法超级隐形发电机"
+ACOT_CLOAKING_FULL_AE_DESC: "阿尔法超级隐形发电机"
+ 
+##############PSIO STUFFIOSU
+ 
+SHROUD_DRIVE: "寿衣跳跃驱动器"
+SHROUD_DRIVE_DESC: "这件神秘的神器在飞船和裹尸布实体之间形成了契约。,实体赋予我们的船只极其强大的跳跃技术，但代价是增加能量和矿物。,如果他们的船被摧毁，船员们的灵魂也必须掷骰子。,如果骰子掷平，他们就会平静地死去，但如果运气不佳，他们就会被吞噬，留下的只是疯狂和堕落的无形实体。"
+tech_shroud_jump_drive: "暗影渡轮"
+tech_shroud_jump_drive_desc: "裹尸布实体再次与我们取得联系。,这个自称为“影子渡轮”，它提供了一个非常简单的交易；,中等能源和矿物的最佳船舶航行方法。,对于裹尸布实体来说这是一个相当简单的交易。,唯一需要注意的是，如果这艘船被摧毁，船上人们的灵魂会掷骰子，被实体吞噬，或者给予死亡安宁。"
+TECH_UNLOCK_SHROUDDRIVE: "§H解锁组件：§!,寿衣跳跃驱动器"
+TECH_UNLOCK_SHROUDDRIVE_DESC: "§H护罩跳跃驱动器§!\n$SHROUD_DRIVE_DESC$"
+ 
+tech_shroud_barrier: "痛苦的女主人"
+tech_shroud_barrier_desc: "我们的裹尸布心灵术士设法与一个更加隐秘的裹尸布盟约者取得联系，后者自称为痛苦之母。,她提出了一项小协议，放置一件特殊的神器，将我们船只受到的伤害与她的无形体联系起来，这样她就可以再次体验痛苦的快乐。,这是一个奇特的契约，与我们所知道的其他契约不同，但似乎基本上是无害的。"
+ 
+ACOT_SHROUD_BARRIER: "裹尸布灵能屏障"
+SMALL_ACOT_SHROUD_BARRIER: "小型护罩灵能屏障"
+MEDIUM_ACOT_SHROUD_BARRIER: "中型护罩灵能屏障"
+LARGE_ACOT_SHROUD_BARRIER: "大型护罩灵能屏障"
+ACOT_SHROUD_BARRIER_DESC: "痛苦女主人要求她遭受更多致命伤害，而我们将满足她的愿望。,这些屏障很坚固，但其挥之不去的影响会降低船体的质量，因此我们必须小心，不要破坏我们试图保护的东西。"
+
+ACOT_PSIONIC_REPEL: "驱尸布"
+ACOT_PSIONIC_REPEL_DESC: "与痛苦女主人签订的强大契约使我们能够暂时建立一个强大的屏障，该屏障只能持续片刻，足以吸收一些伤害。"
+
+ACOT_PSI_STORM: "裹尸布风暴"
+ACOT_PSI_STORM_DESC: "我们将对敌人的仇恨转化为非常强大的死亡风暴。,力量！,无限力量！！！"
+ 
+ACOT_CLOUDBALL_SHROUD: "灵能奴隶"
+ACOT_CLOUDBALL_SHROUD_DESC: "受我们意志支配的小型灵能云。,它会震惊并鞭打敌人。"
+ 
+ACOT_MISSILE_SHROUD_XL: "裹尸布群"
+ACOT_MISSILE_SHROUD_XL_DESC: "凭借我们对灵能的掌握，我们现在可以迫使较小的裹尸布实体将其力量借给我们的意志。,但由于它是 XL 老虎机，我们可以一次扔出六个，很棒吧？"
+ 
+ACOT_MISSILE_SHROUD: "护罩螺栓"
+ACOT_MISSILE_SHROUD_DESC: "凭借我们对灵能的掌握，我们现在可以迫使较小的裹尸布实体将其力量借给我们的意志。"
+ 
+tech_shroud_missile: "具有约束力的遗嘱"
+tech_shroud_missile_desc: "我们已经开始掌握真正的灵能，并且正在快速学习如何控制较小的裹尸布实体。,我们可以利用它们的力量来制造出强大的灵能螺栓，这些螺栓是由纯粹的破坏性意志制成的。"
+ 
+tech_shroud_hanger: "死亡之球"
+tech_shroud_hanger_desc: "强者凌驾于弱者之上，这是天性。,尽管我们还不了解裹尸布的真正本质，但我们对它的居民已经足够了解了。,以我们现在的力量，应该能够主宰虚空中的一些低等生物，让他们为我们的事业服务。"
+ 
+tech_shroud_storm: "毁灭之风"
+tech_shroud_storm_desc: "主人发出命令，裹尸布必须响应号召。,敌人将被我们可怕的力量蒸发。"
+ 
+#################
+ 
+tech_reinforced_starbase: "Delta 级星际基地镀层"
+tech_reinforced_starbase_desc: "随着武器变得越来越致命、越来越强大，我们的空间站对付它们的效率也越来越低。,通过用额外的强光材料补充外层并升级其武器系统，可以进行某些改进以延长其寿命。"
+tech_reinforced_starbase_ae: "Alpha 级星际基地镀层"
+tech_reinforced_starbase_ae_desc: "掌握暗物质和暗能量使我们能够进一步改进我们的星际基地的强光镀层和武器，增加它们的坚韧和寿命。"
+tech_reinforced_starbase_se: "西格玛级星际基地镀层"
+tech_reinforced_starbase_se_desc: "我们的堡垒不会屈服于较小的敌人。,他们可以向我们扔出一大群护卫舰，我们仍然会吃掉它们。"
+ 
+ 
+#################
+
+edict_acot_enable_shroud_barrier_activation: "启用S​​hroud Repeller 激活"
+edict_acot_enable_shroud_barrier_activation_desc: "在拥有该组件的舰队上切换自动激活“裹尸布驱赶器”组件，获得额外 10000 点护盾点、10% 护盾加值和 2500 点护盾再生，持续 30 天，从激活开始有 90 天的冷却时间。\n\n激活将发生一次,每个单独的舰队都会进入战斗，因此最好在重大战斗之前使用。"
+
+edict_acot_forced_shroud_barrier_activation: "即时护罩驱避器激活"
+edict_acot_forced_shroud_barrier_activation_desc: "命令所有符合条件的装有裹尸布驱避器组件的舰船立即激活其效果，额外获得 10000 点护盾值、10% 护盾加成以及 2500 点护盾再生，持续 30 天，从激活开始有 90 天的冷却时间。"

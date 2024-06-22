@@ -1,0 +1,119 @@
+﻿﻿#Rubicon
+#By ViolentBeetle
+
+l_simp_chinese:
+#Ship Classes
+ mem_rubicon_fortress:0 "纠察站"
+ mem_rubicon_fortress_plural:0 "纠察站"
+ shipsize_mem_rubicon_fortress_construction_speed_mult:0 ""
+ shipsize_mem_rubicon_fortress_build_cost_mult:0 ""
+ shipsize_mem_rubicon_fortress_upkeep_mult:0 ""
+ mem_rubicon_battleship:0 "主战探针"
+ mem_rubicon_battleship_plural:0 "主战探测器"
+ shipsize_mem_rubicon_battleship_construction_speed_mult:0 ""
+ shipsize_mem_rubicon_battleship_build_cost_mult:0 ""
+ shipsize_mem_rubicon_battleship_upkeep_mult:0 ""
+ mem_rubicon_cruiser:0 "巡洋舰探测器"
+ mem_rubicon_cruiser_plural:0 "巡洋舰探头"
+ shipsize_mem_rubicon_cruiser_construction_speed_mult:0 ""
+ shipsize_mem_rubicon_cruiser_build_cost_mult:0 ""
+ shipsize_mem_rubicon_cruiser_upkeep_mult:0 ""
+ mem_rubicon_destroyer:0 "封锁探针"
+ mem_rubicon_destroyer_plural:0 "封锁探针"
+ shipsize_mem_rubicon_destroyer_construction_speed_mult:0 ""
+ shipsize_mem_rubicon_destroyer_build_cost_mult:0 ""
+ shipsize_mem_rubicon_destroyer_upkeep_mult:0 ""
+ mem_rubicon_corvette:0 "追踪探针"
+ mem_rubicon_corvette_plural:0 "追踪探针"
+ shipsize_mem_rubicon_corvette_construction_speed_mult:0 ""
+ shipsize_mem_rubicon_corvette_build_cost_mult:0 ""
+ shipsize_mem_rubicon_corvette_upkeep_mult:0 ""
+
+ mem_rubicon_mender:0 "世界治愈者"
+ mem_rubicon_mender_plural:0 "世界治愈者"
+ shipsize_mem_rubicon_mender_construction_speed_mult:0 ""
+ shipsize_mem_rubicon_mender_build_cost_mult:0 ""
+ shipsize_mem_rubicon_mender_upkeep_mult:0 ""
+
+ #Ship sections
+ mem_rubicon_station_key:0 ""
+ mem_rubicon_battleship_key:0 ""
+ mem_rubicon_cruiser_key:0 ""
+ mem_rubicon_destroyer_key:0 ""
+ mem_rubicon_corvette_key:0 ""
+  mem_rubicon_worldmender_key:0 ""
+
+ #Components
+ MEM_RUBICON_UP_BEAM:0 "Rubiconid 上光束"
+ MEM_RUBICON_DROD:0 "Rubiconid DROD 发射器"
+ MEM_RUBICON_WORLDMENDER_GUN:0 "世界治愈者大炮"
+ MEM_RUBICON_AUX_MODULE:0 "世界治愈者技术缓存"
+ MEM_RUBICON_AUX_MODULE_DESC:0 "这个庞大的数据核心包含了世界治愈者收集的大量数据。"
+
+ #Events
+ mem_rubicon.1.name:0 "卢比肯系统"
+ mem_rubicon.1.desc:0 "我们发现大量设计异常的不友好船只在§Y[From.GetName]§! 海域巡逻。,系统，里面充满了旧的战斗碎片。 ,\n\n暂时命名为“§YRubiconids§!”，它们似乎主要集中在密集的小行星带周围，就好像它们在保护什么东西一样。"
+ mem_rubicon.1.a:0 "我们应该监控情况。"
+
+ mem_rubicon_core_category:0 "隐蔽船"
+ mem_rubicon_core_category_desc:0 "可以在密集的碎片区域深处检测到大型惰性容器的轮廓。"
+
+ mem_rubicon.2.name:0 "隐蔽船"
+ mem_rubicon.2.desc:0 "[Leader.GetName] 报告称，[Leader.GetSheHe] [Leader.GetHasHave] 确认在行星碎片场最密集的部分内存在一艘未知船只。 ,\n\n初步观察，它停在一块大石头旁边，目前是安全的，但由于环境危险，不可能安全地将其移出。"
+ mem_rubicon.2.a:0 "我们应该继续监控它。"
+ mem_rubicon.2.a.tooltip:0 "添加§S$mem_rubicon_hidden_​​ship$§！,至 §Y[From.GetName]§!：\n£工程 工程 §G+6§!。 ,\n建立§S研究站§!,查看它以了解更多信息。"
+
+ mem_rubicon_hidden_ship:0 "隐蔽船"
+ mem_rubicon_hidden_ship_desc:0 "一艘船隐藏在厚厚的废墟深处。 ,\n\n§L在其上方建立一个§S研究站§L以了解更多信息。§!"
+
+ mem_rubicon.4.name:0 "机会之窗"
+ mem_rubicon.4.desc:0 "观察 §Y[From.GetName]§! 后,一段时间以来，我们的科学家制定了一项计划，通过密集的碎片场并进入隐藏的船只。 ,\n\n这将是有风险的，但初步报告表明那里隐藏着高度先进的技术。"
+ mem_rubicon.4.a:0 "使其发生。"
+
+ MEM_RUBICON_EXPEDITION:0 "隐蔽船"
+ MEM_RUBICON_EXPEDITION_DESC:0 "一艘船隐藏在指定为 §Y[mem_rubicon_core_planet.GetName]§! 的碎片场深处。,只要精确的时间和敏捷的导航，我们应该能够到达。"
+
+ mem_rubicon.5.name:0 "世界治愈者"
+ mem_rubicon.5.desc:0 "[Root.GetName] 上的科学家 [Leader.GetName] 报告称，[Leader.GetHerHis] 团队已成功穿越 §Y[mem_rubicon_core_planet.Solar_System.GetName]§! 的密集碎片场！,系统并登上了隐藏在其中的惰性飞船。 ,\n\n这艘船的历史令人印象深刻，估计已有数千年到数十万年的历史。,船上的大部分设备和数据核心都因老化和碎片影响而丢失。,然而，我们收集到的东西仍然非常有趣。,这艘船似乎是一艘军舰与地形改造器的混合体，被称为“世界治愈者”。,它原本载有大量船员和大量乘客，目前由一个名为“Fleetmind”的人工智能单位监管。 ,\n\n整个世界治愈者已经严重受损而无法逃脱，但在我们的帮助下，它的一部分可以逃脱。"
+ mem_rubicon.5.a:0 "保存必要的战舰模块。"
+ mem_rubicon.5.a.tooltip:0 "我们的海军将添加一艘强大的新舰艇，以及一艘§!人工智能海军上将。 ,\n只要这艘船在我们手中，我们就可以享受§Y$mem_rubicon_mender_archives$§!的好处！"
+ mem_rubicon.5.b:0 "拯救战舰模块但消灭AI"
+ mem_rubicon.5.b.tooltip:0 "我们的海军将增加一艘强大的新舰。 ,\n只要这艘船在我们手中，我们就可以享受§Y$mem_rubicon_mender_archives$§!的好处！"
+ mem_rubicon.5.c:0 "重新激活地形改造系统。"
+ mem_rubicon.5.c.tooltip:0 "如果我们重新启动系统，我们就会失去这艘船。,它将被用来将碎片场修复成真正的行星。"
+ mem_rubicon.5.c.tooltip.gaia:0 "§G盖亚§！,世界将会产生。"
+ mem_rubicon.5.c.tooltip.regular:0 "§S常规§!,世界将会产生。"
+ mem_rubicon.5.c.tooltip.tomb:0 "§L墓§！,世界将会产生。"
+ mem_rubicon.5.c.tooltip.barren:0 "§R贫瘠§！,世界将会产生。"
+ mem_rubicon.5.d:0 "访问有关船舶创造者的数据。"
+ mem_rubicon.5.d.response:0 "这艘船属于一个简单地称为“§SMenders§!”的文明。,他们意识形态的核心信条似乎是一种“生态至上”意识，也就是说，他们相信自己家园的自然生态系统优于银河系中的任何其他生态系统。,世世代代以来，他们肆意无视本土生命形式，进行侵略性的地球化改造，经常破坏整个行星的生物圈并重新重建它们。,有时，他们甚至会使用由所谓的世界治愈者飞船领导的舰队拆解行星并重建它们以适应他们的理想。"
+ mem_rubicon.5.e:0 "详细了解导致他们垮台的原因。"
+ mem_rubicon.5.e.response:0 "关于修补者的政治背景的信息很少，但他们垮台的历史似乎很清楚。 ,\n\n在修复者的地球化热潮中发现自己陷入困境的文明之一显然依赖于高度自动化的隐藏造船厂网络，尽管他们的世界很快就变成了修复者设计的花园，但有几个这样的造船厂,留下来了。 ,\n\n在它们的主人灭绝大约一个世纪后，成群结队的无人机出现在过度扩张和自满的修补者帝国的边界，以绝对的数量压倒了他们的舰队。,曾经消灭了他们的创造者的修复者们发现自己受到了无人机的摆布，很快就被迫撤退到一个隐藏的基地。,尽管他们尽了最大努力，敌人还是尾随他们并摧毁了他们的舰队。"
+ mem_rubicon.5.f:0 "访问最终报告。"
+ mem_rubicon.5.f.response:0 "在这里，在 [mem_rubicon_core_planet.Solar_System.GetName] 系统中，修复者们对不顾一切毁灭机器的机器进行了最后的抵抗。,曾经是一个有前途的地球改造项目的地点，现在已经成为他们将要结束的地方。 \n\n 由于失败似乎不可避免，严重受损的旗舰潜入了一颗行星的半成形外壳并保持隐藏，运行,并由其看护人工智能维护。,由于无法追击，无人机只能在系统中保持警惕。,随着时间的推移，幸存的无人机似乎被指定为§SRubiconids§！,由不知道自己真正目标的银河探险家完成。"
+
+ mem_rubicon_mender_archives:0 "修理工档案"
+ mem_rubicon_mender_archives_desc:0 "Worldmender 数据库包含大量的地球改造专业知识，但我们仍然无法将其转移到其他地方。 ,\n§T如果我们要保持这些利益，我们就不能失去这艘船。§!"
+
+ trait_mem_rubicon_mender:0 "治愈心灵"
+ trait_mem_rubicon_mender_desc:0 "这个人工智能构造的设计目的是既带领修补者舰队投入战斗，又按照他们的想象重建另一个世界。,如今，它已被重新调整用途，领导一支不同的舰队。"
+
+ mem_rubicon.6.name:0 "行星修复成功"
+ mem_rubicon.6.desc:0 "§Y[mem_rubicon_core_planet.GetName]§!,已经成功转变成盖亚世界。 ,\n\n治愈者对乐土的梦想在他们灭绝数千年后仍然存在。"
+
+ mem_rubicon.7.name:0 "行星修复完成"
+ mem_rubicon.7.desc:0 "看来地形改造设备遭受的损坏太严重，无法完全发挥其潜力，但仍然，§Y[mem_rubicon_core_planet.GetName]§！,已成功转变为适宜居住的世界。 ,\n\n治愈者对乐土的梦想在他们灭绝数千年后仍然存在，尽管有点黯淡。"
+ mem_rubicon.7.a:0 "本来可以更好。"
+
+ mem_rubicon.8.name:0 "有缺陷的行星修复"
+ mem_rubicon.8.desc:0 "看来改造设备所造成的伤害太严重了。 ,§Y[mem_rubicon_core_planet.GetName]§!,已经成功地转变为一个部分适宜居住的世界，但大量的辐射泄漏使其无法完全适宜居住。 ,\n\n治愈者们的乐土梦想尚未完全实现。"
+ mem_rubicon.8.a:0 "至少它保持在一起。"
+
+ mem_rubicon.9.name:0 "行星修复失败"
+ mem_rubicon.9.desc:0 "看来改造设备所造成的伤害太严重了。 ,§Y[mem_rubicon_core_planet.GetName]§!,已经融合在一起，但是所有本应使这块巨大的岩石适合居住的系统并没有产生预期的结果。 ,\n\n治愈者们的乐土梦想彻底破灭了。"
+ mem_rubicon.9.a:0 "最令人失望的是。"
+
+ mem_rubicon_mended_ecosystem:0 "修复者生态系统"
+ mem_rubicon_mended_ecosystem_desc:0 "这里的生态系统是按照早已消失的“行星修补者”的蓝图从头开始构建的。,一切都处于完美的平衡之中。"
+
+ mem_rubicon_country_buff:0 "卢比科尼科斯"

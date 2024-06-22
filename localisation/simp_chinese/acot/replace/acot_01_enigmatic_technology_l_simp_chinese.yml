@@ -1,0 +1,251 @@
+﻿﻿
+l_simp_chinese:
+ 
+### WEAPONS CHECK OK #####
+ 
+tech_energy_weapon_enig: "武器协议修订：能源武器"
+tech_energy_weapon_enig_desc: "现在，在我们开发出更先进的动力源之前，我们不再面临迫切需要先进武器的压力，我们有一些时间来修改和探索我们的能源武器库中缺少的元素。,特别是，应该更多地鼓励稀有晶体和奇异气体的使用。"
+
+SMALL_ACOT_LASER_ENIG: "小型聚焦伽马激光器"
+MEDIUM_ACOT_LASER_ENIG: "中聚焦伽玛激光"
+LARGE_ACOT_LASER_ENIG: "大聚焦伽马激光器"
+ACOT_LASER_ENIG: "聚焦伽玛激光"
+ACOT_LASER_ENIG_DESC: "与普通、未聚焦和未经训练的设计相比，聚焦伽马激光器发射出更强烈、更强大的光束。,颜色的变化可能是意外的副作用。"
+tech_laser_enig: "聚焦伽玛激光"
+tech_laser_enig_desc: "重新审视能源武器表明，如果我们分配一些稀有晶体，我们可以对现有的伽马激光器进行轻微的改进。,概念仍然相似，但火力的增加应该是显而易见的。"
+ 
+SMALL_ACOT_PLASMA_ENIG: "小型重型等离子炮"
+MEDIUM_ACOT_PLASMA_ENIG: "中型重型等离子炮"
+LARGE_ACOT_PLASMA_ENIG: "大型重型等离子炮"
+ACOT_PLASMA_ENIG: "重型等离子炮"
+ACOT_PLASMA_ENIG_DESC: "好的。,尽管长期使用，遏制场仍然稳定。,这个版本的功能与旧版本的功能相同，但更好。"
+tech_plasma_enig: "重型等离子炮"
+tech_plasma_enig_desc: "当使用过多能量时，等离子炮的遏制场可能会失效，但如果我们稍微优化奇异气体的分配，则可以进一步稳定。"
+ 
+SMALL_ACOT_DISRUPTOR_ENIG: "小型集中干扰器"
+MEDIUM_ACOT_DISRUPTOR_ENIG: "中型聚焦干扰器"
+LARGE_ACOT_DISRUPTOR_ENIG: "大型集中干扰器"
+ACOT_DISRUPTOR_ENIG: "聚焦干扰者"
+ACOT_DISRUPTOR_ENIG_DESC: "模仿电弧发射器的一些特性使我们能够创建更强大的相控干扰器。"
+tech_disruptor_enig: "聚焦干扰者"
+tech_disruptor_enig_desc: "科学家们认为，干扰器的工作方式与后来开发的电弧发射器技术之间存在一些联系，并且通过从后者的特性中汲取一些灵感，如果我们愿意分道扬镳，就有可能创造出更强大的干扰器,以及一些稀有的晶体。"
+ 
+ACOT_ENERGY_CANNON_ENIG: "能量冲击炮"
+ACOT_ENERGY_CANNON_ENIG_DESC: "爆能炮是激光炮的近亲，旨在通过充电机制进行更远的射程操作。"
+tech_energy_cannon_enig: "能量冲击炮"
+tech_energy_cannon_enig_desc: "根据武器修订协议，基于能源的火炮平台的新设计现已进入绘图板。,以激光炮为模板，以能量枪为参考，我们相信有可能创造出介于这两条线之间的武器系统。"
+
+ACOT_ENERGY_TORPEDO_ENIG: "重中子发射器"
+ACOT_ENERGY_TORPEDO_ENIG_DESC: "这些鱼雷具有很强的腐蚀性，只要敌人的护盾失效，它们就能在短时间内摧毁敌人的装甲和船体。"
+tech_energy_torpedo_enig: "重中子发射器"
+tech_energy_torpedo_enig_desc: "虽然当前的中子发射器已经利用奇异气体来提供动力"
+ 
+ACOT_POINT_DEFENSE_ENIG: "宙斯盾点防御"
+ACOT_POINT_DEFENSE_ENIG_DESC: "使用稀有水晶作为催化剂改进点防御。"
+tech_point_defense_enig: "新的点防御命名"
+tech_point_defense_enig_desc: "稀有水晶，或者有些人因为一些奇怪的原因喜欢将其昵称为凯伯水晶，可以用来稍微增强大多数基于光束的武器的威力，包括点防御。,关键是要找到一个合适的名字。,哨兵、屏障和守护都用过了，那么也许防御者？,大概是太简单了。"
+ 
+tech_kinetic_weapon_enig: "武器协议修订：动能武器"
+tech_kinetic_weapon_enig_desc: "既然我们不再迫切需要改进我们的武器，直到我们开发出更先进的动力源，我们就有一些时间来修改和探索我们的动能武器库中缺少的元素。,现有设计将受益于更好地利用易失性微尘。,该团队还希望填补武器库中任何缺失的模板。"
+
+SMALL_ACOT_MASS_DRIVER_ENIG: "小型冲击炮"
+MEDIUM_ACOT_MASS_DRIVER_ENIG: "中型冲击炮"
+LARGE_ACOT_MASS_DRIVER_ENIG: "大型冲击炮"
+ACOT_MASS_DRIVER_ENIG: "冲击炮"
+ACOT_MASS_DRIVER_ENIG_DESC: "冲击炮较少依赖于像高斯炮那样发射快速射弹的能力，而更多地依赖于产生能够击中目标的强大子弹的实际能力。"
+tech_mass_driver_enig: "冲击炮"
+tech_mass_driver_enig_desc: "在我们达到现有能力的极限之前，动能武器的发展还很有限。,因此，我们希望提高发射的子弹的威力。"
+ 
+ACOT_AUTOCANNON_ENIG: "小型脉冲火自动炮"
+MEDIUM_ACOT_AUTOCANNON_ENIG: "中型脉冲火自动炮"
+LARGE_ACOT_AUTOCANNON_ENIG: "大型脉冲火自动炮"
+ACOT_AUTOCANNON_ENIG_DESC: "脉冲火自动炮发射具有挥发性微粒硬化特性的改良合金炮弹。"
+tech_autocannons_enig: "脉冲火自动炮"
+tech_autocannons_enig_desc: "与以往一样，挥发性微粒可以用来稍微改进动能武器系统，自动炮就属于其中。,虽然火力的增加可能微乎其微，但每一点差异仍然很重要。"
+ 
+ACOT_MACROCANNON_ENIG: "巨炮"
+ACOT_MACROCANNON_ENIG_MEDIUM: "巨炮"
+ACOT_MACROCANNON_ENIG_DESC: "我们在强光操纵方面的进步使我们能够制造出足够坚固的炮塔，以容纳带有重型强光射弹的快速发射自动加农炮。"
+tech_macrocannon_enig: "聚能射孔自动炮"
+tech_macrocannon_enig_desc: “为了符合新的战争政策，我们试图创造一种更强大的自动炮设计，使用专门的聚能装药爆炸弹来穿透大型舰船的船体。这种新的武器系统将填补目前缺失的基于动能的反主力舰的短缺,远程武器平台。”
+
+ACOT_ARTILLERY_ENIG: "挥发性动能火炮"
+ACOT_ARTILLERY_ENIG_DESC: "固体子弹充满了致命的挥发性微粒，可造成最大程度的屠杀。"
+tech_kinetic_artillery_enig: "挥发性动能火炮"
+tech_kinetic_artillery_enig_desc: "如果使用挥发性微粒会产生更强的动能武器，那么我们就必须使用它，正如许多战斗战略家所说的那样。"
+ 
+ACOT_FLAK_CANNON_ENIG: "重型高射炮"
+ACOT_FLAK_CANNON_ENIG_DESC: "比老一代“高射炮”更强大、更不夸张的名字，但价格上涨却非常适度。"
+tech_flak_batteries_enig: "重型高射炮"
+tech_flak_batteries_enig_desc: "我们的科学家和战斗分析家得出的结论是，将我们当前的高射炮点防御系统命名为火炮会产生许多严重的不可预见的后果，因为许多炮手错误地将这些武器用于实际的火炮目的，使其效果低于应有的效果。,因此，为了准备更名，他们还将添加一些额外的微粒来增强火力，主要是出于营销目的。"
+ 
+tech_explosive_weapon_enig: "武器议定书修订：爆炸性武器"
+tech_explosive_weapon_enig_desc: "既然我们不再迫切需要改进我们的武器，直到我们开发出更先进的动力源，我们就有一些时间来修改和探索我们的爆炸性武器库中缺少的元素。,除了通过更实际地应用挥发性微尘来升级现有设计之外，开发团队还热衷于填补大型船舶所缺少的所有爆炸性武器，这是我们很久以前就应该做的事情。"
+
+ACOT_MISSILE_ENIG: "挑战者导弹"
+ACOT_MISSILE_ENIG_DESC: "就原始火力而言，挑战者导弹比掠夺者导弹更强，但在其他方面也好不了多少。"
+tech_missile_enig: "挑战者导弹"
+tech_missile_enig_desc: "通过分配额外的挥发性微粒，可以使现有的掠夺者导弹具有更高的爆炸威力。,然而，我们仍然受到制导系统或导弹耐久性缺乏改进的限制。"
+ 
+ACOT_TORPEDO_ENIG: "消灭者鱼雷"
+ACOT_TORPEDO_ENIG_DESC: "虽然消灭者级鱼雷在大多数类别中的性能与毁灭者相似，但在原始火力方面略有优势。"
+tech_torpedo_enig: "消灭者鱼雷"
+tech_torpedo_enig_desc: "对不稳定微粒的进一步调整和优化应该使我们能够创建毁灭者鱼雷的改进版本，而又不会使其变得太不稳定。"
+
+ACOT_SWARMER_MISSILES_ENIG: "台风导弹"
+ACOT_SWARMER_MISSILES_ENIG_DESC: "台风群聚导弹应用额外的挥发性微粒以获得更好的爆炸威力。"
+tech_swarmer_missile_enig: "台风导弹"
+tech_swarmer_missile_enig_desc: "就像升级后的挑战者导弹一样，台风导弹是旋风群聚导弹的增强版，由于额外的挥发性微粒而具有更好的火力。"
+ 
+ACOT_MISSILE_BARRAGE_ENIG: "MMLS"
+ACOT_MISSILE_BARRAGE_ENIG_DESC: "多导弹发射器系统（MMLS）发射一组导弹，与集群导弹没有太大区别，但射程更远，爆炸威力更大。,然而，该武器的重新定位能力稍低。"
+tech_barrage_missile_enig: "实验性导弹拦截系统"
+tech_barrage_missile_enig_desc: "推进、炸药和强光操纵方面的进步使我们能够探索改进炸药库的新方法。,要求最高的新概念之一是可以安装在大型船舶上的新武器系统。,经过多次测试，我们提出了新的设计——三角洲弹幕系统。\n\n虽然有效载荷数量的增加需要额外的专门调整，但牺牲了弹头的跟踪能力，从而大幅提高了火力、射程和有效载荷产量,。"
+ 
+ACOT_MISSILE_XL_ENIG: "HSPM 启动器"
+ACOT_MISSILE_XL_ENIG_DESC: "HSPM，即高速精确导弹，是一种强大的基于脊柱的弹道导弹，拥有高速、致命精确的导弹，与同等尺寸的类似武器相比，具有相对不错的跟踪能力。"
+tech_xl_missile_enig: "高速精确弹道学"
+tech_xl_missile_enig_desc: "我们的舰队指挥官和船员总是对缺乏强大的脊椎固定爆炸武器感到困惑。,继先前的导弹火炮系统取得成功之后，一种新型的用于爆炸物的脊柱武器系统正在研制中。,关键的挑战在于导弹在发挥其魔力之前必须飞行的距离，因此该团队正在寻求开发一种相对依赖于速度而不是耐用性的导弹。"
+ 
+ACOT_MISSILE_NUKE_ENIG: "千兆弹头发射器"
+ACOT_MISSILE_NUKE_ENIG_DESC: "一种大型鱼雷发射器，其设计具有迄今为止最大的有效载荷，可摧毁主力舰。,尽管按照射弹标准来看速度极慢，但它们对大多数点防御武器都有抵抗力，并且应该在被拦截之前就到达目标。"
+tech_missile_nuke_enig: "泰坦尼克号弹头"
+tech_missile_nuke_enig_desc: "根据武器设计修订，现在需要泰坦尼克号大小的爆炸物。,我们认为升级版的鱼雷应该是一个很好的起点。,新的大型弹头不再依靠速度或躲避，而是简单地利用其巨大的尺寸和耐用性来击中猎物。"
+
+ACOT_PARTICLE_LANCE_ENIG: "重铸的超光速粒子枪"
+ACOT_PARTICLE_LANCE_ENIG_DESC: "这款新型超光速粒子枪采用先进技术通过稀有晶体重新锻造和重新定义，可提供比上一代更好的火力。"
+tech_energy_lance_enig: "重铸超光速粒子"
+tech_energy_lance_enig_desc: "现有的超光速粒子枪已显老旧。,一些科学家相信他们可以通过分配额外的稀有晶体来改进设计。,尽管性能的提高可能微乎其微，但改进就是改进。,船员们需要简单地处理它并消费产品，然后对新产品感到兴奋。"
+ 
+ACOT_ARC_EMITTER_ENIG: "发射器过度充电"
+ACOT_ARC_EMITTER_ENIG_DESC: "这种脊柱武器利用神秘的能量制造出一种非常致命的发射器武器，可以损坏敌舰的内部系统。,不幸的是，由于我们目前的限制，它的范围比聚焦电弧发射器低。"
+tech_arc_emitter_enig: "发射器过度充电"
+tech_arc_emitter_enig_desc: "使用相同的神秘能量来增强我们当前的聚焦电弧发射器是可能的，但在我们真正了解如何运用暗能量之前，原型神秘能量发射器的有效范围将略低于聚焦电弧发射器。"
+ 
+ACOT_MASS_ACCELERATOR_ENIG: "重质量加速器"
+ACOT_MASS_ACCELERATOR_ENIG_DESC: "MAC 比旧的千兆加农炮更强大，可以以惊人的效率击穿各种护盾。,添加 Heavy 作为前缀，使其听起来更令人印象深刻。"
+tech_mass_accelerator_enig: "重质量加速器"
+tech_mass_accelerator_enig_desc: "因为我们对于如何处理下一代千兆加农炮已经没有想法了（这与不知道之后如何命名它无关）。,我们决定使用简单的方法，分配稍微不稳定的微粒，并到处校准一些部件，并将武器重新命名为质量加速器。"
+ 
+ACOT_PERDITION_BEAM_ENIG: "高级毁灭光束"
+ACOT_PERDITION_BEAM_ENIG_DESC: "尽管升级并不像最初想象的那么大，但更新版本的毁灭光束仍然具有可观的冲击力。"
+tech_perdition_beam_enig: "高级毁灭光束"
+tech_perdition_beam_enig_desc: "根据我们的新认识，旧的毁灭离子束的增强现在正在等待中。,我们只等待批准。,这一领域的成功将为未来新型巨型武器开辟道路。"
+ 
+ACOT_TITAN_EMITTER_ENIG: "泰坦稳定发射器"
+ACOT_TITAN_EMITTER_ENIG_DESC: "强大的发射器，具有更高的武器稳定性和潜在伤害。"
+tech_titan_emitter_enig: "泰坦稳定发射器"
+tech_titan_emitter_enig_desc: "根除悖论圈并拆除其运作，为开发适用于大型船舶的更大、更稳定的电弧发射器开辟了新的可能性。,令人惊奇的是为什么我们直到现在才意识到这是可以做到的。"
+ 
+ACOT_TITAN_ACCELERATOR_ENIG: "泰坦加速炮"
+ACOT_TITAN_ACCELERATOR_ENIG_DESC: "泰坦尼克号规模的质量加速器能够击中极远距离的目标。"
+tech_titan_accelerator_enig: "泰坦加速器"
+tech_titan_accelerator_enig_desc: "将负责阻止我们动能武器开发的懒惰傻瓜转变为可重复使用的燃料并分配更好的候选人。,新团队终于开发出适合我们最大船舶的泰坦尼克号动能加速器。"
+
+tech_hangar_weapon_enig: "武器协议修订：攻击机"
+tech_hangar_weapon_enig_desc: "现在，在我们开发出更先进的动力源之前，我们不再迫切需要改进我们的武器，我们有一些时间来修改和探索我们的攻击机设计中缺少的元素。,特别是，VI界面的使用应该很快就会取代传统的手动驾驶原则。,我们的攻击机设计的分支将有助于为航母提供更多类型的任务。"
+
+ACOT_SCOUT_HANGAR_ENIG: "拦截器"
+ACOT_SCOUT_HANGAR_ENIG_DESC: "拦截机是专门为战斗机优势而设计的战斗机。,与战斗机不同，拦截机以同样的效率瞄准敌方攻击机和导弹。,然而，他们的点防御武器对更大的船只完全无效。,此外，它们牺牲了一些耐用性来提高速度、射程和躲避能力。"
+ACOT_FIGHTERS_HANGAR_ENIG: "战士"
+ACOT_FIGHTERS_HANGAR_ENIG_DESC: "战斗机承担了以前由老式攻击机执行的掩护和纠察任务。,尽管它们在对抗大型舰艇时会失去一些拳头，但这些新型战斗机更适合消灭小型舰艇和缠斗。"
+ACOT_BOMBERS_HANGAR_ENIG: "轰炸机"
+ACOT_BOMBERS_HANGAR_ENIG_DESC: "与老一代的混合航天器相反，这些专用轰炸机速度稍慢，更耐用，并且可以在近距离提供更致命的有效载荷，需要更多的时间来重新武装。"
+ACOT_GUNSHIP_HANGAR_ENIG: "武装直升机"
+ACOT_GUNSHIP_HANGAR_ENIG_DESC: "武装直升机是专门的攻击机，擅长为大型舰艇提供远程火力支援。,然而，它们的部署数量很少，并且需要更长的时间来加强。"
+tech_strike_craft_scout_enig: "拦截器实现"
+tech_strike_craft_scout_enig_desc: "虽然现在的战机无论是掩护还是舰船骚扰都非常适合。,我们研究的记录显示了专门的狗战斗机的一个很好的例子，它们不仅可以对抗敌方攻击机，还可以充当点防御，瞄准敌方导弹并保护其母舰。"
+tech_strike_craft_fighter_enig: "攻击工艺修订：战斗机"
+tech_strike_craft_fighter_enig_desc: "我们开始意识到尝试设计同时执行太多角色的攻击机的错误，并且现在正在尝试修复它。,通过结合现在高度过时的侦察机设计和我们最新设计的元素，我们将创造一种攻击机，旨在为其母舰筛选较小的威胁，充当有效的点防御单位，同时,保留一定程度的火力也可以与更大的船只交战。"
+tech_strike_craft_bomber_enig: "攻击工艺修改：轰炸机"
+tech_strike_craft_bomber_enig_desc: "我们的战略家认为放弃战斗机的发展是一个错误，特别是考虑到侦察兵不能……实际上进行侦察，这使得他们的存在毫无意义。,我们可以轻松地纠正这些错误，并最终开始开发一套真正强大的执行各种任务的攻击艇。,至于现有的设计，我们认为它们最好改装成轰炸机，这是一种擅长使用重型有效载荷摧毁更大船只的攻击机。"
+tech_strike_craft_gunship_enig: "攻击工艺添加：武装直升机"
+tech_strike_craft_gunship_enig_desc: "虽然轰炸机、拦截机和战斗机已经明确界定了攻击机的作用，但仍存在某些问题。,这两种类型的攻击艇都需要花费大量时间才能到达攻击距离。,在许多战斗中，航母在这些攻击机首次亮相之前就已被摧毁。,目前正在计划建造一种专门的远程攻击艇。"
+
+#############################################################
+ 
+SMALL_ACOT_ARMOR_ENIG: "小型超中子装甲"
+MEDIUM_ACOT_ARMOR_ENIG: "中型超中子装甲"
+LARGE_ACOT_ARMOR_ENIG: "大型超中子装甲"
+ACOT_ARMOR_ENIG: "超中子装甲"
+ACOT_ARMOR_ENIG_DESC: "事实证明，如果你对微粒进行一些技巧，你可以堆叠更小的中子装甲层，而不会增加太多的成本或形状。,但我们需要将它们保持在较低的范围内，尽管它们的波动性很大。"
+tech_armor_enig: "强光结构"
+tech_armor_enig_desc: "尽管我们有理由相信中子不再是最适合用作装甲的材料，但我们尚未找到性能良好的替代品。,与此同时，更新和完善蓝图并添加一些不稳定的微粒可能会提高其耐用性，尽管这听起来很奇怪。"
+ 
+SMALL_ACOT_ENIGMATIC_SHIELD_ENIG: "小型增压超级护盾"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_ENIG: "中型增压超级护盾"
+LARGE_ACOT_ENIGMATIC_SHIELD_ENIG: "大型增压超级护盾"
+ACOT_ENIGMATIC_SHIELD: "增压超级护盾"
+ACOT_ENIGMATIC_SHIELD_DESC: "这是我们传统屏蔽设计所能达到的极限。,任何进一步分配更多气体的尝试都可能导致完全过载和系统故障。,尽管如此，它还是比早期的设计要好。"
+tech_dark_matter_deflector_enig: "增压超级护盾"
+tech_dark_matter_deflector_enig_desc: "经过多次失败的尝试后，我们的科学家必须遗憾地得出结论：我们还无法创造出一种在强度和再生方面都超越超充能护盾而不冒系统过载风险的护盾。,但少量的奇异气体可能会被用来让交易变得更顺利，哪怕只是在一定程度上。"
+
+#############################################################
+ 
+ENIG_SENSOR_SHIP: "新快子传感器"
+ENIG_SENSOR_SHIP_DESC: "Neo-Tachyon 修复了第一代 Tachyon 传感器中的一些错误和缺陷，即由于其糟糕的着色，它看起来属于较低层技术。,除此之外，使用额外的资源也会轻微提高其性能。"
+tech_sensors_enig: "新快子传感器"
+tech_sensors_enig_desc: "在审查第一代快子传感器的性能和设计时，我们偶然发现了一场巨大的危机。,正如银河群落和记录所普遍确定的那样，超光速粒子的颜色应该是蓝色的，类似于超光速粒子长矛的颜色。,但我们的第一个设计不知为何是淡黄色的，这通常是低质量设备的标志。,这个错误必须尽快纠正。,但在这样做的同时，如果我们也应用正确的战略资源，也可以进行一些调整，以稍微增强其传感和瞄准能力。"
+TECH_UNLOCK_ENIG_SENSOR_TITLE: "§H解锁组件：§!,新快子传感器"
+TECH_UNLOCK_ENIG_SENSOR_DESC: "§HDelphic 传感器§!\n$ENIG_SENSOR_SHIP_DESC$"
+ 
+###############################
+ 
+SHIP_THRUSTER_ENIG: "Impulse X 推进器"
+SHIP_THRUSTER_ENIG_DESC: "对脉冲推进器的调整，利用奇异气体为航天器产生小的额外爆发速度，尽管出于安全原因分配必须最小化。"
+ 
+DESTROYER_SHIP_THRUSTER_ENIG: "Impulse X 推进器"
+DESTROYER_SHIP_THRUSTER_ENIG_DESC: "对脉冲推进器的调整，利用奇异气体为航天器产生小的额外爆发速度，尽管出于安全原因分配必须最小化。"
+ 
+CRUISER_SHIP_THRUSTER_ENIG: "Impulse X 推进器"
+CRUISER_SHIP_THRUSTER_ENIG_DESC: "对脉冲推进器的调整，利用奇异气体为航天器产生小的额外爆发速度，尽管出于安全原因分配必须最小化。"
+ 
+BATTLESHIP_SHIP_THRUSTER_ENIG: "Impulse X 推进器"
+BATTLESHIP_SHIP_THRUSTER_ENIG_DESC: "对脉冲推进器的调整，利用奇异气体为航天器产生小的额外爆发速度，尽管出于安全原因分配必须最小化。"
+ 
+TITAN_SHIP_THRUSTER_ENIG: "Impulse X 推进器"
+TITAN_SHIP_THRUSTER_ENIG_DESC: "对脉冲推进器的调整，利用奇异气体为航天器产生小的额外爆发速度，尽管出于安全原因分配必须最小化。"
+ 
+COLOSSUS_SHIP_THRUSTER_ENIG: "Impulse X 推进器"
+COLOSSUS_SHIP_THRUSTER_ENIG_DESC: "对脉冲推进器的调整，利用奇异气体为航天器产生小的额外爆发速度，尽管出于安全原因分配必须最小化。"
+tech_thrusters_enig: "Impulse X 推进器"
+tech_thrusters_enig_desc: "我们还无法开发出任何可以直接挑战脉冲推进器的新推进系统。,但也许应用以前用于放大我们的动能和爆炸推进系统的相同挥发性微粒可能会产生一些影响。,虽然安全协议规定我们将分配保持在最低限度，但结果应该会看到航天器的速度和规避性能略有提高。"
+ 
+TECH_UNLOCK_ENIG_THRUSTER_TITLE: "§H解锁组件：§! ,Impulse X 推进器"
+TECH_UNLOCK_ENIG_THRUSTER_DESC: "§H脉冲 X 推进器§!\n$SHIP_THRUSTER_ENIG_DESC$"
+ 
+
+###############################
+
+CORVETTE_DARK_MATTER_REACTOR_ENIG: "增强型零点反应堆"
+CORVETTE_DARK_MATTER_REACTOR_ENIG_DESC: "为了满足新组件功耗不断增长的需求，有人建议使用稀有晶体作为催化剂来帮助放大和增强ZP反应堆。,虽然改进不多，但仍然便宜且易于生产。"
+ 
+DESTROYER_DARK_MATTER_REACTOR_ENIG: "增强型零点反应堆"
+DESTROYER_DARK_MATTER_REACTOR_ENIG_DESC: "为了满足新组件功耗不断增长的需求，有人建议使用稀有晶体作为催化剂来帮助放大和增强ZP反应堆。,虽然改进不多，但仍然便宜且易于生产。"
+ 
+CRUISER_DARK_MATTER_REACTOR_ENIG: "增强型零点反应堆"
+CRUISER_DARK_MATTER_REACTOR_ENIG_DESC: "为了满足新组件功耗不断增长的需求，有人建议使用稀有晶体作为催化剂来帮助放大和增强ZP反应堆。,虽然改进不多，但仍然便宜且易于生产。"
+ 
+BATTLESHIP_DARK_MATTER_REACTOR_ENIG: "增强型零点反应堆"
+BATTLESHIP_DARK_MATTER_REACTOR_ENIG_DESC: "为了满足新组件功耗不断增长的需求，有人建议使用稀有晶体作为催化剂来帮助放大和增强ZP反应堆。,虽然改进不多，但仍然便宜且易于生产。"
+ 
+TITAN_DARK_MATTER_REACTOR_ENIG: "增强型零点反应堆"
+TITAN_DARK_MATTER_REACTOR_ENIG_DESC: "为了满足新组件功耗不断增长的需求，有人建议使用稀有晶体作为催化剂来帮助放大和增强ZP反应堆。,虽然改进不多，但仍然便宜且易于生产。"
+ 
+COLOSSUS_DARK_MATTER_REACTOR_ENIG: "增强型零点反应堆"
+COLOSSUS_DARK_MATTER_REACTOR_ENIG_DESC: "为了满足新组件功耗不断增长的需求，有人建议使用稀有晶体作为催化剂来帮助放大和增强ZP反应堆。,虽然改进不多，但仍然便宜且易于生产。"
+ 
+PLATFORM_DARK_MATTER_REACTOR_ENIG: "增强型零点反应堆"
+PLATFORM_DARK_MATTER_REACTOR_ENIG_DESC: "为了满足新组件功耗不断增长的需求，有人建议使用稀有晶体作为催化剂来帮助放大和增强ZP反应堆。,虽然改进不多，但仍然便宜且易于生产。"
+ 
+ION_CANNON_DARK_MATTER_REACTOR_ENIG: "增强型零点反应堆"
+ION_CANNON_DARK_MATTER_REACTOR_ENIG_DESC: "为了满足新组件功耗不断增长的需求，有人建议使用稀有晶体作为催化剂来帮助放大和增强ZP反应堆。,虽然改进不多，但仍然便宜且易于生产。"
+ 
+STARBASE_DARK_MATTER_REACTOR_ENIG: "增强型零点反应堆"
+STARBASE_DARK_MATTER_REACTOR_ENIG_DESC: "为了满足新组件功耗不断增长的需求，有人建议使用稀有晶体作为催化剂来帮助放大和增强ZP反应堆。,虽然改进不多，但仍然便宜且易于生产。"
+ 
+tech_dark_matter_power_core_enig: "增强型零点反应堆"
+tech_dark_matter_power_core_enig_desc: "不幸的是，我们之前关于零点能量可以产生巨大能量的假设被证明是夸大且不合时宜的。,虽然 ZPR 理论上可以产生无限的能量，但它仍然受到反应堆的安全壳场的限制，这意味着在不创建超大反应堆的情况下部署重型部件是不可行的。,尽管我们还没有找到替代品，但仍然可以依靠稀有晶体的一些特殊性质来改进现有的设计。"
+
+TECH_UNLOCK_ENIG_REACTOR_TITLE: "§H解锁组件：§!,增强型零点反应堆"
+TECH_UNLOCK_ENIG_REACTOR_DESC: "§H增强型零点反应堆§!\n$CORVETTE_DARK_MATTER_REACTOR_ENIG_DESC$"

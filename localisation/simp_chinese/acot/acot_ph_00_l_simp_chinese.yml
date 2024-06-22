@@ -1,0 +1,10 @@
+﻿l_simp_chinese:
+
+job_acot_offspring: "后代育母"
+job_acot_offspring_plural: "后代育母"
+job_acot_offspring_desc: "后代育母会提供必要的照顾并照顾未来的后代。"
+mod_job_acot_offspring_add: "$job_acot_offspring$"
+
+sm_acot_offspring_supply_bay: "后代$sm_acot_supply_bay$"
+sm_acot_offspring_supply_bay_desc: "$sm_acot_supply_bay_desc$"
+acot_offspring_supply_bay_tooltip: "$acot_supply_bay_tooltip$"

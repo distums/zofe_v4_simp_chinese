@@ -1,0 +1,732 @@
+﻿l_simp_chinese:
+
+############################################################ WEAPON SECTION TECH ############################################################
+
+SHIP_GRAPHICS_ACOT_ISC_DESC: "独立攻击艇是专门的、具有超光速能力的攻击艇编队，依赖于速度和敏捷性。,他们可以配备短程干扰矩阵来削弱敌人。"
+SHIP_GRAPHICS_ACOT_CORVETTE_1_DESC: "护卫舰是属于§Y小型战斗舰§的可能舰种之一！,指定。"
+SHIP_GRAPHICS_ACOT_DESTROYER_1_DESC: "驱逐舰是属于§Y中型战斗舰§!的可能舰种之一！,指定。"
+SHIP_GRAPHICS_ACOT_CRUISER_1_DESC: "巡洋舰是属于§Y重型战斗舰§!的可能舰种之一！,指定。"
+SHIP_GRAPHICS_ACOT_SUPPORT_1_DESC: "巡洋舰是属于§Y重型战斗舰§!的可能舰种之一！,指定。"
+SHIP_GRAPHICS_ACOT_BATTLESHIP_1_DESC: "战列舰是属于§Y主力舰§! 的可能舰种之一！,指定。"
+SHIP_GRAPHICS_ACOT_TITAN_1_DESC: "泰坦是属于§Y旗舰§! 的可能舰种之一！,指定。"
+SHIP_GRAPHICS_ACOT_BEHEMOTH_DESC: "巨兽是属于§Y指挥舰§!的可能舰种之一！,指定。"
+SHIP_GRAPHICS_MILITARY_STATION_SMALL_DESC: ""
+SHIP_GRAPHICS_MILITARY_STATION_MEDIUM_DESC: ""
+SHIP_GRAPHICS_MILITARY_STATION_LARGE_DESC: ""
+SHIP_GRAPHICS_MINING_STATION_DESC: ""
+SHIP_GRAPHICS_RESEARCH_STATION_DESC: ""
+SHIP_GRAPHICS_STARBASE_STARPORT_DESC: ""
+SHIP_GRAPHICS_ION_CANNON_DESC: ""
+SHIP_GRAPHICS_ACOT_TITAN_KILLER_DESC: ""
+
+MOD_SHIP_ACCURACY_ADD: "准确性"
+
+tech_acot_ship_unlock_al: "太空火炮平台"
+tech_acot_ship_unlock_al_desc: "为了让我们能够部署更强大的远程火炮武器，必须对现有的L型炮塔进行一些修改，以产生最有效的效果。\n\n为了确保最大的安全性，每艘预计部署这些武器的舰艇都必须,还进行了改进，以获得额外的船体加固。"
+
+tech_acot_ship_unlock_xl: "脊柱弓实施"
+tech_acot_ship_unlock_xl_desc: "如果不将我们战列舰的船头修改为脊椎矛，就无法实现部署 XL 级武器系统所需的预计功率激增。,这种改变是在不牺牲任何防御部件的情况下使用武器的唯一方法。\n\n为了确保最大的安全性，每艘预计部署这些武器的舰艇还必须进行改进，以拥有额外的船体加固。"
+
+tech_acot_ship_unlock_xl_turret: "XL 级微喷枪炮塔"
+tech_acot_ship_unlock_xl_turret_desc: "现在我们对武器系统更加熟悉了，也许我们最终可以对其他舰艇部分进行调整，将 AL 炮塔换成 XL 炮塔。,然而，这将以减少可用防御系统的数量为代价。\n\n为了确保最大程度的安全，每艘预计部署这些武器的船只还必须进行改进，以拥有额外的船体加固。"
+
+tech_acot_ship_unlock_t: "泰坦脊椎枪"
+tech_acot_ship_unlock_t_desc: "尽管目前的泰坦设计理论上已经能够部署泰坦尼克级武器的强大火力。,到目前为止的测试结果好坏参半，因为我们确实错误地估计了所需的威力水平将等于双战列舰脊柱武器的威力水平。,尽管如此，我们还是要小心谨慎，泰坦船体必须进一步加固。"
+
+tech_acot_ship_unlock_t_turret: "T级长枪炮塔"
+tech_acot_ship_unlock_t_turret_desc: "这可能是一个非常聪明的想法，也可能是一个糟糕的想法，但一些科学团队相信他们可以通过使用船的内部本身作为一个巨大的电容器来制造一种不需要脊柱弓的泰坦尼克号大小的武器。,就像以前一样，这将阻止大部分防御系统安装在这些区域，但也许火力是值得的。,此外，根据这一理论，甚至战列舰的脊髓电荷也可以以同样的方式改变以支持泰坦尼克号武器。"
+
+ # Ship sizes
+mod_shipsize_science_hull_add: "科学船船体点"
+mod_shipsize_science_disengage_chance_mult: "科学船脱离机会"
+mod_shipsize_science_evasion_mult: "科学船躲避"
+
+#tech_space_exploration: "Space Exploration"
+#tech_space_exploration_desc: "The realization of faster-than-light travel is a new dawn for space exploration. Exploration to other star systems are now not only possible, but necessary."
+
+#tech_automated_exploration: "Improved Science Vessel"
+#tech_automated_exploration_desc: "Improved Science Vessel"
+
+#tech_experimental_subspace_navigation: "Advanced Science Vessel"
+#tech_experimental_subspace_navigation_desc: "Advanced Science Vessel"
+
+tech_acot_ship_science_5: "复制科学船"
+tech_acot_ship_science_5_desc: "复制科学船"
+
+ # Space Mining
+
+mod_shipsize_constructor_hull_add: "构造函数船体点"
+mod_shipsize_constructor_build_speed_mult: "构造函数构建速度"
+
+#tech_space_construction: "Space Construction"
+#tech_space_construction_desc: "Construction in space presents our engineers with new design challenges that must be solved before we can build orbital stations above other worlds."
+
+tech_acot_ship_constructor_1: "改进的构造函数"
+tech_acot_ship_constructor_1_desc: "新型号的施工船使用了响应速度更快的施工服务人员，不仅更耐用，而且工作速度更快。"
+
+tech_acot_ship_constructor_3: "高级建造师"
+tech_acot_ship_constructor_3_desc: "先进材料和纳米组装单元使我们能够改进现有的建造者以高效地执行任务，并提高其整体船体完整性。"
+
+tech_acot_ship_constructor_5: "复制构造函数"
+tech_acot_ship_constructor_5_desc: "强光装配单元和更强大的人工智能的引入将大大有利于我们新的构造模型。"
+
+ # Colonizing
+
+mod_shipsize_colonizer_hull_add: "殖民者船体点"
+
+#tech_colonization_1: "Space Colonization"
+#tech_colonization_1_desc: "Calculating required resources and gear required to establish a planetary colony is necessary for us to herd brave pioneers into the greater beyond to seek out new homes over the horizon."
+
+tech_acot_ship_colony_1: "改进的殖民者"
+tech_acot_ship_colony_1_desc: "改进的殖民者"
+TECH_UNLOCK_COLONIZATION_1_TITLE: "改进的殖民者"
+TECH_UNLOCK_COLONIZATION_1_DESC: "改进的殖民者"
+
+tech_acot_ship_colony_3: "高级殖民者"
+tech_acot_ship_colony_3_desc: "高级殖民者"
+TECH_UNLOCK_COLONIZATION_3_TITLE: "高级殖民者"
+TECH_UNLOCK_COLONIZATION_3_DESC: "高级殖民者"
+
+tech_acot_ship_colony_5: "复制殖民者"
+tech_acot_ship_colony_5_desc: "复制殖民者"
+TECH_UNLOCK_COLONIZATION_5_TITLE: "复制殖民者"
+TECH_UNLOCK_COLONIZATION_5_DESC: "复制殖民者"
+
+#tech_colossus: "Colossi"
+#tech_colossus_desc: "Advances in mega-engineering make blur the lines between reality and the fantastical, enabling the construction of Colossus-class military vessels that carry weapons capable of obliterating - or fundamentally altering - entire worlds, with the push of a button."
+  
+ # Ships upgrades
+ # no titan is the same... they dont have a build speed tech!
+ 
+acot_flotilla_worldship: "世界之船"
+acot_flotilla_worldship_plural: "世界之船"
+ACOT_FLOTILLA_SECTION: "世界船队"
+
+decision_acot_release_worldship: "发布世界飞船"
+decision_acot_release_worldship_desc: "收拾行李"
+decision_acot_deploy_worldship: "部署世界飞船"
+decision_acot_deploy_worldship_desc: "设置"
+############################################################ SHIP TECH AND SECTION ############################################################
+
+tech_acot_ship_isc: "小型攻击机 FTL 系统"
+tech_acot_ship_isc_desc: "默认情况下，攻击舰太小，无法配备标准的超光速系统，必须依靠母舰进行星际旅行。,但如果我们能稍微修改一下超光速计算机，我们也许就能部署独立的攻击机作为自己的编队。"
+tech_acot_ship_isc_upgrade_1: "标准化 ISC 模式"
+tech_acot_ship_isc_upgrade_1_desc: "为ISC建模和构建建立新标准，大大提高了生产流程的效率。"
+tech_acot_ship_isc_upgrade_2: "最终的 ISC 模式"
+tech_acot_ship_isc_upgrade_2_desc: "ISC建模和构建标准的最终确定大大提高了生产流程的效率。"
+tech_acot_ship_isc_squad_1: "改进的ISC船体"
+tech_acot_ship_isc_squad_1_desc: "建筑技术的进步将允许建造更坚固、更耐用的ISC。"
+tech_acot_ship_isc_squad_2: "先进的ISC船体"
+tech_acot_ship_isc_squad_2_desc: "最新一代 ISC 的船体优化了结构完整性场并改进了舱壁。"
+
+mod_shipsize_acot_isc_hull_add: "ISC 船体点"
+mod_shipsize_acot_isc_build_speed_mult: "ISC 构建速度"
+
+mod_shipsize_acot_isc_2_hull_add: "武装直升机船体点"
+mod_shipsize_acot_isc_2_build_speed_mult: "武装直升机建造速度"
+
+mod_shipsize_acot_isc_3_hull_add: "ISO 船体点"
+mod_shipsize_acot_isc_3_build_speed_mult: "ISO 构建速度"
+
+acot_isc: "局外人ISC中队"
+acot_isc_plural: "IOutsider SC 中队"
+
+ACOT_ISC_SM: "轻型轰炸机中队"
+ACOT_ISC_M2: "重型轰炸机中队"
+ACOT_ISC_S3: "重型战斗机中队"
+ACOT_ISC_XS3: "轻型战斗机中队"
+
+acot_isc_2: "局外人武装直升机"
+acot_isc_2_plural: "局外人武装直升机"
+
+ACOT_ISC_2_1M: "突击武装直升​​机"
+ACOT_ISC_2_2S: "纠察武装直升机"
+
+acot_isc_3: "局外人 ISO 中队"
+acot_isc_3_plural: "局外人 ISO 中队"
+ACOT_ISC3_S1XS2: "特种作战拦截中队"
+ACOT_ISC3_S1: "特种作战战斗机中队"
+
+########### VETTE ###########
+
+#tech_corvettes: "Armed Light Vessels"
+#tech_corvettes_desc: "The FTL breakthrough allowed early attempts to adapt traditional surface-to-space shuttle frames to military applications to finally create relatively small, fast, and maneuverable vessels with limited firepower."
+#TECH_UNLOCK_LIGHT_SHIP_TITLE: "§HUnlocks Ship Type:§! Light Combat Vessels"
+#TECH_UNLOCK_LIGHT_SHIP_DESC: "§HLight Combat Vessels§!\nLight Combat Vessels are the most basic military ship, armed and ready in the event of hostile contacts."
+#tech_corvette_hull_1: "Improved Light Hull"
+#tech_corvette_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable light vessels."
+#tech_corvette_hull_2: "Advanced Light Hull"
+#tech_corvette_hull_2_desc: "The latest generation of light vessel's hulls have optimized structural integrity fields and improved bulkheads."
+
+#tech_corvette_build_speed: "Standardized Light Vessel Patterns"
+#tech_corvette_build_speed_desc: "Establishing new standards for the modeling and construction of light vessels greatly improves the efficiency of the production pipeline."
+#tech_corvette_build_speed_2: "Finalized Light Vessel Patterns"
+#tech_corvette_build_speed_2_desc: "Finalizing the standards for the modeling and construction of light vessels greatly improves the efficiency of the production pipeline."
+  
+mod_shipsize_acot_corvette_1_build_speed_mult: "克尔维特建造速度"
+mod_shipsize_acot_corvette_2_build_speed_mult: "掠夺者建造速度"
+mod_shipsize_acot_corvette_3_build_speed_mult: "巡逻艇建造速度"
+mod_shipsize_acot_corvette_1_hull_add: "克尔维特船体点"
+mod_shipsize_acot_corvette_2_hull_add: "袭击者船体点数"
+mod_shipsize_acot_corvette_3_hull_add: "巡逻艇船体点"
+
+acot_corvette_1: "局外人克尔维特"
+acot_corvette_1_plural: "局外人护卫舰"
+acot_corvette_2: "局外人袭击者"
+acot_corvette_2_plural: "局外人攻略"
+acot_corvette_3: "外来者巡逻艇"
+acot_corvette_3_plural: "局外人巡逻工艺品"
+
+ACOT_CORVETTE_MID_M1S2: "炮舰"
+ACOT_CORVETTE_MID_S4: "拦截船"
+ACOT_CORVETTE_MID_SH4: "微载体"
+ACOT_CORVETTE_MID_M1SH2: "突击机库"
+ACOT_CORVETTE_MID_S2SH2: "哨兵机库"
+
+########### DEST ###########
+
+#tech_destroyers: "Interconnected Sections"
+#tech_destroyers_desc: "By connection two sections together, a more powerful military ship can be fielded. These new lines of ships will serve as the Medium Combat Vessels for the empire."
+#TECH_UNLOCK_MEDIUM_SHIP_TITLE: "§HUnlocks Ship Type:§! Medium Combat Vessels"
+#TECH_UNLOCK_MEDIUM_SHIP_DESC: "§HMedium Combat Vessels§!\nMedium Combat Vessels are two-section military ships that can perform various roles."
+#tech_destroyer_hull_1: "Improved Medium Hulls"
+#tech_destroyer_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable medium combat vessels."
+#tech_destroyer_hull_2: "Advanced Medium Hulls"
+#tech_destroyer_hull_2_desc: "The latest generation of medium combat vessels hulls have optimized structural integrity fields and improved bulkheads."
+#tech_destroyer_build_speed: "Standardized Medium Vessel Patterns"
+#tech_destroyer_build_speed_desc: "Establishing new standards for the modeling and construction of medium combat vessels greatly improves the efficiency of the production pipeline."
+#tech_destroyer_build_speed_2: "Finalized Medium Vessel Patterns"
+#tech_destroyer_build_speed_2_desc: "Finalizing the standards for the modeling and construction of medium combat vessels greatly improves the efficiency of the production pipeline."
+   
+mod_shipsize_acot_destroyer_1_build_speed_mult: "驱逐舰建造速度"
+mod_shipsize_acot_destroyer_2_build_speed_mult: "护卫舰建造速度"
+mod_shipsize_acot_destroyer_3_build_speed_mult: "监控构建速度"
+mod_shipsize_acot_destroyer_1_hull_add: "驱逐舰船体点数"
+mod_shipsize_acot_destroyer_2_hull_add: "护卫舰船体点"
+mod_shipsize_acot_destroyer_3_hull_add: "监控船体点"
+
+acot_destroyer_1: "异界毁灭者"
+acot_destroyer_1_plural: "异界毁灭者"
+acot_destroyer_2: "异界护卫舰"
+acot_destroyer_2_plural: "局外人护卫舰"
+acot_destroyer_3: "局外人监视器"
+acot_destroyer_3_plural: "局外人监视器"
+
+ACOT_DESTROYER_BOW_M1S2: "武装直升机弓"
+ACOT_DESTROYER_BOW_S4: "拦截弓"
+ACOT_DESTROYER_BOW_MH1SH2: "运载弓"
+ACOT_DESTROYER_BOW_M1SH2: "突击机库弓"
+ACOT_DESTROYER_BOW_L1: "重弓"
+
+ACOT_DESTROYER_STERN_M1: "武装直升机船尾"
+ACOT_DESTROYER_STERN_S2: "拦截舰船尾"
+ACOT_DESTROYER_STERN_SH2: "机库船尾"
+ACOT_DESTROYER_STERN_MH1: "开利船尾"
+ACOT_DESTROYER_STERN_L1: "重型船尾"
+
+########### CRUIS ###########
+
+#tech_cruisers: "Heavy Warship Implementation"
+#tech_cruisers_desc: "Stronger weapons demand for stronger ships. If our empire is to truly project our space dominance, we must create even more powerful ships to form the backbone of our fleets.."
+#TECH_UNLOCK_HEAVY_SHIP_TITLE: "§HUnlocks Ship Type:§! Heavy Combat Vessels"
+#TECH_UNLOCK_HEAVY_SHIP_DESC: "§HHeavy Combat Vessels§!\nHeavy Combat Vessels are three-section military ships serving as the backbone of any large-scale space operations."
+#tech_cruiser_hull_1: "Improved Heavy Hulls"
+#tech_cruiser_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable heavy combat vessels."
+#tech_cruiser_hull_2: "Advanced Heavy Hulls"
+#tech_cruiser_hull_2_desc: "The latest generation of heavy combat vessels have optimized structural integrity fields and improved bulkheads."
+#tech_cruiser_build_speed: "Standardized Heavy Vessel Patterns"
+#tech_cruiser_build_speed_desc: "Establishing new standards for the modeling and construction of heavy combat vessels will greatly improves the efficiency of the production pipeline."
+#tech_cruiser_build_speed_2: "Finalized Heavy Vessel Patterns"
+#tech_cruiser_build_speed_2_desc: "Finalizing the standards for the modeling and construction of heavy combat vessels will greatly improves the efficiency of the production pipeline."
+  
+mod_shipsize_acot_cruiser_1_build_speed_mult: "巡洋舰建造速度"
+mod_shipsize_acot_cruiser_2_build_speed_mult: "守护者建造速度"
+mod_shipsize_acot_cruiser_3_build_speed_mult: "轻型航母建造速度"
+mod_shipsize_acot_cruiser_1_hull_add: "巡洋舰船体点"
+mod_shipsize_acot_cruiser_2_hull_add: "守护者船体点数"
+mod_shipsize_acot_cruiser_3_hull_add: "轻型航母船体点"
+
+acot_cruiser_1: "局外人巡洋舰"
+acot_cruiser_1_plural: "局外人巡洋舰"
+acot_cruiser_2: "异界守护者"
+acot_cruiser_2_plural: "局外人守护者"
+acot_cruiser_3: "外星光载体"
+acot_cruiser_3_plural: "外来光携带者"
+
+ACOT_CRUISER_BOW_L1M1S2: "标准弓"
+ACOT_CRUISER_BOW_L2: "重弓"
+ACOT_CRUISER_BOW_L1S4: "守护弓"
+ACOT_CRUISER_BOW_AL2: "火炮弓"
+ACOT_CRUISER_BOW_M2S4: "突击弓"
+ACOT_CRUISER_BOW_M4: "攻击者弓"
+ACOT_CRUISER_BOW_M2SH4: "机库弓"
+ACOT_CRUISER_BOW_MH4: "运载弓"
+ACOT_CRUISER_BOW_L4: "玻璃炮弓"
+ACOT_CRUISER_BOW_XL: "脊柱承载弓"
+ACOT_CRUISER_BOW_LH1MH2L: "脊柱承载弓"
+
+ACOT_CRUISER_MID_L2S4: "守护核心"
+ACOT_CRUISER_MID_MH6: "载体核心"
+ACOT_CRUISER_MID_L2M2: "重核"
+ACOT_CRUISER_MID_M4MH2: "突击母舰核心"
+ACOT_CRUISER_MID_M2MH4: "光载体核心"
+ACOT_CRUISER_MID_M6: "攻击者核心"
+ACOT_CRUISER_MID_M4S4: "突击核心"
+ACOT_CRUISER_BOW_LH1MH2: "重型载体核心"
+ACOT_CRUISER_MID_L3: "重核"
+ACOT_CRUISER_MID_AL1L2: "火炮核心"
+ACOT_CRUISER_MID_XL1AL2: "玻璃炮核心"
+
+ACOT_CRUISER_STERN_M1S2: "突击船尾"
+ACOT_CRUISER_STERN_M2: "攻击者斯特恩"
+ACOT_CRUISER_STERN_L1: "重型船尾"
+ACOT_CRUISER_STERN_S4: "哨兵斯特恩"
+ACOT_CRUISER_STERN_AL1: "炮兵船尾"
+ACOT_CRUISER_STERN_MH2: "机库船尾"
+ACOT_CRUISER_STERN_M4: "玻璃炮船尾"
+
+########### SUPPORTORUS ###########
+
+tech_acot_ship_support: "舰队支援舰"
+tech_acot_ship_support_desc: "支持订单已确认"
+TECH_UNLOCK_SUPPORT_SHIP_TITLE: "§H解锁舰船类型：§!,舰队支援舰"
+TECH_UNLOCK_SUPPORT_SHIP_DESC: "§H舰队支援舰§!\n这些三节舰通常设计用于以其强大的光环支援舰队。"
+
+tech_acot_ship_support_hull_1: "改进的支撑船体"
+tech_acot_ship_support_hull_1_desc: "建造技术的进步将允许建造更坚固、更耐用的舰队支援舰。"
+tech_acot_ship_support_hull_2: "先进的支撑船体"
+tech_acot_ship_support_hull_2_desc: "最新一代的舰队支援船优化了结构完整性领域并改进了舱壁。"
+tech_acot_ship_support_build_speed: "标准化支援舰模式"
+tech_acot_ship_support_build_speed_desc: "建立舰队支援船建模和建造的新标准将大大提高生产管道的效率。"
+tech_acot_ship_support_build_speed_2: "最终确定的支援舰模式"
+tech_acot_ship_support_build_speed_2_desc: "最终确定舰队支援船的建模和建造标准将大大提高生产管道的效率。"
+
+mod_shipsize_acot_support_1_build_speed_mult: "拦截器建造速度"
+mod_shipsize_acot_support_2_build_speed_mult: "保护器构建速度"
+mod_shipsize_acot_support_3_build_speed_mult: "机械手构建速度"
+mod_shipsize_acot_support_1_hull_add: "拦截者船体点"
+mod_shipsize_acot_support_2_hull_add: "保护者船体点"
+mod_shipsize_acot_support_3_hull_add: "操纵器船体点"
+
+acot_support_1: "局外人拦截者"
+acot_support_1_plural: "局外人拦截者"
+acot_support_2: "异界保护者"
+acot_support_2_plural: "异界保护者"
+acot_support_3: "局外人操纵者"
+acot_support_3_plural: "局外人操纵者"
+
+ACOT_SUPPORT_BOW_L2: "重弓"
+ACOT_SUPPORT_BOW_M2S4: "突击弓"
+ACOT_SUPPORT_BOW_M4: "攻击者弓"
+ACOT_SUPPORT_BOW_M2SH4: "机库弓"
+
+ACOT_SUPPORT_MID_L2M2: "重核"
+ACOT_SUPPORT_MID_M2MH4: "机库核心"
+ACOT_SUPPORT_MID_M6: "攻击者核心"
+ACOT_SUPPORT_MID_M4S4: "突击核心"
+
+ACOT_SUPPORT_STERN_M2: "突击船尾"
+ACOT_SUPPORT_STERN_L1: "重型船尾"
+ACOT_SUPPORT_STERN_S4: "哨兵斯特恩"
+
+########### BB ###########
+
+#tech_battleships: "Capital Ship Introduction"
+#tech_battleships_desc: "The largest of the standard military vessels, capital ships are powerful combat vessels ideal for carrying out various duties, ranging from sieging or carrier operations."
+#TECH_UNLOCK_CAPITAL_SHIP_TITLE: "§HUnlocks Ship Type:§! Capital Ships"
+#TECH_UNLOCK_CAPITAL_SHIP_DESC: "§HCapital Ships§!\nCapital Ships are four-section ships that can be built for many different tasks, they generally require a starfortress for construction."
+#tech_battleship_hull_1: "Improved Capital Ship Hulls"
+#tech_battleship_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable capital ships."
+#tech_battleship_hull_2: "Advanced Capital Ship Hulls"
+#tech_battleship_hull_2_desc: "The latest generation of capital ships hulls have optimized structural integrity fields and improved bulkheads."
+#tech_battleship_build_speed: "Standardized Capital Ship Patterns"
+#tech_battleship_build_speed_desc: "Establishing new standards for how we design and construct capital ships greatly improves the speed at which they can be assembled."
+#tech_battleship_build_speed_2: "Finalized Capital Ship Patterns"
+#tech_battleship_build_speed_2_desc: "Finalizing the standards for how we design and construct capital shipss greatly improves the speed at which they can be assembled."
+
+mod_shipsize_acot_battleship_1_build_speed_mult: "战列舰建造速度"
+mod_shipsize_acot_battleship_2_build_speed_mult: "战列巡洋舰建造速度"
+mod_shipsize_acot_battleship_3_build_speed_mult: "航母建造速度"
+mod_shipsize_acot_battleship_1_hull_add: "战列舰船体点数"
+mod_shipsize_acot_battleship_2_hull_add: "战列巡洋舰船体点数"
+mod_shipsize_acot_battleship_3_hull_add: "航母船体点"
+
+acot_battleship_1: "异界战舰"
+acot_battleship_1_plural: "异界战列舰"
+acot_battleship_2: "局外人战列巡洋舰"
+acot_battleship_2_plural: "局外人战列巡洋舰"
+acot_battleship_3: "外来载体"
+acot_battleship_3_plural: "局外人运营商"
+
+ACOT_BATTLESHIP_BOW_L2M2S4: "攻击者弓"
+ACOT_BATTLESHIP_BOW_L4S8: "哨兵弓"
+ACOT_BATTLESHIP_BOW_L4: "重弓"
+ACOT_BATTLESHIP_BOW_AL4: "火炮弓"
+ACOT_BATTLESHIP_BOW_L1M2MH4: "机库弓"
+ACOT_BATTLESHIP_BOW_L2MH4: "突击舰弓"
+ACOT_BATTLESHIP_BOW_XL: "脊柱弓"
+ACOT_BATTLESHIP_BOW_M6S4: "执行者弓"
+ACOT_BATTLESHIP_BOW_M1S2MH6: "运载弓"
+ACOT_BATTLESHIP_BOW_LH4: "脊柱机库弓"
+ACOT_BATTLESHIP_BOW_LH2MH4: "脊柱承载弓"
+
+ACOT_BATTLESHIP_MID_L4S8: "哨兵核心"
+ACOT_BATTLESHIP_MID_L2M8: "突击核心"
+ACOT_BATTLESHIP_MID_L4M4: "攻击者核心"
+ACOT_BATTLESHIP_MID_L6: "重核"
+ACOT_BATTLESHIP_MID_AL6: "火炮核心"
+ACOT_BATTLESHIP_MID_M8LH2: "机库核心"
+ACOT_BATTLESHIP_MID_XL3: "攻城核心"
+ACOT_BATTLESHIP_MID_XL4AL4: "玻璃炮核心"
+ACOT_BATTLESHIP_MID_LH6: "载体核心"
+ACOT_BATTLESHIP_MID_M4LH4: "突击机库核心"
+
+ACOT_BATTLESHIP_STERN_S8: "哨兵斯特恩"
+ACOT_BATTLESHIP_STERN_M2S4: "突击船尾"
+ACOT_BATTLESHIP_STERN_L2: "重型船尾"
+ACOT_BATTLESHIP_STERN_AL1: "炮兵船尾"
+ACOT_BATTLESHIP_STERN_M4: "攻击者斯特恩"
+ACOT_BATTLESHIP_STERN_XL: "攻城者船尾"
+ACOT_BATTLESHIP_STERN_MH4: "机库船尾"
+ACOT_BATTLESHIP_STERN_LH4: "开利船尾"
+ACOT_BATTLESHIP_STERN_L4: "玻璃炮船尾"
+ACOT_BATTLESHIP_STERN_AL4: "玻璃火炮船尾"
+ACOT_BATTLESHIP_STERN_AL2L2: "混合玻璃炮船尾"
+
+
+########### TITARAN ###########
+
+#tech_titans: "Overwhelming Fleet Dominance"
+#tech_titans_desc: "Our fleets have expanded so much that it has become quite troublesome for our admirals to command without their own personal ship. To remedy this issue, plans are now being formulated to create the very first flagship. These ships will serve not only as seats for our admirals, but also as powerful siege breakers to overwhelm our foes."
+#TECH_UNLOCK_FLAG_SHIP_TITLE: "§HUnlocks Ship Type:§! Flagships"
+#TECH_UNLOCK_FLAG_SHIP_DESC: "§HFlagships§!\nFlagships are five-section ships that are usually assigned to lead a fleet and provide support with their system-scale auras, or overwhelming firepower."
+
+#tech_titan_hull_1: "Improved Flagship Hulls"
+#tech_titan_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable flagships."
+#tech_titan_hull_2: "Advanced Flagship Hulls"
+#tech_titan_hull_2_desc: "The latest generation of flagship hulls have optimized structural integrity fields and improved bulkheads."
+#tech_titan_build_speed: "Standardized Flagship Patterns"
+#tech_titan_build_speed_desc: "Establishing new standards for how we design and construct flagships greatly improves the speed at which they can be assembled."
+#tech_titan_build_speed_2: "Finalized Flagship Patterns"
+#tech_titan_build_speed_2_desc: "Finalizing the standards for how we design and construct flagships greatly improves the speed at which they can be assembled."
+
+mod_shipsize_acot_titan_1_build_speed_mult: "泰坦建造速度"
+mod_shipsize_acot_titan_2_build_speed_mult: "无畏舰建造速度"
+mod_shipsize_acot_titan_3_build_speed_mult: "超级航母建造速度"
+mod_shipsize_acot_titan_1_hull_add: "泰坦船体点数"
+mod_shipsize_acot_titan_2_hull_add: "无畏舰船体点"
+mod_shipsize_acot_titan_3_hull_add: "超级航母船体点"
+
+acot_titan_1: "局外人泰坦"
+acot_titan_1_plural: "局外人泰坦"
+acot_titan_2: "异界无畏舰"
+acot_titan_2_plural: "异界无畏舰"
+acot_titan_3: "局外人超级航母"
+acot_titan_3_plural: "局外人超级航母"
+
+ACOT_TITAN_BOW_T: "弓脊弓"
+ACOT_TITAN_BOW_2XL: "双脊柱弓"
+ACOT_TITAN_BOW_4LH: "超级航母弓"
+ACOT_TITAN_BOW_2L3M2S: "突击弓"
+ACOT_TITAN_BOW_EMPTY: "强化弓"
+
+ACOT_TITAN_8AL: "火炮核心"
+ACOT_TITAN_MID_8L: "重核"
+ACOT_TITAN_MID_4AL4L: "混合核心"
+ACOT_TITAN_MID_4AL4LH: "突击母舰核心"
+ACOT_TITAN_MID_8LH: "超级航母核心"
+ACOT_TITAN_MID_4XL: "攻城核心"
+ACOT_TITAN_MID_2XL4AL: "锤核"
+
+ACOT_TITAN_STERN_L4: "重型船尾"
+ACOT_TITAN_STERN_AL4: "炮兵船尾"
+ACOT_TITAN_STERN_L2LH2: "突击母舰船尾"
+ACOT_TITAN_STERN_XL2: "攻城者船尾"
+ACOT_TITAN_STERN_AL2LH2: "重型航母船尾"
+ACOT_TITAN_STERN_LH4: "超级航母斯特恩"
+
+########### BEHEMOTH ###########
+
+tech_acot_ship_behemoth: "机动指挥部"
+tech_acot_ship_behemoth_desc: "虽然旗舰非常适合我们的海军上将领导他们的舰队，但我们应该寻找更高的高度。,我们不能永远希望在行星体上立足，甚至在静止的巨型结构上立足。,我们的未来只能通过建造一座灯塔来保障，这座灯塔是一艘移动指挥船，它是我们不朽之光的象征。"
+tech_acot_ship_behemoth_hull_1: "改进的指挥船体"
+tech_acot_ship_behemoth_hull_1_desc: "建造技术的进步将允许建造更坚固、更耐用的指挥舰。"
+tech_acot_ship_behemoth_hull_2: "先进指挥船体"
+tech_acot_ship_behemoth_hull_2_desc: "指挥舰的新升级优化了结构完整性领域并改进了舱壁。"
+tech_acot_ship_behemoth_upgrade_pack_1: "专业的庞然大物组件"
+tech_acot_ship_behemoth_upgrade_pack_1_desc: "最新一代的指挥舰船体升级拥有更多的防御工事和更高改进的能力。"
+TECH_UNLOCK_COMMAND_SHIP_TITLE: "§H解锁舰船类型：§!,指挥舰"
+TECH_UNLOCK_COMMAND_SHIP_DESC: "§H指挥舰§!\n这些六节庞然大物充当移动指挥单位。,它们被赋予了经济系统所需的内部生存空间，并且可以让帝国在没有行星的情况下生存。"
+
+mod_shipsize_acot_behemoth_build_speed_mult: "巨兽建造速度"
+mod_shipsize_acot_behemoth_2_build_speed_mult: "超级无畏舰建造速度"
+mod_shipsize_acot_behemoth_3_build_speed_mult: "母舰建造速度"
+mod_shipsize_acot_behemoth_hull_add: "巨兽船体点数"
+mod_shipsize_acot_behemoth_2_hull_add: "超级无畏舰船体点"
+mod_shipsize_acot_behemoth_3_hull_add: "母舰船体点数"
+
+acot_behemoth: "巨兽"
+acot_behemoth_plural: "巨兽"
+acot_behemoth_2: "超级无畏舰"
+acot_behemoth_2_plural: "超级无畏舰"
+acot_behemoth_3: "母舰"
+acot_behemoth_3_plural: "母舰"
+
+ACOT_BEHEMOTH_BOW_1W2T: "双弓-脊柱弓"
+ACOT_BEHEMOTH_BOW_1W4XL: "四脊椎弓"
+ACOT_BEHEMOTH_BOW_1W8HL: "超级航母弓"
+ACOT_BEHEMOTH_BOW_EMPTY: "强化弓"
+ACOT_BEHEMOTH_MID_16L: "重核"
+ACOT_BEHEMOTH_MID_16AL: "火炮核心"
+ACOT_BEHEMOTH_MID_8AL8LH: "重型载体核心"
+ACOT_BEHEMOTH_MID_8XL: "攻城核心"
+ACOT_BEHEMOTH_MID_4T: "泰坦杀手核心"
+ACOT_BEHEMOTH_HUB_13XL: "命令中心"
+ACOT_BEHEMOTH_STERN_8L: "重型船尾"
+ACOT_BEHEMOTH_STERN_2T: "泰坦杀手斯特恩"
+ACOT_BEHEMOTH_STERN_4XL: "攻城者船尾"
+ACOT_BEHEMOTH_STERN_8AL: "炮兵船尾"
+ACOT_BEHEMOTH_STERN_2AL6LH: "超级航母斯特恩"
+
+ACOT_BEHEMOTH3_BOW_2T: "双弓-脊柱弓"
+ACOT_BEHEMOTH3_BOW_4XL: "四脊椎弓"
+ACOT_BEHEMOTH3_BOW_8HL: "超级航母弓"
+ACOT_BEHEMOTH3_BOW_EMPTY: "强化弓"
+ACOT_BEHEMOTH3_MID_16L: "重核"
+ACOT_BEHEMOTH3_MID_16AL: "火炮核心"
+ACOT_BEHEMOTH3_MID_8AL8LH: "重型载体核心"
+ACOT_BEHEMOTH_HUB3_1XL12L: "重型指挥中心"
+ACOT_BEHEMOTH_HUB3_1XL12AL: "炮兵指挥中心"
+ACOT_BEHEMOTH3_STERN_8L: "重型船尾"
+ACOT_BEHEMOTH3_STERN_8AL: "炮兵船尾"
+ACOT_BEHEMOTH3_STERN_2AL6LH: "超级航母斯特恩"
+
+########### JUGG ###########
+
+ACOT_CORE_JUGGERNAUT_SECTION: "主宰部分"
+ACOT_CORE_JUGGERNAUT_SECTION_TORP: "导弹主宰部分"
+
+########### TITANKILLER ###########
+
+acot_titan_killer: "泰坦杀手"
+acot_titan_killer_plural: "泰坦杀手"
+
+ACOT_ION_CANNON_TITAN: "泰坦杀手"
+ACOT_ION_CANNON_MID: "泰坦卫士"
+ACOT_ION_CANNON_CORE: "泰坦要塞"
+
+########### PLATFORM ###########
+
+tech_acot_platform_resource_section_1: "Starbase 资源平台"
+tech_acot_platform_resource_section_1_desc: "我们不能总是依赖行星来提供我们所需的资源。,只有白痴才会认为他们不应该利用广阔的空间来创建庞大的经济网络。"
+
+tech_acot_platform_resource_section_3: "先进的资源平台"
+tech_acot_platform_resource_section_3_desc: "我们必须进一步改进。,我们的资源站必须跟上我们行星的生产和帝国的需求。,我们不会像一些古老的帝国那样，因为仅仅依赖行星而消亡。"
+
+tech_acot_platform_resource_section_5: "复制人资源平台"
+tech_acot_platform_resource_section_5_desc: "认为一些帝国实际上因为完全依赖行星生产而消亡是相当搞笑和可悲的。,太空在那里，银河系在那里。,什么样的原始、古老的思想会使他们将经济限制在有限的范围内？"
+
+tech_acot_platform_resource_node_3: "高级资源节点"
+tech_acot_platform_resource_node_3_desc: "我们必须更有效率。,我们必须利用资源站内的每一个可用空间并获得最大的生产力。"
+
+tech_acot_platform_resource_node_5: "复制资源节点"
+tech_acot_platform_resource_node_5_desc: "硬光技术将使我们能够为我们的空间站创建更强大的资源节点。"
+
+ACOT_MINING_STATION_SECTION: "采矿站"
+ACOT_RESEARCH_STATION_SECTION: "研究站"
+
+ACOT_RESOURCE_STATION_SECTION: "基本资源生成器"
+ACOT_RESOURCE_STATION_SECTION_3: "高级资源生成器"
+ACOT_RESOURCE_STATION_SECTION_5: "复制人资源生成器"
+
+ACOT_SCIENCE_STATION_SECTION: "基础科学设施"
+ACOT_SCIENCE_STATION_SECTION_3: "先进的科学设施"
+ACOT_SCIENCE_STATION_SECTION_5: "复制科学设施"
+
+ACOT_GOVERNMENT_STATION_SECTION: "基本商场"
+ACOT_GOVERNMENT_STATION_SECTION_3: "高级商场"
+ACOT_GOVERNMENT_STATION_SECTION_5: "复制人商场"
+
+ACOT_XL_MILITARY_STATION_SECTION: "玻璃炮站部分"
+
+ACOT_LIGHT_MILITARY_STATION_SECTION: "轻防御科"
+ACOT_PD_MILITARY_STATION_SECTION: "哨兵防御科"
+ACOT_SPD_MILITARY_STATION_SECTION: "守护者防御科"
+ACOT_MEDIUM_MILITARY_STATION_SECTION: "中型防御部分"
+ACOT_MISSILE_MILITARY_STATION_SECTION: "导弹防御科"
+ACOT_TM_MILITARY_STATION_SECTION: "混合防御部分"
+ACOT_HEAVY_MILITARY_STATION_SECTION: "炮兵防御科"
+ACOT_HANGAR_MILITARY_STATION_SECTION: "机库防御科"
+ACOT_XL_MILITARY_STATION_SECTION: "玻璃炮防御组"
+
+ACOT_LIGHT_LARGE_MILITARY_STATION_SECTION: "轻型堡垒部分"
+ACOT_MEDIUM_LARGE_MILITARY_STATION_SECTION: "中型堡垒部分"
+ACOT_MISSILE_LARGE_MILITARY_STATION_SECTION: "导弹要塞部分"
+ACOT_TM_LARGE_MILITARY_STATION_SECTION: "军团要塞部分"
+ACOT_HEAVY_LARGE_MILITARY_STATION_SECTION: "炮兵堡垒部分"
+ACOT_HANGAR_LARGE_MILITARY_STATION_SECTION: "机库堡垒部分"
+ACOT_XL_LARGE_MILITARY_STATION_SECTION: "玻璃炮要塞部分"
+
+acot_bulwark_station: "壁垒站"
+acot_bulwark_station_plural: "壁垒站"
+
+ACOT_BULWARK_SECTION: "壁垒面罐车"
+ACOT_BULWARK_XL_SECTION: "Bulwark DPS-想要的油轮"
+ACOT_OUTPOST_STARBASE_SECTION: "戈登·弗里曼"
+ACOT_STARPORT_STARBASE_SECTION: "托马斯·韦恩"
+ACOT_STARHOLD_STARBASE_SECTION: "苏维埃俄罗斯"
+ACOT_STARFORTRESS_STARBASE_SECTION: "TF2 侦察兵很糟糕"
+ACOT_CITADEL_STARBASE_SECTION: "城堡上最喜欢的地方"
+
+########### RESOURCE STATION ###########
+
+acot_science_station: "研究基地"
+acot_science_station_plural: "研究基地"
+
+acot_resource_station: "资源生成器"
+acot_resource_station_plural: "资源生成器"
+
+acot_government_station: "制造商"
+acot_government_station_plural: "制造商"
+
+########### TRANSPORT ###########
+
+COMBAT_COMPUTER_TRANSPORT: "先进运输船计算机"
+TRANSPORT_BEHAVIOR_DESC: "运输船将无视交火，并可以被命令离开或降落在行星上以避免敌方。,需要微观管理，因为运输机不会在战斗中落后，除非接到命令。"
+ 
+FLEE_COMPUTER_TRANSPORT: "规避运输船计算机"
+COWARD_TRANSPORT_BEHAVIOR_DESC: "运输舰将尝试脱离并逃离战斗空间。,这可能会让他们摆脱航程和速度不足的敌方舰队。,可能会导致不稳定的行为，因为运输工具将继续逃出系统空间。"
+ 
+FOLLOW_COMPUTER_TRANSPORT: "分散运输船计算机"
+FOLLOW_TRANSPORT_BEHAVIOR_DESC: "运输船将分散成一个更大的圆圈，并尽可能避免聚集，但否则将留在战区。"
+ 
+SIMPLE_COMBAT_COMPUTER_TRANSPORT: "基础运输船计算机"
+SIMPLE_TRANSPORT_BEHAVIOR_DESC: "运输船会留在后面，惊慌地盘旋，希望有人来救他们。,它们会保持紧密的圆圈队形，使它们很容易被整体杀死。"
+ 
+HEAVY_TRANSPORT_SECTION: "入侵驳船船体"
+SUPER_TRANSPORT_SECTION: "远古探索者船体"
+ 
+tech_reinforced_transport: "先进的运输蓝图"
+tech_reinforced_transport_desc: "基于我们巡洋舰的设计，我们现在可以创建一条新的更强大的运输工具系列，以降低机动性为代价提高耐用性。,更新的设计还将升级现有的运输模式。"
+
+tech_advanced_transport: "复制人运输蓝图"
+tech_advanced_transport_desc: "使某些复制品设计适应我们的运输工具和驳船将大大提高它们的生存能力。"
+
+tech_noah_transport: "远古探索者蓝图"
+tech_noah_transport_desc: "随着先进神秘技术的发明，我们现在可以建造银河系有史以来最强大的运输底盘之一。"
+
+acot_heavy_transport: "入侵驳船"
+acot_heavy_transport_plural: "入侵驳船"
+
+acot_precursor_transport: "古代探索者"
+acot_precursor_transport_plural: "远古探索者"
+
+mod_shipsize_transport_hull_add: "运输船体点"
+
+######################################### STARBASE #########################################
+
+########### DEFENSE MODULES ###########
+
+sm_acot_spaceport_module_defense_small: "守护者模块"
+sm_acot_spaceport_module_defense_small_desc: "添加一个包含八个小型武器和四个中型防御槽的部分。"
+
+sm_acot_spaceport_module_defense_medium: "中型武器模块"
+sm_acot_spaceport_module_defense_medium_desc: "添加一个包含四个中型武器和两个中型防御槽的部分。"
+
+sm_acot_spaceport_module_defense_large: "重型 重型模块"
+sm_acot_spaceport_module_defense_large_desc: "添加一个包含两个大型武器和一个中型防御槽的部分。"
+
+sm_acot_spaceport_module_defense_artillery: "火炮武器模块"
+sm_acot_spaceport_module_defense_artillery_desc: "添加带有两门火炮的部分。"
+
+sm_acot_spaceport_module_defense_hangar: "机库模块"
+sm_acot_spaceport_module_defense_hangar_desc: "添加一个带有两个大型机库和一个中型防御槽的部分。"
+
+sm_acot_spaceport_module_defense_fortress: "加强部分"
+sm_acot_spaceport_module_defense_fortress_desc: "添加一个带有四个大尺寸防御槽的加固部分。"
+
+########### RESOURCE MODULES ###########
+
+sm_acot_spaceport_module_resource_minerals: "采矿行会"
+sm_acot_spaceport_module_resource_minerals_desc: "致力于采购太空矿物的行会或网络。"
+
+sm_acot_spaceport_module_resource_energy: "能源交易所"
+sm_acot_spaceport_module_resource_energy_desc: "可以进行能源信用的地方。"
+
+sm_acot_spaceport_module_resource_food: "食品库存"
+sm_acot_spaceport_module_resource_food_desc: "专门讨论太空农业收获的部分。"
+
+sm_acot_spaceport_module_resource_unity: "太空博物馆"
+sm_acot_spaceport_module_resource_unity_desc: "具有重要历史意义的档案，提醒人们帝国的伟大。"
+
+sm_acot_spaceport_module_resource_alloys: "轨道制造商"
+sm_acot_spaceport_module_resource_alloys_desc: "专门用于合金生产的制造单元的一部分。"
+
+sm_acot_spaceport_module_resource_goods: "太空工厂"
+sm_acot_spaceport_module_resource_goods_desc: "一系列的车间，用于制造和分发货物。"
+
+sm_acot_spaceport_module_resource_science: "空间科学公司"
+sm_acot_spaceport_module_resource_science_desc: "科学家和研究人员进行探索和发现的工作站。"
+
+sm_acot_spaceport_module_resource_silo: "筒仓扩建"
+sm_acot_spaceport_module_resource_silo_desc: "需要筒仓。,我们必须建造更多的孤岛。,该发射井必须放置在星际基地模块上。,我们需要更多的筒仓。"
+
+#sm_solar_panel_network: "Solar Panel Network"
+#sm_solar_panel_network_desc: "An array of solar panels that harvest raw energy from the star."
+
+########### Shipyard MODULES ###########
+
+sm_acot_spaceport_module_shipyard_2: "船厂"
+sm_acot_spaceport_module_shipyard_2_desc: "造船厂可以建造船舶。,还增加了四个中型防御模块。"
+
+sm_acot_spaceport_module_shipyard_2: "重型造船厂"
+sm_acot_spaceport_module_shipyard_2_desc: "重型造船厂允许每个模块同时建造两艘船。,还增加了两个中型防御模块。"
+
+sm_acot_spaceport_module_shipyard_3: "先进造船厂"
+sm_acot_spaceport_module_shipyard_3_desc: "先进的造船厂允许每个模块同时建造四艘船。"
+
+########### Starbase Buildings ###########
+
+sm_acot_spaceport_building_resource_alloys: "合金制造矩阵"
+sm_acot_spaceport_building_resource_alloys_desc: "合金制造矩阵"
+
+sm_acot_spaceport_building_resource_energy: "轨道能源纽带"
+sm_acot_spaceport_building_resource_energy_desc: "轨道能源纽带"
+
+sm_acot_spaceport_building_resource_food: "轨道农业中心"
+sm_acot_spaceport_building_resource_food_desc: "轨道农业中心"
+
+sm_acot_spaceport_building_resource_goods: "大师工厂"
+sm_acot_spaceport_building_resource_goods_desc: "大师工厂"
+
+sm_acot_spaceport_building_resource_minerals: "轨道矿物处理器"
+sm_acot_spaceport_building_resource_minerals_desc: "轨道矿物处理器"
+
+sm_acot_spaceport_building_resource_science: "档案中心"
+sm_acot_spaceport_building_resource_science_desc: "档案中心"
+
+sm_acot_spaceport_building_resource_unity: "太空联盟"
+sm_acot_spaceport_building_resource_unity_desc: "太空联盟"
+
+sm_acot_spaceport_building_solar_network: "太阳能电池板网络"
+sm_acot_spaceport_building_solar_network_desc: "强大的太阳能电池板阵列，可从恒星收集原始能量。"
+
+#sm_titan_yards: "Advanced Assembly Yard"
+#sm_titan_yards_desc: "Assembly Yards provide specialized materials for shipyards, improving their efficiency. The building also function as powerful drydocks and extra ship refinements can be done here."
+
+#sm_defense_grid: "Auxiliary Platform Management Systems"
+#sm_defense_grid_desc: "The Starbase primary supercomputer can be augmented with an auxiliary system to increase its ability to support more platforms."
+
+sm_acot_spaceport_building_assembly_network: "组装网络"
+sm_acot_spaceport_building_assembly_network_desc: "Assembly Network 在每个造船厂之间提供神经网络，使他们能够以两倍的效率执行任务。"
+
+cannot_jump_to_system_due_to_component: "由于活跃的星际基地无效效应，无法跳转到该系统。"
+
+#sm_warp_fluctuator: "Internal Mass Relay"
+#sm_warp_fluctuator_desc: "Assists allied fleets in making precise FTL jumps as well as enhancing jump capabilities. The Relay also acts as emergency exit point for ships sustaining critical damage."
+
+#sm_communications_jammer: "Gap Generator"
+#sm_communications_jammer_desc: "Gap Generator make use of artificial nebula field to block off enemy sensors as well as disrupting their targeting systems. Other empires will not be able to see this system as if there's a nebula masking it."
+
+#sm_command_center: "Orbital Command Center"
+#sm_command_center_desc: "Local Command Hub designed to better coordinate defending fleets in repelling intruders though combined efforts."

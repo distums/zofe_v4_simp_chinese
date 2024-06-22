@@ -1,0 +1,470 @@
+﻿l_simp_chinese:
+
+############################################################ REACTORS ############################################################
+
+ai_behaviour: "主要计算机"
+special_ship_slot: "特殊船舶槽位"
+acot_tactical_computers: "战术计算机决定舰艇在与敌人的战斗中如何机动。"
+acot_support_defense_aura: "保护者防御光环"
+acot_support_offense_aura: "拦截者进攻光环"
+
+acot_flagship_defense_aura: "旗舰防御光环"
+acot_flagship_offense_aura: "旗舰进攻光环"
+acot_flagship_utility_aura: "旗舰实用光环"
+
+acot_command_defense_aura: "指挥防御光环"
+acot_command_offense_aura: "指挥进攻光环"
+acot_command_utility_aura: "命令实用程序光环"
+
+################################################ Bombardmeny ################################################
+
+ACOT_SA_BOMBARDMENT: "精密轨道有效载荷"
+ACOT_SA_BOMBARDMENT_DESC: "这些先进的有效载荷可能会消耗额外的功耗，但与标准发行的轨道轰炸有效载荷相比，它们的功能要强大得多，并且需要的存储空间要少得多。"
+
+ACOT_SA_FOCUSED_WEAPON_AMPLIFIER: "瓦雷利安炮塔"
+ACOT_SA_FOCUSED_WEAPON_AMPLIFIER_DESC: "专为近距离交战而设计的专用炮塔。,这种类型的炮塔提供较小的射程覆盖范围，以换取更高的火力。"
+
+ACOT_SA_INFERNAL_CORE: "地狱电容器"
+ACOT_SA_INFERNAL_CORE_DESC: "地狱电容器通过放大反应堆的最大充电序列来重新校准武器系统，以更加关注武器损坏。,这自然会导致较低的射速。"
+
+ACOT_SA_CRYO_CORE: "暴风雨电容器"
+ACOT_SA_CRYO_CORE_DESC: "暴风雨电容器通过冷却武器的热量排放来重新校准武器系统，以更多地关注射速，但这会导致潜在的伤害略低。"
+
+ACOT_SA_OVERCHARGED_DEFENSE: "阿克巴防御增幅器"
+ACOT_SA_OVERCHARGED_DEFENSE_DESC: "为飞船配备额外的冗余发电机，用于动力屏障和护盾。,虽然这些额外的发电机会给武器系统带来压力，但飞船肯定不会陷入任何陷阱。"
+
+ACOT_SA_SUPER_TARGETER: "目标调节器"
+ACOT_SA_SUPER_TARGETER_DESC: "对目标分辨率进行额外校准，以确保确认击中敌方目标。,系统需要额外的时间来计算最佳弹道并补偿目标的移动性，因此武器射速会降低。"
+
+ACOT_SA_SUPPLY_UNIT: "独立物流航点"
+ACOT_SA_SUPPLY_UNIT_DESC: "通过添加独立的后勤航点来确保船舶的后勤和每月维护预算，以便可以直接制造材料和替换单位。"
+
+ACOT_SA_POINT_DEFENSE_BUFF: "高性能PDS"
+ACOT_SA_POINT_DEFENSE_BUFF_DESC: "升级舰艇的点防御系统，配备额外的规格，以实现对导弹和攻击艇的高级筛选。,增加的额外力量也应该弥补他们火力的不足。"
+
+ACOT_SA_NANO_REPAIRER: "纳米修复无人机"
+ACOT_SA_NANO_REPAIRER_DESC: "为船舶配备强大的纳米修复无人机，将自动修复船舶的船体，该系统可以轻松调整以适应更大的船舶更高的船体强度。"
+
+ACOT_SA_ELITE_INSIGNIA: "精英徽章图案"
+ACOT_SA_ELITE_INSIGNIA_DESC: "全面升级舰艇的性能和规格，以满足帝国精英守卫的需求。,每个徽章都代表了能力、荣誉和技能的水平，需要盟友和敌人的适当尊重。,这是一艘为真正的男人和女人或机器制造的船。"
+
+################################################ CREW SETUP ################################################
+
+############# ISC PILOTS
+
+acot_isc_pilot: "ISC 飞行员"
+acot_isc_pilot_desc: "ISC 通常太大、太复杂，无法通过远程或神经网络进行控制，因此需要活跃的飞行员。"
+
+ACOT_ISC_PILOT_STANDARD: "ISC僚机"
+ACOT_ISC_PILOT_STANDARD_DESC: "喜欢 ISC 的快速和激烈性质的大胆人士。,每个人都必须已经熟悉标准神经网络模拟。"
+
+ACOT_ISC_PILOT_MACHINE: "ISC 单位"
+ACOT_ISC_PILOT_MACHINE_DESC: "需要一个物理平台来直接与 ISC 连接。,不仅可以对命令做出更高的响应，还可以接收和接收超光速信号，这是标准非平台攻击机无法做到的。"
+
+ACOT_ISC_PILOT_ACE: "ISC 王牌僚机"
+ACOT_ISC_PILOT_ACE_DESC: "这些资深高手不仅经验比很多人丰富得多，而且装备也更加强大。,其中最值得注意的是增加了专门的增强功能，消除了对任何生命支持系统的需求。,他们适应任何情况的能力使他们成为对手的危险对手。"
+
+############# CREWS
+
+acot_crew_department: "船员部"
+ship_crews: "船员"
+
+tech_acot_crew_normal: "星舰船员"
+tech_acot_crew_normal_desc: "从舰队学院接受训练的正规船员。,他们需要适度的付款和食物供应。,虽然不是特别令人惊奇，但他们训练有素，足以完成工作。"
+
+TECH_UNLOCK_BASIC_CREW_TITLE: "§H解锁：§!,基本船员"
+TECH_UNLOCK_BASIC_CREW_DESC: "§H基础船员§!\n从舰队学院接受训练的普通船员。,他们需要适度的付款和食物供应。,虽然不是特别令人惊奇，但他们训练有素，足以完成工作。"
+
+ACOT_CREW_STANDARD: "标准船员设置"
+ACOT_CREW_STANDARD_DESC: "从舰队学院接受训练的正规船员。,他们需要适度的付款和食物供应。,虽然不是特别令人惊奇，但他们训练有素，足以完成工作。"
+ACOT_CREW_STANDARD_MEDIUM: "标准船员设置"
+ACOT_CREW_STANDARD_MEDIUM_DESC: "从舰队学院接受训练的正规船员。,他们需要适度的付款和食物供应。,虽然不是特别令人惊奇，但他们训练有素，足以完成工作。"
+ACOT_CREW_STANDARD_LARGE: "标准船员设置"
+ACOT_CREW_STANDARD_LARGE_DESC: "从舰队学院接受训练的正规船员。,他们需要适度的付款和食物供应。,虽然不是特别令人惊奇，但他们训练有素，足以完成工作。"
+ACOT_CREW_STANDARD_CAPITAL: "标准船员设置"
+ACOT_CREW_STANDARD_CAPITAL_DESC: "从舰队学院接受训练的正规船员。,他们需要适度的付款和食物供应。,虽然不是特别令人惊奇，但他们训练有素，足以完成工作。"
+ACOT_CREW_STANDARD_FLAGSHIP: "标准船员设置"
+ACOT_CREW_STANDARD_FLAGSHIP_DESC: "从舰队学院接受训练的正规船员。,他们需要适度的付款和食物供应。,虽然不是特别令人惊奇，但他们训练有素，足以完成工作。"
+ACOT_CREW_STANDARD_COMMAND: "标准船员设置"
+ACOT_CREW_STANDARD_COMMAND_DESC: "从舰队学院接受训练的正规船员。,他们需要适度的付款和食物供应。,虽然不是特别令人惊奇，但他们训练有素，足以完成工作。"
+
+tech_acot_crew_elite: "精英船员"
+tech_acot_crew_elite_desc: "精英船员以学院的最高分毕业。,他们擅长在压力下工作并且学习速度很快。,然而，与普通人相比，他们需要额外支付积分。"
+
+TECH_UNLOCK_ELITE_CREW_TITLE: "§H解锁：§!,精英船员"
+TECH_UNLOCK_ELITE_CREW_DESC: "§HElite Crew§!\n精英船员以学院最高分毕业。,他们擅长在压力下工作并且学习速度很快。,然而，与普通人相比，他们需要额外支付积分。"
+
+ACOT_CREW_ELITE: "精英船员设置"
+ACOT_CREW_ELITE_DESC: "精英船员以学院的最高分毕业。,他们擅长在压力下工作并且学习速度很快。,然而，与普通人相比，他们需要额外支付积分。"
+ACOT_CREW_ELITE_MEDIUM: "精英船员设置"
+ACOT_CREW_ELITE_MEDIUM_DESC: "精英船员以学院的最高分毕业。,他们擅长在压力下工作并且学习速度很快。,然而，与普通人相比，他们需要额外支付积分。"
+ACOT_CREW_ELITE_LARGE: "精英船员设置"
+ACOT_CREW_ELITE_LARGE_DESC: "精英船员以学院的最高分毕业。,他们擅长在压力下工作并且学习速度很快。,然而，与普通人相比，他们需要额外支付积分。"
+ACOT_CREW_ELITE_CAPITAL: "精英船员设置"
+ACOT_CREW_ELITE_CAPITAL_DESC: "精英船员以学院的最高分毕业。,他们擅长在压力下工作并且学习速度很快。,然而，与普通人相比，他们需要额外支付积分。"
+ACOT_CREW_ELITE_FLAGSHIP: "精英船员设置"
+ACOT_CREW_ELITE_FLAGSHIP_DESC: "精英船员以学院的最高分毕业。,他们擅长在压力下工作并且学习速度很快。,然而，与普通人相比，他们需要额外支付积分。"
+ACOT_CREW_ELITE_COMMAND: "精英船员设置"
+ACOT_CREW_ELITE_COMMAND_DESC: "精英船员以学院的最高分毕业。,他们擅长在压力下工作并且学习速度很快。,然而，与普通人相比，他们需要额外支付积分。"
+
+ACOT_CREW_HYBRID: "混合船员设置"
+ACOT_CREW_HYBRID_DESC: "也许船员的最佳方式是将有机物的聪明才智和机器的效率结合起来。,这将极大地确保如果两组中的一组受到损害，另一组将使事情保持一致（除非他们都受到损害，那么......表）"
+ACOT_CREW_HYBRID_MEDIUM: "混合船员设置"
+ACOT_CREW_HYBRID_MEDIUM_DESC: "也许船员的最佳方式是将有机物的聪明才智和机器的效率结合起来。,这将极大地确保如果两组中的一组受到损害，另一组将使事情保持一致（除非他们都受到损害，那么......表）"
+ACOT_CREW_HYBRID_LARGE: "混合船员设置"
+ACOT_CREW_HYBRID_LARGE_DESC: "也许船员的最佳方式是将有机物的聪明才智和机器的效率结合起来。,这将极大地确保如果两组中的一组受到损害，另一组将使事情保持一致（除非他们都受到损害，那么......表）"
+ACOT_CREW_HYBRID_CAPITAL: "混合船员设置"
+ACOT_CREW_HYBRID_CAPITAL_DESC: "也许船员的最佳方式是将有机物的聪明才智和机器的效率结合起来。,这将极大地确保如果两组中的一组受到损害，另一组将使事情保持一致（除非他们都受到损害，那么......表）"
+ACOT_CREW_HYBRID_FLAGSHIP: "混合船员设置"
+ACOT_CREW_HYBRID_FLAGSHIP_DESC: "也许船员的最佳方式是将有机物的聪明才智和机器的效率结合起来。,这将极大地确保如果两组中的一组受到损害，另一组将使事情保持一致（除非他们都受到损害，那么......表）"
+ACOT_CREW_HYBRID_COMMAND: "混合船员设置"
+ACOT_CREW_HYBRID_COMMAND_DESC: "也许船员的最佳方式是将有机物的聪明才智和机器的效率结合起来。,这将极大地确保如果两组中的一组受到损害，另一组将使事情保持一致（除非他们都受到损害，那么......表）"
+
+tech_acot_crew_machine: "机械人员"
+tech_acot_crew_machine_desc: "嘟嘟嘟。,在和平时期，船上的生活可能非常非常无聊和平静，而在战争时期则非常危险。,但只要使用机器人人员代替有机人员，所有问题都可以轻松解决。,这也意味着食物供应也被矿物质所取代，以维持他们的身体。"
+
+TECH_UNLOCK_MACHINE_TITLE: "§H解锁：§!,机械人员"
+TECH_UNLOCK_MACHINE_DESC: "§H机器人员§!\n嘟嘟声。,在和平时期，船上的生活可能非常非常无聊和平静，而在战争时期则非常危险。,但只要使用机器人人员代替有机人员，所有问题都可以轻松解决。,这也意味着食物供应也被矿物质所取代，以维持他们的身体。"
+
+ACOT_CREW_MACHINE: "机组人员设置"
+ACOT_CREW_MACHINE_DESC: "嘟嘟嘟。,在和平时期，船上的生活可能非常非常无聊和平静，而在战争时期则非常危险。,但只要使用机器人人员代替有机人员，所有问题都可以轻松解决。,这也意味着食物供应也被矿物质所取代，以维持他们的身体。"
+ACOT_CREW_MACHINE_MEDIUM: "机组人员设置"
+ACOT_CREW_MACHINE_MEDIUM_DESC: "嘟嘟嘟。,在和平时期，船上的生活可能非常非常无聊和平静，而在战争时期则非常危险。,但只要使用机器人人员代替有机人员，所有问题都可以轻松解决。,这也意味着食物供应也被矿物质所取代，以维持他们的身体。"
+ACOT_CREW_MACHINE_LARGE: "机组人员设置"
+ACOT_CREW_MACHINE_LARGE_DESC: "嘟嘟嘟。,在和平时期，船上的生活可能非常非常无聊和平静，而在战争时期则非常危险。,但只要使用机器人人员代替有机人员，所有问题都可以轻松解决。,这也意味着食物供应也被矿物质所取代，以维持他们的身体。"
+ACOT_CREW_MACHINE_CAPITAL: "机组人员设置"
+ACOT_CREW_MACHINE_CAPITAL_DESC: "嘟嘟嘟。,在和平时期，船上的生活可能非常非常无聊和平静，而在战争时期则非常危险。,但只要使用机器人人员代替有机人员，所有问题都可以轻松解决。,这也意味着食物供应也被矿物质所取代，以维持他们的身体。"
+ACOT_CREW_MACHINE_FLAGSHIP: "机组人员设置"
+ACOT_CREW_MACHINE_FLAGSHIP_DESC: "嘟嘟嘟。,在和平时期，船上的生活可能非常非常无聊和平静，而在战争时期则非常危险。,但只要使用机器人人员代替有机人员，所有问题都可以轻松解决。,这也意味着食物供应也被矿物质所取代，以维持他们的身体。"
+ACOT_CREW_MACHINE_COMMAND: "机组人员设置"
+ACOT_CREW_MACHINE_COMMAND_DESC: "嘟嘟嘟。,在和平时期，船上的生活可能非常非常无聊和平静，而在战争时期则非常危险。,但只要使用机器人人员代替有机人员，所有问题都可以轻松解决。,这也意味着食物供应也被矿物质所取代，以维持他们的身体。"
+
+tech_acot_crew_automated: "无人航天器"
+tech_acot_crew_automated_desc: "无人航天器或 USV 是一种船员设置，其中船内进行的所有操作均由主动指挥中心的各种自动化或远程控制机器进行。,缺乏有机船员意味着所有食物和能源维持都有效地被矿物质取代。,尽管这总体上导致投资成本降低，但绩效却明显较差。"
+
+TECH_UNLOCK_AUTOMATED_TITLE: "§H解锁：§! ,USV 设置"
+TECH_UNLOCK_AUTOMATED_DESC: "§HUSV 设置§!\n无人航天器或 USV 是一种船员设置，其中船内执行的所有操作均由主动指挥中心的各种自动或远程控制机器进行。,缺乏有机船员意味着所有食物和能源维持都有效地被矿物质取代。,尽管这总体上导致投资成本降低，但绩效却明显较差。"
+
+ACOT_CREW_AUTOMATED: "USV 设置"
+ACOT_CREW_AUTOMATED_DESC: "无人航天器或 USV 是一种船员设置，其中船内进行的所有操作均由主动指挥中心的各种自动化或远程控制机器进行。,缺乏有机船员意味着所有食物和能源维持都有效地被矿物质取代。,尽管这总体上导致投资成本降低，但绩效却明显较差。"
+ACOT_CREW_AUTOMATED_MEDIUM: "USV 设置"
+ACOT_CREW_AUTOMATED_MEDIUM_DESC: "无人航天器或 USV 是一种船员设置，其中船内进行的所有操作均由主动指挥中心的各种自动化或远程控制机器进行。,缺乏有机船员意味着所有食物和能源维持都有效地被矿物质取代。,尽管这总体上导致投资成本降低，但绩效却明显较差。"
+ACOT_CREW_AUTOMATED_LARGE: "USV 设置"
+ACOT_CREW_AUTOMATED_LARGE_DESC: "无人航天器或 USV 是一种船员设置，其中船内进行的所有操作均由主动指挥中心的各种自动化或远程控制机器进行。,缺乏有机船员意味着所有食物和能源维持都有效地被矿物质取代。,尽管这总体上导致投资成本降低，但绩效却明显较差。"
+ACOT_CREW_AUTOMATED_CAPITAL: "USV 设置"
+ACOT_CREW_AUTOMATED_CAPITAL_DESC: "无人航天器或 USV 是一种船员设置，其中船内进行的所有操作均由主动指挥中心的各种自动化或远程控制机器进行。,缺乏有机船员意味着所有食物和能源维持都有效地被矿物质取代。,尽管这总体上导致投资成本降低，但绩效却明显较差。"
+ACOT_CREW_AUTOMATED_FLAGSHIP: "USV 设置"
+ACOT_CREW_AUTOMATED_FLAGSHIP_DESC: "无人航天器或 USV 是一种船员设置，其中船内进行的所有操作均由主动指挥中心的各种自动化或远程控制机器进行。,缺乏有机船员意味着所有食物和能源维持都有效地被矿物质取代。,尽管这总体上导致投资成本降低，但绩效却明显较差。"
+ACOT_CREW_AUTOMATED_COMMAND: "USV 设置"
+ACOT_CREW_AUTOMATED_COMMAND_DESC: "无人航天器或 USV 是一种船员设置，其中船内进行的所有操作均由主动指挥中心的各种自动化或远程控制机器进行。,缺乏有机船员意味着所有食物和能源维持都有效地被矿物质取代。,尽管这总体上导致投资成本降低，但绩效却明显较差。"
+
+tech_acot_crew_solo: "指挥座"
+tech_acot_crew_solo_desc: "SOC 是船员和船上计算机之间极其先进的实验性神经网络接口。,该系统的开发将彻底改变星舰船员的处理方式。,很快，船舶必须配备大量船员的日子将成为过去，船舶只能由少数有天赋的人来管理。"
+
+TECH_UNLOCK_SOLO_CREW_TITLE: "§H解锁：§!,指挥座"
+TECH_UNLOCK_SOLO_CREW_DESC: "§H指挥中心§!\nSOC 是船员和船上计算机之间极其先进的实验性神经网络接口。,该系统的开发将彻底改变星舰船员的处理方式。,很快，船舶必须配备大量船员的日子将成为过去，船舶只能由少数有天赋的人来管理。"
+
+ACOT_CREW_SOLO: "SOC设置"
+ACOT_CREW_SOLO_DESC: "这些舰艇可以安装指挥座（SOC），而不是依赖大量船员；,天才个体和船上主计算机之间的一系列强大的神经接口。,这使得该船只需很少的船员即可操作。,然而，SoC 的要求非常高，操作员必须从出生开始接受培训，并在很小的时候就开始服役。,所需的维护将是巨大的，但性能的提高是不可否认的。"
+ACOT_CREW_SOLO_MEDIUM: "SOC设置"
+ACOT_CREW_SOLO_MEDIUM_DESC: "这些舰艇可以安装指挥座（SOC），而不是依赖大量船员；,天才个体和船上主计算机之间的一系列强大的神经接口。,这使得该船只需很少的船员即可操作。,然而，SoC 的要求非常高，操作员必须从出生开始接受培训，并在很小的时候就开始服役。,所需的维护将是巨大的，但性能的提高是不可否认的。"
+ACOT_CREW_SOLO_LARGE: "SOC设置"
+ACOT_CREW_SOLO_LARGE_DESC: "这些舰艇可以安装指挥座（SOC），而不是依赖大量船员；,天才个体和船上主计算机之间的一系列强大的神经接口。,这使得该船只需很少的船员即可操作。,然而，SoC 的要求非常高，操作员必须从出生开始接受培训，并在很小的时候就开始服役。,所需的维护将是巨大的，但性能的提高是不可否认的。"
+ACOT_CREW_SOLO_CAPITAL: "SOC设置"
+ACOT_CREW_SOLO_CAPITAL_DESC: "这些舰艇可以安装指挥座（SOC），而不是依赖大量船员；,天才个体和船上主计算机之间的一系列强大的神经接口。,这使得该船只需很少的船员即可操作。,然而，SoC 的要求非常高，操作员必须从出生开始接受培训，并在很小的时候就开始服役。,所需的维护将是巨大的，但性能的提高是不可否认的。"
+ACOT_CREW_SOLO_FLAGSHIP: "SOC设置"
+ACOT_CREW_SOLO_FLAGSHIP_DESC: "这些舰艇可以安装指挥座（SOC），而不是依赖大量船员；,天才个体和船上主计算机之间的一系列强大的神经接口。,这使得该船只需很少的船员即可操作。,然而，SoC 的要求非常高，操作员必须从出生开始接受培训，并在很小的时候就开始服役。,所需的维护将是巨大的，但性能的提高是不可否认的。"
+ACOT_CREW_SOLO_COMMAND: "SOC设置"
+ACOT_CREW_SOLO_COMMAND_DESC: "这些舰艇可以安装指挥座（SOC），而不是依赖大量船员；,天才个体和船上主计算机之间的一系列强大的神经接口。,这使得该船只需很少的船员即可操作。,然而，SoC 的要求非常高，操作员必须从出生开始接受培训，并在很小的时候就开始服役。,所需的维护将是巨大的，但性能的提高是不可否认的。"
+
+################################################ COMMANDING OFFICER ################################################
+
+acot_commanding_officer: "司令"
+
+ACOT_OFFICER_NONE: "船长"
+ACOT_OFFICER_NONE_DESC: "也许在不太重要或小型的船上，命令可以简单地发送给船上最高级别的人员，他们被自动指定为船长。"
+
+tech_acot_co_basic: "指定指挥官"
+tech_acot_co_basic_desc: "通过为船舶指派经过适当培训且合格的船长，可以实现船员之间更好的协调。"
+
+TECH_UNLOCK_CO_DEFAULT_TITLE: "§H解锁：§!,船公司"
+TECH_UNLOCK_CO_DEFAULT_DESC: "§H船舶CO§!\n通过为船舶指派经过适当培训且合格的船长，可以实现船员之间更好的协调。"
+
+ACOT_OFFICER_DEFAULT: "船长"
+ACOT_OFFICER_DEFAULT_DESC: "传统上，船只由船长指挥，船长提供基本的领导和协调。"
+
+ACOT_OFFICER_COMMISSAR: "舰政委"
+ACOT_OFFICER_COMMISSAR_DESC: "在船上任命一名海军政委，以适当激励船员发挥最大潜力。,除非有最高指挥部的直接命令，否则船员不得自行发出紧急撤退命令。,他们还接受训练，可以更快、更接近敌人，以便政委可以直接用剑击中他们（至少他们喜欢这么说）。"
+
+tech_acot_co_machine: "主控单元"
+tech_acot_co_machine_desc: "虽然我们的单元的物理平台直接从中央处理器接收命令，但分配一个具有自己的分析算法的适当的 MCU 可能会带来更好的舰船个体性能。"
+
+ACOT_OFFICER_MACHINE: "主控单元"
+ACOT_OFFICER_MACHINE_DESC: "虽然我们的单元的物理平台直接从中央处理器接收命令，但分配一个具有自己的分析算法的适当的 MCU 可能会带来更好的舰船个体性能。"
+
+ACOT_CREW_KHAN: "大汗的子孙"
+ACOT_CREW_KHAN_DESC: "大汗的子孙"
+
+################################################ BEHAVIOR CAMPUTOR ################################################
+
+acot_isc_tactical_computers: "ISC战术计算机"
+acot_isc_tactical_computers_desc: "ISC 本质上是攻击飞行器。,因此，与普通舰艇相比，它们需要采用不同类型的战术机动。"
+
+ACOT_TACTIC_ISC_MIN: "拦截战术"
+ACOT_TACTIC_ISC_MIN_DESC: "§H拦截战术：§! ,ISC 将冲入最小武器射程并围绕目标盘旋。 ,（§Y分钟§!）。"
+
+ACOT_TACTIC_ISC_STRAFE: "扫射战术"
+ACOT_TACTIC_ISC_STRAFE_DESC: "§H 交通策略：§! ,ISC 将冲入近距离，发动攻击，然后扫射回来进行另一次攻击。 ,（§Y30§!）。"
+
+ACOT_TACTIC_ISC_FREE: "自由战术"
+ACOT_TACTIC_ISC_FREE_DESC: "§H自由战术：§! ,ISC将等待舰队指挥部的直接指示，不会自行行动。 ,（§Y手动控制§!）。"
+
+ACOT_MIN_STATIONARY_DESC: "§H 线战术：§!,该舰将向敌人冲锋，并停在其最短射程的武器处。 ,（§Y最小值§!）。"
+ACOT_MEDIAN_STATIONARY_DESC: "§H 线战术：§!,这艘船将向敌人冲锋，并停在其最长和最短射程武器之间。 ,（§Y中位数§!）。"
+ACOT_MAX_STATIONARY_DESC: "§H 线战术：§!,这艘船将向敌人冲锋，并停在其射程最远的武器处。 ,（§Y最大§!）。"
+ACOT_30_STATIONARY_DESC: "§H 线战术：§!,该船将向敌人冲锋并在 30 距离处停止。 ,（§Y30§!）。"
+ACOT_60_STATIONARY_DESC: "§H 线战术：§!,该船将向敌人冲锋并在 60 距离处停止。 ,（§Y60§!）。"
+ACOT_90_STATIONARY_DESC: "§H 线战术：§!,该船将向敌人冲锋并在 90 距离处停止。 ,（§Y90§!）。"
+ACOT_150_STATIONARY_DESC: "§H 线战术：§!,该船将向敌人冲锋并在 150 距离处停止。 ,（§Y150§!）。"
+ACOT_200_STATIONARY_DESC: "§H 线战术：§!,该舰将向敌人发起冲锋，并在 200 距离处停下来。 ,（§Y200§!）。"
+
+ACOT_MIN_ORBIT_DESC: "§H规避策略：§!,该船将使用其最短射程的武器向敌人冲锋并绕圈。 ,（§Y最小值§!）。"
+ACOT_MEDIAN_ORBIT_DESC: "§H规避策略：§!,这艘船将向敌人冲锋，并在其最长和最短射程的武器之间盘旋。 ,（§Y中位数§!）。"
+ACOT_MAX_ORBIT_DESC: "§H规避策略：§!,这艘船将使用其射程最远的武器向敌人冲锋并绕行。 ,（§Y最大§!）。"
+ACOT_30_ORBIT_DESC: "§H规避策略：§!,该船将向敌人冲锋并在 30 范围内盘旋。 ,（§Y30§!）。"
+ACOT_60_ORBIT_DESC: "§H规避策略：§!,该船将向敌人冲锋并在 60 范围内盘旋。 ,（§Y60§!）。"
+ACOT_90_ORBIT_DESC: "§H规避策略：§!,该舰将向敌人冲锋，并在 90 范围内盘旋。 ,（§Y90§!）。"
+ACOT_150_ORBIT_DESC: "§H规避策略：§!,该舰将向敌人冲锋并在 150 范围内盘旋。 ,（§Y150§!）。"
+ACOT_200_ORBIT_DESC: "§H规避策略：§!,该舰将向敌人冲锋并在 200 范围内盘旋。 ,（§Y200§!）。"
+
+ACOT_MIN_PLATFORM_DESC: "§H哨兵模式：§!,该平台将向敌人冲锋，直到它可以使用其最短射程的武器。 ,（§Y收费§!）。"
+ACOT_MAX_PLATFORM_DESC: "§H守护者模式：§!,该平台将停留在恒星基地附近并且不会脱离编队。 ,（§Y固定式§!）。"
+
+ACOT_FREE_TACTICS_DESC: "§H自由战术：§!,该船将服从战术指挥部的决定，不会自行移动。 ,（§Y手动控制§!）。"
+
+ACOT_TACTIC_MIN_STATIOANRY: "最小线战术计算机"
+ACOT_TACTIC_MIN_STATIOANRY_DESC: "战术计算机决定舰艇在与敌人的战斗中如何机动。"
+
+ACOT_TACTIC_30_STATIOANRY: "30R线战术电脑"
+ACOT_TACTIC_30_STATIOANRY_DESC: "战术计算机决定舰艇在与敌人的战斗中如何机动。"
+
+ACOT_TACTIC_60_STATIOANRY: "60R线战术电脑"
+ACOT_TACTIC_60_STATIOANRY_DESC: "战术计算机决定舰艇在与敌人的战斗中如何机动。"
+
+ACOT_TACTIC_90_STATIOANRY: "90R 线型战术电脑"
+ACOT_TACTIC_90_STATIOANRY_DESC: "战术计算机决定舰艇在与敌人的战斗中如何机动。"
+
+ACOT_TACTIC_150_STATIOANRY: "120R线战术电脑"
+ACOT_TACTIC_150_STATIOANRY_DESC: "战术计算机决定舰艇在与敌人的战斗中如何机动。"
+
+ACOT_TACTIC_MEDIAN_STATIOANRY: "中线战术计算机"
+ACOT_TACTIC_MEDIAN_STATIOANRY_DESC: "战术计算机决定舰艇在与敌人的战斗中如何机动。"
+
+ACOT_TACTIC_MAX_STATIOANRY: "Max Line 战术计算机"
+ACOT_TACTIC_MAX_STATIOANRY_DESC: "战术计算机决定舰艇在与敌人的战斗中如何机动。"
+
+ACOT_TACTIC_MIN_ORBIT: "最小规避战术计算机"
+ACOT_TACTIC_MIN_ORBIT_DESC: "战术计算机决定舰艇在与敌人的战斗中如何机动。"
+
+ACOT_TACTIC_30_ORBIT: "30R 规避战术计算机"
+ACOT_TACTIC_30_ORBIT_DESC: "战术计算机决定舰艇在与敌人的战斗中如何机动。"
+
+ACOT_TACTIC_60_ORBIT: "60R 规避战术计算机"
+ACOT_TACTIC_60_ORBIT_DESC: "战术计算机决定舰艇在与敌人的战斗中如何机动。"
+
+ACOT_TACTIC_90_ORBIT: "90R 规避战术计算机"
+ACOT_TACTIC_90_ORBIT_DESC: "战术计算机决定舰艇在与敌人的战斗中如何机动。"
+
+ACOT_TACTIC_150_ORBIT: "150R 规避战术计算机"
+ACOT_TACTIC_150_ORBIT_DESC: "战术计算机决定舰艇在与敌人的战斗中如何机动。"
+
+ACOT_TACTIC_MEDIAN_ORBIT: "中位规避战术计算机"
+ACOT_TACTIC_MEDIAN_ORBIT_DESC: "战术计算机决定舰艇在与敌人的战斗中如何机动。"
+
+ACOT_TACTIC_MAX_ORBIT: "最大规避战术计算机"
+ACOT_TACTIC_MAX_ORBIT_DESC: "战术计算机决定舰艇在与敌人的战斗中如何机动。"
+
+ACOT_TACTIC_FREE: "手动战术电脑"
+ACOT_TACTIC_FREE_DESC: "战术计算机决定舰艇在与敌人的战斗中如何机动。"
+
+ACOT_TACTIC_PLATFORM_PROTECT: "卫士战术计算机"
+ACOT_TACTIC_PLATFORM_PROTECT_DESC: "战术计算机决定舰艇在与敌人的战斗中如何机动。"
+
+ACOT_TACTIC_PLATFORM_GOHAM: "哨兵战术计算机"
+ACOT_TACTIC_PLATFORM_GOHAM_DESC: "战术计算机决定舰艇在与敌人的战斗中如何机动。"
+
+ACOT_LR_BEHAVIOR_DESC: "§H重炮：§!,该舰将与其他舰艇保持更远的距离，以便对目标进行火力压制。 ,（§Y120§!）。"
+ACOT_MAX_RANGE_BEHAVIOR_DESC: "§H后线支持：§!,该船将保持最远的距离，掩护在其他船只后面并用远程武器支援它们。（§YMAX§!）。"
+CARRIER_STATION_BEHAVIR_DESC: "§H突击航母：§!,当敌人接近时，这艘船将面向前方，但不会进一步前进。,这使得攻击机能够逼近敌人，而母舰不会将自己置于危险之中，直到敌人逼近其他武器开火为止。"
+CARRIER_AVOID_BEHAVIR_DESC: "§H 入侵载体：§!,当敌人接近时，这艘船将面朝前方，如果敌人太近，这艘船将尝试躲避并移出射程。,这使得攻击机能够消灭敌方船只，而母舰则可以避免遭到报复。,然而，这意味着大多数脊柱（XL/T）将不起作用，因为船不会面向敌人。"
+################################################ AURA DRIVE ################################################
+
+
+station_small_aura_components: "斯摩尔"
+station_medium_aura_components: "平民"
+station_large_aura_components: "大博伊"
+
+#### ISC AURA
+
+acot_isc_aura: "ISC 干涉矩阵"
+acot_isc_aura_desc: "ISC 干扰矩阵"
+
+ACOT_ISC_AURA_EMPTY: "辅助发电机"
+ACOT_ISC_AURA_EMPTY_DESC: "通过配备辅助发生器代替任何干扰矩阵来节省电力。"
+
+ACOT_ISC_AURA_EMP_FIELD: "电磁脉冲场"
+ACOT_ISC_AURA_EMP_FIELD_DESC: "为每个 ISC 配备短程电磁脉冲场，这将降低敌人护盾和动能屏障的强度。\n\n§Y半径§! ,：30"
+acot_aura_isc_emp: "电磁脉冲场"
+
+ACOT_ISC_AURA_BUZZDROID: "嗡嗡声机器人"
+ACOT_ISC_AURA_BUZZDROID_DESC: "为每个 ISC 配备一群 Buzzdroid，它们会慢慢撕裂较小船的船体，同时忽略它们的护盾。\n\n§Y半径§! ,：30"
+acot_aura_isc_buzzdroid: "嗡嗡声机器人"
+
+ACOT_ISC_AURA_TRACKING_JAMMER: "瞄准干扰矩阵"
+ACOT_ISC_AURA_TRACKING_JAMMER_DESC: "为每个 ISC 配备短程干扰矩阵，该矩阵将严重扰乱敌舰跟踪和发现目标的能力。\n\n§Y半径§! ,：30"
+acot_aura_isc_tracking_jammer: "瞄准干扰矩阵"
+
+ACOT_ISC_AURA_TRACTOR_FIELD: "诱捕场"
+ACOT_ISC_AURA_TRACTOR_FIELD_DESC: "为每个 ISC 配备一个短程诱捕场，这将严重扰乱敌舰的移动和躲避能力。\n\n§Y半径§! ,：30"
+acot_aura_isc_tractor_field: "诱捕场"
+
+ACOT_ISC_AURA_SC_NERFER: "神经网络集群"
+ACOT_ISC_AURA_SC_NERFER_DESC: "为每个 ISC 配备一个短程神经网络群聚器，它将严重扰乱敌方航母指挥攻击机的能力。\n\n§Y半径§! ,：30"
+acot_aura_isc_sc_nerfer: "神经网络集群"
+#### SUPPORT OFFENSIVE AURA
+
+ACOT_AURA_OFFENSIVE_EMPTY: "辅助发电机"
+ACOT_AURA_OFFENSIVE_EMPTY_DESC: "通过装备辅助发电机代替任何空间操纵场来节省电力。"
+
+ACOT_AURA_DEFENSIVE_EMPTY: "辅助发电机"
+ACOT_AURA_DEFENSIVE_EMPTY_DESC: "通过装备辅助发电机代替任何空间操纵场来节省电力。"
+
+ACOT_AURA_DEFENSE_JAMMER: "防御抑制剂领域"
+ACOT_AURA_DEFENSE_JAMMER_DESC: "强大的隐形子空间场，可降低敌人护盾和动能屏障的有效性。\n\n§Y半径§! ,: 100"
+acot_aura_defense_jammer: "防御抑制剂领域"
+
+ACOT_AURA_DPS_JAMMER: "功率阻尼场"
+ACOT_AURA_DPS_JAMMER_DESC: "强大的隐形子空间场，可降低敌人火力的有效性。\n\n§Y半径§! ,: 100"
+acot_aura_dps_jammer: "功率阻尼场"
+
+ACOT_AURA_TARGETING_JAMMER: "瞄准干扰器系统"
+ACOT_AURA_TARGETING_JAMMER_DESC: "强大的干扰矩阵，可降低敌人瞄准传感器的效率。\n\n§Y半径§! ,: 100"
+acot_aura_targeting_jammer: "瞄准干扰器系统"
+
+ACOT_AURA_MOBILITY_JAMMER: "子空间干扰场"
+ACOT_AURA_MOBILITY_JAMMER_DESC: "强大的隐形子空间场，可降低敌人的机动性。\n\n§Y半径§! ,: 100"
+acot_aura_mobility_jammer: "子空间干扰场"
+
+ACOT_AURA_FTL_JAMMER: "重力井发生器"
+ACOT_AURA_FTL_JAMMER_DESC: "强大的隐形子空间场，可降低敌人 FTL 系统的效率。\n\n§Y半径§! ,：200"
+acot_aura_ftl_jammer: "重力井发生器"
+
+#### SUPPORT DEFENSIVE AURA
+
+ACOT_AURA_DEFENSE_BUFFER: "防御矩阵场"
+ACOT_AURA_DEFENSE_BUFFER_DESC: "强大的隐形子空间场，可提高盟军护盾和动能屏障的有效性。\n\n§Y半径§! ,: 100"
+acot_aura_defense_buffer: "防御矩阵场"
+
+ACOT_AURA_DPS_BUFFER: "电源浪涌场"
+ACOT_AURA_DPS_BUFFER_DESC: "强大的隐形子空间力场，可提高盟军火力的效率。\n\n§Y半径§! ,: 100"
+acot_aura_dps_buffer: "电源浪涌场"
+
+ACOT_AURA_MOBILITY_BUFFER: "子空间导航系统"
+ACOT_AURA_MOBILITY_BUFFER_DESC: "强大的子空间导航器，可提高盟军机动性的效率。\n\n§Y半径§! ,: 100"
+acot_aura_mobility_buffer: "子空间导航系统"
+
+ACOT_AURA_TARGETING_BUFFER: "瞄准网络阵列"
+ACOT_AURA_TARGETING_BUFFER_DESC: "强大的隐形子空间场，可提高盟军目标计算机的效率。\n\n§Y半径§! ,: 100"
+acot_aura_targeting_buffer: "瞄准网络阵列"
+
+ACOT_AURA_REGENERATION_BUFFER: "再生场"
+ACOT_AURA_REGENERATION_BUFFER_DESC: "强大的隐形子空间力场，可逐渐恢复友军的船体点数。\n\n§Y半径§! ,: 100"
+acot_aura_regeneration_buffer: "再生场"
+
+#### FLAGSHIP OFFENSIVE AURA
+
+ACOT_AURA_OFFENSIVE_EMPTY_FLAGSHIP: "辅助发电机"
+ACOT_AURA_OFFENSIVE_EMPTY_FLAGSHIP_DESC: "通过装备辅助发电机代替任何空间操纵场来节省电力。"
+
+ACOT_AURA_DEFENSE_JAMMER_FLAGSHIP: "先进防御抑制剂领域"
+ACOT_AURA_DEFENSE_JAMMER_FLAGSHIP_DESC: "强大的隐形子空间场，可降低敌人护盾和动能屏障的有效性。"
+acot_aura_defense_jammer_flagship: "先进防御抑制剂领域"
+
+ACOT_AURA_DPS_JAMMER_FLAGSHIP: "先进的功率阻尼场"
+ACOT_AURA_DPS_JAMMER_FLAGSHIP_DESC: "强大的隐形子空间场，可降低敌人火力的有效性。"
+acot_aura_dps_jammer_flagship: "先进的功率阻尼场"
+
+ACOT_AURA_TARGETING_JAMMER_FLAGSHIP: "先进的瞄准干扰器系统"
+ACOT_AURA_TARGETING_JAMMER_FLAGSHIP_DESC: "强大的干扰矩阵，可降低敌方目标传感器的有效性。"
+acot_aura_targeting_jammer_flagship: "先进的瞄准干扰器系统"
+
+ACOT_AURA_MOBILITY_JAMMER_FLAGSHIP: "高级子空间干涉场"
+ACOT_AURA_MOBILITY_JAMMER_FLAGSHIP_DESC: "强大的隐形子空间场，可降低敌人的机动性。"
+acot_aura_mobility_jammer_flagship: "高级子空间干涉场"
+
+ACOT_AURA_FTL_JAMMER_FLAGSHIP: "先进的重力井发生器"
+ACOT_AURA_FTL_JAMMER_FLAGSHIP_DESC: "强大的隐形子空间场，可降低敌人超光速系统的效率。"
+acot_aura_ftl_jammer_flagship: "先进的重力井发生器"
+
+#### FLAGSHIP DEFENSIVE AURA
+
+ACOT_AURA_DEFENSIVE_EMPTY_FLAGSHIP: "辅助发电机"
+ACOT_AURA_DEFENSIVE_EMPTY_FLAGSHIP_DESC: "通过装备辅助发电机代替任何空间操纵场来节省电力。"
+
+ACOT_AURA_DEFENSE_BUFFER_FLAGSHIP: "先进防御矩阵领域"
+ACOT_AURA_DEFENSE_BUFFER_FLAGSHIP_DESC: "强大的隐形子空间场，可提高盟军护盾和动能屏障的有效性。"
+acot_aura_defense_buffer_flagship: "先进防御矩阵领域"
+
+ACOT_AURA_DPS_BUFFER_FLAGSHIP: "先进的电源浪涌领域"
+ACOT_AURA_DPS_BUFFER_FLAGSHIP_DESC: "强大的隐形子空间场，可提高盟军火力的效率。"
+acot_aura_dps_buffer_flagship: "先进的电源浪涌领域"
+
+ACOT_AURA_MOBILITY_BUFFER_FLAGSHIP: "先进的子空间导航系统"
+ACOT_AURA_MOBILITY_BUFFER_FLAGSHIP_DESC: "强大的子空间导航器，可提高盟军机动性的效率。"
+acot_aura_mobility_buffer_flagship: "先进的子空间导航系统"
+
+ACOT_AURA_TARGETING_BUFFER_FLAGSHIP: "先进的瞄准网络阵列"
+ACOT_AURA_TARGETING_BUFFER_FLAGSHIP_DESC: "强大的隐形子空间场，可提高盟军目标计算机的效率。"
+acot_aura_targeting_buffer_flagship: "先进的瞄准网络阵列"
+
+ACOT_AURA_REGENERATION_BUFFER_FLAGSHIP: "高级再生领域"
+ACOT_AURA_REGENERATION_BUFFER_FLAGSHIP_DESC: "强大的无形亚空间力场，逐渐恢复友军的舰体点数。"
+acot_aura_regeneration_buffer_flagship: "高级再生领域"
+
+#### FLAGSHIP UTILITY AURA
+
+ACOT_AURA_UTILITY_EMPTY_FLAGSHIP: "辅助发电机"
+ACOT_AURA_UTILITY_EMPTY_FLAGSHIP_DESC: "通过装备辅助发电机代替任何空间操纵场来节省电力。"
+
+ACOT_AURA_UTILITY_EVASION_NULLIFIER: "子空间畸变场"
+ACOT_AURA_UTILITY_EVASION_NULLIFIER_DESC: "双刃剑操纵场，在局部空间内制造出强大的扭曲场，导致双方所有的躲避计算机都失效。"
+acot_aura_utility_evasion_nullifier_hostile: "子空间畸变场"
+acot_aura_utility_evasion_nullifier_friendly: "子空间畸变场"
+
+ACOT_AURA_UTILITY_GUARDIAN_SHIELD: "守护盾"
+ACOT_AURA_UTILITY_GUARDIAN_SHIELD_DESC: "旗舰可以发射强大的屏障，保护星系内的所有盟军舰艇。"
+acot_aura_utility_guardian_shield: "守护盾"
+
+ACOT_AURA_UTILITY_UPKEEP_REDUCER: "航点物流节点"
+ACOT_AURA_UTILITY_UPKEEP_REDUCER_DESC: "这种移动航路点传送器使旗舰能够有效地运输系统中船舶的替换部件，并为受损船舶提供特殊的锚点以用于紧急超光速运输。"
+acot_aura_utility_upkeep_reducer: "航点物流节点"
+
+ACOT_AURA_UTILITY_JUMP_COORDINATOR: "跳跃协调员"
+ACOT_AURA_UTILITY_JUMP_COORDINATOR_DESC: "该模块允许旗舰作为所有船舶链接的强大参考网络点，以实现更高效的跳跃。"
+acot_aura_utility_jump_coordinator: "跳跃协调员"
+
+ACOT_AURA_UTILITY_GAP_GENERATOR: "移动间隙发生器"
+ACOT_AURA_UTILITY_GAP_GENERATOR_DESC: "创建一个强大的干扰场，使旗舰所在的系统免受敌方传感器的影响，并防止他们跳入该系统。"
+acot_aura_utility_evasion_nullifier_hostile: "间隙发生器"
+
+ACOT_AURA_UTILITY_ACADEMY: "并行作战分析计算机"
+ACOT_AURA_UTILITY_ACADEMY_DESC: "可以实时回顾每场战斗的大量细节，让舰员更快地获得经验。"
+acot_aura_utility_academy: "并行战斗分析师"
+
+SHIP_AURA_EMPTY_2: "$AURA_EMPTY$"
+SHIP_AURA_EMPTY_3: "$AURA_EMPTY$"
+SHIP_AURA_EMPTY_4: "$AURA_EMPTY$"
+GIGA_FORTRESS_EMPTY_THRUSTER: "空的"
+GIGA_FORTRESS_EMPTY_COMBAT_COMPUTER: "空的"
+tech_ai_empty_ship_slot: "AI空船槽位"
+tech_ai_empty_ship_slot_desc: "这项技术存在的唯一原因是消除人工智能默认船舶设计没有有效组件的警告。,玩家不应该拥有这项技术。"

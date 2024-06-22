@@ -1,0 +1,104 @@
+﻿l_simp_chinese:
+# this could really use a re-write...
+ 
+# First Event
+mem_under_blanket.1.name: "毯子下"
+ mem_under_blanket.1.desc: "早期报告谈到了 [Root.GetName] 地表深处的神秘活动。,对扫描签名的分析暗示了一种以前未知的物种的存在。,我们的科学家非常渴望尝试地面行动来寻找和研究它们。"
+ mem_under_blanket.1.materialist: "我们应该立即研究它们。,这是一个令人兴奋的发现。"
+ mem_under_blanket.1.xenomilit: "这些异形可能很危险。,采取一切必要的预防措施。"
+ mem_under_blanket.1.others: "将他们送进来，但采取所有必要的安全预防措施。"
+ mem_under_blanket.1.deny: "他们还有更重要的工作要做。"
+ 
+ # Event Selection
+mem_under_blanket.2.name: "领导危机"
+ mem_under_blanket.2.desc: "经过短暂的科学联盟后，所有资源和资金都已分配完毕，探险队即将开始。,然而，他们还无法决定由谁来领导这次探险。,他们征求你的意见。\n\n值得注意的是，在整个探险期间，选定的科学家将无法执行任何其他任务。\n\n探险队领导者的候选人是："
+ mem_under_blanket.2.expertleader: "[mem_under_blanket_expert_leader.GetName]，被公认为该领域的专家。"
+ mem_under_blanket.2.expertleader.tooltip: "[mem_under_blanket_expert_leader.GetName] 将完全专注于此任务，因此无法为我们执行任何其他操作。"
+ mem_under_blanket.2.expertleader.random: "[mem_under_blanket_expert_leader_random.GetName]，其个人资料非常值得注意。"
+ mem_under_blanket.2.expertleader.random.tooltip: "[mem_under_blanket_expert_leader_random.GetName] 将完全专注于此任务，因此无法为我们执行任何其他操作。"
+ mem_under_blanket.2.newbieleader: "[mem_under_blanket_newbie_leader.GetName]，以果断着称。"
+ mem_under_blanket.2.newbieleader.tooltip: "[mem_under_blanket_newbie_leader.GetName] 将完全专注于此任务，因此无法为我们执行任何其他操作。"
+ mem_under_blanket.2.newbieleader.random: "[mem_under_blanket_newbie_leader_random.GetName]，表现出了出色的才能。"
+ mem_under_blanket.2.newbieleader.random.tooltip: "[mem_under_blanket_newbie_leader_random.GetName] 将完全专注于此任务，因此无法为我们执行任何其他操作。"
+ mem_under_blanket.2.randomleader: "[mem_under_blanket_random_leader.GetName]，一位有能力的科学家和一位准备好的志愿者。"
+ mem_under_blanket.2.randomleader.tooltip: "[mem_under_blanket_random_leader.GetName] 将完全专注于此任务，因此无法为我们执行任何其他操作。"
+
+ # Ground Team
+ mem_under_blanket.3.name: "地面团队"
+ mem_under_blanket.3.desc: "我们的探险队已经通过了第一层沉积岩并报告了情况。,墙壁周围的人工侵蚀迹象表明生命形式的存在。,据估计，该物种的数千个个体就在附近或不久前曾经过这个地点。,在他们的第一份报告后不久，该团队的接近传感器警告他们正在接近热信号。,他们被迫停下来，听到岩石中的沙沙声越来越近。,如果这些外星人具有攻击性，我们的小探险队可能会在短时间内被占领。\n\n接触迫在眉睫。"
+ mem_under_blanket.3.retreat.xenomilit: "各部队立即撤退。"
+ mem_under_blanket.3.retreat.others: "继续下去太危险了。,撤退。"
+ mem_under_blanket.3.contact.materialist: "他们的意图是什么？,我们打扰他们了吗？"
+ mem_under_blanket.3.contact.xenomilit: "让士兵做好准备。,保护科学家。"
+ mem_under_blanket.3.contact.others: "谨慎行事，但继续调查。"
+ 
+ # Retreat - First Outcome
+ mem_under_blanket.10.name: "撤退"
+ mem_under_blanket.10.desc: "接到命令后，小分队火速逃跑。,未知异形的响亮喉音在洞壁周围回荡。,阴影中，数十只野兽冲向我们队伍，我们的三名士兵瞬间被撕成碎片。,多只巨大的爪子从墙壁的缝隙中猛烈攻击，将另外六名探险队员的内脏掏出。,只有 [mem_under_blanket_selected_leader.GetName] 和一名士兵成功到达出口。,感到保护[Root.GetName]是他的责任感，剩下的士兵用紧急核弹头牺牲了自己，让[mem_under_blanket_selected_leader.GetName]逃脱并留下了恐怖。"
+ mem_under_blanket.10.xenomilit: "该死的可憎之物！"
+ mem_under_blanket.10.others: "我们会记住他们。"
+
+ # Retreat - Second Outcome
+ mem_under_blanket.11.name: "撤退"
+ mem_under_blanket.11.desc: "当他们撤退时，他们意识到一个伪装良好的实体正在阴影中跟踪他们。,当它突然靠近时，我们的士兵开火，成功地使未知的线失去了能力。,这次远离我们之前发现的群体的孤立攻击为我们的团队提供了提取样本的绝佳机会，我们的科学家认为它只是同类中的幼体。,考虑到它本身所带来的危险，面对一群成熟的标本是不可能的。\n\n隧道的出口已被封锁。"
+ mem_under_blanket.11.xenomilit: "对这个异种的解剖会给我们带来启发。"
+ mem_under_blanket.11.others: "对这种异种的观察将揭示其物种的秘密。"
+
+ # Retreat - Third Outcome
+ mem_under_blanket.12.name: "撤退"
+ mem_under_blanket.12.desc: "探险队小心翼翼地朝隧道出口走去。\n监视器出奇地安静。,目前，外星生命体的本质仍然是个谜，但在离开洞穴网络之前，我们的科学家有时间发射一架无人机，让我们有机会在较远的距离继续探索。\n\n[mem_under_blanket_selected_leader.GetName]计划,以远程监控情况。"
+ mem_under_blanket.12.xenomilit: "轰炸该网站。"
+ mem_under_blanket.12.others: "这个新物种尚未揭示其所有秘密。"
+ 
+ # First Contact - First Outcome
+ mem_under_blanket.20.name: "第一次接触"
+ mem_under_blanket.20.desc: "[mem_under_blanket_selected_leader.GetName]命令护卫队停下来。,犹豫着，一个小小的身影向我们一行人走来。,科学家伸出一只手，开始和平接触，该生物小心翼翼地吸了鼻子，然后用头蹭了蹭。,过了一会儿，该生物发出了喉咙般的呻吟声，然后突然间，[mem_under_blanket_selected_leader.GetName]迅速被数百个这种毛茸茸的小标本包围。,这些奇怪而天真的动物似乎很喜欢拥抱。"
+ mem_under_blanket.20.xenomilit: "它们可用于奴工。"
+ mem_under_blanket.20.others: "我们的人民可能会采用它们。"
+
+ # First Contact - Second Outcome
+ mem_under_blanket.21.name: "第一次接触"
+ mem_under_blanket.21.desc: "我们的探险队一直在调查一个大密室。,我们的温度和湿度测量仪器揭示了一个包含植被和水的热带生态系统，使更先进的生命形式得以蓬勃发展。,数以万计的有机小生物似乎在这里和平地生活着。,初步观察表明，这些活跃的生物实际上只是看守者，守护着更多的冬眠生物。\n\n[mem_under_blanket_selected_leader.GetName] 和科学联盟计划继续远程研究，以防止任何污染并避免打扰,生物。"
+ mem_under_blanket.21.xenophobe: "轰炸现场，我们不能冒险。"
+ mem_under_blanket.21.others: "一个迷人的自给自足的物种。"
+ 
+ # First Contact - Third Outcome
+ mem_under_blanket.22.name: "第一次接触"
+ mem_under_blanket.22.desc: "我们发现的野生动物比我们最初预期的更加暴力和危险。,在试图传达我们的和平意图时，[mem_under_blanket_selected_leader.GetName]被其中一只野兽的爪子划伤。,我们不得不中止任务并确保该区域的安全。,感谢随行探险队的全副武装的军事人员，我们成功地遏制住了猛兽的涌动。,当后备小队一直在确保出口时，主力探险队在战斗中撤退，从洞穴中撤退，紧随其后的是成群的咆哮和砍杀的野兽。\n\n成功撤离后，剩余的探险队领导者决定封锁他们,洞穴系统的入口。"
+ mem_under_blanket.22.xenomilit: "该死的可憎之物！"
+ mem_under_blanket.22.others: "令人遗憾的损失。"
+
+ # First Contact - Fourth Outcome
+ mem_under_blanket.23.name: "第一次接触"
+ mem_under_blanket.23.desc: "即使在接近野生动物时采取了所有可以想象的预防措施，[mem_under_blanket_selected_leader.GetName]最终还是被包围了。,其中一个生物接近了科学家，发出一声残酷的喉咙呻吟，然后将 [mem_under_blanket_selected_leader.GetHimHer] 撕成碎片。,护卫队观察到他们开火，但被数千只这些生物践踏。 \n\n在与后援队的最后一次通讯期间，在信号丢失前不久报告发生了强烈地震。,我们必须假设它们的位置已经被占领。\n\n这些事件发生后不久，有关在地面上目击这些生物的报道开始蜂拥而至。"
+ mem_under_blanket.23.desc.delayed: "当地地震预警系统最初认为 [Root.GetName] 地区经常发生地震，但现在已演变为军事紧急情况。\n\n据报道，多个定居点在失去联系之前遭到了未知生物的袭击。,当飞机到达这些地点时，他们已经完全被淹没了。,下令进行轨道打击，​​以遏制这些生物的进一步扩散。\n\n原始数据分析表明，这次入侵源自一个未经探索且不安全的地下洞穴。,科学界强烈批评我们未能在有机会的情况下研究这一现象。"
+ mem_under_blanket.23.desc.captured: "对捕获的青春期生物的研究已经开始揭示它的秘密。,尽管它的体型看起来很无辜，大约只有 [root.owner.GetName] 的一半大小，但它脖子上固定的三个大而锋利的爪子却不容小觑。,在多名保安人员的密切监视下，这名外星人在四处走动并测试牢房的安全措施时表现出了非凡的敏捷性。,它那巨大的胸膛里藏着的不是一颗而是十二颗小心。,整个身体都被由堪比甲壳质的硬化组织制成的装甲外壳保护着。,虽然没有服用镇静剂，但它对任何接近都表现出强烈的抵抗力。,就饮食而言，它本质上似乎是纯粹的肉食性，对脑物质有着显着的偏爱。,我们的专家无法发现任何智慧的迹象。,它似乎主要是由其生存本能驱动的。\n\n他们还检测到该生物向地面发射的低频信号。,不幸的是，这一观察结果在当时被认为是无关紧要的。\n\n不久之后，[Root.GetName] 周围开始传来高度令人震惊的地震数据，触发了全球范围的安全协议，军队被部署到所有地区。,有报告称，大群生物从地下涌来，冲向我们的部队。,值得庆幸的是，我军做好了充足的准备，坚守阵地，并凭借我们部队的勇气成功遏制了袭击。,据报道，大多数伤亡是从洞穴周围地区发生的。,不幸的是，许多人在该地区丧生，并且生物不断地定期从该地区涌出。,这迫使我们的部队撤退到距离洞穴入口更远的地方，并建立一个扩大的禁区来遏制威胁。"
+ mem_under_blanket.23.tooltip: "一只流行音乐被杀死，§R危险的野生动物§！,现在在 [Root.GetName] 上漫游。"
+ mem_under_blanket.23.xenomilit: "该死的可憎之物！"
+ mem_under_blanket.23.others: "这是一个悲剧。"
+ 
+ # Under the Blanket - Follow up to Retreat #3
+ mem_under_blanket.120.name: "毯子下"
+ mem_under_blanket.120.desc: “我们的探测器在被居民摧毁之前已经完成了在地下洞穴网络中的路线。对收集到的数据的进一步分析使我们能够更好地了解未知生物。这些生物似乎在其整个一生中都在继续生长，这是,一方面，一旦某个生物变老——并且足够大——对我们在[Root.GetName]上的殖民地构成严重威胁，它就无法再通过狭窄的出口离开洞穴系统。,然而，如果它们设法到达地表并在地面上建立种群，如果不迅速处理，它们可能会成为难以控制的威胁。\n\n然而，由 [mem_under_blanket_selected_leader.GetName] 领导的科学部门指出，该物种出现,需要一种只能在洞穴中找到的气体才能长期生存，此外他们还观察到它们以那里供应充足的稀有晶体为食。,稀有晶体并消灭外星威胁。”
+ mem_under_blanket.120.noxenophile: "战略资源应优先考虑。"
+ mem_under_blanket.120.all: "不要伤害他们。,派人护送。"
+ 
+ # Genocide
+ mem_under_blanket.121.name: "种族灭绝"
+ mem_under_blanket.121.desc: “一旦做出决定，唯一要做的就是开始行动。为了不危及地面上的任何东西，我们选择的武器是一种简单的不起反应的、比空气重的气体，用它淹没整个洞穴系统并使其窒息。”,行动完成后，我们的团队调查了更大的房间，直到他们到达了探测器的最后一个已知位置——外星巢穴。\n\n地面上散落着各种大小的窒息生物，我们已经导致了整个物种的灭绝。 ,.\n\n好的一面是，稀有晶体已经可供获取。”
+ mem_under_blanket.121.a: "清理房间并开始挖掘。"
+ mem_under_blanket.121.b: "费用是多少？"
+ 
+ # Heritage - First Outcome
+ mem_under_blanket.122.name: "遗产"
+ mem_under_blanket.122.desc: "为了与生命体取得联系，团队小心翼翼地前往我们无人机最后的已知位置。,当他们深入洞穴时，下方深处传来雷鸣般的气体爆裂声。,很快，我们就与这些生物进行了视觉接触。,令人惊讶的是，他们似乎并没有被我们的存在所困扰。,研究小组进行了一些快速观察：这些生物穿着厚重的岩石盔甲，似乎以食土为食。,这种饮食的结果，[mem_under_blanket_selected_leader.GetName] 是相当肯定的，是它们通过其庞大身体下部的大扩张排出稀有晶体。"
+ mem_under_blanket.122.a: "迷人。"
+
+ # Heritage - Second Outcome
+ mem_under_blanket.123.name: "遗产"
+ mem_under_blanket.123.desc: "[mem_under_blanket_selected_leader.GetName] 已报告丢失。,经过调查，在 [mem_under_blanket_selected_leader.GetHisHer] 实验室发现了秘密藏匿的案例簿和一台定制的分析机器。,书页上的光谱草图、多次擦除和各种注释都证实了这位缺乏经验的科学家的一项令人难以置信的发现：在洞穴网络中发现的气体似乎正在相互交流。,其烟雾具有高度挥发性和致突变性，能够将自身塑造成不同的化学特征。\n\nH-I、Co-N-V-Er-Ge、U-S、He-Re、F-O-U-Nd、La-W-S、As、O- ,Ne。\n\n对化学原子量值的进一步分析显示该消息包含洞穴网络内某个位置的坐标。,救援队已立即出动。n\n在现场，[mem_under_blanket_selected_leader.GetName]被发现赤身裸体、不省人事，悬浮在一个大型水晶室的中央，手里抓着一块球形黑曜石。,当小队靠近时，[mem_under_blanket_selected_leader.GetHisHer]的身体中出现了浓密的彩色蒸汽幕。 ,[mem_under_blanket_selected_leader.GetName] 猛地回过神来，突然宣称：“我知道一切，法律融为一体。”,然后，[mem_under_blanket_selected_leader.GetSheHe]掉到了地上。,救援队将 [mem_under_blanket_selected_leader.GetHimHer] 带回地面，[mem_under_blanket_selected_leader.GetSheHe] 很快康复。"
+ mem_under_blanket.123.a: "迷人。"
+
+ # Modifiers
+ d_mem_crystalline_caverns: 《掠食者洞穴》
+ d_mem_crystalline_caverns_desc: "一个充满稀有水晶的洞穴，受到危险的掠食性生物的保护。"

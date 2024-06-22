@@ -1,0 +1,88 @@
+﻿l_simp_chinese:
+ 
+ ########################
+ # Hive Encounter
+ # Text by Caligula
+ # Code by Malthus 
+ ########################
+ # Hivemind player decides whether or not to message a normal empire
+ mem_hive_encounter.2.name:0 "智能个体生命体"
+ mem_hive_encounter.2.desc:0 "当 [root.GetName] 开始调查恒星时，我们遇到了一个新颖的概念：个体生命形式中的智慧与任何总体意识无关。\n\n这是我们之前认为不可能的事情。,我们在思维过程中专门设计了相当多的子程序来解决这是如何发生的问题，但尚未取得太大进展。,为了加快这一过程，也许我们应该要求 [mem_hive_encounter_normal_country.GetName]（此类社团中最友好的社团之一）为我们提供一些样本。"
+ mem_hive_encounter.2.a:0 "我们将请求他们的合作。"
+ mem_hive_encounter.2.b:0 "我们不需要他们的帮助。"
+
+ # Normal empire receives hive proposal
+ mem_hive_encounter.3.name:0 "传入传输"
+ mem_hive_encounter.3.desc:0 "问候 [root.species.GetNamePlural]，\n\n当我们开始探索星星时，我们遇到了像你们这样的文明，它们不是基于蜂巢思维。,个体生命形式的智力概念对我们来说是新颖的，并且反驳了我们之前认为正确的许多信念。,我们对这些情况是如何发生的感到困惑，并希望进行调查。\n\n因此，我们想请求您向我们发送一些您的物种的标本供我们检查。,我们保证不会对它们造成任何损害。,作为回报，我们可以向您提供我们的帮助和非重要的 [mem_hive_encounter_hive_country.GetSpeciesAdj] 无人机样本，您可以在其上进行自己的实验。"
+ mem_hive_encounter.3.a:0 "当然。,我们将看看是否有志愿者。"
+ mem_hive_encounter.3.b:0 "我们可以派一些罪犯给你，我们不需要他们。"
+ mem_hive_encounter.3.c:0 "我们可以寄给您一些死者样本。"
+ mem_hive_encounter.3.d:0 "我们无法帮助您。"
+
+ # volunteers found
+ mem_hive_encounter.4.name:0 "准备好的志愿者"
+ mem_hive_encounter.4.desc:0 "许多志愿者挺身而出，充当 [mem_hive_encounter_hive_country.species.GetNamePlural] 的测试对象。,在好奇心、冒险精神和某些情况下的绝望的共同推动下，他们愿意放弃当前的生活，住在蜂巢里。"
+ mem_hive_encounter.4.b:0 "出色的"
+
+ # no volunteers found
+ mem_hive_encounter.5.name:0 "找不到志愿者"
+ mem_hive_encounter.5.desc:0 "我们呼吁志愿者充当 [mem_hive_encounter_hive_country.GetName] 的测试对象，但我们却置若罔闻。,我们未能说服任何参与者挺身而出。,我们是否应该找到一种方法来接受 [mem_hive_encounter_hive_country.GetSpeciesAdj] 请求？"
+
+ # hive receives answer
+ mem_hive_encounter.6.desc.a:0 "我们已经找到了一群准备好的志愿者，他们将作为您的测试对象。,我们相信您将确保它们以我们发送给您时的状态返回给我们！"
+ mem_hive_encounter.6.desc.b:0 "我们决定不让某些不良分子进入我们的监狱。,如果您能确保它们永远不会返回 [mem_hive_encounter_normal_country.GetAdj] 空间，我们将不胜感激。"
+ mem_hive_encounter.6.desc.c:0 "我们将寄给您一些我们死者的样本，任何人都不会错过。,你可以随心所欲地处理它们。"
+ mem_hive_encounter.6.desc.d:0 "我们很遗憾地通知您，我们无法为您提供帮助。,我们认为向外国透露我们物种的生物秘密是不合适的，无论他们的意图多么崇高。"
+ mem_hive_encounter.6.a:0 "我们感谢您的合作。"
+ mem_hive_encounter.6.b:0 "不幸的。"
+
+ # specimens arrive
+ mem_hive_encounter.7.name:0 "研究可以开始"
+ mem_hive_encounter.7.desc.a:0 "[mem_hive_encounter_normal_country.species.GetName] 样本已抵达。,尽管他们一直配合我们的调查，甚至似乎有兴趣了解更多关于他们的信息，但我们仍在努力了解他们的大脑是如何工作的。,每个人似乎都花费了大量令人不安的时间来思考大量的想法。,不同主题之间的交叉参考已经证实，这些想法确实是彼此独立得出的，并且常常存在很大差异。,一个社会怎么能建立在缺乏中央指导的基础上呢？"
+ mem_hive_encounter.7.desc.b:0 "[mem_hive_encounter_normal_country.species.GetName] 样本已抵达。,他们看起来很害怕我们，一看到我们就会表现出痛苦和愤怒。,有趣的是，他们的大部分愤怒都针对自己的政府。,我们很难判断他们的行为是否正常，因为这些人是无法融入社会的被遗弃者。,尽管如此，我们对他们的社会所允许的思想自由程度很感兴趣。,一个文明如何能建立在如此缺乏中央指导的基础上呢？"
+ mem_hive_encounter.7.desc.c:0 "[mem_hive_encounter_normal_country.species.GetName] 样本已抵达。,遗憾的是，没有发送活体标本，这意味着我们无法检查个体思维的运作方式。,不过，我们准备了一系列实验，看看能揭开哪些秘密。"
+ mem_hive_encounter.7.a:0 "让我们开始我们的研究吧。"
+
+ # results for hive
+ mem_hive_encounter.8.name:0 "圆满结束"
+ mem_hive_encounter.8.desc.a:0 "事实证明，我们对 [mem_hive_encounter_normal_country.species.GetName] 样本的调查取得了丰硕成果。,我们不仅了解了具有个体智能的生命形式如何相互影响以及与我们自己相互作用——为我们提供了许多关于外星行为的见解——而且我们还能够对他们的大脑运作进行测试。,看来，尽管他们的文明与我们的文明以及我们的生物学（在神经和遗传结构方面）存在巨大差异，但仍存在一定程度的可比性。,他们和我们之间的主要区别在于他们缺乏灵能联系的能力，这意味着每个心灵基本上都只能依靠自己的设备。,相应地，个体 [mem_hive_encounter_normal_country.GetSpeciesAdj] 的大脑比普通 [root.GetSpeciesAdj] 无人机的大脑发达得多。\n\n我们相信，有一天，我们将能够随意应用和删除灵能链接，从本质上赢得我们,将其他群体整合到 [root.GetName] 的能力。,与此同时，我们对生物学和治国之道的基础知识的理解也得到了进步。"
+ mem_hive_encounter.8.desc.b:0 "我们的科学子程序在 [mem_hive_encounter_normal_country.species.GetName] 样本上取得了突破。,看来，尽管他们的文明与我们的文明以及我们的生物学（在神经和遗传结构方面）存在巨大差异，但仍存在一定程度的可比性。,他们和我们之间的主要区别在于他们缺乏灵能联系的能力，这意味着每个心灵基本上都只能依靠自己的设备。,相应地，个体 [mem_hive_encounter_normal_country.GetSpeciesAdj] 的大脑比普通 [root.GetSpeciesAdj] 无人机的大脑发达得多。\n\n我们相信，有一天，我们将能够随意应用和删除灵能链接，从本质上赢得我们,将其他群体整合到 [root.GetName] 的能力。,与此同时，我们对生物学和外星遗传学基础知识的理解也得到了进步。"
+ mem_hive_encounter.8.a:0 "出色的。"
+
+ # drones arrive
+ mem_hive_encounter.9.name:0 "研究可以开始"
+ mem_hive_encounter.9.desc:0 "来自 [mem_hive_encounter_hive_country.GetName] 的无人机已经抵达。,到目前为止，它们已被证明对我们的科学家没有反应——看来将它们与蜂巢的其他部分分开基本上切断了赋予它们生命的力量。,他们无法作为独立的个体思考，现在缺乏方向，几乎完全依赖我们的看护者来维持生命。,如果我们的科学家想要了解更多关于它们的信息，他们可能必须迅速采取行动！"
+
+ # results for normal country
+ mem_hive_encounter.10.name:0 "关于蜂巢无人机的发现"
+ mem_hive_encounter.10.desc.a:0 "我们的科学家在 [mem_hive_encounter_hive_country.GetSpeciesAdj] 无人机的状况下降到被宣布死亡的状态之前已尽最大努力对其进行了分析。,似乎存在某种灵能链接将个体无人机与蜂巢绑定并允许蜂巢控制它。,尽管研究一种无法在行动中观察到的现象存在固有的困难——我们无法重新激活这种联系——但我们的科学家在理解其本质和 [mem_hive_encounter_hive_country.GetName] 的本质方面取得了一些进展。,他们能够查明用于建立联系的大脑部分，尽管他们对其功能的假设在很大程度上是推测性的。\n\n他们不相信 [mem_hive_encounter_hive_country.GetSpeciesAdj] 无人机本质上没有独立思考的能力 - 它们的大脑中没有任何东西。,神经结构似乎会排除它，尽管有强有力的抑制措施来阻止它——看来提供的样本根本没有发育到足以支持它。,如果说有什么不同的话，那就是它们类似于前智能生命形式，但没有任何生存本能可言。\n\n随着时间的推移，我们的科学家相信，我们可能有能力创建或移除与生命体结合的灵能链接。 ,[mem_hive_encounter_hive_country.GetSpeciesNamePlural]，有效地允许我们创建独立的个体[mem_hive_encounter_hive_country.GetSpeciesNamePlural]。,然而，那一天还很遥远。,与此同时，我们对生物学和外星遗传学基础知识的理解也取得了进步。,此外，[mem_hive_encounter_leader.GetName]发现了对灵能的新兴趣。"
+ mem_hive_encounter.10.desc.b:0 "我们的科学家在 [mem_hive_encounter_hive_country.GetSpeciesAdj] 无人机的状况下降到被宣布死亡的状态之前，尽可能地对其进行了分析。,似乎存在某种灵能链接将单个无人机与蜂巢绑定并允许蜂巢控制它。,然而，由于这个链接不活跃，我们的科学家发现很难研究它，并发现更多关于它不存在时会发生什么的信息。,尽管他们不相信[mem_hive_encounter_hive_country.GetSpeciesAdj]无人机本质上没有独立思考的能力——它们的神经结构似乎没有任何东西可以阻止它，尽管有强有力的抑制措施来阻止它——但提供的样本似乎根本不具备独立思考的能力。,发展到足以支持它。,如果说有什么不同的话，那就是它们类似于前智能生命形式，但没有任何生存本能可言。\n\n我们的科学家相信，随着时间的推移，我们可能有能力创建或移除绑定的灵能链接,[mem_hive_encounter_hive_country.GetSpeciesNamePlural]，有效地允许我们创建独立的个体[mem_hive_encounter_hive_country.GetSpeciesNamePlural]。,然而，那一天还很遥远。,与此同时，我们对生物学和外星遗传学基础知识的理解也得到了进步。"
+ mem_hive_encounter.10.a:0 "出色的。"
+
+ # decision for hive whether or not to send back the volunteers
+ mem_hive_encounter.11.name:0 "我们的客人"
+ mem_hive_encounter.11.desc:0 "现在是我们按照约定将志愿者 [mem_hive_encounter_normal_country.species.GetName] 标本送回 [mem_hive_encounter_normal_country.GetName] 的时候了。,当然，我们可以背弃我们的协议并保留它们以供进一步研究，但 [mem_hive_encounter_normal_country.species.GetNamePlural] 可能不会善待这一点！"
+ mem_hive_encounter.11.a:0 "把他们送回去。"
+ mem_hive_encounter.11.b:0 "保留它们。"
+
+ # volunteers return
+ mem_hive_encounter.12.name:0 "志愿者归来"
+ mem_hive_encounter.12.desc:0 "我们派往 [mem_hive_encounter_hive_country.GetName] 的志愿者已返回给我们。,他们声称，无论这意味着什么，“大开眼界”的经历都拓宽了他们的“视野”。,从各方面来看，[mem_hive_encounter_hive_country.GetSpeciesNamePlural] 被证明是很好的主人，尽管志愿者们当然很高兴回到更熟悉的环境！"
+ mem_hive_encounter.12.a:0 "很高兴听到。"
+
+ # volunteers missing
+ mem_hive_encounter.13.name:0 "志愿者被拘留！"
+ mem_hive_encounter.13.desc:0 "[mem_hive_encounter_hive_country.GetName] 拒绝归还我们派给他们的志愿者对象，尽管约定的归还日期已经过去。,他们声称他们需要更多时间来完成他们的研究，并且由于这对有机体至关重要的安全问题，他们不觉得受到我们之前协议的约束。"
+ mem_hive_encounter.13.a:0 "这是一种愤慨！"
+
+ # opinion modifiers
+ mem_opinion_hive_encounter_helped:0 "提供标本"
+ mem_opinion_hive_encounter_help_refused:0 "拒绝支持"
+ mem_opinion_hive_encounter_good_hosts:0 "好主人"
+ mem_opinion_hive_encounter_dishonourable:0 "不光彩的"
+
+ # static modifiers
+ mem_hive_encounter_dealed_with_xenos:0 "与异形打交道"
+ mem_hive_encounter_traded_prisoners:0 "出售囚犯"
+ mem_hive_encounter_desecrated_corpses:0 "被亵渎的尸体"
+ 

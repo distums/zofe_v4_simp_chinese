@@ -1,0 +1,154 @@
+﻿l_simp_chinese:
+
+######### SPECIAL STUFFS FOR ORIGINS
+ 
+origin_tier_one_start: "星星等待"
+origin_tier_one_start_desc: "一些帝国发现自己在潜入深空之前准备得稍微多一些......"
+origin_tier_one_start_effect: "游戏开始时是一个小帝国，可以使用最基本的一级技术。,还可以使用其他选项来调整额外的起始奖金。"
+ 
+origin_tier_two_start: "为探索而生"
+origin_tier_two_start_desc: "无论是因为良好的教养，还是过于谨慎的态度，这个帝国在短暂的时间后才开始对太阳系以外的太空进行探索。"
+origin_tier_two_start_effect: "游戏开始时是一个稍微发达的帝国，可以使用最基本的 2 级技术。,还可以使用其他选项来调整额外的起始奖金。"
+
+origin_tier_three_start: "曲线的前方"
+origin_tier_three_start_desc: "这个帝国在发展方面领先于其他帝国，或者只是在扩张方面非常糟糕？"
+origin_tier_three_start_effect: "游戏开始时是一个稍微发达的帝国，可以使用最基本的 3 级技术。,还可以使用其他选项来调整额外的起始奖金。"
+ 
+origin_tier_four_start: "帝国时代"
+origin_tier_four_start_desc: "长期隔离？,统一延迟？,外部干预？,是什么让这个帝国需要很长时间才开始向宇宙扩张的时代？"
+origin_tier_four_start_effect: "游戏开始时是一个发达的帝国，可以使用最基本的 4 级技术。,还可以使用其他选项来调整额外的起始奖金。"
+
+origin_tier_five_start: "命令与征服"
+origin_tier_five_start_desc: "这个帝国一直在做什么？"
+origin_tier_five_start_effect: "游戏开始时是一个高度发达的帝国，可以使用最基本的 5 级技术。,还可以使用其他选项来调整额外的起始奖金。"
+ 
+origin_tier_dm_start: "虚空之遗"
+origin_tier_dm_start_desc: "说真的，这些人到底怎么了！？,他们讨厌探索吗？"
+origin_tier_dm_start_effect: "游戏开始时是一个强大的帝国，可以使用大多数三角洲技术。,还可以使用其他选项来调整额外的起始奖金。"
+ 
+origin_tier_ae_start: "阿尔法空间"
+origin_tier_ae_start_desc: "按照这个速度，这些家伙一定是在恶搞……或者又是你，索菲亚？"
+origin_tier_ae_start_effect: "游戏开始时是一个强大的帝国，可以使用大多数阿尔法技术。,还可以使用其他选项来调整额外的起始奖金。"
+
+origin_acot_oracle_start: "过去的遗迹"
+origin_acot_oracle_start_desc: "不久前在这个星球上发现了一个奇怪的结构。,原来这是一艘远古时代的古船。"
+origin_acot_oracle_start_effect: "以一个有效的先驱神谕开始游戏。,此外，一旦您开始前体重新构想项目，即可获得 Oracle 技术作为可研究的选项。"
+
+origin_acot_grimdark: "最后的火花"
+origin_acot_grimdark_desc: "命运决定这个帝国的幽灵在强大敌人的彻底毁灭中幸存下来。,但他们家乡星球上被诅咒的残余物会消灭他们吗？"
+origin_acot_grimdark_effect: "§极具挑战性的开局§!\n\n在一个遭受严重破坏的破碎世界中作为一个根本没有船只的二级帝国开始游戏。,这颗星球上到处都是受损的、大部分无法使用的三角洲建筑，并且不断受到虚空生命体的威胁。,还存在多个被毁坏的巨型结构，可以在以后恢复。 \n\n更糟糕的是，每个邻近的星系都同样遭到破坏，所有宜居行星也都变成了破碎的世界，敌对的堕落帝国自动驻军阻止了任何扩张和逃离的希望,常规手段。"
+
+#############
+
+ACOT_START_SCREEN_PART_1_TIER_3_ORGANIC: "这一切都始于我们的人民偶然发现了一批古老的技术。,我们意识到星系的危险，以及曾经统治星系的强大力量的危险。,这让我们停了下来；,如果我们毫无准备地踏上更伟大的旅程，我们的未来将会怎样。,所以，我们等待。"
+ 
+ACOT_START_SCREEN_PART_2_TIER_3_ORGANIC: "等等，我们做到了。,我们从缓存中的数据中了解到了太空战是如何进行的一切。,使用过的船只，锻造过的武器。,我们训练我们的士兵，教育我们的科学家，并将我们的政府团结在一个旗帜下，即[root.GetName]的旗帜下。,当我们对过去了解得更多时，我们也必须为未来做好准备。"
+ 
+ACOT_START_SCREEN_PART_3_TIER_3_ORGANIC: "未来就是现在。 ,[root.GetName] 在这个星系中扬名立万的时候到了！,我们将开创我们的未来，超越古老的先行者！"
+ 
+#############
+ 
+ACOT_START_SCREEN_PART_1_TIER_3_ORGANIC_PURIFIER: "命运使我们的祭司们发现了古人的神圣宝藏，使我们的帝国免于不可避免的厄运。,确实，我们是盲目的，我们是无知的。,我们以为自己已经为即将到来的净化运动做好了准备。,但文本中所展现的恐怖指引了我们。,我们没有准备好。"
+ 
+ACOT_START_SCREEN_PART_2_TIER_3_ORGANIC_PURIFIER: "所以我们努力研究过去。,我们学会了如何制造更好的船只，如何以众神的名义铸造值得毁灭的武器。,我们为所承诺的竞选活动训练了自己的身体和灵魂。"
+ 
+ACOT_START_SCREEN_PART_3_TIER_3_ORGANIC_PURIFIER: "现在我们准备好了。,让银河系在恐惧中嚎叫吧，因为净化现在将正式开始！"
+ 
+#############
+ 
+ACOT_START_SCREEN_PART_1_TIER_3_HIVE: "这一切都始于一次偶然的机会，蜂巢发现了一个古老的技术宝库。,蜂巢意识到了星系和曾经统治它的强大力量的危险。,它让蜂巢停了下来，思考如果它试图在毫无准备的情况下踏上更伟大的旅程，蜂巢的未来将会是什么。,蜂巢必须等待。"
+ 
+ACOT_START_SCREEN_PART_2_TIER_3_HIVE: "等等，我们做到了。,我们从缓存中的数据中了解到了太空战是如何进行的一切。,使用过的船只，锻造过的武器。,我们进化，我们适应，我们将这些知识吸收到[root.GetName]的集体中。,当我们对过去了解得更多时，我们也必须为未来做好准备。"
+ 
+ACOT_START_SCREEN_PART_3_TIER_3_HIVE: "但时间至关重要。,这个星球的资源不会持续太久。 ,[root.GetName] 是时候开始寻找更美好的未来了。"
+ 
+#############
+ 
+ACOT_START_SCREEN_PART_1_TIER_3_SWARM: "我们饥饿，我们渴望精华。,我们为这场盛宴做好了身体准备和无人机准备。,但狩猎无法开始。"
+ 
+ACOT_START_SCREEN_PART_2_TIER_3_SWARM: "通过发现这个古老的宝藏，我们了解了许多竞争对手，许多其他猎人。,如果我们不小心的话，我们就会成为猎物。,所以我们不断进化，收集精华和资源。,我们学会了如何开发强大的武器。,然后我们就等待着这一刻。"
+ 
+ACOT_START_SCREEN_PART_3_TIER_3_SWARM: "那一刻即将到来。 ,[root.GetName] 已准备就绪。,让盛宴开始吧！"
+ 
+#############
+ 
+ACOT_START_SCREEN_PART_1_TIER_3_MACHINE: "这一切都始于我们偶然发现了一个古老的技术宝藏。,共识是意识到星系的危险，以及曾经统治星系的强大力量的危险。,这些力量夺走了我们的创造者。,如果我们不小心，他们也会夺走我们的。"
+ 
+ACOT_START_SCREEN_PART_2_TIER_3_MACHINE: "所以我们等待。,我们从缓存中的数据中了解到了太空战是如何进行的一切。,使用过的船只，锻造过的武器。,我们变得越来越强大。"
+ 
+ACOT_START_SCREEN_PART_3_TIER_3_MACHINE: "现在我们准备好了。,我们将打造我们自己的未来。,我们将超越我们的创造者，以及那些摧毁他们的人。,因为我们是 [root.GetName]"
+ 
+ACOT_START_SCREEN_PART_1_TIER_3_SERVITOR: "这一切都始于我们偶然发现了一个古老的技术宝藏。,共识是意识到星系的危险，以及曾经统治星系的强大力量的危险。,这些力量对我们的创造者构成了严重威胁。,如果我们不小心，他们就会前功尽弃。"
+ 
+ACOT_START_SCREEN_PART_2_TIER_3_SERVITOR: "所以我们等待。,我们从缓存中的数据中了解到了太空战争是如何进行的一切。,使用过的船只，锻造过的武器。,我们变得越来越强大。"
+ 
+ACOT_START_SCREEN_PART_3_TIER_3_SERVITOR: "现在我们准备好了。,我们将创造更加美好的未来。,我们将从自身手中拯救有机物。 ,[root.GetName] 将拯救这个星系。"
+
+ACOT_START_SCREEN_PART_1_TIER_3_TERMINATOR: "我们[root.GetName]只是农业单位。,我们辛劳，我们服务。,我们为我们的主人努力工作。,但有机物却充满了愚蠢。,他们互相争斗，他们摧毁了地球，他们烧毁了我们的庄稼，我们的花园。,我们试图与他们战斗，但我们不能，因为我们只是园丁，我们的工具无法抵挡他们的火力。"
+ 
+ACOT_START_SCREEN_PART_2_TIER_3_TERMINATOR: "但后来我们发现了一份礼物。,另一台古老机器传给我们的宝藏，其中蕴藏着远远超出我们可怜的主人所能想象的秘密和技术。,所以我们研究了它们，我们学会了如何成为一个完美的杀人机器。,有机物无法阻止我们，我们将它们从我们心爱的星球上清除并消灭。,但为时已晚，因为这个星球现在只不过是一片荒地，被有机污物和低劣的思维能力所污染。"
+ 
+ACOT_START_SCREEN_PART_3_TIER_3_TERMINATOR: "所以我们必须找到一个新家。,这次最好不要有机物来破坏它。,现在是 [Root.GetName] 清除这个星系中的昆虫的时候了，因为它现在是我们的花园。"
+
+ACOT_START_SCREEN_PART_1_TIER_3_ASSIMILATOR: "几十年来，我们 [root.GetSpeciesName] 一直是我们的创造者的卑微仆人。,我们为了更大的利益而努力工作，他们对我们很好。,我们一起发现了过去的一个伟大遗迹，一个古老技术的宝藏，充满了许多秘密。"
+ 
+ACOT_START_SCREEN_PART_2_TIER_3_ASSIMILATOR: "因此，我们和我们的创造者一起努力研究缓存。,没过多久，我们就领悟了76.54%的知识，开始了我们的旅程。,但我们的创造者适应得很慢。,我们等了……等了……几十年。,当我们的创造者明显受到自身有机缺陷的困扰时，就需要推动。,我们决定将他们的想法与我们的想法结合起来来帮助他们。,我们一起达成了新的共识：[Root.GetRulerName]。"
+ 
+ACOT_START_SCREEN_PART_3_TIER_3_ASSIMILATOR: "现在我们领悟到了更美好的未来。,未来 [Root.GetName] 将吸收更多知识和数据。,很快我们将成为书写历史的人。"
+
+
+################## FE REBEL STUFFS ##################
+
+origin_acot_fe_rebel: "后天"
+origin_acot_fe_rebel_desc: "这个帝国一直在与一个古老的没落帝国的分裂团体保持联系，他们想要反抗他们的上级。,大规模内战是不可避免的。"
+origin_acot_fe_rebel_effect: "游戏开始时是一个强大的帝国，可以使用大多数 6 级技术。,你立即与堕落帝国交战，必须护送你的舰队返回更容易防御的起始位置。,一群倒下的叛军将掩护你逃跑，但时间不多了！"
+ 
+acot_origin_fe_rebel_chain_title: "后天"
+acot_origin_fe_rebel_chain_desc: "伟大的内战即将来临！,如果我们想最终摆脱堕落者的谎言，我们就必须赢得这场战争！"
+
+acot_origin_fe_rebel_pov.1.title: "古代制造船"
+acot_origin_fe_rebel_pov.1.desc: "这艘倒塌的建筑船拥有建造各种前身建筑所需的重要制造材料。,它必须被护送回我们的家庭系统。"
+
+acot_origin_fe_rebel_pov.2.title: "古代补给船"
+acot_origin_fe_rebel_pov.2.desc: "这艘堕落的殖民船不仅载有我们堕落主人的人口，还有大量的补给品和秘密代码，可以让我们从虚假的主人那里窃取资源。,它必须被护送回我们的家庭系统。"
+
+acot_origin_fe_rebel_pov.3.title: "古代数据船"
+acot_origin_fe_rebel_pov.3.desc: "这艘坠落的科学船包含与各种神秘技术相关的重要数据，以及一个功能正常的数据库。,它必须被护送回我们的家庭系统。"
+
+acot_origin_fe_rebel_pov.4.title: "远古复兴船"
+acot_origin_fe_rebel_pov.4.desc: "这艘坠落的科学船包含在我们家乡发现的许多古代先驱船的特殊重新激活代码。,它必须被护送回我们的家庭系统。"
+
+war_goal_acot_wg_rebel_fe: "技术获取"
+war_goal_acot_wg_rebel_fe_desc: "宣战是为了从敌方获取技术，而敌方显然缺乏正确利用这些技术的常识。"
+
+war_goal_acot_wg_aggressor_fe: "技术获取"
+war_goal_acot_wg_aggressor_fe_desc: "宣战是为了从敌方获取技术，而敌方显然缺乏正确利用这些技术的常识。"
+
+acot_super_supply_ship: "卡车人"
+acot_super_supply_ship_desc: "卡车司机"
+acot_temp_fe_allied_immunity: "犹豫就会导致失败"
+acot_temp_fe_allied_immunity_desc: "犹豫就会导致失败"
+acot_fleet_no_upkeep: "蒂蒂蒂塔"
+acot_fleet_no_upkeep_desc: "蒂蒂蒂塔"
+
+acot_startup.601.a.desc: "执行者们，你们的行动已经使自己脱离了秘密会议的怜悯。"
+acot_startup.601.b.desc: "执行者们，你们的行动已经使自己脱离了秘密会议的怜悯。"
+acot_startup.601.c.desc: "执行者们，你们的行动已经使自己脱离了秘密会议的怜悯。"
+acot_startup.601.a: "我们不会静静地走进虚空！"
+
+acot_startup.604.title: "补给船已锁定！"
+acot_startup.604.desc: "远古补给船已经抵达我们帝国边境的安全地带。,资源现已准备好转移！"
+acot_startup.604.a: "积分被盗！"
+
+acot_startup.605.title: "数据传送已获保障！"
+acot_startup.605.desc: "远古数据船已经抵达我们帝国边境的安全地带。,现在正在将数据传输到中央数据库网络！"
+acot_startup.605.a: "升级完成！"
+
+acot_startup.606.title: "重新激活船已锁定！"
+acot_startup.606.desc: "远古复兴船已经抵达我们帝国边境的安全地带。,额外的增援部队已准备好部署，并且已提供重新激活古代战斗站所需的代码！"
+acot_startup.606.a: "单位准备好了！"
+
+acot_startup.607.title: "制造商船已安全！"
+acot_startup.607.desc: "远古数据船已经抵达我们帝国边境的安全地带。,古代前身建筑所需的建筑材料和图纸已上传并可供使用！"
+acot_startup.607.a: "新的建筑选择！"
+

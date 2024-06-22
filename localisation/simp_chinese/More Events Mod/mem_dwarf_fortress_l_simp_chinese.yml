@@ -1,0 +1,96 @@
+﻿l_simp_chinese:
+ 
+ ########################
+ # Dwarf Fortress
+ # Code by Malthus
+ # Text by ViolentBeetle and Malthus
+ # Proofreading by Z8MB1E
+ ########################
+ 
+ #Anomaly
+ mem_dwarf_fortress_category:0 "在火中"
+ mem_dwarf_fortress_category_desc:0 "深度扫描表明表面存在不寻常的形状。,这可能意味着人造结构的存在。"
+
+ #simple fail 
+ mem_dwarf_fortress.1.name:0 "只是热空气"
+ mem_dwarf_fortress.1.desc:0 "看来这个奇怪的形状只是一个高原，那里的热量和不均匀的岩浆密度扭曲了扫描结果。,现场没有发现任何人造物。"
+ mem_dwarf_fortress.1.a:0 "我们应该继续前进。"
+ 
+ #spawn the site later
+ mem_dwarf_fortress.2.name:0 "火中发现"
+ mem_dwarf_fortress.2.desc:0 "我们的矿工在 [mem_dwarf_fortress_planet.GetName] 灼热的表面下找到了一个显然是人造洞穴系统的入口。\n\n开始挖掘将意味着目前所有采矿作业的完全停止，但谁知道深处可能隐藏着什么秘密,抓住？"
+ mem_dwarf_fortress.2.a:0 "开始挖掘。"
+ mem_dwarf_fortress.2.b:0 "我们不能因此停止采矿作业。"
+ 
+ #anomaly success, found digsite
+ mem_dwarf_fortress.3.name:0 "撞击地球"
+ mem_dwarf_fortress.3.desc:0 "经过各种形式的钻探，我们的科学团队找到了多个地下通道，这些通道属于一个显然是人工形成的复杂洞穴系统。\n\n无法估计它的深度。"
+ mem_dwarf_fortress.3.a:0 "进一步调查一下。"
+
+ #Dwarf fortress digsite
+ mem_dwarf_fortress_site:0 "进入深处"
+ mem_dwarf_fortress_site_desc:0 "在 [mem_dwarf_fortress_planet.GetName] 灼热的地表下方有一个明显的人工洞穴系统。,尽管温度高得危险，但足够的耐热设备应该可以进行进一步的探索。"
+ 
+ #Dwarf fortress digsite stage 1 Pressure plate
+ mem_dwarf_fortress.4.name:0 "热脚"
+ mem_dwarf_fortress.4.desc:0 "在沿着最大的蜿蜒隧道走了相当长一段时间后，探险队终于找到了确实的证据，证明这个地方是人工建造的，而不是随机的自然现象。\n\n在科学家面前，隧道突然深入到一个采石场——,像坑。,一块刻有不明文字的石板标志着粗糙石阶的开始。,这些楼梯的一侧向下，另一侧又向上，中间留下了数十米长的空地板。"
+ #Pressure plate - Fire hot - Scientist dead
+ mem_dwarf_fortress.4.desc_01:0 "$mem_dwarf_fortress.4.desc$ \n\n在穿过深坑时，科学官 [Root.GetLeaderName] 踩到了一个隐藏的压力板，无意中激活了陷阱机制。,熔岩迅速淹没了坑，在到达楼梯顶部之前不久就停止了。,不幸的是，没有人及时逃脱。\n\n熔岩已经开始冷却，预计几天后就可以安全穿越。"
+ #Pressure plate - Fire hot - Scientist injured
+ mem_dwarf_fortress.4.desc_02:0 "$mem_dwarf_fortress.4.desc$ \n\n在穿过深坑时，科学官 [Root.GetLeaderName] 的一名助手踩到了一个隐藏的压力板，无意中激活了陷阱机制。,熔岩迅速淹没了坑，在到达楼梯顶部之前不久就停止了。,不幸的是，勘探队未能毫发无伤地离开坑。,科学官员 [Root.GetLeaderName] 永远不会一样。"
+ #Pressure plate - Fire hot - Scientist alive and well
+ mem_dwarf_fortress.4.desc_03:0 "$mem_dwarf_fortress.4.desc$ \n\n穿过深坑时，科学官 [Root.GetLeaderName] 发现了一个隐藏的压力板。,经过快速调查后，人们发现它是一个精心设计的陷阱机制的一部分，如果激活的话，整个坑都会被熔岩淹没。,该团队正在更深处寻找类似的陷阱。"
+ mem_dwarf_fortress.4.a:0 "这是一个可怕的结果，但我们必须继续前进。"
+ mem_dwarf_fortress.4.b:0 "这是不幸的，但我们必须继续前进。"
+ mem_dwarf_fortress.4.c:0 "干得好。,继续。"
+ 
+ #Dwarf fortress digsite stage 2 Cave in column
+ mem_dwarf_fortress.5.name:0 "更多陷阱"
+ mem_dwarf_fortress.5.desc:0 "从坑开始，随着光滑的石面取代了天然锯齿状的岩壁，隧道的质量稳步提高。,我们的探险队最终无意中进入了一个更大的洞穴，里面显然是某种类似碉堡的结构的入口。,在洞穴的中间，一根大柱子支撑着整个天花板的重量。,上面还有一块写着难以辨认的文字的石板，位于探险队认为是某种……杠杆的上方？"
+ #Cave in collumn - Smash - Scientist dead
+ mem_dwarf_fortress.5.desc_01:0 "$mem_dwarf_fortress.5.desc$ \n\n科学官 [Root.GetLeaderName] 和 [Root.Leader.GetHerHis] 同事出于好奇心，不得不揭开这个机制的用途之谜。,抛开一切预防措施，[Root.Leader.GetSheHe]移动了控制杆。\n\n大厅里充满了咔哒声和巨大的破碎声。,几乎在同一时间，柱子和上面的天花板轰然倒地，然后慢慢升回原来的位置，露出那些不幸被其重量压住的人。"
+ #Cave in collumn - Smash - Scientist injured
+ mem_dwarf_fortress.5.desc_02:0 "$mem_dwarf_fortress.5.desc$ \n\n科学官 [Root.GetLeaderName] 和 [Root.Leader.GetHerHis] 同事出于好奇心，不得不揭开这个机制的用途之谜。,抛开一切预防措施，[Root.Leader.GetSheHe]移动了控制杆。\n\n大厅里充满了咔哒声和巨大的破碎声。,几乎在同一时间，柱子和上面的天花板轰然倒地，然后慢慢升回原来的位置，露出那些不幸被其重量压住的人。,虽然侥幸逃脱了死亡，但这给科学官员[Root.GetLeaderName]留下了持久的印象。"
+ #Cave in collumn - Smash - Scientist alive and well
+ mem_dwarf_fortress.5.desc_03:0 "$mem_dwarf_fortress.5.desc$ \n\n尽管迫于 [Root.Leader.GetHerHis] 自己的好奇心以及 [Root.Leader.GetHerHis] 同事的压力，科学官员 [Root.GetLeaderName] 还是选择抵抗 [Root.Leader.GetHerHis] ,] 幼稚地想要拉动杠杆，但决定在安全距离使用 [Root.Leader.GetHerHis] 扫描仪来研究该机制。\n\n结果证实了 [Root.Leader.GetHerHis] 的怀疑：杠杆连接到一个复杂的机制,将柱子和天花板的大部分固定到位。,看来触发杠杆会导致大部分天花板掉落到地面。,之后，该机构会将掉落的碎片提升回其初始位置，从而重置该机构。,谁会制造这样的陷阱？"
+ mem_dwarf_fortress.5.a:0 "派出另一支队伍。,我们不会放弃！"
+ mem_dwarf_fortress.5.b:0 "谴责幸存者。,他们必须更加谨慎。"
+ mem_dwarf_fortress.5.c:0 "千钧一发。,留意更多的陷阱。"
+ 
+ #Dwarf fortress digsite stage 3 - Danger room
+ mem_dwarf_fortress.6.name:0 "危险室"
+ mem_dwarf_fortress.6.desc:0 "进入地堡出乎意料地容易，因为主通道只是部分关闭。,然而，迎接探险队的却是严峻的一幕。,矮小而粗壮的外星类人生物的木乃伊尸体散落在地上。,目前尚不清楚这里到底发生了什么，但所有这些似乎都遭遇了暴力结局。\n\n地堡入口附近第一个可进入的建筑群据说是安全人员的兵营和军械库。,这些外星人似乎拥有与我们相当的技术，使用动力装甲和基于能量的武器。,然而奇怪的是，存储区域的很大一部分被许多过时的近战武器占据，例如锤子和斧头。 ,Leader.GetSheHe]据信是某种训练馆。,当一名团队成员愉快地拉动一个没有标记的杠杆时，多个尖刺迅速从地板上出现，然后以它们出现时的速度缩回。,拉动杠杆时出现的图像表明这些尖刺旨在训练用户躲避技术。"
+ #Danger room - Stab - Scientist dead or injured
+ mem_dwarf_fortress.6.desc_01:0 "$mem_dwarf_fortress.6.desc$ \n\n从表面上看，科学官 [Root.GetLeaderName] 和大多数 [Root.Leader.GetHerHis] 团队充其量只是平庸的躲避者……"
+ #Danger room - Stab - Scientist alive and well
+ mem_dwarf_fortress.6.desc_02:0 "$mem_dwarf_fortress.6.desc$ \n\n科学官员 [Root.GetLeaderName] 优雅地避开了任何即将到来的危险，设法在有人受到严重伤害之前关闭了“训练”机制。,事件发生后，那个拉杠杆的傻瓜已经被解除了职务。"
+ mem_dwarf_fortress.6.a:0 "这很糟糕！"
+ mem_dwarf_fortress.6.b:0 "还可能会更糟糕的..."
+ mem_dwarf_fortress.6.c:0 "我们到哪里去找这些白痴呢？"
+ 
+ #Dwarf fortress digsite stage 4 - Commercial district
+ mem_dwarf_fortress.7.name:0 "黑色幽默"
+ mem_dwarf_fortress.7.desc:0 "科学官员[Root.GetLeaderName]和[Root.Leader.GetHerHis]团队离开了入口部分，进入了他们认为是商业区的地方。,探险队从墙壁、地板上的浮雕和日常用品中重建了前居民历史的很大一部分。,该设施是在如此恶劣的条件下建立的，因为人们相信在该设施的深处存在着一种稀有的矿脉——对他们来说，这是极其有价值的——矿石。,通过将岩浆泵送到地表，他们能够获得几乎取之不尽用之不竭的能源，建立一个依靠多个熔岩陷阱的防御系统，并发现了一种处理“不受欢迎的东西”的方法——正如浮雕中广泛而反复地展示的那样。,然而，一个特别有价值的发现是一个图书馆，它为我们的语言学家提供了足够的样本来翻译外星人的语言。,这不仅使与他们的技术的互动变得更容易，也让我们一睹他们的幽默感。,在各个陷阱位置发现的石板的存档图像如下：“小心你的脚步......”和“不要碰这个！”,分别用于熔岩陷阱和杠杆陷阱。,另一个例子是他们墓地中的一块墓碑，浮雕上显示一名战士被多个尖刺同时刺穿，标题为“你为什么不躲闪？！”,毫不奇怪，这唤起了一些不太遥远的记忆...\n\n科学官 [Root.GetLeaderName] 希望通过搜索中央区域来找到有关这里发生的事情的更多信息，该区域目前被锁在一个巨大的大门后面,探险队尚未启程。"
+ mem_dwarf_fortress.7.a:0 "撬开。"
+
+ #Dwarf fortress digsite stage 5 - Central district
+ mem_dwarf_fortress.8.name:0 "血与火"
+ mem_dwarf_fortress.8.desc:0 "打开大门真是费了一番功夫。,当挖掘队最终成功通过时，很明显这不是偶然的。,有人费了很大的力气，才将它从内部封闭起来，哪怕这意味着再也无法打开它。,并不是有人会尝试。,居民们似乎更关心互相残杀，尽管直到一位科学家偶然发现地堡数据存储中的编年史后，其原因才变得清晰。\n\n最初，前哨基地稳步发展，其规模不断扩大。,繁荣吸引了许多新来者。,许多居民不仅在矿井工作，还从事美术工作，创造出装饰有自己的分形图像的复杂物品以及其他美丽但看起来奇怪的创作。,当他们的采矿工作取得初步成功时，殖民地经历了经济繁荣。\n\n尽管不断受到模糊竞争对手的围攻，但它却持续了好几代人。,然而，随着对行星核心的挖掘接近尾声，编年史中的条目早已变质，报道了人们日益增长的贪婪和普遍的偏执。 ,\n\n随着非理性行为和暴力爆发的增加，当“守卫之主”向地堡的监督者发起决斗时，一切都在一系列灾难性的事件中达到了顶峰，因为只有其提及的高价值神器的拥有权,名称：§Y'Cubortob Unil Omoth'§!。,决斗很快演变成了一场生死之战，最终以挑战者的胜利而告终。,随后的条目报告了与每天发生的第一次类似的连续决斗。,编年史的结尾是一句一遍遍重复的台词：“这将是我的！”\n\n从那时起，情况似乎迅速升级，促使挖掘小组想知道什么样的物体可能会导致,整个社会崩溃。,不幸的是，尚未找到有关该文物的更多信息。\n\n为了找到有关在该殖民地开采的有价值材料的更多信息，科学家们继续前往岩心钻孔部分，却遇到了,又一个被封锁的门口……"
+ mem_dwarf_fortress.8.a:0 "你知道该怎么做。"
+ 
+ #Dwarf fortress digsite stage 6 - Core-boring section
+ mem_dwarf_fortress.9.name:0 "集体精神病"
+ mem_dwarf_fortress.9.desc:0 "清理完门口后，挖掘小组毫不意外地发现了更多尸体。,然而，其中有一个很引人注目。\n\n在最僻静的角落里，人们发现一具孤零零的尸体靠在墙上，死死地握着一只形状怪异、超大的金属靴子。,尸体旁边有一个数据板，里面的内容揭示了这个奇怪物品的性质。,虽然最后一个日志条目中唯一写的是“我的，它终于是我的！！！”，但科学官 [Root.GetLeaderName] 很快得出结论，金属马靴一定是§Y'Cubortob Unil Omoth'§!，,这个殖民地崩溃的原因。\n\n经过仔细检查，发现该文物的部分部件是由该前哨站最初建立来开采的超稀有材料制成的。,在该设施的编年史中，它被称为“活金属”，因为它能够在损坏或被操纵时“记住”其原始形态——本质上是一种自我修复材料。,一旦地下矿脉被打开，活金属被引入人类，它很快就在殖民地的其他地方得到广泛使用。,以前的居民显然没有意识到，长期接触这些物质会对他们的心理健康造成长期的不利影响。,科学官员 [Root.GetLeaderName] 明智地建议每个人避免与该物质直接身体接触，并在与其互动时使用防护服。\n\n这种稀有金属的矿藏似乎远未得到充分开发，如果安全性足够的话,采取措施后，我们应该能够恢复这里的采矿作业。"
+
+ mem_dwarf_fortress.9.a:0 "出色的工作。"
+
+ #Relic buff
+ mem_dwarf_fortress_boot:0 "鼓舞人心的工艺"
+
+ #Relic
+ r_mem_dwarf_fortress_boot:0 "尤尼·奥莫斯"
+ r_mem_dwarf_fortress_boot_desc:0 "“工人们粉碎了懒惰之锤”\n\n这是一款耐钢马靴。,所有工艺均具有最高品质。,它装饰着大量的雕刻，描绘了统治者掌掴和踢工人的情景。,它装饰着中子吊环，并充满了活体金属的尖刺。"
+
+ #Traumatized trait
+ leader_trait_mem_traumatized:0 "$leader_trait_traumatized$"
+ leader_trait_mem_traumatized_desc:0 "$leader_trait_traumatized_desc$"

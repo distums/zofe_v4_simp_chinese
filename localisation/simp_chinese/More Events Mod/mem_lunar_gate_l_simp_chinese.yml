@@ -1,0 +1,59 @@
+﻿l_simp_chinese:
+ mem_lunar_gate.2.name:0 "月门"
+ mem_lunar_gate.2.desc:0 "[mem_lunar_gate_moon.GetName] 上的探矿者发现了大量独特元素，这些元素可以在月球上建造远程虫洞发生器！,与我们目前已知的虫洞和自然网关不同，拟议的虫洞门将同时将 [mem_lunar_gate_planet.GetName] 连接到我们空间中的每个其他殖民地！ \n\n但是，存在几个问题：首先，由,月球之门将与我们的标准船舶设计完全不兼容。,只有小型民用船只才能进入和使用大门，因为虫洞比我们目前了解的虫洞技术小得多，也更不稳定。,虽然对我们的军队和我们自己的民用船只来说不方便，但大门应该通过提供与我们其他殖民地的近乎即时的联系来极大地促进殖民地的经济。 \n\n其次，月球之门将利用全新的虫洞理论，因此未经测试。,我们的标准虫洞理论要求虫洞仅存在于系统的重力井之外。 ,[mem_lunar_gate_moon.GetName]的独特元素使我们能够绕过这个限制，但失败的风险很大。\n\n最后，月球之门的建造并非没有成本：建造月球之门需要大量投资,。"
+ mem_lunar_gate.2.a:0 "好处大于风险。"
+ mem_lunar_gate.2.b:0 "太多可能会出错。,相反，研究元素。"
+ mem_lunar_gate.2.c:0 "太贵。,相反，研究元素。"
+ mem_lunar_gate.2.d:0 "我们还买不起。,开始积累所需的资源。"
+ mem_lunar_gate.2.new:0 "迷人。"
+ mem_lunar_gate.2.new.tooltip:0 "决策 $mem_lunar_gate_construct_decision$ 和 $mem_lunar_gate_research_decision$ 在 [mem_lunar_gate_planet.GetName] 上可用。"
+ 
+ mem_lunar_gate.3.name:0 "建造月门的最后机会"
+ mem_lunar_gate.3.desc:0 "来自 [mem_lunar_gate_planet.GetName] 的当地利益团体要求我们就提议的月球之门做出决定。,当地政府似乎对如此昂贵且危险的项目失去了兴趣。,如果要开始建造月门，就需要现在就开始。,然而，如果我们没有拨出足够的资源来建造大门，殖民地对政府的信心就会受到打击。"
+ mem_lunar_gate.3.a:0 "好处大于风险。"
+ mem_lunar_gate.3.b:0 "太多可能会出错。,相反，研究元素。"
+ mem_lunar_gate.3.c:0 "还是太贵了。,相反，研究元素。"
+ 
+ MEM_LUNAR_GATE_PROJECT:0 "建造月门"
+ MEM_LUNAR_GATE_PROJECT_DESC:0 "在 [mem_lunar_gate_moon.GetName] 上建造月球之门将需要我们最优秀的科学家之一来开拓所需的新型微型虫洞技术。,随着月球之门的建造，[mem_lunar_gate_planet.GetName]的经济将因平民快速进入我们所有殖民空间而发生革命性的变化。"
+ 
+ mem_lunar_gate.4.name:0 "月门完成"
+ mem_lunar_gate.4.desc:0 "[mem_lunar_gate_moon.GetName] 上的月球之门已成功激活，正在彻底改变 [mem_lunar_gate_planet.GetName]！,随着通往其他世界的交通时间几乎为零，经济正在以前所未有的速度增长。,虽然我们需要监控月门和 [mem_lunar_gate_planet.GetName] 以确保没有负面影响，但可以肯定地说月门项目已经成功。"
+ 
+ mem_lunar_gate.5.name:0 "月门灾难"
+ mem_lunar_gate.5.desc:0 "[mem_lunar_gate_moon.GetName]上的一次事故给月门带来了灾难！,在测试大门时，重力异常产生了一个巨大的虫洞，将月球撕裂。,不用说，月门连同整个[mem_lunar_gate_moon.GetName]一起消失了。,前月球的大量碎片如雨点般落到 [mem_lunar_gate_planet.GetName] 上，并已经摧毁了几个地区，摧毁了那里的人口。,此外，来自 [mem_lunar_gate_moon.GetName] 的碎片正在干扰 [mem_lunar_gate_planet.GetName] 的环境，并导致世界各地的健康问题。,殖民地需要相当长的一段时间才能恢复。"
+ mem_lunar_gate.5.a:0 "多么悲剧啊！"
+ 
+ mem_lunar_gate.6.name:0 "月门倒塌"
+ mem_lunar_gate.6.desc:1 "[mem_lunar_gate_moon.GetName]上的一次事故给月门带来了灾难！,在测试大门时，虫洞塌陷并形成了一个微型黑洞，吞噬了 [mem_lunar_gate_moon.GetName]！,值得庆幸的是，新黑洞处于围绕 [mem_lunar_gate_planet.GetName] 的稳定轨道上，并且似乎没有干扰 [mem_lunar_gate_planet.GetName]。,我们目前的预测并不能预测黑洞会在本千年内蒸发，所以目前来说，这个殖民地是安全的。,如果不出意外的话，至少这个新黑洞将为我们提供一个有趣的研究对象。"
+ 
+ mem_lunar_gate_broken_promise:0 "违背承诺"
+ mem_lunar_gate_broken_promise_desc:0 "关于建造月门的讨论毫无结果。"
+ 
+ mem_lunar_gate_completed:0 "月门"
+ mem_lunar_gate_completed_desc:0 "月球之门为民用船只提供了远程虫洞通道。"
+ 
+ mem_lunar_gate_access:0 "进入月门"
+ mem_lunar_gate_access_desc:0 "几乎可以即时进入所有殖民地世界，促进了当地经济的发展。"
+ 
+ mem_lunar_gate_catastrophe:0 "月门浩劫"
+ mem_lunar_gate_catastrophe_desc:0 "失败的月门摧毁了月球。"
+ 
+ mem_lunar_gate_pollution:0 "月门灾难"
+ mem_lunar_gate_pollution_desc:0 "月球碎片和失效的月门污染了世界的环境。"
+ 
+ mem_lunar_gate_former_moon:0 "前月亮"
+ mem_lunar_gate_former_moon_desc:0 "月球之门实验以月球被黑洞吞噬而结束。"
+
+
+ mem_lunar_gate_success_tooltip:0 "实验成功，月门建立。"
+ mem_lunar_gate_disaster_tooltip:0 "实验以灾难告终。"
+ mem_lunar_gate_unexpected_tooltip:0 "出现意想不到的结果。"
+ 
+ mem_lunar_gate_construct_decision:0 "建造月门"
+ mem_lunar_gate_construct_decision_desc:0 "尝试建造月门。,该项目具有巨大的成功潜力，但并非没有风险。"
+ 
+ mem_lunar_gate_research_decision:0 "研究月门背后的原理"
+ mem_lunar_gate_research_decision_desc:0 "尝试建造月门的成本太高，风险也太大。,最好只是研究一下。"
+
+ d_mem_lunar_gate_completed:0 "月门"

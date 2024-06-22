@@ -1,0 +1,523 @@
+﻿l_simp_chinese:
+ 
+### SHIP COMPONENTS TEXTS
+ 
+BASE_COMBAT_COMPUTER_COLOSSUS_SE: "恒星大力士计算机"
+BASE_COMBAT_COMPUTER_COLOSSUS_SE_DESC: “星星在召唤。”
+  
+
+ACOT_LASER_SE: "西格玛激光炮"
+MEDIUM_ACOT_LASER_SE: "中型西格玛激光炮"
+LARGE_ACOT_LASER_SE: "大型西格玛激光炮"
+ACOT_LASER_SE_DESC: "西格玛激光利用恒星能量焚烧敌人。,它对盾牌没有任何缺点。"
+tech_laser_se: "西格玛激光"
+tech_laser_se_desc: “我们第一次尝试利用恒星能量作为光束武器，西格玛激光用灼热的热量将敌人变成灰烬。”
+
+ACOT_PLASMA_SE: "西格玛等离子炮"
+SMALL_ACOT_PLASMA_SE: "小型西格玛等离子炮"
+LARGE_ACOT_PLASMA_SE: "大型西格玛等离子炮"
+ACOT_PLASMA_SE_DESC: "西格玛能量可以转化为强大的类等离子能量武器，比以前的任何等离子武器都更致命。"
+tech_plasma_se: "西格玛等离子炮"
+tech_plasma_se_desc: "西格玛能量可以转化为强大的类等离子能量武器，比以前的任何等离子武器都更致命。"
+
+SMALL_ACOT_DISRUPTOR_SE: "小型西格玛干扰器"
+MEDIUM_ACOT_DISRUPTOR_SE: "中型西格玛干扰器"
+LARGE_ACOT_DISRUPTOR_SE: "大型西格玛干扰器"
+ACOT_DISRUPTOR_SE: "西格玛干扰者"
+ACOT_DISRUPTOR_SE_DESC: "西格玛干扰器发射出极其强大的星光波，使敌舰的内部系统过热，从里到外彻底摧毁它们。"
+tech_disruptor_se: "西格玛干扰者"
+tech_disruptor_se_desc: "西格玛干扰器发射出极其强大的星光波，使敌舰的内部系统过热，从里到外彻底摧毁它们。"
+  
+ACOT_ENERGY_TORPEDO_SE: "西格玛能量鱼雷"
+ACOT_ENERGY_TORPEDO_MEDIUM_SE: "西格玛能量鱼雷"
+ACOT_ENERGY_TORPEDO_SE_DESC: "西格玛能量鱼雷充满了挥发性的恒星能量，一旦与敌方物质接触就会爆炸。"
+tech_energy_torpedo_se: "西格玛能量鱼雷"
+tech_energy_torpedo_se_desc: "西格玛能量鱼雷充满了挥发性的恒星能量，一旦与敌方物质接触就会爆炸。"
+
+ACOT_ENERGY_CANNON_SE: "西格玛能量炮"
+ACOT_ENERGY_CANNON_SE_DESC: "全新设计的星晶能量炮模板，可以释放出比之前版本更加致命的能量光束。"
+tech_energy_cannon_se: "西格玛能量炮"
+tech_energy_cannon_se_desc: "全新设计的星晶能量炮模板，可以释放出比之前版本更加致命的能量光束。"
+ 
+ACOT_POINT_DEFENSE_SE: "西格玛点防御系统"
+SMALL_ACOT_POINT_DEFENSE_SE: "西格玛点防御系统"
+MEDIUM_ACOT_POINT_DEFENSE_SE: "西格玛点防御系统"
+ACOT_POINT_DEFENSE_SE_DESC: "威力日益增强的导弹和攻击机要求我们采取不同的对策。,我们基于能量的点防御现在已重新调整为强大的、缓慢发射的远程防御屏障，可以为战斗本身做出更多贡献。"
+tech_point_defense_se: "西格玛点防御系统"
+tech_point_defense_se_desc: "威力日益增强的导弹和攻击机要求我们采取不同的对策。,我们基于能量的点防御现在已重新调整为强大的、缓慢发射的远程防御屏障，可以为战斗本身做出更多贡献。"
+
+ACOT_MASS_DRIVER_SE: "西格玛动能冲击波"
+SMALL_ACOT_MASS_DRIVER_SE: "小型西格玛动能冲击波"
+LARGE_ACOT_MASS_DRIVER_SE: "大型西格玛动能冲击波"
+ACOT_MASS_DRIVER_SE_DESC: "西格玛动能冲击波不再满足于完全依靠纯粹的动能，而是采用新型弹药。,固体硬光外壳由恒星能量提供能量。,动能冲击穿过障碍物，随后能量爆炸会处理装甲。,这消除了这种动能武器对旧型号装甲的弱点。"
+tech_mass_driver_se: "西格玛动能冲击波"
+tech_mass_driver_se_desc: "西格玛动能冲击波不再满足于完全依靠纯粹的动能，而是采用新型弹药。,固体硬光外壳由恒星能量提供能量。,动能冲击穿过障碍物，随后能量爆炸会处理装甲。,这消除了这种动能武器对旧型号装甲的弱点。"
+ 
+ACOT_AUTOCANNON_SE: "西格玛脉冲炮"
+ACOT_AUTOCANNON_SE_DESC: "与老一代的传统爆炸弹不同，这种新型短程反盾动能武器利用装载有凝聚星能量的特殊通信装置，在以致命的精度和动力接触时爆炸。"
+MEDIUM_ACOT_AUTOCANNON_SE: "西格玛脉冲炮"
+LARGE_ACOT_AUTOCANNON_SE: "西格玛脉冲炮"
+tech_autocannons_se: "西格玛脉冲炮"
+tech_autocannons_se_desc: "通过一些修改，我们可以调整旧的自动炮设计以适应新的恒星电源。"
+
+ACOT_MACROCANNON_SE: "西格玛巨炮"
+ACOT_MACROCANNON_SE_MEDIUM: "西格玛巨炮"
+ACOT_MACROCANNON_SE: "这种武器高得离谱的射速只能与其原始的破坏力相匹配。"
+tech_macrocannon_se: "西格玛巨炮"
+tech_macrocannon_se_desc: "继西格玛脉冲佳能的成功改造之后，我们现在将对巨炮进行同样的改造，我们期望结果是一种具有致命射速的强大自动武器。"
+ 
+ACOT_ARTILLERY_SE: "西格玛超高速火炮"
+ACOT_ARTILLERY_SE_DESC: "这种新一代动能火炮发射充满恒星能量的超加速弹头。,动能冲击会撕裂护盾，而能量冲击会击打装甲并破裂船体，导致减压。"
+tech_kinetic_artillery_se: "西格玛超高速火炮"
+tech_kinetic_artillery_se_desc: "这种新一代动能火炮发射充满恒星能量的超加速弹头。,动能冲击会撕裂护盾，而能量冲击会击打装甲并破裂船体，导致减压。"
+
+ACOT_FLAK_CANNON_SE: "西格玛动能防御系统"
+SMALL_ACOT_FLAK_CANNON_SE: "西格玛动能防御系统"
+MEDIUM_ACOT_FLAK_CANNON_SE: "中西格玛动能防御系统"
+ACOT_FLAK_CANNON_SE_DESC: "致命的新一代导弹和攻击艇需要更专业的对抗措施来应对。,为此，Stellarite KDS 旨在通过高频动能炮弹群来消除近距离的所有入侵。"
+tech_flak_batteries_se: "西格玛动能防御系统"
+tech_flak_batteries_se_desc: “致命的新一代导弹和攻击机需要更专业的对抗措施来应对。为此，Stellarite KDS 的设计目的是通过大量高频星光爆炸弹来消除近距离的所有入侵。”
+
+ACOT_MISSILE_SE: "西格玛导弹"
+MEDIUM_ACOT_MISSILE_SE: "西格玛导弹"
+ACOT_MISSILE_SE_DESC: "技术的进步使我们能够将传统导弹和集束导弹的要素结合起来。,西格玛导弹具有普通导弹的威力，同时仍保持集束导弹的速度和耐用性。"
+tech_missile_se: "西格玛导弹发射器"
+tech_missile_se_desc: "过去，我们根据规模和产量对各种类型或指导性条例进行分类，每种类型或指导性条例都有自己的优点和缺点。,不再是这样了，是时候我们利用我们的先进技术来真正制造出强大的爆炸弹头了。"
+
+ACOT_TORPEDO_SE: "西格玛鱼雷"
+ACOT_TORPEDO_MEDIUM_SE: "西格玛鱼雷"
+ACOT_TORPEDO_SE_DESC: "西格玛鱼雷"
+tech_torpedo_se: "西格玛鱼雷"
+tech_torpedo_se_desc: "用恒星能量更新阿尔法鱼雷的有效载荷使我们能够制造出更致命的爆炸性弹头。"
+
+ACOT_MISSILE_BARRAGE_SE: "西格玛火箭弹幕系统"
+ACOT_MISSILE_BARRAGE_SE_DESC: "从四联发射器发射的致命远程火箭系统，牺牲跟踪能力以增强火力。"
+tech_barrage_missile_se: "Sigma 级 RBS"
+tech_barrage_missile_se_desc: "尽管随着“星毒蛇”的推出，爆炸性导弹技术已经被简化并合并为一揽子技术，但同样的情况不会发生在他们的老大哥身上。,我们总是对更大的爆炸有更多的需求，我们有什么资格去让他们不高兴呢？"
+ 
+ACOT_MISSILE_XL_SE: "西格玛SMBS"
+ACOT_MISSILE_XL_SE_DESC: "强大的基于脊柱的导弹系统，可发射两枚具有跟踪能力的高速、致命、精确的导弹。"
+tech_xl_missile_se: "西格玛SMBS"
+tech_xl_missile_se_desc: "对于 SMBS 的 Sigma 版本，科学家们的目标不仅是改变 Stellarite 的有效载荷，还通过额外的保护和更强大的推进器来加强它。"
+ 
+ACOT_MISSILE_NUKE_SE: "西格玛千兆弹头发射器"
+ACOT_MISSILE_NUKE_SE_DESC: "大型弹头发射器，旨在通过重型法令摧毁主力舰。  ,最小范围为 100。"
+tech_missile_nuke_se: "西格玛千兆弹头发射器"
+tech_missile_nuke_se_desc: "使用恒星能量制造千兆弹头可能相当棘手。,我们正在寻找一种更强的爆炸力，但仍处于可接受的参数范围内，以避免潜在的附带伤害和友军火力伤害。"
+ 
+ACOT_PARTICLE_LANCE_SE: "西格玛棱镜枪"
+ACOT_PARTICLE_LANCE_SE_DESC: "与旧的设计相比，星光棱镜枪通过棱镜发射连续的星光能量流，可以快速对劣质舰艇编队进行快速攻击。"
+tech_energy_lance_se: "西格玛棱镜枪"
+tech_energy_lance_se_desc: "我们的科学家一直在寻找新的可能性，为我们的下一代武器真正创造出独特的东西。,对于能量枪，他们提出了一种新的变体计划，该变体利用棱镜透镜，牺牲停止能力以大幅提高射速。"
+
+ACOT_ARC_EMITTER_SE: "西格玛能量放电器"
+ACOT_ARC_EMITTER_SE_DESC: "这款新一代发射器采用基于恒星技术的新设计。,然而，其概念基本保持不变，即一种能够绕过盾牌和装甲释放强大能量的武器。"
+tech_arc_emitter_se: "西格玛发射器"
+tech_arc_emitter_se_desc: “这种新一代发射器采用了基于恒星技术的新设计。但其概念基本保持不变，是一种能够绕过护盾和装甲释放强大能量的武器。”
+
+ACOT_MASS_ACCELERATOR_SE: "西格玛扭曲加农炮"
+ACOT_MASS_ACCELERATOR_SE_DESC: "扭曲加农炮是攻城武器的奇迹，它发射出包裹着恒星能量的巨大弹头，通过微型虫洞将自己包裹到敌方船只中。,这完全消除了行进距离，同时仍然保持完整的动力、速度和速度。,该武器能够绕过护盾和部分敌方装甲板，直接损坏船体。"
+tech_mass_accelerator_se: "武器化扭曲技术"
+tech_mass_accelerator_se_desc: "随着船舶保护和防御不断增强以及能量武器迅速占据主导地位，纯动能的作用有限，我们的科学家正在寻求更好的方法来改进我们当前的质量加速器。,虽然这个概念听起来很奇怪而且很愚蠢，但也许可以将整个大炮变成一个强大的战眼发生器，它可以撕裂空间结构并将弹头发送到敌方飞船内，绕过护盾并完全行进一段距离。,目前唯一的问题是如何在保持弹丸速度和速度的同时做到这一点？"
+
+ACOT_PERDITION_BEAM_SE: "西格玛千兆光束加农炮"
+ACOT_PERDITION_BEAM_SE_DESC: "西格玛千兆光束加农炮与星石吞噬者使用的能量武器没有太大不同，它发射致命的星石能量光束。,得益于我们卓越的技术设计，更加精致的反应堆、放大器和能量透镜使该武器比野兽所使用的武器更加优越。"
+tech_perdition_beam_se: "西格玛千兆光束加农炮"
+tech_perdition_beam_se_desc: "西格玛千兆光束加农炮与星晶吞噬者使用的能量武器并无太大不同，它发射致命的星晶能量光束。,得益于我们卓越的技术设计，更加精致的反应堆、放大器和能量透镜使该武器比野兽所使用的武器更加优越。"
+
+ACOT_ARC_EMITTER_SE_TITAN: "Sigma Titan 稳定发射器"
+ACOT_ARC_EMITTER_SE_TITAN_DESC: "这款新一代发射器采用基于恒星技术的新设计。,然而，其概念基本保持不变，即一种能够绕过盾牌和装甲释放强大能量的武器。"
+tech_titan_emitter_se: "泰坦星光发射器"
+tech_titan_emitter_se_desc: "恒星发射器适用于泰坦脊柱弓。,就像老一代一样，为了火力而牺牲了射程。"
+
+ACOT_TITAN_CANNON_SE: "泰坦经星炮"
+ACOT_TITAN_CANNON_SE_DESC: "想象一下，将一颗微型恒星射入敌方飞船的内部……然后想象一下，向那艘飞船发射一颗即将进入超新星的恒星……明白了吗？"
+tech_titan_accelerator_se: "泰坦尼克号大小的曲速炮"
+tech_titan_accelerator_se_desc: "在拥有更强大的发电机和更大的脊椎加农炮空间的大型船上，可以在发射武器之前用挥发性恒星能量将炮弹增压到临界水平。,这需要很长的时间，但会产生同样具有破坏性的结果。"
+
+ACOT_SCOUT_HANGAR_SE: "西格玛拦截机"
+ACOT_SCOUT_HANGAR_SE_DESC: "恒星能量的引入使得能够制造出更致命的攻击艇，可以轻松应对导弹和其他小型飞行器。"
+tech_strike_craft_scout_se: "西格玛拦截机"
+tech_strike_craft_scout_se_desc: "恒星能量的引入使得能够制造出更致命的攻击艇，可以轻松应对导弹和其他小型飞行器。"
+ 
+ACOT_FIGHTERS_HANGAR_SE: "西格玛战士"
+ACOT_FIGHTERS_HANGAR_SE_DESC: "恒星能量的引入使得能够制造出更致命的攻击艇，可以轻松应对导弹和其他小型飞行器。"
+tech_strike_craft_fighter_se: "西格玛战士"
+tech_strike_craft_fighter_se_desc: "恒星能量的引入使得能够制造出更致命的攻击艇，可以轻松应对导弹和其他小型飞行器。"
+
+ACOT_BOMBERS_HANGAR_SE: "西格玛轰炸机"
+ACOT_BOMBERS_HANGAR_SE_DESC: "西格玛轰炸机配备了新的恒星核心，恰如其分地命名为西格玛轰炸机，能够提供极其强大的恒星有效载荷，甚至可以击落最强大的战列舰。"
+tech_strike_craft_bomber_se: "西格玛轰炸机"
+tech_strike_craft_bomber_se_desc: “以前，攻击机的发展总是在轰炸机和战斗机之间齐头并进。虽然这种方法可以很容易地创建适用于这两种类型的模块化设计，但它也限制了它们的真正潜力。\n\n,因此，新的恒星动力轰炸机将单独设计，因为恒星反应堆与前身的原理图有很大不同，我们被迫回到更现代的机身设计。”
+
+ACOT_GUNSHIP_HANGAR_SE: "西格玛武装直升机"
+ACOT_GUNSHIP_HANGAR_SE_DESC: "西格玛武装直升机是极其致命的远程攻击机，擅长从远处狙击关键目标。"
+tech_strike_craft_gunship_se: "恒星武装直升机"
+tech_strike_craft_gunship_se_desc: "我们终于可以在武装直升机上安装恒星能量脚轮，这应该比前几代产品提供巨大的火力改进。"
+
+ACOT_ARMOR_SE: "星铸护甲"
+ACOT_ARMOR_SE_DESC: "恒星锻造装甲不是使用暗能量来创建硬光镀层，而是利用星石能量来创建固体光结构，充当新的镀层。,所需的额外功耗与大幅提高的耐用性是值得的。"
+SMALL_ACOT_ARMOR_SE: "小型恒星铸造装甲"
+MEDIUM_ACOT_ARMOR_SE: "中型恒星铸造装甲"
+LARGE_ACOT_ARMOR_SE: "大型恒星铸造装甲"
+tech_armor_se: "恒星锻造材料"
+tech_armor_se_desc: "Stellarite Power 的出现使我们能够改进之前的硬光技术。,使用恒星能量而不是暗能量使我们能够增加新型硬光材料的密度和强度。"
+TECH_UNLOCK_STELLARITE_ARMOR_TITLE: "§H解锁组件：§!,星铸护甲"
+TECH_UNLOCK_STELLARITE_ARMOR_DESC: "恒星锻造装甲不是使用暗能量来创建硬光镀层，而是利用星石能量来创建固体光结构，充当新的镀层。,所需的额外功耗与大幅提高的耐用性是值得的。"
+
+############
+
+SMALL_ACOT_HULL_POWER_SE: "小 Sigma HLP 电镀"
+MEDIUM_ACOT_HULL_POWER_SE: "中 Sigma HLP 电镀"
+LARGE_ACOT_HULL_POWER_SE: "大 Sigma HLP 电镀"
+ACOT_HULL_POWER_SE: "Sigma HLP 电镀"
+ACOT_HULL_POWER_SE_DESC: "硬光是一种由纯固体光构成的动态材质。,完全形成时，它比中子密度更大、硬度更高。"
+tech_hull_power_se: "Sigma 强光电源电镀"
+tech_hull_power_se_desc: "提出的比较奇特的概念之一是一石二鸟的想法，同时解决船舶日益苛刻的功耗和船体完整性的问题。,过去，试图解决这些问题通常会导致成本大幅增加或船舶整体物理形状的改变，从而使其不可行。,但通过对维度空间进行一些修改，也许可以创造出一种新型的船体板，它不仅可以提高耐用性，而且还可以在不损害船舶挂载点的情况下兼作强大的发电机。"
+
+############
+
+ACOT_ENIGMATIC_SHIELD_SE: "星晶盾"
+ACOT_ENIGMATIC_SHIELD_SE_DESC: "由于恒星能量明显优于旧的暗物质和暗能量变体，因此恒星能量能量护盾自然也优于它们的旧同类。,障碍几乎是上一代的两倍。"
+SMALL_ACOT_ENIGMATIC_SHIELD_SE: "小型星石盾"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_SE: "中型星晶盾"
+LARGE_ACOT_ENIGMATIC_SHIELD_SE: "大型星石盾"
+tech_dark_matter_deflector_se: "星晶盾"
+tech_dark_matter_deflector_se_desc: "由于恒星能量明显优于旧的暗物质和暗能量变体，因此恒星能量能量护盾自然也优于它们的旧同类。,障碍几乎是上一代的两倍。"
+TECH_UNLOCK_STELLARITE_SHIELD_TITLE: "§H解锁组件：§!,星晶盾"
+TECH_UNLOCK_STELLARITE_SHIELD_DESC: “由于恒星能量明显优于旧的暗物质和暗能量变体，因此恒星能量能量护盾自然也优于它们的老表兄弟。屏障的强度几乎是上一代的两倍。 ,”
+
+TECH_UNLOCK_STELLARITE_PLATINGS_TITLE: "§H解锁组件：§!,六翼天使镀层"
+TECH_UNLOCK_STELLARITE_PLATINGS_DESC: "这些板材由未知材料制成，不仅极其耐用，而且能够自我重塑和再生，以修复对船体造成的任何损坏。"
+ 
+
+#####################################################################################
+       
+ACOT_ENIGMATIC_DRIVE_SE: "西格玛曲速引擎"
+ACOT_ENIGMATIC_DRIVE_SE_DESC: "利用恒星本身的力量为虫洞发生器供电，使西格玛曲速引擎能够在更远的距离上运行而不会过载。"
+tech_enigmatic_drive_se: "西格玛曲速引擎"
+tech_enigmatic_drive_se_desc: "比以前更令人印象深刻的是，新一代 FTL 驱动器可以执行比以前更大的扭曲跳跃，并且系统 FTL 充电序列几乎被消除。"
+TECH_UNLOCK_STELLARITE_JDRIVE_TITLE: "§H解锁组件：§!,西格玛跳跃驱动器"
+TECH_UNLOCK_STELLARITE_JDRIVE_DESC: "西格玛跳跃驱动器利用恒星的力量为虫洞发生器提供动力，可以在更远的距离内运行而不会过载。"
+ 
+ACOT_SHIP_THRUSTER_SE: "西格玛推进器"
+ACOT_SHIP_THRUSTER_SE_DESC: "强大的船舶推进器利用恒星能量高速移动。"
+tech_thrusters_se: "西格玛推进器"
+tech_thrusters_se_desc: "由于恒星无处不在，而推进器是为亚空间旅行而设计的，所以我们很自然地简单地开发推进器，汲取恒星本身的力量，并将它们与我们的意志结合起来。"
+TECH_UNLOCK_STELLARITE_THRUSTER_TITLE: "§H解锁组件：§!,西格玛推进器"
+TECH_UNLOCK_STELLARITE_THRUSTER_DESC: "强大的船舶推进器利用恒星能量高速移动。"
+
+BASE_STELLARITE_THRUSTER_EVENT_SHIP: "原型恒星推进器"
+BASE_STELLARITE_THRUSTER_EVENT_SHIP_DESC: "第一个驱动我们的飞船的发动机。"
+
+ACOT_SENSOR_SE: "恒星阵列"
+ACOT_SENSOR_SE_DESC: "新一代监视系统通过分析系统天体的移动模式和反应来确定船舶运动。"
+tech_sensor_se: "恒星阵列"
+tech_sensor_se_desc: "新一代监视系统通过分析系统天体的移动模式和反应来确定船舶运动。"
+TECH_UNLOCK_STELLARITE_SENSORS_TITLE: "§H解锁组件：§!,恒星阵列"
+TECH_UNLOCK_STELLARITE_SENSORS_DESC: "新一代监视系统通过分析系统天体的移动模式和反应来确定船舶运动。"
+#####################################################################################
+ 
+CORVETTE_DARK_MATTER_REACTOR_SE: "恒星反应堆"
+CORVETTE_DARK_MATTER_REACTOR_SE_DESC: "尽管恒星能量背后的真正本质仍有争议，但其反应堆产生的能量输出仍然无可否认地强大，甚至超过了暗能量变体。"
+ 
+DESTROYER_DARK_MATTER_REACTOR_SE: "恒星反应堆"
+DESTROYER_DARK_MATTER_REACTOR_SE_DESC: "尽管恒星能量背后的真正本质仍有争议，但其反应堆产生的能量输出仍然无可否认地强大，甚至超过了暗能量变体。"
+ 
+CRUISER_DARK_MATTER_REACTOR_SE: "恒星反应堆"
+CRUISER_DARK_MATTER_REACTOR_SE_DESC: "尽管恒星能量背后的真正本质仍有争议，但其反应堆产生的能量输出仍然无可否认地强大，甚至超过了暗能量变体。"
+ 
+BATTLESHIP_DARK_MATTER_REACTOR_SE: "恒星反应堆"
+BATTLESHIP_DARK_MATTER_REACTOR_SE_DESC: "尽管恒星能量背后的真正本质仍有争议，但其反应堆产生的能量输出仍然无可否认地强大，甚至超过了暗能量变体。"
+ 
+TITAN_DARK_MATTER_REACTOR_SE: "恒星反应堆"
+TITAN_DARK_MATTER_REACTOR_SE_DESC: "尽管恒星能量背后的真正本质仍有争议，但其反应堆产生的能量输出仍然无可否认地强大，甚至超过了暗能量变体。"
+ 
+COLOSSUS_DARK_MATTER_REACTOR_SE: "恒星反应堆"
+COLOSSUS_DARK_MATTER_REACTOR_SE_DESC: "尽管恒星能量背后的真正本质仍有争议，但其反应堆产生的能量输出仍然无可否认地强大，甚至超过了暗能量变体。"
+ 
+PLATFORM_DARK_MATTER_REACTOR_SE: "恒星反应堆"
+PLATFORM_DARK_MATTER_REACTOR_SE_DESC: "尽管恒星能量背后的真正本质仍有争议，但其反应堆产生的能量输出仍然无可否认地强大，甚至超过了暗能量变体。"
+ 
+ION_CANNON_DARK_MATTER_REACTOR_SE: "恒星反应堆"
+ION_CANNON_DARK_MATTER_REACTOR_SE_DESC: "哈哈，你还在用这个东西吗？,现在这是一个漂亮的模因，精致！"
+ 
+STARBASE_DARK_MATTER_REACTOR_SE: "恒星反应堆"
+STARBASE_DARK_MATTER_REACTOR_SE_DESC: "尽管恒星能量背后的真正本质仍有争议，但其反应堆产生的能量输出仍然无可否认地强大，甚至超过了暗能量变体。"
+
+tech_dark_matter_power_core_se: "恒星能源应用"
+tech_dark_matter_power_core_se_desc: "利用我们现有的技术，现在可以制造强大的设备和工具来正确研究恒星。,尽管恒星能量背后的真正本质仍有争议，但没有人会争论这种力量是否有超越暗物质的潜力。\n\n§R警告：我们尚未完全理解这种力量的本质，,建议我们仔细控制这种管理。§!"
+TECH_UNLOCK_STELLARITE_REACTOR_TITLE: "§H解锁组件：§!,恒星反应堆"
+TECH_UNLOCK_STELLARITE_REACTOR_DESC: "尽管恒星能量背后的真正本质仍有争议，但其反应堆产生的能量输出仍然无可否认地强大，甚至超过了暗能量变体。"
+
+######################################################################################
+###
+#####################################################################################
+ 
+SE_OFFENSIVE_COMBAT_COMPUTER: "进攻性战斗分析仪（小型舰艇）"
+SE_OFFENSIVE_COMBAT_COMPUTER_DESC: "恒星级战斗分析仪是一种极其先进的战斗计算机，可以实时分析战场状况并预测最佳行动方案，然后自动指示舰艇的整个系统做出相应反应，所需的手动输入最少。,这个特殊版本针对进攻战术进行了优化。"
+ 
+SE_BALANCE_COMBAT_COMPUTER: "平衡战斗分析仪（小型舰艇）"
+SE_BALANCE_COMBAT_COMPUTER_DESC: "恒星级战斗分析仪是一种极其先进的战斗计算机，可以实时分析战场状况并预测最佳行动方案，然后自动指示舰艇的整个系统做出相应反应，所需的手动输入最少。"
+ 
+SE_DEFENSIVE_COMBAT_COMPUTER: "防御战斗分析仪（小型舰艇）"
+SE_DEFENSIVE_COMBAT_COMPUTER_DESC: "恒星级战斗分析仪是一种极其先进的战斗计算机，可以实时分析战场状况并预测最佳行动方案，然后自动指示舰艇的整个系统做出相应反应，所需的手动输入最少。,这个特殊版本针对防御战术进行了优化。"
+ 
+SE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "进攻性战斗分析仪（大型舰艇）"
+SE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "恒星级战斗分析仪是一种极其先进的战斗计算机，可以实时分析战场状况并预测最佳行动方案，然后自动指示舰艇的整个系统做出相应反应，所需的手动输入最少。,这个特殊版本针对进攻战术进行了优化。"
+ 
+SE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "平衡战斗分析仪（大型船舶）"
+SE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "恒星级战斗分析仪是一种极其先进的战斗计算机，可以实时分析战场状况并预测最佳行动方案，然后自动指示舰艇的整个系统做出相应反应，所需的手动输入最少。"
+ 
+SE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "防御作战分析仪（大型舰艇）"
+SE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "恒星级战斗分析仪是一种极其先进的战斗计算机，可以实时分析战场状况并预测最佳行动方案，然后自动指示舰艇的整个系统做出相应反应，所需的手动输入最少。,这个特殊版本针对防御战术进行了优化。"
+ 
+SE_OFFENSIVE_COMBAT_COMPUTER_TITAN: "进攻性战斗分析仪（泰坦尼克号）"
+SE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "恒星级战斗分析仪是一种极其先进的战斗计算机，可以实时分析战场状况并预测最佳行动方案，然后自动指示舰艇的整个系统做出相应反应，所需的手动输入最少。,这个特殊版本针对进攻战术进行了优化。"
+ 
+SE_BALANCE_COMBAT_COMPUTER_TITAN: "平衡战斗分析仪（泰坦尼克号）"
+SE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "恒星级战斗分析仪是一种极其先进的战斗计算机，可以实时分析战场状况并预测最佳行动方案，然后自动指示舰艇的整个系统做出相应反应，所需的手动输入最少。"
+ 
+SE_DEFENSIVE_COMBAT_COMPUTER_TITAN: "防御战斗分析仪（泰坦尼克号）"
+SE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "恒星级战斗分析仪是一种极其先进的战斗计算机，可以实时分析战场状况并预测最佳行动方案，然后自动指示舰艇的整个系统做出相应反应，所需的手动输入最少。,这个特殊版本针对防御战术进行了优化。"
+ 
+SE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "进攻性战斗分析仪（主力舰）"
+SE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "恒星级战斗分析仪是一种极其先进的战斗计算机，可以实时分析战场状况并预测最佳行动方案，然后自动指示舰艇的整个系统做出相应反应，所需的手动输入最少。,这个特殊版本针对进攻战术进行了优化。"
+ 
+SE_BALANCE_COMBAT_COMPUTER_GOLIATH: "平衡战斗分析仪（主力舰）"
+SE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "恒星级战斗分析仪是一种极其先进的战斗计算机，可以实时分析战场状况并预测最佳行动方案，然后自动指示舰艇的整个系统做出相应反应，所需的手动输入最少。"
+
+SE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "防御作战分析仪（主力舰）"
+SE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "恒星级战斗分析仪是一种极其先进的战斗计算机，可以实时分析战场状况并预测最佳行动方案，然后自动指示舰艇的整个系统做出相应反应，所需的手动输入最少。,这个特殊版本针对防御战术进行了优化。"
+ 
+SE_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "进攻性战斗分析仪（站）"
+SE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "恒星级战斗分析仪是一种极其先进的战斗计算机，可以实时分析战场状况并预测最佳行动方案，然后自动指示舰艇的整个系统做出相应反应，所需的手动输入最少。,这个特殊版本针对进攻战术进行了优化。"
+ 
+SE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "防御战斗分析仪（平台站 XBOX One）"
+SE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "恒星级战斗分析仪是一种极其先进的战斗计算机，可以实时分析战场状况并预测最佳行动方案，然后自动指示舰艇的整个系统做出相应反应，所需的手动输入最少。,这个特殊版本针对防御战术进行了优化。"
+ 
+PAC_COMBAT_COMPUTER_DEFENSE_SE: "恒星航母战斗分析仪（回避型）"
+PAC_COMBAT_COMPUTER_DEFENSE_SE_DESC: "这艘先进的舰艇采用了针对航母优化的独特战斗分析仪。"
+ 
+PAC_COMBAT_COMPUTER_OFFENSE_SE: "恒星航母战斗分析仪（固定式）"
+PAC_COMBAT_COMPUTER_OFFENSE_SE_DESC: "这艘先进的舰艇采用了针对航母优化的独特战斗分析仪。"
+ 
+HERCULEAN_COMBAT_COMPUTER_SE: "大力士恒星战斗分析仪"
+HERCULEAN_COMBAT_COMPUTER_SE_DESC: "恒星级战斗分析仪是一种极其先进的战斗计算机，可以实时分析战场状况并预测最佳行动方案，然后自动指示舰艇的整个系统做出相应反应，所需的手动输入最少。,这个特殊版本针对防御战术进行了优化。"
+ 
+tech_computer_stellarite: "恒星级战斗分析仪"
+tech_computer_stellarite_desc: “恒星级战斗分析仪是一种极其先进的德尔菲战斗计算机，它可以实时分析战场情况并预测最佳行动方案，然后自动指示舰艇的整个系统做出相应反应，所需的手动输入最少。,该系统覆盖星际。”
+TECH_UNLOCK_STELLARITE_CCOM_TITLE: "§H解锁组件：§!,恒星级战斗分析仪"
+TECH_UNLOCK_STELLARITE_CCOM_DESC: “恒星级战斗分析仪是一种极其先进的战斗计算机，可以实时分析战场情况并预测最佳行动方案，然后自动指示舰艇的整个系统做出相应反应，所需的手动输入最少。”
+
+#####################################################################################
+ 
+ACOT_AFTERBURNERS_SE: "西格玛加力燃烧室"
+ACOT_AFTERBURNERS_SE_DESC: "在这种情况下，仅靠推进器仍然不足以让船走得更快。,西格玛加力燃烧器可以用来让它们跑得更快。,因为我们必须走得快！,一定要快点！"
+ACOT_AFTERBURNERS_AURA_SE: "西格玛子空间放大器"
+ACOT_AFTERBURNERS_AURA_SE_DESC: "用于帮助提高舰队亚光速速度的专用组件。"
+tech_darkmatter_afterburners_se: "西格玛加力燃烧室"
+tech_darkmatter_afterburners_se_desc: "在这种情况下，仅靠推进器仍然不足以让船走得更快。,阿尔法加力燃烧室可用于提高船舶的最高速度。"
+ 
+ACOT_HYPERCHARGED_JUMPER_SE: "西格玛增压超光速放大器"
+ACOT_HYPERCHARGED_JUMPER_SE_DESC: “可以在跳跃驱动器的模块化涡轮机上安装额外的辅助放大器，以提高其性能。这种模型需要减轻 FTL 驱动器的负担。”
+ACOT_HYPERCHARGED_JUMPER_AURA_SE: "西格玛跳跃稳定器"
+ACOT_HYPERCHARGED_JUMPER_AURA_SE_DESC: "跳跃稳定器可以安装在带有适当模块的主力舰上，以增加舰队的跳跃范围。"
+tech_darkmatter_hyper_jump_drive_se: "西格玛级超光速放大器"
+tech_darkmatter_hyper_jump_drive_se_desc: "即使拥有最先进的新一代曲速引擎，有时仅靠这一点还不够。,我们可以改进当前的超光速驱动放大器，以创建缺陷更少的改进设计。"
+
+ACOT_REPAIR_COUNTERMEASURES_SE: "西格玛反应对抗无人机"
+ACOT_REPAIR_COUNTERMEASURES_SE_DESC: "西格玛级无人机比阿尔法一代无人机更先进、更耐用，可提供更好的保护、威慑和维护。"
+ACOT_REPAIR_COUNTERMEASURES_AURA_SE: "西格玛舰队 RCD"
+ACOT_REPAIR_COUNTERMEASURES_AURA_SE_DESC: "用于容纳大型 RCD 网络以支持车队的专用组件。,效率不如单艘船舶的 RCD 系统，但在大型舰队中非常有用。"
+tech_darkmatter_reactive_drone_se: "恒星铸造的无人机镀层"
+tech_darkmatter_reactive_drone_se_desc: "西格玛级无人机比阿尔法一代无人机更先进、更耐用，可以为舰艇装甲提供更好的保护、威慑和维护。"
+TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_SE_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_REPAIR_COUNTERMEASURES_SE$"
+TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_SE_DESC: "$ACOT_REPAIR_COUNTERMEASURES_SE_DESC$"
+
+ACOT_REACTOR_BOOSTER_SE: "西格玛辅助功率放大器"
+ACOT_REACTOR_BOOSTER_SE_DESC: "与暗能量变体非常相似，Stellarite APA 不仅提供额外的备用电源，而且还在各个领域略微改进了舰船。"
+ACOT_REACTOR_BOOSTER_AURA_SE: "西格玛 Supra 放大器"
+ACOT_REACTOR_BOOSTER_AURA_SE_DESC: "该船可以利用空间安装额外的 APA，而不需要额外的电源，以取代典型的光环组件。"
+tech_darkmatter_reactor_booster_se: "西格玛辅助功率放大器"
+tech_darkmatter_reactor_booster_se_desc: "与暗能量变体非常相似，Stellarite APA 不仅提供额外的备用电源，而且还在各个领域略微改进了舰船。"
+ 
+ACOT_SHIELD_BOOSTER_SE: "西格玛增压屏障"
+ACOT_SHIELD_BOOSTER_SE_DESC: "超级屏障使飞船的护盾发生器的效力大大增强，甚至比暗能量变体还要强大。"
+ACOT_SHIELD_BOOSTER_AURA_SE: "西格玛盾群"
+ACOT_SHIELD_BOOSTER_AURA_SE_DESC: "增压护盾辅助单元的特殊变体，牺牲局部力量以获得更广泛的效果。"
+tech_darkmatter_shield_supercharger_se: "西格玛增压屏障"
+tech_darkmatter_shield_supercharger_se_desc: "增压屏障使飞船的护盾发生器的效力大大增强，甚至比暗能量变体还要强大。"
+TECH_UNLOCK_ACOT_SHIELD_BOOSTER_SE_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_SHIELD_BOOSTER_SE$"
+TECH_UNLOCK_ACOT_SHIELD_BOOSTER_SE_DESC: "$ACOT_SHIELD_BOOSTER_SE_DESC$"
+
+ACOT_ARMOR_BOOSTER_SE: "西格玛增压装甲"
+ACOT_ARMOR_BOOSTER_SE_DESC: "超级屏障使飞船的护盾发生器的效力大大增强，甚至比暗能量变体还要强大。"
+ACOT_ARMOR_BOOSTER_AURA_SE: "西格玛动能屏障群"
+ACOT_ARMOR_BOOSTER_AURA_SE_DESC: "动能屏障辅助单元的特殊变体，牺牲局部力量以获得更广泛的效果。"
+tech_darkmatter_armor_supercharger_se: "西格玛增压装甲"
+tech_darkmatter_armor_supercharger_se_desc: "增压屏障使飞船的护盾发生器的效力大大增强，甚至比暗能量变体还要强大。"
+TECH_UNLOCK_ACOT_ARMOR_BOOSTER_SE_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_ARMOR_BOOSTER_SE$"
+TECH_UNLOCK_ACOT_ARMOR_BOOSTER_SE_DESC: "$ACOT_ARMOR_BOOSTER_SE_DESC$"
+
+ACOT_STARCHARTER_SE: "西格玛星宪章"
+ACOT_STARCHARTER_SE_DESC: "该辅助室配备了最先进的监视系统，使该船能够充当移动哨兵阵列，不受任何伏击企图的影响。"
+ACOT_STARCHARTER_AURA_SE: "西格玛哨兵网络"
+ACOT_STARCHARTER_AURA_SE_DESC: "星宪章模块的另一种变体，可以增强整个舰队的跟踪。"
+tech_darkmatter_star_charter_se: "西格玛星宪章"
+tech_darkmatter_star_charter_se_desc: "该辅助室配备了最先进的监视系统，使该船能够充当移动哨兵阵列，不受任何伏击企图的影响。"
+ 
+######################
+
+ACOT_WEAPON_CORE_SE: "超聚焦恒星核心"
+ACOT_WEAPON_CORE_SE_DESC: "超聚焦恒星核心可将周围材料的多余能量转化为增强飞船武器系统的性能。"
+tech_weapon_core_se: "超聚焦恒星核心"
+tech_weapon_core_se_desc: "超聚焦恒星核心可将周围材料的多余能量转化为增强飞船武器系统的性能。"
+ 
+ACOT_WEAPON_EXPLOSIVE_CORE_SE: "西格玛高爆导弹有效载荷"
+ACOT_WEAPON_EXPLOSIVE_CORE_SE_DESC: "所有标准配备的导弹武器系统都可以通过专用辅助系统进行增强，以进一步提高其火力。"
+tech_missile_core_se: "西格玛高爆导弹有效载荷"
+tech_missile_core_se_desc: "所有标准配备的导弹武器系统都可以通过专用辅助系统进行增强，以进一步提高其火力。"
+ 
+ACOT_WEAPON_KINETIC_CORE_SE: "Sigma 强光动能有效载荷"
+ACOT_WEAPON_KINETIC_CORE_SE_DESC: "一个复杂的微型工厂，可以快速生产更强、更快的强光弹药。"
+tech_kinetic_core_se: "西格玛强光弹丸动能系统"
+tech_kinetic_core_se_desc: "硬光材料非常耐用且生产速度快。,如果我们愿意投入操作它们所需的额外动力，也许它们可以用作我们火炮的动能炮弹。"
+ 
+ACOT_WEAPON_ENERGY_CORE_SE: "Sigma 能量计数器失真歧管"
+ACOT_WEAPON_ENERGY_CORE_SE_DESC: "这个微球体蕴藏着强大的神秘能量，可以通过弯曲时空和违反各种物理定律来直接改进飞船的能量武器系统。"
+tech_energy_core_se: "ESigma能量计数器畸变矩阵"
+tech_energy_core_se_desc: "大多数能量武器都会因重力而变形，导致它们失去焦点且不稳定。,随着能够弯曲时空并抵消一切扭曲效应的球形装置的发明，我们的能量武器将发挥更大的潜力。"
+ 
+ACOT_WEAPON_FIGHTER_CORE_SE: "Sigma 高性能机库支持"
+ACOT_WEAPON_FIGHTER_CORE_SE_DESC: "用专用的高性能维护辅助设备升级传统机库将大大提高航母在战斗中管理和维护攻击机的能力。"
+tech_fighter_core_se: "Sigma 高性能机库支持"
+tech_fighter_core_se_desc: "用专用的高性能维护辅助设备升级传统机库将大大提高航母在战斗中管理和维护攻击机的能力。"
+
+######################
+
+ACOT_AURA_TECH_INHIBITOR_SE: "黎明使者网络抑制剂"
+ACOT_AURA_TECH_INHIBITOR_SE_DESC: "这种极其强大的装置会干扰敌方系统，消除他们的力量并将其赋予盟军船只。,他们的力量是我们的命令和征服。"
+TECH_UNLOCK_ENERGY_DRAINER_SE_TITLE: "§H解锁组件：§!,黎明使者网络抑制剂"
+TECH_UNLOCK_ENERGY_DRAINER_SE_DESC: "§HD黎明使者网络抑制剂§!\n这种极其强大的装置会干扰敌方系统，消除他们的力量并将其赋予盟军船只。,他们的力量是我们的命令和征服。"
+tech_darkmatter_aura_energy_drainer_se: "黎明使者级网络抑制剂"
+tech_darkmatter_aura_energy_drainer_se_desc: "由恒星提供动力的黎明使者网络抑制剂比暗能量更强大，能够引导更多的力量来消灭敌方船只并支持我们自己的船只。"
+ 
+###################### 
+
+ACOT_AURA_SUPERAURA_SE: "恒星锻造网络"
+ACOT_AURA_SUPERAURA_SE_DESC: "由旗舰精心策划的特殊网络，在舰队内所有船只的计算机之间建立了强大的人工链接，将它们调整为一条牢不可破的链条。"
+TECH_UNLOCK_INSPIRE_AURA_SE_TITLE: "§H解锁组件：§!,恒星锻造网络"
+TECH_UNLOCK_INSPIRE_AURA_SE_DESC: “§HStellarite Forge Network§!\n由旗舰精心策划的特殊网络，在舰队内所有船舶计算机之间建立强大的人工链接，将它们调整为一条牢不可破的链条。”
+tech_inspire_aura_se: "恒星锻造网络"
+tech_inspire_aura_se_desc: "恒星能量的一个好处是，它们各自辐射出足够的残留物，通过专门的锻造厂为每艘船补充这些残留物，整个舰队之间可以形成强大的网络。,也许可以在我们的主力舰上安装一个？"
+ 
+######################
+ 
+aura_origin: "集中网络"
+friendly_tech_inhibitor_aura: "敌对网络抑制剂"
+hostile_tech_inhibitor_aura: "友好的网络放大器"
+ 
+tech_darkmatter_stealth_generator_se: "西格玛隐形发电机"
+tech_darkmatter_stealth_generator_se_desc: "更好的隐形技术带来了许多新的有趣的策略。,很快，我们将能够设计出除了立即突然袭击之外还有用的隐形机制。"
+
+ACOT_CLOAKING_LIGHT_SE_TOOLTIP: "§ELight 隐形发生器在交战时没有护盾惩罚，但提供有限的隐形能力。§!\n\n"
+ACOT_CLOAKING_HEAVY_SE_TOOLTIP: "$CLOAKING_SHIELD_REDUCTION_HEADER$ §R40%§!\n\n§E$SHIP_SHIELD_REDUCTION_CLOAKING$ 如果配备至少 Delta 级的护盾增幅器辅助组件，可减少一半。§!\n\n"
+
+ACOT_CLOAKING_LIGHT_SE: "西格玛光隐形发生器"
+ACOT_CLOAKING_LIGHT_SE_DESC: "西格玛光隐形发生器"
+ACOT_CLOAKING_FULL_SE: "西格玛超级隐形发电机"
+ACOT_CLOAKING_FULL_SE_DESC: "西格玛超级隐形发电机"
+
+#### SHIP Tech ####
+ 
+damage_vs_country_type_ascended_empire_mult: "对登高帝国的损害"
+damage_vs_country_type_lost_empire_mult: "对失落帝国的损害"
+damage_vs_country_type_original_empire_mult: "对原始帝国的损害"
+ 
+shipsize_colossus_hull_add: "巨像船体添加"
+ 
+ESCORT_OFFENSIVE_BEHAVIOR_DESC: "§H进攻战术：§!,该船将进入近距离并形成进攻线。 ,（§Y35§!）。"
+ESCORT_DEFENSIVE_BEHAVIOR_DESC: "§H防御策略：§!,该船将留在后面并形成防御线。（§Y100§!）。"
+ESCORT_BALANCE_BEHAVIOR_DESC: "§H平衡战术：§!,舰艇将保持队形，使所有武器保持在射程内。(§Y50§!)。"
+ 
+BATTLECRUISER_OFFENSIVE_BEHAVIOR_DESC: "§H进攻战术：§!,该船将进入近距离并形成进攻线。 ,（§Y60§!）。"
+BATTLECRUISER_DEFENSIVE_BEHAVIOR_DESC: "§H防御策略：§!,船只将留在后面并形成防御线。（§Y最大射程§!）。"
+BATTLECRUISER_BALANCE_BEHAVIOR_DESC: "§H平衡战术：§!,舰艇将保持队形，使所有武器保持在射程内。(§Y120§!)。"
+ 
+TITAN_OFFENSIVE_BEHAVIOR_DESC: "§H进攻战术：§!,该船将进入近距离并形成进攻线。 ,（§Y80§!）。"
+TITAN_DEFENSIVE_BEHAVIOR_DESC: "§H防御策略：§!,船只将留在后面并形成防御线。（§Y最大射程§!）。"
+TITAN_BALANCE_BEHAVIOR_DESC: "§H平衡战术：§!,舰艇将保持队形，使所有武器保持在射程内。(§Y150§!)。"
+ 
+GOLIATH_OFFENSIVE_BEHAVIOR_DESC: "§H进攻战术：§!,该船将进入近距离并形成进攻线。 ,（§Y120§!）。"
+GOLIATH_DEFENSIVE_BEHAVIOR_DESC: "§H防御策略：§!,船只将留在后面并形成防御线。（§Y最大射程§!）。"
+GOLIATH_BALANCE_BEHAVIOR_DESC: "§H平衡战术：§!,舰艇将保持队形，使所有武器保持在射程内。(§Y170§!)。"
+ 
+FLAGSHIP_DEFENSIVE_BEHAVIOR_DESC: "§H防御策略：§!,这艘船将以无情的效率扫描并消灭所有敌对目标。(§Y250§!)。"
+
+########## OTHER TECHS
+
+tech_stelar_advanced_ships: "恒星级船舶设计"
+tech_stelar_advanced_ships_desc: "恒星能源的出现使我们能够大幅减少每艘船主反应堆所需的空间，从而使我们能够开发出更强大的船舶。"
+ 
+ 
+STELLAR_COLONIZATION_SECTION: "恒星殖民地"
+STELLAR_SCIENCESHIP_SECTION: "明星医生"
+STELLAR_CONSTRUCTION_SECTION: "恒星SCV"
+ 
+STELLAR_CORVETTE_MID_A: "恒星科尔维特A"
+STELLAR_CORVETTE_MID_B: "恒星科尔维特 B"
+STELLAR_CORVETTE_MID_C: "恒星克尔维特 C"
+ 
+STELLAR_DESTROYER_BOW_1: "恒星驱逐舰弓 A"
+STELLAR_DESTROYER_BOW_2: "恒星毁灭弓B"
+STELLAR_DESTROYER_BOW_3: "恒星驱逐舰弓 C"
+STELLAR_DESTROYER_BOW_4: "恒星驱逐舰弓 D"
+STELLAR_DESTROYER_STERN_1: "恒星驱逐舰船尾A"
+STELLAR_DESTROYER_STERN_2: "恒星驱逐舰Stern B"
+STELLAR_DESTROYER_STERN_3: "恒星驱逐舰船尾C"
+STELLAR_DESTROYER_STERN_4: "恒星驱逐舰 Stern D"
+ 
+STELLARITE_CRUISER_BOW_1: "恒星巡洋舰弓 A"
+STELLARITE_CRUISER_BOW_2: "恒星巡洋舰弓B"
+STELLARITE_CRUISER_BOW_3: "恒星巡洋舰弓C"
+STELLARITE_CRUISER_BOW_4: "恒星巡洋舰弓 D"
+STELLARITE_CRUISER_MID_1: "恒星巡洋舰中A"
+STELLARITE_CRUISER_MID_2: "恒星巡洋舰中B"
+STELLARITE_CRUISER_MID_3: "恒星巡洋舰中C"
+STELLARITE_CRUISER_MID_4: "恒星巡洋舰中D"
+STELLARITE_CRUISER_STERN_1: "恒星巡洋舰船尾A"
+STELLARITE_CRUISER_STERN_2: "恒星巡洋舰船尾B"
+STELLARITE_CRUISER_STERN_3: "恒星巡洋舰船尾C"
+ 
+STELLARITE_BATTLESHIP_BOW_1: "恒星战舰弓A"
+STELLARITE_BATTLESHIP_BOW_2: "恒星战舰弓B"
+STELLARITE_BATTLESHIP_BOW_3: "恒星战舰弓C"
+STELLARITE_BATTLESHIP_BOW_4: "恒星战舰弓 D"
+STELLARITE_BATTLESHIP_BOW_5: "恒星战舰弓E"
+STELLARITE_BATTLESHIP_MID_1: "恒星战舰中A"
+STELLARITE_BATTLESHIP_MID_2: "恒星战舰中B"
+STELLARITE_BATTLESHIP_MID_3: "恒星战舰中C"
+STELLARITE_BATTLESHIP_MID_4: "恒星战舰中D"
+STELLARITE_BATTLESHIP_MID_5: "恒星战舰Mid E"
+STELLARITE_BATTLESHIP_STERN_1: "恒星战列舰船尾A"
+STELLARITE_BATTLESHIP_STERN_2: "恒星战舰船尾B"
+STELLARITE_BATTLESHIP_STERN_3: "恒星战舰船尾C"
+STELLARITE_BATTLESHIP_STERN_4: "恒星战舰Stern D"
+ 
+STELLARITE_TITAN_BOW_1: "恒星泰坦弓A"
+STELLARITE_TITAN_BOW_2: "恒星泰坦弓 B"
+STELLARITE_TITAN_BOW_3: "恒星泰坦弓 C"
+STELLARITE_TITAN_MID_1: "恒星泰坦中A"
+STELLARITE_TITAN_MID_2: "恒星泰坦中B"
+STELLARITE_TITAN_MID_3: "恒星泰坦中C"
+STELLARITE_TITAN_MID_4: "恒星泰坦中D"
+STELLARITE_TITAN_MID_5: "恒星泰坦中E"
+STELLARITE_TITAN_STERN_1: "恒星泰坦星舰A"
+STELLARITE_TITAN_STERN_2: "恒星泰坦星舰B"
+STELLARITE_TITAN_STERN_3: "恒星泰坦斯特恩 C"
+STELLARITE_TITAN_STERN_4: "恒星泰坦斯特恩 D"
+ 
+ 
+
+

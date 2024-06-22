@@ -1,0 +1,1437 @@
+﻿﻿
+l_simp_chinese:
+ 
+MESSAGE_ACOT_ARMY_UPGRADE_TITLE: "陆军等级升级"
+MESSAGE_ACOT_ARMY_UPGRADE_DESC: "陆军等级升级"
+message_acot_army_tier_upgrade: "所有符合条件的军队都已升级到下一个等级。"
+
+MESSAGE_ACOT_VEHICLE_PILOT_REPLACE_TITLE: "车辆驾驶员已做好准备"
+MESSAGE_ACOT_VEHICLE_PILOT_REPLACE_DESC: "车辆驾驶员已做好准备"
+message_acot_vehicle_pilot_replace: "地球上的所有飞行员都已在各自的车辆中做好了准备，准备部署。"
+
+MESSAGE_ACOT_ARMY_MACHINE_REPAIR_TITLE: "机械军团已修复"
+MESSAGE_ACOT_ARMY_MACHINE_REPAIR_DESC: "机械军团已修复"
+message_acot_army_machine_repair: "星球上所有的机械军团都已经修复完毕。"
+
+MESSAGE_ACOT_ARMY_COCOON_HATCH_TITLE: "蜂巢茧孵化"
+MESSAGE_ACOT_ARMY_COCOON_HATCH_DESC: "蜂巢茧孵化"
+message_acot_army_cocoon_hatch: "地球上所有的蜂巢都已孵化成新的战士。"
+
+MESSAGE_ACOT_HERO_DEATH_TITLE: "英雄被杀"
+MESSAGE_ACOT_HERO_DEATH_DESC: "英雄被杀"
+message_acot_hero_death_psi: “我们的黑暗心灵术士阵亡了！损失惨重！”
+message_acot_hero_death_gene: “我们的天顶战士死了！这是多么可怕的消息啊！”
+message_acot_hero_death_cyborg: “我们的机械人突击队被杀了！真是一场灾难！”
+message_acot_hero_death_synth: “我们的合成幽灵已经被摧毁了！诅咒！”
+message_acot_hero_death_hive: “恐惧已被平息！蜂巢翻腾！”
+message_acot_hero_death_machine: “神机败北！不可思议！”
+message_acot_hero_death_default: “这是黑暗的一天！我们的一位英雄倒下了！”
+
+MESSAGE_ACOT_PHANON_INJURED_DESC: "法农特工受伤"
+message_acot_phanon_operative_injured: “法农特工队已被击败，但设法撤退到追星者号上。他们必须在船上停留 1800 天才能恢复活力，但否则仍然可以在星际入侵者号上进行太空战斗。”
+MESSAGE_ACOT_PHANON_DEATH_DESC: "法农特工部分死亡"
+message_acot_phanon_operative_dead: "二人组的一名法农特工已被杀。,另一个设法逃回星际入侵者，但必须留在那里，不能再进行地面战斗。,此外，失去伙伴也降低了星际入侵者的效率。"
+MESSAGE_ACOT_PHANON_DESTROYED_DESC: "法农特工被杀"
+message_acot_phanon_operative_destroyed: “两名法农特工都已被杀。没有了特工，星际入侵者就开始了自毁程序。彻底失败了。”
+
+primitive_army: "原始军队"
+primitive_army_plural: "原始军队"
+primitive_army_desc: "这些可怜的小军队是装备精良的士兵，可以参加小型战争。,现在是士兵依靠技能而不是工具取胜的时候了。,对他们来说不幸的是，他们的简陋武器根本无法对抗现代装甲，而且他们对现代武器几乎没有防御能力。,他们最有可能在第一眼看到那些来自天空的人时就跑。"
+
+acot_medieval_army: "中世纪军队"
+acot_medieval_army_plural: "中世纪军队"
+acot_medieval_army_desc: "在中世纪时期，国家开始雇用由专业人士和征兵组成的正规军队，有时还配备战兽。,攻城武器变得普遍。,但他们仍然无法对抗现代军队。,荣誉与勇敢无法替代等离子火力或导弹火力。"
+
+acot_steam_army: "蒸汽军团"
+acot_steam_army_plural: "蒸汽军队"
+acot_steam_army_desc: "火器的引入改变了战斗的方式。,然而，面对任何现代火力，它们仍然是任人宰割的羔羊。"
+
+industrial_army: "工业军"
+industrial_army_plural: "工业军"
+industrial_army_desc: "工业军现在已经有了适当的编队和一定程度的指挥系统。,他们正在探索现代战争的奇迹，或许还有它的恐怖。,如果他们知道他们的武器和盔甲仍然远远落后于现代武器就好了。"
+
+postatomic_army: "后原子军团"
+postatomic_army_plural: "后原子时代的军队"
+postatomic_army_desc: "后原子军队由联合部队组成。,步兵、装甲、飞机和火力支援使它们与之前的任何版本相比都非常强大。,然而他们仍然有一个突出的问题。,他们永远不必与自己星球之外的任何事物作斗争。,他们的武器仍然无法与现代军队相比。"
+
+acot_early_space_army: "早期太空时代陆军"
+acot_early_space_army_plural: "早期太空时代的军队"
+acot_early_space_army_desc: "你会看一下吗？,从这个原始时代开始的军队正在走向真正的现代化。,他们甚至有护盾和适当的紧凑型能量电池！,他们是如此接近。,很接近。,也许他们真的能够对抗现代军队？"
+
+
+#################################################### ARMY Tech ####################################################
+
+decision_acot_rebuild_piloted_vehicle: "重建车辆"
+decision_acot_rebuild_piloted_vehicle_desc: "对于我们宝贵的飞行员来说，如果他们没有玩具就被困在战场上，那是不行的。,更换成本可以忽略不计，因此我们应该始终努力确保我们的男孩和女孩始终保持最佳性能。"
+decision_acot_rebuild_piloted_vehicle_tooltip: "为地球上现有的飞行员重建被毁坏的车辆。,此操作不会消耗资源，但会花费少量时间。"
+
+decision_acot_repair_damaged_machine: "修复受损单位"
+decision_acot_repair_damaged_machine_desc: "受损的战斗单位可以免费使用替换零件进行修复，而不会影响其累积的战场数据。"
+decision_acot_repair_damaged_machine_tooltip: "将受损的战斗单位修复至原始状态，保留受损单位可能积累的任何经验。"
+
+decision_acot_repair_damaged_robot: "修理损坏的机器"
+decision_acot_repair_damaged_robot_desc: "损坏的机械单元可以使用替换零件免费修复，而不会影响其累积的战场数据。"
+decision_acot_repair_damaged_robot_tooltip: "将损坏的机械单元修复回原始状态，保留损坏单元可能积累的任何经验。"
+
+decision_acot_hatch_cocoon: "孵化蜂巢茧"
+decision_acot_hatch_cocoon_desc: "在激烈的战斗中，某些茧可能无法正确触发其孵化顺序。,它们可以被手动触发，在蜂巢星球的安全范围内孵化。"
+decision_acot_hatch_cocoon_tooltip: "孵化任何在之前的战斗中尚未孵化的幸存茧。"
+
+decision_acot_repair_fortification: "修复工事"
+decision_acot_repair_fortification_desc: "修复损坏的墙壁，恢复和更换在此过程中损坏的墙壁和电池。,修复防御工事总是比从头开始重建更快、更便宜。"
+
+decision_acot_upgrade_fortification: "防御墙"
+decision_acot_upgrade_fortification_desc: "通过额外加固的墙壁来升级殖民地的防御。,防御墙为殖民地提供额外的保护。,虽然城墙的攻击能力较差，且武装较轻，但相当耐用，维护成本低。,即使是一些额外的防御也可能正是阻止入侵所需的，或者为增援赢得足够的时间。 \n\n如果任何墙壁在地面战斗中被摧毁，则必须对其进行修复。,如果所有墙壁都被摧毁，则必须重建它们。\n\n添加的墙壁数量基于行星的大小。,从 4 岁开始，星球大小为 $Y10$！,及以下，增加 $Y2$！,每 $Y5$！,行星大小高达 $Y30$!。"
+
+acot_modifier_fortification_1: "加固防御墙"
+acot_modifier_fortification_1_desc: "防御墙为殖民地提供额外的保护。,虽然城墙的攻击能力较差，且武装较轻，但相当耐用，维护成本低。,即使是一些额外的防御也可能正是阻止入侵所需的，或者为增援赢得足够的时间。 \n\n如果任何墙壁在地面战斗中被摧毁，则必须对其进行修复。,如果所有墙壁都被摧毁，那么就必须重建它们。"
+
+acot_modifier_damaged_fortification_1: "损坏的防御墙"
+acot_modifier_damaged_fortification_1_desc: "这些墙壁已损坏，必须修复。\n\n如果任何墙壁在地面战斗中被摧毁，则必须修复。,如果所有墙壁都被摧毁，那么就必须重建它们。"
+
+acot_defensive_wall: "加固防御墙"
+acot_defensive_wall_plural: "加固的防御墙"
+acot_defensive_wall_desc: "防御墙为殖民地提供额外的保护。,虽然城墙的攻击能力较差，且武装较轻，但相当耐用，维护成本低。,即使是一些额外的防御也可能正是阻止入侵所需的，或者为增援赢得足够的时间。 \n\n如果任何墙壁在地面战斗中被摧毁，则必须对其进行修复。,如果所有墙壁都被摧毁，那么就必须重建它们。"
+acot_defensive_wall_dm: "三角洲防御墙"
+acot_defensive_wall_dm_plural: "三角洲防御墙"
+acot_defensive_wall_dm_desc: "$acot_defective_wall_desc$"
+acot_defensive_wall_ae: "阿尔法防御墙"
+acot_defensive_wall_ae_plural: "阿尔法防御墙"
+acot_defensive_wall_ae_desc: "$acot_defective_wall_desc$"
+acot_defensive_wall_se: "西格玛防御墙"
+acot_defensive_wall_se_plural: "西格玛防御墙"
+acot_defensive_wall_se_desc: "$acot_defective_wall_desc$"
+
+
+decision_acot_upgrade_fortification_2: "防御电池"
+decision_acot_upgrade_fortification_2_desc: "使用额外的武器电池升级殖民地的加固墙。,这些城墙升级了强大的武器系统，现在可以用强大的弹幕协助防御军队。,即使是一些额外的防御也可能正是阻止入侵所需的，或者为增援赢得足够的时间。 \n\n如果任何墙壁在地面战斗中被摧毁，则必须对其进行修复。,如果所有墙壁都被摧毁，则必须重建它们。\n\n添加的墙壁数量基于行星的大小。,从 4 岁开始，星球大小为 $Y10$！,及以下，增加 $Y2$！,每 $Y5$！,行星大小高达 $Y30$!。"
+
+acot_modifier_fortification_2: "强化强化电池"
+acot_modifier_fortification_2_desc: "这些城墙升级了强大的武器系统，现在可以用强大的弹幕协助防御军队。,即使是一些额外的防御也可能正是阻止入侵所需的，或者为增援赢得足够的时间。 \n\n如果任何墙壁在地面战斗中被摧毁，则必须对其进行修复。,如果所有墙壁都被摧毁，那么就必须重建它们。"
+
+acot_modifier_damaged_fortification_2: "损坏的强化电池"
+acot_modifier_damaged_fortification_2_desc: "这些电池已损坏，必须修复。\n\n如果任何墙壁在地面战斗中被破坏，则必须修复。,如果所有墙壁都被摧毁，那么就必须重建它们。"
+
+acot_defensive_cannon: "强化强化电池"
+acot_defensive_cannon_plural: "强化强化电池"
+acot_defensive_cannon_desc: "这些城墙升级了强大的武器系统，现在可以用强大的弹幕协助防御军队。,即使是一些额外的防御也可能正是阻止入侵所需的，或者为增援赢得足够的时间。 \n\n如果任何墙壁在地面战斗中被摧毁，则必须对其进行修复。,如果所有墙壁都被摧毁，那么就必须重建它们。"
+acot_defensive_cannon_dm: "台达强化电池"
+acot_defensive_cannon_dm_plural: "台达强化电池"
+acot_defensive_cannon_dm_desc: "$acot_defective_cannon_desc$"
+acot_defensive_cannon_ae: "阿尔法强化电池"
+acot_defensive_cannon_ae_plural: "阿尔法强化电池"
+acot_defensive_cannon_ae_desc: "$acot_defective_cannon_desc$"
+acot_defensive_cannon_se: "西格玛强化电池"
+acot_defensive_cannon_se_plural: "西格玛强化电池"
+acot_defensive_cannon_se_desc: "$acot_defective_cannon_desc$"
+
+decision_acot_rebuild_giga_fortress_cannon: "重建巨型要塞大炮"
+decision_acot_rebuild_giga_fortress_cannon_desc: "重建被摧毁或失踪的千兆要塞大炮，以便它们再次发挥作用。"
+
+requires_building_forts: "这支军队需要先进的军事设施。"
+requires_building_ascensions: "这支军队需要先进的提升建筑。"
+
+tech_acot_army_3: "未来的军队"
+tech_acot_army_3_desc: "士兵们骄傲，机器轰鸣，我们的敌人发生冲突。,未来是现在。"
+
+tech_acot_army_5: "最高指挥官"
+tech_acot_army_5_desc: "如果战斗一定能取得胜利，那么就必须战斗。,我们愿意战斗，因为我们是为了胜利而战。"
+
+tech_acot_army_morale_1: "民族主义"
+tech_acot_army_morale_1_desc: "尽管个别国家不再在统一帝国中发挥重要作用，但新秩序本身是一个人民应该相信其事业的国家。"
+
+tech_acot_army_morale_2: "爱国主义"
+tech_acot_army_morale_2_desc: "过去，军人可能为情感而战，为国家而战，也可能为自由而战。,但在这个广阔的星系中，即使是最忠诚的人也可能受到考验，人们必须坚定自己的事业，要知道他们的生命不仅仅意味着对抗即将到来的利刃的一滴血。,他们必须击中目标，抵御风暴。"
+
+tech_acot_army_morale_3: "狂热"
+tech_acot_army_morale_3_desc: "有些人可能认为狂热的信仰是危险的，因为它可能会导致某些缺点和丧失观点。,显然，这些人一定没有正面对抗过来袭的导弹。,一名狂热的士兵可以完成连最忠诚的公民都会感到惊讶的壮举。,他们会为这一事业而奋斗、牺牲，即使他们自己可能并不完全理解这一点。"
+
+################ DEFENDING ARMY ################
+
+decision_acot_upgrade_garrison_1: "国防军扩张"
+decision_acot_upgrade_garrison_1_desc: "升级防御力量，额外扩充武器库，大幅提升防御力量。,国防军的维持成本以及厌战成本也会增加。"
+
+acot_modifier_defense_upgrade_1: "扩大国防军"
+acot_modifier_defense_upgrade_1_desc: "扩大的国防军为防御军队提供增强的火力和防御力。"
+
+decision_acot_upgrade_garrison_2: "最大防御力"
+decision_acot_upgrade_garrison_2_desc: "升级防御力量，额外扩充武器库，大幅提升防御力量。,国防军的维持成本以及厌战成本也会增加。"
+
+acot_modifier_defense_upgrade_2: "最大防御力"
+acot_modifier_defense_upgrade_2_desc: "将防御力提升至最高等级，大幅提升防御力。,国防军的维持成本以及厌战成本也会增加。"
+
+defense_army: "步兵国防军"
+defense_army_plural: "步兵国防军"
+defense_army_desc: "默认情况下，行星驻军都配备了装备各种武器的精干士兵，以对抗潜在的入侵者。,然而，他们的火力比普通步兵少，以限制附带损害。,守军渴望保卫家园，士气较高，但如果没有进一步的升级和支援，就会在猛烈攻击面前不堪重负。"
+
+acot_defense_army_dm: "三角洲步兵防御部队"
+acot_defense_army_dm_plural: "三角洲步兵国防军"
+acot_defense_army_dm_desc: "默认情况下，行星驻军都配备了装备各种武器的精干士兵，以对抗潜在的入侵者。,然而，他们的火力比普通步兵少，以限制附带损害。,守军渴望保卫家园，士气较高，但如果没有进一步的升级和支援，就会在猛烈攻击面前不堪重负。"
+
+acot_defense_army_ae: "阿尔法步兵防御部队"
+acot_defense_army_ae_plural: "阿尔法步兵国防军"
+acot_defense_army_ae_desc: "默认情况下，行星驻军都配备了装备各种武器的精干士兵，以对抗潜在的入侵者。,然而，他们的火力比普通步兵少，以限制附带损害。,守军渴望保卫家园，士气较高，但如果没有进一步的升级和支援，就会在猛烈攻击面前不堪重负。"
+
+acot_defense_army_light: "装甲国防军"
+acot_defense_army_light_plural: "装甲国防军"
+acot_defense_army_light_desc: "由大型步兵团和装甲师组成的强大守备部队。,两股力量齐心协力，击退任何入侵者。"
+
+acot_defense_army_light_dm: "三角洲装甲国防军"
+acot_defense_army_light_dm_plural: "三角洲装甲国防军"
+acot_defense_army_light_dm_desc: "由大型步兵团和装甲师组成的强大守备部队。,两股力量齐心协力，击退任何入侵者。"
+
+acot_defense_army_light_ae: "阿尔法装甲防御部队"
+acot_defense_army_light_ae_plural: "阿尔法装甲国防军"
+acot_defense_army_light_ae_desc: "由大型步兵团和装甲师组成的强大守备部队。,两股力量齐心协力，击退任何入侵者。"
+
+acot_defense_army_heavy: "精英国防军"
+acot_defense_army_heavy_plural: "精锐国防军"
+acot_defense_army_heavy_desc: "由步兵、装甲部队和空军组成的军团。,这些精英随时准备消灭任何胆敢威胁他们家园的人。"
+
+acot_defense_army_heavy_dm: "三角洲精英国防军"
+acot_defense_army_heavy_dm_plural: "三角洲精英国防军"
+acot_defense_army_heavy_dm_desc: "由步兵、装甲部队和空军组成的军团。,这些精英随时准备消灭任何胆敢威胁他们家园的人。"
+
+acot_defense_army_heavy_ae: "阿尔法精英国防军"
+acot_defense_army_heavy_ae_plural: "阿尔法精英国防军"
+acot_defense_army_heavy_ae_desc: "由步兵、装甲部队和空军组成的军团。,这些精英随时准备消灭任何胆敢威胁他们家园的人。"
+
+############################
+
+acot_defense_undead_dm: "不朽的三角洲"
+acot_defense_undead_dm_plural: "不朽的三角洲"
+acot_defense_undead_dm_desc: "不朽者由军事死灵法师召唤来帮助保卫家园。"
+
+acot_defense_undead_ae: "不朽的阿尔法"
+acot_defense_undead_ae_plural: "不朽的阿尔法"
+acot_defense_undead_ae_desc: "不朽者由军事死灵法师召唤来帮助保卫家园。"
+
+acot_defense_undead_light: "不朽的恐惧"
+acot_defense_undead_light_plural: "不朽的恐惧"
+acot_defense_undead_light_desc: "恐惧不朽者更强大、更大，并且对死灵法师的命令反应更灵敏。"
+
+acot_defense_undead_light_dm: "恐惧不朽三角洲"
+acot_defense_undead_light_dm_plural: "恐惧不朽三角洲"
+acot_defense_undead_light_dm_desc: "恐惧不朽者更强大、更大，并且对死灵法师的命令反应更灵敏。"
+
+acot_defense_undead_light_ae: "恐惧不朽阿尔法"
+acot_defense_undead_light_ae_plural: "恐惧不朽阿尔法"
+acot_defense_undead_light_ae_desc: "恐惧不朽者更强大、更大，并且对死灵法师的命令反应更灵敏。"
+
+acot_defense_undead_heavy: "巨大的不朽者"
+acot_defense_undead_heavy_plural: "巨大的不朽者"
+acot_defense_undead_heavy_desc: "只有死灵术大师才有希望召唤出这些巨大的不死之王。"
+
+acot_defense_undead_heavy_dm: "巨大的不朽三角洲"
+acot_defense_undead_heavy_dm_plural: "巨大的不朽三角洲"
+acot_defense_undead_heavy_dm_desc: "只有死灵术大师才有希望召唤出这些巨大的不死之王。"
+
+acot_defense_undead_heavy_ae: "巨大的不朽阿尔法"
+acot_defense_undead_heavy_ae_plural: "巨大的不朽阿尔法"
+acot_defense_undead_heavy_ae_desc: "只有死灵术大师才有希望召唤出这些巨大的不死之王。"
+
+############################
+
+acot_defense_robot_dm: "三角洲执法者机器人"
+acot_defense_robot_dm_plural: "三角洲执法者机器人"
+acot_defense_robot_dm_desc: "执法者无人机是轻型安全单位，旨在利用机器强大的防御网格网络巡逻和保卫地球。"
+
+acot_defense_robot_ae: "阿尔法执行者机器人"
+acot_defense_robot_ae_plural: "阿尔法执行者机器人"
+acot_defense_robot_ae_desc: "执法者无人机是轻型安全单位，旨在利用机器强大的防御网格网络巡逻和保卫地球。"
+
+acot_defense_robot_light: "守护机器人"
+acot_defense_robot_light_plural: "三角洲执法者机器人"
+acot_defense_robot_light_desc: "这些机器人配备了最新的基于暗能量的武器和装甲，使它们远远优于它们的前辈，同时需要最小的维护成本调整。"
+
+acot_defense_robot_light_dm: "三角洲执法者机器人"
+acot_defense_robot_light_dm_plural: "三角洲执法者机器人"
+acot_defense_robot_light_dm_desc: "这些机器人配备了最新的基于暗能量的武器和装甲，使它们远远优于它们的前辈，同时需要最小的维护成本调整。"
+
+acot_defense_robot_light_ae: "阿尔法执行者机器人"
+acot_defense_robot_light_ae_plural: "阿尔法执行者机器人"
+acot_defense_robot_light_ae_desc: "这些机器人配备了最新的基于暗能量的武器和装甲，使它们远远优于它们的前辈，同时需要最小的维护成本调整。"
+
+acot_defense_robot_heavy: "三角洲执法者机器人"
+acot_defense_robot_heavy_plural: "三角洲执法者机器人"
+acot_defense_robot_heavy_desc: "这些机器人配备了最新的基于暗能量的武器和装甲，使它们远远优于它们的前辈，同时需要最小的维护成本调整。"
+
+acot_defense_robot_heavy_dm: "三角洲执法者机器人"
+acot_defense_robot_heavy_dm_plural: "三角洲执法者机器人"
+acot_defense_robot_heavy_dm_desc: "这些机器人配备了最新的基于暗能量的武器和装甲，使它们远远优于它们的前辈，同时需要最小的维护成本调整。"
+
+acot_defense_robot_heavy_ae: "阿尔法执行者机器人"
+acot_defense_robot_heavy_ae_plural: "阿尔法执行者机器人"
+acot_defense_robot_heavy_ae_desc: "这些机器人配备了最新的基于暗能量的武器和装甲，使它们远远优于它们的前辈，同时需要最小的维护成本调整。"
+
+############################
+
+###################### SPECIAL GARRISON ARMY ######################
+
+acot_garrison_army: "达美黑卫士"
+acot_garrison_army_plural: "三角洲黑卫队"
+acot_garrison_army_desc: "来自使者的精锐守备部队，誓死保护他们的新家园。"
+ 
+acot_garrison_army_droid: "德尔创后卫"
+acot_garrison_army_droid_plural: "德尔创捍卫者队"
+acot_garrison_army_droid_desc: "从使者那里安装的先进防御部队被编程来守卫它的新家园，直到它们被摧毁。"
+ 
+acot_garrison_army_giga: "千兆加农炮"
+acot_garrison_army_giga_plural: "千兆大炮"
+acot_garrison_army_giga_desc: "从千兆要塞部署的巨型加农炮可以在短时间内消灭原始部队。"
+ 
+
+################################ ATTACKING ARMY ################################
+
+################ INFANTRY AUTO ARMOR
+
+acot_infantry_autoarmor: "轻步兵自动套装"
+acot_infantry_autoarmor_plural: "轻步兵自动套装"
+acot_infantry_autoarmor_desc: "尽管这些套装的佩戴者已在战斗中阵亡，但套装的各种自动化系统仍然完好无损，并且如果该派系避免使用自动化人工智能，则无论是单独还是通过战场指挥官的代理控制，仍然能够在一定程度上进行战斗,那是。,考虑到他们所处的技术时代，这很奇怪。"
+
+acot_infantry_autoarmor_se: "西格玛轻步兵自动套装"
+acot_infantry_autoarmor_se_plural: "西格玛轻步兵自动套装"
+acot_infantry_autoarmor_se_desc: "尽管这些套装的佩戴者已在战斗中阵亡，但套装的各种自动化系统仍然完好无损，并且如果该派系避免使用自动化人工智能，则无论是单独还是通过战场指挥官的代理控制，仍然能够在一定程度上进行战斗,那是。,考虑到他们所处的技术时代，这很奇怪。"
+
+###
+
+acot_infantry_medium_autoarmor: "专业步兵自动套装"
+acot_infantry_medium_autoarmor_plural: "专业步兵自动套装"
+acot_infantry_medium_autoarmor_desc: "尽管这些套装的佩戴者已在战斗中阵亡，但套装的各种自动化系统仍然完好无损，并且如果该派系避免使用自动化人工智能，则无论是单独还是通过战场指挥官的代理控制，仍然能够在一定程度上进行战斗,那是。,考虑到他们所处的技术时代，这很奇怪。"
+
+acot_infantry_medium_autoarmor_se: "西格玛特种步兵自动套装"
+acot_infantry_medium_autoarmor_se_plural: "西格玛特种步兵自动套装"
+acot_infantry_medium_autoarmor_se_desc: "尽管这些套装的佩戴者已在战斗中阵亡，但套装的各种自动化系统仍然完好无损，并且如果该派系避免使用自动化人工智能，则无论是单独还是通过战场指挥官的代理控制，仍然能够在一定程度上进行战斗,那是。,考虑到他们所处的技术时代，这很奇怪。"
+
+###
+
+acot_infantry_heavy_autoarmor: "重步兵自动套装"
+acot_infantry_heavy_autoarmor_plural: "重型步兵自动套装"
+acot_infantry_heavy_autoarmor_desc: "尽管这些套装的佩戴者已在战斗中阵亡，但套装的各种自动化系统仍然完好无损，并且如果该派系避免使用自动化人工智能，则无论是单独还是通过战场指挥官的代理控制，仍然能够在一定程度上进行战斗,那是。,考虑到他们所处的技术时代，这很奇怪。"
+
+acot_infantry_heavy_autoarmor_se: "西格玛重型步兵自动套装"
+acot_infantry_heavy_autoarmor_se_plural: "西格玛重型步兵自动套装"
+acot_infantry_heavy_autoarmor_se_desc: "尽管这些套装的佩戴者已在战斗中阵亡，但套装的各种自动化系统仍然完好无损，并且如果该派系避免使用自动化人工智能，则无论是单独还是通过战场指挥官的代理控制，仍然能够在一定程度上进行战斗,那是。,考虑到他们所处的技术时代，这很奇怪。"
+
+###
+
+################ INFANTRY
+
+tech_acot_army_dm: "三角洲陆军"
+tech_acot_army_dm_desc: "现在可以利用基于三角洲的技术，例如新的反应堆和防护罩，以最小的成本调整彻底改变我们的入侵军队。,如果我们寻求建立地面战斗的优势，我们就应该立即进行这项研究。"
+ 
+tech_acot_army_ae: "阿尔法军"
+tech_acot_army_ae_desc: "我们对神秘力量的了解不断加深，使我们能够进一步升级我们的三角洲军队。,这些变化最终可能会导致新型军队向前发展。"
+
+tech_acot_army_se: "西格玛军队"
+tech_acot_army_se_desc: "由恒星能量提供动力的水面武器、手持设备和动力服。,我们将把第二个太阳带到敌人的地面防御工事上。"
+ 
+assault_army: "突击步兵团"
+assault_army_plural: "突击步兵团"
+assault_army_desc: "§Y轻步兵§!\n这些训练有素的职业士兵装备精良，可以在各种敌对环境中作战。,由于他们的训练和人数，他们有能力坚守阵线并拥有良好的士气。,他们的武器结构紧凑且可控，对地球造成的附带损害很小甚至没有，这使它们成为占领攻击的理想选择。"
+
+acot_infantry_dm: "三角洲步兵团"
+acot_infantry_dm_plural: "三角洲步兵团"
+acot_infantry_dm_desc: "§Y轻步兵§!\n这些职业士兵配备了新的尖端技术，随时准备在各种敌对环境中作战。,由于他们的训练和人数，他们有能力坚守阵线并拥有良好的士气。,他们的武器结构紧凑且可控，对地球造成的附带损害很小甚至没有，这使它们成为占领攻击的理想选择。"
+
+acot_infantry_ae: "阿尔法步兵团"
+acot_infantry_ae_plural: "阿尔法步兵团"
+acot_infantry_ae_desc: "§Y轻步兵§!\n这些士兵配备了更致命的武器和装甲，使他们能够在各种战场条件和环境下有效作战。,由于他们的训练和人数，他们有能力坚守阵线并拥有良好的士气。,他们的武器结构紧凑且可控，对地球造成的附带损害很小甚至没有，这使它们成为占领攻击的理想选择。"
+
+acot_infantry_se: "西格玛步兵团"
+acot_infantry_se_plural: "西格玛步兵团"
+acot_infantry_se_desc: "§Y轻步兵§!\n这些士兵配备了西格玛级战斗装备，并且训练有素，可以在所有环境下作战。,尽管传统士兵的价值在这个时代可能有所减弱，但长期军事传统所带来的战备状态、可用性和技能不应被低估。,而且它们的低火力确保了附带损害较低。"
+
+################ LIGHT
+
+acot_light_armor_pilot: "坦克驾驶员"
+acot_light_armor_pilot_plural: "坦克驾驶员"
+acot_light_armor_pilot_desc: "§Y飞行员§!\n这些坦克乘员设法逃离了车辆的毁坏。,虽然数量很少，火力和防护也有限，但他们拥有宝贵的战场经验，如果他们在战斗中幸存下来，可能会获得新的车辆来策划和继续战斗。"
+
+acot_light_armor_pilot_dm: "三角洲坦克飞行员"
+acot_light_armor_pilot_dm_plural: "三角洲坦克飞行员"
+acot_light_armor_pilot_dm_desc: "§Y飞行员§!\n这些坦克乘员设法逃离了车辆的毁坏。,虽然数量很少，火力和防护也有限，但他们拥有宝贵的战场经验，如果他们在战斗中幸存下来，可能会获得新的车辆来策划和继续战斗。"
+
+acot_light_armor_pilot_ae: "阿尔法坦克飞行员"
+acot_light_armor_pilot_ae_plural: "阿尔法坦克飞行员"
+acot_light_armor_pilot_ae_desc: "§Y飞行员§!\n这些坦克乘员设法逃离了车辆的毁坏。,虽然数量很少，火力和防护也有限，但他们拥有宝贵的战场经验，如果他们在战斗中幸存下来，可能会获得新的车辆来策划和继续战斗。"
+
+acot_light_armor_pilot_se: "西格玛坦克飞行员"
+acot_light_armor_pilot_se_plural: "西格玛坦克飞行员组"
+acot_light_armor_pilot_se_desc: "§Y飞行员§!\n这些坦克乘员设法逃离了车辆的毁坏。,虽然数量很少，火力和防护也有限，但他们拥有宝贵的战场经验，如果他们在战斗中幸存下来，可能会获得新的车辆来策划和继续战斗。"
+
+####
+
+acot_light_armor: "坦克师"
+acot_light_armor_plural: "坦克师"
+acot_light_armor_desc: "§Y载人车辆§!\n这些坦克装备精良，装甲良好，能够抵御来袭火力并造成相当大的伤害。,他们的组装成本比步兵团稍高，但非常适合带头进行任何攻击。,他们的武器威力强大，但通过一定的控制应该可以降低附带伤害。,每个师的部队数量相对较少，因此更容易遭受损失，即使是几辆被摧毁的坦克也会导致士气大幅下降，因此在部署它们对抗成群的敌人时应谨慎。"
+
+acot_light_armor_dm: "三角洲主战坦克师"
+acot_light_armor_dm_plural: "三角洲主战坦克师"
+acot_light_armor_dm_desc: "§Y载人车辆§!\n这些坦克装备精良，装甲良好，能够抵御来袭火力并造成相当大的伤害。,他们的组装成本比步兵团稍高，但非常适合带头进行任何攻击。,他们的武器威力强大，但通过一定的控制应该可以降低附带伤害。,每个师的部队数量相对较少，因此更容易遭受损失，即使是几辆被摧毁的坦克也会导致士气大幅下降，因此在部署它们对抗成群的敌人时应谨慎。"
+
+acot_light_armor_ae: "阿尔法坦克师"
+acot_light_armor_ae_plural: "阿尔法主战坦克师"
+acot_light_armor_ae_desc: "§Y载人车辆§!\n这些坦克装备精良，装甲良好，能够抵御来袭火力并造成相当大的伤害。,他们的组装成本比步兵团稍高，但非常适合带头进行任何攻击。,他们的武器威力强大，但通过一定的控制应该可以降低附带伤害。,每个师的部队数量相对较少，因此更容易遭受损失，即使是几辆被摧毁的坦克也会导致士气大幅下降，因此在部署它们对抗成群的敌人时应谨慎。"
+
+acot_light_armor_se: "西格玛主战坦克师"
+acot_light_armor_se_plural: "西格玛主战坦克师"
+acot_light_armor_se_desc: "§Y载人车辆§!\n这些坦克装备精良，装甲良好，能够抵御来袭火力并造成相当大的伤害。,他们的组装成本比步兵团稍高，但非常适合带头进行任何攻击。,他们的武器威力强大，但通过一定的控制应该可以降低附带伤害。,每个师的部队数量相对较少，因此更容易遭受损失，即使是几辆被摧毁的坦克也会导致士气大幅下降，因此在部署它们对抗成群的敌人时应谨慎。"
+
+################ HEAVY
+
+
+acot_heavy_armor_pilot: "陆地巡洋舰飞行员机组人员"
+acot_heavy_armor_pilot_plural: "陆地巡洋舰飞行员"
+acot_heavy_armor_pilot_desc: "§Y飞行员§!\n这些陆地巡洋舰船员设法逃脱了车辆的破坏。,虽然数量很少，火力和防护也有限，但他们拥有宝贵的战场经验，如果他们在战斗中幸存下来，可能会获得新的车辆来策划和继续战斗。"
+
+acot_heavy_armor_pilot_dm: "达美陆地巡洋舰飞行员机组"
+acot_heavy_armor_pilot_dm_plural: "达美陆地巡洋舰飞行员机组"
+acot_heavy_armor_pilot_dm_desc: "这些陆地巡洋舰船员设法逃脱了车辆的毁坏。,虽然数量很少，火力和防护也有限，但他们拥有宝贵的战场经验，如果他们在战斗中幸存下来，可能会获得新的车辆来策划和继续战斗。"
+
+acot_heavy_armor_pilot_ae: "阿尔法陆地巡洋舰飞行员机组"
+acot_heavy_armor_pilot_ae_plural: "阿尔法陆地巡洋舰飞行员机组"
+acot_heavy_armor_pilot_ae_desc: "这些陆地巡洋舰船员设法逃脱了车辆的毁坏。,虽然数量很少，火力和防护也有限，但他们拥有宝贵的战场经验，如果他们在战斗中幸存下来，可能会获得新的车辆来策划和继续战斗。"
+
+acot_heavy_armor_pilot_se: "西格玛陆地巡洋舰飞行员机组"
+acot_heavy_armor_pilot_se_plural: "西格玛陆地巡洋舰飞行员船员"
+acot_heavy_armor_pilot_se_desc: "这些陆地巡洋舰船员设法逃脱了车辆的毁坏。,虽然数量很少，火力和防护也有限，但他们拥有宝贵的战场经验，如果他们在战斗中幸存下来，可能会获得新的车辆来策划和继续战斗。"
+
+acot_heavy_armor: "陆地巡洋舰"
+acot_heavy_armor_plural: "陆地巡洋舰"
+acot_heavy_armor_desc: "§Y载人飞行器§! ,§Y小型步兵驻军§!\n陆地巡洋舰本质上是护卫舰大小的船只，专为行星攻击而设计。,虽然陆地巡洋舰在太空战斗中毫无用处，但它们可以毫不费力地摧毁整个城市和军队。,当然，如果担心附带损害，就不应该部署它们。\n\n虽然陆地巡洋舰是一支不可忽视的力量，但建造和维护成本都相当昂贵，失去一艘肯定会对整个国家造成巨大打击。,战争努力。,此外，虽然船上的船员感到自豪和自信，但与该船令人印象深刻的耐用性相比，他们的士气显得黯然失色。,惊慌失措的船员可以迅速将杀人机器变成等待被扑灭的金属盒子。,明智地部署它们。"
+
+acot_heavy_armor_dm: "达美陆地巡洋舰"
+acot_heavy_armor_dm_plural: "达美陆地巡洋舰"
+acot_heavy_armor_dm_desc: "§Y载人飞行器§! ,§Y小型步兵驻军§!\n陆地巡洋舰本质上是护卫舰大小的船只，专为行星攻击而设计。,虽然陆地巡洋舰在太空战斗中毫无用处，但它们可以毫不费力地摧毁整个城市和军队。,当然，如果担心附带损害，就不应该部署它们。\n\n虽然陆地巡洋舰是一支不可忽视的力量，但建造和维护成本都相当昂贵，失去一艘肯定会对整个国家造成巨大打击。,战争努力。,此外，虽然船上的船员感到自豪和自信，但与该船令人印象深刻的耐用性相比，他们的士气显得黯然失色。,惊慌失措的船员可以迅速将杀人机器变成等待被扑灭的金属盒子。,明智地部署它们。"
+
+acot_heavy_armor_ae: "阿尔法陆地巡洋舰"
+acot_heavy_armor_ae_plural: "阿尔法陆地巡洋舰"
+acot_heavy_armor_ae_desc: "§Y载人飞行器§! ,§Y小型步兵驻军§!\n陆地巡洋舰本质上是护卫舰大小的船只，专为行星攻击而设计。,虽然陆地巡洋舰在太空战斗中毫无用处，但它们可以毫不费力地摧毁整个城市和军队。,当然，如果担心附带损害，就不应该部署它们。\n\n虽然陆地巡洋舰是一支不可忽视的力量，但建造和维护成本都相当昂贵，失去一艘肯定会对整个国家造成巨大打击。,战争努力。,此外，虽然船上的船员感到自豪和自信，但与该船令人印象深刻的耐用性相比，他们的士气显得黯然失色。,惊慌失措的船员可以迅速将杀人机器变成等待被扑灭的金属盒子。,明智地部署它们。"
+
+acot_heavy_armor_se: "西格玛陆地巡洋舰"
+acot_heavy_armor_se_plural: "西格玛陆地巡洋舰"
+acot_heavy_armor_se_desc: "§Y载人飞行器§! ,§Y小型步兵驻军§!\n陆地巡洋舰本质上是护卫舰大小的船只，专为行星攻击而设计。,虽然陆地巡洋舰在太空战斗中毫无用处，但它们可以毫不费力地摧毁整个城市和军队。,当然，如果担心附带损害，就不应该部署它们。\n\n虽然陆地巡洋舰是一支不可忽视的力量，但建造和维护成本都相当昂贵，失去一艘肯定会对整个国家造成巨大打击。,战争努力。,此外，虽然船上的船员感到自豪和自信，但与该船令人印象深刻的耐用性相比，他们的士气显得黯然失色。,惊慌失措的船员可以迅速将杀人机器变成等待被扑灭的金属盒子。,明智地部署它们。"
+
+################ SPECIAL
+
+slave_army: "战奴军团"
+slave_army_plural: "战奴军团"
+slave_army_desc: "§Y消耗性步兵§!\n具有良好战斗意识和强健身体的奴隶经常被派往前线步兵部队。,他们接受基本训练，并配备适合其身份的廉价装备。,虽然人们不应该指望他们能在大多数敌人面前坚持很长时间，但他们是奴隶这一事实意味着他们是相当可牺牲的；,他们的生命不如比他们更好的人重要。\n\n奴隶们自然不想死。,再加上训练乏善可陈，装备简陋，待遇恶劣，奴隶们很容易因士气低落而在损失惨重后集体溃逃。"
+
+acot_slave_army_dm: "角斗士奴隶军团"
+acot_slave_army_dm_plural: "角斗士奴隶军团"
+acot_slave_army_dm_desc: "§Y消耗性步兵§!\n不是普通的奴隶，因为他们见过一些战斗，即使只是为了娱乐。,与其他步兵相比，角斗士并没有从装备带来的进攻和防御方面的任何新进步中获益。,但他们仍然比普通奴隶可靠得多，因为他们至少不会经常畏缩和逃跑。"
+
+acot_undead_army_dm: "不朽部落"
+acot_undead_army_dm_plural: "不朽部落"
+acot_undead_army_dm_desc: "§Y消耗性步兵§!\n尽管有这个名字，不朽者仍然会死亡，只是他们在完成一些工作之前死亡的可能性要小得多。"
+
+acot_army_stellarite_bomber: "恒星前锋"
+acot_army_stellarite_bomber_desc: "配备挥发性恒星炸弹的轻装甲自动化飞机。,尽管大多数人在最初的轰炸后都无法幸存，但它们造成的损害是相当巨大的。"
+ 
+tech_acot_army_stellarite_bomber: "星光前锋"
+tech_acot_army_stellarite_bomber_desc: "有时我们无力发动传统的地面战斗，必须不惜一切代价战胜敌人。,可以建造快速、轻装甲、消耗性自动化飞机，在战场上部署挥发性恒星炸弹，以快速消灭我们的敌人和地球表面。"
+ 
+################ DROID
+
+tech_acot_army_robotic_dm: "三角洲突击模板"
+tech_acot_army_robotic_dm_desc: "令人惊讶的是，有记录表明先驱者在机器人技术方面取得了如此进步，记录表明他们的机器与任何有机生命一样先进......但他们完全忠于他们的创造者，没有独立的愿望。,也许他们有什么独特之处？,我们必须更深入地挖掘。"
+
+tech_acot_army_robotic_ae: "阿尔法突击模板"
+tech_acot_army_robotic_ae_desc: "我们将在每个领域超越先驱者，包括机器人技术。"
+
+tech_acot_army_robotic_se: "西格玛突击模板"
+tech_acot_army_robotic_se_desc: "让我们知道，即使是我们最原始的机器人也是传奇人物。"
+
+acot_drone_army: "战斗无人机群"
+acot_drone_army_plural: "战斗机器人群"
+acot_drone_army_desc: "战斗无人机是小型、简单的机械单位，配备有轻武器。,它们的框架极差，但可以大批量生产，并且不遵循任何独特的机器人模板，这意味着它们不依赖机械弹出来生产。\n\n虽然它们可能不是战场上最可靠的力量,，它们的消耗性和简单性使它们成为炮灰的可靠选择。"
+
+acot_drone_army_dm: "三角洲战斗无人机群"
+acot_drone_army_dm_plural: "三角洲战斗机器人群"
+acot_drone_army_dm_desc: "战斗无人机是小型、简单的机械单位，配备有轻武器。,它们的框架极差，但可以大批量生产，并且不遵循任何独特的机器人模板，这意味着它们不依赖机械弹出来生产。\n\n虽然它们可能不是战场上最可靠的力量,，它们的消耗性和简单性使它们成为炮灰的可靠选择。"
+
+acot_drone_army_ae: "阿尔法战斗无人机群"
+acot_drone_army_ae_plural: "阿尔法战斗机器人群"
+acot_drone_army_ae_desc: "战斗无人机是小型、简单的机械单位，配备有轻武器。,它们的框架极差，但可以大批量生产，并且不遵循任何独特的机器人模板，这意味着它们不依赖机械弹出来生产。\n\n虽然它们可能不是战场上最可靠的力量,，它们的消耗性和简单性使它们成为炮灰的可靠选择。"
+
+acot_drone_army_se: "西格玛战斗无人机群"
+acot_drone_army_se_plural: "西格玛战斗机器人群"
+acot_drone_army_se_desc: "战斗无人机是小型、简单的机械单位，配备有轻武器。,它们的框架极差，但可以大批量生产，并且不遵循任何独特的机器人模板，这意味着它们不依赖机械弹出来生产。\n\n虽然它们可能不是战场上最可靠的力量,，它们的消耗性和简单性使它们成为炮灰的可靠选择。"
+
+######################
+
+robotic_army: "突击机器人部队"
+robotic_army_plural: "突击机器人单位"
+robotic_army_desc: "§Y机械步兵§!\n战斗机器人配备了基本的战斗软件来帮助他们的有机主人在战场上作战。,冰冷的计算机没有心、没有感情，会战斗到被毁灭。,虽然这些单位并不像人们想象的那么笨重，但对于大多数经验丰富的士兵来说并不是很令人生畏，而且他们的表现明显比新鲜而自信的士兵差。"
+
+acot_droid_army_dm: "三角洲突击机器人部队"
+acot_droid_army_dm_plural: "三角洲突击机器人部队"
+acot_droid_army_dm_desc: "§Y机械步兵§!\n战斗机器人配备了基本的战斗软件来帮助他们的有机主人在战场上作战。,冰冷的计算机没有心、没有感情，会战斗到被毁灭。,虽然这些单位并不像人们想象的那么笨重，但对于大多数经验丰富的士兵来说并不是很令人生畏，而且他们的表现明显比新鲜而自信的士兵差。"
+
+acot_droid_army_ae: "阿尔法突击机器人部队"
+acot_droid_army_ae_plural: "阿尔法突击机器人部队"
+acot_droid_army_ae_desc: "§Y机械步兵§!\n战斗机器人配备了基本的战斗软件来帮助他们的有机主人在战场上作战。,冰冷的计算机没有心、没有感情，会战斗到被毁灭。,虽然这些单位并不像人们想象的那么笨重，但对于大多数经验丰富的士兵来说并不是很令人生畏，而且他们的表现明显比新鲜而自信的士兵差。"
+
+acot_droid_army_se: "西格玛突击机器人部队"
+acot_droid_army_se_plural: "西格玛突击机器人单位"
+acot_droid_army_se_desc: "§Y机械步兵§!\n战斗机器人配备了基本的战斗软件来帮助他们的有机主人在战场上作战。,冰冷的计算机没有心、没有感情，会战斗到被毁灭。,虽然这些单位并不像人们想象的那么笨重，但对于大多数经验丰富的士兵来说并不是很令人生畏，而且他们的表现明显比新鲜而自信的士兵差。"
+
+acot_droid_army_torso: "受损的突击机器人部队"
+acot_droid_army_torso_plural: "受损的突击机器人单位"
+acot_droid_army_torso_desc: "该战斗单位的机动性在受到严重伤害后已被削弱，但其战斗能力仍然完好无损。,如果它在战斗中幸存下来，它可能还需要修复才能充分发挥作用。"
+
+acot_droid_army_torso_dm: "受损的三角洲突击机器人部队"
+acot_droid_army_torso_dm_plural: "受损的三角洲突击机器人单位"
+acot_droid_army_torso_dm_desc: "该战斗单位的机动性在受到严重伤害后已被削弱，但其战斗能力仍然完好无损。,如果它在战斗中幸存下来，它可能还需要修复才能充分发挥作用。"
+
+acot_droid_army_torso_ae: "受损的阿尔法突击机器人部队"
+acot_droid_army_torso_ae_plural: "受损的阿尔法突击机器人单位"
+acot_droid_army_torso_ae_desc: "该战斗单位的机动性在受到严重伤害后已被削弱，但其战斗能力仍然完好无损。,如果它在战斗中幸存下来，它可能还需要修复才能充分发挥作用。"
+
+acot_droid_army_torso_se: "损坏的西格玛突击机器人部队"
+acot_droid_army_torso_se_plural: "损坏的西格玛突击机器人单位"
+acot_droid_army_torso_se_desc: "该战斗单位的机动性在受到严重伤害后已被削弱，但其战斗能力仍然完好无损。,如果它在战斗中幸存下来，它可能还需要修复才能充分发挥作用。"
+
+######################
+
+acot_droid_mech: "攻城战甲"
+acot_droid_mech_plural: "攻城战甲"
+acot_droid_mech_desc: "攻城战机本质上是自动突击步行机。,它们的作用与主战坦克相似，但具有卓越的耐用性和无需担心士气的额外好处。,虽然不像陆地巡洋舰那么致命，但它们仍然非常强大并且在工作中表现良好。"
+
+acot_droid_mech_dm: "三角洲围攻战甲"
+acot_droid_mech_dm_plural: "三角洲围攻战甲"
+acot_droid_mech_dm_desc: "攻城战机本质上是自动突击步行机。,它们的作用与主战坦克相似，但具有卓越的耐用性和无需担心士气的额外好处。,虽然不像陆地巡洋舰那么致命，但它们仍然非常强大并且在工作中表现良好。"
+
+acot_droid_mech_ae: "阿尔法围攻战甲"
+acot_droid_mech_ae_plural: "阿尔法围攻战甲"
+acot_droid_mech_ae_desc: "攻城战机本质上是自动突击步行机。,它们的作用与主战坦克相似，但具有卓越的耐用性和无需担心士气的额外好处。,虽然不像陆地巡洋舰那么致命，但它们仍然非常强大并且在工作中表现良好。"
+
+acot_droid_mech_se: "西格玛围攻战甲"
+acot_droid_mech_se_plural: "西格玛围攻战甲"
+acot_droid_mech_se_desc: "攻城战机本质上是自动突击步行机。,它们的作用与主战坦克相似，但具有卓越的耐用性和无需担心士气的额外好处。,虽然不像陆地巡洋舰那么致命，但它们仍然非常强大并且在工作中表现良好。"
+ 
+########################################### SPECIAL ARMY ###########################################
+
+acot_special_force: "特种部队小队"
+acot_special_force_plural: "特种部队小队"
+acot_special_force_desc: "§Y特种步兵§!\n特种作战部队是训练有素的战斗专家，装备更好，训练更精良。,他们有着异常高昂的士气。,但它们的装备和维护成本很高。"
+
+acot_special_force_dm: "三角洲特种部队小队"
+acot_special_force_dm_plural: "三角洲特种部队小队"
+acot_special_force_dm_desc: "§Y特种步兵§!\n特种作战部队是训练有素的战斗专家，装备更好，训练更精良。,他们有着异常高昂的士气。,但它们的装备和维护成本很高。"
+
+acot_special_force_ae: "阿尔法特种部队"
+acot_special_force_ae_plural: "阿尔法特种部队小队"
+acot_special_force_ae_desc: "§Y特种步兵§!\n特种作战部队是训练有素的战斗专家，装备更好，训练更精良。,他们有着异常高昂的士气。,但它们的装备和维护成本很高。"
+
+acot_special_force_se: "西格玛特种部队"
+acot_special_force_se_plural: "西格玛特种部队"
+acot_special_force_se_desc: "§Y特种步兵§!\n特种作战部队是训练有素的战斗专家，装备更好，训练更精良。,他们有着异常高昂的士气。,但它们的装备和维护成本很高。"
+
+acot_hero_ae: "§Y黑卫§!"
+acot_hero_ae_plural: "§Y黑卫§!"
+acot_hero_ae_desc: "§Y英雄军团§!\n\n黑卫是我们特种部队中最精锐的。,他们每个人都将自己的一生奉献给了战争的掌握。,他们不求任何回报，他们的存在就能激发帝国之间的团结。,黑卫队战斗到最后一人才表现出怀疑和动摇的迹象并不罕见。\n\n这样的忠诚和勇敢的典范来之不易，新的候选人的出现需要时间，,所以每个黑卫都要小心对待。\n§Y英雄军队只能定期招募。§!"
+
+########################################### ETHOS ARMY ###########################################
+
+################ MILITARIST
+ 
+acot_army_mili: "重型机动步兵"
+acot_army_mili_plural: "重型机动步兵"
+acot_army_mili_desc: "§Y特种步兵§!\n这些全副武装、全副武装的士兵接受额外的战斗训练，使他们能够根据我们军国主义的要求在所有战斗情况和环境中表现出色。"
+ 
+acot_army_mili_se: "西格玛重型机动步兵"
+acot_army_mili_se_plural: "西格玛重型机动步兵"
+acot_army_mili_se_desc: "§Y特种步兵§!\n这些全副武装、全副武装的士兵接受额外的战斗训练，使他们能够根据我们军国主义的要求在所有战斗情况和环境中表现出色。"
+
+tech_acot_army_mili: "机动步兵师"
+tech_acot_army_mili_desc: "我们的军国主义理想需要更强大的步兵师，甚至比前身的部队还要优越。,为此，我们将组建新的机动步兵师，全副武装、全副武装，进行全面入侵。,这些士兵将证明我们只能通过战争来缔造和平，而不是坐下来签订无用的条约。"
+ 
+acot_army_mili_hero: "战争之神"
+acot_army_mili_hero_plural: "战神"
+acot_army_mili_hero_desc: "§Y英雄军团§!\n\n这位基因强化的超级战士能够释放正义的愤怒，冲入最激烈的战斗，对敌方战线造成严重破坏。,他并不害怕死亡，因为他就是死亡本身。,让我们的敌人小心，因为他们面对的是战神。"
+ 
+tech_acot_army_mili_hero: "向战神致敬！"
+tech_acot_army_mili_hero_desc: "要让敌人的阵型产生恐惧，需要的不仅仅是武器，还需要一个无所畏惧、强大的个人，“战神”的称号是最合适的。,我们应该开始从我们的队伍中挑选候选人并立即开始这个项目。"
+ 
+god_limit_tooltip: "神不是轻易诞生的。,任何时候都可能出现的只是少数。"
+ 
+################ PACIFIST
+ 
+acot_army_paci: "维和部队"
+acot_army_paci_plural: "维和部队"
+acot_army_paci_desc: "§Y特种步兵§!\n这些宪兵部队接受过使用爆炸物和破坏性武器时进行克制的训练。,他们擅长通过非致命手段结束战斗，但不会对战争贩子心慈手软。,法律将在他们身上发出声音。"
+ 
+acot_army_paci_se: "西格玛和平卫士"
+acot_army_paci_se_plural: "西格玛和平卫士"
+acot_army_paci_se_desc: "§Y特种步兵§!\n这些宪兵部队接受过使用爆炸物和破坏性武器时进行克制的训练。,他们擅长通过非致命手段结束战斗，但不会对战争贩子心慈手软。,法律将在他们身上发出声音。"
+
+tech_acot_army_paci: "和平、自由、正义与安全的使者"
+tech_acot_army_paci_desc: "为了实现真正的和平，我们必须组建一支新的维和部队，既充当前线士兵，又扮演境内系统警察的角色。,我们将开创和平新篇章，向这些被误导的军国主义战争贩子证明，战争与和平可以靠智慧而不是肌肉来赢得。"
+ 
+acot_army_paci_hero: "和平主义者队长"
+acot_army_paci_hero_plural: "和平主义者队长"
+acot_army_paci_hero_desc: "§Y英雄军队§!\n\n和平主义者队长配备强大的喷气背包，飞入战斗并使用金色眼睛中强大的能量武器夺走战争贩子的武器。,与那些野蛮人相比，队长可能不是最强大或最致命的士兵或战争机器，但他完全致力于我们结束所有战争的事业。"
+ 
+tech_acot_army_paci_hero: "和平卫士"
+tech_acot_army_paci_hero_desc: "我们的维和人员非常适合维护和平，但并不总是适合创造和平。,幸运的是，我们的一些科学家已经起草了一项计划，以创建一个标志性的和平灯塔，非常适合说服其他人和平是唯一的道路。,这听起来很愚蠢，但预测的数据确实被证明是可靠的。"
+ 
+captain_limit_tooltip: "虽然从技术上讲，我们拥有培养不止一名和平主义者所需的资源，但我们找不到任何人真正愿意走那么远。"
+ 
+################ XENOPHILE
+ 
+acot_army_phile: "幽灵特工"
+acot_army_phile_plural: "幽灵特工"
+acot_army_phile_desc: "§Y轻步兵§!\n这些特工致力于我们的仇外事业。,他们受过训练，只能通过非致命注射来消灭有战斗力的敌人，并不惜一切代价防止任何不必要的流血和附带损害。"
+ 
+acot_army_phile_se: "西格玛幽灵特工"
+acot_army_phile_se_plural: "西格玛幽灵特工"
+acot_army_phile_se_desc: "§Y轻步兵§!\n这些特工致力于我们的仇外事业。,他们受过训练，只能通过非致命注射来消灭有战斗力的敌人，并不惜一切代价防止任何不必要的流血和附带损害。"
+
+tech_acot_army_phile: "幽灵师"
+tech_acot_army_phile_desc: "我们珍视所有生命，甚至是敌人的生命。,必须让他们看到自己的错误，但我们无法用我们现有的破坏性武器执行如此大胆的任务。,为此，我们必须发展和训练专门装备的军队，以极高的效率击落敌对目标。,我们必须拥有更优雅的文明时代武器。,结束了，仇外者——我们占据了制高点。"
+ 
+acot_army_phile_hero: "黑寡妇"
+acot_army_phile_hero_plural: "黑寡妇"
+acot_army_phile_hero_desc: "§Y英雄军团§!\n\n黑寡妇是幽灵师最致命的特工。,他们在秘密行动和破坏方面训练有素，并配备了各种强大但非致命的武器库和小工具，使他们能够毫不费力地消灭敌方战斗人员。"
+ 
+tech_acot_army_phile_hero: "黑寡妇"
+tech_acot_army_phile_hero_desc: "虽然我们不喜欢夺取生命，但我们必须承认，我们的中和者确实喜欢结束仇外偏执者的威胁。,该部门正式组建为一支真正独立的力量，将使我们能够从老兵中汲取力量，成为黑寡妇。"
+ 
+blackwidow_limit_tooltip: "只有最致命和最熟练的幽灵特工才能获得黑寡妇的军衔，因此这些天才特工的出现需要时间。"
+ 
+ 
+################ XENOPHOBE
+ 
+acot_army_phobe: "死亡使者小队"
+acot_army_phobe_plural: "死亡使者小队"
+acot_army_phobe_desc: "§Y重装步兵§!\n这些可怕的重甲士兵是我们仇外意志的体现。,他们从一个世界移动到另一个世界，用反物质大炮彻底摧毁了所有异形，消除了异形的所有痕迹——它就像原子一样。,没有人能幸免于我们净化的痛苦之火。"
+ 
+acot_army_phobe_se: "西格玛死亡使者"
+acot_army_phobe_se_plural: "西格玛死亡使者"
+acot_army_phobe_se_desc: "§Y重装步兵§!\n这些可怕的重甲士兵是我们仇外意志的体现。,他们从一个世界移动到另一个世界，用反物质大炮彻底摧毁了所有异形，消除了异形的所有痕迹——它就像原子一样。,没有人能幸免于我们净化的痛苦之火。"
+
+tech_acot_army_phobe: "异色的蔑视"
+tech_acot_army_phobe_desc: "我们的人民已经接受了一个简单的事实，即我们是这个宇宙中唯一真正的文明物种，所有其他物种都只是动物——存在的目的是为了被清除。,但净化这些野兽需要一种更致命的力量，一种能够净化异形污染并让那些胆敢对我们举手的人感到恐惧的力量。,当我们的军队到来时，他们会求死。"
+ 
+acot_army_phobe_hero: "天启三炮"
+acot_army_phobe_hero_plural: "天启三炮"
+acot_army_phobe_hero_desc: "§Y英雄军团§!\n\n这支巨大的火炮配备了天启级三联炮，能够从极远的距离发射造成毁灭性的伤害。,确保对我们的敌人造成最大的附带损害和彻底毁灭。,必须让他们明白他们没有生存的权利。"
+ 
+tech_acot_army_phobe_hero: "一片焦土"
+tech_acot_army_phobe_hero_desc: "我们已经浪费了足够多的时间试图用护盾发生器轰炸行星或猛攻昆虫的蜂巢。,我们的军事战略家要求我们制造一种新武器。,泰坦尼克号大小的火炮能够对我们的敌人垃圾进行如雨点般的谋杀和混乱。,附带损害该死，因为他们选择生来就是异种败类。"
+ 
+xenoart_limit_tooltip: "我们已经花了很大力气才让我们的大多数核心圈子同意建造这门火炮，另一门火炮的服役还需要时间。"
+ 
+ 
+################ EGALITARIAN
+ 
+acot_army_ega_pilot: "阿尔法自由号飞行员机组人员"
+acot_army_ega_pilot_plural: "阿尔法自由号飞行员机组"
+acot_army_ega_pilot_desc: "§Y飞行员§!\n这些自由陆地巡洋舰船员设法逃脱了车辆的破坏。,虽然数量很少，火力和防护也有限，但他们拥有宝贵的战场经验，如果他们在战斗中幸存下来，可能会获得新的车辆来策划和继续战斗。"
+
+acot_army_ega_pilot_se: "西格玛自由飞行员机组人员"
+acot_army_ega_pilot_se_plural: "西格玛自由飞行员机组"
+acot_army_ega_pilot_se_desc: "§Y飞行员§!\n这些自由陆地巡洋舰船员设法逃脱了车辆的破坏。,虽然数量很少，火力和防护也有限，但他们拥有宝贵的战场经验，如果他们在战斗中幸存下来，可能会获得新的车辆来策划和继续战斗。"
+
+acot_army_ega: "自由陆地巡洋舰"
+acot_army_ega_plural: "自由陆地巡洋舰"
+acot_army_ega_desc: "§Y载人飞行器§! ,§Y小型步兵驻军§!\n这些巨大、高度先进的陆地巡洋舰非常适合为所有压迫者带来自由和解放。,配备先进武器，能够同时锁定多达 1337 个不同目标，同时传播强大的宣传信息，让敌人投降。,正义将从天而降！"
+ 
+acot_army_ega_se: "西格玛自由陆地巡洋舰"
+acot_army_ega_se_plural: "西格玛自由陆地巡洋舰"
+acot_army_ega_se_desc: "§Y载人飞行器§! ,§Y小型步兵驻军§!\n这些巨大、高度先进的陆地巡洋舰非常适合为所有压迫者带来自由和解放。,配备先进武器，能够同时锁定多达 1337 个不同目标，同时传播强大的宣传信息，让敌人投降。,正义将从天而降！"
+
+tech_acot_army_ega: "空域优势"
+tech_acot_army_ega_desc: "陆地巡洋舰的概念对我们来说并不新鲜。,自从我们进入太空之前，我们就控制了家乡的天空，并用我们的陆地巡洋舰摧毁了那些不拥抱民主的人。,现在，我们可以使用我们获得的新技术在任何类型的星球上再次这样做。,很快，我们将从天空向所有行星洒下自由和自由的雨点。"
+ 
+acot_army_ega_hero: "自由总理"
+acot_army_ega_hero_plural: "自由素数"
+acot_army_ega_hero_desc: “§Y英雄军队§!\n\n自由至尊号是一台巨大的机器，代表着真正平等主义的终极力量。它高耸于战场之上，用民主的爱国名言激励盟友，同时用雷鸣般的声音和毁灭光束威吓自由的敌人。,要么拥抱民主，要么死亡！！！”
+ 
+tech_acot_army_ega_hero: "自由处于巅峰"
+tech_acot_army_ega_hero_desc: "无论是在空中还是在陆地上，所有人都将通过我们的双手向民主屈服。,我们已经用武装直升机确立了战场上的主导地位。,然而，要最终突破拥有多个防空炮台的重型防御工事，需要更致命的攻城武器。,值得展现自由民主的武器！！"
+ 
+prime_limit_tooltip: "Liberty Prime 是一项巨大的投资，需要数千台复杂的战斗计算机来正确识别所有可能的违法者并根据需要执行惩罚协议。,目前我们还无法建造另一个 Prime。"
+ 
+################ AUTHORITARIAN
+ 
+acot_army_auth: "地狱犬执法者"
+acot_army_auth_plural: "地狱犬执法者"
+acot_army_auth_desc: "§Y特种步兵§!\n这些军官是我们权威的最终体现。,他们鼓舞人心的存在鼓舞了我们的军队，也让我们的敌人感到恐惧。,敌人会屈服于我们的统治，或者我们的执法者会迫使他们这样做。"
+ 
+acot_army_auth_se: "西格玛地狱犬执行者"
+acot_army_auth_se_plural: "西格玛地狱犬执行者"
+acot_army_auth_se_desc: "§Y特种步兵§!\n这些军官是我们权威的最终体现。,他们鼓舞人心的存在鼓舞了我们的军队，也让我们的敌人感到恐惧。,敌人会屈服于我们的统治，或者我们的执法者会迫使他们这样做。"
+ 
+
+tech_acot_army_auth: "绝对力量"
+tech_acot_army_auth_desc: "我们必须向那些注定成为我们臣民的人展示绝对权威，军队可能会赢得战争，但我们的新执法者会提醒臣民，他们的命运与我们的最终意志息息相关。"
+ 
+acot_army_auth_hero: "政委勋爵"
+acot_army_auth_hero_plural: "政委上议院"
+acot_army_auth_hero_desc: "§Y英雄军团§!\n\n只有最有成就、最令人敬畏的政委才能被授予政委勋爵军衔。,他们的地位如此之高，以至于政委领主有权处决除无能的统治者之外的任何人。,他们指挥着一支由狂热忠诚的士兵组成的强大随从，他们竞相赢得政委领主的青睐。"
+ 
+tech_acot_army_auth_hero: "政委勋爵加冕"
+tech_acot_army_auth_hero_desc: "即使在政委队伍中，也有一些人表现出非凡的勇气和灵感。,有一些故事说，某些政委能够激励奴隶士兵停止因直接动能炮弹的正面射击而死亡。,这种奉献精神和技能必须得到回报，应该立即完成政委勋爵头衔的第一次加冕。"
+ 
+comlord_limit_tooltip: "配得上“政委大人”称号的政委屈指可数，目前我们也无法培养出一个以上的政委。"
+ 
+
+################ MATERIALIST
+ 
+acot_army_mat_pilot: "阿尔法毁灭者飞行员机组"
+acot_army_mat_pilot_plural: "阿尔法毁灭者飞行员机组"
+acot_army_mat_pilot_desc: "§Y飞行员§!\n这些毁灭者坦克乘员设法逃离了车辆的毁灭。,虽然数量很少，火力和防护也有限，但他们拥有宝贵的战场经验，如果他们在战斗中幸存下来，可能会获得新的车辆来策划和继续战斗。"
+
+acot_army_mat_pilot_se: "西格玛毁灭者飞行员机组"
+acot_army_mat_pilot_se_plural: "西格玛毁灭者飞行员机组"
+acot_army_mat_pilot_se_desc: "§Y飞行员§!\n这些毁灭者坦克乘员设法逃离了车辆的毁灭。,虽然数量很少，火力和防护也有限，但他们拥有宝贵的战场经验，如果他们在战斗中幸存下来，可能会获得新的车辆来策划和继续战斗。"
+
+acot_army_mat: "毁灭者坦克师"
+acot_army_mat_plural: "毁灭者坦克师"
+acot_army_mat_desc: "§Y载人飞行器§! ,§Y小型步兵驻军§!\n主战坦克设计的特殊变体，配备实验性闪光包以及短程跳跃模块。,毁灭者坦克可以从任何地方发动攻击，并且对于同尺寸的车辆来说拥有令人恐惧的机动性。"
+ 
+acot_army_mat_se: "西格玛毁灭者坦克师"
+acot_army_mat_se_plural: "西格玛毁灭者坦克师"
+acot_army_mat_se_desc: "§Y载人飞行器§! ,§Y小型步兵驻军§!\n主战坦克设计的特殊变体，配备实验性闪光包以及短程跳跃模块。,毁灭者坦克可以从任何地方发动攻击，并且对于同尺寸的车辆来说拥有令人恐惧的机动性。"
+ 
+
+tech_acot_army_mat: "小型化跳跃模型"
+tech_acot_army_mat_desc: "尽管所使用的主战坦克比 2100 年初的老前辈更加灵活和机动，但与步兵部队或陆地巡洋舰相比，它们仍然明显缓慢且难以机动。,纳米技术的突破可能使我们能够创造出一种更复杂但更强大的主战坦克变体，它可以利用眨眼技术，甚至可能是维度跳跃技术。"
+ 
+acot_army_mat_hero: "马特鲁斯陆地巡洋舰"
+acot_army_mat_hero_plural: "马特鲁斯陆地巡洋舰"
+acot_army_mat_hero_desc: "这些巨大的庞然大物可以利用战列舰武器来摧毁战场，或者简单地用它们巨大的重量压碎敌人。,让我们看看那些愚蠢的招魂师如何对抗我们的力量！"
+ 
+tech_acot_army_mat_hero: "陆地巡洋舰"
+tech_acot_army_mat_hero_desc: "§Y英雄军队§!\n\n一些唯灵论傻瓜嘲笑我们在战争期间使用“没有灵魂的机器”，却忽视了这样一个事实：赢得战争的是机器和先进技术，而不是愚蠢的信仰。,我们必须让他们明白这个简单的事实，通过创造一个如此庞大和强大的“无灵魂的机器”来催促这些唯灵论白痴到达他们所承诺的涅槃。"
+ 
+megatank_limit_tooltip: "陆地巡洋舰是一项巨大的投资，需要大量的资源和船员培训。,我们在任何给定时间只能建造几个。"
+ 
+################ SPIRITUALIST
+ 
+acot_army_spirit: "审判官军"
+acot_army_spirit_plural: "审判官军队"
+acot_army_spirit_desc: "§Y特种步兵§!\n这些热心的神圣战士带着受祝福的锤子和附有暗物质力量的神圣盔甲投入战争。,他们受过训练，可以引导内心的信念来保护自己免受伤害。,审判官训练他们的身体和心灵，在不依赖任何技术的情况下忽略痛苦和恐惧。,因此，他们成为最后一支军队并不罕见。"
+ 
+acot_army_spirit_se: "西格玛审判官军"
+acot_army_spirit_se_plural: "西格玛审判官大军"
+acot_army_spirit_se_desc: "§Y特种步兵§!\n这些热心的神圣战士带着受祝福的锤子和附有暗物质力量的神圣盔甲投入战争。,他们受过训练，可以引导内心的信念来保护自己免受伤害。,审判官训练他们的身体和心灵，在不依赖任何技术的情况下忽略痛苦和恐惧。,因此，他们成为最后一支军队并不罕见。"
+
+tech_acot_army_spirit: "审判庭组织"
+tech_acot_army_spirit_desc: "虽然我们的帝国已经有敬业的牧师帮助引导我们的人民实现更大的目标，但我们看到了创建一个新的宗教教派的可能性，该教派利用这些新的暗物质能量直接与军队合作。"
+ 
+acot_army_spirit_hero: "活着的圣人"
+acot_army_spirit_hero_plural: "活着的圣徒"
+acot_army_spirit_hero_desc: "活着的圣徒是那些体现了信仰纯洁性的人。,他们散发着正义和纯洁的光环，赋予他们所领导的军队坚不可摧的士气。,罪人将得到救赎……通过毁灭！"
+ 
+tech_acot_army_spirit_hero: "信仰的选民"
+tech_acot_army_spirit_hero_desc: "即使在我们最忠实的人民中，也有一些人不仅忠于信仰，而且似乎受到灵魂本身的青睐和选择。,圣人的故事，展现出神圣的光环，在我们的系统中传播。,我们应该迅速找到他们，并适当地尊崇他们为我们神圣秩序的合法圣人。"
+ 
+saint_limit_tooltip: "活着的圣人是稀有的存在，一些牧师全身心投入信仰，希望成为一名，但没有成功。,唉，我们帝国现在已经找不到更多的圣人来组建一支正规的军队了。"
+
+################ HIVE
+ 
+tech_acot_army_hive_3: "强化战士变异"
+tech_acot_army_hive_3_desc: "蜂巢战士必须不断适应银河系带来的新威胁。,更快、更强、更致命、更好。"
+
+tech_acot_army_hive_5: "高级战士序列"
+tech_acot_army_hive_5_desc: "只有通过不断的适应，蜂巢才能发挥生物进化的最大表现。"
+
+tech_acot_army_hive_dm: "Delta菌株突变"
+tech_acot_army_hive_dm_desc: "改编过去远古蜂巢的基因序列将提高蜂巢战士的力量。"
+
+tech_acot_army_hive_ae: "阿尔法大师菌株"
+tech_acot_army_hive_ae_desc: "改编过去远古蜂巢的基因序列将提高蜂巢战士的力量。"
+
+tech_acot_army_hive_se: "西格玛主菌株"
+tech_acot_army_hive_se_desc: "改编过去远古蜂巢的基因序列将提高蜂巢战士的力量。"
+
+################ DEFENSE
+
+acot_hive_defense_army_1: "蜂巢防御者"
+acot_hive_defense_army_1_plural: "蜂巢防御者"
+acot_hive_defense_army_1_desc: "防御者阶层旨在保护蜂巢免受敌对元素的侵害。,它们比捕食者种姓更耐用，但速度较慢。"
+
+acot_hive_defense_army_dm: "三角洲蜂巢防御者"
+acot_hive_defense_army_dm_plural: "蜂巢防御者"
+acot_hive_defense_army_dm_desc: "防御者阶层旨在保护蜂巢免受敌对元素的侵害。,它们比捕食者种姓更耐用，但速度较慢。"
+
+acot_hive_defense_army_ae: "阿尔法蜂巢防御者"
+acot_hive_defense_army_ae_plural: "阿尔法蜂巢防御者"
+acot_hive_defense_army_ae_desc: "防御者阶层旨在保护蜂巢免受敌对元素的侵害。,它们比捕食者种姓更耐用，但速度较慢。"
+
+##########
+
+acot_hive_defense_army_light_1: "蜂巢守护者"
+acot_hive_defense_army_light_1_plural: "蜂巢守护者"
+acot_hive_defense_army_light_1_desc: "守护者种姓在防御战中领导防御者。,它们耐用的甲壳可以保护它们免受较弱的表亲的侵害。"
+
+acot_hive_defense_army_light_dm: "三角洲蜂巢守护者"
+acot_hive_defense_army_light_dm_plural: "三角洲蜂巢守护者"
+acot_hive_defense_army_light_dm_desc: "守护者种姓在防御战中领导防御者。,它们耐用的甲壳可以保护它们免受较弱的表亲的侵害。"
+
+acot_hive_defense_army_light_ae: "阿尔法蜂巢守护者"
+acot_hive_defense_army_light_ae_plural: "蜂巢守护者"
+acot_hive_defense_army_light_ae_desc: "守护者种姓在防御战中领导防御者。,它们耐用的甲壳可以保护它们免受较弱的表亲的侵害。"
+
+##########
+
+acot_hive_defense_army_heavy_1: "蜂巢皇家卫队"
+acot_hive_defense_army_heavy_1_plural: "蜂巢皇家卫队"
+acot_hive_defense_army_heavy_1_desc: "皇家卫队的出现只是为了保卫最重要的蜂巢殖民地。,他们的存在本身就会吓坏小人物。"
+
+acot_hive_defense_army_heavy_dm: "三角洲蜂巢皇家卫队"
+acot_hive_defense_army_heavy_dm_plural: "三角洲蜂巢皇家卫队"
+acot_hive_defense_army_heavy_dm_desc: "皇家卫队的出现只是为了保卫最重要的蜂巢殖民地。,他们的存在本身就会吓坏小人物。"
+
+acot_hive_defense_army_heavy_ae: "阿尔法蜂巢皇家卫队"
+acot_hive_defense_army_heavy_ae_plural: "蜂巢皇家卫队"
+acot_hive_defense_army_heavy_ae_desc: "皇家卫队的出现只是为了保卫最重要的蜂巢殖民地。,他们的存在本身就会吓坏小人物。"
+
+##########
+
+offspring_defense: "后代领导的后卫"
+offspring_defense_plural: "后代领导的捍卫者"
+offspring_defense_desc: "防御者阶层旨在保护蜂巢免受敌对元素的侵害。,它们比捕食者种姓更耐用，但速度较慢。"
+
+################ Offense
+
+acot_hive_infantry_1: "蜂巢掠夺者"
+acot_hive_infantry_1_plural: "蜂巢掠食者"
+acot_hive_infantry_1_desc: "掠食者是敏捷的散兵，可以利用蜂巢的各种武器和技术。,他们被赋予了基本的本能，学习如何在需要时进行掩护和交战。,它们的凶猛会让普通人感到恐惧，但它们的轻型外骨骼使它们很容易受到敌人火力的攻击，尤其是那些不惧怕蜂群的人。"
+
+acot_hive_infantry_dm: "三角洲蜂巢捕食者"
+acot_hive_infantry_dm_plural: "三角洲蜂巢掠食者"
+acot_hive_infantry_dm_desc: "掠食者是敏捷的散兵，可以利用蜂巢的各种武器和技术。,他们被赋予了基本的本能，学习如何在需要时进行掩护和交战。,它们的凶猛会让普通人感到恐惧，但它们的轻型外骨骼使它们很容易受到敌人火力的攻击，尤其是那些不惧怕蜂群的人。"
+
+acot_hive_infantry_ae: "阿尔法蜂巢掠夺者"
+acot_hive_infantry_ae_plural: "阿尔法蜂巢掠夺者"
+acot_hive_infantry_ae_desc: "掠食者是敏捷的散兵，可以利用蜂巢的各种武器和技术。,他们被赋予了基本的本能，学习如何在需要时进行掩护和交战。,它们的凶猛会让普通人感到恐惧，但它们的轻型外骨骼使它们很容易受到敌人火力的攻击，尤其是那些不惧怕蜂群的人。"
+
+acot_hive_infantry_se: "辛加蜂巢掠夺者"
+acot_hive_infantry_se_plural: "辛加蜂巢掠夺者"
+acot_hive_infantry_se_desc: "掠食者是敏捷的散兵，可以利用蜂巢的各种武器和技术。,他们被赋予了基本的本能，学习如何在需要时进行掩护和交战。,它们的凶猛会让普通人感到恐惧，但它们的轻型外骨骼使它们很容易受到敌人火力的攻击，尤其是那些不惧怕蜂群的人。"
+
+#########
+
+acot_hive_light_1: "蜂巢战士"
+acot_hive_light_1_plural: "蜂巢战士"
+acot_hive_light_1_desc: "§Y中型蜂巢怪物§!\n战士系无人机擅长利用敌人的恐惧和精神弱点，从意想不到的角度进行攻击，并发出强大而可怕的尖叫声，让敌人感到恐惧。"
+
+acot_hive_light_dm: "三角洲蜂巢战士"
+acot_hive_light_dm_plural: "三角洲蜂巢战士"
+acot_hive_light_dm_desc: "§Y中型蜂巢怪物§!\n战士系无人机擅长利用敌人的恐惧和精神弱点，从意想不到的角度进行攻击，并发出强大而可怕的尖叫声，让敌人感到恐惧。"
+
+acot_hive_light_ae: "阿尔法蜂巢战士"
+acot_hive_light_ae_plural: "阿尔法蜂巢战士"
+acot_hive_light_ae_desc: "§Y中型蜂巢怪物§!\n战士系无人机擅长利用敌人的恐惧和精神弱点，从意想不到的角度进行攻击，并发出强大而可怕的尖叫声，让敌人感到恐惧。"
+
+acot_hive_light_se: "辛加蜂巢战士"
+acot_hive_light_se_plural: "辛加蜂巢战士"
+acot_hive_light_se_desc: "§Y中型蜂巢怪物§!\n战士系无人机擅长利用敌人的恐惧和精神弱点，从意想不到的角度进行攻击，并发出强大而可怕的尖叫声，让敌人感到恐惧。"
+
+#########
+
+
+acot_hive_clone_infantry_1: "蜂巢克隆掠夺者"
+acot_hive_clone_infantry_1_plural: "蜂巢克隆掠夺者"
+acot_hive_clone_infantry_1_desc: "就战斗能力而言，克隆掠夺者与普通掠夺者一样致命。,但它们为了更简单的变形过程而牺牲了群体凝聚力，这使得它们在心理战中的效率较低。"
+
+acot_hive_clone_infantry_dm: "三角洲克隆掠夺者"
+acot_hive_clone_infantry_dm_plural: "克隆掠夺者"
+acot_hive_clone_infantry_dm_desc: "就战斗能力而言，克隆掠夺者与普通掠夺者一样致命。,但它们为了更简单的变形过程而牺牲了群体凝聚力，这使得它们在心理战中的效率较低。"
+
+#########
+
+acot_hive_clone_light_1: "蜂巢克隆战士"
+acot_hive_clone_light_1_plural: "蜂巢克隆战士"
+acot_hive_clone_light_1_desc: "就战斗能力而言，克隆战士与普通战士一样致命。,但它们为了更简单的变形过程而牺牲了群体凝聚力，这使得它们在心理战中的效率较低。"
+
+acot_hive_clone_light_dm: "三角洲克隆战士"
+acot_hive_clone_light_dm_plural: "三角洲克隆战士"
+acot_hive_clone_light_dm_desc: "就战斗能力而言，克隆战士与普通战士一样致命。,但它们为了更简单的变形过程而牺牲了群体凝聚力，这使得它们在心理战中的效率较低。"
+
+acot_hive_clone_swarmer_1: "蜂巢克隆蜂群"
+acot_hive_clone_swarmer_1_plural: "蜂巢克隆蜂群"
+acot_hive_clone_swarmer_1_desc: "克隆蜂群已经是一个非常简单的序列，比正常的蜂群更小、更简单。,蜂巢不可能让他们变得不那么可悲。,但也许数量本身就是一种质量？"
+
+#########
+
+acot_hive_heavy_1: "蜂巢毁灭者"
+acot_hive_heavy_1_plural: "蜂巢毁灭者"
+acot_hive_heavy_1_desc: "§Y大型蜂巢怪物§!\n驱逐舰充当蜂巢军队的重型攻击无人机。,它们通常注入了强大的精华，并且通常强大到足以自行摧毁整个防御工事。"
+
+acot_hive_heavy_dm: "三角洲蜂巢毁灭者"
+acot_hive_heavy_dm_plural: "三角洲蜂巢驱逐舰"
+acot_hive_heavy_dm_desc: "§Y大型蜂巢怪物§!\n驱逐舰充当蜂巢军队的重型攻击无人机。,它们通常注入了强大的精华，并且通常强大到足以自行摧毁整个防御工事。"
+
+acot_hive_heavy_ae: "阿尔法蜂巢毁灭者"
+acot_hive_heavy_ae_plural: "阿尔法蜂巢毁灭者"
+acot_hive_heavy_ae_desc: "§Y大型蜂巢怪物§!\n驱逐舰充当蜂巢军队的重型攻击无人机。,它们通常注入了强大的精华，并且通常强大到足以自行摧毁整个防御工事。"
+
+acot_hive_heavy_se: "辛加蜂巢毁灭者"
+acot_hive_heavy_se_plural: "辛加蜂巢毁灭者"
+acot_hive_heavy_se_desc: "§Y大型蜂巢怪物§!\n驱逐舰充当蜂巢军队的重型攻击无人机。,它们通常注入了强大的精华，并且通常强大到足以自行摧毁整个防御工事。"
+
+#########
+
+acot_hive_heavy_cocoon_1: "蜂巢毁灭者茧"
+acot_hive_heavy_cocoon_1_plural: "蜂巢毁灭者茧"
+acot_hive_heavy_cocoon_1_desc: "§Y蜂巢茧§!\n如果受到保护，这些茧可以在战斗后孵化回真正的战士。,然而，除此之外，他们是毫无防御能力的。"
+
+acot_hive_heavy_cocoon_dm: "三角洲蜂巢毁灭者茧"
+acot_hive_heavy_cocoon_dm_plural: "三角洲蜂巢毁灭者茧"
+acot_hive_heavy_cocoon_dm_desc: "§Y蜂巢茧§!\n如果受到保护，这些茧可以在战斗后孵化回真正的战士。,然而，除此之外，他们是毫无防御能力的。"
+
+acot_hive_heavy_cocoon_ae: "阿尔法蜂巢毁灭者茧"
+acot_hive_heavy_cocoon_ae_plural: "阿尔法蜂巢毁灭者茧"
+acot_hive_heavy_cocoon_ae_desc: "§Y蜂巢茧§!\n如果受到保护，这些茧可以在战斗后孵化回真正的战士。,然而，除此之外，他们是毫无防御能力的。"
+
+acot_hive_heavy_cocoon_se: "辛加蜂巢毁灭者茧"
+acot_hive_heavy_cocoon_se_plural: "辛加蜂巢毁灭者茧"
+acot_hive_heavy_cocoon_se_desc: "§Y蜂巢茧§!\n如果受到保护，这些茧可以在战斗后孵化回真正的战士。,然而，除此之外，他们是毫无防御能力的。"
+
+##############################################
+
+acot_hive_swarmer_1: "蜂巢虫"
+acot_hive_swarmer_1_plural: "蜂巢蜂群"
+acot_hive_swarmer_1_desc: "蜂群是非常基本的无人机，具有简单的基因构成，使它们极易变形。,它们没有本能，存在的目的只是利用基于生物的攻击来大量攻击猎物。"
+
+acot_hive_swarmer_dm: "三角洲蜂巢群聚者"
+acot_hive_swarmer_dm_plural: "三角洲蜂巢群"
+acot_hive_swarmer_dm_desc: "蜂群是非常基本的无人机，具有简单的基因构成，使它们极易变形。,它们没有本能，存在的目的只是利用基于生物的攻击来大量攻击猎物。"
+
+acot_hive_swarmer_ae: "阿尔法蜂巢群居者"
+acot_hive_swarmer_ae_plural: "阿尔法蜂巢群"
+acot_hive_swarmer_ae_desc: "蜂群是非常基本的无人机，具有简单的基因构成，使它们极易变形。,它们没有本能，存在的目的只是利用基于生物的攻击来大量攻击猎物。"
+
+acot_hive_swarmer_se: "Simga 蜂巢群聚者"
+acot_hive_swarmer_se_plural: "Simga 蜂巢群聚者"
+acot_hive_swarmer_se_desc: "蜂群是非常基本的无人机，具有简单的基因构成，使它们极易变形。,它们没有本能，存在的目的只是利用基于生物的攻击来大量攻击猎物。"
+
+#########
+
+acot_hive_broodling_1: "蜂巢雏龙"
+acot_hive_broodling_1_plural: "蜂巢雏龙"
+acot_hive_broodling_1_desc: "较大的蜂巢雄蜂经常在“死亡”时产卵。,这些幼体很弱，但可以作为额外的饲料。"
+
+acot_hive_broodling_dm: "三角洲蜂巢雏鸟"
+acot_hive_broodling_dm_plural: "三角洲蜂巢雏鸟"
+acot_hive_broodling_dm_desc: "较大的蜂巢雄蜂经常在“死亡”时产卵。,这些幼体很弱，但可以作为额外的饲料。"
+
+acot_hive_broodling_ae: "阿尔法蜂巢雏龙"
+acot_hive_broodling_ae_plural: "阿尔法蜂巢雏龙"
+acot_hive_broodling_ae_desc: "较大的蜂巢雄蜂经常在“死亡”时产卵。,这些幼体很弱，但可以作为额外的饲料。"
+
+acot_hive_broodling_se: "辛加蜂巢雏鸟"
+acot_hive_broodling_se_plural: "辛加蜂巢雏鸟"
+acot_hive_broodling_se_desc: "较大的蜂巢雄蜂经常在“死亡”时产卵。,这些幼体很弱，但可以作为额外的饲料。"
+
+#########
+
+acot_army_hive_gene: "蜂巢精华收集器"
+acot_army_hive_gene_plural: "蜂巢精华收藏家"
+acot_army_hive_gene_desc: "§Y中型蜂巢怪物§!\n精华收集器是经过基因强化的战斗无人机，旨在通过巧妙运用战术对敌人造成恐惧，然后完全消耗敌人的精华来增强自己的精华。"
+
+acot_army_hive_gene_ae: "阿尔法精华收藏家"
+acot_army_hive_gene_ae_plural: "阿尔法精华收藏家"
+acot_army_hive_gene_ae_desc: "§Y中型蜂巢怪物§!\n精华收集器是经过基因强化的战斗无人机，旨在通过巧妙运用战术对敌人造成恐惧，然后完全消耗敌人的精华来增强自己的精华。"
+
+acot_army_hive_gene_se: "西格玛精华收藏家"
+acot_army_hive_gene_se_plural: "西格玛精华收藏家"
+acot_army_hive_gene_se_desc: "§Y中型蜂巢怪物§!\n精华收集器是经过基因强化的战斗无人机，旨在通过巧妙运用战术对敌人造成恐惧，然后完全消耗敌人的精华来增强自己的精华。"
+
+#####
+
+acot_army_hive_gene_cocoon: "精华收集茧"
+acot_army_hive_gene_cocoon_plural: "精华收集茧"
+acot_army_hive_gene_cocoon_desc: "§Y蜂巢茧§!\n如果受到保护，这些茧可以在战斗后孵化回真正的战士。,然而，除此之外，他们是毫无防御能力的。"
+
+acot_army_hive_gene_cocoon_dm: "Delta 精华典藏茧"
+acot_army_hive_gene_cocoon_dm_plural: "Delta 精华收藏茧"
+acot_army_hive_gene_cocoon_dm_desc: "§Y蜂巢茧§!\n如果受到保护，这些茧可以在战斗后孵化回真正的战士。,然而，除此之外，他们是毫无防御能力的。"
+
+acot_army_hive_gene_cocoon_ae: "阿尔法精华收藏茧"
+acot_army_hive_gene_cocoon_ae_plural: "阿尔法精华收藏家茧"
+acot_army_hive_gene_cocoon_ae_desc: "§Y蜂巢茧§!\n如果受到保护，这些茧可以在战斗后孵化回真正的战士。,然而，除此之外，他们是毫无防御能力的。"
+
+acot_army_hive_gene_cocoon_se: "Simga 精华收藏茧"
+acot_army_hive_gene_cocoon_se_plural: "Simga 精华收藏家茧"
+acot_army_hive_gene_cocoon_se_desc: "§Y蜂巢茧§!\n如果受到保护，这些茧可以在战斗后孵化回真正的战士。,然而，除此之外，他们是毫无防御能力的。"
+
+#########
+
+acot_army_hive_control: "策划者"
+acot_army_hive_control_plural: "策划者"
+acot_army_hive_control_desc: "§Y中型蜂巢怪物§!\n策划者是高级战士无人机，其认知功能类似于指挥阶层。,这使他们具有独特的能力，不仅可以对敌方战斗人员进行强大的心理战，而且可以以更高的效率执行任务。,缺点是主谋在压力下会失去注意力，这可能会影响他们的战斗表现。"
+ 
+acot_army_hive_control_se: "西格玛策划者"
+acot_army_hive_control_se_plural: "西格玛策划者"
+acot_army_hive_control_se_desc: "§Y中型蜂巢怪物§!\n策划者是高级战士无人机，其认知功能类似于指挥阶层。,这使他们具有独特的能力，不仅可以对敌方战斗人员进行强大的心理战，而且可以以更高的效率执行任务。,缺点是主谋在压力下会失去注意力，这可能会影响他们的战斗表现。"
+
+acot_army_hive_control_cocoon: "阿尔法主谋茧"
+acot_army_hive_control_cocoon_plural: "阿尔法主谋茧"
+acot_army_hive_control_cocoon_desc: "§Y蜂巢茧§!\n如果受到保护，这些茧可以在战斗后孵化回真正的战士。,然而，除此之外，他们是毫无防御能力的。"
+
+acot_army_hive_control_cocoon_se: "辛加主脑茧"
+acot_army_hive_control_cocoon_se_plural: "Simga 策划者茧"
+acot_army_hive_control_cocoon_se_desc: "§Y蜂巢茧§!\n如果受到保护，这些茧可以在战斗后孵化回真正的战士。,然而，除此之外，他们是毫无防御能力的。"
+
+tech_acot_army_hive_control: "移动中的策划者"
+tech_acot_army_hive_control_desc: "策划者是高级的无人机战士，其认知功能与指挥阶层相似。,这使他们具有独特的能力，不仅可以对敌方战斗人员进行强大的心理战，而且可以以更高的效率执行任务。,缺点是主谋在压力下会失去注意力，这可能会影响他们的战斗表现。"
+ 
+acot_army_hive_hero: "来自远方的恐怖"
+acot_army_hive_hero_plural: "来自彼岸的恐怖"
+acot_army_hive_hero_desc: "与蜂巢思维本身相连，来自彼岸的恐惧的唯一目标是吞噬一切——有机的、分裂的、金属、能量。,它作为自我的延伸而存在，它消耗的任何东西都会赋予蜂群思维力量，从而增强恐惧力量。"
+ 
+tech_acot_army_hive_hero: "伟大的饥饿者"
+tech_acot_army_hive_hero_desc: "自我需要的不仅仅是听从指令并摧毁我们的敌人的无人机——不——自我需要自我可以直接控制的化身。,从这个恐怖的化身中，我们的集体将粉碎所有敌人，无论是分裂的、金属的还是敌对的蜂巢。"
+ 
+terror_limit_tooltip: "蜂巢思维必须直接控制恐惧，我们不能转移任何更多的灵能链接来控制这个可怕的有机体的另一个。"
+ 
+################ MACHINE
+ 
+tech_acot_army_machine_dm: "三角洲突击平台模板"
+tech_acot_army_machine_dm_desc: "Delta-Level Access必须在所有作战平台上下载，以增强我军的战斗能力。"
+ 
+tech_acot_army_machine_ae: "Alpha 突击平台模板"
+tech_acot_army_machine_ae_desc: "Alpha-Level Access 要求将所有作战平台升级到最新设计。"
+ 
+tech_acot_army_machine_se: "Sigma 攻击平台模板"
+tech_acot_army_machine_se_desc: "需要西格玛级访问权限才能将所有战斗平台发挥到最大潜力。"
+ 
+##################################
+
+machine_defense: "执行者单位"
+machine_defense_plural: "执行者单位"
+machine_defense_desc: "执行者单位是轻型安全单位，旨在使用机器强大的防御网格网络巡逻和保卫地球。"
+
+acot_defense_drone_dm: "三角洲执法单位"
+acot_defense_drone_dm_plural: "三角洲执法者单位"
+acot_defense_drone_dm_desc: "执行者单位是轻型安全单位，旨在使用机器强大的防御网格网络巡逻和保卫地球。"
+
+acot_defense_drone_ae: "阿尔法执行者单位"
+acot_defense_drone_ae_plural: "阿尔法执行者单位"
+acot_defense_drone_ae_desc: "执行者单位是轻型安全单位，旨在使用机器强大的防御网格网络巡逻和保卫地球。"
+
+acot_defense_drone_light: "哨兵单位"
+acot_defense_drone_light_plural: "哨兵单位"
+acot_defense_drone_light_desc: "哨兵部队不仅拥有优越的作战平台，还可以加载指挥模块，与较小的执行者单位建立控制。,这使得他们能够齐心协力保卫机器防御网格。"
+
+acot_defense_drone_light_dm: "三角洲哨兵部队"
+acot_defense_drone_light_dm_plural: "三角洲哨兵部队"
+acot_defense_drone_light_dm_desc: "哨兵无人机不仅拥有卓越的作战平台，还可以加载指挥模块以与较小的执行者单位建立控制。,这使得他们能够齐心协力保卫机器防御网格。"
+
+acot_defense_drone_light_ae: "阿尔法哨兵部队"
+acot_defense_drone_light_ae_plural: "阿尔法哨兵部队"
+acot_defense_drone_light_ae_desc: "哨兵无人机不仅拥有卓越的作战平台，还可以加载指挥模块以与较小的执行者单位建立控制。,这使得他们能够齐心协力保卫机器防御网格。"
+
+acot_defense_drone_heavy: "机芯单元"
+acot_defense_drone_heavy_plural: "机芯单元"
+acot_defense_drone_heavy_desc: "机器核心是强大的球形平台，可以在防御战斗中指挥较小的单位。,核心本身就很强大，能够用隐藏的武器系统摧毁入侵者。"
+
+acot_defense_drone_heavy_dm: "台达电机核心单元"
+acot_defense_drone_heavy_dm_plural: "台达电机核心单元"
+acot_defense_drone_heavy_dm_desc: "机器核心是强大的球形平台，可以在防御战斗中指挥较小的单位。,核心本身就很强大，能够用隐藏的武器系统摧毁入侵者。"
+
+acot_defense_drone_heavy_ae: "阿尔法机核心单元"
+acot_defense_drone_heavy_ae_plural: "Alpha 机器核心单元"
+acot_defense_drone_heavy_ae_desc: "机器核心是强大的球形平台，可以在防御战斗中指挥较小的单位。,核心本身就很强大，能够用隐藏的武器系统摧毁入侵者。"
+
+################
+
+acot_army_machine_cyborg_defense: "机械人军团"
+acot_army_machine_cyborg_defense_plural: "机械人军团"
+acot_army_machine_cyborg_defense_desc: "机器机器人是有机士兵，他们被移植了控制论植入物，将他们的意识与机器格式塔联系起来。,这使得它们能够以普通机器不适合的能力为机器主人的事业服务。"
+
+acot_army_machine_cyborg_defense_dm: "三角洲机械机器人军团"
+acot_army_machine_cyborg_defense_dm_plural: "三角洲机械机器人军团"
+acot_army_machine_cyborg_defense_dm_desc: "机器机器人是有机士兵，他们被移植了控制论植入物，将他们的意识与机器格式塔联系起来。,这使得它们能够以普通机器不适合的能力为机器主人的事业服务。"
+
+acot_army_machine_cyborg_defense_ae: "阿尔法机机器人军团"
+acot_army_machine_cyborg_defense_ae_plural: "阿尔法机机器人军团"
+acot_army_machine_cyborg_defense_ae_desc: "机器机器人是有机士兵，他们被移植了控制论植入物，将他们的意识与机器格式塔联系起来。,这使得它们能够以普通机器不适合的能力为机器主人的事业服务。"
+
+acot_army_machine_cyborg_defense_light: "机器机器人收割者"
+acot_army_machine_cyborg_defense_light_plural: "机器机器人收割者"
+acot_army_machine_cyborg_defense_light_desc: "机器人收割者本质上是高于普通步兵的控制论步行者。,他们在防御战中领导其他机器人。"
+
+acot_army_machine_cyborg_defense_light_dm: "三角洲机器机器人收割者"
+acot_army_machine_cyborg_defense_light_dm_plural: "三角洲机器机器人收割者"
+acot_army_machine_cyborg_defense_light_dm_desc: "机器人收割者本质上是高于普通步兵的控制论步行者。,他们在防御战中领导其他机器人。"
+
+acot_army_machine_cyborg_defense_light_ae: "阿尔法机器机器人收割者"
+acot_army_machine_cyborg_defense_light_ae_plural: "阿尔法机器机器人收割者"
+acot_army_machine_cyborg_defense_light_ae_desc: "机器人收割者本质上是高于普通步兵的控制论步行者。,他们在防御战中领导其他机器人。"
+
+acot_army_machine_cyborg_defense_heavy: "机器机器人指挥官"
+acot_army_machine_cyborg_defense_heavy_plural: "机器机器人指挥官"
+acot_army_machine_cyborg_defense_heavy_desc: "机器人指挥官被赋予了更强大的处理能力，使他们不仅能够有效地与控制论部队协调防御计划，而且能够利用更先进的武器系统。"
+
+acot_army_machine_cyborg_defense_heavy_dm: "三角洲机器机器人指挥官"
+acot_army_machine_cyborg_defense_heavy_dm_plural: "三角洲机器机器人指挥官"
+acot_army_machine_cyborg_defense_heavy_dm_desc: "机器人指挥官被赋予了更强大的处理能力，使他们不仅能够有效地与控制论部队协调防御计划，而且能够利用更先进的武器系统。"
+
+acot_army_machine_cyborg_defense_heavy_ae: "阿尔法机机器人指挥官"
+acot_army_machine_cyborg_defense_heavy_ae_plural: "阿尔法机机器人指挥官"
+acot_army_machine_cyborg_defense_heavy_ae_desc: "机器人指挥官被赋予了更强大的处理能力，使他们不仅能够有效地与控制论部队协调防御计划，而且能够利用更先进的武器系统。"
+
+################
+
+machine_assault_1: "轻型作战单位"
+machine_assault_1_plural: "轻型作战单位"
+machine_assault_1_desc: "轻型作战部队是经过改装的国内部队，可参加战斗。,他们配备了基本的步兵大小的武器，可以有效对抗大多数轻型目标。,它们耐用的框架使它们能够在整个系统故障之前摆脱一些攻击，但它们并不是很吓人，并且往往无法对抗有能力的建制士兵。"
+
+acot_army_machine_dm: "三角洲轻型作战部队"
+acot_army_machine_dm_plural: "三角洲轻型作战部队"
+acot_army_machine_dm_desc: "轻型作战部队是经过改装的国内部队，可参加战斗。,他们配备了基本的步兵大小的武器，可以有效对抗大多数轻型目标。,它们耐用的框架使它们能够在整个系统故障之前摆脱一些攻击，但它们并不是很吓人，并且往往无法对抗有能力的建制士兵。"
+ 
+acot_army_machine_ae: "阿尔法轻型作战单位"
+acot_army_machine_ae_plural: "阿尔法轻型作战单位"
+acot_army_machine_ae_desc: "轻型作战部队是经过改装的国内部队，可参加战斗。,他们配备了基本的步兵大小的武器，可以有效对抗大多数轻型目标。,它们耐用的框架使它们能够在整个系统故障之前摆脱一些攻击，但它们并不是很吓人，并且往往无法对抗有能力的建制士兵。"
+ 
+acot_army_machine_se: "西格玛轻型作战单位"
+acot_army_machine_se_plural: "西格玛轻型作战单位"
+acot_army_machine_se_desc: "轻型作战部队是经过改装的国内部队，可参加战斗。,他们配备了基本的步兵大小的武器，可以有效对抗大多数轻型目标。,它们耐用的框架使它们能够在整个系统故障之前摆脱一些攻击，但它们并不是很吓人，并且往往无法对抗有能力的建制士兵。"
+ 
+acot_army_machine_torso: "受损的轻型战斗部队"
+acot_army_machine_torso_plural: "受损的轻型作战单位"
+acot_army_machine_torso_desc: "该战斗单位的机动性在受到严重伤害后已被削弱，但其战斗能力仍然完好无损。,如果它在战斗中幸存下来，它可能还需要修复才能充分发挥作用。"
+
+acot_army_machine_torso_dm: "受损的轻型战斗部队"
+acot_army_machine_torso_dm_plural: "受损的轻型作战单位"
+acot_army_machine_torso_dm_desc: "该战斗单位的机动性在受到严重伤害后已被削弱，但其战斗能力仍然完好无损。,如果它在战斗中幸存下来，它可能还需要修复才能充分发挥作用。"
+
+acot_army_machine_torso_ae: "受损的轻型战斗部队"
+acot_army_machine_torso_ae_plural: "受损的轻型作战单位"
+acot_army_machine_torso_ae_desc: "该战斗单位的机动性在受到严重伤害后已被削弱，但其战斗能力仍然完好无损。,如果它在战斗中幸存下来，它可能还需要修复才能充分发挥作用。"
+
+acot_army_machine_torso_se: "受损的轻型战斗部队"
+acot_army_machine_torso_se_plural: "受损的轻型作战单位"
+acot_army_machine_torso_se_desc: "该战斗单位的机动性在受到严重伤害后已被削弱，但其战斗能力仍然完好无损。,如果它在战斗中幸存下来，它可能还需要修复才能充分发挥作用。"
+
+######### SPM
+
+acot_army_machine_spm: "SPM单元"
+acot_army_machine_spm_plural: "SPM单元"
+acot_army_machine_spm_desc: "SPM 单位是批量生产的简单战斗单位，具有非常基本的设计和处理能力。,大多数时候，他们足够聪明，知道该攻击什么、不该攻击什么。"
+
+acot_army_machine_spm_dm: "台达 SPM 装置"
+acot_army_machine_spm_dm_plural: "达美 SPM 单位"
+acot_army_machine_spm_dm_desc: "SPM 单位是批量生产的简单战斗单位，具有非常基本的设计和处理能力。,大多数时候，他们足够聪明，知道该攻击什么、不该攻击什么。"
+ 
+acot_army_machine_spm_ae: "阿尔法 SPM 装置"
+acot_army_machine_spm_ae_plural: "Alpha SPM 装置"
+acot_army_machine_spm_ae_desc: "SPM 单位是批量生产的简单战斗单位，具有非常基本的设计和处理能力。,大多数时候，他们足够聪明，知道该攻击什么、不该攻击什么。"
+ 
+acot_army_machine_spm_se: "Sigma SPM 装置"
+acot_army_machine_spm_se_plural: "西格玛 SPM 装置"
+acot_army_machine_spm_se_desc: "SPM 单位是批量生产的简单战斗单位，具有非常基本的设计和处理能力。,大多数时候，他们足够聪明，知道该攻击什么、不该攻击什么。"
+
+#########
+
+machine_assault_2: "熟练的战斗单位"
+machine_assault_2_plural: "熟练的战斗单位"
+machine_assault_2_desc: "专为战斗而设计的专家非常适合大多数地面战斗，并且可以快速接近敌人并造成可怕的伤害。,它们的强度足以对抗坦克或飞机。"
+
+acot_army_machine_light_dm: "三角洲专家战斗部队"
+acot_army_machine_light_dm_plural: "三角洲专家战斗部队"
+acot_army_machine_light_dm_desc: "专为战斗而设计的专家非常适合大多数地面战斗，并且可以快速接近敌人并造成可怕的伤害。,它们的强度足以对抗坦克或飞机。"
+ 
+acot_army_machine_light_ae: "阿尔法熟练战斗单位"
+acot_army_machine_light_ae_plural: "阿尔法专家战斗单位"
+acot_army_machine_light_ae_desc: "专为战斗而设计的专家非常适合大多数地面战斗，并且可以快速接近敌人并造成可怕的伤害。,它们的强度足以对抗坦克或飞机。"
+ 
+acot_army_machine_light_se: "西格玛熟练战斗单位"
+acot_army_machine_light_se_plural: "西格玛熟练战斗单位"
+acot_army_machine_light_se_desc: "专为战斗而设计的专家非常适合大多数地面战斗，并且可以快速接近敌人并造成可怕的伤害。,它们的强度足以对抗坦克或飞机。"
+
+##########################
+
+acot_army_machine_light_torso: "损坏的熟练战斗单位"
+acot_army_machine_light_torso_plural: "损坏的熟练战斗单位"
+acot_army_machine_light_torso_desc: "该战斗单位的机动性在受到严重伤害后已被削弱，但其战斗能力仍然完好无损。,如果它在战斗中幸存下来，它可能还需要修复才能充分发挥作用。"
+
+acot_army_machine_light_torso_dm: "受损的 Delta Adept 战斗单位"
+acot_army_machine_light_torso_dm_plural: "受损的 Delta Adept 战斗单位"
+acot_army_machine_light_torso_dm_desc: "该战斗单位的机动性在受到严重伤害后已被削弱，但其战斗能力仍然完好无损。,如果它在战斗中幸存下来，它可能还需要修复才能充分发挥作用。"
+ 
+acot_army_machine_light_torso_ae: "受损的 Alpha Adept 战斗单位"
+acot_army_machine_light_torso_ae_plural: "受损的阿尔法专家战斗单位"
+acot_army_machine_light_torso_ae_desc: "该战斗单位的机动性在受到严重伤害后已被削弱，但其战斗能力仍然完好无损。,如果它在战斗中幸存下来，它可能还需要修复才能充分发挥作用。"
+ 
+acot_army_machine_light_torso_se: "损坏的西格玛熟练战斗单位"
+acot_army_machine_light_torso_se_plural: "损坏的西格玛专家战斗单位"
+acot_army_machine_light_torso_se_desc: "该战斗单位的机动性在受到严重伤害后已被削弱，但其战斗能力仍然完好无损。,如果它在战斗中幸存下来，它可能还需要修复才能充分发挥作用。"
+
+#########
+
+machine_assault_3: "巨型战争形态"
+machine_assault_3_plural: "巨型战争形态"
+machine_assault_3_desc: "巨型战争形态是机械帝国的攻城单位，高耸于小型单位之上，旨在以可怕的火力和几乎牢不可破的防御来打破敌人的阵型。"
+
+acot_army_machine_heavy_dm: "三角洲巨型战争形态"
+acot_army_machine_heavy_dm_plural: "三角洲巨型战争形态"
+acot_army_machine_heavy_dm_desc: "巨型战争形态是机械帝国的攻城单位，高耸于小型单位之上，旨在以可怕的火力和几乎牢不可破的防御来打破敌人的阵型。"
+ 
+acot_army_machine_heavy_ae: "Alpha Mega 战争形态"
+acot_army_machine_heavy_ae_plural: "Alpha Mega 战争形态"
+acot_army_machine_heavy_ae_desc: "巨型战争形态是机械帝国的攻城单位，高耸于小型单位之上，旨在以可怕的火力和几乎牢不可破的防御来打破敌人的阵型。"
+ 
+acot_army_machine_heavy_se: "西格玛巨型战争形态"
+acot_army_machine_heavy_se_plural: "西格玛巨型战争形态"
+acot_army_machine_heavy_se_desc: "巨型战争形态是机械帝国的攻城单位，高耸于小型单位之上，旨在以可怕的火力和几乎牢不可破的防御来打破敌人的阵型。"
+
+#########
+
+acot_army_machine_cyborg: "机械人军团"
+acot_army_machine_cyborg_plural: "机械人军团"
+acot_army_machine_cyborg_desc: "机器机器人是有机士兵，他们被移植了控制论植入物，将他们的意识与机器格式塔联系起来。,这使得它们能够以普通机器不适合的能力为机器主人的事业服务。"
+
+acot_army_machine_cyborg_dm: "三角洲机械机器人军团"
+acot_army_machine_cyborg_dm_plural: "三角洲机械机器人军团"
+acot_army_machine_cyborg_dm_desc: "机器机器人是有机士兵，他们被移植了控制论植入物，将他们的意识与机器格式塔联系起来。,这使得它们能够以普通机器不适合的能力为机器主人的事业服务。"
+
+acot_army_machine_cyborg_ae: "阿尔法机机器人军团"
+acot_army_machine_cyborg_ae_plural: "阿尔法机机器人军团"
+acot_army_machine_cyborg_ae_desc: "机器机器人是有机士兵，他们被移植了控制论植入物，将他们的意识与机器格式塔联系起来。,这使得它们能够以普通机器不适合的能力为机器主人的事业服务。"
+
+acot_army_machine_cyborg_se: "西格玛机械机器人军团"
+acot_army_machine_cyborg_se_plural: "西格玛机械机器人军团"
+acot_army_machine_cyborg_se_desc: "机器机器人是有机士兵，他们被移植了控制论植入物，将他们的意识与机器格式塔联系起来。,这使得它们能够以普通机器不适合的能力为机器主人的事业服务。"
+
+##########################
+
+acot_army_machine_cyborg_torso: "受损的机器机器人军团"
+acot_army_machine_cyborg_torso_plural: "受损的机器机器人军团"
+acot_army_machine_cyborg_torso_desc: "该战斗单位的机动性在受到严重伤害后已被削弱，但其战斗能力仍然完好无损。,如果它在战斗中幸存下来，它可能还需要修复才能充分发挥作用。"
+
+acot_army_machine_cyborg_torso_dm: "受损的三角洲机械机器人军团"
+acot_army_machine_cyborg_torso_dm_plural: "受损的三角洲机械机器人军团"
+acot_army_machine_cyborg_torso_dm_desc: "该战斗单位的机动性在受到严重伤害后已被削弱，但其战斗能力仍然完好无损。,如果它在战斗中幸存下来，它可能还需要修复才能充分发挥作用。"
+
+acot_army_machine_cyborg_torso_ae: "受损的阿尔法机机器人军团"
+acot_army_machine_cyborg_torso_ae_plural: "受损的阿尔法机机器人军团"
+acot_army_machine_cyborg_torso_ae_desc: "该战斗单位的机动性在受到严重伤害后已被削弱，但其战斗能力仍然完好无损。,如果它在战斗中幸存下来，它可能还需要修复才能充分发挥作用。"
+
+acot_army_machine_cyborg_torso_se: "损坏的西格玛机械机器人军团"
+acot_army_machine_cyborg_torso_se_plural: "损坏的西格玛机械机器人军团"
+acot_army_machine_cyborg_torso_se_desc: "该战斗单位的机动性在受到严重伤害后已被削弱，但其战斗能力仍然完好无损。,如果它在战斗中幸存下来，它可能还需要修复才能充分发挥作用。"
+
+#########
+
+acot_army_machine_special: "自适应力单位"
+acot_army_machine_special_plural: "自适应力单位"
+acot_army_machine_special_desc: "与其他机器部队不同，AFU 在战场上高度独立，它们可以通过调整敌人的模式和行为来制定和分析新的攻击计划。,这使他们在心理战中具有一些优势，因为他们可以利用非常规战术来迷惑敌人。,这种设计的缺点是，如果 AFU 不堪重负，它们可能会在试图匆忙想出摆脱混乱的策略时使电路过载。"
+ 
+acot_army_machine_special_se: "西格玛自适应力单元"
+acot_army_machine_special_se_plural: "西格玛自适应力单位"
+acot_army_machine_special_se_desc: "与其他机器部队不同，AFU 在战场上高度独立，它们可以通过调整敌人的模式和行为来制定和分析新的攻击计划。,这使他们在心理战中具有一些优势，因为他们可以利用非常规战术来迷惑敌人。,这种设计的缺点是，如果 AFU 不堪重负，它们可能会在试图匆忙想出摆脱混乱的策略时使电路过载。"
+
+tech_acot_army_machine_special: "自适应单元逻辑"
+tech_acot_army_machine_special_desc: "共识可能会受益于能够独立适应战场情况的专门特种部队，而不是依靠关键指挥单位向较小的单位发出命令。"
+ 
+acot_army_machine_hero: "消灭神机"
+acot_army_machine_hero_plural: "消灭神机"
+acot_army_machine_hero_desc: “虽然我们不相信这种纯有机制造的实体被称为“众神”的概念，但分析估计，将这种巨型战争机器命名为对有机物的威吓效果提高了 69.34%。这台机器的单一能量枪是,轻易就能将整栋建筑化为灰烬。”
+ 
+tech_acot_army_machine_hero: "终极战争机器"
+tech_acot_army_machine_hero_desc: "当涉及到他们的非正统策略时，有机体永远不会停止超越我们既定的参数，我们收到有关<灵能>、<基因增强超级士兵>或<超大型战车>的数据。,我们不能..<不会>复制他们的设计。,相反，我们将创造我们自己的终极战争机器，它将终止所有可能的抵抗，无论是否是<灵能>。"
+ 
+godmech_limit_tooltip: "根除神机直接与我们的中央处理器本身相连。,我们只能假设直接控制一台这样的机器。"
+ 
+##########################
+
+acot_army_machine_special_torso: "损坏的适应力单元"
+acot_army_machine_special_torso_plural: "损坏的自适应部队"
+acot_army_machine_special_torso_desc: "该战斗单位的机动性在受到严重伤害后已被削弱，但其战斗能力仍然完好无损。,如果它在战斗中幸存下来，它可能还需要修复才能充分发挥作用。"
+ 
+acot_army_machine_special_torso_se: "损坏的西格玛自适应部队"
+acot_army_machine_special_torso_se_plural: "损坏的西格玛自适应部队"
+acot_army_machine_special_torso_se_desc: "该战斗单位的机动性在受到严重伤害后已被削弱，但其战斗能力仍然完好无损。,如果它在战斗中幸存下来，它可能还需要修复才能充分发挥作用。"
+
+################ GENETIC
+ 
+clone_army: "克隆人军队"
+clone_army_plural: "克隆人军队"
+clone_army_desc: "克隆人士兵本质上是人造生物“机器人”，使用最优化的遗传密码设计，可以快速组装成杀人机器。,虽然这大大缩短了招募时间，但克隆过程中涉及的成本并不便宜。 \n\n与某些观点相反，克隆人并没有从出生后经历加速生长，它们只是作为成年人出生，并具有先天性。,明确了为军队服务的精神状态。"
+
+tech_acot_army_clone_dm: "精英克隆军计划"
+tech_acot_army_clone_dm_desc: "更新我们克隆人的遗传密码并为他们配备新技术将使他们在对抗新军队时保持竞争力。"
+
+acot_army_clone_dm: "精锐克隆人军队"
+acot_army_clone_dm_plural: "精锐克隆人军队"
+acot_army_clone_dm_desc: "克隆人士兵本质上是人造生物“机器人”，使用最优化的遗传密码设计，可以快速组装成杀人机器。,虽然这大大缩短了招募时间，但克隆过程中涉及的成本并不便宜。 \n\n与某些观点相反，克隆人并没有从出生后经历加速生长，它们只是作为成年人出生，并具有先天性。,明确了为军队服务的精神状态。"
+
+acot_army_gene: "基因突击队"
+acot_army_gene_plural: "基因突击队"
+acot_army_gene_desc: "这些增强型突击队不仅经过基因工程改造，拥有我们帝国所能拥有的一些最强大的基因特征，而且还配备了一些让其他军队相形见绌的最尖端装备。"
+ 
+acot_army_gene_se: "西格玛基因突击队"
+acot_army_gene_se_plural: "西格玛基因突击队"
+acot_army_gene_se_desc: "这些增强型突击队不仅经过基因工程改造，拥有我们帝国所能拥有的一些最强大的基因特征，而且还配备了一些让其他军队相形见绌的最尖端装备。"
+
+tech_acot_army_gene: "基因播种的完美"
+tech_acot_army_gene_desc: "凭借我们获得的技术，我们可以进一步增强我们现有的基因士兵，使其具有我们物种能够适应的最佳特征，从而大大提高他们的战斗能力。,然后他们将获得我们最新的暗物质武器和装备。"
+ 
+acot_army_gene_hero: "天顶战士"
+acot_army_gene_hero_plural: "巅峰勇士"
+acot_army_gene_hero_desc: "天顶战士是我们帝国追求基因纯度的终极巅峰。,这些战士经过基因强化，继承了先辈的最佳特征，远远高于我们的普通士兵，拥有巨大的力量，能够毫不费力地携带舰船大小的武器。"
+ 
+tech_acot_army_gene_hero: "前体基因实施"
+tech_acot_army_gene_hero_desc: “虽然我们已经达到了我们物种遗传潜力的最终顶峰，但它仍然不如祖先。我们的生物学家认为，有可能利用祖先的一些最致命和最强大的特征来创造一种,银河系有史以来最强大的士兵。”
+ 
+doomguy_limit_tooltip: "在数百万自愿的候选人中，迄今为止，只有一个人通过如此广泛的基因工程给出了积极的结果。,目前我们还无法生产出另一个天顶战士。"
+ 
+
+################ PSIONIC
+ 
+acot_army_psi: "黑暗门徒"
+acot_army_psi_plural: "黑暗门徒"
+acot_army_psi_desc: "这些弟子不仅精通武器，还能够直接对敌人造成毁灭性的灵能攻击。"
+
+acot_army_psi_se: "西格玛黑暗门徒"
+acot_army_psi_se_plural: "西格玛黑暗信徒"
+acot_army_psi_se_desc: "这些弟子不仅精通武器，还能够直接对敌人造成毁灭性的灵能攻击。"
+
+tech_acot_army_psi: "黑暗门徒"
+tech_acot_army_psi_desc: "灵能战士虽然由于其心灵感应交流和摧毁敌人士气的能力而已经非常强大，但仍然容易受到机器或基因士兵的攻击。,我们必须开始训练新一代的灵能战士，他们能够以更直接的方式使用他们的灵能来攻击我们的敌人。"
+ 
+acot_army_psi_hero: "黑暗心灵术士"
+acot_army_psi_hero_plural: "黑暗心灵术士"
+acot_army_psi_hero_desc: "作为裹尸布最有天赋的弟子，黑暗心灵师的物理力量仅低于天选者。,灵能者能够释放毁灭性的灵能风暴，在战场上造成严重破坏，而任何灵能存在都不会事先察觉。"
+ 
+acot_army_psi_se_hero: "黑暗心灵术士"
+acot_army_psi_se_hero_plural: "黑暗心灵术士"
+acot_army_psi_se_hero_desc: "作为裹尸布最有天赋的弟子，黑暗心灵师的物理力量仅低于天选者。,灵能者能够释放毁灭性的灵能风暴，在战场上造成严重破坏，而任何灵能存在都不会事先察觉。"
+
+tech_acot_army_psi_hero: "第二份礼物"
+tech_acot_army_psi_hero_desc: "我们收到了有趣的消息，最近有报道称裹尸布从我们黑暗弟子的队伍中选择了另一个人作为另一个化身。,虽然不如最初的选择者那么强大，但它的破坏力却要强得多。,我们应该立即寻找这位弟子。"
+ 
+psion_limit_tooltip: "到目前为止，裹尸布只赋予了一个灵能者如此强大的力量，我们还没有发现另一个拥有类似灵能的人。"
+ 
+################ CYBERNETIC
+
+acot_army_cyborg: "网络人"
+acot_army_cyborg_plural: "网络人"
+acot_army_cyborg_desc: "网络人是先进的控制论增强超级士兵，配备了可以适应任何情况的各种武器系统。"
+ 
+acot_army_cyborg_se: "西格玛网络人"
+acot_army_cyborg_se_plural: "西格玛网络人"
+acot_army_cyborg_se_desc: "网络人是先进的控制论增强超级士兵，配备了可以适应任何情况的各种武器系统。"
+
+acot_army_cyborg_torso: "受损的网络人"
+acot_army_cyborg_torso_plural: "受损的网络人"
+acot_army_cyborg_torso_desc: "这些网络人的机动性在遭受严重伤害后已被削弱，但他们的战斗能力仍然完好无损。,如果它们在战斗中幸存下来，它们可能还需要经过修复才能充分发挥作用。"
+ 
+acot_army_cyborg_torso_se: "损坏的西格玛网络人"
+acot_army_cyborg_torso_se_plural: "损坏的西格玛网络人"
+acot_army_cyborg_torso_se_desc: "这些网络人的机动性在遭受严重伤害后已被削弱，但他们的战斗能力仍然完好无损。,如果它们在战斗中幸存下来，它们可能还需要经过修复才能充分发挥作用。"
+
+tech_acot_army_cyborg: "网络化部队"
+tech_acot_army_cyborg_desc: "虽然从技术上来说，每一个植入控制论的士兵都可以被称为机器人，但这个词现在已经改变了。,简单的植入物现在被称为假肢，真正的机器人或网络人现在指的是那些对其有机身体进行了广泛改造的人。,他们可以像自己的身体一样通过神经链接来控制机械部件。,重要有机部分的减少大大提高了士兵的耐用性和生存能力。"
+ 
+acot_army_cyborg_hero: "机器人突击队"
+acot_army_cyborg_hero_plural: "机器人突击队"
+acot_army_cyborg_hero_desc: "机器人突击队是技术精湛且致命的网络人，他们的控制论改造几乎使他们不再像正常的有机体，以至于失去大脑和心脏甚至无法杀死他们。,每个突击队的基因和记忆网络现在都连接到战场之外的中央网络系统，使他们在战斗中更难被摧毁，从而使他们能够实现更多的超自然壮举。"
+ 
+tech_acot_army_cyborg_hero: "机器人突击队"
+tech_acot_army_cyborg_hero_desc: “电子人突击队是技术精湛且致命的网络人，他们的控制论修改几乎使他们不再像正常有机体一样，以至于失去大脑和心脏甚至不会再杀死他们。每个突击队的基因和记忆网络现在都与,战场之外的中央网络系统，让他们在战斗中更难被摧毁，进而让他们能够成就更多的神功。”
+ 
+cyborgcommando_limit_tooltip: "机器人突击队不会长在树上。,只有少数网络人能够与他们的生物和机械部件完全同步操作。,即使机械人突击队可以从其物理形态的破坏中幸存下来，将其基因和大脑数据重建和重新映射到新身体也将需要大量的努力和时间。"
+
+################ SYTNEHTHIC
+ 
+acot_army_synth: "合成战斗平台"
+acot_army_synth_plural: "合成战斗平台"
+acot_army_synth_desc: "合成战斗平台或 SCP 是真正的合成士兵，展现出真正的智慧。,这使他们能够轻松智胜大多数敌方战斗人员。 ,SCP 通常被赋予专门的物理平台，与之前的有机形态截然不同。,即使所有部件都被分解，它们也能继续运转，甚至一只剩下的手也能将有机体勒死。"
+ 
+acot_army_synth_se: "西格玛SCP"
+acot_army_synth_se_plural: "Sigma SCP"
+acot_army_synth_se_desc: "合成战斗平台或 SCP 是真正的合成士兵，展现出真正的智慧。,这使他们能够轻松智胜大多数敌方战斗人员。 ,SCP 通常被赋予专门的物理平台，与之前的有机形态截然不同。,即使所有部件都被分解，它们也能继续运转，甚至一只剩下的手也能将有机体勒死。"
+
+acot_army_synth_torso: "损坏的合成战斗平台"
+acot_army_synth_torso_plural: "损坏的合成战斗平台"
+acot_army_synth_torso_desc: "这些合成人的机动性在遭受严重伤害后已被削弱，但他们的战斗能力仍然完好无损。,如果它们在战斗中幸存下来，它们可能还需要经过修复才能充分发挥作用。"
+ 
+acot_army_synth_torso_se: "损坏的西格玛SCP"
+acot_army_synth_torso_se_plural: "损坏的 Sigma SCP"
+acot_army_synth_torso_se_desc: "这些合成人的机动性在遭受严重伤害后已被削弱，但他们的战斗能力仍然完好无损。,如果它们在战斗中幸存下来，它们可能还需要经过修复才能充分发挥作用。"
+
+tech_acot_army_synth: "合成战斗平台"
+tech_acot_army_synth_desc: "全机器人非常灵活，能够进行复杂的运动，但仍然受到其笨重的尺寸和某些人工智能缺陷的限制。,也许如果我们转而使用真正的合成人，尽管他们很容易士气下降，但他们可以成为更有效的士兵。"
+ 
+acot_army_synth_hero: "合成收割者"
+acot_army_synth_hero_plural: "合成收割者"
+acot_army_synth_hero_desc: "合成收割者是任何合成人格矩阵都希望占领的最致命的战斗平台。,他们比大多数其他单位高出一筹，以压倒性的火力迅速消灭敌人。"
+ 
+tech_acot_army_synth_hero: "合成收割者"
+tech_acot_army_synth_hero_desc: “合成收割者是任何合成人格矩阵都希望征服的最致命的战斗平台。他们比大多数其他单位都高，他们能以压倒性的火力迅速消灭敌人。”
+ 
+synthcommando_limit_tooltip: "合成收割者非常复杂且制造成本极高。,只有过去的生物记忆网络 100% 完好无损的合成人才有机会成为合成人。"
+
+ 
+################
+ 
+tech_ae_army_armor: "高级战斗服"
+tech_ae_army_armor_desc: "尽管自太空出现之初以来，我们已经使用步兵规模的个人护盾发生器很长一段时间了，但它们在耐用性方面受到严重限制。,现在纳米技术和维度系统变得更加普遍，我们终于可以创建可以安装在大多数标准陆军战斗服上的车辆规模的防御系统。,主要好处是它将大大提高飞行员在车辆毁坏时的生存能力。"
+tech_ae_army_armor_tooltip: "升级驾驶车辆，使其飞行员能够在车辆被摧毁时幸存下来，并增加其他步兵驻军生存的可能性。"
+ 
+
+tech_infantry_alpha_capacitor: "阿尔法自动套装"
+tech_infantry_alpha_capacitor_desc: "自动套装是一个相当新的概念，它涉及装甲通过有限的人工智能或来自指挥中心的远程控制系统与穿戴者协同工作。,汽车服能够自行进行维护和修理，从而降低维护成本。,但真正的好处是，在战争时期，如果士兵英年早逝，这套装甲仍能发挥作用，他们仍然能够作为机械化部队继续战斗。"
+tech_infantry_alpha_capacitor_tooltip: "所有非消耗性步兵单位现在都有机会让他们的战斗服在死亡后幸存下来并继续战斗。,自动套装的属性取决于步兵的类型，轻型步兵最弱，重型步兵最强。,然而，穿戴者的个人力量对套装的性能没有影响，因此普通士兵和共享相似装甲的特殊单位将产生相同的自动套装类型。"
+ 
+tech_infantry_ferocity: "不屈的凶猛"
+tech_infantry_ferocity_desc: "我们不会静静地走进虚空！,让所有反对我们的人当心，因为我们的人民将为我们的崇高目标奉献生命，因为我们的事业是正义的！"
+
+tech_ae_army_hive_supercell: "增强的重构序列"
+tech_ae_army_hive_supercell_desc: "由于对遗传学和序列旋转的深入了解，大型蜂巢战士很快就有可能在物理生物量严重崩溃后生存下来。,当遭受致命伤害时，幼虫会尝试合并成一个茧，并利用附近的生物量将自己复活为新的蜂巢战士。,虽然这个过程并不完美，但它会为我们的战士提供额外的生存能力。"
+tech_ae_army_hive_supercell_tooltip: "大型蜂巢单位现在有机会作为茧生存。,虽然这些茧几乎没有攻击力，但如果它们存活下来，它们将免费变回原来的单位。"
+
+tech_ae_army_machine_durability: "复仇者系统"
+tech_ae_army_machine_durability_desc: "尽管大多数战斗平台在其部分机械肢和关节被破坏的情况下仍能幸存，但目前这种机会相对较低。"
+tech_ae_army_machine_durability_tooltip: "增加所有步兵单位平台在受损的同类平台上继续战斗并可能在以后修复的机会。"
+
+
+##################### FE STUFFS
+
+
+acot_army_fe_spirit: "远古守护者"
+acot_army_fe_spirit_plural: "远古守护者"
+acot_army_fe_spirit_desc: "远古守护者"
+acot_defense_army_fe_spirit: "远古守护者"
+acot_defense_army_fe_spirit_plural: "远古守护者"
+acot_defense_army_fe_spirit_desc: "远古守护者"
+
+acot_army_fe_mat: "古代防御者"
+acot_army_fe_mat_plural: "古代捍卫者"
+acot_army_fe_mat_desc: "古代防御者"
+acot_defense_army_fe_mat: "古代防御者"
+acot_defense_army_fe_mat_plural: "古代捍卫者"
+acot_defense_army_fe_mat_desc: "古代防御者"
+
+acot_army_fe_phile: "远古仲裁者"
+acot_army_fe_phile_plural: "古代仲裁者"
+acot_army_fe_phile_desc: "古代仲裁者"
+acot_defense_army_fe_phile: "远古仲裁者"
+acot_defense_army_fe_phile_plural: "古代仲裁者"
+acot_defense_army_fe_phile_desc: "古代仲裁者"
+
+acot_army_fe_phobe: "古代秩序者"
+acot_army_fe_phobe_plural: "古代秩序者"
+acot_army_fe_phobe_desc: "古代秩序者"
+acot_defense_army_fe_phobe: "古代秩序者"
+acot_defense_army_fe_phobe_plural: "古代秩序者"
+acot_defense_army_fe_phobe_desc: "古代秩序者"
+
+acot_army_fe_machine: "远古看守者"
+acot_army_fe_machine_plural: "远古看守者"
+acot_army_fe_machine_desc: "远古看守者"
+acot_defense_army_fe_machine: "远古看守者"
+acot_defense_army_fe_machine_plural: "远古看守者"
+acot_defense_army_fe_machine_desc: "远古看守者"

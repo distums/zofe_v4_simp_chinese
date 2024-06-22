@@ -1,0 +1,36 @@
+﻿l_simp_chinese:
+ # The Ancient Signal
+ #Written by Matthew Betts
+ #Code by Matthew Betts
+
+ # ROOT = PLANET SCOPE
+ # FROM = SHIP SCOPE
+ mem_amazed_pops:0 "惊讶的流行音乐"
+ 
+ mem_the_ancient_signal_category:0 "未知信号。"
+ mem_the_ancient_signal_desc:0 "我们的传感器接收到来自地球茂密丛林地区的奇怪信号。,我们应该派一个科学小组来检查这些读数。"
+
+ mem_the_ancient_signal.1.name:0 "有趣的动物群？"
+ mem_the_ancient_signal.1.desc:0 "我们已经找到了 §Y[fauna_planet.GetName]§! 的表面,覆盖在非常茂密的丛林中。,居住在其中的各种动物群以某种方式发出相当强的电磁信号。,我们可以在轨道上建立一个研究站来更多地了解这种奇怪的现象。"
+
+ mem_the_ancient_signal.2.name:0 "没有新发现"
+ mem_the_ancient_signal.2.desc:0 "科学家们在表面上没有发现任何其他有趣的东西，这一定是传感器的故障引起了兴奋。"
+
+ mem_the_ancient_signal.3.name:0 "到底是怎么回事？"
+ mem_the_ancient_signal.3.desc:0 "在过去的几个月里，科学官员§Y[Root.GetLeaderName]§!,一直在喋喋不休地谈论 §Y[fauna_planet.GetName]§! 上的任务,说我们该回去了。,在过去的几天里，他们的病情不断恶化，每当有人提到这个星球时，他们就会陷入疯狂的状态。,他们也变得对每一个人、每一件事都变得偏执。,确实是一个令人担忧的迹象。"
+ mem_the_ancient_signal.3.a:0 "我们必须回去。,我们必须找出是什么造成了这种情况。"
+
+ MEM_THE_ANCIENT_SIGNAL_PROJECT:0 "返回§Y[fauna_planet.GetName]§!。"
+ MEM_THE_ANCIENT_SIGNAL_PROJECT_DESC:0 "我们必须回去。,我们必须找出是什么造成了这种情况。"
+
+ mem_the_ancient_signal.4.name:0 "外星人遗迹？"
+ mem_the_ancient_signal.4.desc_default:0 "在茂密的丛林之下，发现了一座巨大的古城。,显然，数十万年前，这里曾经居住着一个统治地球的外星种族。,这座城市似乎是他们文明仅存的部分。,废墟中央矗立着一个由未知材料制成的直立环，周围刻有 39 个不同的符号 - 其中一个是我们帝国的象征。,这意味着什么？"
+ mem_the_ancient_signal.4.desc_materialist:0 "在茂密的丛林之下，发现了一座巨大的古城。,显然，数十万年前，这里曾经居住着一个统治地球的外星种族。,这座城市似乎是他们文明仅存的部分。,废墟中央矗立着一个由未知材料制成的直立环，周围刻有 39 个不同的符号 - 其中一个是我们帝国的象征。,这意味着什么？"
+ mem_the_ancient_signal.4.desc_xenophobe:0 "在茂密的丛林之下，发现了一座巨大的古城。,显然，数十万年前，这里曾经居住着一个统治地球的外星种族。,这座城市似乎是他们仅存的文明和文化。"
+ mem_the_ancient_signal.4.a:0 "一个伟大的发现！"
+ mem_the_ancient_signal.4.b:0 "我们可以从这个伟大的设备中学到很多东西。"
+ mem_the_ancient_signal.4.c:0 "肮脏的外星人，让我们确保他们的文化都无法幸存。"
+
+ mem_the_ancient_signal.4.a.tooltip:0 "太棒了，我们甚至无法想象该说些什么......"
+ mem_the_ancient_signal.4.b.tooltip:0 "一个惊人的发现！,人们将会因这样的发现而欣喜若狂！ ,365天人口幸福感增加10%。"
+ mem_the_ancient_signal.4.c.tooltip:0 "他们的文化可能会污染我们自己的文化。,尽我们所能地废弃并收取费用。"

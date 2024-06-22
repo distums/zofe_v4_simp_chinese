@@ -58,9 +58,8 @@ const processLine = async (line) => {
 const run = async () => {
   const startTime = Date.now();
   await rm(`localisation/${target}`, { recursive: true, force: true });
-  const files = await glob(
-    `localisation/${source}/**/*.yml`
-  );
+  const files = await glob(`localisation/${source}/**/*.yml`);
+  const errFiles = [];
   for (const file of files) {
     console.log("开始翻译文件{%s}", file);
     const relativePath = path.relative(`localisation/${source}`, file);
@@ -91,11 +90,14 @@ const run = async () => {
       console.log("\n");
     } catch (ex) {
       console.error("翻译文件{%s}过程中出错", file);
+      errFiles.push(file);
       console.error(ex);
     }
   }
   const duration = Math.ceil((Date.now() - startTime) / 1000);
   console.log("用时：%s秒", duration);
+
+  console.log("出错文件: %s", errFiles.join("") || "不包含错误文件");
 };
 
 run();

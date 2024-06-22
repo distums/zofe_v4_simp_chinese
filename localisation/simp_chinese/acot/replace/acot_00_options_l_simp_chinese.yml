@@ -1,0 +1,239 @@
+﻿l_simp_chinese:
+ 
+### ENGLISH LOCALIZATION
+ 
+acot_active: "§G活跃§!"
+acot_inactive: "§R不活动§!"
+
+acot_mod_options.0.name: "欢迎来到古老的技术宝藏！"
+## NONE
+acot_mod_options.0.desc: "欢迎来到ACOT。,此弹出窗口用于通知 ACOT 已成功初始化。,如果您想在开始游戏之前更改任何设置，请选择下面的选项（稍后可以在法令菜单上再次访问该选项）\n\n当前安装的 ACOT 子模组（子模组应在主 ACOT 模组之后按以下顺序排序） ,\n\nACOT 覆盖：[Root.GetOverrideActiveStatus]\nACOT 超越大门的秘密：[Root.GetSBTGActiveStatus]\nACOT 定义：[Root.GetDefinesActiveStatus]"
+acot_mod_options.0.a: "是的。,进入配置菜单。"
+acot_mod_options.0.a.tooltip: "打开“选项”菜单可以切换 ACOT 游戏机制的各个方面。"
+acot_mod_options.0.b: "不，是时候进行统治了。"
+
+
+edict_acot_mod_menu_edict: "§YACOT 配置菜单§!"
+edict_acot_mod_menu_edict_desc: "这是配置的主页。"
+ 
+acot_mod_options_title: "古老的技术宝藏技术选项菜单"
+acot_mod_options_desc: "该配置菜单允许您修改ACOT内的各种内容。"
+ 
+acot_mod_options.exit: "退出菜单"
+
+####################### KNOW WHATS UP
+
+acot_mod_options.1: "了解更多关于 ACOT"
+acot_mod_options.1.tooltip: "请阅读 ACOT 及其子模组的简要摘要，以防您在不知道自己要做什么的情况下订阅了该模组。"
+
+acot_mod_options.100.name: "关于ACOT"
+acot_mod_options.100.desc: "古代技术宝藏通过添加额外的新技术、事件和内容来扩展游戏后期内容。,大多数 Mod 的内容只有在你通过了普通的第五级技术后才能体验到。,普通版之外的每一层都需要解锁一系列事件和进度。\n\n此外，ACOT 还提供各种额外的子模组，包括官方和非官方的。,将鼠标悬停在下面的每个按钮上，获取有关每个子模块功能的简短工具提示（按下按钮不会激活当前不活动的子模块，您需要实际订阅并开始新游戏才能使它们激活）"
+
+acot_mod_options.100.a: "ACOT：覆盖 - [Root.GetOverrideActiveStatus]"
+acot_mod_options.100.a.tooltip: "这个子模块会覆盖一些原版文件，以提供从原版内容到 ACOT 的更无缝过渡。,它还升级了原版的《堕落帝国》和《危机》，以使用基于 ACOT 的组件。\n\n此 mod 的大部分功能将在正在进行的游戏中追溯运行，除非危机已经产生。\n安装前已创建的《堕落帝国》舰船将不会更新，,只有新的才会如此。"
+
+acot_mod_options.100.b: "ACOT：门外的秘密 - [Root.GetSBTGActiveStatus]"
+acot_mod_options.100.b.tooltip: "此子模组通过神秘的外门添加了强大但可选的最终游戏危机以及一些与游戏中期相关的事件。\n\n此子模组在安装之前不适用于正在进行的游戏。"
+
+acot_mod_options.100.c: "ACOT：额外定义 - [Root.GetDefinesActiveStatus]"
+acot_mod_options.100.c.tooltip: "这个子模组主要对原版游戏的一些核心定义进行修改，以更好地适应 ACOT。,最重要的是，它改变了舰队功率的计算方式，以减少舰队功率溢出的可能性。,它还为许多可重复技术增加了最大上限，以防止它们溢出。\n\n此子模组将在安装之前对正在进行的游戏进行追溯，但已经超出上限的可重复技术不会消失。"
+
+acot_mod_options.100.d: "AOT：技术获取 - [Root.GetAOTActiveStatus]"
+acot_mod_options.100.d.tooltip: "这个 submod 是 FragJacker 制作的 ACOT 的非官方补充。,它为 Phanon Corps 添加了一些额外的内容和扩展（尽管应该指出的是，其中很多目前都是超级骗子的传说 - 不准确）。,它还添加了其他很酷的东西，例如堕落帝国的战斗驳船和长城。\n\n此子模组可能无法在安装之前在正在进行的游戏中运行。"
+
+acot_mod_options.100.e: "SOTS：裹尸布的秘密 - [Root.GetSOTSActiveStatus]"
+acot_mod_options.100.e.tooltip: "这个 submod 是 Faded 制作的 ACOT 的非官方补充。,它添加了另一层和一些额外的知识，探索召唤裹尸布大师的可能性。\n\n此子模组可能无法在安装之前在正在进行的游戏中运行。"
+
+acot_mod_options.100.f: "ACoT：祖先蜂巢 - [Root.GetPHActiveStatus]"
+acot_mod_options.100.f.tooltip: "这个 submod 是 Hildo 制作的 ACOT 的非官方补充。,它增加了对 Prognitor Hives 起源的全面支持。\n\n此子模组可能无法在安装之前在正在进行的游戏中运行。"
+
+####################### TECH STUFFS
+
+acot_mod_options.2: "技术选择"
+acot_mod_options.2.tooltip: "自定义哪些技术应该允许出现或不允许出现。"
+
+acot_mod_options.200.name: "技术选择"
+acot_mod_options.200.desc: "自定义哪些技术应该允许出现或不允许出现。,请注意，如果一个帝国已经研究了该技术或开始了该技术的进步，其中一些选项将被禁用。"
+
+acot_mod_options.200.maxtech: "最大技术等级进步"
+acot_mod_options.200.maxtech.tooltip: "定义所有标准帝国允许的最大科技进步。,一旦游戏进行到中期，此选项就会被禁用。"
+
+acot_mod_options.201.name: "最大技术等级进步"
+acot_mod_options.201.desc: "定义所有标准帝国允许的最大科技进步。,一旦游戏进行到中期，此选项就会被禁用。,如果任何标准帝国已经开始升级，它也会被禁用。,禁用较低技术层也会自动禁用所有后续较高层。"
+acot_mod_options.201.delta.enabled: "§EDelta（第 6 级）：！ ,§G已启用§!"
+acot_mod_options.201.delta.disabled: "§EDelta（第 6 级）：！ ,§R禁用§!"
+acot_mod_options.201.alpha.enabled: "§BAlpha（7 级）：！ ,§G已启用§!"
+acot_mod_options.201.alpha.disabled: "§BAlpha（7 级）§：！ ,§R禁用§!"
+acot_mod_options.201.sigma.enabled: "§HSigma（8 级）§：！ ,§G已启用§!"
+acot_mod_options.201.sigma.disabled: "§HSigma（8 级）§：！ ,§R禁用§!"
+ 
+acot_mod_options.200.a: "武器组件已§G启用§!。 ,§R禁用§!？"
+acot_mod_options.200.a.tooltip: "禁用所有 ACOT 武器技术。,已研究的组件将保持§Y可用§!。\n\n§R警告§!：护盾位于暗能量反应堆后面。,如果禁用此功能，也将无法获得护盾。"
+acot_mod_options.200.a2: "武器组件已§R禁用§!。 ,§G启用§!？"
+acot_mod_options.200.a2.tooltip: "启用所有 ACOT 武器技术。,如果满足所有其他条件，它们将变得可研究。"
+ 
+
+acot_mod_options.200.b: "防御性实用程序组件已§G启用§!。 ,§R禁用§!？"
+acot_mod_options.200.b.tooltip: "禁用所有 ACOT 武器技术。,已研究的组件将保持§Y可用§!。\n\n§R警告§!：护盾位于暗能量反应堆后面。,如果禁用此功能，也将无法获得护盾。"
+acot_mod_options.200.b2: "防御性实用程序被§R禁用§!。 ,§G启用§!？"
+acot_mod_options.200.b2.tooltip: "启用所有 ACOT 武器技术。,如果满足所有其他条件，它们将变得可研究。"
+ 
+acot_mod_options.200.c: "辅助组件已§G启用§!。 ,§R禁用§!？"
+acot_mod_options.200.c.tooltip: "禁用所有 ACOT 辅助技术，其中包括每种武器类型的武器核心。,已研究的组件将保持§Y可用§!。"
+acot_mod_options.200.c2: "辅助组件§R禁用§!。 ,§G启用§!？"
+acot_mod_options.200.c2.tooltip: "启用所有 ACOT 辅助技术，其中包括每种武器类型的武器核心。"
+ 
+acot_mod_options.200.d: "船舶组件已§G启用§!。 ,§R禁用§!？"
+acot_mod_options.200.d.tooltip: "禁用所有 ACOT 船舶技术，包括反应堆、跳跃驱动器、推进器和传感器。,已研究的组件将保持§Y可用§!。\n\n§R警告§!：禁用此功能将使许多其他 ACOT 技术无法用于研究。"
+acot_mod_options.200.d2: "船舶组件§R禁用§!。 ,§G启用§!？"
+acot_mod_options.200.d2.tooltip: "支持所有 ACOT 船舶技术，包括反应堆、跳跃驱动器、推进器和传感器。"
+ 
+acot_mod_options.200.e: "陆军技术已§G启用§!。 ,§R禁用§!？"
+acot_mod_options.200.e.tooltip: "禁用所有 ACOT 军队技术。,现有的军队将保持“活跃”状态，他们将永远困扰你的帝国，你不可能希望完成任何事情来结束这种可怕的命运。"
+acot_mod_options.200.e2: "陆军技术被§R禁用§!。 ,§G启用§!？"
+acot_mod_options.200.e2.tooltip: "启用所有 ACOT 军队技术，让您的帝国能够招募/建造/训练/变形/召唤/召唤/具体化 AE 级军队。"
+ 
+acot_mod_options.200.f: "建筑技术已§G启用§!。 ,§R禁用§!？"
+acot_mod_options.200.f.tooltip: "禁用所有 ACOT 建筑技术。,已经建造的建筑物将保持“可用”状态，迫使您的帝国质疑银河系的现实，为什么他们可以拥有在银河系循环中不允许理解的建筑物，而它们的存在被否认。,你们的人民很快就会意识到存在的徒劳。"
+acot_mod_options.200.f2: "建筑技术已§R禁用§!。 ,§G启用§!？"
+acot_mod_options.200.f2.tooltip: "启用所有 ACOT 建筑技术。,恭喜，您已决定启用该模组可能最著名的技术...您为什么再次禁用它？,一定是千兆要塞。"
+ 
+acot_mod_options.200.g: "Empire Technologies 已§G启用§!。 ,§R禁用§!？"
+acot_mod_options.200.g.tooltip: "禁用所有 ACOT 独特的帝国技术。,即使你明确告诉游戏不要这样做，已经研究的技术也会给予奖励，你没有希望。,一切都结束了，阿纳金。,我有制高点。"
+acot_mod_options.200.g2: "Empire Technologies 已§R禁用§!。 ,§G启用§!？"
+acot_mod_options.200.g2.tooltip: "启用所有 ACOT 独特的帝国技术。,如果您已经研究过它们，它们将再次变得可建造。,是时候浪费所有这些影响力向每个行星上的千兆堡垒发送垃圾邮件了"
+
+###################################################################################
+
+acot_mod_options.3: "ACOT 事件选项"
+acot_mod_options.3.tooltip: "自定义哪些事件应该允许发生或不允许发生。"
+
+acot_mod_options.300.name: "ACOT 事件选项"
+acot_mod_options.300.desc: "自定义哪些事件应该允许发生或不允许发生。"
+ 
+acot_mod_options.300.b: "前兆事件之谜已§G启用§!。 ,§R禁用§!？"
+acot_mod_options.300.b.tooltip: "禁止先行事件之谜授予先行舰船。,先行者之谜专注于探索、理解和利用远古时代的古代先行者船只。 ,（这不会阻止你获得阿尔法科技，它只会阻止你获得先行舰）"
+acot_mod_options.300.b2: "前兆事件之谜已§R禁用§!。 ,§G启用§!？"
+acot_mod_options.300.b2.tooltip: "开启前兆事件之谜。"
+
+acot_mod_options.300.c: "恒星异常事件已§G启用§!。 ,§R禁用§!？"
+acot_mod_options.300.c.tooltip: "禁用恒星事件事件。,恒星异常是由于恒星能量使用不当而发生的。"
+acot_mod_options.300.c2: "恒星异常事件已§R禁用§!。 ,§G启用§!？"
+acot_mod_options.300.c2.tooltip: "启用恒星事件事件。"
+
+acot_mod_options.300.d: "轰炸事件已§G启用§!。 ,§R禁用§!？"
+acot_mod_options.300.d.tooltip: "禁止轰炸事件发生。,这将把所有 ACOT 轰炸变成通用的、极其强大的轰炸，没有额外的赛后事件。"
+acot_mod_options.300.d2: "轰炸事件§R禁用§!。 ,§G启用§!？"
+acot_mod_options.300.d2.tooltip: "启用轰炸事件，允许撕裂和破坏发生。"
+ 
+acot_mod_options.300.e: "暗物质外交活动已§G启用§!。 ,§R禁用§!？"
+acot_mod_options.300.e.tooltip: "禁止发生外交相关事件。,如果你希望人工智能帝国接受他们的命运，因为他们注定无法超越零点金霸王，请这样做。"
+acot_mod_options.300.e2: "暗物质外交活动已§R禁用§!。 ,§G启用§!？"
+acot_mod_options.300.e2.tooltip: "启用外交相关事件。,如果你认为人工智能应该尽最大努力找到以某种方式获得技术的方法，即使这意味着采取不正当的外交行动，也可以这样做。"
+ 
+acot_mod_options.300.f: "地狱之战活动已§G启用§!。 ,§R禁用§!？"
+acot_mod_options.300.f.tooltip: "禁用地狱战争事件。,地狱之战是一项旨在测试那些不小心研究阿尔法技术而不考虑所涉及的潜在后果的玩家的活动。"
+acot_mod_options.300.f2: "地狱之战活动已§R禁用§!。 ,§G启用§!？"
+acot_mod_options.300.f2.tooltip: "启用地狱之战事件，恢复阿尔法科技的危险机制。"
+ 
+
+###################################################################################
+
+acot_mod_options.4: "人工智能辅助选项"
+acot_mod_options.4.tooltip: "由于 ACOT 在 AI 需要处理的极其复杂的资源系统之上增加了资源，他们可能很难跟上。,该菜单提供了各种选项来帮助人工智能变得更好。"
+
+acot_mod_options.400.name: "人工智能辅助选项"
+acot_mod_options.400.desc: "由于人工智能必须管理的资源数量不断增加，有时他们可能会提前挖掘坟墓并试图管理一切。,鉴于我不是特别擅长这些人工智能的东西，这个选项的存在是为了帮助人工智能，定期向他们提供免费资源，特别是他们通常很难获得的资源。"
+ 
+
+acot_mod_options.400.a: "AI资源提升修改器"
+acot_mod_options.400.a.tooltip: “使用此选项可以更改人工智能对资源的奖励。请记住，奖励仅适用于更改时的标准帝国和堕落帝国。在再次完成此过程之前，新产生的帝国将不会获得奖励。”
+
+acot_mod_options.400.b: "AI 备份资源已§R启用§!。 ,§G禁用§!？"
+acot_mod_options.400.b.tooltip: “如果发现 AI 长时间缺乏某些基于 ACOT 的资源（例如暗能量或 Stellarite），请禁用游戏的触发器来自动资助这些资源。”
+acot_mod_options.400.b2: "AI 备份资源§G已禁用§!。 ,§R启用§!？"
+acot_mod_options.400.b2.tooltip: "如果发现 AI 长期缺乏某些基于 ACOT 的资源（例如暗能量或 Stellarite），则启用游戏触发器自动资助这些资源。"
+
+acot_mod_options.400.c: "AI 简化事件已§R启用§!。 ,§G禁用§!？"
+acot_mod_options.400.c.tooltip: “为AI禁用许多ACOT事件的简化版本，这样他们就不必花很长时间才能获得重要技术。禁用此事件可能会使AI无法在有意义的时间内正确获取技术来挑战玩家。”
+acot_mod_options.400.c2: "AI 简化事件已§G禁用§!。 ,§R启用§!？"
+acot_mod_options.400.c2.tooltip: "为 AI 启用许多 ACOT 事件的简化版本，这样他们就不必花很长时间才能获得重要技术。"
+
+ 
+acot_mod_options.401.name: "AI资源提升修改器"
+acot_mod_options.401.a.desc: "使用此选项可以更改 AI 对资源的奖励。,请记住，奖励仅适用于标准帝国和堕落帝国。,在再次完成此过程之前，新生成的帝国将不会获得奖励。\n\n当前 AI 的奖励为：§RNone§!\n\nAI 不会获得任何奖励，他们会公平竞争，并且很可能会死亡或崩溃,自己的愚蠢和无能。,如果你喜欢一款只有你一个人才能表现出色的游戏，那就太好了。"
+acot_mod_options.401.b.desc: "使用此选项可以更改 AI 对资源的奖励。,请记住，奖励仅适用于标准帝国和堕落帝国。,在再次完成此过程之前，新产生的帝国将不会获得奖励。\n\n当前 AI 的奖励为：§GLow§!\n\nAI 的基本资源将获得一定的收入，这或多或少应该允许它们发挥作用,一个适当的帝国。,如果你至少认为人工智能会构成相当大的威胁，那就太好了。"
+acot_mod_options.401.c.desc: "使用此选项可以更改 AI 对资源的奖励。,请记住，奖励仅适用于标准帝国和堕落帝国。,在再次完成此过程之前，新生成的帝国将无法获得奖励。\n\n当前 AE AI 的奖励为：§B中等§!\n\nAI 将获得基本设置双倍的收入，但没有其他奖励。"
+acot_mod_options.401.d.desc: "使用此选项可以更改 AI 对资源的奖励。,请记住，奖励仅适用于标准帝国和堕落帝国。,在再次完成此过程之前，新生成的帝国将不会获得奖励。\n\n当前 AE AI 的奖励为：§BHigh§!\n\nAI 将在正常的设定收入之上获得双倍的收入，,如果你确实希望 AE AI 对你构成真正的威胁。,也许这次人工智能真的会杀死你（但很可能不会）。"
+
+acot_mod_options.401.a: "AI 资源奖励：§W无§!"
+acot_mod_options.401.b: "AI 资源奖励 :: §Y低§!"
+acot_mod_options.401.c: "AI 资源奖励：§Y中等§!"
+acot_mod_options.401.d: "AI 资源奖励：§GHigh§!"
+
+easy_acot: "呵呵"
+easy_acot_desc: "哦耶"
+medium_acot: "牛人"
+medium_acot_desc: "好孩子"
+hard_acot: "我有POWARRRRRRRRRRRRRRRRRRR"
+hard_acot_desc: "阿尔萨斯！,在阿尔萨斯变得更加强大之前阻止它！"
+
+###################################################################################
+
+acot_mod_options.6: "内容选项"
+acot_mod_options.6.tooltip: "此选项允许您删除游戏中的某些内容，无论是从 ACOT 本身，还是从现有内容中删除与 ACOT 相关的内容。"
+
+acot_mod_options.600.name: "内容选项"
+acot_mod_options.600.desc: "此选项允许您删除游戏中的某些内容，无论是从 ACOT 本身，还是从现有内容中删除与 ACOT 相关的内容。"
+ 
+acot_mod_options.600.a: "禁用法农军团"
+acot_mod_options.600.a.tooltip: "此选项将从银河系中永久删除 Phanon Corps，包括与其相关的任何技术。,请务必小心，因为将会发生以下结果。\n\n1.,法农军团将从银河系中移除。\n2. ,Droppoint System 将变成一个只有星星的空系统。\n3.,所有 Phanon 技术将不再可获取。\n4.,凯洛·伦永远无法从阿梅利戈那里获得。\n5.,除了拥有 Phanon Techs 的 Stellarborne 之外的任何帝国也将被删除。"
+
+acot_mod_options.600.b: "禁用馆长的执政官"
+acot_mod_options.600.b.tooltip: "此选项将永久删除从策展人那里雇用执政官的能力。,执政官是普通策展科学家的更强大的变体。,请小心，因为将会发生以下结果。\n\n1.,执政官不能从策展人那里招募。\n2.,任何具有执政官特质的现有领导人都将被抹去。"
+
+acot_mod_options.600.c: "禁用傲慢战场"
+acot_mod_options.600.c.tooltip: "此选项将永久阻止狂妄战场和阿梅里戈的发生。 ,Hubris 战场是 ACOT 特有的非常坚硬的挖掘场，从自然断裂的世界中产生。,请务必小心，因为将会发生以下结果。\n\n1.,所有自然断裂的世界都将转变为坟墓世界，并且其上所有倒塌的帝国建筑都会被移除。\n2.,傲慢挖掘场战场永远不会出现。\n3.,这些行星上的守护者舰队将被摧毁。"
+
+acot_mod_options.600.d: "禁用虚空球"
+acot_mod_options.600.d.tooltip: "此选项将永久禁用现有的虚空球。,虚空球体是 ACOT 中最强大的行星类别。,请务必小心，因为将会发生以下结果。\n\n1.,所有现有的虚空球体都将转变为宇宙城邦。\n2.,研究虚空球体的选项将不会出现，并且所有现有进度都将丢失。"
+
+acot_mod_options.600.e: "禁用大力士"
+acot_mod_options.600.e.tooltip: "此选项将永久禁用 Herculeans 的使用。,大力神号是 ACOT 中最强大的移动星际基地，能够轻松凭借自身力量赢得战争，并且几乎坚不可摧。,请务必小心，因为将会发生以下结果。\n\n1.,所有现有的 Herculeans 将被删除。\n2.,解锁大力士的事件不会发生，并且大力士当前的所有进度都将丢失。"
+
+
+###################################################################################
+
+acot_mod_options.7: "§YSBTG 选项§!"
+acot_mod_options.7.tooltip: "这将打开“门外的秘密”配置菜单"
+
+###################################################################################
+
+acot_mod_options.9: "§RAOT 选项§!"
+acot_mod_options.9.tooltip: "这将打开技术获取配置菜单"
+
+
+###################################################################################
+
+acot_mod_options.8: "§R调试选项§!"
+acot_mod_options.8.tooltip: "这将打开“调试”菜单，您可以在其中修复一些错误或访问特定事件，而无需使用控制台。"
+
+acot_mod_options.800.name: "调试选项"
+acot_mod_options.800.desc: "此选项允许您删除游戏中的某些内容，无论是从 ACOT 本身，还是从现有内容中删除与 ACOT 相关的内容。\n\n§R不用说，其中许多选项都是合法的作弊。,小心你要做的事情，不要让你的朋友发现你作弊！§!"
+
+acot_mod_options.800.a: "清除外交锁旗"
+acot_mod_options.800.a.tooltip: "这将清除锁定外交的旗帜。,当您无法再联系 SOPHIA、Phanon 或其他基于 ACOT 的外交时使用。,为了避免破坏游戏，请避免故意使用它来生成多个外交窗口。"
+
+acot_mod_options.800.b: "收购台达科技"
+acot_mod_options.800.b.tooltip: "这将立即给几乎每个 ACOT 的 Delta Techs 带来帮助。,如果您已经拥有 Delta Tech，则此选项将替换为 Alpha。"
+acot_mod_options.800.b1: "收购阿尔法科技"
+acot_mod_options.800.b1.tooltip: "这将立即给几乎每个 ACOT 的 Alpha Techs 带来帮助。,如果您已经拥有 Delta Tech，则此选项将替换为 Sigma。"
+acot_mod_options.800.b2: "收购西格玛科技"
+acot_mod_options.800.b2.tooltip: "这将立即给几乎每个 ACOT 的 Sigma Techs 带来帮助。"
+
+acot_mod_options.800.d: "收购Phanon Tech"
+acot_mod_options.800.d.tooltip: "这将立即给几乎每个 ACOT 的 Phanon Techs 带来帮助。"
+
+acot_mod_options.800.c: "获取资源"
+acot_mod_options.800.c.tooltip: "这将为您提供大量原版和 ACOT 资源。,基本上是 acot_test_event.10 的非控制台版本。,显然是骗子。"
+

@@ -1,0 +1,35 @@
+﻿﻿# Into the Woods
+# By ViolentBeetle
+
+l_simp_chinese:
+
+ mem_into_the_woods_beacon: "检疫信标"
+ mem_into_the_woods_beacon_desc: "围绕地球运行的卫星发送一条简单而明确的信息：§S\“不要着陆。极度危险。”§！"
+
+ mem_into_the_woods_dig_site: "走进树林"
+ mem_into_the_woods_dig_site_desc: "几颗卫星仍在轨道上运行，向所有过往船只发出警告，警告不要在地球上着陆。\n\n可以看到毁坏的建筑物散布在地球的森林地区。,大自然非常努力地想要回收它们，但尚未完全成功。,那里没有发现任何先进的生命形式——无论是谁建造了这些城市，要么已经离开，要么已经灭绝。"
+ mem_into_the_woods.1.name: "克泽尔殖民地"
+ mem_into_the_woods.1.desc: "我们在 [From.Planet.GetName] 上的挖掘地点的第一批结果即将到来。 [From.Planet.GetPlanetMoon] 似乎被一种名为§SQzell§! 的爬行动物物种殖民。,大约 1000 年前，它们就活跃在这个太空区域。\n\n这个殖民地本身正处于发展的早期阶段，但突然被遗弃了。,没有任何形式的袭击或灾难的证据——就好像有一天，Qzell 殖民地无缘无故地崩溃了。"
+ mem_into_the_woods.2.name: "影响研究"
+ mem_into_the_woods.2.desc: "[Leader.GetName] 已找到完整的数据核心，并能够恢复 Qzell 早期在 [From.Planet.GetName] 上殖民活动的报告。\n\nQzell 科学家正在追踪建筑、土地清理对环境的影响,以及引进原产于其家乡的植物。,它们造成的影响似乎远远超出了最初的预测，“bloboids”和“lungbeetles”等几个物种已经面临灭绝的威胁。"
+ mem_into_the_woods.3.name: "医疗设施"
+ mem_into_the_woods.3.desc: "我们的 [From.Planet.GetName] 探险队已在各个殖民定居点找到了医疗设施。,看起来，克泽尔人的殖民者心理健康有很大问题。 ,[Leader.GetName] 报告了 Qzell 科学无法解释的特发性幻觉、妄想和神经衰弱的大量记录。,殖民者的身体似乎没有任何问题，但他们中有整整四分之一的人都受到某种程度的折磨，威胁着殖民地的运作。"
+ mem_into_the_woods.4.name: "疯狂"
+ mem_into_the_woods.4.desc: "在对 [From.Planet.GetName] 上的 Qzell 殖民地废墟进行广泛调查后，似乎大多数殖民者都死于集体精神病。,那些设法逃离这个星球的人，将其宣布为隔离区，但仍然不知道原因，留下疯狂的疯子，让他们挨饿或互相残杀。\n\n那些留下来的人忙于自残和同类相食，无法正确记录,任何东西，尽管有些人在墙上留下了半连贯的录音和涂鸦，指的是所谓的“老生长”！,并赞美其威严。,不幸的是，没有迹象表明古老的生长区可能是什么，尽管继续探索也许可以揭示一些线索。"
+ mem_into_the_woods.4.a: "我们需要找出它是什么。"
+ mem_into_the_woods.5.name: "老树丛"
+ mem_into_the_woods.5.desc: "[Leader.GetName] 报告成功弄清楚了神秘的§Sold Growth§！,让 [From.Planet.GetName] 上的 Qzell 殖民者疯狂的是——而且确实发现了它的遗迹。 ,[From.Planet.GetPlanetMoon] 曾经被一种类真菌超有机体侵扰，这种超有机体渗透到其大部分植被中，延伸到所有青翠的陆地上，并通过延伸到海底的卷须将它们连接起来。,自然神经网络拥有某种意识，并通过尚未完全理解的过程与其他生命形式共生地交换数据。,虽然它的基因构成表明它最初并不是在 [From.Planet.GetName] 上进化的，但它已经花了数百万年的时间与本地生命保持着共生关系。\n\n当 Qzell 殖民者到达时，他们不小心破坏了生态系统，导致了灭绝,一些最敏感的生物适应旧生长。,反过来，旧生长体将注意力转向新来者，试图将其积累的知识转移给他们，但由于某种原因，Qzell 并不像本地生命体那样容易接受。,亿万年蘑菇残破思想的干扰逐渐让它们变得疯狂，导致菌落崩溃。\n\n§老生长§!独特的生物神经网络！,如果不先将其转移到其他地方，它就没有能力忘记任何事情，并且没有合适的宿主来卸载其多余的思想和知识，它就会变得不知所措并生病。,它的卷须枯萎死亡，而幸存下来的是赤道附近相对较小（但与大多数行星生物相比仍然巨大）的生物量沉积物。 ,[Leader.GetName] 相信它可以被安全保存并恢复健康，以便可以操纵它与我们的人民安全地交换信息。,或者我们可以一劳永逸地消灭它。"
+ mem_into_the_woods.5.a: "它的知识可以为我们服务。"
+ mem_into_the_woods.5.b: "如此博大而古老的智慧不能消失！"
+ mem_into_the_woods.5.c: "新宠物！,很大！,如此柔软可爱！"
+ mem_into_the_woods.5.d: "它的存在太危险了。"
+ mem_into_the_woods.5.e: "决不能让它玷污我们的纯洁"
+ mem_into_the_woods.5.f: "我们将享受这难得的盛宴！"
+ mem_into_the_woods.5.g: "所有有思想的有机体都必须被摧毁。"
+  
+ d_mem_into_the_woods_ruins: "堕落殖民地"
+ d_mem_into_the_woods_ruins_desc: "一个古老殖民地的废弃遗迹散布在这个星球上。,在任何人都可以在那里安全工作之前，需要对它们进行探索。"
+ mem_into_the_woods_cant_clear_ruin: "完成挖掘地点以清除此障碍物"
+ d_mem_into_the_woods_old_growth: "老树丛"
+ d_mem_into_the_woods_old_growth_desc: "一种有着亿万年历史、有感知力的真菌生长。,或者说还剩下什么。,那些花时间靠近它的人充满了古老的知识。\n\n在这个星球上维持一个殖民地将使我们的一些§Sleaders§！,从§Y额外特征§开始！"
+ mem_into_the_woods_cant_clear_old_growth: "老生长是明智而古老的。,旧的生长物无法去除。"

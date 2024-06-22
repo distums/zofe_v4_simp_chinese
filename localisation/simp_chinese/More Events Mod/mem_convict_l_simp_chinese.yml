@@ -1,0 +1,66 @@
+﻿﻿# Convict
+# Code and Text by ViolentBeetle
+# Idea by Solarius Scorch
+
+l_simp_chinese:
+
+ mem_convict_ship_size: "$large_ship_fallen_empire$"
+ mem_convict_ship_size_plural: "$large_ship_fallen_empire_plural$"
+ 
+ mem_convict_ship_section_key: ""
+ 
+ shipsize_mem_convict_ship_size_construction_speed_mult: ""
+ shipsize_mem_convict_ship_size_build_cost_mult: ""
+ shipsize_mem_convict_ship_size_upkeep_mult: ""
+ 
+ MEM_CONVICT_STUDY_POD: "研究 Pod"
+ MEM_CONVICT_STUDY_POD_DESC: "在 [the_planet.GetName] 上发现的吊舱已被带到我们的首都星球进行研究。,随着时间的推移，我们应该能够理解铭文，甚至可能复活里面的外星人。"
+ 
+ mem_convict_category: "迫降"
+ mem_convict_category_desc: "我们可以清楚地看到地表有一条长长的峡谷，尽头似乎是一艘半埋在地下的船。,很久以前就有人坠毁在这个[This.GetPlanetMoon]上。"
+ 
+ mem_convict.1.name: "迫降"
+ mem_convict.1.desc: "[Root.GetName]已经能够确认[From.GetName]表面的峡谷确实是迫降造成的。,据估计，该事件发生在大约一千年前。 ,\n\n机组人员似乎在坠机事件中丧生，但[Leader.GetName]在船内发现了一个仍能正常工作的停滞舱。,该吊舱上覆盖着我们尚无法破译的外星铭文，但它可以安全地分离并在行星上进行研究。"
+ mem_convict.1.a: "将吊舱带到 [Owner.Capital_Scope.GetName] 进行研究。"
+ mem_convict.1.b: "不值得打扰。"
+ mem_convict.1.c: "关闭吊舱，杀死外星人。"
+ mem_convict.2.name: "监狱吊舱"
+ mem_convict.2.desc: "我们的研究人员已经成功翻译了从 [the_planet.GetName] 表面回收的停滞舱上的铭文。 ,\n\n它警告说，其中包含一名名叫 Retheri Rhin 的危险罪犯，他因各种罪行而被流放。,确切的指控没有具体说明，但从上下文来看，莱因似乎是一名涉嫌大规模阴谋的公务员。"
+ mem_convict.2.a: "准备释放囚犯。"
+ mem_convict.2.b: "最好不要打开。"
+ mem_convict.3.name: "雷瑟里·莱因"
+ mem_convict.3.desc: "外星人吊舱的囚犯现在醒了。,经过简短的审讯后，他提供了与吊舱上的铭文相矛盾的说法 - 他声称自己被仁丹联邦内部的真正阴谋者不公正地监禁，这些阴谋者试图为了个人利益而摧毁仁丹人民所珍视的一切。 ,\n\n现在他的文明已不复存在，他恳求没有理由履行他的判决。,他以管理员身份提供服务以换取赦免。"
+ mem_convict.3.a: "交易。"
+ mem_convict.3.a.tooltip: "我们获得了新的§Serudite§！,州长。"
+ mem_convict.3.a.auth: "通过为我们服务，您将获得救赎。"
+ mem_convict.3.a.ega: "每个人都应该有第二次机会。"
+ mem_convict.3.a.mat: "一个死去的国家的判决毫无意义。"
+ mem_convict.3.a.phile: "你可以告诉我们很多你失落的文化。"
+ mem_convict.3.b: "我们宁愿不冒险。"
+ mem_convict.3.b.tooltip: "莱因总督将被流放。"
+ mem_convict.3.b.auth: "你不可能这么轻易就得到赦免。"
+ mem_convict.3.b.ega: "我们必须遵守法律和秩序。"
+ mem_convict.4.name: "罪犯总督"
+ mem_convict.4.desc.corrupt: "我们收到报告称，我们从监狱吊舱中释放的州长 [retheri_rhin.GetName] 涉嫌多项犯罪，包括贪污、勒索、暗杀和恐怖主义。 ,\n\n尽管没有直接证据，但他涉嫌的可疑活动数量惊人。"
+ mem_convict.4.desc.honest: "我们从监狱吊舱中释放的州长 [retheri_rhin.GetName] 已经证明自己是一位公正正直的公民和称职的公务员。,如果对他的指控属实——认识他的人很难相信这一点——那么他正在抓住我们赋予他的救赎机会。"
+ mem_convict.4.a: "我们错误地相信了他。"
+ mem_convict.4.b: "我们信任他是对的。"
+ mem_convict.61.name: "侵入"
+ mem_convict.61.desc: "一艘身份不明的船只抵达[FROM.Solar_System.GetName]。,远程跟踪表明其路径源自 [origin_system.GetName] 系统。 ,\n\n它在向我们招呼。"
+ mem_convict.7.desc: "注意力！,这是全自动至尊仁丹正义舰冷兆在说话。 ,\n\n你窝藏了一个名叫 Retheri Rhin 的危险人物，他利用你的帮助来逃避正义。,不要让他。 ,\n\n把他交给我，正义将会得到伸张。,仁丹人虽然死了，但他们的正义却永存于我心中。"
+ mem_convict.7.a: "好吧，你可以拥有他。"
+ mem_convict.7.b: "决不。"
+ mem_convict.7.c: "如果我们拒绝怎么办？"
+ mem_convict.7.c.responce: "这会非常……痛苦。,我不会推荐它。"
+ mem_convict.7.d: "莱因已经不在我们身边了。"
+ mem_convict.7.d.response: "我内置的测谎仪表明这是真的。,那么祝你有美好的一天。 ,\n\n下次，请不要解冻你找到的每个人。"
+ mem_convict.7.e: "我们不知道你在说什么。"
+ mem_convict.7.e.response: "我内置的测谎仪表明这是真的。,那么祝你有美好的一天。"
+ mem_convict.8.desc: "好吧，希望你已经吸取了教训。,你们的星球 [This.GetName] 遭受的破坏是罪有应得。 ,\n\n我得走了。,我希望你能考虑一下你所做的事情。"
+ mem_convict.8.a: "走开！"
+ 
+ mem_convict.10.name: "死船"
+ mem_convict.10.desc: "[Root.GetName]已经能够确认[From.GetName]表面的峡谷确实是迫降造成的。,据估计，该事件发生在大约一千年前。,这艘船的一个不寻常的特征是货舱里有一个静止室，但它早已失效，乘客身上只剩下灰尘。\n\n[Leader.GetName] 能够深入了解这艘船不寻常的设计，,可能对我们自己的研究有用。"
+ 
+ bombardment_mem_armageddon: "$轰炸_世界末日$"
+ bombardment_mem_armageddon_desc: "$轰炸_armageddon_desc$"

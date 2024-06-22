@@ -1,0 +1,19 @@
+﻿l_simp_chinese:
+ 
+########################## TRAITS ##########################
+ 
+trait_acot_robot_scv: "高级服务协议"
+trait_acot_robot_scv_desc: "这台机器的建造是为了最大限度地服务帝国，特别强调最大的产量和生产力。,还附带了超过六百万种专门针对享乐主义有机物的侮辱形式。"
+ 
+trait_acot_robot_superman_engines: "无限引擎"
+trait_acot_robot_superman_engines_desc: "这台机器配备了强大的神秘算法，使它们更加智能。,当然，比任何肉包都聪明。"
+ 
+trait_acot_robot_heavy_duty: "经久耐用"
+trait_acot_robot_heavy_duty_desc: "该机器的设计非常注重耐用性和使用寿命。,这台机器不仅能够快速学习复杂的任务并占用最少的空间，而且还能够相对轻松地扼杀、压制和打碎对手的骨头。"
+ 
+ 
+leader_trait_acot_tuborek: "传奇海军上将"
+leader_trait_acot_tuborek_desc: "图博雷克是一位罕见的拥有非凡海军上将技能的人。,作为始祖战争的幸存者，身经百战的老兵，图博雷克的指挥能力首屈一指，他对战斗结果的预测能力让他能够在自己认为不利的战斗中脱离。"
+
+leader_trait_acot_immortality: "不朽之盾"
+leader_trait_acot_immortality_desc: "不朽之盾"

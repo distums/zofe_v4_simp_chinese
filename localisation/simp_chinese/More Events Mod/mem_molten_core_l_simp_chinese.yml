@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+ #Molten Core Anomaly
+ #Writing and idea by Foremole
+ #Code by LamilLerran
+ mem_molten_core_category:0 "火海"
+ mem_molten_core_category_desc:0 "与大多数熔融世界一样，§Y[Root.GetName]§!,被溪流和熔岩海覆盖。,然而，这颗行星有明显的不寻常之处，即使从轨道上也能看到。,与普通大陆世界一样，地球表面约 70% 被液体覆盖，尽管所有预测都表明熔岩应该很久以前就凝固了，因为 [Root.GetPlanetMoon] 的太阳无法提供足够的热量来保持其表面,在这种状态下。"
+ mem_molten_core.1.name:0 "裸露核心"
+ mem_molten_core.1.desc:0 "虽然熔融行星通常有许多出口点，以便岩浆从液态外核到达地表，但§Y[From.GetName]§!,似乎已经将其提升到了一个新的水平。,地球表面近 40% 的外核暴露在外，从而形成了广阔的海洋，引发了这项研究。,可以轻松发射探测器来探索地球中心，为行星地质学提供新的线索，否则在任何其他世界都需要进行昂贵的采矿工作。,这使得 §Y[From.GetName]§!,非常适合研究工作。"
+ mem_molten_core.1.a:0 "很高兴听到。"
+ mem_molten_core.99.name:0 "凝固的海洋"
+ mem_molten_core.99.desc:0 "来自 §Y[This.GetLeaderName]§! 的报告,在 §Y[From.From.GetName]§! 的熔岩海上,表明他们的存在只不过是侥幸。,地表已经开始冷却，预计几年内 [From.From.GetPlanetMoon] 的熔岩与陆地的比例将达到熔融世界的典型水平。"
+ mem_molten_core.99.a:0 "很好。"

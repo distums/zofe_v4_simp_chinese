@@ -1,0 +1,1279 @@
+﻿l_simp_chinese:
+ 
+PHANON: "法农军团"
+ 
+sm_acot_sb_phanon_assembly: "声子逻辑算法解密"
+sm_acot_sb_phanon_assembly_desc: "超级计算机旨在模仿 Phanon Corp 的 Starbase 信号和逻辑，以支持建造该公司强大的飞船。,由于公司识别码的不断变化，系统需要大量的能量，以及大量的暗物质和暗能量来跟上任务。"
+acot_sb_phanon_assembly_tooltip: "§Y允许建造 Phanon 飞船。§!"
+
+tech_enable_phanon_design: "声子逻辑解密"
+tech_enable_phanon_design_desc: "默认情况下，只有 Phanon 主轨道站上的主控制终端包含建造和设计 Phanon 战舰所需的安全通行证，但通过一些碎片整理和信号修改，也可能使其他星际基地也能够建造 Phanon 战舰，,它甚至可能会在以后带来一些新的有趣的数据。"
+TECH_UNLOCK_PHANON_BUILD_TITLE: "声子逻辑解密"
+TECH_UNLOCK_PHANON_BUILD_DESC: "解锁特殊的星际基地建筑，可以建造法农飞船。"
+
+tech_precursor_phanon_design: "符文先驱适应"
+tech_precursor_phanon_design_desc: "让我们尝试一种新方法。"
+TECH_UNLOCK_PHANON_PRECURSOR_TITLE: "符文先驱适应"
+TECH_UNLOCK_PHANON_PRECURSOR_DESC: "解锁先行者飞船的符文设计。"
+
+damage_vs_country_type_acot_phanon_base_mult: "对法农军团的伤害"
+damage_vs_country_type_acot_phanon_retaliator_mult: "对法农军团报复舰队的伤害"
+mod_damage_vs_country_type_acot_phanon_base_mult: "对法农军团的伤害"
+mod_damage_vs_country_type_acot_phanon_retaliator_mult: "对法农军团报复舰队的伤害"
+
+acot_phanon_invader_dead_operative_debuff: "德德特工"
+acot_phanon_invader_dead_operative_debuff_desc: "应该避开触手路线。"
+
+personality_acot_phanon_base_personality: "银河准军事连"
+personality_acot_phanon_base_personality_desc: "由神秘的乌里穆里奇领导的强大中立派系。"
+
+pc_acot_pmc_vault: "法农指挥库"
+pc_acot_pmc_vault_adj: "法农指挥库"
+pc_acot_pmc_vault_desc: "指挥库似乎是银河系中每个法农行动基地的核心。,虽然与帝国的其他奇迹相比，从外面看很不起眼，但谁知道这个令人费解的金库里隐藏着什么样的秘密。,神秘而强大的护盾使其几乎无法抵御轨道轰炸。"
+ 
+pc_acot_pmc_vault_unshielded: "非屏蔽 Phanon Command Vault"
+pc_acot_pmc_vault_unshielded_adj: "非屏蔽 Phanon Command Vault"
+pc_acot_pmc_vault_unshielded_desc: "指挥库似乎是银河系中每个法农行动基地的核心。,既然护盾已经拆除，巨型建筑很容易受到轰炸，那么里面隐藏着什么秘密就不再是一个问题了。,注定失败的避难所日子已经过去了。"
+ 
+pc_acot_pmc_data_planet: "声子数据单元"
+pc_acot_pmc_data_planet_adj: "声子数据单元"
+pc_acot_pmc_data_planet_desc: "数字化的星球，存储着海量的各种学科的数据和信息。"
+ 
+pc_acot_pmc_storage_planet: "声子存储单元"
+pc_acot_pmc_storage_planet_adj: "声子存储单元"
+pc_acot_pmc_storage_planet_desc: "完全机械化的星球，被用作法农未来计划的大量资源储备。"
+ 
+mod_pc_acot_pmc_vault_habitability: "声子宜居性"
+trait_pc_acot_pmc_vault_preference: "我喜欢这一个"
+trait_pc_acot_pmc_vault_preference_desc: "当然啦，朋友！"
+#### SHIP NAMES ####
+ 
+acot_star_bender: "弯星者"
+acot_star_bender_plural: "星弯者"
+
+acot_star_bender_builder: "B型星形弯曲机"
+acot_star_bender_builder_plural: “B型星弯曲者”
+
+ACOT_STARBENDER_CARGO: "穆尼穆尼"
+ACOT_STARBENDER_BOW: "纳尼？"
+ACOT_STARBENDER_STERN: "哑光乔托"
+ 
+acot_starfighter_hero: "星际侵略者"
+acot_starfighter_hero_plural: "星际侵略者"
+
+ACOT_PHANON_STARFIGHTERS_HERO_SECTION: "一号阵"
+
+acot_star_fighters: "追星中队"
+acot_star_fighters_plural: "追星者中队"
+
+tech_phanon_fighter: "军团 ISC 访问代码"
+tech_phanon_fighter_desc: “法农攻击机中队配备了独立的超光速飞行器。他们似乎正在使用神经网络进行驾驶。军团使用它们来代替较小的纠察舰。”
+
+ACOT_PHANON_STARFIGHTERS_TEAM_1: "一号阵"
+ACOT_PHANON_STARFIGHTERS_TEAM_2: "二号阵型"
+ACOT_PHANON_STARFIGHTERS_TEAM_3: "三号阵型"
+ 
+####################
+ 
+acot_star_destroyer: "歼星舰"
+acot_star_destroyer_plural: 《歼星舰》
+
+ACOT_DESTROYER_SPINAL: "声能炊具"
+ACOT_DESTROYER_BOW: "声能炊具"
+ACOT_DESTROYER_MID_1: "声能炊具"
+ACOT_DESTROYER_MID_2: "声能炊具"
+ACOT_DESTROYER_CORE: "声能炊具"
+ACOT_DESTROYER_STERN_DOWN: "声能炊具"
+ACOT_DESTROYER_STERN: "声能炊具"
+ACOT_DESTROYER_LEFT_WING: "声能炊具"
+ACOT_DESTROYER_RIGHT_WING: "声能炊具"
+
+tech_phanon_cruiser: "军团护航舰访问代码"
+tech_phanon_cruiser_desc: "歼星舰似乎是海军陆战队舰队中最小的战列舰。,他们配备较小的武器，预计会与小型船只交战并协助执行纠察任务。,不过，它们的装备仍然相对精良，足以对抗更大的船只。"
+
+####################
+ 
+acot_star_devastator: "星辰毁灭者"
+acot_star_devastator_plural: "星辰毁灭者"
+ 
+ACOT_Phanon_BOW: "声能炊具"
+ACOT_Phanon_BOW_2: "声能炊具"
+ACOT_Phanon_MID: "声能炊具"
+ACOT_Phanon_MID_2: "声能炊具"
+ACOT_Phanon_CORE: "声能炊具"
+ACOT_Phanon_CORE_2: "声能炊具"
+ACOT_Phanon_HUB: "声能炊具"
+ACOT_Phanon_STERN: "声能炊具"
+ACOT_Phanon_STERN_2: "声能炊具"
+ 
+tech_phanon_bb: "军团主线船舶访问代码"
+tech_phanon_bb_desc: "星际毁灭者是军团使用的主线舰船。,他们的进攻和防守都装备精良。,毁灭者号是军团最大的非主力舰。"
+
+####################
+ 
+acot_star_decimator: "恒星毁灭者"
+acot_star_decimator_plural: "恒星毁灭者"
+ 
+ACOT_Phanon_BOW: "声能炊具"
+ACOT_Phanon_HANGAR: "声能炊具"
+ 
+####################
+ 
+acot_star_dominator: "星主宰者"
+acot_star_dominator_plural: "明星统治者"
+ 
+ACOT_DOMINATOR_SPINAL_1: "声能炊具"
+ACOT_DOMINATOR_SPINAL_2: "声能炊具"
+ACOT_DOMINATOR_HAMMER_1: "声能炊具"
+ACOT_DOMINATOR_HAMMER_2: "声能炊具"
+ACOT_DOMINATOR_TUBE_A1: "声能炊具"
+ACOT_DOMINATOR_TUBE_A2: "声能炊具"
+ACOT_DOMINATOR_TUBE_B1: "声能炊具"
+ACOT_DOMINATOR_TUBE_B2: "声能炊具"
+ACOT_DOMINATOR_TUBE_C1: "声能炊具"
+ACOT_DOMINATOR_TUBE_C2: "声能炊具"
+ACOT_DOMINATOR_TUBE_D1: "声能炊具"
+ACOT_DOMINATOR_TUBE_D2: "声能炊具"
+ACOT_DOMINATOR_LEFT: "声能炊具"
+ACOT_DOMINATOR_RIGHT: "声能炊具"
+ACOT_DOMINATOR_STERN_1: "声能炊具"
+ACOT_DOMINATOR_STERN_2: "声能炊具"
+ 
+tech_phanon_titan: "军团主力舰访问代码"
+tech_phanon_titan_desc: "星际支配者号和毁灭者号都被归类为主力舰。,前者用于直接攻击，而前者则充当炮舰。,他们经常被军团用来领导较小的战斗群。"
+
+####################
+ 
+acot_megadreadnought: "星主宰II"
+acot_megadreadnought_plural: "Star Dominator II 并不是简单地添加复数"
+ 
+ACOT_MEGANOUGHT_SPINAL_1: "声能炊具"
+ACOT_MEGANOUGHT_HAMMER_1: "声能炊具"
+ACOT_MEGANOUGHT_HAMMER_2: "声能炊具"
+ACOT_MEGANOUGHT_TUBE_A1: "声能炊具"
+ACOT_MEGANOUGHT_TUBE_A2: "声能炊具"
+ACOT_MEGANOUGHT_TUBE_B1: "声能炊具"
+ACOT_MEGANOUGHT_TUBE_B2: "声能炊具"
+ACOT_MEGANOUGHT_TUBE_C1: "声能炊具"
+ACOT_MEGANOUGHT_TUBE_C2: "声能炊具"
+ACOT_MEGANOUGHT_TUBE_D1: "声能炊具"
+ACOT_MEGANOUGHT_TUBE_D2: "声能炊具"
+ACOT_MEGANOUGHT_LEFT: "声能炊具"
+ACOT_MEGANOUGHT_RIGHT: "声能炊具"
+ACOT_MEGANOUGHT_STERN_1: "声能炊具"
+ACOT_MEGANOUGHT_STERN_2: "声能炊具"
+ACOT_MEGANOUGHT_BOTTOM: "声能炊具"
+ 
+####################
+ 
+acot_star_annihilator: "星灭者"
+acot_star_annihilator_plural: "星辰歼灭者"
+ 
+ACOT_ANNIHILATOR_SPINAL: "声能炊具"
+ACOT_ANNIHILATOR_HAMMER: "声能炊具"
+ACOT_ANNIHILATOR_WING: "声能炊具"
+ACOT_ANNIHILATOR_MID: "声能炊具"
+ACOT_ANNIHILATOR_HUB: "声能炊具"
+ACOT_ANNIHILATOR_STERN: "声能炊具"
+ACOT_ANNIHILATOR_NOUGHT: "声能炊具"
+ 
+tech_phanon_mothership: "军团旗舰访问代码"
+tech_phanon_mothership_desc: "最初只有歼灭者号算作军团的旗舰。 ,Dominator II 最近才被升级为希望花费更少预算的特工的更经济的替代品。,这两艘船都是特工获准部署在 2 级星系中的最大传统军舰。"
+
+####################
+ 
+acot_star_overwatcher: "星霸王"
+acot_star_overwatcher_plural: "星际霸主"
+ 
+ACOT_OVERWATCH_HUB: "声能炊具"
+ACOT_OVERWATCH_MID: "声能炊具"
+ACOT_OVERWATCH_HAMMER: "声能炊具"
+ 
+acot_star_overseer: "明星守望先锋"
+acot_star_overseer_plural: "明星守望先锋"
+ 
+ACOT_OVERSEER_HUB: "声能炊具"
+ACOT_OVERSEER_MID: "声能炊具"
+ACOT_OVERSEER_EXTENSION: "声能炊具"
+ 
+acot_star_commander: "法农轨道指挥部"
+acot_star_commander_plural: "法农轨道指挥部"
+ 
+ACOT_COMMANDER_HUB: "声能炊具"
+ 
+acot_star_commander_portal: "Phanon 轨道网关"
+acot_star_commander_portal_plural: "Phanon 轨道网关"
+
+acot_pmc_small_portal: "法农小虫洞"
+acot_pmc_small_portal_plural: "法农小虫洞"
+
+acot_pmc_large_portal: "法能大虫洞"
+acot_pmc_large_portal_plural: "声子大虫洞"
+
+tech_phanon_plat_m: "轻轨道防御访问代码"
+tech_phanon_plat_m_desc: "军团使用的中型防御站，主要用于通用防御。"
+
+tech_phanon_plat_l: "重型轨道防御访问代码"
+tech_phanon_plat_l_desc: "重型堡垒建造成本昂贵，但可以自行抵御大多数入侵者。"
+
+####################
+ 
+#### PHI TIER TECH #####
+ 
+### ENERGY - The Corps essentially channel Runic Power directly as an energy attack. To the unlearned plebs, they only links it to Psionics, hence the confusion.
+
+SMALL_ACOT_LASER_PE: "小型 Phi 激光炮"
+MEDIUM_ACOT_LASER_PE: "中Φ激光炮"
+LARGE_ACOT_LASER_PE: "大型Φ激光炮"
+ACOT_LASER_PE: "Φ 激光炮"
+ACOT_LASER_PE_DESC: “使用我们所知道的阿尔法激光与军团技术逆向工程的一些新模板更新了激光炮。” ,###灭霸
+tech_laser_pe: "Φ 激光炮"
+tech_laser_pe_desc: "使用我们所知道的阿尔法激光与军团技术逆向工程的一些新模板更新了激光炮。"
+
+SMALL_ACOT_LASER_RE: "小型符文激光炮"
+MEDIUM_ACOT_LASER_RE: "中型符文激光炮"
+LARGE_ACOT_LASER_RE: "大型符文激光炮"
+ACOT_LASER_RE: "符文激光炮"
+ACOT_LASER_RE_DESC: “模仿军团使用的激光炮。添加了更多的合金，以弥补原始电源的不足，以保持完整性。” ,###灭霸
+tech_laser_re: "符文激光炮"
+tech_laser_re_desc: "军团使用的激光炮的模仿品。,添加了大量的合金来弥补原始电源的不足，以保持完整性。"
+############
+SMALL_ACOT_PLASMA_PE: "小型 Phi 等离子炮"
+MEDIUM_ACOT_PLASMA_PE: "中 Phi 等离子炮"
+LARGE_ACOT_PLASMA_PE: "大型 Phi 等离子炮"
+ACOT_PLASMA_PE: "Phi 等离子炮"
+ACOT_PLASMA_PE_DESC: "我们尚未确定使用什么物质或催化剂来制造军团的等离子武器。,但至少我们可以利用他们对炮塔设计本身的卓越工程设计。"
+tech_plasma_pe: "Phi 等离子炮"
+tech_plasma_pe_desc: "我们尚未确定使用什么物质或催化剂来制造军团的等离子武器。,但至少我们可以利用他们对炮塔设计本身的卓越工程设计。"
+
+SMALL_ACOT_PLASMA_RE: "小型符文等离子炮"
+MEDIUM_ACOT_PLASMA_RE: "中型符文等离子炮"
+LARGE_ACOT_PLASMA_RE: "大型符文等离子炮"
+ACOT_PLASMA_RE: "符文等离子炮"
+ACOT_PLASMA_RE_DESC: "基于军团示意图的等离子加农炮的最终版本。,尽管显示出灵能的迹象，但武器本身却没有。"
+tech_plasma_re: "符文等离子炮"
+tech_plasma_re_desc: "基于军团示意图的等离子加农炮的最终版本。,尽管显示出灵能的迹象，但武器本身却没有。"
+############
+SMALL_ACOT_DISRUPTOR_PE: "小 Phi 干扰射线"
+MEDIUM_ACOT_DISRUPTOR_PE: “中等 Phi 干扰射线”
+LARGE_ACOT_DISRUPTOR_PE: “大 Phi 干扰射线”
+ACOT_DISRUPTOR_PE: "Phi 干扰射线"
+ACOT_DISRUPTOR_PE_DESC: "这些武器似乎与我们使用的武器有一些相似之处，都是基于维度和神秘的技术。,但很明显，海军陆战队对武器和材料设计的理解超过了我们。"
+tech_disruptor_pe: "Phi 荒凉射线"
+tech_disruptor_pe_desc: "这些武器似乎与我们使用的武器有一些相似之处，都是基于维度和神秘的技术。,但很明显，海军陆战队对武器和材料设计的理解超过了我们。"
+
+SMALL_ACOT_DISRUPTOR_RE: "小型符文毁灭射线"
+MEDIUM_ACOT_DISRUPTOR_RE: “中型符文毁灭射线”
+LARGE_ACOT_DISRUPTOR_RE: “大型符文毁灭射线”
+ACOT_DISRUPTOR_RE: "荒凉射线"
+ACOT_DISRUPTOR_RE_DESC: "完全实现的毁灭射线可以发挥武器的全部威力，而不会危及武器系统本身。"
+tech_disruptor_re: "符文毁灭射线"
+tech_disruptor_re_desc: "完全实现的毁灭射线可以发挥武器的全部威力，而不会危及武器系统本身。"
+############
+ACOT_ENERGY_CANNON_PE: "Phi能量炮"
+ACOT_ENERGY_CANNON_PE_DESC: "具有类似概念的 Phi 激光炮的升级版。"
+tech_energy_cannon_pe: "Phi能量炮"
+tech_energy_cannon_pe_desc: "具有类似概念的 Phi 激光炮的升级版。"
+
+ACOT_ENERGY_CANNON_RE: "符文能量炮"
+ACOT_ENERGY_CANNON_RE_DESC: "尽管所需合金的增加是不可避免的，但结果不言而喻。,这些激光火炮可以奇迹般地摧毁敌人的装甲和船体。"
+tech_energy_cannon_re: "符文能量炮"
+tech_energy_cannon_re_desc: "尽管所需合金的增加是不可避免的，但结果不言而喻。,这些激光火炮可以奇迹般地摧毁敌人的装甲和船体。"
+############
+ACOT_ENERGY_TORPEDO_PE: "Phi 等离子鱼雷炮"
+ACOT_ENERGY_TORPEDO_MEDIUM_PE: "Phi 等离子鱼雷炮"
+ACOT_ENERGY_TORPEDO_PE_DESC: "我们不知道用于触发这些能量鱼雷爆炸的物质，但我们可以从海军陆战队如何设计其发射和遏制机制中学到很多东西。"
+tech_energy_torpedo_pe: "Phi 能量鱼雷"
+tech_energy_torpedo_pe_desc: "我们不知道用于触发这些能量鱼雷爆炸的物质，但我们可以从海军陆战队如何设计其发射和遏制机制中学到很多东西。"
+
+ACOT_ENERGY_TORPEDO_RE: "符文能量鱼雷"
+ACOT_ENERGY_TORPEDO_MEDIUM_RE: "符文能量鱼雷"
+ACOT_ENERGY_TORPEDO_RE_DESC: "这些能量鱼雷似乎蕴含着某种灵能，但却充满了恶意和痛苦。,如此之多以至于它似乎拒绝了自己的灵能属性。,或者也许公司的技术将其转变为另一种类型？"
+tech_energy_torpedo_re: "符文能量鱼雷"
+tech_energy_torpedo_re_desc: "这些能量鱼雷似乎蕴含着某种灵能，但却充满了恶意和痛苦。,如此之多以至于它似乎拒绝了自己的灵能属性。,或者也许公司的技术将其转变为另一种类型？"
+############
+ACOT_POINT_DEFENSE_PE: "菲PDS"
+SMALL_ACOT_POINT_DEFENSE_PE: "菲PDS"
+MEDIUM_ACOT_POINT_DEFENSE_PE: "菲PDS"
+ACOT_POINT_DEFENSE_PE_DESC: "这些点防御似乎依赖于某种预知系统以及时间操纵的迹象来提高其性能，但我们尚未完全理解。"
+tech_point_defense_pe: "菲PDS"
+tech_point_defense_pe_desc: "这些点防御似乎依赖于某种预知系统以及时间操纵的迹象来提高其性能，但我们尚未完全理解。"
+
+ACOT_POINT_DEFENSE_RE: "符文PDS"
+SMALL_ACOT_POINT_DEFENSE_RE: "符文PDS"
+MEDIUM_ACOT_POINT_DEFENSE_RE: "符文PDS"
+ACOT_POINT_DEFENSE_RE_DESC: "现在看来更清楚的是，这些武器就像许多其他符文能量武器一样，依靠一种奇怪的灵能不仅造成伤害，而且还帮助跟踪和消除敌人的防御。"
+tech_point_defense_re: "符文PDS"
+tech_point_defense_re_desc: "现在看来更清楚的是，这些武器就像许多其他符文能量武器一样，依靠一种奇怪的灵能不仅造成伤害，而且还帮助跟踪和消除敌人的防御。"
+############
+
+### Kinetic - The actual projectiles used here are ancient runic tomestones filled with lingering presences of Phanon Imperium's souls, that of the First Men. This knowledge was given to the Corps by Urimurich. The engravings is the most important part as only the correct mark would resonate and link with the signatures of these dead souls, hence why it has to be specific.
+
+SMALL_ACOT_MASS_DRIVER_PE: "皮岛冲击炮"
+MEDIUM_ACOT_MASS_DRIVER_PE: "皮岛冲击炮"
+LARGE_ACOT_MASS_DRIVER_PE: "皮岛冲击炮"
+ACOT_MASS_DRIVER_PE: "皮冲击炮。"
+ACOT_MASS_DRIVER_PE_DESC: "令人震惊的是，用于发射这些动能弹丸的技术似乎并不比我们在阿尔法所拥有的技术先进多少。,它们的强大之处似乎来自于材料本身。"
+tech_mass_driver_pe: "皮岛冲击炮"
+tech_mass_driver_pe_desc: "令人震惊的是，用于发射这些动能弹丸的技术似乎并不比我们在阿尔法所拥有的技术先进多少。,它们的强大之处似乎来自于材料本身。"
+
+SMALL_ACOT_MASS_DRIVER_RE: "符文冲击炮"
+MEDIUM_ACOT_MASS_DRIVER_RE: "符文冲击炮"
+LARGE_ACOT_MASS_DRIVER_RE: "符文冲击炮"
+ACOT_MASS_DRIVER_RE: "符文冲击炮"
+ACOT_MASS_DRIVER_RE_DESC: "我们之前的假设有些不正确。,这项技术很简单，但它似乎有一个隐藏的功能，可以直接与它发射的射弹类型一起工作。,无论这些奇怪的致命固体材料是什么，当它们被这些炮塔发射时，它们似乎都会一起“唱歌”。,这种组合创造了一种比最初预期更致命、威力更大的武器。"
+tech_mass_driver_re: "符文冲击炮"
+tech_mass_driver_re_desc: "我们之前的假设有些不正确。,这项技术很简单，但它似乎有一个隐藏的功能，可以直接与它发射的射弹类型一起工作。,无论这些奇怪的致命固体材料是什么，当它们被这些炮塔发射时，它们似乎都会一起“唱歌”。,这种组合创造了一种比最初预期更致命、威力更大的武器。"
+############
+ACOT_AUTOCANNON_PE: "小型 Phi 自动炮"
+MEDIUM_ACOT_AUTOCANNON_PE: "中型自动炮"
+LARGE_ACOT_AUTOCANNON_PE: "大型 Phi 自动炮"
+ACOT_AUTOCANNON_PE_DESC: "冲击炮使用的相同材料也出现在这些武器上。,枪很简单，但这些射弹给人一种怪异的感觉。"
+tech_autocannon_pe: "皮自动炮"
+tech_autocannon_pe_desc: “这些武器上也出现了冲击炮所使用的相同材料。枪很简单，但这些射弹的某些东西给人一种怪异的感觉。”
+
+ACOT_AUTOCANNON_RE: "小型符文自动炮"
+MEDIUM_ACOT_AUTOCANNON_RE: "中型符文自动炮"
+LARGE_ACOT_AUTOCANNON_RE: "大型符文自动炮"
+ACOT_AUTOCANNON_RE_DESC: "专家们似乎得出的结论是，这些材料与灵能有关，而怪异的感觉来自于挥之不去的灵能存在。,也许这就是为什么军团很少使用真人来操作他们的武器？"
+tech_autocannon_re: "符文自动炮"
+tech_autocannon_re_desc: "专家们似乎得出的结论是，这些材料与灵能有关，而怪异的感觉来自于挥之不去的灵能存在。,也许这就是为什么军团很少使用真人来操作他们的武器？"
+############
+ACOT_MACROCANNON_PE: "披巨炮"
+ACOT_MACROCANNON_PE_MEDIUM: "披巨炮"
+ACOT_MACROCANNON_PE_DESC: "和自动炮一样，这里也使用了奇怪的材料。,但它更加混乱，这或许可以解释其火力优越的原因。"
+tech_macrocannon_pe: "披巨炮"
+tech_macrocannon_pe_desc: "和自动炮一样，这里也使用了奇怪的材料。,但它更加混乱，这或许可以解释其火力优越的原因。"
+
+ACOT_MACROCANNON_RE: "符文巨炮"
+ACOT_MACROCANNON_RE_MEDIUM: "符文巨炮"
+ACOT_MACROCANNON_RE_DESC: "符文巨炮"
+tech_macrocannon_re: "符文巨炮"
+tech_macrocannon_re_desc: "我们研究得越多，我们的问题就越多。,这些武器系统似乎并不比我们拥有的先进，这就是为什么我们可以复制它们。,然而，只有进行这种精确的规格和分配，武器才能提供预期的火力。,不多也不少……"
+############
+ACOT_ARTILLERY_PE: "Phi动能火炮"
+ACOT_ARTILLERY_PE_DESC: "我们知道这种武器与灵能有关，但它也显示出不属于灵能的特性。,但这并不能阻止军方使用它们。"
+tech_kinetic_artillery_pe: "皮炮兵"
+tech_kinetic_artillery_pe_desc: "我们知道这种武器与灵能有关，但它也显示出不属于灵能的特性。,但这并不能阻止军方使用它们。"
+
+ACOT_ARTILLERY_RE: "符文火炮"
+ACOT_ARTILLERY_RE_DESC: "武器的威力是不可否认的。,即使当用于对抗适当凝固的生命金属时，公司射弹中使用的材料似乎也能够吞没并吞噬该物质。,这不再只是普通的动能武器。"
+tech_kinetic_artillery_re: "符文火炮"
+tech_kinetic_artillery_re_desc: "武器的威力是不可否认的。,即使当用于对抗适当凝固的生命金属时，公司射弹中使用的材料似乎也能够吞没并吞噬该物质。,这不再只是普通的动能武器。"
+############
+ACOT_FLAK_CANNON_PE: "披KDS"
+SMALL_ACOT_FLAK_CANNON_PE: "披KDS"
+MEDIUM_ACOT_FLAK_CANNON_PE: "中等 Phi KDS"
+ACOT_FLAK_CANNON_PE_DESC: "就与军团相关的其他事情而言，我们对它们的运作方式知之甚少。,我们能做的最好的事情就是利用我们所理解的内容并改进我们的设计。"
+tech_flak_batteries_pe: "披KDS"
+tech_flak_batteries_pe_desc: "就与军团相关的其他事情而言，我们对它们的运作方式知之甚少。,我们能做的最好的事情就是利用我们所理解的内容并改进我们的设计。"
+
+ACOT_FLAK_CANNON_RE: "符文 KDS"
+SMALL_ACOT_FLAK_CANNON_RE: "符文 KDS"
+MEDIUM_ACOT_FLAK_CANNON_RE: "中型符文 KDS"
+ACOT_FLAK_CANNON_RE_DESC: "我们可以花费数百年甚至数千年的时间来弄清楚军团如何在使用看似如此简单的技术的情况下设法创建这些强大的系统。"
+tech_flak_batteries_re: "符文 KDS"
+tech_flak_batteries_re_desc: "我们可以花费数百年甚至数千年的时间来弄清楚军团如何在使用看似如此简单的技术的情况下设法创建这些强大的系统。"
+############
+
+### Kinetic - Phanon Missiles are just generally speaking, psionic guided. And they make use of a combination of mixtures that are more powerful than what can be found on pleb galaxies.
+
+ACOT_MISSILE_PE: "菲导弹"
+MEDIUM_ACOT_MISSILE_PE: "菲导弹"
+ACOT_MISSILE_PE_DESC: "我们早期尝试模仿法农的导弹。,它们比我们在阿尔法中更快、更强。,我们无法复制军团使用的混合物，因此我们用现有的东西进行补偿。"
+tech_missile_pe: "菲导弹"
+tech_missile_pe_desc: "我们早期尝试模仿法农的导弹。,它们比我们在阿尔法中更快、更强。,我们无法复制军团使用的混合物，因此我们用现有的东西进行补偿。"
+
+ACOT_MISSILE_RE: "符文导弹"
+MEDIUM_ACOT_MISSILE_RE: "符文导弹"
+ACOT_MISSILE_RE_DESC: "看来这些导弹是由某种灵能系统引导的，这种系统不需要用户具备灵能知识。,了解这一事实使我们能够做出进一步的调整，使爆炸性混合物本身更加有效。"
+tech_missile_re: "符文导弹"
+tech_missile_re_desc: "看来这些导弹是由某种灵能系统引导的，这种系统不需要用户具备灵能知识。,了解这一事实使我们能够做出进一步的调整，使爆炸性混合物本身更加有效。"
+############
+ACOT_TORPEDO_PE: "皮鱼雷"
+ACOT_TORPEDO_MEDIUM_PE: "皮鱼雷"
+ACOT_TORPEDO_PE_DESC: "我们早期尝试模仿法农的导弹。,它们比我们在阿尔法中更快、更强。,我们无法复制军团使用的混合物，因此我们用现有的东西进行补偿。"
+tech_torpedo_pe: "皮鱼雷"
+tech_torpedo_pe_desc: "我们早期尝试模仿法农的导弹。,它们比我们在阿尔法中更快、更强。,我们无法复制军团使用的混合物，因此我们用现有的东西进行补偿。"
+
+ACOT_TORPEDO_RE: "符文鱼雷"
+ACOT_TORPEDO_MEDIUM_RE: "符文鱼雷"
+ACOT_TORPEDO_RE_DESC: "看来这些导弹是由某种灵能系统引导的，这种系统不需要用户具备灵能知识。,了解这一事实使我们能够做出进一步的调整，使爆炸性混合物本身更加有效。"
+tech_torpedo_re: "符文鱼雷"
+tech_torpedo_re_desc: "看来这些导弹是由某种灵能系统引导的，这种系统不需要用户具备灵能知识。,了解这一事实使我们能够做出进一步的调整，使爆炸性混合物本身更加有效。"
+############
+ACOT_MISSILE_BARRAGE_PE: "Phi 拦河坝系统"
+ACOT_MISSILE_BARRAGE_PE_DESC: "我们早期尝试模仿法农的导弹。,它们比我们在阿尔法中更快、更强。,我们无法复制军团使用的混合物，因此我们用现有的东西进行补偿。"
+tech_barrage_missile_pe: "Phi 拦河坝系统"
+tech_barrage_missile_pe_desc: "我们早期尝试模仿法农的导弹。,它们比我们在阿尔法中更快、更强。,我们无法复制军团使用的混合物，因此我们用现有的东西进行补偿。"
+
+ACOT_MISSILE_BARRAGE_RE: "符文弹幕系统"
+ACOT_MISSILE_BARRAGE_RE_DESC: "看来这些导弹是由某种灵能系统引导的，这种系统不需要用户具备灵能知识。,了解这一事实使我们能够做出进一步的调整，使爆炸性混合物本身更加有效。"
+tech_barrage_missile_re: "符文弹幕系统"
+tech_barrage_missile_re_desc: "看来这些导弹是由某种灵能系统引导的，这种系统不需要用户具备灵能知识。,了解这一事实使我们能够做出进一步的调整，使爆炸性混合物本身更加有效。"
+############
+ACOT_MISSILE_XL_PE: "Phi 导弹枪"
+ACOT_MISSILE_XL_PE_DESC: "我们早期尝试模仿法农的导弹。,它们比我们在阿尔法中更快、更强。,我们无法复制军团使用的混合物，因此我们用现有的东西进行补偿。"
+tech_xl_missile_pe: "Phi 导弹枪"
+tech_xl_missile_pe_desc: "我们早期尝试模仿法农的导弹。,它们比我们在阿尔法中更快、更强。,我们无法复制军团使用的混合物，因此我们用现有的东西进行补偿。"
+
+ACOT_MISSILE_XL_RE: "符文导弹枪"
+ACOT_MISSILE_XL_RE_DESC: "看来这些导弹是由某种灵能系统引导的，这种系统不需要用户具备灵能知识。,了解这一事实使我们能够做出进一步的调整，使爆炸性混合物本身更加有效。"
+tech_xl_missile_re: "符文导弹枪"
+tech_xl_missile_re_desc: "看来这些导弹是由某种灵能系统引导的，这种系统不需要用户具备灵能知识。,了解这一事实使我们能够做出进一步的调整，使爆炸性混合物本身更加有效。"
+############
+ACOT_MISSILE_NUKE_PE: "Phi 千兆弹头发射器"
+ACOT_MISSILE_NUKE_PE_DESC: "我们早期尝试模仿法农的导弹。,它们比我们在阿尔法中更快、更强。,我们无法复制军团使用的混合物，因此我们用现有的东西进行补偿。"
+tech_missile_nuke_pe: "Phi 千兆弹头发射器"
+tech_missile_nuke_pe_desc: "我们早期尝试模仿法农的导弹。,它们比我们在阿尔法中更快、更强。,我们无法复制军团使用的混合物，因此我们用现有的东西进行补偿。"
+
+ACOT_MISSILE_NUKE_RE: "符文千兆弹头发射器"
+ACOT_MISSILE_NUKE_RE_DESC: "看来这些导弹是由某种灵能系统引导的，这种系统不需要用户具备灵能知识。,了解这一事实使我们能够做出进一步的调整，使爆炸性混合物本身更加有效。"
+tech_missile_nuke_re: "符文千兆弹头发射器"
+tech_missile_nuke_re_desc: "看来这些导弹是由某种灵能系统引导的，这种系统不需要用户具备灵能知识。,了解这一事实使我们能够做出进一步的调整，使爆炸性混合物本身更加有效。"
+############
+
+### Strikecrafts - Corps Strikecrafts is controlled by a Dutymen brain in addition to improved weaponry and usual VR interface.
+
+ACOT_FIGHTERS_HANGAR_PE: "披斗士"
+ACOT_FIGHTERS_HANGAR_PE_DESC: "Phanon Design 的逆向工程攻击机。,其中集成了某种仿生计算机。,但总体而言，设计本身与同类级别的典型攻击机设计相比并没有太大变化。"
+tech_strike_craft_fighter_pe: "披斗士"
+tech_strike_craft_fighter_pe_desc: "Phanon Design 的逆向工程攻击机。,其中集成了某种仿生计算机。,但总体而言，设计本身与同类级别的典型攻击机设计相比并没有太大变化。"
+
+ACOT_FIGHTERS_HANGAR_RE: "符文战士"
+ACOT_FIGHTERS_HANGAR_RE_DESC: "现在很清楚，存在某种仿生计算机，也许是充当子程序计算机的值班计算机。,这也许可以解释为什么虚拟飞行员在与系统交互时会感到陌生。,但其有效性是不可否认的。"
+tech_strike_craft_fighter_re: "符文战士"
+tech_strike_craft_fighter_re_desc: "现在很清楚，存在某种仿生计算机，也许是充当子程序计算机的值班计算机。,这也许可以解释为什么虚拟飞行员在与系统交互时会感到陌生。,但其有效性是不可否认的。"
+############
+ACOT_SCOUT_HANGAR_PE: "Phi 拦截器"
+ACOT_SCOUT_HANGAR_PE_DESC: "Phanon Design 的逆向工程攻击机。,其中集成了某种仿生计算机。,但总体而言，设计本身与同类级别的典型攻击机设计相比并没有太大变化。"
+tech_strike_craft_scout_pe: "Phi 拦截器"
+tech_strike_craft_scout_pe_desc: "Phanon Design 的逆向工程攻击机。,其中集成了某种仿生计算机。,但总体而言，设计本身与同类级别的典型攻击机设计相比并没有太大变化。"
+
+ACOT_SCOUT_HANGAR_RE: "符文拦截器"
+ACOT_SCOUT_HANGAR_RE_DESC: "现在很清楚，存在某种仿生计算机，也许是充当子程序计算机的值班计算机。,这也许可以解释为什么虚拟飞行员在与系统交互时会感到陌生。,但其有效性是不可否认的。"
+tech_strike_craft_scout_re: "符文拦截器"
+tech_strike_craft_scout_re_desc: "现在很清楚，存在某种仿生计算机，也许是充当子程序计算机的值班计算机。,这也许可以解释为什么虚拟飞行员在与系统交互时会感到陌生。,但其有效性是不可否认的。"
+############
+ACOT_BOMBERS_HANGAR_PE: "菲轰炸机"
+ACOT_BOMBERS_HANGAR_PE_DESC: "Phanon Design 的逆向工程攻击机。,其中集成了某种仿生计算机。,但总体而言，设计本身与同类级别的典型攻击机设计相比并没有太大变化。"
+tech_strike_craft_bomber_pe: "菲轰炸机"
+tech_strike_craft_bomber_pe_desc: "Phanon Design 的逆向工程攻击机。,其中集成了某种仿生计算机。,但总体而言，设计本身与同类级别的典型攻击机设计相比并没有太大变化。"
+
+ACOT_BOMBERS_HANGAR_RE: "符文轰炸机"
+ACOT_BOMBERS_HANGAR_RE_DESC: "现在很清楚，存在某种仿生计算机，也许是充当子程序计算机的值班计算机。,这也许可以解释为什么虚拟飞行员在与系统交互时会感到陌生。,但其有效性是不可否认的。"
+tech_strike_craft_bomber_re: "符文轰炸机"
+tech_strike_craft_bomber_re_desc: "现在很清楚，存在某种仿生计算机，也许是充当子程序计算机的值班计算机。,这也许可以解释为什么虚拟飞行员在与系统交互时会感到陌生。,但其有效性是不可否认的。"
+############
+ACOT_GUNSHIP_HANGAR_PE: "披武装直升机"
+ACOT_GUNSHIP_HANGAR_PE_DESC: "Phanon Design 的逆向工程攻击机。,其中集成了某种仿生计算机。,但总体而言，设计本身与同类级别的典型攻击机设计相比并没有太大变化。"
+tech_strike_craft_gunship_pe: "披武装直升机"
+tech_strike_craft_gunship_pe_desc: "Phanon Design 的逆向工程攻击机。,其中集成了某种仿生计算机。,但总体而言，设计本身与同类级别的典型攻击机设计相比并没有太大变化。"
+
+ACOT_GUNSHIP_HANGAR_RE: "符文武装直升机"
+ACOT_GUNSHIP_HANGAR_RE_DESC: "现在很清楚，存在某种仿生计算机，也许是充当子程序计算机的值班计算机。,这也许可以解释为什么虚拟飞行员在与系统交互时会感到陌生。,但其有效性是不可否认的。"
+tech_strike_craft_gunship_re: "符文武装直升机"
+tech_strike_craft_gunship_re_desc: "现在很清楚，存在某种仿生计算机，也许是充当子程序计算机的值班计算机。,这也许可以解释为什么虚拟飞行员在与系统交互时会感到陌生。,但其有效性是不可否认的。"
+############
+ACOT_PARTICLE_LANCE_PE: "Phi能量枪"
+ACOT_PARTICLE_LANCE_PE_DESC: "Phi能量枪"
+tech_energy_lance_pe: "Phi能量枪"
+tech_energy_lance_pe_desc: "Phi能量枪"
+
+ACOT_PARTICLE_LANCE_RE: "符文能量枪"
+ACOT_PARTICLE_LANCE_RE_DESC: "符文能量枪"
+tech_energy_lance_re: "符文能量枪"
+tech_energy_lance_re_desc: "符文能量枪"
+############
+ACOT_ARC_EMITTER_PE: "Phi 冲击发射器"
+ACOT_ARC_EMITTER_PE_DESC: "Phi 冲击发射器"
+tech_arc_emitter_pe: "Φ发射器"
+tech_arc_emitter_pe_desc: "Φ发射器"
+
+ACOT_ARC_EMITTER_RE: "符文发射器"
+ACOT_ARC_EMITTER_RE_DESC: "符文发射器"
+tech_arc_emitter_re: "符文发射器"
+tech_arc_emitter_re_desc: "符文发射器"
+############
+ACOT_MASS_ACCELERATOR_PE: "Phi 质量加速器"
+ACOT_MASS_ACCELERATOR_PE_DESC: "Phi 质量加速器"
+tech_mass_accelerator_pe: "Phi 质量加速器"
+tech_mass_accelerator_pe_desc: "Phi 质量加速器"
+
+ACOT_MASS_ACCELERATOR_RE: "符文质量加速器"
+ACOT_MASS_ACCELERATOR_RE_DESC: "符文质量加速器"
+tech_mass_accelerator_re: "符文质量加速器"
+tech_mass_accelerator_re_desc: "符文质量加速器"
+############
+ACOT_PERDITION_BEAM_PE: "Phi 毁灭光束"
+ACOT_PERDITION_BEAM_PE_DESC: "Phi 毁灭光束"
+tech_perdition_beam_pe: "Phi 毁灭光束"
+tech_perdition_beam_pe_desc: "Phi 毁灭光束"
+
+ACOT_PERDITION_BEAM_RE: "符文光束"
+ACOT_PERDITION_BEAM_RE_DESC: "符文光束"
+tech_perdition_beam_re: "符文光束"
+tech_perdition_beam_re_desc: "符文光束"
+############
+ACOT_TITAN_EMITTER_PE: "Phi 泰坦发射器"
+ACOT_TITAN_EMITTER_PE_DESC: "Phi 泰坦发射器"
+tech_titan_emitter_pe: "Phi 泰坦发射器"
+tech_titan_emitter_pe_desc: "Phi 泰坦发射器"
+
+ACOT_TITAN_EMITTER_RE: "符文泰坦发射器"
+ACOT_TITAN_EMITTER_RE_DESC: "符文泰坦发射器"
+tech_titan_emitter_re: "符文泰坦发射器"
+tech_titan_emitter_re_desc: "符文泰坦发射器"
+############
+ACOT_TITAN_ACCELERATOR_PE: "泰坦 Phi 加速炮"
+ACOT_TITAN_ACCELERATOR_PE_DESC: "泰坦 Phi 加速炮"
+tech_titan_accelerator_pe: "泰坦 Phi 加速炮"
+tech_titan_accelerator_pe_desc: "泰坦 Phi 加速炮"
+
+ACOT_TITAN_ACCELERATOR_RE: "泰坦符文加速炮"
+ACOT_TITAN_ACCELERATOR_RE_DESC: "泰坦符文加速炮"
+tech_titan_accelerator_re: "泰坦符文加速炮"
+tech_titan_accelerator_re_desc: "泰坦符文加速炮"
+ 
+############
+
+ACOT_PMC_YAMATO_CANNON: "大和炮"
+ACOT_PMC_YAMATO_CANNON_DESC: "大和炮"
+tech_pmc_yamato_cannon: "大和炮"
+tech_pmc_yamato_cannon_desc: "大和炮"
+ 
+ACOT_PHANON_DECIMATOR_CANNON: "永恒之火"
+ACOT_PHANON_DECIMATOR_CANNON_DESC: "永恒之火"
+ACOT_PHANON_DECIMATOR_CANNON_RESIZED: "永恒之火"
+ACOT_PHANON_DECIMATOR_CANNON_RESIZED_DESC: "永恒之火"
+tech_pmc_decimator_beam: "永恒之火"
+tech_pmc_decimator_beam_desc: "永恒之火"
+ 
+############
+
+SMALL_ACOT_ENIGMATIC_SHIELD_PE: "小 Phi 盾牌"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_PE: "中等 Phi 盾牌"
+LARGE_ACOT_ENIGMATIC_SHIELD_PE: "大 Phi 盾牌"
+ACOT_ENIGMATIC_SHIELD_PE: "披盾"
+ACOT_ENIGMATIC_SHIELD_PE_DESC: "披盾"
+tech_dark_matter_deflector_pe: "披盾"
+tech_dark_matter_deflector_pe_desc: "披盾"
+
+SMALL_ACOT_ENIGMATIC_SHIELD_RE: "小型符文盾牌"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_RE: "中型符文盾牌"
+LARGE_ACOT_ENIGMATIC_SHIELD_RE: "大型符文盾牌"
+ACOT_ENIGMATIC_SHIELD_RE: "符文盾牌"
+ACOT_ENIGMATIC_SHIELD_RE_DESC: "符文盾牌"
+tech_dark_matter_deflector_re: "符文盾牌"
+tech_dark_matter_deflector_re_desc: "符文盾牌"
+ 
+############
+
+SMALL_ACOT_ARMOR_PE: "小披甲"
+MEDIUM_ACOT_ARMOR_PE: "中型 Phi 护甲"
+LARGE_ACOT_ARMOR_PE: "大披甲"
+ACOT_ARMOR_PE: "披甲"
+ACOT_ARMOR_PE_DESC: "披甲"
+tech_armor_pe: "旋涡装甲"
+tech_armor_pe_desc: "旋涡装甲"
+
+
+SMALL_ACOT_ARMOR_RE: "小型旋涡装甲"
+MEDIUM_ACOT_ARMOR_RE: "中型漩涡装甲"
+LARGE_ACOT_ARMOR_RE: "大型旋涡装甲"
+ACOT_ARMOR_RE: "旋涡装甲"
+ACOT_ARMOR_RE_DESC: "旋涡装甲"
+tech_armor_re: "旋涡装甲"
+tech_armor_re_desc: "旋涡装甲"
+ 
+############
+
+SMALL_ACOT_HULL_POWER_PE: "小 Phi HLP 镀层"
+MEDIUM_ACOT_HULL_POWER_PE: "中等 Phi HLP 镀层"
+LARGE_ACOT_HULL_POWER_PE: "大 Phi HLP 镀层"
+ACOT_HULL_POWER_PE: "Phi HLP 电镀"
+ACOT_HULL_POWER_PE_DESC: "硬光是一种由纯固体光构成的动态材质。,完全形成时，它比中子密度更大、硬度更高。"
+tech_hull_power_pe: "强光电源电镀"
+tech_hull_power_pe_desc: "提出的比较奇特的概念之一是一石二鸟的想法，同时解决船舶日益苛刻的功耗和船体完整性的问题。,过去，试图解决这些问题通常会导致成本大幅增加或船舶整体物理形状的改变，从而使其不可行。,但通过对维度空间进行一些修改，也许可以创造出一种新型的船体板，它不仅可以提高耐用性，而且还可以在不损害船舶挂载点的情况下兼作强大的发电机。"
+
+SMALL_ACOT_HULL_POWER_RE: "小型符文 HLP 镀层"
+MEDIUM_ACOT_HULL_POWER_RE: "中型符文 HLP 镀层"
+LARGE_ACOT_HULL_POWER_RE: "大型符文 HLP 镀层"
+ACOT_HULL_POWER_RE: "符文 HLP 镀层"
+ACOT_HULL_POWER_RE_DESC: "硬光是一种由纯固体光构成的动态材质。,完全形成时，它比中子密度更大、硬度更高。"
+tech_hull_power_re: "强光电源电镀"
+tech_hull_power_re_desc: "提出的比较奇特的概念之一是一石二鸟的想法，同时解决船舶日益苛刻的功耗和船体完整性的问题。,过去，试图解决这些问题通常会导致成本大幅增加或船舶整体物理形状的改变，从而使其不可行。,但通过对维度空间进行一些修改，也许可以创造出一种新型的船体板，它不仅可以提高耐用性，而且还可以在不损害船舶挂载点的情况下兼作强大的发电机。"
+
+############
+
+SMALL_ACOT_ARMOR_HULL_RE: "小型赛布罗斯船体"
+MEDIUM_ACOT_ARMOR_HULL_RE: "中型赛布罗斯船体"
+LARGE_ACOT_ARMOR_HULL_RE: "大型赛布罗斯船体"
+ACOT_ARMOR_HULL_RE: "赛布罗斯船体"
+ACOT_ARMOR_HULL_RE_DESC: "赛布罗斯船体"
+tech_armor_hull_re: "赛布罗斯船体"
+tech_armor_hull_re_desc: "赛布罗斯船体"
+ 
+############
+PE_OFFENSIVE_COMBAT_COMPUTER: "Phi战斗分析计算机"
+PE_OFFENSIVE_COMBAT_COMPUTER_DESC: "Phi战斗分析计算机"
+PE_BALANCE_COMBAT_COMPUTER: "Phi战斗分析计算机"
+PE_BALANCE_COMBAT_COMPUTER_DESC: "Phi战斗分析计算机"
+PE_DEFENSIVE_COMBAT_COMPUTER: "Phi战斗分析计算机"
+PE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Phi战斗分析计算机"
+ 
+PE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Phi战斗分析计算机"
+PE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Phi战斗分析计算机"
+PE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "Phi战斗分析计算机"
+PE_BALANCE_COMBA_COMPUTERT_BATTLECRUISER_DESC: "Phi战斗分析计算机"
+PE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Phi战斗分析计算机"
+PE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Phi战斗分析计算机"
+ 
+PE_OFFENSIVE_COMBAT_COMPUTER_TITAN: "Phi战斗分析计算机"
+PE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Phi战斗分析计算机"
+PE_BALANCE_COMBAT_COMPUTER_TITAN: "Phi战斗分析计算机"
+PE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "Phi战斗分析计算机"
+PE_DEFENSIVE_COMBAT_COMPUTER_TITAN: "Phi战斗分析计算机"
+PE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Phi战斗分析计算机"
+ 
+PE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "Phi战斗分析计算机"
+PE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Phi战斗分析计算机"
+PE_BALANCE_COMBAT_COMPUTER_GOLIATH: "Phi战斗分析计算机"
+PE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "Phi战斗分析计算机"
+PE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "Phi战斗分析计算机"
+PE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Phi战斗分析计算机"
+
+PE_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "Phi战斗分析计算机"
+PE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Phi战斗分析计算机"
+PE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "Phi战斗分析计算机"
+PE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "Phi战斗分析计算机"
+tech_computer_phi: "Phi战斗分析计算机"
+tech_computer_phi_desc: "Phi战斗分析计算机"
+TECH_UNLOCK_PHI_COMPUTER_TITLE: "§H解锁组件：§! ,Phi战斗分析计算机"
+TECH_UNLOCK_PHI_COMPUTER_TITLE_DESC: "Phi 战斗分析计算机\n$PE_OFFENSIVE_COMBAT_COMPUTER_DESC$"
+
+RE_OFFENSIVE_COMBAT_COMPUTER: "符文战斗分析计算机"
+RE_OFFENSIVE_COMBAT_COMPUTER_DESC: "符文战斗分析计算机"
+RE_BALANCE_COMBAT_COMPUTER: "符文战斗分析计算机"
+RE_BALANCE_COMBAT_COMPUTER_DESC: "符文战斗分析计算机"
+RE_DEFENSIVE_COMBAT_COMPUTER: "符文战斗分析计算机"
+RE_DEFENSIVE_COMBAT_COMPUTER_DESC: "符文战斗分析计算机"
+ 
+RE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "符文战斗分析计算机"
+RE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "符文战斗分析计算机"
+RE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "符文战斗分析计算机"
+RE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "符文战斗分析计算机"
+RE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "符文战斗分析计算机"
+RE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "符文战斗分析计算机"
+ 
+RE_OFFENSIVE_COMBAT_COMPUTER_TITAN: "符文战斗分析计算机"
+RE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "符文战斗分析计算机"
+RE_BALANCE_COMBAT_COMPUTER_TITAN: "符文战斗分析计算机"
+RE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "符文战斗分析计算机"
+RE_DEFENSIVE_COMBAT_COMPUTER_TITAN: "符文战斗分析计算机"
+RE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "符文战斗分析计算机"
+ 
+RE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "符文战斗分析计算机"
+RE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "符文战斗分析计算机"
+RE_BALANCE_COMBAT_COMPUTER_GOLIATH: "符文战斗分析计算机"
+RE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "符文战斗分析计算机"
+RE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "符文战斗分析计算机"
+RE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "符文战斗分析计算机"
+ 
+RE_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "符文战斗分析计算机"
+RE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "符文战斗分析计算机"
+RE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "符文战斗分析计算机"
+RE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "符文战斗分析计算机"
+ 
+BASE_COMBAT_COMPUTER_COLOSSUS_RE: "符文战斗分析计算机"
+BASE_COMBAT_COMPUTER_COLOSSUS_RE_DESC: "符文战斗分析计算机"
+HERCULEAN_COMBAT_COMPUTER_RE: "符文战斗分析计算机"
+HERCULEAN_COMBAT_COMPUTER_RE_DESC: "符文战斗分析计算机"
+ 
+PAC_COMBAT_COMPUTER_DEFENSE_RE: "符文战斗分析计算机"
+PAC_COMBAT_COMPUTER_DEFENSE_RE_DESC: "符文战斗分析计算机"
+PAC_COMBAT_COMPUTER_OFFENSE_RE: "符文战斗分析计算机"
+PAC_COMBAT_COMPUTER_OFFENSE_RE_DESC: "符文战斗分析计算机"
+tech_computer_runic: "符文战斗分析计算机"
+tech_computer_runic_desc: "符文战斗分析计算机"
+TECH_UNLOCK_RUNIC_COMPUTER_TITLE: "§H解锁组件：§!,符文战斗分析计算机"
+TECH_UNLOCK_RUNIC_COMPUTER_TITLE_DESC: "符文战斗分析计算机\n$ENIGMATIC_DRIVE_PE_DESRE_DEFENSIVE_COMBAT_COMPUTER_DESCC$"
+ 
+############
+ACOT_ENIGMATIC_DRIVE_PE: "Phi 精密跳跃驱动器"
+ACOT_ENIGMATIC_DRIVE_PE_DESC: "Phi 精密跳跃驱动器"
+tech_enigmatic_drive_pe: "Φ 易位器"
+tech_enigmatic_drive_pe_desc: "Φ 易位器"
+TECH_UNLOCK_ENIG_DRIVE_PE: "§H解锁组件：§! ,Phi 易位器驱动器"
+TECH_UNLOCK_ENIG_DRIVE_PE_DESC: "Phi 易位器驱动器\n$ENIGMATIC_DRIVE_PE_DESC$"
+
+ACOT_ENIGMATIC_DRIVE_RE: "符文传送器"
+ACOT_ENIGMATIC_DRIVE_RE_DESC: "符文传送器"
+tech_enigmatic_drive_re: "符文传送器"
+tech_enigmatic_drive_re_desc: "符文传送器"
+TECH_UNLOCK_ENIG_DRIVE_RE: "§H解锁组件：§!,符文传送驱动器"
+TECH_UNLOCK_ENIG_DRIVE_RE_DESC: "§HRunic 易位器驱动器§!\n$ENIGMATIC_DRIVE_RE_DESC$"
+
+############
+ACOT_WEAPON_CORE_PE: "Phi 超混合武器校准器"
+ACOT_WEAPON_EXPLOSIVE_CORE_PE_DESC: "协同使用其他战略资源可以对舰船武器系统进行相当非正统但有效的校准。,然而，这些系统中的挥发性混合物可能会降低船体强度。"
+tech_weapon_core_pe: "Phi 超混合武器校准器"
+tech_weapon_core_pe_desc: "协同使用其他战略资源可以对舰船武器系统进行相当非正统但有效的校准。,然而，这些系统中的挥发性混合物可能会降低船体强度。"
+
+ACOT_WEAPON_CORE_RE: "符文超混合武器校准器"
+ACOT_WEAPON_CORE_RE_DESC: "协同使用其他战略资源可以对舰船武器系统进行相当非正统但有效的校准。,然而，这些系统中的挥发性混合物可能会降低船体强度。"
+tech_weapon_core_re: "符文超混合武器校准器"
+tech_weapon_core_re_desc: "协同使用其他战略资源可以对舰船武器系统进行相当非正统但有效的校准。,然而，这些系统中的挥发性混合物可能会降低船体强度。"
+############
+ACOT_WEAPON_EXPLOSIVE_CORE_PE: "Phi 爆炸核心"
+ACOT_WEAPON_EXPLOSIVE_CORE_PE_DESC: "Phi 爆炸核心"
+tech_missile_core_pe: "Phi 爆炸核心"
+tech_missile_core_pe_desc: "Phi 爆炸核心"
+
+ACOT_WEAPON_EXPLOSIVE_CORE_RE: "符文爆炸核心"
+ACOT_WEAPON_EXPLOSIVE_CORE_RE_DESC: "符文爆炸核心"
+tech_missile_core_re: "符文爆炸核心"
+tech_missile_core_re_desc: "符文爆炸核心"
+############
+ACOT_WEAPON_KINETIC_CORE_PE: "Phi 动能增强剂"
+ACOT_WEAPON_KINETIC_CORE_PE_DESC: "Phi 动能增强剂"
+tech_kinetic_core_pe: "Phi 动能增强剂"
+tech_kinetic_core_pe_desc: "Phi 动能增强剂"
+
+ACOT_WEAPON_KINETIC_CORE_RE: "符文动能增强器"
+ACOT_WEAPON_KINETIC_CORE_RE_DESC: "符文动能增强器"
+tech_kinetic_core_re: "符文动能增强器"
+tech_kinetic_core_re_desc: "符文动能增强器"
+############ 
+ACOT_WEAPON_ENERGY_CORE_PE: "百事可乐核心"
+ACOT_WEAPON_ENERGY_CORE_PE_DESC: "百事可乐核心"
+tech_energy_core_pe: "百事可乐核心"
+tech_energy_core_pe_desc: "百事可乐核心"
+
+ACOT_WEAPON_ENERGY_CORE_RE: "符文百事核心"
+ACOT_WEAPON_ENERGY_CORE_RE_DESC: "符文百事核心"
+tech_energy_core_re: "符文百事核心"
+tech_energy_core_re_desc: "符文百事核心"
+############ 
+ACOT_WEAPON_FIGHTER_CORE_PE: "Phi 增强型机库计算机"
+ACOT_WEAPON_FIGHTER_CORE_PE_DESC: "Phi 增强型机库计算机"
+tech_fighter_core_pe: "Phi 增强型机库计算机"
+tech_fighter_core_pe_desc: "Phi 增强型机库计算机"
+
+ACOT_WEAPON_FIGHTER_CORE_RE: "符文增强型机库计算机"
+ACOT_WEAPON_FIGHTER_CORE_RE_DESC: "符文增强型机库计算机"
+tech_fighter_core_re: "符文增强型机库计算机"
+tech_fighter_core_re_desc: "符文增强型机库计算机"
+############ 
+ACOT_SHIP_THRUSTER_PE: "Φ推进器"
+ACOT_SHIP_THRUSTER_PE_DESC: "Φ推进器"
+tech_thrusters_pe: "Φ推进器"
+tech_thrusters_pe_desc: "Φ推进器"
+TECH_UNLOCK_PE_THRUSTER_TITLE: "Φ推进器"
+TECH_UNLOCK_PE_THRUSTER_DESC: "Φ推进器"
+
+ACOT_SHIP_THRUSTER_RE: "符文推进器"
+ACOT_SHIP_THRUSTER_RE_DESC: "符文推进器"
+tech_thrusters_re: "符文推进器"
+tech_thrusters_re_desc: "符文推进器"
+TECH_UNLOCK_RE_THRUSTER_TITLE: "符文推进器"
+TECH_UNLOCK_RE_THRUSTER_DESC: "符文推进器"
+
+############
+ACOT_SENSOR_PE: "Φ传感器"
+ACOT_SENSOR_PE_DESC: "尽管这个传感器背后的技术似乎是基于神秘检测，就像阿尔法一样，它似乎隐藏着奇怪的秘密。,好像传感器不仅显示敌人可能在哪里，而且还显示......它可能是什么，或者它曾经是什么？"
+tech_sensor_pe: "Phi 仿生传感器"
+tech_sensor_pe_desc: "尽管这个传感器背后的技术似乎是基于神秘检测，就像阿尔法一样，它似乎隐藏着奇怪的秘密。,好像传感器不仅显示敌人可能在哪里，而且还显示......它可能是什么，或者它曾经是什么？"
+TECH_UNLOCK_PE_SENSOR_TITLE: "§H解锁组件：§! ,Phi 仿生传感器"
+TECH_UNLOCK_PE_SENSOR_DESC: "§HPhi 易位器驱动器§!\n$PE_SENSOR_SHIP_DESC$"
+
+ACOT_SENSOR_RE: "符文传感器"
+ACOT_SENSOR_RE_DESC: "从一个相当简单的装置中展现出超越现实的愿景和景象。,军团的装备究竟发生了什么？"
+tech_sensor_re: "符文传感器"
+tech_sensor_re_desc: "从一个相当简单的装置中展现出超越现实的愿景和景象。,军团的装备究竟发生了什么？"
+TECH_UNLOCK_RE_SENSOR_TITLE: "§H解锁组件：§!,符文仿生传感器"
+TECH_UNLOCK_RE_SENSOR_DESC: "§HRunic 易位器驱动器§!\n$RE_SENSOR_SHIP_DESC$"
+############
+CORVETTE_DARK_MATTER_REACTOR_PE: "Φ反应器"
+CORVETTE_DARK_MATTER_REACTOR_RE_DESC: "Φ反应器"
+DESTROYER_DARK_MATTER_REACTOR_PE: "Φ反应器"
+DESTROYER_DARK_MATTER_REACTOR_PE_DESC: "Φ反应器"
+CRUISER_DARK_MATTER_REACTOR_PE: "Φ反应器"
+CRUISER_DARK_MATTER_REACTOR_PE_DESC: "Φ反应器"
+BATTLESHIP_DARK_MATTER_REACTOR_PE: "Φ反应器"
+BATTLESHIP_DARK_MATTER_REACTOR_PE_DESC: "Φ反应器"
+TITAN_DARK_MATTER_REACTOR_PE: "Φ反应器"
+TITAN_DARK_MATTER_REACTOR_PE_DESC: "Φ反应器"
+COLOSSUS_DARK_MATTER_REACTOR_PE: "Φ反应器"
+COLOSSUS_DARK_MATTER_REACTOR_PE_DESC: "Φ反应器"
+PLATFORM_DARK_MATTER_REACTOR_PE: "Φ反应器"
+PLATFORM_DARK_MATTER_REACTOR_PE_DESC: "Φ反应器"
+ION_CANNON_DARK_MATTER_REACTOR_PE: "Φ反应器"
+ION_CANNON_DARK_MATTER_REACTOR_PE_DESC: "Φ反应器"
+STARBASE_DARK_MATTER_REACTOR_PE: "Φ反应器"
+STARBASE_DARK_MATTER_REACTOR_PE_DESC: "Φ反应器"
+tech_dark_matter_power_core_pe: "Φ反应器"
+tech_dark_matter_power_core_pe_desc: "我们目前无法理解法农军团使用的是什么样的动力源，也无法复制它们。,但仅仅研究他们设计事物的方式就给了我们许多关于如何改进我们自己的设计的新见解和视角。"
+TECH_UNLOCK_DARK_MATTER_POWER_PE_TITLE: "解锁 Phi-Tier 技术。"
+TECH_UNLOCK_DARK_MATTER_POWER_PE_DESC: "Phi Tier 是 Phanon Techs 的一个基本应用程序。,它仍然使用暗物质和暗能量，但需要更多的合金。"
+
+CORVETTE_DARK_MATTER_REACTOR_RE: "符文反应堆"
+CORVETTE_DARK_MATTER_REACTOR_RE_DESC: "符文反应堆"
+DESTROYER_DARK_MATTER_REACTOR_RE: "符文反应堆"
+DESTROYER_DARK_MATTER_REACTOR_RE_DESC: "符文反应堆"
+CRUISER_DARK_MATTER_REACTOR_RE: "符文反应堆"
+CRUISER_DARK_MATTER_REACTOR_RE_DESC: "符文反应堆"
+BATTLESHIP_DARK_MATTER_REACTOR_RE: "符文反应堆"
+BATTLESHIP_DARK_MATTER_REACTOR_RE_DESC: "符文反应堆"
+TITAN_DARK_MATTER_REACTOR_RE: "符文反应堆"
+TITAN_DARK_MATTER_REACTOR_RE_DESC: "符文反应堆"
+COLOSSUS_DARK_MATTER_REACTOR_RE: "符文反应堆"
+COLOSSUS_DARK_MATTER_REACTOR_RE_DESC: "符文反应堆"
+PLATFORM_DARK_MATTER_REACTOR_RE: "符文反应堆"
+PLATFORM_DARK_MATTER_REACTOR_RE_DESC: "符文反应堆"
+ION_CANNON_DARK_MATTER_REACTOR_RE: "符文反应堆"
+ION_CANNON_DARK_MATTER_REACTOR_RE_DESC: "符文反应堆"
+STARBASE_DARK_MATTER_REACTOR_RE: "符文反应堆"
+STARBASE_DARK_MATTER_REACTOR_RE_DESC: "符文反应堆"
+tech_dark_matter_power_core_re: "符文反应堆"
+tech_dark_matter_power_core_re_desc: "根据军团电脑中的记录，我们得知他们所使用的力量被称为符文。,似乎与灵能有某种联系。,但除此之外我们所知甚少，我们能做的只是尽可能模仿原版性能的复制设计。"
+TECH_UNLOCK_DARK_MATTER_POWER_RE_TITLE: "解锁Phanon Runic 技术。"
+TECH_UNLOCK_DARK_MATTER_POWER_RE_DESC: "符文等级是对军团使用的模仿。,在性能方面，它与军团所使用的相同，但我们仍然了解甚少。"
+
+############
+ACOT_AFTERBURNERS_PE: "Phi 加力燃烧器"
+ACOT_AFTERBURNERS_PE_DESC: "Phi 加力燃烧器"
+ACOT_AFTERBURNERS_AURA_PE: "Delta子空间放大器"
+ACOT_AFTERBURNERS_AURA_PE_DESC: "用于帮助提高舰队亚光速速度的专用组件。"
+tech_darkmatter_afterburners_pe: "Phi 加力燃烧器"
+tech_darkmatter_afterburners_pe_desc: "Phi 加力燃烧器"
+
+ACOT_AFTERBURNERS_RE: "符文加力燃烧器"
+ACOT_AFTERBURNERS_RE_DESC: "符文加力燃烧器"
+ACOT_AFTERBURNERS_AURA_RE: "符文子空间增幅器"
+ACOT_AFTERBURNERS_AURA_RE_DESC: "用于帮助提高舰队亚光速速度的专用组件。"
+tech_darkmatter_afterburners_re: "符文加力燃烧器"
+tech_darkmatter_afterburners_re_desc: "符文加力燃烧器"
+############
+ACOT_HYPERCHARGED_JUMPER_PE: "Phi 超光速放大器"
+ACOT_HYPERCHARGED_JUMPER_PE_DESC: "Phi 超光速放大器"
+ACOT_HYPERCHARGED_JUMPER_AURA_PE: "跳跃稳定器"
+ACOT_HYPERCHARGED_JUMPER_AURA_PE_DESC: "跳跃稳定器可以安装在带有适当模块的主力舰上，以增加舰队的跳跃范围。"
+tech_darkmatter_hyper_jump_drive_pe: "Phi 超光速放大器"
+tech_darkmatter_hyper_jump_drive_pe_desc: "Phanon 超光速放大器"
+
+ACOT_HYPERCHARGED_JUMPER_RE: "符文超光速放大器"
+ACOT_HYPERCHARGED_JUMPER_RE_DESC: "符文超光速放大器"
+ACOT_HYPERCHARGED_JUMPER_AURA_RE: "跳跃稳定器"
+ACOT_HYPERCHARGED_JUMPER_AURA_RE_DESC: "跳跃稳定器可以安装在带有适当模块的主力舰上，以增加舰队的跳跃范围。"
+tech_darkmatter_hyper_jump_drive_re: "符文超光速放大器"
+tech_darkmatter_hyper_jump_drive_re_desc: "符文超光速放大器"
+
+############
+ACOT_REPAIR_COUNTERMEASURES_PE: "Phi反应对策"
+ACOT_REPAIR_COUNTERMEASURES_PE_DESC: "Phi反应对策"
+ACOT_REPAIR_COUNTERMEASURES_AURA_PE: "菲舰队RCD"
+ACOT_REPAIR_COUNTERMEASURES_AURA_PE_DESC: "用于容纳大型 RCD 网络以支持车队的专用组件。,效率不如单艘船舶的 RCD 系统，但在大型舰队中非常有用。"
+tech_darkmatter_reactive_drone_pe: "Phi反应对策"
+tech_darkmatter_reactive_drone_pe_desc: "Phi反应对策"
+TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_PE_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_REPAIR_COUNTERMEASURES_PE$"
+TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_PE_DESC: "$ACOT_REPAIR_COUNTERMEASURES_PE_DESC$"
+
+ACOT_REPAIR_COUNTERMEASURES_RE: "符文反应对策"
+ACOT_REPAIR_COUNTERMEASURES_RE_DESC: "符文反应对策"
+ACOT_REPAIR_COUNTERMEASURES_AURA_RE: "符文舰队 RCD"
+ACOT_REPAIR_COUNTERMEASURES_AURA_RE_DESC: "用于容纳大型 RCD 网络以支持车队的专用组件。,效率不如单艘船舶的 RCD 系统，但在大型舰队中非常有用。"
+tech_darkmatter_reactive_drone_re: "符文反应对策"
+tech_darkmatter_reactive_drone_re_desc: "符文反应对策"
+TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_RE_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_REPAIR_COUNTERMEASURES_RE$"
+TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_RE_DESC: "$ACOT_REPAIR_COUNTERMEASURES_RE_DESC$"
+############
+ACOT_REACTOR_BOOSTER_PE: "Phi 助推器"
+ACOT_REACTOR_BOOSTER_PE_DESC: "Phi 助推器"
+ACOT_REACTOR_BOOSTER_AURA_PE: "Phi Supra 放大器"
+ACOT_REACTOR_BOOSTER_AURA_PE_DESC: "该船可以利用空间安装额外的 APA，而不需要额外的电源，以代替典型的光环组件。"
+tech_darkmatter_reactor_booster_pe: "Phi 助推器"
+tech_darkmatter_reactor_booster_pe_desc: "Phi 助推器"
+
+ACOT_REACTOR_BOOSTER_RE: "符文助推器"
+ACOT_REACTOR_BOOSTER_RE_DESC: "符文助推器"
+ACOT_REACTOR_BOOSTER_AURA_RE: "符文超增幅器"
+ACOT_REACTOR_BOOSTER_AURA_RE_DESC: "该船可以利用空间安装额外的 APA，而不需要额外的电源，以代替典型的光环组件。"
+tech_darkmatter_reactor_booster_re: "符文助推器"
+tech_darkmatter_reactor_booster_re_desc: "符文助推器"
+############
+ACOT_SHIELD_BOOSTER_PE: "Φ 屏蔽放大器"
+ACOT_SHIELD_BOOSTER_PE_DESC: "Φ 屏蔽放大器"
+ACOT_SHIELD_BOOSTER_AURA_PE: "披盾群"
+ACOT_SHIELD_BOOSTER_AURA_PE_DESC: "增压护盾辅助单元的特殊变体，牺牲局部力量以获得更广泛的效果。"
+tech_darkmatter_shield_supercharger_pe: "Φ 屏蔽放大器"
+tech_darkmatter_shield_supercharger_pe_desc: "Φ 屏蔽放大器"
+TECH_UNLOCK_ACOT_SHIELD_BOOSTER_PE_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_SHIELD_BOOSTER_PE$"
+TECH_UNLOCK_ACOT_SHIELD_BOOSTER_PE_DESC: "$ACOT_SHIELD_BOOSTER_PE_DESC$"
+
+ACOT_SHIELD_BOOSTER_RE: "符文护盾增幅器"
+ACOT_SHIELD_BOOSTER_RE_DESC: "符文护盾增幅器"
+ACOT_SHIELD_BOOSTER_AURA_RE: "符文盾群"
+ACOT_SHIELD_BOOSTER_AURA_RE_DESC: "增压护盾辅助单元的特殊变体，牺牲局部力量以获得更广泛的效果。"
+tech_darkmatter_shield_supercharger_re: "符文护盾增幅器"
+tech_darkmatter_shield_supercharger_re_desc: "符文护盾增幅器"
+TECH_UNLOCK_ACOT_SHIELD_BOOSTER_RE_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_SHIELD_BOOSTER_RE$"
+TECH_UNLOCK_ACOT_SHIELD_BOOSTER_RE_DESC: "$ACOT_SHIELD_BOOSTER_RE_DESC$"
+ 
+############
+
+ACOT_ARMOR_BOOSTER_PE: "Phi 增压装甲"
+ACOT_ARMOR_BOOSTER_PE_DESC: "增压装甲以消耗电力为代价，赋予舰船护盾发生器极大的威力。"
+ACOT_ARMOR_BOOSTER_AURA_PE: "Phi 动能屏障群"
+ACOT_ARMOR_BOOSTER_AURA_PE_DESC: "动能屏障辅助单元的特殊变体，牺牲局部力量以获得更广泛的效果。"
+tech_darkmatter_armor_supercharger_pe: "Phi 增压装甲"
+tech_darkmatter_armor_supercharger_pe_desc: "增压装甲使舰船的护盾发生器的效能大大提高，但代价是功耗。"
+TECH_UNLOCK_ACOT_ARMOR_BOOSTER_PE_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_ARMOR_BOOSTER_PE$"
+TECH_UNLOCK_ACOT_ARMOR_BOOSTER_PE_DESC: "$ACOT_ARMOR_BOOSTER_PE_DESC$"
+
+ACOT_ARMOR_BOOSTER_RE: "符文增压装甲"
+ACOT_ARMOR_BOOSTER_RE_DESC: "增压装甲以消耗电力为代价，赋予舰船护盾发生器极大的威力。"
+ACOT_ARMOR_BOOSTER_AURA_RE: "符文动能屏障群"
+ACOT_ARMOR_BOOSTER_AURA_RE_DESC: "动能屏障辅助单元的特殊变体，牺牲局部力量以获得更广泛的效果。"
+tech_darkmatter_armor_supercharger_re: "符文增压装甲"
+tech_darkmatter_armor_supercharger_re_desc: "增压装甲使舰船的护盾发生器的效能大大提高，但代价是功耗。"
+TECH_UNLOCK_ACOT_ARMOR_BOOSTER_RE_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_ARMOR_BOOSTER_RE$"
+TECH_UNLOCK_ACOT_ARMOR_BOOSTER_RE_DESC: "$ACOT_ARMOR_BOOSTER_RE_DESC$"
+
+############
+ACOT_STARCHARTER_PE: "菲星租船公司"
+ACOT_STARCHARTER_PE_DESC: "菲星租船公司"
+ACOT_STARCHARTER_AURA_PE: "菲哨兵网络"
+ACOT_STARCHARTER_AURA_PE_DESC: "星宪章模块的另一种变体，可以增强整个舰队的跟踪。"
+tech_darkmatter_star_charter_pe: "法农星际宪章"
+tech_darkmatter_star_charter_pe_desc: "法农星际宪章"
+
+ACOT_STARCHARTER_RE: "符文星际宪章"
+ACOT_STARCHARTER_RE_DESC: "符文星际宪章"
+ACOT_STARCHARTER_AURA_RE: "符文哨兵网络"
+ACOT_STARCHARTER_AURA_RE_DESC: "星宪章模块的另一种变体，可以增强整个舰队的跟踪。"
+tech_darkmatter_star_charter_re: "符文星际宪章"
+tech_darkmatter_star_charter_re_desc: "符文星际宪章"
+ 
+############
+ACOT_AURA_TECH_INHIBITOR_PE: "Phi网络抑制剂"
+ACOT_AURA_TECH_INHIBITOR_PE_DESC: "Phi网络抑制剂"
+tech_darkmatter_aura_energy_drainer_pe: "Phi网络抑制剂"
+tech_darkmatter_aura_energy_drainer_pe_desc: "Phi网络抑制剂"
+TECH_UNLOCK_ENERGY_DRAINER_PE_TITLE: "§H解锁组件：§! ,Phi网络抑制剂"
+TECH_UNLOCK_ENERGY_DRAINER_PE_DESC: "§HPhi 网络抑制剂§!\n这种强大的设备会干扰敌方系统，消除他们的力量并将其赋予盟军船只。,你所有的权力都属于我们。"
+
+ACOT_AURA_TECH_INHIBITOR_RE: "符文网络抑制剂"
+ACOT_AURA_TECH_INHIBITOR_RE_DESC: "符文网络抑制剂"
+tech_darkmatter_aura_energy_drainer_re: "符文网络抑制剂"
+tech_darkmatter_aura_energy_drainer_re_desc: "符文网络抑制剂"
+TECH_UNLOCK_ENERGY_DRAINER_RE_TITLE: "§H解锁组件：§!,符文网络抑制剂"
+TECH_UNLOCK_ENERGY_DRAINER_RE_DESC: "§HRunic 网络抑制剂§!\n这种强大的装置会干扰敌方系统，消除他们的力量并将其赋予盟军船只。,你所有的权力都属于我们。"
+ 
+########## REVISED PHANON
+
+#### PHI TIER TECH #####
+ 
+tech_precursor_phanon_design_pe_1: "初步 Phi 技术分析"
+tech_precursor_phanon_design_pe_1_desc: "尽管帕农公司的舰队展现出了压倒性的规模和火力，但他们的许多技术在设计上似乎并不是那么神秘。,然而，他们的大部分设备都会在飞船被摧毁时自毁，所以我们只能凑合着研究一些可以分析的小碎片。"
+
+tech_precursor_phanon_design_pe_2: "强化 Phi 技术分析"
+tech_precursor_phanon_design_pe_2_desc: "回收的额外碎片和碎片，加上观察到的法农武器系统的行为，使我们能够对其技术进行更深入的分析。,显然，我们距离了解真正的动力来源还很远，但我们相信这将使我们对他们的船只如何运作有更多的了解。"
+
+tech_precursor_phanon_design_pe_3: "通过 Phi Tech 分析"
+tech_precursor_phanon_design_pe_3_desc: "收集完所有数据和碎片后，对法农飞船进行最终的分析应该是可行的。,这最终将使我们能够创造出受 Phanon Corps 启发的全系列基于 Phi 的技术。,完成这项分析也将为我们最终真正了解军团的神秘力量铺平道路。"
+
+
+tech_darkmatter_stealth_generator_re: "符文隐形发生器"
+tech_darkmatter_stealth_generator_re_desc: "更好的隐形技术带来了许多新的有趣的策略。,很快，我们将能够设计出除了立即突然袭击之外还有用的隐形机制。"
+
+ACOT_CLOAKING_LIGHT_RE_TOOLTIP: "§ELight 隐形发生器在交战时没有护盾惩罚，但提供有限的隐形能力。§!\n\n"
+ACOT_CLOAKING_HEAVY_RE_TOOLTIP: "$CLOAKING_SHIELD_REDUCTION_HEADER$ §R60%§!\n\n§E$SHIP_SHIELD_REDUCTION_CLOAKING$ 如果配备至少 Delta 级的护盾增幅器辅助组件，可减少一半。§!\n\n"
+
+ACOT_CLOAKING_LIGHT_RE: "符文光隐形发生器"
+ACOT_CLOAKING_LIGHT_RE_DESC: "符文光隐形发生器"
+ACOT_CLOAKING_FULL_RE: "符文超级隐形发生器"
+ACOT_CLOAKING_FULL_RE_DESC: "符文超级隐形发生器"
+
+################ MEGASTRUCTUR #############
+ 
+acot_phanon_dimensional_portal: "声子维度镜"
+acot_phanon_dimensional_portal_DESC: "巨大的单向维度门户似乎被法农军团用来在星系之间建立旅行网络。,似乎只有法农军团自己才能使用。"
+ 
+acot_phanon_dimensional_portal_disabled: "禁用的声子维度镜"
+acot_phanon_dimensional_portal_disabled_DESC: "巨大的单向维度门户，曾经被法农军团用来在星系之间建立旅行网络。,镜子现在已被禁用，导致军团无法使用它轻松进入这个星系。"
+
+acot_phanon_master_reactor_sphere: "法农星际旅行者"
+acot_phanon_master_reactor_sphere_DESC: "巨大的宇宙飞船似乎容纳着各种内部巨型结构，并被认为被法农军团用来在星系之间旅行以建立他们的行动基地。"
+ 
+#### PHANOROS DISTRUCTUS ######
+ 
+district_acot_phanon_command: "Phanon Vault A 区模块"
+district_acot_phanon_command_plural: "Phanon Vault A 区模块"
+district_acot_phanon_command_desc: "A 区模块似乎是 Vault 内部的默认配置。,使用这种配置建造的部分提供了充足的材料、补给和能量输出，而维护成本几乎不明显。"
+ 
+district_acot_phanon_data: "Phanon Vault B 区模块"
+district_acot_phanon_data_plural: "Phanon Vault B 区模块"
+district_acot_phanon_data_desc: "看来这种配置将避难所的这一部分变成了一个活生生的生物穹顶。,尽管军团主要依赖自动化，因此很少需要类似的东西，但该区域可能仍然出于欺骗的目的，因为这似乎是军团和银河之间发生任何互动的地方。,由于其高维护成本和尺寸，它显然不适合用作主要模块。"
+ 
+district_acot_phanon_vault: "Phanon Vault C 区模块"
+district_acot_phanon_vault_plural: "Phanon Vault C 区模块"
+district_acot_phanon_vault_desc: "C-Zone Design 看起来是一种安全或防御模块。,部分区域通过额外的传送节点以及许多自动防御系统进行了加固。"
+ 
+#### BUILDING DERU ######
+ 
+building_phanon_tower: "法农指挥部"
+building_phanon_tower_desc: "法农指挥部"
+ 
+building_phanon_plant: "法农符文场"
+building_phanon_plant_desc: "法农符文场"
+ 
+building_phanon_vault: "法农工作室"
+building_phanon_vault_desc: "法农工作室"
+ 
+building_phanon_lab: "法农秘密行动"
+building_phanon_lab_desc: "法农秘密行动"
+ 
+ 
+acot_modifier_vault_delay: "法农金库锁定"
+acot_modifier_vault_delay_desc: "我们只能时不时地尝试突破。"
+ 
+acot_infiltrate_phanon_grid_fail_text: "§R我们不能允许避难所在无人维护的情况下被抓获，否则军团可能会潜入渗透者以重置控制代码。,如果有人在交火中丧生，则需要更多的子弹。§！"
+
+decision_acot_infiltrate_phanon_grid: "无限走廊突击"
+decision_acot_infiltrate_phanon_grid_desc: "发出打开金库室的命令并下降到无限走廊，军队必须与安全系统和封闭的防御部队作战才能取得胜利。,请注意，如果攻击失败，军团可能会趁机从我们的控制下夺回避难所！"
+ 
+decision_acot_infiltrate_phanon_grid_stage_two: "无限走廊突击"
+decision_acot_infiltrate_phanon_grid_stage_two_desc: "发出打开金库室的命令并下降到无限走廊，军队必须与安全系统和封闭的防御部队作战才能取得胜利。,请注意，如果攻击失败，军团可能会趁机从我们的控制下夺回避难所！"
+ 
+decision_acot_infiltrate_phanon_grid_stage_three: "无限走廊突击"
+decision_acot_infiltrate_phanon_grid_stage_three_desc: "发出打开金库室的命令并下降到无限走廊，军队必须与安全系统和封闭的防御部队作战才能取得胜利。,请注意，如果攻击失败，军团可能会趁机从我们的控制下夺回避难所！"
+
+decision_acot_infiltrate_phanon_grid_stage_four: "无限走廊突击"
+decision_acot_infiltrate_phanon_grid_stage_four_desc: "发出打开金库室的命令并下降到无限走廊，军队必须与安全系统和封闭的防御部队作战才能取得胜利。,请注意，如果攻击失败，军团可能会趁机从我们的控制下夺回避难所！"
+#### TRAITS AND CIVICS ######
+ 
+RT_PHANON: "操作型C型"
+RT_PHANON: "操作型C型"
+ 
+gov_acot_phanon_corps: "星际准军事部队"
+gov_acot_phanon_corps_desc: "这个派系并不是作为一个帝国而存在，而是一支具有星际影响力的强大的第三方准军事力量。"
+ 
+civic_acot_phanon_corps: "法农军团"
+civic_acot_phanon_corps_desc: "法农军团是一个神秘的中立团体，拥有未知的知识和力量。"
+ 
+civic_acot_phanon_fleet: "不屈舰队"
+civic_acot_phanon_fleet_desc: "法农军团的舰队保持着严格的规定，要求最好的表演。"
+ 
+leader_trait_acot_phanon_admiral: "Phanon 操作 A 型"
+leader_trait_acot_phanon_admiral_desc: "A 型特工适合太空战斗和战斗领导力。"
+ 
+name_list_Phanon: "法农"
+name_list_Phanon: "Phanon 军团根据其所担任的角色分配其特工的名称。\n\nC 型 = 指挥官\nA 型 = 海军上将\nG 型 = 将军\nS 型 = 科学家\nM 型 = 经理"
+ 
+######## ARMY #############
+
+tech_phanon_army: "Phanon 值班人员访问代码"
+tech_phanon_army_desc: "这些被法农军团称为“执勤者”的人似乎是某种通过基因创造的超级士兵克隆体，只有一个目标：,为军团服务。,我们无法确定在创造这些超级士兵时使用了哪种基因构成或增强功能，但我们设法获得了其生产设施的访问代码。,但在我们对他们采取任何行动之前，我们需要确保执勤人员不会背叛我们。"
+
+acot_phanon_army: "法农值班士兵"
+acot_phanon_army_plural: "法农勤务兵"
+acot_phanon_army_desc: "基于军团神秘模板的基因增强超级士兵克隆人军队。,他们经过改装，只响应我们的命令，并且可以说优于大多数标准步兵。,但他们仍然能够感受到基本的情感，即他们仍然会受到士气的影响，并且会击溃优势敌军。,士兵身穿重甲，用途广泛，没有明显的可利用弱点。"
+ 
+acot_phanon_army_sniper: "法农值班狙击手"
+acot_phanon_army_sniper_plural: "法农值班员狙击手"
+acot_phanon_army_sniper_desc: "基于军团神秘模板的基因增强超级士兵克隆人军队。,他们经过改装，只响应我们的命令，并且可以说优于大多数标准步兵。,但他们仍然能够感受到基本的情感，即他们仍然会受到士气的影响，并且会击溃优势敌军。,狙击手的防护能力较弱，但擅长识别敌军，并以其卓越的枪法耗尽敌军士气，使他们在对抗标准步兵部队时表现出色。"
+
+tech_phanon_army_elite: "Phanon 精英执勤人员访问代码"
+tech_phanon_army_elite_desc: "在金库深处发现了更多的访问密码。,这些代码应该使我们能够获得更重、更强大的执勤者变体，以实现更大的破坏能力。"
+ 
+acot_phanon_elite: "帕农·杜蒂曼·精英"
+acot_phanon_elite_plural: "帕农·杜蒂曼·精英"
+acot_phanon_elite_desc: "与士兵相比，精英拥有更先进的装甲和武器。,他们的作战方式类似于现代外骨骼装甲步兵，尽管他们穿着更先进的仿生战斗服。,使用两个 Phanon 遗传密码。"
+
+acot_phanon_tank: "法农爱国者坦克"
+acot_phanon_tank_plural: "法农爱国者坦克"
+acot_phanon_tank_desc: "一种形状奇特的坦克，结合了传统坦克底盘设计的优点和基于助行器的设计的一些元素。,它们的破坏能力太大了，这也许可以解释为什么它们从未被部署来保卫避难所本身。,使用三个 Phanon 遗传密码。"
+
+tech_phanon_army_repeatable: "法农值班人员补给"
+tech_phanon_army_repeatable_desc: "我们已经几乎耗尽了法农值班克隆人的数量，如果我们希望获得更多，我们需要努力研究它们的遗传密码并恢复库存。"
+
+decision_recruit_phanon_dog: "请求 Phanon 恐怖无人机"
+decision_recruit_phanon_dog_desc: "雇佣 3 队 Phanon 攻击犬，驻扎在 Star Benders 上。"
+
+acot_phanon_attack_dog: "Phanon 恐怖无人机"
+acot_phanon_attack_dog_plural: "Phanon 恐怖无人机"
+acot_phanon_attack_dog_desc: "强大的自动犬形无人机，具有令人惊讶的良好战场情报。,他们擅长撕裂敌人的阵型，甚至破坏车辆的内部。"
+ 
+acot_phanon_attack_mammoth: "法农恐怖獠牙"
+acot_phanon_attack_mammoth_plural: "法农恐怖獠牙"
+acot_phanon_attack_mammoth_desc: "强大的自动猛犸形无人机，旨在以其巨大的尺寸和力量突破敌人的防御工事。"
+
+tech_phanon_attack_dog: "法农战争机器访问代码"
+tech_phanon_attack_dog_desc: "这些战争机器具有非常独特的动物设计和形状，与职责人的更具人形克隆体不同，这表明它们可能是按照在军团领土内发现的某些物种建模的。,就其用途而言，它们似乎更多地被用作执勤者的消耗性机械变体。,然而，它们的致命性确实弥补了它们脆弱的本质。"
+
+tech_phanon_attack_dog_repeatable: "法农战争机器补给"
+tech_phanon_attack_dog_repeatable_desc: "我们已经几乎耗尽了法农战争机器的数量，如果我们希望获得更多，我们需要努力获得更多组件和遗传密码来让它们恢复。"
+
+acot_phanon_operative: "Phanon 现场操作 A 型"
+acot_phanon_operative_plural: "A 型现场操作员"
+acot_phanon_operative_desc: "成对部署的法农战地特工可能是战场上最强大的战斗力量之一，能够应对几乎任何情况并执行各种策略，从直接战斗、破坏、秘密行动、暗杀甚至诱惑。,与大多数军团部队不同，野战特工是根据不同的个性、身份和外貌定制的。,但它们都同样致命。\n\nA 型特工擅长外科手术式打击、破坏和心理战。,他们通常使用非破坏性武器来实现他们的目标。"
+ 
+acot_phanon_operative_type_b: "Phanon 现场操作 B 型"
+acot_phanon_operative_type_b_plural: "B 型现场操作人员"
+acot_phanon_operative_type_b_desc: "成对部署的法农战地特工可能是战场上最强大的战斗力量之一，能够应对几乎任何情况并执行各种策略，从直接战斗、破坏、秘密行动、暗杀甚至诱惑。,与大多数军团部队不同，野战特工是根据不同的个性、身份和外貌定制的。,但它们都同样致命。\n\nB 型特工擅长正面攻击、大范围伤害和集中破坏，这使得他们在对抗机器或战斗时表现出色，而无需担心附带伤害。"
+
+tech_phanon_operative: "法农现场手术研究"
+tech_phanon_operative_desc: "野战特工也许是军团军队中最神秘但最强大的秘密之一，他们充当着抵御任何入侵者的最后一道防线。,它们似乎在自然界中同时拥有生物和机械成分，但也许最引人注目的特征是它们精心设计的时尚超越形式的设计。,每个特工都有定制的服装，并且在视觉上彼此截然不同，这表明他们还可能执行战斗以外的各种其他职责。\n\n无论设计如何，他们仍然是极其致命的战斗人员，而且他们的外表具有欺骗性,他们隐藏着许多武器库，他们所穿的服装出奇地耐用，其材料甚至比某些车辆的装甲还要坚固，但重量仍然很轻。,破解密码非常困难，而且金库内只剩下三名特工。"
+ 
+tech_phanon_operative_repeatable: "声波手术重建"
+tech_phanon_operative_repeatable_desc: "由于没有剩下的操作员可供我们激活，获取更多信息的唯一方法就是研究数据并尝试创建新模板。,这不是一件容易的事，因为内置的安全系统会让我们每次尝试重建基因模板时的任务变得更加困难。"
+ 
+######## DEFENDER #############
+ 
+acot_phanon_defense_soldier: "法农·杜蒂曼"
+acot_phanon_defense_soldier_plural: "法农·杜蒂曼"
+acot_phanon_defense_soldier_desc: "责任需要男人和女人。,必须履行职责。,因为这是《使命召唤》。"
+ 
+acot_phanon_defense_elite: "法能精英"
+acot_phanon_defense_elite_plural: "法能精英"
+acot_phanon_defense_elite_desc: "特警小队！,这是正确的。,明白了，我去看看。"
+ 
+acot_phanon_defense_psi: "法农 Psi 突击队"
+acot_phanon_defense_psi_plural: "法农 Psi 突击队"
+acot_phanon_defense_psi_desc: "心理准备好了。,我知道你的想法。,收到的想法。,他的心智很弱！"
+ 
+acot_phanon_defense_commander: "法农军官"
+acot_phanon_defense_commander_plural: "法农军官"
+acot_phanon_defense_commander_desc: "<要点>莫尔·巴拉顿！,糟糕的目标！"
+ 
+acot_phanon_defense_droid: "法农枪卫士"
+acot_phanon_defense_droid_plural: "法农枪卫士"
+acot_phanon_defense_droid_desc: "后卫单位。,找出我们的敌人。,倾听。,对于法农.,地点已接受。"
+ 
+acot_phanon_defense_droid_commando: "法农突击队后卫"
+acot_phanon_defense_droid_commando_plural: "法农突击队捍卫者"
+acot_phanon_defense_droid_commando_desc: "你的来电？,执行......为了Phanon。,根据乌里穆里希的遗嘱。,我们为军团服务。,删除敌人。"
+ 
+acot_phanon_defense_droid_shielder: "法农宙斯盾防御者"
+acot_phanon_defense_droid_shielder_plural: "法能神盾卫士"
+acot_phanon_defense_droid_shielder_desc: "完全屏蔽。,我们可以怎样服务？,没有人能超越我们。,为因。,更新向量。,折射物镜。"
+ 
+acot_phanon_defense_droid_commander: "法农指挥后卫"
+acot_phanon_defense_droid_commander_plural: "法农指挥防御者"
+acot_phanon_defense_droid_commander_desc: "倾听。,今天我们该毁掉谁呢？,命令链接已建立。,等待订单。,我们的意志是法农。,乌里穆里奇引导我们。"
+ 
+acot_phanon_defense_xenomorph: "声子增强型异形"
+acot_phanon_defense_xenomorph_plural: "PhanPhanon 增强型异形"
+acot_phanon_defense_xenomorph_desc: "高度增强的实验性异形，嫁接了一些未知的灵能装置。,他们具有高度攻击性和反复无常，不能指望他们能长期保持温顺。"
+
+acot_phanon_defense_attack_dog: "法农攻击犬"
+acot_phanon_defense_attack_dog_plural: "法农攻击犬"
+acot_phanon_defense_attack_dog_desc: "爪子准备好了。,我们该打击哪里？,谁是我们的猎物？,很好。,在途中。,道路将变得清晰。,无处可逃。"
+ 
+acot_phanon_defense_turret: "法农步哨枪"
+acot_phanon_defense_turret_plural: "法能哨兵枪"
+acot_phanon_defense_turret_desc: "<蜂鸣声> 检测到入侵者。 ,<哔> 视线内有敌意。 ,<蜂鸣声> 已选择目标。 ,<蜂鸣声> 消除盖子。 ,<蜂鸣> 提供火力支援。"
+ 
+acot_phanon_defense_trap: "法农死亡陷阱"
+acot_phanon_defense_trap_plural: "法农死亡陷阱"
+acot_phanon_defense_trap_desc: "<嘟嘟声> <嘟嘟声> <嘟嘟声> <嘟嘟声> <嘟嘟声> <嘟嘟声> <BOOOOM>"
+ 
+ 
+acot_phanon_defense_operative: "法农现场操作员"
+acot_phanon_defense_operative_plural: "法农现场操作员"
+acot_phanon_defense_operative_desc: "成对部署的法农战地特工可能是战场上最强大的战斗力量之一，能够应对几乎任何情况并执行各种策略，从直接战斗、破坏、秘密行动、暗杀甚至诱惑。,与大多数军团部队不同，野战特工是根据不同的个性、身份和外貌定制的。,然而，它们都同样致命。\n\n现场行动小组由他们自己的具有超光速能力的个人攻击机部署。,如果他们未能完成分配的任务，他们也许可以退回到自己的个人手艺中。"
+ 
+#######################
+
+ACOT_PHI_CORVETTE_MID_S6: "皮皮克科尔维特"
+ACOT_PHI_CORVETTE_MID_M2S2: "Phi 多功能克尔维特"
+ACOT_PHI_CORVETTE_MID_M3: "Phi 武装直升机护卫舰"
+
+#######################
+
+ACOT_PHI_FRIGATE_MID_G3: "Phi重型鱼雷护卫舰"
+ACOT_PHI_FRIGATE_MID_G2M1: "皮岛战斗护卫舰"
+ACOT_PHI_FRIGATE_MID_G1S4: "Phi支援护卫舰"
+
+#######################
+
+ACOT_PHI_DESTROYER_BOW_M2S6: "皮尖桩弓"
+ACOT_PHI_DESTROYER_BOW_L1M3: "Phi 火炮弓"
+ACOT_PHI_DESTROYER_BOW_H2M1: "Phi机库弓"
+ACOT_PHI_DESTROYER_BOW_M5: "披武装直升机弓"
+ACOT_PHI_DESTROYER_BOW_G5: "Phi 重型鱼雷弓"
+ACOT_PHI_DESTROYER_STERN_S6: "皮·皮克特·斯特恩"
+ACOT_PHI_DESTROYER_STERN_M3: "皮号武装直升机船尾"
+ACOT_PHI_DESTROYER_STERN_G3: "菲鱼雷船尾"
+ 
+#######################
+
+ACOT_PHI_CRUISER_BOW_L1M2: "Phi 巡洋舰火炮弓"
+ACOT_PHI_CRUISER_BOW_M2S4: "Phi 巡洋舰尖桩弓"
+ACOT_PHI_CRUISER_BOW_M4: "Phi 巡洋舰武装直升机弓"
+ACOT_PHI_CRUISER_BOW_G4: "Phi 巡洋舰鱼雷弓"
+ACOT_PHI_CRUISER_MID_H2S2: "Phi Cruiser 机库核心"
+ACOT_PHI_CRUISER_MID_L2M1: "Phi 巡洋舰火炮核心"
+ACOT_PHI_CRUISER_MID_M5: "Phi 巡洋舰武装直升机核心"
+ACOT_PHI_CRUISER_MID_G5: "Phi 巡洋舰鱼雷核心"
+ACOT_PHI_CRUISER_MID_M3S4: "Phi Cruiser 纠察核心"
+ACOT_PHI_CRUISER_STERN_L1M1: "Phi巡洋舰炮兵船尾"
+ACOT_PHI_CRUISER_STERN_M3: "Phi巡洋舰武装直升机船尾"
+ACOT_PHI_CRUISER_STERN_G3: "Phi 巡洋舰鱼雷船尾"
+ACOT_PHI_CRUISER_STERN_M1S4: "Phi Cruiser 纠察船尾"
+ 
+#######################
+
+ACOT_PHI_BATTLESHIP_BOW_L2M2S4: "Phi战列舰突击弓"
+ACOT_PHI_BATTLESHIP_BOW_L2G2S4: "Phi战列舰鱼雷弓"
+ACOT_PHI_BATTLESHIP_BOW_L4: "Phi战列舰火炮弓"
+ACOT_PHI_BATTLESHIP_BOW_M1S2H3: "Phi战列舰机库弓"
+ACOT_PHI_BATTLESHIP_BOW_X1L2: "Phi 战列舰脊椎弓"
+ACOT_PHI_BATTLESHIP_MID_L2M6: "Phi 战列舰突击核心"
+ACOT_PHI_BATTLESHIP_MID_L2G6: "Phi战列舰鱼雷核心"
+ACOT_PHI_BATTLESHIP_MID_L5: "Phi战列舰火炮核心"
+ACOT_PHI_BATTLESHIP_MID_M4H3: "Phi战舰机库核心"
+ACOT_PHI_BATTLESHIP_MID_S4H4: "Phi战列舰航母核心"
+ACOT_PHI_BATTLESHIP_STERN_L3: "Phi战列舰炮兵船尾"
+ACOT_PHI_BATTLESHIP_STERN_M6: “皮号战列舰突击船尾”
+ACOT_PHI_BATTLESHIP_STERN_G6: "Phi战列舰鱼雷船尾"
+ACOT_PHI_BATTLESHIP_STERN_S4H2: "皮岛战列舰机库船尾"
+ 
+#######################
+
+ACOT_PHI_TITAN_BOW_T2: "Phi 泰坦脊柱弓"
+ACOT_PHI_TITAN_BOW_H8: "披泰坦运载弓"
+ACOT_PHI_TITAN_BOW_T1XL2: "Phi Titan 双线圈弓"
+ACOT_PHI_TITAN_MID_XL2L8: "披泰坦火炮核心"
+ACOT_PHI_TITAN_MID_XL2H8: "披泰坦机库核心"
+ACOT_PHI_TITAN_MID_M4H10: "Phi Titan 载体核心"
+ACOT_PHI_TITAN_MID_XL6: "披泰坦攻城核心"
+ACOT_PHI_TITAN_STERN_XL2L4: "披泰坦炮兵船尾"
+ACOT_PHI_TITAN_STERN_XL2H4: "披泰坦机库船尾"
+ACOT_PHI_TITAN_STERN_M4H6: "披泰坦航母船尾"
+ACOT_PHI_TITAN_STERN_XL4: "披泰坦攻城船尾"
+ 
+#######################
+
+ACOT_PHI_SHIP_COLOSSUS_SECTION: "菲巨像 Phalious Palous"
+
+#######################
+
+ACOT_PHI_CORE_JUGGERNAUT_SECTION: "Phi 标准主宰"
+ACOT_PHI_CORE_JUGGERNAUT_L_SECTION: "Phi 战斗主宰"
+ACOT_PHI_CORE_JUGGERNAUT_XL_SECTION: "Phi 攻城主宰"
+
+#######################
+
+ACOT_PHI_PLATFORM_2M8S: "皮纠察队"
+ACOT_PHI_PLATFORM_6M: "皮熊烧区"
+ACOT_PHI_PLATFORM_6G: "Phi 鱼雷科"
+ACOT_PHI_PLATFORM_3L: "皮炮兵科"
+ACOT_PHI_PLATFORM_3H: "皮伊机库部分"
+#######################
+
+ACOT_PHI_ION_CANNON_3T: "Phi Twin Arch-脊柱炮"
+ACOT_PHI_ION_CANNON_6XL: "Phi 四轴脊椎炮"
+ACOT_PHI_ION_CANNON_1T4XL: "Phi动力炮"
+ACOT_PHI_ION_CANNON_12H: "皮杜珀机库铁路"

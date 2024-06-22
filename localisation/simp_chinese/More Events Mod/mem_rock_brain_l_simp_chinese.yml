@@ -1,0 +1,73 @@
+﻿l_simp_chinese:
+
+####################################
+# Rock Brain Project
+# by asnys
+####################################
+
+ mem_rock_brain.201.title:0 "请求协助"
+ mem_rock_brain.201.desc:0 "我们在 [mem_rock_brain_planet.GetName] 上监测岩石大脑的研究帖子发出了一条紧急信息：大脑似乎已经意识到外部力量正在监测它！,他们紧急请求科学船的支持！"
+ mem_rock_brain.201.a:0 "立刻派船来！"
+ mem_rock_brain.201.b:0 "不管你想不想，它只是一块石头。,我们有更重要的优先事项。"
+
+ MEM_ROCK_BRAIN_PROJECT:0 "与岩石交谈"
+ MEM_ROCK_BRAIN_PROJECT_DESC:0 "这颗小行星上充满了带有电荷的奇怪矿脉，这些电荷似乎起到了某种大脑的作用——一个已经意识到我们的监控的大脑。,我们在岩石上的研究站正在请求援助以建立通讯。"
+ 
+ mem_rock_brain.203.title:0 "科学与岩石"
+ mem_rock_brain.203.desc:0 "我们的研究人员已经成功地与岩石建立了联系。 \n\n它似乎具有某种形式的智慧，尽管它与我们以前见过的任何东西都不同，但我们甚至很难用语言描述这种智慧，更不用说理解了。,它显然没有意识到宇宙存在于其自身之外，并且在我们到来之前已经以孤立的唯我论存在了数百万年，甚至数十亿年。,它很难理解“存在”、“不存在”、“空间”和“运动”等概念。\n\n在试图解释时，我们的一位科学家将一本基础物理教科书下载到其中。,它开始根据材料提出问题，并根据答案提出进一步的问题，直到它很快到达现代物理学的前沿 - 并通过了它们。\n\n大脑显然渴望为我们的科学研究工作做出贡献，并且具有,对现实本质的深刻独特的视角。,这可能是一次富有成果的伙伴关系。"
+ mem_rock_brain.203.a:0 "精彩的。"
+ 
+ mem_rock_brain.204.title:0 "哲学与岩石"
+ mem_rock_brain.204.desc:0 "我们的研究人员已经成功地与岩石建立了联系。,它似乎具有某种形式的智慧，尽管它与我们以前见过的任何东西都不同，但我们甚至很难用语言描述这种智慧，更不用说理解了。,它显然没有意识到宇宙存在于其自身之外，并且在我们到来之前已经以孤立的唯我论存在了数百万年，甚至数十亿年。,它很难理解“存在”、“不存在”、“空间”和“运动”等概念。\n\n在试图解释时，我们的一位科学家将一本基础哲学教科书下载到了其中。,它开始提出有关材料的问题，并根据答案提出进一步的问题，直到它很快超出了我们理解的极限。 \n\n大脑显然渴望继续与我们的思想家谈论哲学，并对哲学有深刻独特的看法,现实的本质。,这可能是一次富有成果的伙伴关系。"
+ mem_rock_brain.204.a:0 "精彩的。"
+ 
+ mem_rock_brain.205.title:0 "诗歌与岩石"
+ mem_rock_brain.205.desc:0 "我们的研究人员已经成功地与岩石建立了联系。,它似乎具有某种形式的智慧，尽管它与我们以前见过的任何东西都不同，但我们甚至很难用语言描述这种智慧，更不用说理解了。,它显然没有意识到宇宙存在于其自身之外，并且在我们到来之前已经以孤立的唯我论存在了数百万年，甚至数十亿年。,它花了很多时间创作一些与诗歌并不完全不同的东西——它现在显然渴望与读者分享。\n\n它的诗歌是......令人着迷的。,奇妙。,完全、完全独特。\n\n这位摇滚歌手的作品已成为公众痴迷的对象，当我们与这种独特的智慧相会时，人们感到相当高兴。"
+ mem_rock_brain.205.a:0 "精彩的。"
+ 
+ mem_rock_brain.211.title:0 "摇滚乐队最新一卷"
+ mem_rock_brain.211.desc:0 "[mem_rock_brain_planet.GetName] 的摇滚大脑出版了新诗集，引起了公众的广泛掌声。"
+ mem_rock_brain.211.a:0 "精彩的。"
+ mem_rock_brain.211.b:0 "很好，但别每次都告诉我。"
+ 
+ mem_poetry_released:0 "诗歌出版"
+ mem_poetry_released_desc:0 "你们的人民对新的外星诗集的发行感到高兴。"
+
+ #########################
+ #Journey into Rock Brain#
+ #By ViolentBeetle       #
+ #########################
+
+ mem_rock_brain.301.name:0 "岩石大脑之谜"
+ mem_rock_brain.301.desc:0 "自从我们第一次意识到所谓的 §Y“岩石大脑”§!（小行星 §Y[From.GetName]§! 内部的一个看似会思考的结构）以来，它就一直吸引着我们科学家的注意力。\n\n[ ,rock_brain_leader.GetName]声称[rock_brain_leader.GetSheHe]知道[rock_brain_leader.GetSXX]一种揭开其秘密的方法，但这需要[rock_brain_leader.GetHerHim]在最小的保护下独自勇敢地面对小行星表面。"
+ mem_rock_brain.301.a:0 "允许这个。"
+ mem_rock_brain.301.a.tooltip:0 "[rock_brain_leader.GetName] 将出发去准备探险。,让我们希望 [rock_brain_leader.GetSheHe] 知道 [rock_brain_leader.GetSXX] [rock_brain_leader.GetSheHe] [rock_brain_leader.GetIsAre] 在做什么..."
+ mem_rock_brain.301.b:0 "不行，这太冒险了。"
+
+ mem_rock_brain.302.name:0 "岩石大脑：科学家吞噬者"
+ mem_rock_brain.302.desc:0 "按照安排，[rock_brain_leader.GetName] 今天已通过专门绘制的航天飞机抵达 [mem_rock_brain_planet.GetName]。\n\n当 [rock_brain_leader.GetSheHe] 踏出地面时，远程监控显示岩石大脑内的活动突然增长,它飙升至以前闻所未闻的水平。,此时，[rock_brain_leader.GetName] 的信号从我们的传感器中消失了。\n\n不久之后，岩石大脑的活动开始减少，但稳定在高于之前记录的水平。,表面上没有发现[rock_brain_leader.GetName]的迹象，就好像岩石大脑已经吞噬了[rock_brain_leader.GetHimHer]。"
+ mem_rock_brain.302.a:0 "你最好被[rock_brain_leader.GetHerHim]噎住，摇滚。"
+ mem_rock_brain.302.a.tooltip:0 "[rock_brain_leader.GetName] 失踪，推测已死亡。"
+
+ mem_rock_brain.303.name:0 "摇滚大脑：杀手摇滚"
+ mem_rock_brain.303.desc:0 "按照安排，[rock_brain_leader.GetName] 今天乘坐专门绘制的航天飞机抵达 [mem_rock_brain_planet.GetName]。\n\n当 [rock_brain_leader.GetSheHe] 踏出地面时，远程监控显示岩石大脑内的活动不断增长，直到突然,飙升至前所未闻的水平。,就在此时，[rock_brain_leader.GetName] 的信号从我们的传感器中消失，就在 [rock_brain_leader.GetSheHe] 对 [rock_brain_leader.GetHisHer] 真空服中的严重环境破坏发出求救信号之后。\n\n片刻之后，活动下降了,至正常水平。 ,[rock_brain_leader.GetName] 烧焦的遗骸很快就从小行星表面被发现。"
+ mem_rock_brain.303.a:0 "看起来 [rock_brain_leader.GetSheHe] 不知道 [rock_brain_leader.GetSheHe] [rock_brain_leader.GetWasWere] 在做什么..."
+ mem_rock_brain.303.a.tooltip:0 "[rock_brain_leader.GetName] 死了。"
+
+ mem_rock_brain.310.name:0 "摇滚大脑：奇怪的活动"
+ mem_rock_brain.310.desc:0 "岩石大脑似乎正在广播某种信号。 ,\n\n更奇怪的是信号使用我们自己的编码。"
+
+ mem_rock_brain.311.desc:0 "你听到了吗？,很好。\n\n你好。,是我，[rock_brain_leader.GetName]。\n\n你可能以为我死了，但你最好相信我，我还活着。,我从未如此充满活力。,岩石大脑确实吞噬了我，这是真的，但它并没有§S毁灭§！,我。,我只是转变了。\n\n我已经成为一个拥有摇滚大脑的人。,我的思想已经与它的思想处于一种无限和谐的状态。\n\n我唯一要求你的是不要干扰我们的工作。,如果必要的话请观察我们，如果您愿意的话可以偷听我们的想法，但不要干预。"
+ mem_rock_brain.311.a:0 "很好。"
+ mem_rock_brain.311.a.tooltip:0 "[rock_brain_leader.GetName] 将存在于 Rock Brain 的大脑中。 ,[mem_rock_brain_planet.GetName] 现在将被称为 [rock_brain_leader.GetName]。 ,\n\n[mem_rock_brain_planet.GetName] 的科学产出显着增加。"
+ mem_rock_brain.311.b:0 "你还好吗？"
+ mem_rock_brain.311.b.reponse:0 "我从来没有这么好过。,别担心，在我目前的状态下，没有什么痛苦或恐惧，或任何其他你必须处理的不愉快的事情。,我已经把这个永远抛在脑后了。"
+ mem_rock_brain.311.c:0 "有办法救你吗？"
+ mem_rock_brain.311.c.reponse:0 "救我？,从何而来？,为了什么？\n\n你能提供什么？,把我的 [rock_brain_leader.Species.GetAdj] 身体还给我？,让我变回一堆可怜的细胞，漫无目的地拖着脚，没有目的，直到衰老？\n\n不。,我现在知道的比你想象的还要多。,是§！,超出你的想象。,我思考一些你甚至无法概念化的事情。,我不需要你的帮助，也不需要你的怜悯。"
+ mem_rock_brain.311.d:0 "您能与我们分享一些见解吗？"
+ mem_rock_brain.311.d.reponse:0 "与你？,不。\n\n你甚至无法想象我现在所知道的事情。,没有语言可以命名它们，也没有理论可以使它们合理化。\n\n也许有一天你能够理解我智慧的一小部分。,这一天不会很快到来。"
+
+ mem_rock_brain_eater_of_scientists:0 "科学家吞噬者"
+ mem_rock_brain_eater_of_scientists_desc:0 "岩石大脑似乎对在其表面行走的科学家产生了兴趣。"
+ mem_rock_brain_merged_thoughts:0 "合并的想法"
+ mem_rock_brain_merged_thoughts_desc:0 "岩石大脑将思想与科学家融为一体。"

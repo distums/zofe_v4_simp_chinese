@@ -1,0 +1,22 @@
+﻿l_simp_chinese:
+ ###############################################
+ # Shapes Under the Ice -- Main Line
+ # Idea and main writing by Foremole
+ # Code and supplemental writing by LamilLerran
+ ###############################################
+ mem_shapes_under_ice_category:0 "神秘的形状"
+ mem_shapes_under_ice_category_desc:0 "即使在高轨道上，§Y[Root.GetName]§! 表面也会出现奇怪的黑点。,可见数十万之多。,然而，在轨道上仅几天后，我们的调查人员就已经注意到形状发生了变化；,有些已经消失，有些已经出现，还有许多的位置略有改变。"
+ mem_shapes_under_ice.1.name:0 "大型鹦鹉螺"
+ mem_shapes_under_ice.1.desc:0 "经过仔细检查并在§Y[From.GetName]§!表面下发射探测器，§Y[Root.GetLeaderName]§!,已经确定整个地球被海洋覆盖，而海洋又被厚厚的冰层覆盖。,尽管如此，光线可以穿透巨大的覆盖物，支撑着茂盛的水生生物生态系统。,然而，最值得注意的是 §Y[From.GetName]§! 转移地点的罪魁祸首：巨大的鹦鹉螺，数公里宽，占据世界生态系统的榜首，没有天敌。,已经发布了一个特殊项目来更详细地研究这些生物。"
+ mem_shapes_under_ice.1.a:0 "看看那些东西的大小！"
+ MEM_SHAPES_UNDER_ICE_PROJECT:0 "调查鹦鹉螺"
+ MEM_SHAPES_UNDER_ICE_PROJECT_DESC:0 "一个调查小组在§Y[From.GetName]§!冰层下发现了充满生命的海洋。,我们的科学家渴望近距离观察 [From.GetPlanetMoon] 生物圈的顶峰物种，这是一种宽达数公里的巨型鹦鹉螺。"
+ mem_shapes_under_ice.2.name:0 "迷人的鹦鹉螺"
+ mem_shapes_under_ice.2.desc:0 "经过进一步研究和多次冰下探险，§Y[Root.GetName]§! 的船员,发现了一些关于鹦鹉螺的有趣的事情。,首先，它们的生物过程可以为它们的外壳创造出极其坚韧的材料，非常适合建筑。,不过，这需要杀死他们才能获得材料。,由于鹦鹉螺也表现出了与大多数半感知物种类似的基本智力水平，因此这种可能性变得没有吸引力。,此外，当它们无法保持漂浮时，它们会迅速落入深处，除非死亡时有团队在场，否则不可能收割死者。,这意味着如果我们想恢复它们的外壳，我们就必须主动屠杀这些生物。"
+ mem_shapes_under_ice.2.a:0 "我们的生物学家会很高兴研究这些生物。"
+ mem_shapes_under_ice.2.b:0 "尽管这让我们痛苦，但他们的损失就是我们的收获。"
+ mem_shapes_under_ice.2.phile:0 "让我们看看他们有多聪明。,尝试建立沟通。"
+ mem_shapes_under_ice.2.mat:0 "即使我们不收获它们，我们也可以研究活的贝壳。"
+ mem_shapes_under_ice.99.name:0 "脏视口"
+ mem_shapes_under_ice.99.desc:0 "进一步调查 §Y[From.From.GetName]§!,表明移动的黑点根本不是来自行星，而是来自压力泄漏，导致 §Y[Root.GetName]§! 视口出现光学缺陷。,工程团队已经修复了有故障的压力阀，这里没有更多有趣的东西了。"
+ mem_shapes_under_ice.99.a:0 "令人失望。"
