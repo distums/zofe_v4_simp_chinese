@@ -1,0 +1,35 @@
+﻿l_english:
+ 
+########################## DEPOSITS ##########################
+
+acot_d_dark_matter_deposit_3: "£sr_dark_matter£ §Y+3§!\n£physics£ +1"
+acot_d_dark_matter_deposit_6: "£sr_dark_matter£ §Y+6§!\n£physics£ +2"
+acot_d_dark_matter_deposit_9: "£sr_dark_matter£ §Y+9§!\n£physics£ +3"
+acot_d_dark_matter_deposit_15: "£sr_dark_matter£ §Y+15§!\n£physics£ +4"
+
+acot_d_dark_matter_deposit_fractured: "£sr_dark_matter£ §Y+15§!\n£acot_sr_dark_energy£ §Y+15§!"
+acot_d_dark_matter_deposit_fractured_30: "£sr_dark_matter£ §Y+30§!\n£acot_sr_dark_energy£ §Y+30§!"
+acot_d_dark_matter_deposit_fractured_50: "£sr_dark_matter£ §Y+50§!\n£acot_sr_dark_energy£ §Y+50§!"
+acot_d_dark_matter_deposit_fractured_ae: "£sr_dark_matter£ §Y+50§!\n£acot_sr_dark_energy£ §Y+50§!"
+acot_d_dark_matter_deposit_fractured_ae_100: "£sr_dark_matter£ §Y+3100§!\n£acot_sr_dark_energy£ §Y+100§!"
+acot_d_dark_matter_deposit_fractured_ae_200: "£sr_dark_matter£ §Y+200§!\n£acot_sr_dark_energy£ §Y+200§!"
+
+acot_d_dark_matter_deposit_void_hole_200: "£sr_dark_matter£ §Y+200§!\n£acot_sr_dark_energy£ §Y+200§!\n£physics£ +20"
+acot_d_dark_matter_deposit_void_hole_400: "£sr_dark_matter£ §Y+400§!\n£acot_sr_dark_energy£ §Y+400§!\n£physics£ +40"
+acot_d_dark_matter_deposit_void_star_150: "£energy£ +150\n£sr_dark_matter£ §Y+150§!\n£acot_sr_dark_energy£ §Y+300§!\n£physics£ +30"
+acot_d_dark_matter_deposit_void_star_300: "£energy£ +300\n£sr_dark_matter£ §Y+300§!\n£acot_sr_dark_energy£ §Y+600§!\n£physics£ +60"
+
+acot_d_phanon_stockpile_1: "£minerals£ +5000\n£energy£ +5000\n£alloys£ §Y+3000§!"
+acot_d_phanon_stockpile_2: "£food£ +5000\n£consumer_goods£ §Y+5000§!\n£alloys£ §Y+3000§!"
+acot_d_phanon_stockpile_3: "£minerals£ +10000\n£energy£ +10000"
+acot_d_phanon_stockpile_4: "£food£ +10000\n£consumer_goods£ §Y+10000§!"
+acot_d_phanon_stockpile_5: "£minor_artifacts£ §Y+20§!\n£sr_living_metal£ §Y+20§!\n£nanites£ §Y+20§!"
+
+acot_d_phanon_data_1: "£physics£ +1000\n£society£ +1000\n£engineering£ +1000"
+acot_d_phanon_data_2: "£physics£ +500\n£society£ +2000\n£engineering£ +500"
+acot_d_phanon_data_3: "£physics£ +2000\n£society£ +500\n£engineering£ +500"
+acot_d_phanon_data_4: "£physics£ +500\n£society£ +500\n£engineering£ +2000"
+acot_d_phanon_data_5: "£society£ +3000"
+acot_d_phanon_data_6: "£physics£ +3000"
+acot_d_phanon_data_7: "£engineering£ +3000"
+acot_d_phanon_data_8: "£physics£ +250\n£society£ +250\n£engineering£ +250\n£minor_artifacts£ §Y+25§!"

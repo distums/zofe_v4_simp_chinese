@@ -22,7 +22,7 @@
  BANISHED_SHIELD_CAT_FAIL: "Deteriorating Shield"
  DETERIORATING_SHIELD_DESC: "This planet is encased in some kind of impenetrable shield."
  SHIELDED_PLANET_PROJECT_NAME: "Deteriorating Shield"
- SHIELDED_PLANET_PROJECT_DESC: "[This.GetName]'s shield appears to be deteriorating. We could try to bring it down."
+ SHIELDED_PLANET_PROJECT_DESC: "[From.GetName]'s shield appears to be deteriorating. We could try to bring it down."
  SHIELDED_PLANET_PROJECT_THREAT_DESC: "[From.planet.GetName]'s shield appears to be deteriorating, just like the one encasing our world. Taking it down should be easy."
  TAKE_IT_DOWN: "Take it down."
  TAKE_IT_DOWN_TOOLTIP: "We will try to breach the shield."

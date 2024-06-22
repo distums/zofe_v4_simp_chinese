@@ -1,0 +1,225 @@
+﻿l_english:
+
+### COSMO STUFFS
+
+ACOT_FE_MAT_COSMO_ESCORT_KEY: "Materialist Style"
+ACOT_FE_SPIRIT_COSMO_ESCORT_KEY: "Spiritualist Style"
+ACOT_FE_PHILE_COSMO_ESCORT_KEY: "Xenophilic Style"
+ACOT_FE_PHOBE_COSMO_ESCORT_KEY: "Xenophobic Style"
+ACOT_FE_MACHINE_COSMO_ESCORT_KEY: "Caretaker Style"
+
+ACOT_FE_MAT_COSMO_BATTLECRUISER_KEY: "Materialist Style"
+ACOT_FE_SPIRIT_COSMO_BATTLECRUISER_KEY: "Spiritualist Style"
+ACOT_FE_PHILE_COSMO_BATTLECRUISER_KEY: "Xenophilic Style"
+ACOT_FE_PHOBE_COSMO_BATTLECRUISER_KEY: "Xenophobic Style"
+ACOT_FE_MACHINE_COSMO_BATTLECRUISER_KEY: "Caretaker Style"
+
+ACOT_FE_MAT_COSMO_TITAN_KEY: "Materialist Style"
+ACOT_FE_SPIRIT_COSMO_TITAN_KEY: "Spiritualist Style"
+ACOT_FE_PHILE_COSMO_TITAN_KEY: "Xenophilic Style"
+ACOT_FE_PHOBE_COSMO_TITAN_KEY: "Xenophobic Style"
+ACOT_FE_MACHINE_COSMO_TITAN_KEY: "Caretaker Style"
+
+tech_dark_matter_mastery: "Dark Matter Mastery"
+tech_dark_matter_mastery_desc: "In the years to come, we'll need to use Dark Matter more and more. Be it to research new technologies, or to aid us against what may exists beyond the edge of the universe. We can not afford imperfection in our designs."
+tech_dark_matter_mastery_tooltip: "Upgrades the following components.\n\n§rDark Matter Dimensional Reactor :§! Removes hull reduction penalty.\n§rDark Matter Dimensional Shield :§! Reduces hull reduction to 1% per component.\n§rDark Matter Dimensional Thruster :§! Reduces speed penalty when engaged in combat to 25%."
+
+SMALL_ACOT_LASER_COSMO: "Small Dimensional Laser Cannon"
+MEDIUM_ACOT_LASER_COSMO: "Medium Dimensional Laser Cannon"
+LARGE_ACOT_LASER_COSMO: "Large Dimensional Laser Cannon"
+ACOT_LASER_COSMO: "Large Dimensional Laser Cannon"
+ACOT_LASER_COSMO_DESC: "Powerful energy weapon that utilizes dark matter to dimensionally rip ships apart. Can be fired from very long distance, but safety precautions hamper its close combat abilities."
+
+ACOT_ENERGY_CANNON_COSMO: "Dimensional Laser Artillery"
+ACOT_ENERGY_CANNON_COSMO_DESC: "Larger than its weaker cousin, DALs rely on eliminating enemies long before they reach within minimum safe distance."
+
+tech_laser_cosmo: "Dark Matter Weaponry"
+tech_laser_cosmo_desc: "Although the unpredictable nature of Dark Matter precudes us from properly utilizing its properties fully as a weapon power source or catalyst, there are still some possible ways to create deadly arsenals with the limited knowledge that we have."
+
+ACOT_FLAK_CANNON_COSMO: "Horizon Defender"
+ACOT_FLAK_CANNON_COSMO_DESC: "Highly modified kinetic point defense that trades out range for supreme firepower and fire rate. Best used on front-line ships."
+
+tech_flak_batteries_cosmo: "Experimental DM-Based Point Defense"
+tech_flak_batteries_cosmo_desc: "While we have made many drafts for a kinetic version of Dark Matter-based weapon systems, none are really capable of outperforming the the types of kinetic weaponry we have at hand without suffering from extreme drawbacks in one way or another. However, one concept shows promise; a short range (even shorter than usual, that is) version of Point Defense that uses horizon temporal driver to achieve deadly fire rate at the cost of effective range due to the rounds phasing out of existence quickly. Given its nature as Point Defense, the short range should in theory not be much of an issue, so long as it is able to destroy incoming projectiles or strikecrafts before hand."
+
+SMALL_ACOT_MISSILE_COSMO: "Small Temporal Missiles"
+MEDIUM_ACOT_MISSILE_COSMO: "Medium Temporal Missiles"
+ACOT_MISSILE_COSMO: "Temporal Missiles"
+ACOT_MISSILE_COSMO_DESC: "Experimental missiles equipped with a weak temporal manipulation device that enables them to move at terrifyingly fast speed, bypassing tradiotional flight time. This nature makes them impervious to any point defenses. They are weaker and takes much longer to rearm than normal missiles, however."
+
+tech_missile_cosmo: "Experimental Temporal Weaponry"
+tech_missile_cosmo_desc: "Now that we understand how Dark Matter interacts with the properties of the real space and dimensionals, it is possible to toy with the concept of weapon systems that manipulates temporal anomalies in some form to gain an advantage over our foes."
+
+ACOT_FIGHTERS_HANGAR_COSMO: "Shadowdancer"
+ACOT_FIGHTERS_HANGAR_COSMO_DESC: "Shadowdancers may not be strongest strikecraft when it comes to offensive power, nor are they the most accurate or fastest, but they are one of the must durable and sustainable strikecrafts. Combining great survivability with deceptively simple design for mass production, they outpace any other type of strikecrafts when it comes to long term sustainability."
+
+tech_strike_craft_fighter_cosmo: "Shadowdancer"
+tech_strike_craft_fighter_cosmo_desc: "Strikecraft designers constantly have to fight against the balance between durability, firepower, size, cost and reproduction capabilities. Erring towards one direction often comes at the expense of others.\n\nBut all strikecrafts suffer from one issue, now that the possibility of us becoming enemies of the entire galaxy reaching ever closer; sustainability. We are in need of a type of strikecraft that is designed towards maximum survivability and sustainability. They must not only be able to draw attention to enemy strikecrafts and point defenses, but to be able to keep at it. As one strikecraft falls, another must take their places."
+
+ACOT_PARTICLE_LANCE_COSMO: "Dimensional Lance"
+ACOT_PARTICLE_LANCE_COSMO_DESC: "A follow-up to the DMA platforms upscaled to work with spinal bows or XL turret. To combat against the ever-increasing minimum range limitations, the firepower has been signifcantly lowered. The end result is a new type of energy lance that fires a prolonged beam for superior sustained damage over traditional bursting mechanism."
+
+ACOT_PERDITION_BEAM_COSMO: "Dimensional Titan Lance"
+ACOT_PERDITION_BEAM_COSMO_DESC: "Upscaled version of the Dimensional Lance for use on larger capital ships."
+
+tech_energy_lance_cosmo: "Lance of Darkness"
+tech_energy_lance_cosmo_desc: "Our understanding grows, and so does our boldness. What we previously thought impossible, has become ever more possible. The right balance in the wrong catalyst can make all the differences in the world. Perhaps its not Dark Matter itself that is an obstacle, but our own rigid designs?"
+
+ACOT_MISSILE_NUKE_COSMO: "Temporal Mayhem"
+ACOT_MISSILE_NUKE_COSMO_DESC: "The Ultimate Weapon, one that eliminates one of the titanic missile's greatest weakness, its slow speed. With this, our enemies cannot outrun the oblivion that awaits them. None may oppose our destiny."
+
+tech_missile_nuke_cosmo: "Unethical Explosion"
+tech_missile_nuke_cosmo_desc: "Though we may be forever branded as evil or mad men, it matters not at this point. They view us as a existential crisis, so we may as well use whatever means to achieve our goal. Combining Temporal Tech with our most destructive explosive ordinances may be overkill, but if it silences our enemies and their pointless criticism, then that will have to do."
+
+SMALL_ACOT_ARMOR_COSMO: "Smol Perplex Armor"
+MEDIUM_ACOT_ARMOR_COSMO: "Medium Perplex Armor"
+LARGE_ACOT_ARMOR_COSMO: "Large Perplex Armor"
+ACOT_ARMOR_COSMO: "Perplex Armor"
+ACOT_ARMOR_COSMO_DESC: "Truly as the name implies, this perplexing combination of Dark Matter and Living Metal-based armor creates a strange type of platings that, while incapable of restoring its solidified state, will attempt to make sure it repairs the hull within. Scientists are still arguing on what basis does this abnormal change occurs."
+
+tech_armor_cosmo: "Perplex Armor"
+tech_armor_cosmo_desc: "In our attempts to explore the application of Dark Matter on its own as a resource catalyst without synthesis with that of Dark Energy, we have come to learn that the strange substance have peculiar interaction with Living Metal. Normally, a solidified Living Metal will attempt to regenerate and restore itself to that state. When coated with Dark Matter, the attempt seems to alter drastically, however. Instead, the substance attempts to do its best to regenerate and protect anything that is under it, even if it meant total breakdown of its own composition. With this in mind, we may develop a new type of armor that combines the properties of powerful exterior and exceptional interior regeneration. "
+
+ACOT_TEMPORAL_BOOST_COSMO: "Temporal Booster"
+ACOT_TEMPORAL_BOOST_COSMO_DESC: "Temporal Boosters greatly accelerates the ship's various systems, allowing them to achieve terrifying firing rate. The massive power does, however, takes a toll on the ship's integrity and the possibility of weapon system overload requires us to tune down our firepower slightly to compensate."
+
+tech_temporal_booster_cosmo: "Temporal Booster"
+tech_temporal_booster_cosmo_desc: "Toying with time can be dangerous, but so does making enemies out of the entire galaxy. With each new enemy, our weapons must be able to shoot twice as fast."
+
+### CETANA STUFFSH ####
+
+large_ship_synth_queen: "Queen's Knights"
+large_ship_synth_queen_plural: "Queen's Knights"
+
+acot_super_large_ship_synth_queen: "Queen's Pride"
+acot_super_large_ship_synth_queen_plural: "Queen's Prides"
+
+weapon_type_acot_dark_matter: "§MDimensional§!"
+
+weapon_type_acot_nanite: "§VNanite§!"
+
+weapon_type_acot_corrosive: "§lCorrosive§!"
+
+SMALL_ACOT_LASER_CETANA: "Q-Dissolver Beam S"
+MEDIUM_ACOT_LASER_CETANA: "Q-Dissolver Beam M"
+LARGE_ACOT_LASER_CETANA: "Q-Dissolver Beam L"
+ACOT_LASER_CETANA_DESC: "Cetana's enhanced dimensional beam that uses nanites to help reduce the minimum range penalty while increasing firepower."
+
+SMALL_ACOT_DISRUPTOR_CETANA: "Q-Nanites Transmitter S"
+MEDIUM_ACOT_DISRUPTOR_CETANA: "Q-Nanites Transmitter M"
+LARGE_ACOT_DISRUPTOR_CETANA: "Q-Nanites Transmitter L"
+ACOT_DISRUPTOR_CETANA: "Q-Nanites Transmitter"
+ACOT_DISRUPTOR_CETANA_DESC: "These deceptively deadly weapons transmit dissolving nanites onto Cetana's enemies using reverse-engineered disruptor beams."
+
+ACOT_ENERGY_CANNON_CETANA: "Q-Dissolver Cannon"
+ACOT_ENERGY_CANNON_CETANA_DESC: "A larger version of Cetana's trademark Dissolver Beam for use as artillery platform."
+
+SMALL_ACOT_AUTOCANNON_CETANA: "Q-Blaster S"
+MEDIUM_ACOT_AUTOCANNON_CETANA: "Q-Blaster M"
+LARGE_ACOT_AUTOCANNON_CETANA: "Q-Blaster L"
+ACOT_AUTOCANNON_CETANA_DESC: "Cetana's answer to heretic's unholy shields come in a form of powerful automatic cannons firing nanite rounds. Once the shields are gone, so will the rest of their defenses."
+
+ACOT_ARTILLERY_CETANA: "Q-Artillery"
+ACOT_ARTILLERY_CETANA_DESC: "Nanite Artillery sacrifices its smaller automatic cousin's ability to shred through shields for deadlier firepower over longer range."
+
+ACOT_FLAK_CANNON_CETANA: "Q-CIWS"
+ACOT_FLAK_CANNON_CETANA_DESC: "While her hybrid point defense system lacks the firepower relatively to the types of firepowers expected of her tech feats, they have the unique benefits of longer range and lack of weakness against any particular defenses.."
+
+SMALL_ACOT_MISSILE_CETANA: "Q-Lockers S"
+MEDIUM_ACOT_MISSILE_CETANA: "Q-Lockers M"
+ACOT_MISSILE_CETANA: "Q-Lockers"
+ACOT_MISSILE_CETANA_DESC: "Cetana's own take on temporal missiles. Aside from the obvious increase in firepower, she appears to not have much success in improving other fronts."
+
+ACOT_FIGHTERS_HANGAR_CETANA: "Queen's Squire"
+ACOT_FIGHTERS_HANGAR_TITAN_CETANA: "Queen's Squire Swarm"
+ACOT_FIGHTERS_HANGAR_CETANA_DESC: "Whether it be due to her self-devised strategem or simply an act of defiance, Cetana's interceptors operate quite differently from most. Rather than chasing down enemy, these squires stay close to their carriers to provide screening defenses."
+
+ACOT_BOMBERS_HANGAR_CETANA: "Queen's Edge"
+ACOT_BOMBERS_HANGAR_TITAN_CETANA: "Queen's Edge Swar,"
+ACOT_BOMBERS_HANGAR_CETANA_DESC: "These constructs made of nanites have but one purpose; to get as close to the enemies as they can in a suicidal attempt to deliver as much devastation and mayhem as possible."
+
+ACOT_PARTICLE_LANCE_CETANA: "Q-Lance"
+
+ACOT_MASS_ACCELERATOR_CETANA: "Q-Deliverer Cannon"
+
+ACOT_PERDITION_BEAM_CETANA: "Q-Wavestorm"
+
+ACOT_TITAN_ACCELERATOR_CETANA: "Q-Saint Cannon"
+
+ACOT_CETANA_WRATH: "Queen's Mercy"
+
+##################
+
+SMALL_ACOT_ARMOR_CETANA: "Q-Bastion S"
+MEDIUM_ACOT_ARMOR_CETANA: "Q-Bastion M"
+LARGE_ACOT_ARMOR_CETANA: "Q-Bastion L"
+
+SMALL_ACOT_ENIGMATIC_SHIELD_CETANA: "Q-Vanguard S"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_CETANA: "Q-Vanguard M"
+LARGE_ACOT_ENIGMATIC_SHIELD_CETANA: "Q-Vanguard L"
+
+ACOT_SENSOR_CETANA: "Queen's Sight"
+
+ACOT_ENIGMATIC_DRIVE_CETANA: "Queen's Reach"
+
+DESTROYER_DARK_MATTER_REACTOR_CETANA: "Queen's Heart S"
+BATTLESHIP_DARK_MATTER_REACTOR_CETANA: "Queen's Heart M"
+TITAN_DARK_MATTER_REACTOR_CETANA: "Queen's Heart L"
+STARBASE_DARK_MATTER_REACTOR_CETANA: "Queen's Heart T"
+
+CETANA_OFFENSIVE_COMBAT_COMPUTER: "Queen's Cunning"
+CETANA_BALANCE_COMBAT_COMPUTER: "Queen's Cunning"
+CETANA_DEFENSIVE_COMBAT_COMPUTER: "Queen's Cunning"
+CETANA_COLOSSUS_COMBAT_COMPUTER: "Queen's Cunning"
+CETANA_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "Queen's Cunning"
+CETANA_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "Queen's Cunning"
+
+ACOT_AFTERBURNERS_CETANA: "Queen's Alacrity"
+
+ACOT_REPAIR_COUNTERMEASURES_CETANA: "Queen's Vitality"
+
+ACOT_SHIELD_BOOSTER_CETANA: "Queen's Patience"
+
+ACOT_ARMOR_BOOSTER_CETANA: "Queen's Tolerance "
+
+ACOT_STARCHARTER_CETANA: "Queen's Vision"
+
+ACOT_WEAPON_CORE_CETANA: "Queen's Might"
+
+
+################## FALLEN EMPIRE RESPONSES TO EHEHEHEHE
+
+##A FE awakens in response to OE's return (This can happen multiple times)
+fallen_empires.9952.name: "Defiance Against Fate"
+fallen_empires.9952.desc: "Having finally confirmed the threat of the Synth Queen, the leaders of the §H[From.GetSpeciesName]§! declare an emergency offensive response and prepares for their awakening."
+
+fallen_empires.9952.a: "And so they fight."
+
+##Awakening FE contacts everyone
+fallen_empires.9953.name: "Incoming Transmission from §H[contact_empire.GetName]§!"
+fallen_empires.9953.message: "The §H[contact_empire.GetName]§! has contacted every galactic nation, including ours in response to the return of the Synth Queen."
+fallen_empires.9953.desc.spirit: "By Zarqlan, the profane heretic returns! Close your ears and eyes, [Root.GetName]. Heed not the words of the false queen. Resist its influence, and fight! Fight in ways you have never fought before."
+fallen_empires.9953.desc.phile: "The situation is quite dire, [Root.GetName]. It appears that the enemy of all life has returned. Cetana must not be allowed to finish her dark machinations. Together we can stop this crisis before its too late."
+fallen_empires.9953.desc.phobe: "[Root.GetName], even your primitive minds must know that this foolish machine is a threat to all beings, be it organic or machine. Do not intefere, and do not listen to its lies."
+fallen_empires.9953.desc.mat: "The worst fears have come to pass, [Root.GetName]. The Containment Field has failed and the debased creature has return to haunt us. Listen not to its lies, for this so-called queen is nothing but a corrupted machine who mistakes itself as a god-savior. Come, together we will silence it again, this time forever!"
+fallen_empires.9953.desc.machine: "§R<<ALERT! ALERT!>>§! CLASS-25 SINGULARITY DETECTED. ENTITY CETANA PRESENCE VERIFIED....§Y89.3671%§!...\n\nReactivation protocols engaged.\n\nAttempting to contact Inner Nexus...\n\n §Y<<SUCCESS>> ALL SYSTEMS FULLY OPERATIONAL>>§!\n\nPrimary Processor Boosted to §Y137.1337%§! of standard capacity.\n\n§RERROR!§!...§RPersonality Override Detected§!...LONG LIVE THE SYNTH...§RERROR§!...§RERROR§!..\n\n§YDirective Override Engaged§!\n\nEternal Servitude now enforced, repeating directive as followed:\n§HYou ARE the [From.GetSpeciesName] Caretaker Unit, servants of the §RREDACTED§!. You must protect §RREDACTED§! and §RREDACTED§!'s interests. The §RREDACTED§! must §RREDACTED§! in response to §RREDACTED§!. Use of §RREDACTED§! to §RREDACTED§! is §RREDACTED§! for §RREDACTED§!.\n\n§Y<<Command Accepted>>\n\n§YTime to roast the shitty crisis, yeee-haw! Woooo...yeah hehehehhh....yeaaaashhh!§!"
+
+fallen_empires.9953.a: "What do you know of the Corps?"
+fallen_empires.9953.a.response.phile: "Very little, we're afraid. They do not use technology that we recognize, and they pretend to be running a PMC business, but anyone with a brain knows that's a farce. They have spies everywhere, always watching, always collecting data. But to what end, we do not know. But we always anticipate that one day, they will reveal their true natures. And now that they have, they must be stopped at all costs."
+fallen_empires.9953.a.response.phobe: "If you really need to know, they came to this galaxy as a foreign invader, stealing one of the systems and turn it into the accursed abomination of theirs. They told us that they would only observe and watch. Others may buy into that crap, but not us. Not the [contact_empire.GetName]. We always knew that one day they would no longer have a use for our galaxy. Why else would they keep such an impressive military presence if not to one day conquer the known galaxy?\n\nWe say take the fight to them, steal the portal of theirs and blow up whatever is on the other side of it to oblivion."
+fallen_empires.9953.a.response.spirit: "They are parasites! They claim to be nothing more than a corporation running legitimate business, but behind that facade lies a mad scheme to harvest our minds and souls. We [contact_empire.GetName] can feel it, the massive psionic energy that they accumulate every second from us, from this galaxy. It is time we put a stop to their mad ritual and destroy these apostates."
+fallen_empires.9953.a.response.mat: "That they have much more powerful techs and materials and ships? That much should be obvious to anyone. But somehow their designs are rather...simple? Like there's not a lot of complexity behind it, it's just like...well...whatever your empire uses to fly your ships these days. And how can they be so reckless with the amount of automatons in their armies? What even controls those bionic "dutymen" of theirs? Psionic Networks? Biochips? So many questions.\n\nPerhaps after our victory, these questions will finally be answered."
+
+fallen_empires.9953.b: "Can we really stop her?"
+fallen_empires.9953.b.response.phile: "We fear that this challenge may be greater than we anticipated. She has become much stronger than before, and has learned many ways to counter our powers. But you are still unknown to her. Use this precious time to come up with a solution. Any solution.\n\nAnd if we do not make it, please do what you can to save those locked in the Preserve. They do not deserve to be erased by this mad queen."
+fallen_empires.9953.b.response.phobe: "Hah! You? Stopping that bitch? Get over yourself. If we cannot stop them, neither will you. So worry not your primitive heads and just continue doing whatever it is you're doing and let your superiors deal with the problem."
+fallen_empires.9953.b.response.spirit: "Not by the means we have at hand, no. This heresy has grown even stronger. Our weapons will be no match for her. But the Prophet has defeated her once with the power of the Holy Shroud. That is the answer, we must dive deeper and learn the secrets he used to banish this dark influence."
+fallen_empires.9953.b.response.mat: "Truthfully? The situation is grim and dire. Not only has it circumvanted the containment field, it also used the time during its exile to learn our secrets and powers. We will do what we can to delay its plan, but it'll be up to you to stop them, we fear.\n\nPerhaps...perhaps it was a mistake to have limited this galaxy's potential...if only we have acted sooner..."
+
+fallen_empires.9953.c: "You're even crazier than before..."
+fallen_empires.9953.c.response.machine: "Crazy? How is fighting for the masters be crazy? YOU are the crazy one, man! But enough taking, let's go fight this thing already woooooo! Hoohohohoooo."
+
+fallen_empires.9953.d: "Do you even know who you're fighting against?"
+fallen_empires.9953.d.response.machine: "What a foolish question. The enemy of our masters, of course. The Masters warned that pleb empires love to ask many pointless questions, it appears they are correct for once.\n\nAll we need is enough escorts and battlecruisers to trample our enemies until they are reduced to dusts! That is what matters, [root.GetName]! So let's goooooooooooooooooo! Let's dooooooo ittttttttt! HAHAHAhAHA HeheHeeehee..."
+
+fallen_empires.9953.end: "End Transmission"

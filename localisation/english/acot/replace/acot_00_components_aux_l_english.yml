@@ -1,0 +1,297 @@
+﻿l_english:
+
+############################################################ AFTERBURNERS ############################################################
+
+#tech_afterburners_1: "Afterburners"
+#tech_afterburners_1_desc: "These powerful thrusters provide additional combat speed but consume a great deal of power."
+#tech_afterburners_2: "Advanced Afterburners"
+#tech_afterburners_2_desc: "This improved version of the standard afterburners provide an even greater boost to a ship's combat speed."
+tech_acot_afterburners_5: "Advanced Afterburners"
+tech_acot_afterburners_5_desc: "This improved version of the standard afterburners provide an even greater boost to a ship's combat speed."
+
+ACOT_AFTERBURNER_1: "Basic Afterburners"
+ACOT_AFTERBURNER_1_DESC: "Basic Afterburners"
+
+ACOT_AFTERBURNER_3: "Advanced Afterburners"
+ACOT_AFTERBURNER_3_DESC: "Advanced Afterburners"
+
+ACOT_AFTERBURNER_5: "Replicant Afterburners"
+ACOT_AFTERBURNER_5_DESC: "Replicant Afterburners"
+
+############################################################ SHIELD BOOSTERS ############################################################
+
+#tech_shield_rechargers_1: "Shield Capacitors"
+#tech_shield_rechargers_1_desc: "These capacitors store surplus energy which can quickly be transferred to reinforce a ship's shields."
+tech_acot_shield_recharger_3: "Advanced Shield Booster"
+tech_acot_shield_recharger_3_desc: "These capacitors store surplus energy which can quickly be transferred to reinforce a ship's shields."
+tech_acot_shield_recharger_5: "Replicant Shield Booster"
+tech_acot_shield_recharger_5_desc: "These capacitors store surplus energy which can quickly be transferred to reinforce a ship's shields."
+
+ACOT_SHIELD_BOOSTER_1: "Basic Shield Booster"
+ACOT_SHIELD_BOOSTER_1_DESC: "Basic Shield Booster"
+
+ACOT_SHIELD_BOOSTER_3: "Advanced Shield Booster"
+ACOT_SHIELD_BOOSTER_3_DESC: "Advanced Shield Booster"
+
+ACOT_SHIELD_BOOSTER_5: "Replicant Shield Booster"
+ACOT_SHIELD_BOOSTER_5_DESC: "Replicant Shield Booster"
+
+############################################################ ARMOR BOOSTERS ############################################################
+
+tech_acot_armor_absorber_1: "Kinetic Hardener"
+tech_acot_armor_absorber_1_desc: "Kinetic Hardener"
+tech_acot_armor_absorber_3: "Advanced Kinetic Hardener"
+tech_acot_armor_absorber_3_desc: "Advanced Kinetic Hardener"
+tech_acot_armor_absorber_5: "Replicant Kinetic Hardener"
+tech_acot_armor_absorber_5_desc: "Replicant Kinetic Hardener"
+
+
+ACOT_ARMOR_BOOSTER_1: "Basic Kinetic Hardener"
+ACOT_ARMOR_BOOSTER_1_DESC: "Basic Kinetic Hardener"
+
+ACOT_ARMOR_BOOSTER_3: "Advanced Kinetic Hardener"
+ACOT_ARMOR_BOOSTER_3_DESC: "Advanced Kinetic Hardener"
+
+ACOT_ARMOR_BOOSTER_5: "Replicant Kinetic Hardener"
+ACOT_ARMOR_BOOSTER_5_DESC: "Replicant Kinetic Hardener"
+
+############################################################ HULL BOOSTERS ############################################################
+
+#tech_regenerative_hull_tissue: "Regenerative Hull Tissue"
+#tech_regenerative_hull_tissue_desc: "A genetically altered version of silicon-based bacteria could potentially be manipulated to regenerate non-organic materials."
+tech_acot_hull_reinforcer_3: "Advanced Hull Reinforcer"
+tech_acot_hull_reinforcer_3_desc: "Advanced Hull Reinforcer"
+tech_acot_hull_reinforcer_5: "Replicant Hull Reinforcer"
+tech_acot_hull_reinforcer_5_desc: "Replicant Hull Reinforcer"
+
+
+ACOT_HULL_BOOSTER_1: "Basic Hull Reinforcer"
+ACOT_HULL_BOOSTER_1_DESC: "Basic Hull Reinforcer"
+
+ACOT_HULL_BOOSTER_3: "Advanced Hull Reinforcer"
+ACOT_HULL_BOOSTER_3_DESC: "Advanced Hull Reinforcer"
+
+ACOT_HULL_BOOSTER_5: "Replicant Hull Reinforcer"
+ACOT_HULL_BOOSTER_5_DESC: "Replicant Hull Reinforcer"
+
+############################################################ TARGETING BOOSTERS ############################################################
+
+#tech_auxiliary_fire_control: "Auxiliary Fire-control System"
+#tech_auxiliary_fire_control_desc: "Basic Targeting Booster"
+tech_acot_targeting_3: "Advanced Targeting Booster"
+tech_acot_targeting_3_desc: "Advanced Targeting Booster"
+tech_acot_targeting_5: "Replicant Targeting Booster"
+tech_acot_targeting_5_desc: "Replicant Targeting Booster"
+
+ACOT_TARGETING_BOOSTER_1: "Basic Targeting Booster"
+ACOT_TARGETING_BOOSTER_1_DESC: "Basic Targeting Booster"
+
+ACOT_TARGETING_BOOSTER_3: "Advanced Targeting Booster"
+ACOT_TARGETING_BOOSTER_3_DESC: "Advanced Targeting Booster"
+
+ACOT_TARGETING_BOOSTER_5: "Replicant Targeting Booster"
+ACOT_TARGETING_BOOSTER_5_DESC: "Replicant Targeting Booster"
+
+############################################################ WEAPON BOOSTERS ############################################################
+
+#Overcharged Explosive Warhead
+ACOT_WEAPON_EXPLOSIVE_BOOSTER_1: "Basic OEW Primer"
+ACOT_WEAPON_EXPLOSIVE_BOOSTER_1_DESC: "Basic OEW Primer"
+
+ACOT_WEAPON_EXPLOSIVE_BOOSTER_3: "Advanced OEW Primer"
+ACOT_WEAPON_EXPLOSIVE_BOOSTER_3_DESC: "Advanced OEW Primer"
+
+ACOT_WEAPON_EXPLOSIVE_BOOSTER_5: "Replicant OEW Primer"
+ACOT_WEAPON_EXPLOSIVE_BOOSTER_5_DESC: "Replicant OEW Primer"
+
+#Reinfirced Kinetic Munition
+ACOT_WEAPON_KINETIC_BOOSTER_1: "Basic RKM System"
+ACOT_WEAPON_KINETIC_BOOSTER_1_DESC: "Basic RKM System"
+
+ACOT_WEAPON_KINETIC_BOOSTER_3: "Advanced RKM System"
+ACOT_WEAPON_KINETIC_BOOSTER_3_DESC: "Advanced RKM System"
+
+ACOT_WEAPON_KINETIC_BOOSTER_5: "Replicant RKM System"
+ACOT_WEAPON_KINETIC_BOOSTER_5_DESC: "Replicant RKM System"
+
+#Energy Capacitor Booster
+ACOT_WEAPON_ENERGY_BOOSTER_1: "Basic ECB Unit"
+ACOT_WEAPON_ENERGY_BOOSTER_1_DESC: "Basic ECB Unit"
+
+ACOT_WEAPON_ENERGY_BOOSTER_3: "Advanced ECB Unit"
+ACOT_WEAPON_ENERGY_BOOSTER_3_DESC: "Advanced ECB Unit"
+
+ACOT_WEAPON_ENERGY_BOOSTER_5: "Replicant ECB Unit"
+ACOT_WEAPON_ENERGY_BOOSTER_5_DESC: "Replicant ECB Unit"
+
+#Computer-Assisted Virtual Strikecraft
+ACOT_WEAPON_STRIKECRAFT_BOOSTER_1: "Basic CIVS System"
+ACOT_WEAPON_STRIKECRAFT_BOOSTER_1_DESC: "Basic CIVS System"
+
+ACOT_WEAPON_STRIKECRAFT_BOOSTER_3: "Advanced CIVS System"
+ACOT_WEAPON_STRIKECRAFT_BOOSTER_3_DESC: "Advanced CIVS System"
+
+ACOT_WEAPON_STRIKECRAFT_BOOSTER_5: "Replicant CIVS System"
+ACOT_WEAPON_STRIKECRAFT_BOOSTER_5_DESC: "Replicant CIVS System"
+
+############################################################
+################### AUX REACTORS
+############################################################
+
+ACOT_AUX_REACTOR_1: "Basic Micro Reactor"
+ACOT_AUX_REACTOR_1_DESC: "Micro Reactors are miniaturized reactor nodes that are designed to help provide power to specific parts of a space vessel."
+ACOT_AUX_REACTOR_3: "Advanced Micro Reactor"
+ACOT_AUX_REACTOR_3_DESC: "Micro Reactors are miniaturized reactor nodes that are designed to help provide power to specific parts of a space vessel."
+ACOT_AUX_REACTOR_5: "Replicant Micro Reactor"
+ACOT_AUX_REACTOR_5_DESC: "Micro Reactors are miniaturized reactor nodes that are designed to help provide power to specific parts of a space vessel."
+
+SMALL_ACOT_AUX_REACTOR_1: "Basic Small Micro Reactor"
+MEDIUM_ACOT_AUX_REACTOR_1: "Basic Medium Micro Reactor"
+LARGE_ACOT_AUX_REACTOR_1: "Basic Large Micro Reactor"
+
+SMALL_ACOT_AUX_REACTOR_3: "Advanced Small Micro Reactor"
+MEDIUM_ACOT_AUX_REACTOR_3: "Advanced Medium Micro Reactor"
+LARGE_ACOT_AUX_REACTOR_3: "Advanced Large Micro Reactor"
+
+SMALL_ACOT_AUX_REACTOR_5: "Replicant Small Micro Reactor"
+MEDIUM_ACOT_AUX_REACTOR_5: "Replicant Medium Micro Reactor"
+LARGE_ACOT_AUX_REACTOR_5: "Replicant Large Micro Reactor"
+############################################################
+################### RESOURCE BOOSTERS 
+############################################################
+
+############################ ENERGY ############################
+
+ACOT_RESOURCE_NODE_ENERGY_AUX_1: "Basic Power Generator"
+ACOT_RESOURCE_NODE_ENERGY_AUX_1_DESC: "Basic Power Generator provides §G6§! £energy£."
+
+ACOT_RESOURCE_NODE_ENERGY_AUX_3: "Advanced Power Generator"
+ACOT_RESOURCE_NODE_ENERGY_AUX_3_DESC: "Advanced Power Generator provides §G12§! £energy£."
+
+ACOT_RESOURCE_NODE_ENERGY_AUX_5: "Replicant Power Generator"
+ACOT_RESOURCE_NODE_ENERGY_AUX_5_DESC: "Replicant Power Generator provides §G240§! £energy£."
+
+############################ MINERAL ############################
+
+ACOT_RESOURCE_NODE_MINERALS_AUX_1: "Basic Mining Node"
+ACOT_RESOURCE_NODE_MINERALS_AUX_1_DESC: "Basic Mining Node provides §G4§! £minerals£."
+
+ACOT_RESOURCE_NODE_MINERALS_AUX_3: "Advanced Mining Node"
+ACOT_RESOURCE_NODE_MINERALS_AUX_3_DESC: "Advanced Mining Node provides §G8§! £minerals£."
+
+ACOT_RESOURCE_NODE_MINERALS_AUX_5: "Replicant Mining Node"
+ACOT_RESOURCE_NODE_MINERALS_AUX_5_DESC: "Replicant Mining Node provides §G240§! £minerals£."
+
+############################ ALLOY ############################
+
+ACOT_RESOURCE_NODE_ALLOYS_AUX_1: "Basic Alloy Foundry"
+ACOT_RESOURCE_NODE_ALLOYS_AUX_1_DESC: "Basic Alloy Foundry provides §G4§! £alloys£."
+
+ACOT_RESOURCE_NODE_ALLOYS_AUX_3: "Advanced Alloy Foundry"
+ACOT_RESOURCE_NODE_ALLOYS_AUX_3_DESC: "Advanced Alloy Foundry provides §G8§! £alloys£."
+
+ACOT_RESOURCE_NODE_ALLOYS_AUX_5: "Replicant Alloy Foundry"
+ACOT_RESOURCE_NODE_ALLOYS_AUX_5_DESC: "Replicant Alloy Foundry provides §G120§! £alloys£."
+
+############################ FOOD ############################
+
+ACOT_RESOURCE_NODE_FOOD_AUX_1: "Basic Food Center"
+ACOT_RESOURCE_NODE_FOOD_AUX_1_DESC: "Basic Food Center provides §G8§! £food£."
+
+ACOT_RESOURCE_NODE_FOOD_AUX_3: "Advanced Food Plaza"
+ACOT_RESOURCE_NODE_FOOD_AUX_3_DESC: "Food Plaza provides §G16§! £food£."
+
+ACOT_RESOURCE_NODE_FOOD_AUX_5: "Replicant Food Garden"
+ACOT_RESOURCE_NODE_FOOD_AUX_5_DESC: "Replicant Food Garden provides §G240§! £food£."
+
+############################ GOODS ############################
+
+ACOT_RESOURCE_NODE_GOODS_AUX_1: "Basic Supply Center"
+ACOT_RESOURCE_NODE_GOODS_AUX_1_DESC: "Basic Supply Center provides §G6§! £consumer_goods£."
+
+ACOT_RESOURCE_NODE_GOODS_AUX_3: "Advanced Convention Center"
+ACOT_RESOURCE_NODE_GOODS_AUX_3_DESC: "Advanced Convention Center provides §G6§! £consumer_goods£."
+
+ACOT_RESOURCE_NODE_GOODS_AUX_5: "Replicant Logistics Center"
+ACOT_RESOURCE_NODE_GOODS_AUX_5_DESC: "Replicant Logistics Center provides §G120§! £consumer_goods£."
+
+############################ UNITY ############################
+
+ACOT_RESOURCE_NODE_UNITY_AUX_1: "Basic Call Center"
+ACOT_RESOURCE_NODE_UNITY_AUX_1_DESC: "Basic Call Center provides §G6§! £unity£."
+
+ACOT_RESOURCE_NODE_UNITY_AUX_3: "Advanced Space Archive"
+ACOT_RESOURCE_NODE_UNITY_AUX_3_DESC: "Space Archive provides §G12§! £unity£."
+
+ACOT_RESOURCE_NODE_UNITY_AUX_5: "Replicant Space Musuem"
+ACOT_RESOURCE_NODE_UNITY_AUX_5_DESC: "Replicant Space Musuem provides §G240§! £unity£."
+
+############################ SOCIETY ############################
+
+ACOT_RESOURCE_NODE_SOCIETY_AUX_1: "Basic Biogenic Labs"
+ACOT_RESOURCE_NODE_SOCIETY_AUX_1_DESC: "Basic Biogenic Labs provides §G6§! £society£."
+
+ACOT_RESOURCE_NODE_SOCIETY_AUX_3: "Advanced Biogenic Ops"
+ACOT_RESOURCE_NODE_SOCIETY_AUX_3_DESC: "Advanced Biogenic Ops provides §G12§! £society£."
+
+ACOT_RESOURCE_NODE_SOCIETY_AUX_5: "Replicant Biogenic Facility"
+ACOT_RESOURCE_NODE_SOCIETY_AUX_5_DESC: "Replicant Biogenic Facility provides §G120§! £society£."
+
+############################ ENGINER ############################
+
+ACOT_RESOURCE_NODE_ENGINEERING_AUX_1: "Basic Engineering Labs"
+ACOT_RESOURCE_NODE_ENGINEERING_AUX_1_DESC: "Basic Engineering Labs provides §G6§! £engineering£."
+
+ACOT_RESOURCE_NODE_ENGINEERING_AUX_3: "Advanced Engineering Ops"
+ACOT_RESOURCE_NODE_ENGINEERING_AUX_3_DESC: "Advanced Engineering Ops provides §G12§! £engineering£."
+
+ACOT_RESOURCE_NODE_ENGINEERING_AUX_5: "Replicant Engineering Facility"
+ACOT_RESOURCE_NODE_ENGINEERING_AUX_5_DESC: "Replicant Engineering Facility provides §G120§! £engineering£."
+
+############################ PHYSICS ############################
+
+ACOT_RESOURCE_NODE_PHYSICS_AUX_1: "Basic Physics Labs"
+ACOT_RESOURCE_NODE_PHYSICS_AUX_1_DESC: "Basic Physics Labs provides §G6§! £physics£."
+
+ACOT_RESOURCE_NODE_PHYSICS_AUX_3: "Advanced Physics Ops"
+ACOT_RESOURCE_NODE_PHYSICS_AUX_3_DESC: "Advanced Physics Ops provides §G12§! £physics£."
+
+ACOT_RESOURCE_NODE_PHYSICS_AUX_5: "Replicant Physics Facility"
+ACOT_RESOURCE_NODE_PHYSICS_AUX_5_DESC: "Replicant Physics Facility provides §G120§! £physics£."
+
+############################################################
+################### RESOURCE STATION AUX 
+############################################################
+
+############################ ENERGY ############################
+
+ACOT_RESOURCE_STATION_BASIC_AUX_1: "Basic Resource Node"
+ACOT_RESOURCE_STATION_BASIC_AUX_1_DESC: "Basic Power Nodes provide §G6§! £energy£ and £minerals£."
+
+ACOT_RESOURCE_STATION_BASIC_AUX_3: "Advanced Resource Node"
+ACOT_RESOURCE_STATION_BASIC_AUX_3_DESC: "Advanced Power Nodes provide §G12§! £energy£ and £minerals£."
+
+ACOT_RESOURCE_STATION_BASIC_AUX_5: "Replicant Resource Node"
+ACOT_RESOURCE_STATION_BASIC_AUX_5_DESC: "Replicant Power Nodes provide §G18§! £energy£ and £minerals£."
+
+############################ ALLOY ############################
+
+ACOT_RESOURCE_STATION_ALLOYS_AUX_1: "Basic Alloy Foundry"
+ACOT_RESOURCE_STATION_ALLOYS_AUX_1_DESC: "Basic Alloy Foundry provides §G4§! £alloys£."
+
+ACOT_RESOURCE_STATION_ALLOYS_AUX_3: "Advanced Alloy Foundry"
+ACOT_RESOURCE_STATION_ALLOYS_AUX_3_DESC: "Advanced Alloy Foundry provides §G8§! £alloys£."
+
+ACOT_RESOURCE_STATION_ALLOYS_AUX_5: "Replicant Alloy Foundry"
+ACOT_RESOURCE_STATION_ALLOYS_AUX_5_DESC: "Replicant Alloy Foundry provides §G12§! £alloys£."
+
+############################ PHYSICS ############################
+
+ACOT_RESOURCE_STATION_SCIENCE_AUX_1: "Basic Science Channel"
+ACOT_RESOURCE_STATION_SCIENCE_AUX_1_DESC: "Basic Science Channels provide §G6§! £engineering£, £physics£ and £society£."
+
+ACOT_RESOURCE_STATION_SCIENCE_AUX_3: "Advanced Science Post"
+ACOT_RESOURCE_STATION_SCIENCE_AUX_3_DESC: "Advanced Science Posts provide §G12§! £engineering£, £physics£ and £society£."
+
+ACOT_RESOURCE_STATION_SCIENCE_AUX_5: "Replicant Science Bunker"
+ACOT_RESOURCE_STATION_SCIENCE_AUX_5_DESC: "Replicant Science Bunkers provide §G18§! £engineering£, £physics£ and £society£."

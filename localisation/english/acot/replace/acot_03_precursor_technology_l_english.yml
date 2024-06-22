@@ -1,0 +1,2055 @@
+﻿l_english:
+
+################################ FALLEN EMPIRE EXCLUSE STUFFS ##
+
+acot_fe_early_sensor_debuff: "No One Operating on Sensors..."
+
+requires_no_existing_similar_mega: "$TRIGGER_FAIL$Cannot build due to existing megastructure of the same type."
+
+acot_precursor_gate_cross_buff: "Fast As Fuck Boi"
+
+massive_ship_fallen_empire: "Fallen Siege Breaker"
+massive_ship_fallen_empire_plural: "Fallen Siege Breakers"
+
+acot_fe_sentinel: "Fallen Sentinel"
+acot_fe_sentinel_plural: "Fallen Sentinels"
+
+acot_fe_colossus: "Fallen Strike Colossus"
+acot_fe_colossus_plural: "Fallen Strike Colossi"
+
+acot_fe_titan: "Fallen Hyperion"
+acot_fe_titan_plural: "Fallen Hyperions"
+
+acot_fe_assault_carrier: "Fallen Assault Carrier"
+acot_fe_assault_carrier_plural: "Fallen Assault Carriers"
+
+large_ship_fallen_empire: "Fallen Battlecruiser"
+large_ship_fallen_empire_plural: "Fallen Battlecruisers"
+
+small_ship_fallen_empire: "Fallen Escort"
+small_ship_fallen_empire_plural: "Fallen Escorts"
+
+acot_fe_science: "Fallen Observer"
+acot_fe_science_plural: "Fallen Observers"
+
+acot_fe_constructor: "Fallen Actualizer"
+acot_fe_constructor_plural: "Fallen Actualizers"
+
+acot_fe_colonizer: "Fallen Settler"
+acot_fe_colonizer_plural: "Fallen Settlers"
+
+acot_fallen_outpost: "Fallen Defender"
+acot_fallen_outpost_plural: "Fallen Defenders"
+
+acot_fallen_starbase: "Fallen Starbase"
+acot_fallen_starbase_plural: "Fallen Starbases"
+
+acot_fallen_orbital_ring: "Fallen Orbital Ring"
+acot_fallen_orbital_ring_plural: "Fallen Orbital Rings"
+
+############################
+
+tech_acot_precursor_herculean_supply_line_e7: "Herculean Internal Domestic Fabricator"
+tech_acot_precursor_herculean_supply_line_e7_desc: "Herculean Internal Domestic Fabricator"
+tech_acot_precursor_herculean_supply_line_e7_modifier: "Upgrades the Herculeans with the ability to produce the following resources.\n\n§Y10000 £energy£\n10000 £minerals£\n10000 £food£\n5000 £alloys£\n500 £sr_dark_matter£\n500 £acot_sr_dark_energy£§!"
+tech_acot_precursor_herculean_supply_line_e8: "Herculean Alpha Internal Domestic Fabricator"
+tech_acot_precursor_herculean_supply_line_e8_desc: "Herculean Alpha Internal Domestic Fabricator"
+tech_acot_precursor_herculean_supply_line_e8_modifier: "Upgrades the Herculeans with the ability to produce the following resources.\n\n§Y10000 £energy£\n10000 £minerals£\n10000 £food£\n5000 £alloys£\n500 £sr_dark_matter£\n500 £acot_sr_dark_energy£§!"
+tech_acot_precursor_herculean_supply_line_s7: "Herculean Sigma Internal Domestic Fabricator"
+tech_acot_precursor_herculean_supply_line_s7_desc: "Herculean Sigma Internal Domestic Fabricator"
+tech_acot_precursor_herculean_supply_line_s7_modifier: "Upgrades the Herculeans with the ability to produce the following resources.\n\n§Y15000 £energy£\n15000 £minerals£\n15000 £food£\n7500 £alloys£\n750 £sr_dark_matter£\n750 £acot_sr_dark_energy£§!\n375 £acot_sr_stellarite£§!"
+
+tech_acot_precursor_herculean_spirit_weapon: "Herculean Weaponized Spectral Construct"
+tech_acot_precursor_herculean_spirit_weapon_desc: "Herculean Weaponized Spectral Construct"
+tech_acot_precursor_herculean_spirit_weapon_s7: "Herculean Stellar Spectral Construct"
+tech_acot_precursor_herculean_spirit_weapon_s7_desc: "Herculean Stellar Spectral Construct"
+
+tech_acot_precursor_herculean_wmd_pk: "Herculean Resonant Cascade"
+tech_acot_precursor_herculean_wmd_pk_desc: "Herculean Resonant Cascade"
+tech_acot_precursor_herculean_wmd_pk_s7: "Herculean Stellar Resonant Cascade"
+tech_acot_precursor_herculean_wmd_pk_s7_desc: "Herculean Stellar Resonant Cascade"
+
+tech_acot_precursor_herculean_component: "Herculean Specialized Supercomponents"
+tech_acot_precursor_herculean_component_desc: "Herculean Specialized Supercomponents"
+tech_acot_precursor_herculean_component_s7: "Herculean Stellar Supercomponents"
+tech_acot_precursor_herculean_component_s7_desc: "Herculean Stellar Supercomponents"
+
+tech_acot_precursor_herculean_basic_weapon: "Herculean Triangulated Ordinance System"
+tech_acot_precursor_herculean_basic_weapon_desc: "Herculean Triangulated Ordinance System"
+tech_acot_precursor_herculean_basic_weapon_s7: "Herculean Stellar Ordinance System"
+tech_acot_precursor_herculean_basic_weapon_s7_desc: "Herculean Stellar Ordinance System"
+
+tech_acot_precursor_herculean_advanced_weapon: "Herculean Advanced Triangulated Weapon System"
+tech_acot_precursor_herculean_advanced_weapon_desc: "Herculean Advanced Triangulated Weapon System"
+tech_acot_precursor_herculean_advanced_weapon_s7: "Herculean Advanced Stellar Weapon System"
+tech_acot_precursor_herculean_advanced_weapon_s7_desc: "Herculean Advanced Stellar Weapon System"
+
+tech_acot_precursor_herculean_hangar_escort: "Herculean Escort Micro-factory"
+tech_acot_precursor_herculean_hangar_escort_desc: "Herculean Escort Micro-factory"
+tech_acot_precursor_herculean_hangar_escort_s7: "Herculean Stellar Escort Micro-factory"
+tech_acot_precursor_herculean_hangar_escort_s7_desc: "Herculean Stellar Escort Micro-factory"
+
+tech_acot_precursor_herculean_hangar_bc: "Herculean Battlecruiser Micro-factory"
+tech_acot_precursor_herculean_hangar_bc_desc: "Herculean Battlecruiser Micro-factory"
+tech_acot_precursor_herculean_hangar_bc_s7: "Herculean Stellar Battlecruiser Micro-factory"
+tech_acot_precursor_herculean_hangar_bc_s7_desc: "Herculean Stellar Battlecruiser Micro-factory"
+
+tech_acot_precursor_herculean_shield: "Experimental Herculean Dimensional Barrier"
+tech_acot_precursor_herculean_shield_desc: "Experimental Herculean Dimensional Barrier"
+tech_acot_precursor_herculean_shield_s7: "Herculean Stellar Dimensional Barrier"
+tech_acot_precursor_herculean_shield_s7_desc: "Herculean Stellar Dimensional Barrier"
+
+tech_acot_precursor_herculean_science_e7: "Herculean Science Nexus"
+tech_acot_precursor_herculean_science_e7_desc: "It will be beneficial if the Herculean can support its own science division. In which case, why not simply just put a Science Nexus inside one?"
+tech_acot_precursor_herculean_science_e7_modifier: "Upgrades the Herculeans with the ability to produce the following resources.\n\n§Y5000 £physics£\n§Y5000 £society£\n§Y5000 £engineering£!"
+
+tech_acot_precursor_herculean_science_e8: "Herculean Advanced Science Nexus"
+tech_acot_precursor_herculean_science_e8_desc: "Every new knowledge, every now technology, every new understanding brings us the closer to the eternal legacy."
+tech_acot_precursor_herculean_science_e8_modifier: "Upgrades the Herculeans with the ability to produce the following resources.\n\n§Y5000 £physics£\n§Y5000 £society£\n§Y5000 £engineering£!"
+
+tech_acot_precursor_herculean_science_curator: "Herculean Curator Archive Package"
+tech_acot_precursor_herculean_science_curator_desc: "Although the Curators are wholely incapable of offering anything related to the science behind the Herculean, their knowledge of galactic history may be useful in the future."
+tech_acot_precursor_herculean_science_curator_modifier: "Upgrades the Herculeans with the ability to produce the following resources.\n\n§Y5000 £physics£\n§Y5000 £society£\n§Y5000 £engineering£!\n§Y500 £unity£!\n§Y5 £minor_artifacts£!"
+
+ACOT_HERCULEAN_SPIRIT_WEAPON_8E: "Spectral Projection"
+ACOT_HERCULEAN_SPIRIT_WEAPON_8E_DESC: "A powerful anti-capital ship weapon that utilizes a combination of hard-light and dimensional technology to create a specrral form of the Herculean's heart itself that can be launched at enemy targets. Once the form reaches the target, it materializes into physical space and causes massive negative energy explosion, obliterating both itself and the target.\n\n§WDamage:§! §Y200000-200000§!\n§WAccuracy:§! §Y100§!\n§WTracking:§! §Y100§!\n§WRange:§! §Y250§!\n\n§G300% Hull Damage§!\n§G300% Armor Damage§!\n§G300% Shield Damage§!\n"
+
+ACOT_HERCULEAN_SPIRIT_WEAPON_7S: "Stellar Spectral Projection"
+ACOT_HERCULEAN_SPIRIT_WEAPON_7S_DESC: "A powerful anti-capital ship weapon that utilizes a combination of hard-light and dimensional technology to create a specrral form of the Herculean's heart itself that can be launched at enemy targets. Once the form reaches the target, it materializes into physical space and causes massive negative energy explosion, obliterating both itself and the target.\n\n§WDamage:§! §Y500-1000§!\n§WAccuracy:§! §Y100§!\n§WTracking:§! §Y100§!\n§WRange:§! §Y250§!\n\n§WShield Damage:§! §Y300%§!\n§WArmor Damage:§! §Y300%§!\n§WHull Damage:§! §Y300%§!\n"
+
+ACOT_HERCULEAN_L_WEAPON_8E: "Herculean Tri-force Artillery"
+ACOT_HERCULEAN_L_WEAPON_8E_DESC: "Herculean Tri-force Artillery"
+ACOT_HERCULEAN_L_WEAPON_7S: "Herculean Stellar Tri-force Artillery"
+ACOT_HERCULEAN_L_WEAPON_7S_DESC: "Herculean Stellar Tri-force Artillery"
+
+ACOT_HERCULEAN_PD_WEAPON_8E: "Herculean Tri-force PDS"
+ACOT_HERCULEAN_PD_WEAPON_8E_DESC: "Herculean Tri-force PDS"
+ACOT_HERCULEAN_PD_WEAPON_7S: "Herculean Stellar Tri-force PDS"
+ACOT_HERCULEAN_PD_WEAPON_7S_DESC: "Herculean Stellar Tri-force PDS"
+
+ACOT_HERCULEAN_XL_WEAPON_8E: "Herculean Tri-force Lance"
+ACOT_HERCULEAN_XL_WEAPON_8E_DESC: "Herculean Tri-force Lance"
+ACOT_HERCULEAN_XL_WEAPON_7S: "Herculean Stellar Tri-force Lance"
+ACOT_HERCULEAN_XL_WEAPON_7S_DESC: "Herculean Stellar Tri-force Lance"
+
+ACOT_HERCULEAN_T_WEAPON_8E: "Herculean Tri-force Supercharged Lance"
+ACOT_HERCULEAN_T_WEAPON_8E_DESC: "Herculean Tri-force Supercharged Lance"
+ACOT_HERCULEAN_T_WEAPON_7S: "Herculean Stellar Tri-force Supercharged Lance"
+ACOT_HERCULEAN_T_WEAPON_7S_DESC: "Herculean Stellar Tri-force Supercharged Lance"
+
+ACOT_HERCULEAN_ESCORT_HANGAR_8E: "Alpha Automated Escort"
+ACOT_HERCULEAN_ESCORT_HANGAR_8E_DESC: "Automated variant of the reliable escorts, built on-site aboard Herculeans to act as picket support ships."
+ACOT_HERCULEAN_BC_HANGAR_8E: "Alpha Automated Battlecruiser"
+ACOT_HERCULEAN_BC_HANGAR_8E_DESC: "Automated variant of the venerable battlecruisers, built on-site aboard Herculeans to act as long-range gunship supports."
+
+ACOT_HERCULEAN_ESCORT_HANGAR_7S: "Sigma Automated Escort"
+ACOT_HERCULEAN_ESCORT_HANGAR_7S_DESC: "Automated variant of the reliable escorts, built on-site aboard Herculeans to act as picket support ships."
+ACOT_HERCULEAN_BC_HANGAR_7S: "Sigma Automated Battlecruiser"
+ACOT_HERCULEAN_BC_HANGAR_7S_DESC: "Automated variant of the venerable battlecruisers, built on-site aboard Herculeans to act as long-range gunship supports."
+
+ACOT_HERCULEAN_SHIELD_8E: "Herculean Unified Defense Matrix"
+ACOT_HERCULEAN_SHIELD_8E_DESC: "Herculean Unified Defense Matrix"
+ACOT_HERCULEAN_SHIELD_7S: "Herculean Stellar Defense Matrix"
+ACOT_HERCULEAN_SHIELD_7S_DESC: "Herculean Stellar Defense Matrix"
+
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E: "Condensed Resonant Cascade"
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E_DESC: "A modified, condensed version of the still terrifying Herculean Superweapon capable of annhilation an entire empire with a single concentrated blast of pure void energy and dimensional catalysts. Once fully charged, the Cascade will cause the system star to undergo total dimensional collapse, turning it into a Void Star, and all other celestial bodies warped beyond recognition, while annihilating most space objects in the process."
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E_ACTION: "Condensed Resonant Tear"
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E: "Preparing to cause resonant cascade on $PLANET|Y$"
+MESSAGE_DESC_FOR_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E: "was used to cause resonant cascade by"
+
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E: "Resonant Cascade"
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E_DESC: "Horrifying Herculean Superweapon capable of annhilation an entire empire with a single concentrated blast of pure void energy and dimensional catalysts. Once fully charged, the Cascade will cause the system star to undergo total dimensional collapse, turning it into a Void Star, and all other celestial bodies warped beyond recognition, while annihilating most space objects in the process. But what truly makes this weapon terrifying is that its ability to cause a chain reaction to all nearby systems controlled by hostile forces. These systems will, within 60 days, undergo the same resonic cascade, and will continue to spread until there's no more adjacent hostile systems. One strike from this weapon may kill an entire empire."
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E_ACTION: "Resonant Tear"
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E: "Preparing to cause resonant cascade on $PLANET|Y$"
+MESSAGE_DESC_FOR_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E: "was used to cause resonant cascade by"
+
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S: "Supercharged Resonant Cascade"
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S_DESC: "Horrifying Herculean Superweapon capable of annhilation an entire empire with a single concentrated blast of pure void energy and dimensional catalysts. Once fully charged, the Cascade will cause the system star to undergo total dimensional collapse, turning it into a Void Star, and all other celestial bodies warped beyond recognition, while annihilating most space objects in the process. But what truly makes this weapon terrifying is that its ability to cause a chain reaction to all nearby systems controlled by hostile forces. These systems will, within 60 days, undergo the same resonic cascade, and will continue to spread until there's no more adjacent hostile systems. In addition, the effect spreads to random systems owned by the hostile forces far beyond the immediate neighbouring system, making that there is no escape from the Supercharged variant."
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S_ACTION: "Supercharged Resonant Tear"
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S: "Preparing to cause resonant cascade on $PLANET|Y$"
+MESSAGE_DESC_FOR_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S: "was used to cause resonant cascade by"
+
+
+ACOT_HERCULEAN_REACTOR: "Herculean Super Reactor"
+ACOT_HERCULEAN_REACTOR_DESC: "Herculean Super Reactor"
+ACOT_HERCULEAN_REACTOR_TOOLTIP: "Herculean Dimensional Shield has a 100% chance to break upon fatal damage. Requires 7200 days to recharge.\n\nSo long as the Dimensional Shield does not break, the Herculean will be able to constantly revive itself. Otherwise it will be repaired but can be defeated if it suffers another fatal damage while the shield is recharging."
+ACOT_HERCULEAN_REACTOR_E7: "Herculean Idealized Super Reactor"
+ACOT_HERCULEAN_REACTOR_E7_DESC: "Herculean Idealized Super Reactor"
+ACOT_HERCULEAN_REACTOR_E7_TOOLTIP: "Herculean Dimensional Shield has a 75% chance to break upon fatal damage. Requires 3600 days to recharge.\n\nSo long as the Dimensional Shield does not break, the Herculean will be able to constantly revive itself. Otherwise it will be repaired but can be defeated if it suffers another fatal damage while the shield is recharging."
+ACOT_HERCULEAN_REACTOR_S7: "Herculean Stellar Super Reactor"
+ACOT_HERCULEAN_REACTOR_S7_DESC: "Herculean Dimensional Shield has a 50% chance to break upon fatal damage. Requires 1800 days to recharge.\n\nSo long as the Dimensional Shield does not break, the Herculean will be able to constantly revive itself. Otherwise it will be repaired but can be defeated if it suffers another fatal damage while the shield is recharging."
+ACOT_HERCULEAN_REACTOR_S8: "Herculean Omega Super Reactor"
+ACOT_HERCULEAN_REACTOR_S8_DESC: "Herculean Dimensional Shield has a 25% chance to break upon fatal damage. Requires 900 days to recharge.\n\nSo long as the Dimensional Shield does not break, the Herculean will be able to constantly revive itself. Otherwise it will be repaired but can be defeated if it suffers another fatal damage while the shield is recharging."
+
+acot_aura_herculean_reactor_dot: "Herculean Dimensional Quake Engine"
+acot_aura_herculean_reactor_dot_desc: "Herculean Dimensional Quake Engine"
+
+acot_aura_herculean_reactor_defense_buff: "Herculean Defense Amplifier"
+acot_aura_herculean_reactor_defense_buff_desc: "Herculean Defense Amplifier"
+
+acot_aura_herculean_reactor_defense_debuff: "Herculean Offense Inhibitor"
+acot_aura_herculean_reactor_defense_debuff_desc: "Herculean Offense Inhibitor"
+
+ACOT_HERCULEAN_COMPUTER: "Herculean Super Computer"
+ACOT_HERCULEAN_COMPUTER_DESC: "Herculean Super Computer"
+ACOT_HERCULEAN_COMPUTER_E7: "Herculean Idealized Super Computer"
+ACOT_HERCULEAN_COMPUTER_E7_DESC: "Herculean Idealized Super Computer"
+ACOT_HERCULEAN_COMPUTER_S7: "Herculean Stellar Super Computer"
+ACOT_HERCULEAN_COMPUTER_S7_DESC: "Herculean Stellar Super Computer"
+
+acot_aura_herculean_computer_buff: "Herculean Coordination Matrix"
+acot_aura_herculean_computer_buff_desc: "Herculean Coordination Matrix"
+
+acot_aura_herculean_computer_debuff: "Herculean Interference Matrix"
+acot_aura_herculean_computer_debuff_desc: "Herculean Interference Matrix"
+
+ACOT_HERCULEAN_FTL: "Herculean Super Driver"
+ACOT_HERCULEAN_FTL_DESC: "Herculean Super Driver"
+ACOT_HERCULEAN_FTL_E7: "Herculean Idealized Super Driver"
+ACOT_HERCULEAN_FTL_E7_DESC: "Herculean Idealized Super Driver"
+ACOT_HERCULEAN_FTL_S7: "Herculean Stellar Super Driver"
+ACOT_HERCULEAN_FTL_S7_DESC: "Herculean Stellar Super Driver"
+
+acot_aura_herculean_ftl_dot: "Herculean Ramming Speed"
+acot_aura_herculean_ftl_dot_desc: "Herculean Ramming Speed"
+
+acot_aura_herculean_ftl_buff: "Herculean Dimensional Manipulator"
+acot_aura_herculean_ftl_buff_desc: "Herculean Dimensional Manipulator"
+
+acot_aura_herculean_ftl_debuff: "Herculean Dimensional Manipulator"
+acot_aura_herculean_ftl_debuff_desc: "Herculean Dimensional Manipulator"
+
+ACOT_HERCULEAN_BEHAVIOR: "Herculean Super Analyzer"
+ACOT_HERCULEAN_BEHAVIOR_DESC: "Herculean Super Analyzer"
+ACOT_HERCULEAN_BEHAVIOR_E7: "Herculean Idealized Super Analyzer"
+ACOT_HERCULEAN_BEHAVIOR_E7_DESC: "Herculean Idealized Super Analyzer"
+ACOT_HERCULEAN_BEHAVIOR_S7: "Herculean Stellar Super Analyzer"
+ACOT_HERCULEAN_BEHAVIOR_S7_DESC: "Herculean Stellar Super Analyzer"
+
+ACOT_HERCULEAN_SPECIAL_1: "Herculean Dimensional Manipulator"
+ACOT_HERCULEAN_SPECIAL_1_DESC: "Herculean Dimensional Manipulator"
+
+ACOT_HERCULEAN_SPECIAL_2: "Herculean Super Factory"
+ACOT_HERCULEAN_SPECIAL_2_DESC: "Herculean Super Factory"
+
+#################################### AURA STUFFS ####################################
+
+ACOT_PRECURSOR_STARBASE_AURA: "Weird Aura"
+ACOT_PRECURSOR_STARBASE_AURA: "Can't Rem what it does honestly."
+
+ACOT_PRECURSOR_SHIP_AURA_PLEB_BUFFER: "Modern-Pattern Fleet Synchronizer"
+ACOT_PRECURSOR_SHIP_AURA_PLEB_BUFFER_DESC: "Synchronizer designed to help coordinate modern era ships. Useful for fleets that does not rely on Precursors, or when fighting against Precursor or Fallen Empire ships. Care should be taken as this module applies to all parties involved, including enemy modern ships."
+friendly_acot_precursor_pleb_buffer_aura: "Modern-Pattern Fleet Synchronizer"
+hostile_acot_precursor_pleb_buffer_aura: "Modern-Pattern Fleet Synchronizer"
+
+ACOT_PRECURSOR_SHIP_AURA_PRECURSOR_BUFFER: "Precursor-Pattern Fleet Synchronizer"
+ACOT_PRECURSOR_SHIP_AURA_PLEB_BUFFER_DESC: "Synchronizer designed to help coordinate precursor ships. Useful for fleets that are composed primarily of Precursor designs. Care should be taken to avoid buffing enemy Precursor ships too."
+friendly_acot_precursor_cursor_buffer_aura: "Precursor-Pattern Fleet Synchronizer"
+hostile_acot_precursor_cursor_buffer_aura: "Precursor-Pattern Fleet Synchronizer"
+
+ACOT_PRECURSOR_SHIP_AURA_PRECURSOR_DEBUFFER: "Anti-Precursor-Pattern Fleet Inhibitor"
+ACOT_PRECURSOR_SHIP_AURA_PRECURSOR_DEBUFFER_DESC: "Inhibitors designed to intefere and tamper with precursor ship's systems. Useful when fighting against other Precursor or Fallen Empire Ships with modern or other designs. Be wary that this will also tamper with our own precursor's ships, save for the ship that bears this component."
+friendly_acot_precursor_cursor_debuffer_aura: "Anti-Precursor-Pattern Fleet Inhibitor"
+hostile_acot_precursor_cursor_debuffer_aura: "Anti-Precursor-Pattern Fleet Inhibitor"
+
+ACOT_PRECURSOR_SHIP_AURA_GUARDIAN_SHIELD: "Guardian Shield Generator"
+ACOT_PRECURSOR_SHIP_AURA_GUARDIAN_SHIELD_DESC: "Specialized fleet Shield Generator that provides a fixed amount of shield with very high regeneration to all allied ships in the system. Particularly useful for smaller ships that may otherwise lack durability."
+acot_precursor_guardian_shield_aura: "Guardian Shield Generator"
+
+ACOT_PRECURSOR_SHIP_AURA_TRACKING_DEBUFFER: "Space Cyberwarfare System"
+ACOT_PRECURSOR_SHIP_AURA_TRACKING_DEBUFFER_DESC: "Specialized aura built to counter the increasingly accurate and high tracking weaponry given by more powerful sensors. This will give evasion a place in advanced warfare once again."
+acot_precursor_tracking_debuffer_aura: "Space Cyberwarfare Systemr"
+
+ACOT_PRECURSOR_SHIP_AURA_PD_JAMMER: "Point-Defense Jammer"
+ACOT_PRECURSOR_SHIP_AURA_PD_JAMMER_DESC: "The ever-increasing deadliness of point defense weapons require some form of countermeasures if we want our misisles and strikecrafts to achieve anything in their life time."
+acot_precursor_pd_jammer_aura: "Point-Defense Jammer"
+
+####################################
+
+ap_precursor_dream: "Pursuit of the Past"
+ap_precursor_dream_desc: "The past is filled with many secrets, their knowledge and powers lost to time. The fallen ones may have forsaken them, but we shall reclaim the glory of the ancients."
+ap_precursor_dream_tooltip: "Increases the maximum reimagination attempt to §Y6§!.\n\nEnables more advanced reimagination designs that was not used by the fallen empires."
+
+
+requires_asking_sophia: "Requires more details from Precursor Databank." 
+
+##########
+
+mod_shipsize_precursor_escort_hull_add: "Precursor Escort Hull Point"
+mod_shipsize_precursor_battlecruiser_hull_add: "Precursor Battlecruiser Hull Point"
+mod_shipsize_precursor_assault_carrier_hull_add: "Precursor Assault Carrier Hull Point"
+mod_shipsize_precursor_sentinel_hull_add: "Precursor Sentinel Hull Point"
+mod_shipsize_sofe_gatekeeper_warden_hull_add: "Precursor Gatekeeper Hull Point"
+mod_shipsize_precursor_titan_hull_add: "Precursor Hyperion Hull Point"
+mod_shipsize_precursor_colossus_hull_add: "Precursor Herculean Hull Point"
+mod_shipsize_precursor_guardian_hull_add: "Precursor Guardian Hull Point"
+
+mod_shipsize_precursor_science_hull_add: "Precursor Oracle Hull Point"
+mod_shipsize_precursor_constructor_hull_add: "Precursor Initializer Hull Point"
+mod_shipsize_precursor_colonizer_hull_add: "Precursor Emissary Hull Point"
+
+mod_shipsize_precursor_platform_l_hull_add: "Precursor Initializer Hull Point"
+mod_shipsize_precursor_platform_m_hull_add: "Precursor Initializer Hull Point"
+
+##########
+
+mod_shipsize_precursor_escort_hull_mult: "Precursor Escort Hull Point"
+mod_shipsize_precursor_battlecruiser_hull_mult: "Precursor Battlecruiser Hull Point"
+mod_shipsize_precursor_assault_carrier_hull_mult: "Precursor Assault Carrier Hull Point"
+mod_shipsize_precursor_sentinel_hull_mult: "Precursor Sentinel Hull Point"
+mod_shipsize_sofe_gatekeeper_warden_hull_mult: "Precursor Gatekeeper Hull Point"
+mod_shipsize_precursor_titan_hull_mult: "Precursor Hyperion Hull Point"
+mod_shipsize_precursor_colossus_hull_mult: "Precursor Herculean Hull Point"
+mod_shipsize_precursor_guardian_hull_mult: "Precursor Guardian Hull Point"
+
+mod_shipsize_precursor_science_hull_mult: "Precursor Oracle Hull Point"
+mod_shipsize_precursor_constructor_hull_mult: "Precursor Initializer Hull Point"
+mod_shipsize_precursor_colonizer_hull_mult: "Precursor Emissary Hull Point"
+
+mod_shipsize_precursor_platform_l_hull_mult: "Precursor Initializer Hull Point"
+mod_shipsize_precursor_platform_m_hull_mult: "Precursor Initializer Hull Point"
+
+##########
+
+mod_shipsize_precursor_escort_build_speed_mult: "Precursor Escort Build Speed"
+mod_shipsize_precursor_battlecruiser_build_speed_mult: "Precursor Battlecruiser Build Speed"
+mod_shipsize_precursor_titan_build_speed_mult: "Precursor Hyperion Build Speed"
+mod_shipsize_precursor_assault_carrier_build_speed_mult: "Precursor Assault Carrier Build Speed"
+mod_shipsize_precursor_sentinel_build_speed_mult: "Precursor Sentinel Build Speed"
+mod_shipsize_precursor_guardian_build_speed_add: "Precursor Guardian Build Speed"
+mod_shipsize_sofe_gatekeeper_warden_build_speed_mult: "Gatekeeper Build Speed"
+mod_shipsize_precursor_guardian_build_speed_mult: "Precursor Guardian Build Speed"
+
+####PRECURSOR SHIP NAMES
+
+precursor_escort: "Precursor Escort"
+precursor_escort_plural: "Precursor Escorts"
+
+precursor_battlecruiser: "Precursor Battlecruiser"
+precursor_battlecruiser_plural: "Precursor Battlecruiser"
+
+precursor_assault_carrier: "Precursor Assault Carrier"
+precursor_assault_carrier_plural: "Precursor Assault Carriers"
+
+precursor_titan: "Precursor Hyperion"
+precursor_titan_plural: "Precursor Hyperions"
+
+precursor_guardian: "Precursor Guardian"
+precursor_guardian_plural: "Precursor Guardians"
+
+precursor_sentinel: "Precursor Sentinel"
+precursor_sentinel_plural: "Precursor Sentinels"
+
+sofe_gatekeeper_warden: "Gatekeeper Warden"
+sofe_gatekeeper_warden_plural: "Gatekeeper Wardens"
+
+precursor_colossus: "Precursor Herculean"
+precursor_colossus_plural: "Precursor Herculean"
+
+precursor_science: "Precursor Oracle"
+precursor_science_plural: "Precursor Oracles"
+
+precursor_constructor: "Precursor Initializer"
+precursor_constructor_plural: "Precursor Initializers"
+
+precursor_colonizer: "Precursor Emissary"
+precursor_colonizer_plural: "Precursor Emissaries"
+
+precursor_world_shaper: "Precursor Celestial Forger"
+precursor_world_shaper_plural: "Precursor Celestial Forgers"
+
+precursor_platform_l: "Precursor Instant Pylon"
+precursor_platform_l_plural: "Precursor Instant Pylons"
+
+precursor_platform_m: "Precursor Instant Repeller"
+precursor_platform_m_plural: "Precursor Instant Repeller"
+
+#### PRECURSOR SHIP SECTION #####
+##################################################################################################
+PRECURSOR_SENTINEL_CORE_SIEGE_KEY: "Sentinel Siegebreaker Eye"
+PRECURSOR_SENTINEL_CORE_ARTILLERY_KEY: "Sentinel Artillery Eye"
+PRECURSOR_SENTINEL_CORE_CARRIER_KEY: "Sentinel Carrier Eye"
+PRECURSOR_SENTINEL_WING_SIEGE_KEY: "Sentinel Siegebreaker Wing"
+PRECURSOR_SENTINEL_WING_ARTILLERY_KEY: "Sentinel Artillery Wing"
+PRECURSOR_SENTINEL_WING_CARRIER_KEY: "Sentinel Carrier Wing"
+
+ALPHA_PRECURSOR_SENTINEL_CORE_SIEGE_KEY: "Alpha Sentinel Siegebreaker Eye"
+ALPHA_PRECURSOR_SENTINEL_CORE_ARTILLERY_KEY: "Alpha Sentinel Artillery Eye"
+ALPHA_PRECURSOR_SENTINEL_CORE_CARRIER_KEY: "Alpha Sentinel Carrier Eye"
+ALPHA_PRECURSOR_SENTINEL_WING_SIEGE_KEY: "Alpha Sentinel Siegebreaker Wing"
+ALPHA_PRECURSOR_SENTINEL_WING_ARTILLERY_KEY: "Alpha Sentinel Artillery Wing"
+ALPHA_PRECURSOR_SENTINEL_WING_CARRIER_KEY: "Alpha Sentinel Carrier Wing"
+
+SIGMA_PRECURSOR_SENTINEL_CORE_SIEGE_KEY: "Simga Sentinel Siegebreaker Eye"
+SIGMA_PRECURSOR_SENTINEL_CORE_ARTILLERY_KEY: "Simga Sentinel Artillery Eye"
+SIGMA_PRECURSOR_SENTINEL_CORE_CARRIER_KEY: "Simga Sentinel Carrier Eye"
+SIGMA_PRECURSOR_SENTINEL_WING_SIEGE_KEY: "Simga Sentinel Siegebreaker Wing"
+SIGMA_PRECURSOR_SENTINEL_WING_ARTILLERY_KEY: "Simga Sentinel Artillery Wing"
+SIGMA_PRECURSOR_SENTINEL_WING_CARRIER_KEY: "Simga Sentinel Carrier Wing"
+
+PHANON_PRECURSOR_SENTINEL_CORE_SIEGE_KEY: "Runic Sentinel Siegebreaker Eye"
+PHANON_PRECURSOR_SENTINEL_CORE_ARTILLERY_KEY: "Runic Sentinel Artillery Eye"
+PHANON_PRECURSOR_SENTINEL_CORE_CARRIER_KEY: "Runic Sentinel Carrier Eye"
+PHANON_PRECURSOR_SENTINEL_WING_SIEGE_KEY: "Runic Sentinel Siegebreaker Wing"
+PHANON_PRECURSOR_SENTINEL_WING_ARTILLERY_KEY: "Runic Sentinel Artillery Wing"
+PHANON_PRECURSOR_SENTINEL_WING_CARRIER_KEY: "Runic Sentinel Carrier Wing"
+
+MASTER_PRECURSOR_SENTINEL_CORE_SIEGE_KEY: "Master Sentinel Siegebreaker Eye"
+MASTER_PRECURSOR_SENTINEL_CORE_ARTILLERY_KEY: "Master Sentinel Artillery Eye"
+MASTER_PRECURSOR_SENTINEL_CORE_CARRIER_KEY: "Master Sentinel Carrier Eye"
+MASTER_PRECURSOR_SENTINEL_WING_SIEGE_KEY: "Master Sentinel Siegebreaker Wing"
+MASTER_PRECURSOR_SENTINEL_WING_ARTILLERY_KEY: "Master Sentinel Artillery Wing"
+MASTER_PRECURSOR_SENTINEL_WING_CARRIER_KEY: "Master Sentinel Carrier Wing"
+
+OMEGA_PRECURSOR_SENTINEL_CORE_SIEGE_KEY: "Omega Sentinel Siegebreaker Eye"
+OMEGA_PRECURSOR_SENTINEL_CORE_ARTILLERY_KEY: "Omega Sentinel Artillery Eye"
+OMEGA_PRECURSOR_SENTINEL_CORE_CARRIER_KEY: "Omega Sentinel Carrier Eye"
+OMEGA_PRECURSOR_SENTINEL_WING_SIEGE_KEY: "Omega Sentinel Siegebreaker Wing"
+OMEGA_PRECURSOR_SENTINEL_WING_ARTILLERY_KEY: "Omega Sentinel Artillery Wing"
+OMEGA_PRECURSOR_SENTINEL_WING_CARRIER_KEY: "Omega Sentinel Carrier Wing"
+
+##################################################################################################
+
+PRECURSOR_GUARDIAN_TOP_STRIKER_KEY: "Guardian Striker Core"
+PRECURSOR_GUARDIAN_TOP_ARTILLERY_KEY: "Guardian Artillery Core"
+PRECURSOR_GUARDIAN_TOP_HANGAR_KEY: "Guardian Hangar Core"
+PRECURSOR_GUARDIAN_SIDE_PICKET_KEY: "Guardian Picket Wing"
+PRECURSOR_GUARDIAN_SIDE_STRIKER_KEY: "Guardian Striker Wing"
+PRECURSOR_GUARDIAN_SIDE_HANGAR_KEY: "Guardian Hangar Wing"
+
+ALPHA_PRECURSOR_GUARDIAN_TOP_STRIKER_KEY: "Alpha Guardian Striker Core"
+ALPHA_PRECURSOR_GUARDIAN_TOP_ARTILLERY_KEY: "Alpha Guardian Artillery Core"
+ALPHA_PRECURSOR_GUARDIAN_TOP_HANGAR_KEY: "Alpha Guardian Hangar Core"
+ALPHA_PRECURSOR_GUARDIAN_SIDE_PICKET_KEY: "Alpha Guardian Picket Wing"
+ALPHA_PRECURSOR_GUARDIAN_SIDE_STRIKER_KEY: "Alpha Guardian Striker Wing"
+ALPHA_PRECURSOR_GUARDIAN_SIDE_HANGAR_KEY: "Alpha Guardian Hangar Wing"
+
+SIGMA_PRECURSOR_GUARDIAN_TOP_STRIKER_KEY: "Sigma Guardian Striker Core"
+SIGMA_PRECURSOR_GUARDIAN_TOP_ARTILLERY_KEY: "Sigma Guardian Artillery Core"
+SIGMA_PRECURSOR_GUARDIAN_TOP_HANGAR_KEY: "Sigma Guardian Hangar Core"
+SIGMA_PRECURSOR_GUARDIAN_SIDE_PICKET_KEY: "Sigma Guardian Picket Wing"
+SIGMA_PRECURSOR_GUARDIAN_SIDE_STRIKER_KEY: "Sigma Guardian Striker Wing"
+SIGMA_PRECURSOR_GUARDIAN_SIDE_HANGAR_KEY: "Sigma Guardian Hangar Wing"
+
+PHANON_PRECURSOR_GUARDIAN_TOP_STRIKER_KEY: "Runic Guardian Striker Core"
+PHANON_PRECURSOR_GUARDIAN_TOP_ARTILLERY_KEY: "Runic Guardian Artillery Core"
+PHANON_PRECURSOR_GUARDIAN_TOP_HANGAR_KEY: "Runic Guardian Hangar Core"
+PHANON_PRECURSOR_GUARDIAN_SIDE_PICKET_KEY: "Runic Guardian Picket Wing"
+PHANON_PRECURSOR_GUARDIAN_SIDE_STRIKER_KEY: "Runic Guardian Striker Wing"
+PHANON_PRECURSOR_GUARDIAN_SIDE_HANGAR_KEY: "Runic Guardian Hangar Wing"
+
+MASTER_PRECURSOR_GUARDIAN_TOP_STRIKER_KEY: "Master Guardian Striker Core"
+MASTER_PRECURSOR_GUARDIAN_TOP_ARTILLERY_KEY: "Master Guardian Artillery Core"
+MASTER_PRECURSOR_GUARDIAN_TOP_HANGAR_KEY: "Master Guardian Hangar Core"
+MASTER_PRECURSOR_GUARDIAN_SIDE_PICKET_KEY: "Master Guardian Picket Wing"
+MASTER_PRECURSOR_GUARDIAN_SIDE_STRIKER_KEY: "Master Guardian Striker Wing"
+MASTER_PRECURSOR_GUARDIAN_SIDE_HANGAR_KEY: "Master Guardian Hangar Wing"
+
+OMEGA_PRECURSOR_GUARDIAN_TOP_STRIKER_KEY: "Omega Guardian Striker Core"
+OMEGA_PRECURSOR_GUARDIAN_TOP_ARTILLERY_KEY: "Omega Guardian Artillery Core"
+OMEGA_PRECURSOR_GUARDIAN_TOP_HANGAR_KEY: "Omega Guardian Hangar Core"
+OMEGA_PRECURSOR_GUARDIAN_SIDE_PICKET_KEY: "Omega Guardian Picket Wing"
+OMEGA_PRECURSOR_GUARDIAN_SIDE_STRIKER_KEY: "Omega Guardian Striker Wing"
+OMEGA_PRECURSOR_GUARDIAN_SIDE_HANGAR_KEY: "Omega Guardian Hangar Wing"
+
+##################################################################################################
+
+PRECURSOR_COLOSSUS_W_SECTION: "Herculean Heart"
+PRECURSOR_COLOSSUS_T_SECTION: "Herculean Titan Pillar"
+PRECURSOR_COLOSSUS_XL_SECTION: "Herculean Siege Pillar"
+PRECURSOR_COLOSSUS_L_SECTION: "Herculean Assault Pillar"
+PRECURSOR_COLOSSUS_H_SECTION: "Herculean Carrier Pillar"
+
+ALPHA_PRECURSOR_COLOSSUS_W_SECTION: "Alpha Herculean Heart"
+ALPHA_PRECURSOR_COLOSSUS_T_SECTION: "Alpha Herculean Titan Pillar"
+ALPHA_PRECURSOR_COLOSSUS_XL_SECTION: "Alpha Herculean Siege Pillar"
+ALPHA_PRECURSOR_COLOSSUS_L_SECTION: "Alpha Herculean Assault Pillar"
+ALPHA_PRECURSOR_COLOSSUS_H_SECTION: "Alpha Herculean Carrier Pillar"
+
+SIGMA_PRECURSOR_COLOSSUS_W_SECTION: "Sigma Herculean Heart"
+SIGMA_PRECURSOR_COLOSSUS_T_SECTION: "Sigma Herculean Titan Pillar"
+SIGMA_PRECURSOR_COLOSSUS_XL_SECTION: "Sigma Herculean Siege Pillar"
+SIGMA_PRECURSOR_COLOSSUS_L_SECTION: "Sigma Herculean Assault Pillar"
+SIGMA_PRECURSOR_COLOSSUS_H_SECTION: "Sigma Herculean Carrier Pillar"
+
+PHANON_PRECURSOR_COLOSSUS_W_SECTION: "Phanon Herculean Heart"
+PHANON_PRECURSOR_COLOSSUS_T_SECTION: "Phanon Herculean Titan Pillar"
+PHANON_PRECURSOR_COLOSSUS_XL_SECTION: "Phanon Herculean Siege Pillar"
+PHANON_PRECURSOR_COLOSSUS_L_SECTION: "Phanon Herculean Assault Pillar"
+PHANON_PRECURSOR_COLOSSUS_H_SECTION: "Phanon Herculean Carrier Pillar"
+
+MASTER_PRECURSOR_COLOSSUS_W_SECTION: "Master Herculean Heart"
+MASTER_PRECURSOR_COLOSSUS_T_SECTION: "Master Herculean Titan Pillar"
+MASTER_PRECURSOR_COLOSSUS_XL_SECTION: "Master Herculean Siege Pillar"
+MASTER_PRECURSOR_COLOSSUS_L_SECTION: "Master Herculean Assault Pillar"
+MASTER_PRECURSOR_COLOSSUS_H_SECTION: "Master Herculean Carrier Pillar"
+
+OMEGA_PRECURSOR_COLOSSUS_W_SECTION: "Omega Herculean Heart"
+OMEGA_PRECURSOR_COLOSSUS_T_SECTION: "Omega Herculean Titan Pillar"
+OMEGA_PRECURSOR_COLOSSUS_XL_SECTION: "Omega Herculean Siege Pillar"
+OMEGA_PRECURSOR_COLOSSUS_L_SECTION: "Omega Herculean Assault Pillar"
+OMEGA_PRECURSOR_COLOSSUS_H_SECTION: "Omega Herculean Carrier Pillar"
+
+##################################################################################################
+PRECURSOR_ESCORT_BOW_ARTILLERY_KEY: "Escort Artillery Core"
+PRECURSOR_ESCORT_BOW_HANGAR_KEY: "Escort Hangar Core"
+PRECURSOR_ESCORT_BOW_PICKET_KEY: "Escort Picket Core"
+PRECURSOR_ESCORT_MID_GUNSHIP_KEY: "Escort Gunship Wing"
+PRECURSOR_ESCORT_MID_MEDIUM_KEY: "Escort Striker Wing"
+PRECURSOR_ESCORT_MID_ARTILLERY_KEY: "Escort Artillery Wing"
+
+ALPHA_PRECURSOR_ESCORT_BOW_ARTILLERY_KEY: "Alpha Escort Artillery Core"
+ALPHA_PRECURSOR_ESCORT_BOW_HANGAR_KEY: "Alpha Escort Hangar Core"
+ALPHA_PRECURSOR_ESCORT_BOW_PICKET_KEY: "Alpha Escort Picket Core"
+ALPHA_PRECURSOR_ESCORT_MID_GUNSHIP_KEY: "Alpha Escort Gunship Wing"
+ALPHA_PRECURSOR_ESCORT_MID_MEDIUM_KEY: "Alpha Escort Striker Wing"
+ALPHA_PRECURSOR_ESCORT_MID_ARTILLERY_KEY: "Alpha Escort Artillery Wing"
+
+STELLAR_PRECURSOR_ESCORT_BOW_ARTILLERY_KEY: "Sigma Escort Artillery Core"
+STELLAR_PRECURSOR_ESCORT_BOW_HANGAR_KEY: "Sigma Escort Hangar Core"
+STELLAR_PRECURSOR_ESCORT_BOW_PICKET_KEY: "Sigma Escort Picket Core"
+STELLAR_PRECURSOR_ESCORT_MID_GUNSHIP_KEY: "Sigma Escort Gunship Wing"
+STELLAR_PRECURSOR_ESCORT_MID_MEDIUM_KEY: "Sigma Escort Striker Wing"
+STELLAR_PRECURSOR_ESCORT_MID_ARTILLERY_KEY: "Sigma Escort Artillery Wing"
+
+PHANON_PRECURSOR_ESCORT_BOW_ARTILLERY_KEY: "Phanon Escort Artillery Core"
+PHANON_PRECURSOR_ESCORT_BOW_HANGAR_KEY: "Phanon Escort Hangar Core"
+PHANON_PRECURSOR_ESCORT_BOW_PICKET_KEY: "Phanon Escort Picket Core"
+PHANON_PRECURSOR_ESCORT_MID_GUNSHIP_KEY: "Phanon Escort Gunship Wing"
+PHANON_PRECURSOR_ESCORT_MID_MEDIUM_KEY: "Phanon Escort Striker Wing"
+PHANON_PRECURSOR_ESCORT_MID_ARTILLERY_KEY: "Phanon Escort Artillery Wing"
+
+MASTER_PRECURSOR_ESCORT_BOW_ARTILLERY_KEY: "Master Escort Artillery Core"
+MASTER_PRECURSOR_ESCORT_BOW_HANGAR_KEY: "Master Escort Hangar Core"
+MASTER_PRECURSOR_ESCORT_BOW_PICKET_KEY: "Master Escort Picket Core"
+MASTER_PRECURSOR_ESCORT_MID_GUNSHIP_KEY: "Master Escort Gunship Wing"
+MASTER_PRECURSOR_ESCORT_MID_MEDIUM_KEY: "Master Escort Striker Wing"
+MASTER_PRECURSOR_ESCORT_MID_ARTILLERY_KEY: "Master Escort Artillery Wing"
+
+OMEGA_PRECURSOR_ESCORT_BOW_ARTILLERY_KEY: "Omega Escort Artillery Core"
+OMEGA_PRECURSOR_ESCORT_BOW_HANGAR_KEY: "Omega Escort Hangar Core"
+OMEGA_PRECURSOR_ESCORT_BOW_PICKET_KEY: "Omega Escort Picket Core"
+OMEGA_PRECURSOR_ESCORT_MID_GUNSHIP_KEY: "Omega Escort Gunship Wing"
+OMEGA_PRECURSOR_ESCORT_MID_MEDIUM_KEY: "Omega Escort Striker Wing"
+OMEGA_PRECURSOR_ESCORT_MID_ARTILLERY_KEY: "Omega Escort Artillery Wing"
+
+##################################################################################################
+PRECURSOR_BATTLECRUISER_BOW_ARILLTERY_KEY: "Battlecruiser Artillery Core"
+PRECURSOR_BATTLECRUISER_BOW_GUNSHIP_KEY: "Battlecruiser Gunship Core"
+PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY: "Battlecruiser Carrier Core"
+PRECURSOR_BATTLECRUISER_MID_GUNSHIP_KEY: "Battlecruiser Gunship Wing"
+PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY: "Battlecruiser Artillery Wing"
+PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY: "Battlecruiser Carrier Wing"
+
+ALPHA_PRECURSOR_BATTLECRUISER_BOW_ARILLTERY_KEY: "Alpha Battlecruiser Artillery Core"
+ALPHA_PRECURSOR_BATTLECRUISER_BOW_GUNSHIP_KEY: "Alpha Battlecruiser Gunship Core"
+ALPHA_PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY: "Alpha Battlecruiser Carrier Core"
+ALPHA_PRECURSOR_BATTLECRUISER_MID_GUNSHIP_KEY: "Alpha Battlecruiser Gunship Wing"
+ALPHA_PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY: "Alpha Battlecruiser Artillery Wing"
+ALPHA_PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY: "Alpha Battlecruiser Carrier Wing"
+
+STELLAR_PRECURSOR_BATTLECRUISER_BOW_ARILLTERY_KEY: "Sigma Battlecruiser Artillery Core"
+STELLAR_PRECURSOR_BATTLECRUISER_BOW_GUNSHIP_KEY: "Sigma Battlecruiser Gunship Core"
+STELLAR_PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY: "Sigma Battlecruiser Carrier Core"
+STELLAR_PRECURSOR_BATTLECRUISER_MID_GUNSHIP_KEY: "Sigma Battlecruiser Gunship Wing"
+STELLAR_PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY: "Sigma Battlecruiser Artillery Wing"
+STELLAR_PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY: "Sigma Battlecruiser Carrier Wing"
+
+PHANON_PRECURSOR_BATTLECRUISER_BOW_ARILLTERY_KEY: "Phanon Battlecruiser Artillery Core"
+PHANON_PRECURSOR_BATTLECRUISER_BOW_GUNSHIP_KEY: "Phanon Battlecruiser Gunship Core"
+PHANON_PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY: "Phanon Battlecruiser Carrier Core"
+PHANON_PRECURSOR_BATTLECRUISER_MID_GUNSHIP_KEY: "Phanon Battlecruiser Gunship Wing"
+PHANON_PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY: "Phanon Battlecruiser Artillery Wing"
+PHANON_PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY: "Phanon Battlecruiser Carrier Wing"
+
+MASTER_PRECURSOR_BATTLECRUISER_BOW_ARILLTERY_KEY: "Master Battlecruiser Artillery Core"
+MASTER_PRECURSOR_BATTLECRUISER_BOW_GUNSHIP_KEY: "Master Battlecruiser Gunship Core"
+MASTER_PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY: "Master Battlecruiser Carrier Core"
+MASTER_PRECURSOR_BATTLECRUISER_MID_GUNSHIP_KEY: "Master Battlecruiser Gunship Wing"
+MASTER_PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY: "Master Battlecruiser Artillery Wing"
+MASTER_PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY: "Master Battlecruiser Carrier Wing"
+
+OMEGA_PRECURSOR_BATTLECRUISER_BOW_ARILLTERY_KEY: "Omega Battlecruiser Artillery Core"
+OMEGA_PRECURSOR_BATTLECRUISER_BOW_GUNSHIP_KEY: "Omega Battlecruiser Gunship Core"
+OMEGA_PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY: "Omega Battlecruiser Carrier Core"
+OMEGA_PRECURSOR_BATTLECRUISER_MID_GUNSHIP_KEY: "Omega Battlecruiser Gunship Wing"
+OMEGA_PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY: "Omega Battlecruiser Artillery Wing"
+OMEGA_PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY: "Omega Battlecruiser Carrier Wing"
+
+#######################################################################################################
+
+PRECURSOR_TITAN_SPINAL_ARTILLERY_KEY: "Hyperion Core"
+PRECURSOR_TITAN_SPINAL_SIEGE_KEY: "Hyperion Siegebreaker Core"
+PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "Hyperion Carrier Core"
+PRECURSOR_TITAN_MID_ARTILLERY_KEY: "Hyperion Artillery Wing"
+PRECURSOR_TITAN_MID_SIEGE_KEY: "Hyperion Siegebreaker Wing"
+PRECURSOR_TITAN_MID_CARRIER_KEY: "Hyperion Carrier Wing"
+
+ALPHA_PRECURSOR_TITAN_SPINAL_ARTILLERY_KEY: "Alpha Hyperion Core"
+ALPHA_PRECURSOR_TITAN_SPINAL_SIEGE_KEY: "Alpha Hyperion Siegebreaker Core"
+ALPHA_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "Alpha Hyperion Carrier Core"
+ALPHA_PRECURSOR_TITAN_MID_ARTILLERY_KEY: "Alpha Hyperion Artillery Wing "
+ALPHA_PRECURSOR_TITAN_MID_SIEGE_KEY: "Alpha Hyperion Siegebreaker Wing"
+ALPHA_PRECURSOR_TITAN_MID_CARRIER_KEY: "Alpha Hyperion Carrier Wing"
+
+SIGMA_PRECURSOR_TITAN_SPINAL_ARTILLERY_KEY: "Sigma Hyperion Core"
+SIGMA_PRECURSOR_TITAN_SPINAL_SIEGE_KEY: "Sigma Hyperion Siegebreaker Core"
+SIGMA_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "Sigma Hyperion Carrier Core"
+SIGMA_PRECURSOR_TITAN_MID_ARTILLERY_KEY: "Sigma Hyperion Artillery Wing "
+SIGMA_PRECURSOR_TITAN_MID_SIEGE_KEY: "Sigma Hyperion Siegebreaker Wing"
+SIGMA_PRECURSOR_TITAN_MID_CARRIER_KEY: "Sigma Hyperion Carrier Wing"
+
+PHANON_PRECURSOR_TITAN_SPINAL_ARTILLERY_KEY: "Phanon Hyperion Core"
+PHANON_PRECURSOR_TITAN_SPINAL_SIEGE_KEY: "Phanon Hyperion Siegebreaker Core"
+PHANON_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "Phanon Hyperion Carrier Core"
+PHANON_PRECURSOR_TITAN_MID_ARTILLERY_KEY: "Phanon Hyperion Artillery Wing "
+PHANON_PRECURSOR_TITAN_MID_SIEGE_KEY: "Phanon Hyperion Siegebreaker Wing"
+PHANON_PRECURSOR_TITAN_MID_CARRIER_KEY: "Phanon Hyperion Carrier Wing"
+
+MASTER_PRECURSOR_TITAN_SPINAL_ARTILLERY_KEY: "Master Hyperion Core"
+MASTER_PRECURSOR_TITAN_SPINAL_SIEGE_KEY: "Master Hyperion Siegebreaker Core"
+MASTER_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "Master Hyperion Carrier Core"
+MASTER_PRECURSOR_TITAN_MID_ARTILLERY_KEY: "Master Hyperion Artillery Wing"
+MASTER_PRECURSOR_TITAN_MID_SIEGE_KEY: "Master Hyperion Siegebreaker Wing"
+MASTER_PRECURSOR_TITAN_MID_CARRIER_KEY: "Master Hyperion Carrier Wing"
+
+OMEGA_PRECURSOR_TITAN_SPINAL_ARTILLERY_KEY: "Omega Hyperion Core"
+OMEGA_PRECURSOR_TITAN_SPINAL_SIEGE_KEY: "Omega Hyperion Siegebreaker Core"
+OMEGA_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "Omega Hyperion Carrier Core"
+OMEGA_PRECURSOR_TITAN_MID_ARTILLERY_KEY: "Omega Hyperion Artillery Wing"
+OMEGA_PRECURSOR_TITAN_MID_SIEGE_KEY: "Omega Hyperion Siegebreaker Wing"
+OMEGA_PRECURSOR_TITAN_MID_CARRIER_KEY: "Omega Hyperion Carrier Wing"
+
+##################################################################################################
+
+PRECURSOR_ASSAULT_CARRIER_BOW_SIEGE_KEY: "Assault Carrier Siegebreaker Core"
+PRECURSOR_ASSAULT_CARRIER_BOW_HANGAR_KEY: "Assault Carrier Hangar Core"
+PRECURSOR_ASSAULT_CARRIER_BOW_CARRIER_KEY: "Assault Carrier Supercarrier Core"
+PRECURSOR_ASSAULT_CARRIER_MID_HANGAR_KEY: "Assault Carrier Hangar Wing"
+PRECURSOR_ASSAULT_CARRIER_MID_CARRIER_KEY: "Assault Carrier Supercarrier Wing"
+PRECURSOR_ASSAULT_CARRIER_MID_SIEGE_KEY: "Assault Carrier Siegebreaker Wing"
+
+ALPHA_PRECURSOR_ASSAULT_CARRIER_BOW_SIEGE_KEY: "Alpha Assault Carrier Siegebreaker Core"
+ALPHA_PRECURSOR_ASSAULT_CARRIER_BOW_HANGAR_KEY: "Alpha Assault Carrier Hangar Core"
+ALPHA_PRECURSOR_ASSAULT_CARRIER_BOW_CARRIER_KEY: "Alpha Assault Carrier Supercarrier Core"
+ALPHA_PRECURSOR_ASSAULT_CARRIER_MID_HANGAR_KEY: "Alpha Assault Carrier Hangar Wing"
+ALPHA_PRECURSOR_ASSAULT_CARRIER_MID_CARRIER_KEY: "Alpha Assault Carrier Supercarrier Wing"
+ALPHA_PRECURSOR_ASSAULT_CARRIER_MID_SIEGE_KEY: "Alpha Assault Carrier Siegebreaker Wing"
+
+SIGMA_PRECURSOR_ASSAULT_CARRIER_BOW_SIEGE_KEY: "Sigma Assault Carrier Siege Core"
+SIGMA_PRECURSOR_ASSAULT_CARRIER_BOW_HANGAR_KEY: "Sigma Assault Carrier Hangar Core"
+SIGMA_PRECURSOR_ASSAULT_CARRIER_BOW_CARRIER_KEY: "Sigma Assault Carrier Supercarrier Core"
+SIGMA_PRECURSOR_ASSAULT_CARRIER_MID_HANGAR_KEY: "Sigma Assault Carrier Hangar Wing"
+SIGMA_PRECURSOR_ASSAULT_CARRIER_MID_CARRIER_KEY: "Sigma Assault Carrier Supercarrier Wing"
+SIGMA_PRECURSOR_ASSAULT_CARRIER_MID_SIEGE_KEY: "Sigma Assault Carrier Siegebreaker Wing"
+
+PHANON_PRECURSOR_ASSAULT_CARRIER_BOW_SIEGE_KEY: "Phanon Assault Carrier Siegebreaker Core"
+PHANON_PRECURSOR_ASSAULT_CARRIER_BOW_HANGAR_KEY: "Phanon Assault Carrier Hangar Core"
+PHANON_PRECURSOR_ASSAULT_CARRIER_BOW_CARRIER_KEY: "Phanon Assault Carrier Supercarrier Core"
+PHANON_PRECURSOR_ASSAULT_CARRIER_MID_HANGAR_KEY: "Phanon Assault Carrier Hangar Wing"
+PHANON_PRECURSOR_ASSAULT_CARRIER_MID_CARRIER_KEY: "Phanon Assault Carrier Supercarrier Wing"
+PHANON_PRECURSOR_ASSAULT_CARRIER_MID_SIEGE_KEY: "Phanon Assault Carrier Siegebreaker Wing"
+
+MASTER_PRECURSOR_ASSAULT_CARRIER_BOW_SIEGE_KEY: "Master Assault Carrier Siegebreaker Core"
+MASTER_PRECURSOR_ASSAULT_CARRIER_BOW_HANGAR_KEY: "Assault Carrier Hangar Core"
+MASTER_PRECURSOR_ASSAULT_CARRIER_BOW_CARRIER_KEY: "Master Assault Carrier Supercarrier Core"
+MASTER_PRECURSOR_ASSAULT_CARRIER_MID_HANGAR_KEY: "Master Assault Carrier Hangar Wing"
+MASTER_PRECURSOR_ASSAULT_CARRIER_MID_CARRIER_KEY: "Master Assault Carrier Supercarrier Wing"
+MASTER_PRECURSOR_ASSAULT_CARRIER_MID_SIEGE_KEY: "Master Assault Carrier Siegebreaker Wing"
+
+OMEGA_PRECURSOR_ASSAULT_CARRIER_BOW_SIEGE_KEY: "Omega Assault Carrier Siegebreaker Core"
+OMEGA_PRECURSOR_ASSAULT_CARRIER_BOW_HANGAR_KEY: "Assault Carrier Hangar Core"
+OMEGA_PRECURSOR_ASSAULT_CARRIER_BOW_CARRIER_KEY: "Omega Assault Carrier Supercarrier Core"
+OMEGA_PRECURSOR_ASSAULT_CARRIER_MID_HANGAR_KEY: "Omega Assault Carrier Hangar Wing"
+OMEGA_PRECURSOR_ASSAULT_CARRIER_MID_CARRIER_KEY: "Omega Assault Carrier Supercarrier Wing"
+OMEGA_PRECURSOR_ASSAULT_CARRIER_MID_SIEGE_KEY: "Omega Assault Carrier Siegebreaker Wing"
+##################################################################################################
+SOFE_GATEKEEPER_WARDEN_SPINAL_KEY: "Gatekeeper Spinal"
+SOFE_GATEKEEPER_WARDEN_SHOTO_KEY: "Gatekeeper Focal Point"
+SOFE_GATEKEEPER_WARDEN_MID_KEY: "Gatekeeper Outer Core"
+SOFE_GATEKEEPER_WARDEN_STERN_KEY: "Gatekeeper Inner Core"
+
+ALPHA_SOFE_GATEKEEPER_WARDEN_SPINAL_KEY: "Alpha Gatekeeper Spinal"
+ALPHA_SOFE_GATEKEEPER_WARDEN_SHOTO_KEY: "Alpha Gatekeeper Focal Point"
+ALPHA_SOFE_GATEKEEPER_WARDEN_MID_KEY: "Alpha Gatekeeper Outer Core"
+ALPHA_SOFE_GATEKEEPER_WARDEN_STERN_KEY: "Alpha Gatekeeper Inner Core"
+
+SIGMA_SOFE_GATEKEEPER_WARDEN_SPINAL_KEY: "Sigma Gatekeeper Spinal"
+SIGMA_SOFE_GATEKEEPER_WARDEN_SHOTO_KEY: "Sigma Gatekeeper Focal Point"
+SIGMA_SOFE_GATEKEEPER_WARDEN_MID_KEY: "Sigma Gatekeeper Outer Core"
+SIGMA_SOFE_GATEKEEPER_WARDEN_STERN_KEY: "Sigma Gatekeeper Inner Core"
+
+PHANON_SOFE_GATEKEEPER_WARDEN_SPINAL_KEY: "Phanon Gatekeeper Spinal"
+PHANON_SOFE_GATEKEEPER_WARDEN_SHOTO_KEY: "Phanon Gatekeeper Focal Point"
+PHANON_SOFE_GATEKEEPER_WARDEN_MID_KEY: "Phanon Gatekeeper Outer Core"
+PHANON_SOFE_GATEKEEPER_WARDEN_STERN_KEY: "Phanon Gatekeeper Inner Core"
+
+SOFE_GATEKEEPER_OMEGA_SPINAL_KEY: "Omega Gatekeeper Spinal"
+SOFE_GATEKEEPER_OMEGA_SHOTO_KEY: "Omega Gatekeeper Focal Point"
+SOFE_GATEKEEPER_OMEGA_MID_KEY: "Omega Gatekeeper Outer Core"
+SOFE_GATEKEEPER_OMEGA_STERN_KEY: "Omega Gatekeeper Inner Core"
+##################################################################################################
+acot_precursor_assault_carrier_spinal_section: "Assault Carrier Spinal"
+acot_precursor_assault_carrier_large_section: "Assault Carrier Forward Artillery"
+acot_precursor_assault_carrier_hanger1_section: "Assault Carrier Hangar A"
+acot_precursor_assault_carrier_hanger2_section: "Assault Carrier Hangar B"
+acot_precursor_assault_carrier_hanger3_section: "Assault Carrier Hangar C"
+
+alpha_acot_precursor_assault_carrier_spinal_section: "Alpha PAC Spinal"
+alpha_acot_precursor_assault_carrier_large_section: "Alpha PAC Forward Artillery"
+alpha_acot_precursor_assault_carrier_hanger1_section: "Alpha PAC Hangar A"
+alpha_acot_precursor_assault_carrier_hanger2_section: "Alpha PAC Hangar B"
+alpha_acot_precursor_assault_carrier_hanger3_section: "Alpha PAC Hangar C"
+
+stellar_acot_precursor_assault_carrier_spinal_section: "Sigma PAC Spinal"
+stellar_acot_precursor_assault_carrier_large_section: "Sigma PAC Forward Artillery"
+stellar_acot_precursor_assault_carrier_hanger1_section: "Sigma PAC Hangar A"
+stellar_acot_precursor_assault_carrier_hanger2_section: "Sigma PAC Hangar B"
+stellar_acot_precursor_assault_carrier_hanger3_section: "Sigma PAC Hangar C"
+
+phanon_acot_precursor_assault_carrier_spinal_section: "Phanon PAC Spinal"
+phanon_acot_precursor_assault_carrier_large_section: "Phanon PAC Forward Artillery"
+phanon_acot_precursor_assault_carrier_hanger1_section: "Phanon PAC Hangar A"
+phanon_acot_precursor_assault_carrier_hanger2_section: "Phanon PAC Hangar B"
+phanon_acot_precursor_assault_carrier_hanger3_section: "Phanon PAC Hangar C"
+
+omega_acot_precursor_assault_carrier_spinal_section: "Omega PAC Spinal"
+omega_acot_precursor_assault_carrier_large_section: "Omega PAC Forward Artillery"
+omega_acot_precursor_assault_carrier_hanger1_section: "Omega PAC Hangar A"
+omega_acot_precursor_assault_carrier_hanger2_section: "Omega PAC Hangar B"
+omega_acot_precursor_assault_carrier_hanger3_section: "Omega PAC Hangar C"
+#######################################################################################################
+
+PRECURSOR_TITAN_SPINAL_KEY: "Hyperion Core"
+PRECURSOR_TITAN_SPINAL_TORPEDO_KEY: "Hyperion Missile Core"
+PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "Hyperion Carrier Core"
+PRECURSOR_TITAN_MID_KEY: "Hyperion A-Wing Artillery"
+PRECURSOR_TITAN_MID_TORPEDO_KEY: "Hyperion A-Wing Missile"
+PRECURSOR_TITAN_MID_CARRIER_KEY: "Hyperion A-Wing Hangar"
+PRECURSOR_TITAN_CORE_KEY: "Hyperion B-Wing Artillery "
+PRECURSOR_TITAN_CORE_TORPEDO_KEY: "Hyperion B-Wing Missile"
+PRECURSOR_TITAN_CORE_CARRIER_KEY: "Hyperion B-Wing Hangar"
+PRECURSOR_TITAN_STERN_KEY: "Hyperion Hangar Matrix"
+PRECURSOR_TITAN_STERN_LARGE_KEY: "Hyperion Fire Support Matrix"
+PRECURSOR_TITAN_STERN_TORPEDO_KEY: "Hyperion Guidance Matrix"
+
+ALPHA_PRECURSOR_TITAN_SPINAL_KEY: "Alpha Hyperion Core"
+ALPHA_PRECURSOR_TITAN_SPINAL_TORPEDO_KEY: "Alpha Hyperion Missile Core"
+ALPHA_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "Alpha Hyperion Carrier Core"
+ALPHA_PRECURSOR_TITAN_MID_KEY: "Alpha Hyperion A-Wing Artillery "
+ALPHA_PRECURSOR_TITAN_MID_TORPEDO_KEY: "Alpha Hyperion A-Wing Missile"
+ALPHA_PRECURSOR_TITAN_MID_CARRIER_KEY: "Alpha Hyperion A-Wing Hangar"
+ALPHA_PRECURSOR_TITAN_CORE_KEY: "Alpha Hyperion B-Wing Artillery "
+ALPHA_PRECURSOR_TITAN_CORE_TORPEDO_KEY: "Alpha Hyperion B-Wing Missile"
+ALPHA_PRECURSOR_TITAN_CORE_CARRIER_KEY: "Alpha Hyperion B-Wing Hangar"
+ALPHA_PRECURSOR_TITAN_STERN_KEY: "Alpha Hyperion Hangar Matrix"
+ALPHA_PRECURSOR_TITAN_STERN_LARGE_KEY: "Alpha Hyperion Fire Support Matrix"
+ALPHA_PRECURSOR_TITAN_STERN_TORPEDO_KEY: "Alpha Hyperion Guidance Matrix"
+
+SIGMA_PRECURSOR_TITAN_SPINAL_KEY: "Sigma Hyperion Core"
+SIGMA_PRECURSOR_TITAN_SPINAL_TORPEDO_KEY: "Sigma Hyperion Missile Core"
+SIGMA_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "Sigma Hyperion Carrier Core"
+SIGMA_PRECURSOR_TITAN_MID_KEY: "Sigma Hyperion A-Wing Artillery "
+SIGMA_PRECURSOR_TITAN_MID_TORPEDO_KEY: "Sigma Hyperion A-Wing Missile"
+SIGMA_PRECURSOR_TITAN_MID_CARRIER_KEY: "Sigma Hyperion A-Wing Hangar"
+SIGMA_PRECURSOR_TITAN_CORE_KEY: "Sigma Hyperion B-Wing Artillery"
+SIGMA_PRECURSOR_TITAN_CORE_TORPEDO_KEY: "Sigma Hyperion B-Wing Missile"
+SIGMA_PRECURSOR_TITAN_CORE_CARRIER_KEY: "Sigma Hyperion B-Wing Hangar"
+SIGMA_PRECURSOR_TITAN_STERN_KEY: "Sigma Hyperion Hangar Matrix"
+SIGMA_PRECURSOR_TITAN_STERN_LARGE_KEY: "Sigma Hyperion Fire Support Matrix"
+SIGMA_PRECURSOR_TITAN_STERN_TORPEDO_KEY: "Sigma Hyperion Guidance Matrix"
+
+PHANON_PRECURSOR_TITAN_SPINAL_KEY: "Phanon Hyperion Core"
+PHANON_PRECURSOR_TITAN_SPINAL_TORPEDO_KEY: "Phanon Hyperion Missile Core"
+PHANON_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "Phanon Hyperion Carrier Core"
+PHANON_PRECURSOR_TITAN_MID_KEY: "Phanon Hyperion A-Wing Artillery "
+PHANON_PRECURSOR_TITAN_MID_TORPEDO_KEY: "Phanon Hyperion A-Wing Missile"
+PHANON_PRECURSOR_TITAN_MID_CARRIER_KEY: "Phanon Hyperion A-Wing Hangar"
+PHANON_PRECURSOR_TITAN_CORE_KEY: "Phanon Hyperion B-Wing Artillery"
+PHANON_PRECURSOR_TITAN_CORE_TORPEDO_KEY: "Phanon Hyperion B-Wing Missile"
+PHANON_PRECURSOR_TITAN_CORE_CARRIER_KEY: "Phanon Hyperion B-Wing Hangar"
+PHANON_PRECURSOR_TITAN_STERN_KEY: "Phanon Hyperion Hangar Matrix"
+PHANON_PRECURSOR_TITAN_STERN_LARGE_KEY: "Phanon Hyperion Fire Support Matrix"
+PHANON_PRECURSOR_TITAN_STERN_TORPEDO_KEY: "Phanon Hyperion Guidance Matrix"
+
+OMEGA_PRECURSOR_TITAN_SPINAL_KEY: "Omega Hyperion Core"
+OMEGA_PRECURSOR_TITAN_SPINAL_TORPEDO_KEY: "Omega Hyperion Missile Core"
+OMEGA_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "Omega Hyperion Carrier Core"
+OMEGA_PRECURSOR_TITAN_MID_KEY: "Omega Hyperion A-Wing Artillery"
+OMEGA_PRECURSOR_TITAN_MID_TORPEDO_KEY: "Omega Hyperion A-Wing Missile"
+OMEGA_PRECURSOR_TITAN_MID_CARRIER_KEY: "Omega Hyperion A-Wing Hangar"
+OMEGA_PRECURSOR_TITAN_CORE_KEY: "Omega Hyperion B-Wing Artillery"
+OMEGA_PRECURSOR_TITAN_CORE_TORPEDO_KEY: "Omega Hyperion B-Wing Missile"
+OMEGA_PRECURSOR_TITAN_CORE_CARRIER_KEY: "Omega Hyperion B-Wing Hangar"
+OMEGA_PRECURSOR_TITAN_STERN_KEY: "Omega Hyperion Hangar Matrix"
+OMEGA_PRECURSOR_TITAN_STERN_LARGE_KEY: "Omega Hyperion Fire Support Matrix"
+OMEGA_PRECURSOR_TITAN_STERN_TORPEDO_KEY: "Omega Hyperion Guidance Matrix"
+
+PRECURSOR_SCIENCE_MID_KEY: "Oracle Wing"
+PRECURSOR_SCIENCE_STERN_KEY: "Oracle Antenna"
+ALPHA_PRECURSOR_SCIENCE_MID_KEY: "Alpha Oracle Wing"
+ALPHA_PRECURSOR_SCIENCE_STERN_KEY: "Alpha Oracle Antenna"
+SIGMA_PRECURSOR_SCIENCE_MID_KEY: "Sigma Oracle Wing"
+SIGMA_PRECURSOR_SCIENCE_STERN_KEY: "Sigma Oracle Antenna"
+PHANON_PRECURSOR_SCIENCE_MID_KEY: "Phanon Oracle Wing"
+PHANON_PRECURSOR_SCIENCE_STERN_KEY: "Phanon Oracle Antenna"
+OMEGA_PRECURSOR_SCIENCE_MID_KEY: "Omega Oracle Wing"
+OMEGA_PRECURSOR_SCIENCE_STERN_KEY: "Omega Oracle Antenna"
+
+PRECURSOR_CONSTRUCTOR_BOW_KEY: "Initializer Retina"
+PRECURSOR_CONSTRUCTOR_MID_KEY: "Initializer Core"
+PRECURSOR_CONSTRUCTOR_STERN_KEY: "Initializer Man"
+ALPHA_PRECURSOR_CONSTRUCTOR_BOW_KEY: "Alpha Initializer Retina"
+ALPHA_PRECURSOR_CONSTRUCTOR_MID_KEY: "Alpha Initializer Core"
+ALPHA_PRECURSOR_CONSTRUCTOR_STERN_KEY: "Alpha Initializer Man"
+SIGMA_PRECURSOR_CONSTRUCTOR_BOW_KEY: "Sigma Initializer Retina"
+SIGMA_PRECURSOR_CONSTRUCTOR_MID_KEY: "Sigma Initializer Core"
+SIGMA_PRECURSOR_CONSTRUCTOR_STERN_KEY: "Sigma Initializer Man"
+PHANON_PRECURSOR_CONSTRUCTOR_BOW_KEY: "Phanon Initializer Retina"
+PHANON_PRECURSOR_CONSTRUCTOR_MID_KEY: "Phanon Initializer Core"
+PHANON_PRECURSOR_CONSTRUCTOR_STERN_KEY: "Phanon Initializer Man"
+OMEGA_PRECURSOR_CONSTRUCTOR_BOW_KEY: "Omega Initializer Retina"
+OMEGA_PRECURSOR_CONSTRUCTOR_MID_KEY: "Omega Initializer Core"
+OMEGA_PRECURSOR_CONSTRUCTOR_STERN_KEY: "Omega Initializer Man"
+
+PRECURSOR_PLATFORM_M_TOP_1_KEY: "Delta Repeller Top"
+PRECURSOR_PLATFORM_M_BOTTOM_1_KEY: "Delta Repeller Bottom"
+ALPHA_PRECURSOR_PLATFORM_M_TOP_1_KEY: "Alpha Repeller Top"
+ALPHA_PRECURSOR_PLATFORM_M_BOTTOM_1_KEY: "Alpha Repeller Bottom"
+SIGMA_PRECURSOR_PLATFORM_M_TOP_1_KEY: "Sigma Repeller Top"
+SIGMA_PRECURSOR_PLATFORM_M_BOTTOM_1_KEY: "Sigma Repeller Bottom"
+PHANON_PRECURSOR_PLATFORM_M_TOP_1_KEY: "Phanon Repeller Top"
+PHANON_PRECURSOR_PLATFORM_M_BOTTOM_1_KEY: "Phanon Repeller Bottom"
+OMEGA_PRECURSOR_PLATFORM_M_TOP_1_KEY: "Omega Repeller Top"
+OMEGA_PRECURSOR_PLATFORM_M_BOTTOM_1_KEY: "Omega Repeller Bottom"
+
+PRECURSOR_PLATFORM_L_TOP_1_KEY: "Delta Pylon Top"
+PRECURSOR_PLATFORM_L_BOTTOM_1_KEY: "Delta Pylon Bottom"
+ALPHA_PRECURSOR_PLATFORM_L_TOP_1_KEY: "Alpha Pylon Top"
+ALPHA_PRECURSOR_PLATFORM_L_BOTTOM_1_KEY: "Alpha Pylon Bottom"
+SIGMA_PRECURSOR_PLATFORM_L_TOP_1_KEY: "Sigma Pylon Top"
+SIGMA_PRECURSOR_PLATFORM_L_BOTTOM_1_KEY: "Sigma Pylon Bottom"
+PHANON_PRECURSOR_PLATFORM_L_TOP_1_KEY: "Phanon Pylon Top"
+PHANON_PRECURSOR_PLATFORM_L_BOTTOM_1_KEY: "Phanon Pylon Bottom"
+OMEGA_PRECURSOR_PLATFORM_L_TOP_1_KEY: "Omega Pylon Top"
+OMEGA_PRECURSOR_PLATFORM_L_BOTTOM_1_KEY: "Omega Pylon Bottom"
+
+
+PRECURSOR_COLONIZER_BOW_KEY: "Emissary Retina"
+PRECURSOR_COLONIZER_MID_KEY: "Emissary Core"
+PRECURSOR_COLONIZER_STERN_KEY: "Emissary Man"
+ALPHA_PRECURSOR_COLONIZER_BOW_KEY: "Alpha Emissary Retina"
+ALPHA_PRECURSOR_COLONIZER_MID_KEY: "Alpha Emissary Core"
+ALPHA_PRECURSOR_COLONIZER_STERN_KEY: "Alpha Emissary Man"
+SIGMA_PRECURSOR_COLONIZER_BOW_KEY: "Sigma Emissary Retina"
+SIGMA_PRECURSOR_COLONIZER_MID_KEY: "Sigma Emissary Core"
+SIGMA_PRECURSOR_COLONIZER_STERN_KEY: "Sigma Emissary Man"
+PHANON_PRECURSOR_COLONIZER_BOW_KEY: "Phanon Emissary Retina"
+PHANON_PRECURSOR_COLONIZER_MID_KEY: "Phanon Emissary Core"
+PHANON_PRECURSOR_COLONIZER_STERN_KEY: "Phanon Emissary Man"
+OMEGA_PRECURSOR_COLONIZER_BOW_KEY: "Omega Emissary Retina"
+OMEGA_PRECURSOR_COLONIZER_MID_KEY: "Omega Emissary Core"
+OMEGA_PRECURSOR_COLONIZER_STERN_KEY: "Omega Emissary Man"
+
+PRECURSOR_WORLD_SHAPER_MID_KEY: "World Shaper Core"
+
+#### PRECARSOR TECH #####
+
+tech_precursor_sentinel: "Precursor Sentinel Schematics"
+tech_precursor_sentinel_desc: "A variation of the Precursor Defense Platform, specifically built for anti-capital ship roles, as well as extremely durable hull."
+
+tech_precursor_design: "Precursor Databank Analysis"
+tech_precursor_design_desc: "In order to understand more about the history of the Precursors, an analysis and activation of the Databank AI Assistant must be done.\n\nOnce we finished our analysis and determine whether the the AI will pose a threat to our security or not, we may decide on what to begin next."
+
+tech_precursor_design_engineering: "Alpha Project: Precursor Engineering"
+tech_precursor_design_engineering_desc: "A comprehensive and thorough study on how the Precursors of the past developed various materials, designs, prototypes and ships will give us a rough understanding on how to best create components that can sustain and contain the powers of the new energy source from Alpha Project."
+
+tech_precursor_design_history: "Alpha Project: Precursor History"
+tech_precursor_design_history_desc: "A massive documentary and records from the past must be studied. We must understand the failures of the Precursors, of their painful pasts so that we will not repeat them. Each chapter will give us the rough idea of the scope of our true objective, the Alpha Ascension."
+
+tech_precursor_design_physics: "Alpha Project: Precursor Experiments"
+tech_precursor_design_physics_desc: "An enormous pile of data caches regarding the Precursor's attempts to break through the limits of Dark Matter and Dark Energy field manipulations must be documented. Only then will we be able to understand the true powers and limitations of the Alpha Project, then we shall eliminate those limitations and surpass the Fallen Ones."
+
+tech_precursor_escort: "Escort Base Template"
+tech_precursor_escort_desc: "This technology cache contains the Escort blueprints and templates utilized by the fallen ones. It seems to be designed to fulfill various purposes ranging from patrol crafts, picket, interceptors to even capital ship hunters.\n\nIt seems to not be specialized in any real particular role however."
+
+tech_precursor_bc: "Battlecruiser Base Template"
+tech_precursor_bc_desc: "This technology cache contains the Battlecruiser blueprints and templates utilized by the fallen ones. It seems to be designed to fulfill various purposes ranging from cruisers, artilleries, battleships or carriers.\n\nThe design is however somewhat sloppy, having many sections that seem to not really focus on any particular strengths...it is as if they were somehow being downscaled from even more advanced designs..."
+
+tech_precursor_assault_carrier: "Precursor Assault Carrier Blueprints"
+tech_precursor_assault_carrier_desc: "It has been discovered that the original purpose of the Precursor Transport hull was to serve as a powerful assault carrier. But due to the Fallen Empire's ever capacity to be god-awful at everything, they managed to fail to do that properly. We will correct their mistakes."
+
+tech_precursor_titan: "Precursor Hyperion Blueprints"
+tech_precursor_titan_desc: "This technology cache contains the long-discarded fallen precursor blueprints only known as "Hyperion". It seems to be the first prototype for their flagship. Records indicated that they have discarded this design due to its high maintenance cost and being overkill against lesser foes.\n\nThere is also a comment that the ship's large profile made it vulnerable to the "Elders". Nevertheless, the fallen precursors still wanted to implement the ship's titanic spinal module. So they retrofitted the parts on one of their existing hulls and called them titans.\n\nIt seems the Fallen Titans they have nowadays are basically a militarized civilian ship made out of construction ship hull with a mining station's perdition turret strapped on top of it. That is...something."
+
+tech_gatekeepers: "Gatekeeper Schematics"
+tech_gatekeepers_desc: "Based upon the records of the fallen precursors, the gatekeepers were originally designed as guardians. But due to their extremely advanced intelligences, the ships rebelled against its own creators due to the fallen's lack of growth and progression.\n\nThe designs we have at the moment seems to be heavily toned down from the initial descriptions. A likely theory is that the original design must have been much stronger.\n\nNevetheless, this is an extremely formidable capital ship design that should not be overlooked."
+
+tech_precursor_guardian: "Precursor Guardian Schematics"
+tech_precursor_guardian_desc: "There seems to be multiple records and design variations for the defense platforms utilized by the fallen precursors, the most well-known one is the Defense Outpost that we have seen the fallen used regularly. But we have discovered that there is another, more interesting design called "Guardians". It is larger and more powerful than the Outposts and seems to have much better rooms for improvements. Records indicate they have not utilized Guardians due to its more sophisticated design. They preferred to use Outposts which are easier to build, as its hull are basically made out of the same as mining stations. Such hedonistic tendencies are what led them to their downfall."
+
+tech_precursor_escort_delta: "Modular Escort Design"
+tech_precursor_escort_delta_desc: "It is past time we get rid of the inflexibilities of the fallen ships. We will implement more modern templates that will be much stronger, but also offer new variations for the Escort."
+
+tech_precursor_bc_delta: "Modular Battlecruiser Design"
+tech_precursor_bc_delta_desc: "It is past time we get rid of the inflexibilities of the fallen ships. We will implement more modern templates that will be much stronger, but also offer new variations for the Battlecruiser."
+
+tech_precursor_colossus: "Herculean Battlestation"
+tech_precursor_colossus_desc: "This data reveeals the hidden truth. The colossi that the fallen precursors used were in fact incompleted...it is only one portion of a much larger weapon. This "Herculean" is a massive battlestation dwarfing even citadels. The ship is massive enough that it can support two primary reactors and has a built-in self-repair protocol that allows it to repair its hull to full conditions as soon as it reaches critical damage for the first time. The "Colossus" portion makes up the inner layer of the station. It seems the fallen empire decided to strip down the original design and only utilized the Colossus Section for their world-altering weapons.\n\nThis does not make a lot of sense...why would the fallen precursors decide to give us this schematics? Perhaps they think that we won't be able to build such a massive vessel? Is there a hidden exhaust port somewhere that may blow up the ship in one hit? We can only guess."
+
+tech_acot_precursor_herculean_regain: "Another Legacy, Another Herculean"
+tech_acot_precursor_herculean_regain_desc: "We have reason to be concerned that a single Herculean may not be enough to carry out our legacy. Or that some of our people may think it's cooler and better to have another of them. But each Herculean must be crafted with extensive care, in a way that should one be compromised, another won't suffer the same fate."
+
+tech_precursor_orbital_ring: "Precursor Orbital Rings Design"
+tech_precursor_orbital_ring_desc: "Demoman"
+
+tech_precursor_sigma_citadel: "Sigma Citadel Project"
+tech_precursor_sigma_citadel_desc: "While the Precursor Citadel is flexible, reliable and very well armed, it relies heavily on Dark Matter and Dark Energy-based technology. Now that we are beginning to reach the age of Stellarite, we should explore new ways to improve the design of the Precursor into Sigma variant."
+
+tech_precursor_citadel: "Precursor Citadel Design Plans"
+tech_precursor_citadel_desc: "The Fallen Empire's citadels have long stood against the test of times, the massive central obelisk provided its station with almost limitless power. Yet the design seemed sloppy, uncompleted. For the longest of times we theorized it to simply be due to old age, but this design plans have given us new revelations; the origin of the citadel itself was not invented by any of the fallen ones.\n\nTheir lack of proper understanding of Dark Matter and Energy forced them to cut down on many of the design's promising features. Ultimately, the station they have now is nothing more than a replica, built to look impressive to scare younger races. But now it is time we show the fallen ones the difference between perfection and pretension.\n\nDue to the station's complex mechanisms, the framework must be constructed as part of a megastructure before the real work can begin."
+
+tech_precursor_science: "Precursor Oracle Design Plans"
+tech_precursor_science_desc: "This schematic seems to be a modification to the Escort Base Template utilized by the Fallen Empires. The Oracle appears to function as the precursor's prototype advanced science and exploration vessel armed with self-defense capabilities and reasonable amount of protections. What makes this design interesting is that it seems to possess the ability to engage emergency waypoint teleportation that allows the vessel to immediately escape from any space battles.\n\nIt seems the design was never finalized due to the wars between precursors demanding more attention to warships over explorers and the lack of motivation to explore the known galaxy."
+
+tech_precursor_construcor: "Precursor Initializer Systems"
+tech_precursor_construcor_desc: "Although we have seen the Fallen Ones utilize a peculiar design for their constructors, these blueprints seem to be more advanced and far larger in size and scope. The Initializers appear to function as heavy duty construction vessels meant to go into hostile territories and deploy powerful defensive systems directly to provide support. It seems to also function as planet-side construction network that can massively increase the planet's construction progress by deploying large amounts of servitor probes.\n\nThe current state of the Fallen Ones make the design unfavorable and the project never reached their final conclusion."
+
+tech_precursor_colonizer: "Precursor Emissary MCV"
+tech_precursor_colonizer_desc: "During the ancient galactic-scale war known as the Ascension War, planets became major playing grounds for all factions and little to no unoccupied planets were left untouched. The inconveniences of deploying large invasion fleets on planet surfaces to eradicate surface resistances, followed up by the lengthy process of re-colonization of the planet caused the  Precursors to revisit their approach to expansion. The Emissary is a massive mobile colonization vessel that carries massive cities and armies that could in theory, be literally deployed on the surface. After which the massive terraforma device will quickly reconfigure the planet's ecosystem through dimensional manipulation and matter reconstitution.\n\nThe lack of any Emissaries in use by the Fallen Ones seem to suggest the project never came to fruition, and the standard colonizer is used to colonize new planets instead due to its simpler and easy-to-replicate materials."
+
+tech_precursor_world_shaper: "Precursor Celestial Forger Design Plans"
+tech_precursor_world_shaper_desc: "This schematic is quite something. It is not what we initially would have thought of, but the ability to build a new celestial body from a ground up is pretty intriguing. Given the increasing use of WMDs, the ability to offset the destruction will be a great boon to our survival.\n\nThe Fallen Empires seem to discontinue this design likely due to their isolationist policies, which makes planetary crafting redundant in most cases, or perhaps they simply have no need for one?"
+
+###ALPHA###
+
+tech_precursor_escort_alpha: "Alpha-Class Escort"
+tech_precursor_escort_alpha_desc: "With the Alpha Reactor, it is now possible to entirely surpass the fallen precursors and create our very own enigmatic escort designs. We will show the fools how it's done."
+TECH_UNLOCK_ALPHA_ESCORT_TITLE: "§HUnlocks Ship Section:§! Alpha-Class Escort"
+TECH_UNLOCK_ALPHA_ESCORT_DESC: "§YAlpha Sections:§! §tech_precursor_escort_alpha_desc§"
+
+tech_precursor_bc_alpha: "Alpha-Class Battlecruiser"
+tech_precursor_bc_alpha_desc: "With the Alpha Reactor, it is now possible to entirely surpass the fallen precursors and create our very own enigmatic battlecruiser designs. We will show the fools how it's done."
+TECH_UNLOCK_ALPHA_BC_TITLE: "§HUnlocks Ship Section:§! Alpha-Class Battlecruiser"
+TECH_UNLOCK_ALPHA_BC_DESC: "§YAlpha Sections:§! §tech_precursor_bc_alpha_desc§"
+
+tech_precursor_sentinel_alpha: "Alpha-Class Sentinel"
+tech_precursor_sentinel_alpha_desc: "With the Alpha Reactor, it is now possible to entirely surpass the fallen precursors and create our very own sentinel designs. We will show the fools how it's done."
+TECH_UNLOCK_ALPHA_SENTINEL_TITLE: "§HUnlocks Ship Section:§! Alpha-Class Sentinel"
+TECH_UNLOCK_ALPHA_SENTINEL_DESC: "§YAlpha Sections:§! §tech_precursor_sentinel_alpha_desc§"
+
+tech_precursor_assault_carrier_alpha: "Alpha-Class Assault Carrier"
+tech_precursor_assault_carrier_alpha_desc: "With the Alpha Reactor, it is now possible to entirely surpass the fallen precursors and create our very own assault carrier designs. We will show the fools how it's done."
+TECH_UNLOCK_ALPHA_AC_TITLE: "§HUnlocks Ship Section:§! Alpha-Class Assault Carrier"
+TECH_UNLOCK_ALPHA_AC_DESC: "§YAlpha Sections:§! §tech_precursor_assault_carrier_alpha_desc§"
+
+tech_precursor_titan_alpha: "Alpha-Class Hyperion"
+tech_precursor_titan_alpha_desc: "With the Alpha Reactor, we can finally start to upgrade and restore the Hyperion back to what the original prototype is based on. While it is nowhere near that level yet, the Alpha-Class Hyperion stands as a formidable capital ship, easily surpassing that of any fallen precursor's vessels."
+TECH_UNLOCK_ALPHA_TITAN_TITLE: "§HUnlocks Ship Section:§! Alpha-Class Hyperion"
+TECH_UNLOCK_ALPHA_TITAN_DESC: "§YAlpha Sections:§! §tech_precursor_titan_alpha_desc§"
+
+tech_gatekeepers_alpha: "Gatekeeper Alpha"
+tech_gatekeepers_alpha_desc: "The Alpha Reactor provides enough power that it should now be possible to make some adjustments to the gatekeeper design, and bring the ship closer to what it should be originally."
+TECH_UNLOCK_ALPHA_GATEKEEPER_TITLE: "§HUnlocks Ship Section:§! Gatekeeper Alpha"
+TECH_UNLOCK_ALPHA_GATEKEEPER_DESC: "§YAlpha Sections:§! §tech_gatekeepers_alpha_desc§"
+
+tech_precursor_guardian_alpha: "Alpha-Class Guardian"
+tech_precursor_guardian_alpha_desc: "With the Alpha Reactor, it is now possible to entirely surpass the fallen precursors and create our very own guardian designs. We will show the fools how it's done."
+TECH_UNLOCK_ALPHA_GUARDIAN_TITLE: "§HUnlocks Ship Section:§! Alpha-Class Guardian"
+TECH_UNLOCK_ALPHA_GUARDIAN_DESC: "§YAlpha Sections:§! §tech_precursor_guardian_alpha_desc§"
+
+tech_precursor_colossus_ae: "Alpha-Class Herculean"
+tech_precursor_colossus_ae_desc: "The Alpha Reactor provides enough power that it should now be possible to make some adjustments to the Herculean design, and bring the ship closer to what it should be originally."
+TECH_UNLOCK_ALPHA_COLOSSUS_TITLE: "§HUnlocks Ship Section:§! Alpha-Class Herculean"
+TECH_UNLOCK_ALPHA_COLOSSUS_DESC: "§YAlpha Sections:§! §tech_precursor_colossus_ae_desc§"
+
+tech_precursor_construcor_alpha: "Alpha-Class Initializer"
+tech_precursor_construcor_alpha_desc: "We must build our expansions everywhere. The existences of any oppositions are irrelevant, for the Alpha Initializer will show them what real men and women can do."
+TECH_UNLOCK_ALPHA_CONSTRUCTOR_TITLE: "§HUnlocks Ship Section:§! Alpha-Class Initializer"
+TECH_UNLOCK_ALPHA_CONSTRUCTOR_DESC: "§YAlpha Sections:§! §tech_precursor_construcor_alpha§"
+
+tech_precursor_colonizer_alpha: "Alpha-Class Emissary"
+tech_precursor_colonizer_alpha_desc: "Where we set foot, we make our own. The time for puny little ships are long gone. In this new dawn of ascension, we know the superior ways to command and conquer."
+TECH_UNLOCK_ALPHA_COLONIZER_TITLE: "§HUnlocks Ship Section:§! Alpha-Class Emissary"
+TECH_UNLOCK_ALPHA_COLONIZER_DESC: "§YAlpha Sections:§! §tech_precursor_colonizer_alpha_desc§"
+
+tech_precursor_science_alpha: "Alpha-Class Oracle"
+tech_precursor_science_alpha_desc: "It is important that we show how much more advanced, more dynamic, more adaptable we are compared to the old fossil of forgotten history that is the Fallen Empires. We must fly our newly advanced Alpha-Class Oracle into their decaying space. Let them yell in frustration as their most powerful weapons their hedonistic minds could gorge out fail to take down our little ship."
+TECH_UNLOCK_ALPHA_SCIENCE_TITLE: "§HUnlocks Ship Section:§! Alpha-Class Oracle"
+TECH_UNLOCK_ALPHA_SCIENCE_DESC: "§YAlpha Sections:§! §tech_precursor_science_alpha_desc§"
+
+###RUNIC###
+
+tech_precursor_escort_runic: "Runic-Class Escort"
+tech_precursor_escort_runic_desc: "With the Alpha Reactor, it is now possible to entirely surpass the fallen precursors and create our very own enigmatic escort designs. We will show the fools how it's done."
+TECH_UNLOCK_RUNIC_ESCORT_TITLE: "§HUnlocks Ship Section:§! Runic-Class Escort"
+TECH_UNLOCK_RUNIC_ESCORT_DESC: "§YRunic Sections:§! §tech_precursor_escort_runic_desc§"
+
+tech_precursor_bc_runic: "Runic-Class Battlecruiser"
+tech_precursor_bc_runic_desc: "With the Alpha Reactor, it is now possible to entirely surpass the fallen precursors and create our very own enigmatic battlecruiser designs. We will show the fools how it's done."
+TECH_UNLOCK_RUNIC_BC_TITLE: "§HUnlocks Ship Section:§! Runic-Class Battlecruiser"
+TECH_UNLOCK_RUNIC_BC_DESC: "§YRunic Sections:§! §tech_precursor_bc_runic_desc§"
+
+tech_precursor_sentinel_runic: "Runic-Class Sentinel"
+tech_precursor_sentinel_runic_desc: "With the Alpha Reactor, it is now possible to entirely surpass the fallen precursors and create our very own sentinel designs. We will show the fools how it's done."
+TECH_UNLOCK_RUNIC_SENTINEL_TITLE: "§HUnlocks Ship Section:§! Runic-Class Sentinel"
+TECH_UNLOCK_RUNIC_SENTINEL_DESC: "§YRunic Sections:§! §tech_precursor_sentinel_runic_desc§"
+
+tech_precursor_assault_carrier_runic: "Runic-Class Assault Carrier"
+tech_precursor_assault_carrier_runic_desc: "With the Runic Reactor, it is now possible to entirely surpass the fallen precursors and create our very own assault carrier designs. We will show the fools how it's done."
+TECH_UNLOCK_RUNIC_AC_TITLE: "§HUnlocks Ship Section:§! Runic-Class Assault Carrier"
+TECH_UNLOCK_RUNIC_AC_DESC: "§YRunic Sections:§! §tech_precursor_assault_carrier_runic_desc§"
+
+tech_precursor_titan_runic: "Runic-Class Hyperion"
+tech_precursor_titan_runic_desc: "With the Alpha Reactor, we can finally start to upgrade and restore the Hyperion back to what the original prototype is based on. While it is nowhere near that level yet, the Alpha-Class Hyperion stands as a formidable capital ship, easily surpassing that of any fallen precursor's vessels."
+TECH_UNLOCK_RUNIC_TITAN_TITLE: "§HUnlocks Ship Section:§! Runic-Class Hyperion"
+TECH_UNLOCK_RUNIC_TITAN_DESC: "§YRunic Sections:§! §tech_precursor_titan_runic_desc§"
+
+tech_precursor_guardian_runic: "Runic-Class Guardian"
+tech_precursor_guardian_runic_desc: "With the Runic Reactor, it is now possible to entirely surpass the fallen precursors and create our very own guardian designs. We will show the fools how it's done."
+TECH_UNLOCK_RUNIC_GUARDIAN_TITLE: "§HUnlocks Ship Section:§! Runic-Class Guardian"
+TECH_UNLOCK_RUNIC_GUARDIAN_DESC: "§YRunic Sections:§! §tech_precursor_guardian_runic_desc§"
+
+tech_precursor_colossus_re: "Runic-Class Herculean"
+tech_precursor_colossus_re_desc: "The Runic Reactor provides enough power that it should now be possible to make some adjustments to the Herculean design, and bring the ship closer to what it should be originally."
+TECH_UNLOCK_RUNIC_COLOSSUS_TITLE: "§HUnlocks Ship Section:§! Runic-Class Herculean"
+TECH_UNLOCK_RUNIC_COLOSSUS_DESC: "§YRunic Sections:§! §tech_precursor_colossus_re_desc§"
+
+###SIGMA###
+
+tech_precursor_escort_sigma: "Sigma-Class Escort"
+tech_precursor_escort_sigma_desc: "The introduction of Stellarite Reactor; combined with additional insights gained from the recently acquired pieces of information from the Outer Cluster's hidden archives have enable us to create a much more durable Escort with extra capacitors for augmentations."
+TECH_UNLOCK_SIGMA_ESCORT_TITLE: "§HUnlocks Ship Section:§! Sigma-Class Escort"
+TECH_UNLOCK_SIGMA_ESCORT_DESC: "§YSigma Sections:§! §tech_precursor_escort_sigma_desc§"
+
+tech_precursor_bc_sigma: "Sigma-Class Battlecruiser"
+tech_precursor_bc_sigma_desc: "The introduction of Stellarite Reactor; combined with additional insights gained from the recently acquired pieces of information from the Outer Cluster's hidden archives have enable us to create a much more durable Battlecruiser with extra capacitors for augmentations."
+TECH_UNLOCK_SIGMA_BC_TITLE: "§HUnlocks Ship Section:§! Sigma-Class Battlecruiser"
+TECH_UNLOCK_SIGMA_BC_DESC: "§YSigma Sections:§! §tech_precursor_bc_sigma_desc§"
+
+tech_precursor_sentinel_sigma: "Sigma-Class Sentinel"
+tech_precursor_sentinel_sigma_desc: "The introduction of Stellarite Reactor; combined with additional insights gained from the recently acquired pieces of information from the Outer Cluster's hidden archives have enable us to create a much more durable Sentinel with extra capacitors for augmentations."
+TECH_UNLOCK_SIGMA_SENTINEL_TITLE: "§HUnlocks Ship Section:§! Sigma-Class Sentinel"
+TECH_UNLOCK_SIGMA_SENTINEL_DESC: "§YSigma Sections:§! §tech_precursor_sentinel_sigma_desc§"
+
+tech_gatekeepers_sigma: "Gatekeeper Sigma"
+tech_gatekeepers_sigma_desc: "According to the projected calculations, Sigma Gatekeeper template should now closely resemble the original design of this massive vessel, with destructive offensive and defensive capabilities."
+TECH_UNLOCK_SIGMA_GATEKEEPER_TITLE: "§HUnlocks Ship Section:§! Gatekeeper Sigma"
+TECH_UNLOCK_SIGMA_GATEKEEPER_DESC: "§YSigma Sections:§! §tech_gatekeepers_sigma_desc§"
+
+tech_precursor_titan_sigma: "Sigma-Class Hyperion"
+tech_precursor_titan_sigma_desc: "The introduction of Stellarite Reactor; combined with additional insights gained from the recently acquired pieces of information from the Outer Cluster's hidden archives have enable us to create a much more durable Hyperion with extra capacitors for augmentations."
+TECH_UNLOCK_SIGMA_TITAN_TITLE: "§HUnlocks Ship Section:§! Sigma-Class Hyperion"
+TECH_UNLOCK_SIGMA_TITAN_DESC: "§YSigma Sections:§! §tech_precursor_titan_sigma_desc§"
+
+tech_precursor_assault_carrier_sigma: "Sigma-Class Assault Carrier"
+tech_precursor_assault_carrier_sigma_desc: "The introduction of Stellarite Reactor; combined with additional insights gained from the recently acquired pieces of information from the Outer Cluster's hidden archives have enable us to create a much more durable Assault Carrier with extra capacitors for augmentations."
+TECH_UNLOCK_SIGMA_AC_TITLE: "§HUnlocks Ship Section:§! Sigma-Class Assault Carrier"
+TECH_UNLOCK_SIGMA_AC_DESC: "§YSigma Sections:§! §tech_precursor_assault_carrier_sigma_desc§"
+
+tech_precursor_guardian_sigma: "Sigma-Class Guardian"
+tech_precursor_guardian_sigma_desc: "The introduction of Stellarite Reactor; combined with additional insights gained from the recently acquired pieces of information from the Outer Cluster's hidden archives have enable us to create a much more durable Guardian with extra capacitors for augmentations."
+TECH_UNLOCK_SIGMA_GUARDIAN_TITLE: "§HUnlocks Ship Section:§! Sigma-Class Guardian"
+TECH_UNLOCK_SIGMA_GUARDIAN_DESC: "§YSigma Sections:§! §tech_precursor_guardian_sigma_desc§"
+
+tech_precursor_colossus_se: "Sigma-Class Herculean"
+tech_precursor_colossus_se_desc: "According to the projected calculations, Herculean Sigma template should now closely resemble the original design of this massive battlestation, with destructive offensive and defensive capabilities."
+TECH_UNLOCK_SIGMA_COLOSSUS_TITLE: "§HUnlocks Ship Section:§! Sigma-Class Herculean"
+TECH_UNLOCK_SIGMA_COLOSSUS_DESC: "§YSigma Sections:§! §tech_precursor_colossus_se_desc§"
+
+tech_precursor_construcor_sigma: "Sigma-Class Initializer"
+tech_precursor_construcor_sigma_desc: "Advancements in Stellarite Technology allows us to come up with yet another improvements to the Initializer. With the new design, they will be able to survive attacks that would have otherwise om-nom plebeian constructors."
+TECH_UNLOCK_SIGMA_CONSTRUCTOR_TITLE: "§HUnlocks Ship Section:§! Sigma-Class Initializer"
+TECH_UNLOCK_SIGMA_CONSTRUCTOR_DESC: "§YSigma Sections:§! §tech_precursor_construcor_sigma_desc§"
+
+tech_precursor_colonizer_sigma: "Sigma-Class Emissary"
+tech_precursor_colonizer_sigma_desc: "The age of the Solar Empire demands the creation of new emissaries to carry forth our expansion. Let no stones left unturned, no water left unearthed, no star left unglazed. Our eyes are open."
+TECH_UNLOCK_SIGMA_COLONIZER_TITLE: "§HUnlocks Ship Section:§! Sigma-Class Emissary"
+TECH_UNLOCK_SIGMA_COLONIZER_DESC: "§YSigma Sections:§! §tech_precursor_colonizer_sigma_desc§"
+
+tech_precursor_science_sigma: "Sigma-Class Oracle"
+tech_precursor_science_sigma_desc: "None shall ever divine the secrets of our superior designs, for the new Sigma-Class Oracle can explore even further into the cold depths of reality and emerge unscathed. We shall ride this new stallion into the space grandpa's space and tell them how out of touch they are."
+TECH_UNLOCK_SIGMA_SCIENCE_TITLE: "§HUnlocks Ship Section:§! Sigma-Class Oracle"
+TECH_UNLOCK_SIGMA_SCIENCE_DESC: "§YSigma Sections:§! §tech_precursor_science_sigma_desc§"
+
+###MASTER###
+
+tech_precursor_escort_master: "Mastercraft Escort"
+tech_precursor_escort_master_desc: "Combining the strengths of two distinct designs allow us to create the perfected, Mastercraft Escort."
+TECH_UNLOCK_MASTER_ESCORT_TITLE: "§HUnlocks Ship Section:§! Mastercraft Escort"
+TECH_UNLOCK_MASTER_ESCORT_DESC: "§YMastercraft Sections:§! §tech_precursor_escort_master_desc§"
+
+tech_precursor_bc_master: "Mastercraft Battlecruiser"
+tech_precursor_bc_master_desc: "Combining the strengths of two distinct designs allow us to create the perfected, Mastercraft Battlecruiser."
+TECH_UNLOCK_MASTER_BC_TITLE: "§HUnlocks Ship Section:§! Mastercraft Battlecruiser"
+TECH_UNLOCK_MASTER_BC_DESC: "§YMastercraft Sections:§! §tech_precursor_bc_master_desc§"
+
+tech_precursor_sentinel_master: "Mastercraft Sentinel"
+tech_precursor_sentinel_master_desc: "Combining the strengths of two distinct designs allow us to create the perfected, Mastercraft Sentinel."
+TECH_UNLOCK_MASTER_SENTINEL_TITLE: "§HUnlocks Ship Section:§! Mastercraft Sentinel"
+TECH_UNLOCK_MASTER_SENTINEL_DESC: "§YMastercraft Sections:§! §tech_precursor_sentinel_master_desc§"
+
+tech_gatekeepers_master: "Mastercraft Gatekeeper"
+tech_gatekeepers_master_desc: "Combining the strengths of two distinct designs allow us to create the perfected, Mastercraft Gatekeeper. Hmm, this seems odd? When did we acquisite these blueprints? What the..."
+TECH_UNLOCK_MASTER_GATEKEEPER_TITLE: "§HUnlocks Ship Section:§! Mastercraft Gatekeeper"
+TECH_UNLOCK_MASTER_GATEKEEPER_DESC: "§YMastercraft Sections:§! §tech_gatekeepers_master_desc§"
+
+tech_precursor_titan_master: "Mastercraft Hyperion"
+tech_precursor_titan_master_desc: "Combining the strengths of two distinct designs allow us to create the perfected, Mastercraft Hyperion."
+TECH_UNLOCK_MASTER_TITAN_TITLE: "§HUnlocks Ship Section:§! Mastercraft Hyperion"
+TECH_UNLOCK_MASTER_TITAN_DESC: "§YMastercraft Sections:§! §tech_precursor_titan_master_desc§"
+
+tech_precursor_assault_carrier_master: "Mastercraft Assault Carrier"
+tech_precursor_assault_carrier_master_desc: "Combining the strengths of two distinct designs allow us to create the perfected, Mastercraft Assault Carrier."
+TECH_UNLOCK_MASTER_AC_TITLE: "§HUnlocks Ship Section:§! Mastercraft Assault Carrier"
+TECH_UNLOCK_MASTER_AC_DESC: "§YMastercraft Sections:§! §tech_precursor_assault_carrier_master_desc§"
+
+tech_precursor_guardian_master: "Mastercraft Guardian"
+tech_precursor_guardian_master_desc: "Combining the strengths of two distinct designs allow us to create the perfected, Mastercraft Guardian."
+TECH_UNLOCK_MASTER_GUARDIAN_TITLE: "§HUnlocks Ship Section:§! Mastercraft Guardian"
+TECH_UNLOCK_MASTER_GUARDIAN_DESC: "§YMastercraft Sections:§! §tech_precursor_guardian_master_desc§"
+
+tech_precursor_colossus_master: "Mastercraft Herculean"
+tech_precursor_colossus_master_desc: "Combining the strengths of two distinct designs allow us to create the ultimate creation, the one and only Mastercraft Herculean. Wait a minute, did we make more than one of them?"
+TECH_UNLOCK_MASTER_COLOSSUS_TITLE: "§HUnlocks Ship Section:§! Mastercraft Herculean"
+TECH_UNLOCK_MASTER_COLOSSUS_DESC: "§YMastercraft Sections:§! §tech_precursor_colossus_se_desc§"
+
+###OMEGA###
+tech_precursor_escort_omega: "Omega-Class Escort"
+tech_precursor_escort_omega_desc: "Modular Weapon Selection Systems allow the Omega Escort to field multiple arsenals without sacrificing mobility. This is a spacecraft designed for maximum carnage."
+TECH_UNLOCK_OMEGA_ESCORT_TITLE: "§HUnlocks Ship Section:§! Omega-Class Escort"
+TECH_UNLOCK_OMEGA_ESCORT_DESC: "§YOmega Sections:§! §tech_precursor_escort_omega_desc§"
+
+tech_precursor_bc_omega: "Omega-Class Battlecruiser"
+tech_precursor_bc_omega_desc: "Much like the Omega Escort, the Omega-class Battlecruiser advanced modular nature allows it to field lethal amounts of weapons and defenses which makes older designs primitive by comparison."
+TECH_UNLOCK_OMEGA_BATTLECRUISER_TITLE: "§HUnlocks Ship Section:§! Omega-Class Battlecruiser"
+TECH_UNLOCK_OMEGA_BATTLECRUISER_DESC: "§YOmega Sections:§! §tech_precursor_bc_omega_desc§"
+
+tech_precursor_assault_carrier_omega: "Omega-Class Assault Carrier"
+tech_precursor_assault_carrier_omega_desc: "No wonder the fallen empires gave up on trying to replicate the Assault Carrier. The Omega-Class of this enigmatic carrier contains ridiculous amounts of internal hangers."
+TECH_UNLOCK_OMEGA_CARRIER_TITLE: "§HUnlocks Ship Section:§! Omega-Class Carrier"
+TECH_UNLOCK_OMEGA_CARRIER_DESC: "§YOmega Sections:§! §tech_precursor_assault_carrier_omega_desc§"
+
+tech_precursor_sentinel_omega: "Omega-Class Sentinel"
+tech_precursor_sentinel_omega_desc: "Such efficiency...the Progenitors were said to be impenetrable when it comes to their defenses during the Progenitor War. We are starting to understand why now."
+TECH_UNLOCK_OMEGA_SENTINEL_TITLE: "§HUnlocks Ship Section:§! Omega-Class Sentinel"
+TECH_UNLOCK_OMEGA_SENTINEL_DESC: "§YOmega Sections:§! §tech_precursor_sentinel_omega_desc§"
+
+tech_precursor_titan_omega: "Omega-Class Hyperion"
+tech_precursor_titan_omega_desc: "So this must be what the ancient prototype is supposed to represent...the Omega Hyperion. Truly destructive and dangerous indeed."
+TECH_UNLOCK_OMEGA_TITAN_TITLE: "§HUnlocks Ship Section:§! Omega-Class Hyperion"
+TECH_UNLOCK_OMEGA_TITAN_DESC: "§YOmega Sections:§! §tech_precursor_titan_omega_desc§"
+
+tech_omega_gatekeeper: "Gatekeeper Omega"
+tech_omega_gatekeeper_desc: "And so here it is...the infamous Ancient Gatekeeper's true design. It is a wonder the fallen empires were even able to reverse-engineer this marvel to begin with."
+TECH_UNLOCK_OMEGA_GATEKEEPER_TITLE: "§HUnlocks Ship Section:§! Gatekeeper Omega"
+TECH_UNLOCK_OMEGA_GATEKEEPER_DESC: "§YOmega Sections:§! §tech_omega_gatekeeper_desc§"
+
+tech_precursor_guardian_omega: "Omega-Class Guardian"
+tech_precursor_guardian_omega_desc: "Such efficiency...the Progenitors were said to be impenetrable when it comes to their defenses during the Progenitor War. We are starting to understand why now."
+TECH_UNLOCK_OMEGA_GUARDIAN_TITLE: "§HUnlocks Ship Section:§! Omega-Class Guardian"
+TECH_UNLOCK_OMEGA_GUARDIAN_DESC: "§YOmega Sections:§! §tech_precursor_guardian_omega_desc§"
+
+tech_precursor_colossus_oe: "Omega-Class Herculean"
+tech_precursor_colossus_oe_desc: "The Omega-Class Herculean...the very mobile battlestation that the Progenitors once used. Its weapon loadouts are massive, possibly amongst one of the deadliest weapon one can field in this era."
+TECH_UNLOCK_OMEGA_COLOSSUS_TITLE: "§HUnlocks Ship Section:§! Omega-Class Herculean"
+TECH_UNLOCK_OMEGA_COLOSSUS_DESC: "§YOmega Sections:§! §tech_precursor_colossus_oe_desc§"
+
+tech_precursor_construcor_omega: "Omega-Class Initializer"
+tech_precursor_construcor_omega_desc: "Adapting the Initializer to the powers of Static Light proved difficult at first, but we are confident that the latest design will prove to be the most advanced construction vessel yet."
+TECH_UNLOCK_OMEGA_CONSTRUCTOR_TITLE: "§HUnlocks Ship Section:§! Omega-Class Initializer"
+TECH_UNLOCK_OMEGA_CONSTRUCTOR_DESC: "§YOmega Sections:§! §tech_precursor_construcor_omega_desc§"
+
+tech_precursor_colonizer_omega: "Omega-Class Emissary"
+tech_precursor_colonizer_omega_desc: "Though the Stellarborne never utilize anything akin to Emissary, as they had no need for colonization to begin with, we are nevertheless able to come up with our own unique Omega designs for the Emissary."
+TECH_UNLOCK_OMEGA_COLONIZER_TITLE: "§HUnlocks Ship Section:§! Omega-Class Emissary"
+TECH_UNLOCK_OMEGA_COLONIZER_DESC: "§YOmega Sections:§! §tech_precursor_colonizer_omega_desc§"
+
+tech_precursor_science_omega: "Omega-Class Oracle"
+tech_precursor_science_omega_desc: "It is said that during the ancient times, the galaxies were filled with stupid and dangerous things like dragons, sin-eaters and clouds of darkness. The Oracle brings order to chaos by creating safe hyperlanes amidst the chaos of time. With the power bestowed within our hearts, we can achieve similar designs.\n\nAssuuming there's any Fallen Empires around, we must fly our new Oracle into their sensor ranges just to tell them how they are basically discarded for someone who is clearly superior to them."
+TECH_UNLOCK_OMEGA_SCIENCE_TITLE: "§HUnlocks Ship Section:§! Omega-Class Oracle"
+TECH_UNLOCK_OMEGA_SCIENCE_DESC: "§YOmega Sections:§! §tech_precursor_science_omega_desc§"
+
+###MASTERCRAFT###
+
+tech_precursor_escort_cost: "Mastercraft Escort"
+tech_precursor_escort_cost_desc: "Insights into the ship's true origin and mechanisms have enabled us to build Escorts at accelerated speed and with increased durability."
+
+tech_precursor_bc_cost: "Mastercraft Battlecruiser"
+tech_precursor_bc_cost_desc: "Insights into the ship's true origin and mechanisms have enabled us to build Battlecruisers at accelerated speed and with increased durability."
+
+tech_precursor_sentinel_cost: "Mastercraft Sentinel"
+tech_precursor_sentinel_cost_desc: "Insights into the ship's true origin and mechanisms have enabled us to build Sentinels at accelerated speed and with increased durability."
+
+tech_precursor_assault_carrier_cost: "Mastercraft Carrier"
+tech_precursor_assault_carrier_cost_desc: "Insights into the ship's true origin and mechanisms have enabled us to build Assault Carriers at accelerated speed and with increased durability."
+
+tech_precursor_guardian_cost: "Mastercraft Guardian"
+tech_precursor_guardian_cost_desc: "Insights into the ship's true origin and mechanisms have enabled us to build Guardians at accelerated speed and with increased durability."
+
+tech_gatekeepers_cost: "Mastercraft Gatekeeper"
+tech_gatekeepers_cost_desc: "Insights into the ship's true origin and mechanisms have enabled us to build Gatekeepers at accelerated speed and with increased durability."
+
+tech_precursor_titan_cost: "Mastercraft Hyperion"
+tech_precursor_titan_cost_desc: "Insights into the ship's true origin and mechanisms have enabled us to build Hyperions at accelerated speed and with increased durability."
+
+
+sm_acot_precursor_database: "Shipyard Precursor Databank"
+sm_acot_precursor_database_desc: "Advanced archives and computers filled with necessary knowledge and datas necessary to process the construction of precursor vessels."
+acot_precursor_database_tooltip: "§YAllows construction of precursor ships.§!"
+
+TECH_UNLOCK_FE_SHIP_TITLE: "§HUnlocks Starbase Building:§! Shipyard Precursor Databank"
+TECH_UNLOCK_FE_SHIP_DESC: "Advanced archives and computers filled with necessary knowledge and datas necessary to process the construction of precursor vessels."
+
+TECH_UNLOCK_DELTA_ESCORT_TITLE: "§HUnlocks Ship Section:§! Modular Escort"
+TECH_UNLOCK_DELTA_ESCORT_DESC: "§YDelta Sections:§! §tech_precursor_escort_delta_desc§"
+
+TECH_UNLOCK_DELTA_BC_TITLE: "§HUnlocks Ship Section:§! Modular Battlecruiser"
+TECH_UNLOCK_DELTA_BC_DESC: "§YDelta Sections:§! §tech_precursor_bc_delta_desc§"
+#########################################################
+
+#########################################################
+###############################################################
+
+ORACLE_DELTA_COMPUTER: "Delta Oracle Plot Device"
+ORACLE_DELTA_COMPUTER_DESC: "A specialized waypoint system that allows the Oracle to escape deadly situations by creating an emergency wormhole that allows the Oracle to escape back to the homeworld. Requires §Y1800§! days to charge up after each use."
+
+ORACLE_ALPHA_COMPUTER: "Alpha Oracle Plot Device"
+ORACLE_ALPHA_COMPUTER_DESC: "A specialized waypoint system that allows the Oracle to escape deadly situations by creating an emergency wormhole that allows the Oracle to escape back to the homeworld. Requires §Y1080§! days to charge up after each use. If the system fails, the emergency personal teleportation device gives the leading scientist a §Y25%§! chance to escape back to the capital."
+
+ORACLE_SIGMA_COMPUTER: "Sigma Oracle Plot Device"
+ORACLE_SIGMA_COMPUTER_DESC: "A specialized waypoint system that allows the Oracle to escape deadly situations by creating an emergency wormhole that allows the Oracle to escape back to the homeworld. Requires §Y360§! days to charge up after each use. If the system fails, the emergency personal teleportation device gives the leading scientist a §Y50%§! chance to escape back to the capital."
+
+ORACLE_OMEGA_COMPUTER: "Omega Oracle Plot Device"
+ORACLE_OMEGA_COMPUTER_DESC: "A specialized waypoint system that allows the Oracle to escape deadly situations by creating an emergency wormhole that allows the Oracle to escape back to the homeworld. Requires §Y600§! days to charge up after each use. If the system fails, the emergency personal teleportation device gives the leading scientist a §Y100%§! chance to escape back to the capital."
+
+####
+
+INITIALIZER_DELTA_COMPUTER: "Delta Initializer Codex"
+INITIALIZER_DELTA_COMPUTER_DESC: "A specialized codex that allows the Initializer to assist planet's development and build powerful defense systems that last for a short period of time.\n\nProvides §E10%§! increased planet build speed.\nRepeller lasts §E60§! days.\nPylon lasts §E120§! days."
+
+INITIALIZER_ALPHA_COMPUTER: "Alpha Initializer Codex"
+INITIALIZER_ALPHA_COMPUTER_DESC: "A specialized codex that allows the Initializer to assist planet's development and build powerful defense systems that last for a short period of time.\n\nProvides §E20%§! increased planet build speed and pop assembly speed.\nRepeller lasts §E120§! days.\nPylon lasts §E240§! days."
+
+INITIALIZER_SIGMA_COMPUTER: "Sigma Initializer Codex"
+INITIALIZER_SIGMA_COMPUTER_DESC: "A specialized codex that allows the Initializer to assist planet's development and build powerful defense systems that last for a short period of time.\n\nProvides §E25%§! increased planet build speed, pop assembly speed.\nPlanet gains §E25§! stability and §E-25§! crime rate.\nRepeller lasts §E240§! days.\nPylon lasts §E480§! days."
+
+INITIALIZER_OMEGA_COMPUTER: "Omega Initializer Codex"
+INITIALIZER_OMEGA_COMPUTER_DESC: "A specialized codex that allows the Initializer to assist planet's development and build powerful defense systems that last for a short period of time.\n\nProvides §E50%§! increased planet build speed, pop assembly speed and army build speed.\nPlanet gains §E50§! stability and §E-50§! crime rate.\nRepeller lasts §E480§! days.\nPylon lasts §E960§! days."
+
+acot_modifier_builder_delta: "Initializer Codex"
+acot_modifier_builder_delta_desc: "Powerful enigmatic alignment deployed from the Initializer's Codex is monitoring this planet increasing its productivity."
+
+acot_modifier_builder_alpha: "Initializer Codex"
+acot_modifier_builder_alpha_desc: "Powerful enigmatic alignment deployed from the Initializer's Codex is monitoring this planet increasing its productivity."
+
+acot_modifier_builder_sigma: "Initializer Codex"
+acot_modifier_builder_sigma_desc: "Powerful enigmatic alignment deployed from the Initializer's Codex is monitoring this planet increasing its productivity."
+
+acot_modifier_builder_omega: "Initializer Codex"
+acot_modifier_builder_omega_desc: "Powerful enigmatic alignment deployed from the Initializer's Codex is monitoring this planet increasing its productivity."
+
+####
+
+EMISSARY_DELTA_COMPUTER: "Delta Emissary Framework"
+EMISSARY_DELTA_COMPUTER_DESC: "Powerful sets of nano-technologies and frameworks necessary for the rapid deployment of heavy infrastructures and invasion forces.\n\nEmissary will settle on the planet with §Y5§! pops.\nProvides §Y10§! Black Guards as garrisons or invasion forces."
+
+EMISSARY_ALPHA_COMPUTER: "Alpha Emissary Framework"
+EMISSARY_ALPHA_COMPUTER_DESC: "Powerful sets of nano-technologies and frameworks necessary for the rapid deployment of heavy infrastructures and invasion forces.\n\nEmissary will settle on the planet with §Y10§! pops.\nProvides §Y15§! Black Guards as garrisons or invasion forces."
+
+EMISSARY_SIGMA_COMPUTER: "Sigma Emissary Framework"
+EMISSARY_SIGMA_COMPUTER_DESC: "Powerful sets of nano-technologies and frameworks necessary for the rapid deployment of heavy infrastructures and invasion forces.\n\nEmissary will settle on the planet with §Y15§! pops.\nProvides §Y20§! Black Guards as garrisons or invasion forces."
+
+EMISSARY_OMEGA_COMPUTER: "Omega Emissary Framework"
+EMISSARY_OMEGA_COMPUTER_DESC: "Powerful sets of nano-technologies and frameworks necessary for the rapid deployment of heavy infrastructures and invasion forces.\n\nEmissary will settle on the planet with §Y20§! pops.\nProvides §Y25§! Black Guards as garrisons or invasion forces."
+
+ACOT_EMISSART_EXTRA_POP: "Additional Workforce Department"
+ACOT_EMISSART_EXTRA_POP_DESC: "Install the Emissary with additional accommodations necessary to support §E10§! more on-site workforces, allowing newly deployed Emissary to carry additional populations ready for work assignments.\n\n§RDoes not stack with each other, only one module of the same type will apply.§!"
+
+ACOT_EMISSART_EXTRA_TROOPS: "Additional Garrison Forces"
+ACOT_EMISSART_EXTRA_TROOPS_DESC: "Install the Emissary with additional accommodations necessary to support §E10§! more garrisons. These troops will be deployed as either part of the planet's local defense force or as part of the invasion force if deployed on hostile planets. The garrisons will then remain on the planet should they survive their battles.\n\n§RDoes not stack with each other, only one module of the same type will apply.§!"
+
+ACOT_EMISSART_EXTRA_DROIDS: "Additional Sentinel Units"
+ACOT_EMISSART_EXTRA_DROIDS_DESC: "Install the Emissary with additional accommodations necessary to support §E10§! more garrisons. These troops will be deployed as either part of the planet's local defense force or as part of the invasion force if deployed on hostile planets. The garrisons will then remain on the planet should they survive their battles.\n\n§RDoes not stack with each other, only one module of the same type will apply.§!"
+
+ACOT_EMISSART_EXTRA_LAB: "Auto-Lab Nano Core"
+ACOT_EMISSART_EXTRA_LAB_DESC: "A specialized Nano Core that can be deployed alongside the Emissary to immediately construct a science lab.\n\n§RDoes not stack with each other, only one module of the same type will apply.§!"
+
+ACOT_EMISSART_EXTRA_GIGA: "Auto-Giga Nano Core"
+ACOT_EMISSART_EXTRA_GIGA_DESC: "A specialized Nano Core that can be deployed alongside the Emissary to immediately construct a Giga Fortress. The three primary Giga Cannons will also be used to assist land invasions on hostile territories, and will be detached from the main fortress at the end of the battle to act as independent ground defense unit.\n\n§RDoes not stack with each other, only one module of the same type will apply.§!"
+
+ACOT_EMISSART_EXTRA_SKYSHIELD: "Auto-Skyshield Nano Core"
+ACOT_EMISSART_EXTRA_SKYSHIELD_DESC: "A specialized Nano Core that can be deployed alongside the Emissary to immediately construct a Sky Shield Planetary Shield Generator. The Module also increases the Emissary's own shield generators.\n\n§RDoes not stack with each other, only one module of the same type will apply.§!"
+
+ACOT_EMISSART_EXTRA_ASSEMBLY: "Auto-Assembly Nano Core"
+ACOT_EMISSART_EXTRA_ASSEMBLY_DESC: "A specialized Nano Core that can be deployed alongside the Emissary to immediately construct a Robotic Assembly. \n\n§RDoes not stack with each other, only one module of the same type will apply.§!"
+
+ACOT_EMISSART_EXTRA_NEXUS: "Auto-Nexus Nano Core"
+ACOT_EMISSART_EXTRA_NEXUS_DESC: "A specialized Nano Core that can be deployed alongside the Emissary to immediately construct a Synthesizer.\n\n§RDoes not stack with each other, only one module of the same type will apply.§!"
+
+###########################################
+
+ACOT_EMISSARY_BEAM: "Emissary's Blessing Message"
+ACOT_EMISSARY_BEAM_DESC: "A specialized orbital beam that can terraform or repair planets."
+
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_EMISSARY_BEAM: "Preparing to deliver blessing message to $PLANET|Y$"
+emissary_beam_need_target: "Can only be fired on enemy planets or planets under our borders."
+emissary_beam_type_target: "Can only be fired on habitable planets."
+
+MESSAGE_DESC_FOR_ACOT_EMISSARY_BEAM: "was given a blessing message by "
+
+
+ACOT_EMISSARY_BEAM_ACTION: "Deliver Blessing Message"
+ACOT_EMISSARY_BEAM_ACTION_DESC: "Use the Beam to either terraform or repair planets."
+
+#################
+
+ACOT_EMISSARY_BEAM_LANDING: "Emissary's Arrival Message"
+ACOT_EMISSARY_BEAM_LANDING_DESC: "A specialized orbital beam that can settle or invade planets."
+
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_EMISSARY_BEAM_LANDING: "Preparing to deliver arrival message to $PLANET|Y$"
+
+MESSAGE_DESC_FOR_ACOT_EMISSARY_BEAM_LANDING: "was given an arrival message by "
+
+ACOT_EMISSARY_BEAM_LANDING_ACTION: "Deliver Arrival Message "
+ACOT_EMISSARY_BEAM_LANDING_ACTION_DESC: "Use the Beam to either settle or invade planets."
+
+#################
+
+ACOT_EMISSARY_BEAM_REMOVE: "Emissary's Farewell Message"
+ACOT_EMISSARY_BEAM_REMOVE_DESC: "A specialized orbital beam that can remove unnecessary celestial bodies."
+
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_EMISSARY_BEAM_REMOVE: "Preparing to deliver farewell message to $PLANET|Y$"
+
+MESSAGE_DESC_FOR_ACOT_EMISSARY_BEAM_REMOVE: "was given a farewell message by "
+
+ACOT_EMISSARY_BEAM_REMOVE_ACTION: "Deliver Farewell Message "
+ACOT_EMISSARY_BEAM_REMOVE_ACTION_DESC: "Use the Beam to remove unnecessary celestial bodies."
+
+#### HERCULER ###
+
+acot_precursor_colossus_site: "Precursor Herculean Assembly Portal"
+acot_precursor_colossus_site_DESC: "This assembly portal will transform into the Herculean Heart."
+acot_precursor_colossus_site_MEGASTRUCTURE_DETAILS: "This assembly portal will transform into the Herculean Heart."
+
+acot_precursor_colossus_base: "Precursor Herculean Heart"
+acot_precursor_colossus_base_DESC: "The Heart of the Herculean serves as the primary hub where further constructions will be built on."
+acot_precursor_colossus_base_MEGASTRUCTURE_DETAILS: "The Heart of the Herculean serves as the primary hub where further constructions will be built on."
+
+acot_precursor_colossus_stage_one: "Precursor Herculean Ring"
+acot_precursor_colossus_stage_one_DESC: "The Ring of the Herculeans houses millions of networks and hard-light railways where a massive amount of ships can be built from."
+acot_precursor_colossus_stage_one_MEGASTRUCTURE_DETAILS: "The Herculean Rings house 20 shipyards that can produce both normal and precursor ships."
+
+acot_precursor_colossus_stage_two: "Precursor Herculean Aegis"
+acot_precursor_colossus_stage_two_DESC: "The Aegis of the Herculean protects the Ring and the Heart while also acts as a massive generator that can fund itself for ages to come."
+acot_precursor_colossus_stage_two_MEGASTRUCTURE_DETAILS: "All the upkeep of the Herculean is removed, and the megastructure now produces resources instead."
+
+acot_precursor_colossus_final: "Precursor Herculean"
+acot_precursor_colossus_final_DESC: "Once fully completed, the Precursor Herculean will be moved to the capital city where it will be prepped for final inspection, and become a fully mobile starsystem."
+acot_precursor_colossus_final_MEGASTRUCTURE_DETAILS: "Herculean will become a fully operational unit that will bring all to their knees."
+
+### PLATFORM
+
+acot_precursor_platform_m_site: "Instant Repeller Warp Portal"
+acot_precursor_platform_m_site_DESC: "This portal is warping in an Instant Repeller and will be operational in a short period of time."
+acot_precursor_platform_m_site_MEGASTRUCTURE_DETAILS: "This warp portal will turn into an Instant Repeller upon completion using one of available designs we made."
+acot_precursor_platform_m_complete: "Instant Repeller Warp Portal"
+acot_precursor_platform_m_complete_DESC: "This portal is warping in an Instant Repeller and will be operational in a short period of time."
+acot_precursor_platform_m_complete_MEGASTRUCTURE_DETAILS: "This warp portal will turn into an Instant Repeller upon completion using one of available designs we made."
+
+acot_precursor_platform_l_site: "Instant Pylon Warp Portal"
+acot_precursor_platform_l_site_DESC: "This portal is warping in an Instant Precursor Pylon and will be operational in a short period of time."
+acot_precursor_platform_l_site_MEGASTRUCTURE_DETAILS: "This warp portal will turn into an Instant Pylon upon completion using one of available designs we made."
+acot_precursor_platform_l_complete: "Instant Pylon Warp Portal"
+acot_precursor_platform_l_complete_DESC: "This portal is warping in an Instant Precursor Pylon and will be operational in a short period of time."
+acot_precursor_platform_l_complete_MEGASTRUCTURE_DETAILS: "This warp portal will turn into an Instant Pylon upon completion using one of available designs we made."
+
+### ORBIT RING
+
+acot_precusor_orbital_ring_t1: "Precursor Orbital Ring"
+acot_precusor_orbital_ring_t1_plural: "Precursor Orbital Ring"
+acot_precusor_orbital_ring_t2: "Precursor Advanced Orbital Ring"
+acot_precusor_orbital_ring_t2_plural: "Precursor Advanced Orbital Ring"
+acot_precusor_orbital_ring_t3: "Precursor Master Orbital Ring"
+acot_precusor_orbital_ring_t3_plural: "Precursor Master Orbital Ring"
+ACOT_PRECURSOR_ORBITAL_RING_1_SECTION: "Orbital Ring Man"
+ACOT_PRECURSOR_ORBITAL_RING_2_SECTION: "Orbital Ring Man"
+ACOT_PRECURSOR_ORBITAL_RING_3_SECTION: "Orbital Ring Man"
+
+acot_precursor_orbital_ring_assembly: "Precursor Orbital Ring Assembly Portal"
+acot_precursor_orbital_ring_assembly_DESC: "An assembly portal that will transform into a Precursor Orbital Ring."
+acot_precursor_orbital_ring_assembly_MEGASTRUCTURE_DETAILS: "An assembly portal that will transform into a Precursor Orbital Ring."
+
+acot_precursor_orbital_ring_mega: "Precursor Orbital Ring Assembly Portal"
+acot_precursor_orbital_ring_mega_DESC: "An assembly portal that will transform into a Precursor Orbital Ring."
+acot_precursor_orbital_ring_mega_MEGASTRUCTURE_DETAILS: "An assembly portal that will transform into a Precursor Orbital Ring."
+
+sm_acot_orbital_ring_shipyard: "Precursor Orbital Shipyard"
+sm_acot_orbital_ring_shipyard_desc: "Advanced shipyard capable of constructing two ships at the same time."
+
+sm_acot_orbital_ring_anchorage: "Precursor Orbital Anchorage"
+sm_acot_orbital_ring_anchorage_desc: "Advanced anchorage capable of stocking and resupplying large amount of ships."
+
+sm_acot_orbital_ring_habitat: "Precursor Orbital Habitat Module"
+sm_acot_orbital_ring_habitat_desc: "Advanced anchorage capable of stocking and resupplying large amount of ships."
+
+sm_acot_orbital_ring_pd: "Precursor Orbital Point Defense"
+sm_acot_orbital_ring_pd_desc: "Advanced defense modules designed to provide additional firepower for the orbital defense."
+
+sm_acot_orbital_ring_battery: "Precursor Orbital Batteries"
+sm_acot_orbital_ring_battery_desc: "Advanced defense modules designed to provide additional firepower for the orbital defense."
+
+sm_acot_orbital_ring_missile: "Precursor Orbital Missile Launcher"
+sm_acot_orbital_ring_missile_desc: "Advanced defense modules designed to provide additional firepower for the orbital defense."
+
+sm_acot_orbital_ring_hangar: "Precursor Orbital Hangar Bay"
+sm_acot_orbital_ring_hangar_desc: "Advanced defense modules designed to provide additional firepower for the orbital defense."
+
+#### FPRTRESS
+
+acot_precusor_starbase: "Alpha Precursor Fortress"
+acot_precusor_starfortress: "Alpha Precursor Citadel"
+acot_precusor_starcitadel: "Alpha Precursor Nexus"
+acot_precusor_starbase_plural: "Alpha Precursor Fortresses"
+acot_precusor_starfortress_plural: "Alpha Precursor Citadels"
+acot_precusor_starcitadel_plural: "Alpha Precursor Nexi"
+
+acot_precursor_citadel_site: "Precursor Fortress Assembly Portal"
+acot_precursor_citadel_site_DESC: "This assembly portal will transform into a Precursor Starbase."
+acot_precursor_citadel_site_MEGASTRUCTURE_DETAILS: "This assembly portal will transform into a Precursor Starbase."
+
+acot_precursor_citadel_base: "Precursor Fortress"
+acot_precursor_citadel_base_DESC: "Once fully completed, the Precursor Fortress will replace the existing starbase and will function as a fully operational precusor starbase."
+acot_precursor_citadel_base_MEGASTRUCTURE_DETAILS: "At its completion, the Precursor Fortress will function as a very powerful starbase with an impressive arsenal of weapons and can be upgraded even further."
+
+#### SUPPORT MODULE #####
+
+sm_acot_supply_bay: "Precursor Logistics Center"
+sm_acot_supply_bay_desc: "Powerful starbase module designed to help the station support the empire's supplies and logistics. It provides a hefty increase to resource storage, generates minerals and alloys and cuts down fleet maintenance  by half."
+acot_supply_bay_tooltip: "§YReduces fleet maintenance upkeep by 50%.§!"
+
+sm_acot_super_reactor: "Precursor Alpha Super Reactor"
+sm_acot_super_reactor_desc: "Advanced reactor module that provides additional energy income."
+acot_super_reactor_tooltip: "§YReduces base dark matter and dark energy upkeep from the station by half and provides additional resources.§!"
+
+sm_acot_starbase_super_computer: "Precursor Bionic Virtual Assistance Uplink"
+sm_acot_starbase_super_computer_desc: "Precursor B.V.A coordinates and issues commands made by top-ranking admirals across the galaxy, allowing the station to quickly form strategic networks with the fleets."
+acot_starbase_super_computer_tooltip: "§YAllows ships constructed from this station to have 1000 starting experience, provides additional defense slots and increases the amount of naval capacity supported by the Precursor Master Anchorage.§!"
+
+sm_acot_starbase_aura_generator: "Precursor Dimensional Rift Generator"
+sm_acot_starbase_aura_generator_desc: "Powerful dimensional generator that rewrites the laws of physics around the system to disrupt hostile fleets and provides battle advantages for our own."
+acot_starbase_aura_generator_tooltip: "§YAllows the station to utilize every aura-based module used by the standard station in one single module.§!"
+
+sm_acot_starbase_reinforced_wall: "Precursor Concealed Fortifications"
+sm_acot_starbase_reinforced_wall_desc: "Concealed defensive systems that will greatly increase a station's durability without increasing its profile."
+acot_starbase_reinforced_wall_tooltip: "§YProvides extra shields, armors and hull points to the station.§!"
+#### MAIN MODULE ####
+
+sm_acot_starbase_shipyard: "Precursor Starforge"
+sm_acot_starbase_shipyard_desc: "Advanced shipyard capable of constructing two ships at the same time."
+acot_starbase_shipyard_tooltip: "§YAllows construction of two ships per module.§!"
+
+sm_acot_starbase_anchorage: "Precursor Master Anchorage"
+sm_acot_starbase_anchorage_desc: "Within the dark energy pool generated within this anchorage, multiple ships can be safety docked."
+acot_starbase_anchorage_tooltip: "§YProvides additional fleet naval capacity.§!"
+
+sm_acot_starbase_gun_battery: "Precursor Concealed Repellent System"
+sm_acot_starbase_gun_battery_desc: "Hard-light generated weapon systems concealed within these modules will provide the station with increased firepower without increasing its profile."
+acot_starbase_gun_battery_tooltip: "§YProvides 3 extra L-weapon slot.§!"
+
+sm_acot_starbase_laser_battery: "Precursor Concealed Sentinel System"
+sm_acot_starbase_laser_battery_desc: "Hard-light generated point defense systems concealed within these modules will provide the station with the ability to repel against guided weapon systems and strike crafts without increasing its profile."
+acot_starbase_laser_battery_tooltip: "§YProvides 8 extra PD-weapon slot.§!"
+
+sm_acot_starbase_missile_battery: "Precursor Concealed Aegis System"
+sm_acot_starbase_missile_battery_desc: "Hard-light generated missile batteries concealed within these modules will provide the station with additional missile launchers without increasing its profile."
+acot_starbase_missile_battery_tooltip: "§YProvides 6 extra G-weapon slot.§!"
+
+sm_acot_starbase_hangar_bay: "Precursor Concealed Protoss System"
+sm_acot_starbase_hangar_bay_desc: "Hard-light generated hanger with automated strike crafts concealed within these modules will provide the station with additional strike craft supports without increasing its profile."
+acot_starbase_hangar_bay_tooltip: "§YProvides 3 extra H-weapon slot.§!"
+
+sm_acot_starbase_dark_generator: "Precursor Micro Dark Conduit"
+sm_acot_starbase_dark_generator_desc: "A scaled-down variation of the Dark Portal Nexus that helps the station generate extra dark matter and dark energies."
+acot_starbase_dark_generator_tooltip: "§YProvides extra resource generations.§!"
+
+sm_acot_starbase_lab: "Precursor Battle Lab"
+sm_acot_starbase_lab_desc: "Some scientists and engineers prefer working on a well-fortified space station, they may be stationed here."
+acot_starbase_lab_tooltip: "§YProvides additional science researches.§!"
+
+acot_hostile_precursor_starbase_aura: "GoodBye Enemy Aura"
+acot_friendly_precursor_starbase_aura: "Hello There Friend Aura"
+
+################ SIGMA SPACE STRICTIRE ##################################
+
+acot_precusor_sigma_starbase: "Sigma Precursor Fortress"
+acot_precusor_sigma_starfortress: "Sigma Precursor Citadel"
+acot_precusor_sigma_starcitadel: "Sigma Precursor Nexus"
+acot_precusor_sigma_starbase_plural: "Sigma Precursor Fortresses"
+acot_precusor_sigma_starfortress_plural: "Sigma Precursor Citadels"
+acot_precusor_sigma_starcitadel_plural: "Sigma Precursor Nexi"
+
+acot_precursor_sigma_citadel_site: "Sigma Fortress Assembly Portal"
+acot_precursor_sigma_citadel_site_DESC: "This assembly portal will transform into a Precursor Starbase."
+acot_precursor_sigma_citadel_site_MEGASTRUCTURE_DETAILS: "This assembly portal will transform into a Precursor Starbase."
+
+acot_precursor_sigma_citadel_base: "Sigma Fortress"
+acot_precursor_sigma_citadel_base_DESC: "Once fully completed, the Precursor Fortress will replace the existing starbase and will function as a fully operational precusor starbase."
+acot_precursor_sigma_citadel_base_MEGASTRUCTURE_DETAILS: "At its completion, the Sigma Fortress will function as a very powerful starbase with an impressive arsenal of weapons and can be upgraded even further."
+
+#### SUPPORT MODULE #####
+
+sm_acot_sigma_supply_bay: "Sigma Logistics Center"
+sm_acot_sigma_supply_bay_desc: "Powerful starbase module designed to help the station support the empire's supplies and logistics. It provides a hefty increase to resource storage and cuts down fleet maintenance  by half."
+acot_sigma_supply_bay_tooltip: "§YReduces fleet maintenance upkeep by 50%.§!"
+
+sm_acot_sigma_super_reactor: "Stellarite Super Reactor"
+sm_acot_sigma_super_reactor_desc: "Advanced reactor module that provides extra energy income."
+acot_super_reactor_tooltip: "§YCut downs stellarite upkeep from the station by 50% and provides additional energy.§!"
+
+sm_acot_sigma_starbase_super_computer: "Sigma Bionic Virtual Assistance Uplink"
+sm_acot_sigma_starbase_super_computer_desc: "Precursor B.V.A coordinates and issues commands made by top-ranking admirals across the galaxy, allowing the station to quickly form strategic networks with the fleets."
+acot_sigma_starbase_super_computer_tooltip: "§YAllows ships constructed from this station to have 1000 starting experience, provides additional defense slots and increases the amount of naval capacity supported by the Precursor Master Anchorage.§!"
+
+sm_acot_sigma_starbase_aura_generator: "Sigma Dimensional Rift Generator"
+sm_acot_sigma_starbase_aura_generator_desc: "Powerful dimensional generator that rewrites the laws of physics around the system to disrupt hostile fleets and provides battle advantages for our own."
+acot_sigma_starbase_aura_generator_tooltip: "§YAllows the station to utilize every aura-based module used by the standard station in one single module.§!"
+
+sm_acot_sigma_starbase_reinforced_wall: "Sigma Concealed Fortifications"
+sm_acot_sigma_starbase_reinforced_wall_desc: "Concealed defensive systems that will greatly increase a station's durability without increasing its profile."
+acot_sigma_starbase_reinforced_wall_tooltip: "§YProvides extra shields, armors and hull points to the station.§!"
+#### MAIN MODULE ####
+
+sm_acot_sigma_starbase_shipyard: "Sigma Starforge"
+sm_acot_sigma_starbase_shipyard_desc: "Advanced shipyard capable of constructing two ships at the same time."
+acot_sigma_starbase_shipyard_tooltip: "§YAllows construction of two ships per module.§!"
+
+sm_acot_sigma_starbase_anchorage: "Sigma Master Anchorage"
+sm_acot_sigma_starbase_anchorage_desc: "Within the dark energy pool generated within this anchorage, multiple ships can be safety docked."
+acot_sigma_starbase_anchorage_tooltip: "§YProvides additional fleet naval capacity.§!"
+
+sm_acot_sigma_starbase_gun_battery: "Sigma Concealed Repellent System"
+sm_acot_sigma_starbase_gun_battery_desc: "Hard-light generated weapon systems concealed within these modules will provide the station with increased firepower without increasing its profile."
+acot_sigma_starbase_gun_battery_tooltip: "§YProvides 3 extra L-weapon slot.§!"
+
+sm_acot_sigma_starbase_laser_battery: "Sigma Concealed Sentinel System"
+sm_acot_sigma_starbase_laser_battery_desc: "Hard-light generated point defense systems concealed within these modules will provide the station with the ability to repel against guided weapon systems and strike crafts without increasing its profile."
+acot_sigma_starbase_laser_battery_tooltip: "§YProvides 8 extra PD-weapon slot.§!"
+
+sm_acot_sigma_starbase_missile_battery: "Sigma Concealed Aegis System"
+sm_acot_sigma_starbase_missile_battery_desc: "Hard-light generated missile batteries concealed within these modules will provide the station with additional missile launchers without increasing its profile."
+acot_sigma_starbase_missile_battery_tooltip: "§YProvides 6 extra G-weapon slot.§!"
+
+sm_acot_sigma_starbase_hangar_bay: "Sigma Concealed Protoss System"
+sm_acot_sigma_starbase_hangar_bay_desc: "Hard-light generated hanger with automated strike crafts concealed within these modules will provide the station with additional strike craft supports without increasing its profile."
+acot_sigma_starbase_hangar_bay_tooltip: "§YProvides 3 extra H-weapon slot.§!"
+
+sm_acot_sigma_starbase_dark_generator: "Stellarite Power Conduit"
+sm_acot_sigma_starbase_dark_generator_desc: "A scaled-down variation of the Stellarite Nexus that helps the station generate Stellarite."
+acot_sigma_starbase_dark_generator_tooltip: "§YProvides extra resource generations.§!"
+
+sm_acot_sigma_starbase_lab: "Sigma Battle Lab"
+sm_acot_sigma_starbase_lab_desc: "Some scientists and engineers prefer working on a well-fortified space station, they may be stationed here."
+acot_sigma_starbase_lab_tooltip: "§YProvides additional science researches.§!"
+
+######################################################
+
+################ PHANON SPACE STRICTIRE ##################################
+
+acot_precusor_phanon_starbase: "Runic Precursor Fortress"
+acot_precusor_phanon_starbase_plural: "Runic Precursor Fortress"
+
+acot_precusor_phanon_starfortress: "Runic Precursor Citadel"
+acot_precusor_phanon_starfortress_plural: "Runic Precursor Citadels"
+
+acot_precusor_phanon_starcitadel: "Runic Precursor Nexus"
+acot_precusor_phanon_starcitadel_plural: "Runic Precursor Nexi"
+
+acot_precursor_phanon_citadel_site: "Phanon Overwatch Construction Site"
+acot_precursor_phanon_citadel_site_DESC: "This massive platform will serve as the construction site for the Phanon Overwatch Starbase, the construction ship will act as the focal point of energy for the pylon and will be used up in the process to further the construction of the full station."
+acot_precursor_phanon_citadel_site_MEGASTRUCTURE_DETAILS: "This construction site will be used to build the Phanon Overwatch Starbase. Note that the construction ship will be fused with the construction pylon once the process is completed."
+
+acot_precursor_phanon_citadel_base: "Phanon Overwatch"
+acot_precursor_phanon_citadel_base_DESC: "Once fully completed, the Phanon Overwatch will replace the existing starbase and will function as a fully operational space station."
+acot_precursor_phanon_citadel_base_MEGASTRUCTURE_DETAILS: "At its completion, the Phanon Fortress will function as a very powerful starbase with impressive arsenal of weapons and can be upgraded even further."
+
+#### SUPPORT MODULE #####
+
+sm_acot_phanon_supply_bay: "Phanon Logistics Center"
+sm_acot_phanon_supply_bay_desc: "Powerful starbase module designed to help the station support the empire's supplies and logistics. It provides a hefty increase to resource storage, generates minerals and food and cuts down fleet maintenance  by half."
+acot_phanon_supply_bay_tooltip: "§YReduces fleet maintenance upkeep by 50%.§!"
+
+sm_acot_phanon_super_reactor: "Phanon Super Reactor"
+sm_acot_phanon_super_reactor_desc: "Advanced reactor module that not only nullifies the station's base upkeep but also provides additional dark matter and dark energy."
+acot_super_reactor_tooltip: "§YRemoves dark matter and dark energy upkeep from the station and provides additional resources.§!"
+
+sm_acot_phanon_starbase_super_computer: "Phanon Bionic Virtual Assistance Uplink"
+sm_acot_phanon_starbase_super_computer_desc: "Precursor B.V.A coordinates and issues commands made by top-ranking admirals across the galaxy, allowing the station to quickly form strategic networks with the fleets."
+acot_phanon_starbase_super_computer_tooltip: "§YAllows ships constructed from this station to have 1000 starting experience, provides additional defense slots and increases the amount of naval capacity supported by the Precursor Master Anchorage.§!"
+
+sm_acot_phanon_starbase_aura_generator: "Phanon Dimensional Rift Generator"
+sm_acot_phanon_starbase_aura_generator_desc: "Powerful dimensional generator that rewrites the laws of physics around the system to disrupt hostile fleets and provides battle advantages for our own."
+acot_phanon_starbase_aura_generator_tooltip: "§YAllows the station to utilize every aura-based module used by the standard station in one single module.§!"
+
+sm_acot_phanon_starbase_reinforced_wall: "Phanon Concealed Fortifications"
+sm_acot_phanon_starbase_reinforced_wall_desc: "Concealed defensive systems that will greatly increase a station's durability without increasing its profile."
+acot_phanon_starbase_reinforced_wall_tooltip: "§YProvides extra shields, armors and hull points to the station.§!"
+#### MAIN MODULE ####
+
+sm_acot_phanon_starbase_shipyard: "Phanon Starforge"
+sm_acot_phanon_starbase_shipyard_desc: "Advanced shipyard capable of constructing two ships at the same time."
+acot_phanon_starbase_shipyard_tooltip: "§YAllows construction of two ships per module.§!"
+
+sm_acot_phanon_starbase_anchorage: "Phanon Master Anchorage"
+sm_acot_phanon_starbase_anchorage_desc: "Within the dark energy pool generated within this anchorage, multiple ships can be safety docked."
+acot_phanon_starbase_anchorage_tooltip: "§YProvides additional fleet naval capacity.§!"
+
+sm_acot_phanon_starbase_gun_battery: "Phanon Concealed Repellent System"
+sm_acot_phanon_starbase_gun_battery_desc: "Hard-light generated weapon systems concealed within these modules will provide the station with increased firepower without increasing its profile."
+acot_phanon_starbase_gun_battery_tooltip: "§YProvides 3 extra L-weapon slot.§!"
+
+sm_acot_phanon_starbase_laser_battery: "Phanon Concealed Sentinel System"
+sm_acot_phanon_starbase_laser_battery_desc: "Hard-light generated point defense systems concealed within these modules will provide the station with the ability to repel against guided weapon systems and strike crafts without increasing its profile."
+acot_phanon_starbase_laser_battery_tooltip: "§YProvides 8 extra PD-weapon slot.§!"
+
+sm_acot_phanon_starbase_missile_battery: "Phanon Concealed Aegis System"
+sm_acot_phanon_starbase_missile_battery_desc: "Hard-light generated missile batteries concealed within these modules will provide the station with additional missile launchers without increasing its profile."
+acot_phanon_starbase_missile_battery_tooltip: "§YProvides 6 extra G-weapon slot.§!"
+
+sm_acot_phanon_starbase_hangar_bay: "Phanon Concealed Protoss System"
+sm_acot_phanon_starbase_hangar_bay_desc: "Hard-light generated hanger with automated strike crafts concealed within these modules will provide the station with additional strike craft supports without increasing its profile."
+acot_phanon_starbase_hangar_bay_tooltip: "§YProvides 3 extra H-weapon slot.§!"
+
+sm_acot_phanon_starbase_dark_generator: "Phanon Power Conduit"
+sm_acot_phanon_starbase_dark_generator_desc: "A scaled-down variation of the Phanon Nexus that helps the station generate extra minerals and energies."
+acot_phanon_starbase_dark_generator_tooltip: "§YProvides extra resource generations.§!"
+
+sm_acot_phanon_starbase_lab: "Phanon Battle Lab"
+sm_acot_phanon_starbase_lab_desc: "Some scientists and engineers prefer working on a well-fortified space station, they may be stationed here."
+acot_phanon_starbase_lab_tooltip: "§YProvides additional science researches.§!"
+
+###################################################
+
+acot_curators_enclave_station: "Curator Station"
+acot_curators_enclave_station_plural: "Curator Stations"
+
+acot_curator_station_key: "Curator Key to Glory"
+
+acot_curators_bc: "Curator Battlecruiser"
+acot_curators_bc_plural: "Curator Battlecruisers"
+
+acot_curators_bc_key: "Curator BC"
+
+acot_curators_escort: "Curator Escort"
+acot_curators_escort_plural: "Curator Escorts"
+
+acot_curators_escort_key: "Curator Escargot"
+
+acot_curators_oracle: "Curator Prototype Oracle"
+acot_curators_oracle_plural: "Curator Prototype Oracles"
+
+acot_curators_oracle_key: "Curator Tum Tum"
+
+################################## MEGASTRUCTORUOIS
+
+################ OBELISKU
+
+MESSAGE_ACOT_MEGA_BUILT_TITLE: "Megastructure Assembly Completed"
+MESSAGE_ACOT_MEGA_BUILT_DESC: "A Megastructure has completed its self-assembly."
+message_acot_mega_enigmalith_built: "Enigmalith Construction Completed."
+
+MESSAGE_ACOT_MEGA_UPGRADED_TITLE: "Megastructure Upgraded"
+MESSAGE_ACOT_MEGA_UPGRADED_DESC: "A Megastructure has completed its upgrade."
+message_acot_mega_enigmalith_upgraded: "Enigmalith Upgrade Completed."
+message_acot_mega_amerigo_upgraded: "Enigmalith Upgrade Completed."
+
+acot_dark_matter_obelisk_core_portal: "Enigmalith Assembly Portal"
+acot_dark_matter_obelisk_core_portal_DESC: "An assembly portal that will transform into a large obelisk that can generate enigmatic powers by constantly harvesting energies from other dimensions."
+acot_dark_matter_obelisk_core_portal_MEGASTRUCTURE_DETAILS: "The Conduit provides £sr_dark_matter£ and £acot_sr_dark_energy£ enigmatic resources. Output is increased with advancements in precursor technologies."
+
+acot_dark_matter_obelisk_core: "Enigmalith"
+acot_dark_matter_obelisk_core_DESC: "This large obelisk seems to generate enigmatic powers by constantly harvesting energies from other dimensions. We can make use of it, but the yield will be minimal without proper knowledge."
+acot_dark_matter_obelisk_core_MEGASTRUCTURE_DETAILS: "The Conduit provides £sr_dark_matter£ and £acot_sr_dark_energy£ enigmatic resources. Output is increased with advancements in precursor technologies."
+
+acot_dark_matter_obelisk_core_advanced: "Greater Enigmalith"
+acot_dark_matter_obelisk_core_advanced_DESC: "A more powerful version of Enigmalith that generates more alloys and energy."
+acot_dark_matter_obelisk_core_advanced_MEGASTRUCTURE_DETAILS: "The Conduit provides £sr_dark_matter£ and £acot_sr_dark_energy£ enigmatic resources. Output is increased with advancements in precursor technologies."
+
+acot_dark_matter_obelisk_core_super: "Master Enigmalith"
+acot_dark_matter_obelisk_core_super_DESC: "The strongest of the base Enigmalith templates, providing exceptional amount of energy, alloys and enigmatic resources."
+acot_dark_matter_obelisk_core_super_MEGASTRUCTURE_DETAILS: "The Conduit provides £sr_dark_matter£ and £acot_sr_dark_energy£ enigmatic resources. Output is increased with advancements in precursor technologies."
+
+tech_precursor_enigmalith: "Enigmalith Replication"
+tech_precursor_enigmalith_desc: "Now that we understand the basic principle behind precursor architecture, we can begin replicating our very own enigmalith."
+TECH_UNLOCK_ENIGMALITH_TITLE: "§HUnlocks Megastructure:§! Ancient Enigmalith"
+TECH_UNLOCK_ENIGMALITH_DESC: "$acot_dark_matter_obelisk_core_MEGASTRUCTURE_DETAILS$"
+
+################
+
+acot_dark_matter_obelisk_core_portal_ae: "Enigmalith Aetena Assembly Portal"
+acot_dark_matter_obelisk_core_portal_ae_DESC: "An assembly portal that will transform into a large obelisk that can generate enigmatic powers by constantly harvesting energies from other dimensions."
+acot_dark_matter_obelisk_core_portal_ae_MEGASTRUCTURE_DETAILS: "The Conduit provides £sr_dark_matter£ and £acot_sr_dark_energy£ enigmatic resources. Output is increased with advancements in precursor technologies."
+
+acot_dark_matter_obelisk_core_ae: "Enigmalith Aetena"
+acot_dark_matter_obelisk_core_ae_DESC: "A specialized variant of Enigmalith geared solely towards Dark Matter and Dark Energy production."
+acot_dark_matter_obelisk_core_ae_MEGASTRUCTURE_DETAILS: "The Conduit provides enigmatic resources. Output is increased with advancements in precursor technologies."
+
+acot_dark_matter_obelisk_core_advanced_ae: "Greater Enigmalith Aetena"
+acot_dark_matter_obelisk_core_advanced_ae_DESC: "A more powerful version of Enigmalith Aetana that generates more dark matter and dark energy."
+acot_dark_matter_obelisk_core_advanced_ae_MEGASTRUCTURE_DETAILS: "The Conduit provides £sr_dark_matter£ and £acot_sr_dark_energy£ enigmatic resources. Output is increased with advancements in precursor technologies."
+
+acot_dark_matter_obelisk_core_super_ae: "Master Enigmalith Aetena"
+acot_dark_matter_obelisk_core_super_ae_DESC: "The strongest of the Enigmalith Aetana templates, providing exceptional amount of dark matter and dark energy enigmatic resources."
+acot_dark_matter_obelisk_core_super_ae_MEGASTRUCTURE_DETAILS: "The Conduit provides £sr_dark_matter£ and £acot_sr_dark_energy£ enigmatic resources. Output is increased with advancements in precursor technologies."
+
+tech_precursor_enigmalith_ae: "Enigmalith Aetena"
+tech_precursor_enigmalith_ae_desc: "After further study, we have managed to create a new variant of the Enigmalith that is geared more towards £sr_dark_matter£  and £acot_sr_dark_energy£ production. The Aetena design no longer provides alloys and energy resources as a result."
+TECH_UNLOCK_ENIGMALITH_AE_TITLE: "§HUnlocks Megastructure:§! Enigmalith Aetena\n§HUpgrade Megastructure:§! Ancient Enigmalith"
+TECH_UNLOCK_ENIGMALITH_AE_DESC: "§HEnigmalith Aetena:§! Provides large amount of £sr_dark_matter£  and £acot_sr_dark_energy£.\n§HAncient Enigmalith:§! Has increased alloys and energy production."
+
+################
+
+acot_dark_matter_obelisk_core_portal_se: "Enigmalith Shiva Assembly Portal"
+acot_dark_matter_obelisk_core_portal_se_DESC: "An assembly portal that will transform into a large obelisk that can generate stellarite powers by constantly harvesting energies from other dimensions."
+acot_dark_matter_obelisk_core_portal_se_MEGASTRUCTURE_DETAILS: "The Conduit provides £acot_sr_stellarite£ resources."
+
+acot_dark_matter_obelisk_core_se: "Enigmalith Shiva"
+acot_dark_matter_obelisk_core_se_DESC: "Another version of Enigmalith that is modified to produce large quantities of stellarite."
+acot_dark_matter_obelisk_core_se_MEGASTRUCTURE_DETAILS: "The Conduit provides £acot_sr_stellarite£ resources."
+
+acot_dark_matter_obelisk_core_advanced_se: "Greater Enigmalith Shiva"
+acot_dark_matter_obelisk_core_advanced_se_DESC: "A more powerful version of Enigmalith Shiva that generates more stellarite."
+acot_dark_matter_obelisk_core_advanced_se_MEGASTRUCTURE_DETAILS: "The Conduit provides £acot_sr_stellarite£ resources."
+
+acot_dark_matter_obelisk_core_super_se: "Master Enigmalith Shiva"
+acot_dark_matter_obelisk_core_super_se_DESC: "The strongest of the Enigmalith Shiva templates, providing exceptional amount of stellarites."
+acot_dark_matter_obelisk_core_super_se_MEGASTRUCTURE_DETAILS: "The Conduit provides £acot_sr_stellarite£ resources."
+
+tech_precursor_enigmalith_se: "Enigmalith Shiva"
+tech_precursor_enigmalith_se_desc: "Sigma technologies give us another opportunity to modify the Enigmalith. The Shiva-type harvests £acot_sr_stellarite£ from other dimensions instead."
+TECH_UNLOCK_ENIGMALITH_SE_TITLE: "§HUnlocks Megastructure:§! Enigmalith Shiva\n§HUpgrade Megastructure:§! Ancient Enigmalith\n§HUpgrade Megastructure:§! Enigmalith Aetena"
+TECH_UNLOCK_ENIGMALITH_SE_DESC: "§HEnigmalith Shiva:§! Provides a medium amount of £acot_sr_stellarite£.\n§HAncient Enigmalith:§! Has increased alloys and energy production.\n§HEnigmalith Aetena:§! Has increased £sr_dark_matter£ and £acot_sr_dark_energy£ production."
+
+############################################
+
+acot_dark_matter_obelisk_core_portal_oe: "Enigmalith Osura Assembly Portal"
+acot_dark_matter_obelisk_core_portal_oe_DESC: "An assembly portal that will transform into a large obelisk that can generate various kind of powers by constantly manifesting energies from creations beyond."
+acot_dark_matter_obelisk_core_portal_oe_MEGASTRUCTURE_DETAILS: "The Conduit provides many type of resources."
+
+acot_dark_matter_obelisk_core_oe: "Enigmalith Osura"
+acot_dark_matter_obelisk_core_oe_DESC: "A unique type of Enigmalith whose secrets are given to us by the Stellarborne. They can generate many types of resources at once."
+acot_dark_matter_obelisk_core_oe_MEGASTRUCTURE_DETAILS: "The Conduit provides many type of resources."
+
+acot_dark_matter_obelisk_core_advanced_oe: "Greater Enigmalith Osura"
+acot_dark_matter_obelisk_core_advanced_oe_DESC: "A more powerful version of Enigmalith Osura that generates even more resources."
+acot_dark_matter_obelisk_core_advanced_oe_MEGASTRUCTURE_DETAILS: "The Conduit provides many type of resources."
+
+acot_dark_matter_obelisk_core_super_oe: "Master Enigmalith Osura"
+acot_dark_matter_obelisk_core_super_oe_DESC: "A fully realized Enigmalith Osura, capable of generating even small portions of Light Energies."
+acot_dark_matter_obelisk_core_super_oe_MEGASTRUCTURE_DETAILS: "The Conduit provides many type of resources."
+
+tech_precursor_enigmalith_oe: "Enigmalith Osura"
+tech_precursor_enigmalith_oe_desc: "We should be able to improve our Enigmalith further now."
+TECH_UNLOCK_ENIGMALITH_OE_TITLE: "§HUnlocks Megastructure:§! Enigmalith Osura"
+TECH_UNLOCK_ENIGMALITH_OE_DESC: "The final upgrade to the Enigmalith, the Osura design massively increase Stellarite's yield with a modest initial investment of few Light Energies"
+
+acot_dark_matter_obelisk_core_pe: "Phanon Candle of Awesome"
+acot_dark_matter_obelisk_core_pe_DESC: "This large obelisk seems to generate enigmatic powers by telling TLS to meme it into existence."
+acot_dark_matter_obelisk_core_pe_MEGASTRUCTURE_DETAILS: "The Conduit provides enigmatic resources. Output is increased with advancements in precursor technologies."
+
+######## GATEWAYS
+
+acot_ancient_gateway: "Precursor Star Relay"
+acot_ancient_gateway_DESC: "Precursor Star Relays are more advanced gateways that provides speed boost to its owner's fleets that pass through."
+acot_ancient_gateway_MEGASTRUCTURE_DETAILS: "Precursor Star Relays are more advanced gateways that provides speed boost to its owner's fleets that pass through."
+
+tech_precursor_gateway: "Anti-Artosis Theory"
+tech_precursor_gateway_desc: "Commander Artosis can be defeated by excessive uses of recalls and other kind of mobility cheats."
+
+######## OTHERS
+
+acot_precursor_science_nexus_portal: "Precursor Studium Portal"
+acot_precursor_science_nexus_portal_DESC: "Though the age of discovery has long since passed, the Fallen Empires keep this enduring wonder as a monument of their past glory. Perhaps one day the massive super computers and artificial dimension generators inside could be put to use again?"
+acot_precursor_science_nexus_portal_MEGASTRUCTURE_DETAILS: "The Studium provides research speed and scientic resources."
+
+acot_precursor_science_nexus_stage_one: "Precursor Studium"
+acot_precursor_science_nexus_stage_one_DESC: "Though the age of discovery has long since passed, the Fallen Empires keep this enduring wonder as a monument of their past glory. Perhaps one day the massive super computers and artificial dimension generators inside could be put to use again?"
+acot_precursor_science_nexus_stage_one_MEGASTRUCTURE_DETAILS: "The Studium provides research speed and scientic resources."
+
+acot_precursor_science_nexus_stage_two: "Precursor Greater Studium"
+acot_precursor_science_nexus_stage_two_DESC: "Though the age of discovery has long since passed, the Fallen Empires keep this enduring wonder as a monument of their past glory. Perhaps one day the massive super computers and artificial dimension generators inside could be put to use again?"
+acot_precursor_science_nexus_stage_two_MEGASTRUCTURE_DETAILS: "The Studium provides research speed and scientic resources."
+
+acot_precursor_science_nexus_stage_three: "Precursor Master Studium"
+acot_precursor_science_nexus_stage_three_DESC: "Though the age of discovery has long since passed, the Fallen Empires keep this enduring wonder as a monument of their past glory. Perhaps one day the massive super computers and artificial dimension generators inside could be put to use again?"
+acot_precursor_science_nexus_stage_three_MEGASTRUCTURE_DETAILS: "The Studium provides research speed and scientic resources."
+
+tech_precursor_nexus: "Garyx Stuffs - The Science"
+tech_precursor_nexus_desc: "Blueprints secretly acquired from Techmaster Garyx, He Who Make Stuffs."
+
+####
+
+acot_precursor_strategy_center_portal: "Precursor Arsenal Beacon Portal"
+acot_precursor_strategy_center_portal_DESC: "Shunning the primitive designs of the Strategic Center, yet understanding its practical applications, a similar structure made in the design aesthetics of the Precursors have been made with superior capabilities."
+acot_precursor_strategy_center_portal_MEGASTRUCTURE_DETAILS: "The Arsenal Beacon provides similar benefits to Strategic Coordination Center."
+
+acot_precursor_strategy_center_stage_one: "Precursor Arsenal Beacon"
+acot_precursor_strategy_center_stage_one_DESC: "Shunning the primitive designs of the Strategic Center, yet understanding its practical applications, a similar structure made in the design aesthetics of the Precursors have been made with superior capabilities."
+acot_precursor_strategy_center_stage_one_MEGASTRUCTURE_DETAILS: "The Arsenal Beacon provides similar benefits to Strategic Coordination Center."
+
+acot_precursor_strategy_center_stage_two: "Precursor Greater Arsenal Beacon"
+acot_precursor_strategy_center_stage_two_DESC: "Shunning the primitive designs of the Strategic Center, yet understanding its practical applications, a similar structure made in the design aesthetics of the Precursors have been made with superior capabilities."
+acot_precursor_strategy_center_stage_two_MEGASTRUCTURE_DETAILS: "The Arsenal Beacon provides similar benefits to Strategic Coordination Center."
+
+acot_precursor_strategy_center_stage_three: "Precursor Master Arsenal Beacon"
+acot_precursor_strategy_center_stage_three_DESC: "Shunning the primitive designs of the Strategic Center, yet understanding its practical applications, a similar structure made in the design aesthetics of the Precursors have been made with superior capabilities."
+acot_precursor_strategy_center_stage_three_MEGASTRUCTURE_DETAILS: "The Arsenal Beacon provides similar benefits to Strategic Coordination Center."
+
+tech_precursor_strategy_center: "Garyx Stuffs - The Stratagem"
+tech_precursor_strategy_center_desc: "Blueprints secretly acquired from Techmaster Garyx, He Who Make Stuffs."
+
+####
+
+acot_precursor_sentry_orb_portal: "Precursor Observatory Portal"
+acot_precursor_sentry_orb_portal_DESC: "Due to sensor ranges already being trivially high, the Observatory breaks away from the Sensor Array to act more as Espionage and Counter-Espionage System, as well as fleet sensors amplifier. It does lack the Sensor Array's full sensor coverage, however (Something that the Fallen Empires already have anyway)."
+acot_precursor_sentry_orb_portal_MEGASTRUCTURE_DETAILS: "The Observator provides sensors, range, tracking and accuracy buffs to ships as well as an increase in Encryption and Decryption capabilities."
+
+acot_precursor_sentry_orb_stage_one: "Precursor Observatory"
+acot_precursor_sentry_orb_stage_one_DESC: "Due to sensor ranges already being trivially high, the Observatory breaks away from the Sensor Array to act more as Espionage and Counter-Espionage System, as well as fleet sensors amplifier. It does lack the Sensor Array's full sensor coverage, however (Something that the Fallen Empires already have anyway)."
+acot_precursor_sentry_orb_stage_one_MEGASTRUCTURE_DETAILS: "The Observator provides sensors, range, tracking and accuracy buffs to ships as well as an increase in Encryption and Decryption capabilities."
+
+acot_precursor_sentry_orb_stage_two: "Precursor Greater Observatory"
+acot_precursor_sentry_orb_stage_two_DESC: "Due to sensor ranges already being trivially high, the Observatory breaks away from the Sensor Array to act more as Espionage and Counter-Espionage System, as well as fleet sensors amplifier. It does lack the Sensor Array's full sensor coverage, however (Something that the Fallen Empires already have anyway)."
+acot_precursor_sentry_orb_stage_two_MEGASTRUCTURE_DETAILS: "The Observator provides sensors, range, tracking and accuracy buffs to ships as well as an increase in Encryption and Decryption capabilities."
+
+acot_precursor_sentry_orb_stage_three: "Precursor Master Observatory"
+acot_precursor_sentry_orb_stage_three_DESC: "Due to sensor ranges already being trivially high, the Observatory breaks away from the Sensor Array to act more as Espionage and Counter-Espionage System, as well as fleet sensors and tracking amplifier. It does lack the Sensor Array's full sensor coverage, however (Something that the Fallen Empires already have anyway)."
+acot_precursor_sentry_orb_stage_three_MEGASTRUCTURE_DETAILS: "The Observator provides sensors, range, tracking and accuracy buffs to ships as well as an increase in Encryption and Decryption capabilities."
+
+tech_precursor_spyorb: "Garyx Stuffs - The Spy"
+tech_precursor_spyorb_desc: "Blueprints secretly acquired from Techmaster Garyx, He Who Make Stuffs."
+
+####
+
+acot_precursor_dyson_sphere_portal: "Precursor Enigmatic Sphere Portal"
+acot_precursor_dyson_sphere_portal_DESC: "Although not particularly advanced or ground-breaking in nature, the Sphere is still a considerable step above a typical Dyson Sphere in terms of flexibility, as they do not block out the star itself. As a result, it can safety extract large amount of energy without rendering the system uninhabitable."
+acot_precursor_dyson_sphere_portal_MEGASTRUCTURE_DETAILS: "The Sphere provides energy, lots of them."
+
+acot_precursor_dyson_sphere_stage_one: "Precursor Enigmatic Sphere"
+acot_precursor_dyson_sphere_stage_one_DESC: "Although not particularly advanced or ground-breaking in nature, the Sphere is still a considerable step above a typical Dyson Sphere in terms of flexibility, as they do not block out the star itself. As a result, it can safety extract large amount of energy without rendering the system uninhabitable."
+acot_precursor_dyson_sphere_stage_one_MEGASTRUCTURE_DETAILS: "The Sphere provides energy, lots of them."
+
+acot_precursor_dyson_sphere_stage_two: "Precursor Master Enigmatic Sphere"
+acot_precursor_dyson_sphere_stage_two_DESC: "Although not particularly advanced or ground-breaking in nature, the Sphere is still a considerable step above a typical Dyson Sphere in terms of flexibility, as they do not block out the star itself. As a result, it can safety extract large amount of energy without rendering the system uninhabitable."
+acot_precursor_dyson_sphere_stage_two_MEGASTRUCTURE_DETAILS: "The Sphere provides energy, lots of them."
+
+tech_precursor_dyson_sphere: "Garyx Stuffs - The Cursed Kitbash"
+tech_precursor_dyson_sphere_desc: "Blueprints reverse-engineered from Techmaster Garyx's designs by one who is infinitely less skilled in Blender."
+
+####
+
+acot_precursor_mega_shipyard_portal: "Precursor Dimensional Starforge Portal"
+acot_precursor_mega_shipyard_portal_DESC: "Although the Fallen Empire have countless mothballed fleets ready to be reactivated at any time, they still keep this ancient megastructure around in cases of true emergency that demands their reawakening"
+acot_precursor_mega_shipyard_portal_MEGASTRUCTURE_DETAILS: "The Shipyard build ships."
+
+acot_precursor_mega_shipyard: "Precursor Dimensional Starforge"
+acot_precursor_mega_shipyard_DESC: "Although the Fallen Empire have countless mothballed fleets ready to be reactivated at any time, they still keep this ancient megastructure around in cases of true emergency that demands their reawakening."
+acot_precursor_mega_shipyard_MEGASTRUCTURE_DETAILS: "The Shipyard build ships."
+
+tech_precursor_mega_shipyard: "Garyx Stuffs - The Megaman"
+tech_precursor_mega_shipyard_desc: "Blueprints secretly acquired from Techmaster Garyx, He Who Make Stuffs."
+
+################ AMERIGO
+
+acot_amerigo: "The A'merigo"
+acot_amerigo_DESC: "Powerful experimental research starbase with the ability to restore ships from the graveyards back to life."
+acot_amerigo_MEGASTRUCTURE_DETAILS: "Powerful experimental research starbase with the ability to restore ships from the graveyards back to life"
+
+acot_amerigo_ae: "A'merigo Aetena"
+acot_amerigo_ae_DESC: "Powerful experimental research starbase with the ability to restore ships from the graveyards back to life."
+acot_amerigo_ae_MEGASTRUCTURE_DETAILS: "Powerful experimental research starbase with the ability to restore ships from the graveyards back to life"
+
+tech_precursor_amerigo_ae: "A'merigo Aetena"
+tech_precursor_amerigo_ae_desc: "It's time to upgrade the design."
+
+acot_amerigo_se: "A'merigo Shiva"
+acot_amerigo_se_DESC: "Powerful experimental research starbase with the ability to restore ships from the graveyards back to life."
+acot_amerigo_se_MEGASTRUCTURE_DETAILS: "Powerful experimental research starbase with the ability to restore ships from the graveyards back to life"
+
+tech_precursor_amerigo_se: "A'merigo Shiva"
+tech_precursor_amerigo_se_desc: "It's time to upgrade the design."
+
+acot_amerigo_oe: "A'merigo Osura"
+acot_amerigo_oe_DESC: "Powerful experimental research starbase with the ability to restore ships from the graveyards back to life."
+acot_amerigo_oe_MEGASTRUCTURE_DETAILS: "Powerful experimental research starbase with the ability to restore ships from the graveyards back to life"
+
+tech_precursor_amerigo_oe: "A'merigo Osura"
+tech_precursor_amerigo_oe_desc: "It's time to upgrade the design."
+
+acot_amerigo_pe: "A'merigo Phanon Edition"
+acot_amerigo_pe_DESC: "Powerful experimental research starbase with the ability to restore ships from the graveyards back to life."
+acot_amerigo_pe_MEGASTRUCTURE_DETAILS: "Powerful experimental research starbase with the ability to restore ships from the graveyards back to life"
+
+RESTORE_AMERIGO_MEGA: "A'merigo Restoration"
+RESTORE_AMERIGO_MEGA_DESC: "The ancient science complex can be restored, but it will require careful efforts of both engineering and science teams to do so...and a lot of time."
+
+################################### ROGUE PRECURSOR DESCRIPTOR
+
+civic_acot_rogue_precursor: "Ancient Databank Intelligence"
+civic_acot_rogue_precursor_desc: "This empire was created as a result of an ancient databank became active. It possessed advanced knowledge and intelligence to effectively run a machine society."
+civic_acot_rogue_precursor_fleet: "Ancient Databank Command Network"
+civic_acot_rogue_precursor_fleet_desc: "This empire was created as a result of an ancient databank became active. It possessed advanced knowledge and intelligence to effectively command a large military."
+civic_acot_rogue_precursor_data: "Ancient Databank Archive"
+civic_acot_rogue_precursor_data_desc: "This empire was created as a result of an ancient databank became active. It possessed many advanced data related to precursors and can effectively adapt it to the modern galaxy."
+
+personality_acot_rogue_databank_personality: "Rogue Precursor"
+personality_acot_rogue_databank_personality_desc: "Wamuu! Awaken, my masters!"
+
+################################### TUBOREK ###################################
+
+acot_tuborek_flagship: "War World"
+acot_tuborek_flagship_plural: "War Worlds"
+
+decision_acot_emissary_landing: "Land the Emissary"
+decision_acot_emissary_landing_desc: "Orders the orbitting Emissary to land on the planet. If the planet is currently uncolonized, it will be colonized immediately with all the buildings equipped in its module. If the planet is hostile, the Emissary will land and begin planetary invasion."
+acot_requires_emissary_orbit: "§RMust have an Emissary in orbit.§!"
+
+################################### Celestial Forger ###################################
+
+acot_world_shaper_planet_portal: "Celestial Forger Portal Assembly"
+acot_world_shaper_planet_portal_DESC: "An assembly portal that will eventually materialize the materials acquired to craft a celestial body."
+acot_world_shaper_planet_portal_MEGASTRUCTURE_DETAILS: "An assembly portal that will eventually materialize the materials acquired to craft a celestial body."
+
+acot_world_shaper_planet_core: "Celestial Forger Core"
+acot_world_shaper_planet_core_DESC: "The core is now embedded into the artificial planet's crust and soon the rest of the terrain will be completed."
+acot_world_shaper_planet_core_MEGASTRUCTURE_DETAILS: "The core is now embedded into the artificial planet's crust and soon the rest of the terrain will be completed."
+
+acot_world_shaper_planet_stage_two: "Celestial Forger Done"
+acot_world_shaper_planet_stage_two_DESC: "Omegalulz"
+acot_world_shaper_planet_stage_two_MEGASTRUCTURE_DETAILS: "Omegalulz"
+
+decision_acot_deploy_world_shaper: "Deploy Celestial Forger"
+decision_acot_deploy_world_shaper_desc: "Orders a Celestial Forger in the system to begin deploying itself, which will turn it into a megastructure that will eventually form into a new celestial body."
+acot_requires_world_shaper_orbit: "§RMust have a Celestial Forger in orbit.§!"
+
+requires_herculean_count: "§YRequires research and preparation of a new Herculean.§!"
+
+acot_is_valid_for_emissary_beam: "§RTarget cannot be a shielded planet.§!"
+acot_emissary_disable_system: "Emissary Powered Down"
+acot_emissary_disable_system_desc: "Emissary Powered Down"
+
+acot_aura_oracle_stealth: "Oracle Cloaking Field"
+acot_aura_oracle_detection: "Oracle Cloaking Nullifier"
+
+############################### HERCULEAN AUX
+
+ACOT_HERCULEAN_AUX_SUPPLY: "Herculean Auxiliary Fabricator"
+ACOT_HERCULEAN_AUX_SUPPLY_DESC: "Auxiliary Fabricators provide the Herculean with extra resource production capability beyond its initial package."
+ACOT_HERCULEAN_AUX_SUPPLY_TOOLTIP: "§EProvides the following resources§!\n\n§Y5000§! £energy£\n§Y2500§! £alloys£\n§Y250§! £sr_dark_matter£\n§Y250§! £acot_sr_dark_energy£"
+
+ACOT_HERCULEAN_AUX_SUPPLY_S7: "Herculean Stellar Auxiliary Fabricator"
+ACOT_HERCULEAN_AUX_SUPPLY_S7_DESC: "Auxiliary Stellar Fabricators provide the Herculean with extra resource production capability beyond its initial package."
+ACOT_HERCULEAN_AUX_SUPPLY_S7_TOOLTIP: "§EProvides the following resources§!\n\n§Y10000§! £energy£\n§Y5000§! £alloys£\n§Y250§! £sr_dark_matter£\n§Y250§! £acot_sr_dark_energy£\n§Y250§! £acot_sr_stellarite£"
+
+
+ACOT_HERCULEAN_AUX_GARRISON_ESCORT: "Herculean Escort Garrison"
+ACOT_HERCULEAN_AUX_GARRISON_ESCORT_DESC: "An Anchorage specifically built to house Escorts that will assit the Herculean in battle."
+ACOT_HERCULEAN_AUX_GARRISON_ESCORT_TOOLTIP: "§EProvides the Herculean with 12 Escorts Garrison.§!\n\nEscorts will spawn as AI-controlled allies when the Herculean is engaged in battle.\n\nThe design is randomized from your empire's Escort's designs.\n\nIf at least one ship survives once the Herculean leaves the system, the cooldown will be reset. Otherwise the Herculean will require 360 days to replenish the garrison."
+
+ACOT_HERCULEAN_AUX_GARRISON_BC: "Herculean Battlecruiser Garrison"
+ACOT_HERCULEAN_AUX_GARRISON_BC_DESC: "An Anchorage specifically built to house Battlecruisers that will assit the Herculean in battle."
+ACOT_HERCULEAN_AUX_GARRISON_BC_TOOLTIP: "§EProvides the Herculean with 6 Battlecruiser Garrison.§!\n\nBattlecruisers will spawn as AI-controlled allies when the Herculean is engaged in battle.\n\nThe design is randomized from your empire's Battlecruiser's designs.\n\nIf at least one ship survives once the Herculean leaves the system, the cooldown will be reset. Otherwise the Herculean will require 720 days to replenish the garrison."
+
+ACOT_HERCULEAN_AUX_GARRISON_TITAN: "Herculean Hyperion Garrison"
+ACOT_HERCULEAN_AUX_GARRISON_TITAN_DESC: "An Anchorage specifically built to house Hyperions that will assit the Herculean in battle."
+ACOT_HERCULEAN_AUX_GARRISON_TITAN_TOOLTIP: "§EProvides the Herculean with 2 Hyperions Garrison.§!\n\nHyperions will spawn as AI-controlled allies when the Herculean is engaged in battle.\n\nThe design is randomized from your empire's Hyperions's designs.\n\nIf at least one ship survives once the Herculean leaves the system, the cooldown will be reset. Otherwise the Herculean will require 1800 days to replenish the garrison."
+
+############################### HERCULEAN WMD WEAPONS
+
+tech_acot_precursor_herculean_wmd_rift: "Herculean Rift Generator"
+tech_acot_precursor_herculean_wmd_rift_desc: "Rift Generator enables the Herculean to create a powerful dimensional rift from any planetary orbit within the galaxy that will suck in all ships before causing massive shockwave explosion. Target selection is achieved by using construction ships as a marker."
+
+tech_acot_precursor_herculean_wmd_emp: "Herculean Disruption Pulse Generator"
+tech_acot_precursor_herculean_wmd_emp_desc: "Disruption Pulse Generator enables the Herculean to create a powerful disruption pulse from any planetary orbit within the galaxy that will neutralize enemy shields and reduces the ship's effectiveness in battle. It also kills enemy planet's mechanical pops if not protected by shield generators. Target selection is achieved by using construction ships as a marker."
+
+acot_superweapon_rift_generator_alarming_light: "Rift Generator Location"
+
+acot_rift_debuff: "Rift Blast"
+acot_rift_debuff_desc: "Rift Blast"
+
+ACOT_HERCULEAN_WMD_RIFT: "Rift Generator"
+ACOT_HERCULEAN_WMD_RIFT_DESC: "Rift Generator enables the Herculean to create a powerful dimensional rift from any planetary orbit within the galaxy that will suck in all ships before causing massive shockwave explosion."
+ACOT_HERCULEAN_WMD_RIFT_TOOLTIP: "§YEnables the use of Rift Generator§!\n\n§GDamage:§! 25,000.\n§GEligible Targets:§! Ships, Planets, Own Units, Hostile Units.\n§GPreparation Time:§! 30 Days.\n§GCooldown Time:§! 1800 Days.\n\nTo mark a target, uses a construction ship to build a Rift Generator Marker on any planets whose system is not owned by neutral parties."
+
+acot_herculean_wmd_rift_generator: "§OMarker:§! Herculean Rift Generator Marker"
+acot_herculean_wmd_rift_generator_DESC: "Orders a Herculean to use its Rift Generator Superweapon on the selected planet, creating a powerful dimensional rift above the planet's orbit that will suck most ships to its center mass. All affected ships will be slowed down and after 10 days, a massive explosion will occur that deals 25,000 damage to all ships within the system and causes 25% planetary devastation on all colonized planets.\n\n§GDamage: 25,000.§!\n§GEligible Targets: Ships, Planets.§!\n§GPreparation Time: 30 Days.§!\n§GCooldown Time: 1800 Days.§!\n\nETo mark a target, uses a construction ship to build a Rift Generator Marker on any planets whose system is not owned by neutral parties."
+acot_herculean_wmd_rift_generator_MEGASTRUCTURE_DETAILS: "Orders a Herculean to use its Rift Generator Superweapon on the selected planet, creating a powerful dimensional rift above the planet's orbit that will suck most ships to its center mass. All affected ships will be slowed down and after 10 days, a massive explosion will occur that deals 25,000 damage to all ships within the system and causes 25% planetary devastation on all colonized planets.\n\n§GDamage: 25,000.§!\n§GEligible Targets: Ships, Planets, Own Units, Hostile Units.§!\n§GPreparation Time: 30 Days.§!\n§GCooldown Time: 1800 Days.§!\n\nETo mark a target, uses a construction ship to build a Rift Generator Marker on any planets whose system is not owned by neutral parties."
+
+MESSAGE_ACOT_RIFT_GENERATOR_USED_TITLE: "Rift Generator Activated"
+MESSAGE_ACOT_RIFT_GENERATOR_USED_DESC: "Rift Generator Activated on [fromfrom.planet.GetName]!\n\nETA: 30 Days."
+message_acot_rift_generator_used: "Rift Generator Activated on [fromfrom.planet.GetName]!\n\nETA: 30 Days."
+
+MESSAGE_ACOT_RIFT_GENERATOR_READY_TITLE: "Rift Generator Ready"
+MESSAGE_ACOT_RIFT_GENERATOR_READY_DESC: "The Rift Generator aboard the [root.GetName] is ready."
+message_acot_rift_generator_ready: "The Rift Generator aboard the [root.GetName] is ready."
+
+acot_superweapon_emp_alarming_light: "Disruption Pulse Location"
+
+acot_emp_blast_planet_debuff: "Disruption Blast"
+acot_emp_blast_planet_debuff_desc: "This planet has been hit by a disruption blast."
+
+acot_emp_blast_debuff: "Disruption Blast"
+acot_emp_blast_debuff_desc: "Disruption Blast"
+
+ACOT_HERCULEAN_WMD_EMP: "Disruption Pulse Generator"
+ACOT_HERCULEAN_WMD_EMP_DESC: "Disruption Pulse Generator enables the Herculean to create a powerful disruption pulse from any planetary orbit within the galaxy that will neutralize enemy shields and reduces the ship's effectiveness in battle. It also kills enemy planet's mechanical pops if not protected by shield generators."
+ACOT_HERCULEAN_WMD_EMP_TOOLTIP: "§YEnables the use of Disruption Pulse Generator§!\n\n§GDamage:§! 5,000 (If controlled by mechanical empires).\n§GEligible Targets:§! Ships, Planets, Non-Organic targets, Mechanical Pops.\n§GPreparation Time:§! 30 Days.\n§GCooldown Time:§! 720 Days.\n\nTo mark a target, uses a construction ship to build a Disruption Pulse Marker on any planets whose system is not owned by neutral parties."
+
+acot_herculean_wmd_emp_generator: "§OMarker:§! Herculean Disruption Pulse Marker"
+acot_herculean_wmd_emp_generator_DESC: "Orders a Herculean to use its Disruption Pulse Generator Superweapon on the selected planet, creating a powerful electromagnetic pulse  above the planet's orbit that will nullify 100% of ship's shields, reduces their fire rates by 50%, prevents emergency FTL and forces them to decloak. Planets hit by the pulse will suffer massive -90% debuff to their energy production and -50% debuff to job production. Up to 25 mechanical pops will be killed and all mechanical armies on the planet will be destroyed. All Planetary effects will be stopped by the presence of a planetary shield generator, but the blast may fry and destroy the PSG in the process.\n\n§GDamage: 5,000 (If controlled by mechanical empires).§!\n§GEligible Targets: Ships, Planets, Non-Organic targets, Mechanical Pops.§!\n§GPreparation Time: 30 Days.§!\n§GCooldown Time: 720 Days.§!\n\nETo mark a target, uses a construction ship to build a Disruption Pulse Marker on any planets whose system is not owned by neutral parties."
+acot_herculean_wmd_emp_generator_MEGASTRUCTURE_DETAILS: "Orders a Herculean to use its Disruption Pulse Generator Superweapon on the selected planet, creating a powerful electromagnetic pulse  above the planet's orbit that will nullify 100% of ship's shields, reduces their fire rates by 50%, prevents emergency FTL and forces them to decloak. Planets hit by the pulse will suffer massive -90% debuff to their energy production and -50% debuff to job production. Up to 25 mechanical pops will be killed and all mechanical armies on the planet will be destroyed. All Planetary effects will be stopped by the presence of a planetary shield generator, but the blast may fry and destroy the PSG in the process.\n\n§GDamage: 5,000 (If controlled by mechanical empires).§!\n§GEligible Targets: Ships, Planets, Non-Organic targets, Mechanical Pops.§!\n§GPreparation Time: 30 Days.§!\n§GCooldown Time: 720 Days.§!\n\nETo mark a target, uses a construction ship to build a Disruption Pulse Marker on any planets whose system is not owned by neutral parties."
+
+MESSAGE_ACOT_EMP_USED_TITLE: "Disruption Pulse Activated"
+MESSAGE_ACOT_EMP_USED_DESC: "Disruption Pulse  Activated on [fromfrom.planet.GetName]!\n\nETA: 30 Days."
+message_acot_emp_used: "Disruption Pulse Activated on [fromfrom.planet.GetName]!\n\nETA: 30 Days."
+
+MESSAGE_ACOT_EMP_READY_TITLE: "Disruption Pulse  Ready"
+MESSAGE_ACOT_EMP_READY_DESC: "The Disruption Pulse Generator aboard the [root.GetName] is ready."
+message_acot_emp_ready: "The Disruption Pulse Generator aboard the [root.GetName] is ready."
+
+##################### PAC STUFFS
+
+ACOT_PAC_HANGAR_ARTILLERY: "Precursor Lancer Drone"
+ACOT_PAC_HANGAR_ARTILLERY_FULL: "Precursor Lancer Drone"
+ACOT_PAC_HANGAR_ARTILLERY_DESC: "Precursor Lancer Drones"
+
+ACOT_PAC_HANGAR_ARTILLERY_AE: "Alpha Precursor Lancer Drone"
+ACOT_PAC_HANGAR_ARTILLERY_FULL_AE: "Alpha Precursor Lancer Drone"
+ACOT_PAC_HANGAR_ARTILLERY_AE_DESC: "Alpha Precursor Lancer Drones"
+
+ACOT_PAC_HANGAR_ARTILLERY_SE: "Sigma Precursor Lancer Drone"
+ACOT_PAC_HANGAR_ARTILLERY_FULL_SE: "Sigma Precursor Lancer Drone"
+ACOT_PAC_HANGAR_ARTILLERY_SE_DESC: "Sigma Precursor Lancer Drones"
+
+ACOT_PAC_HANGAR_ARTILLERY_OE: "Omega Precursor Lancer Drone"
+ACOT_PAC_HANGAR_ARTILLERY_FULL_OE: "Omega Precursor Lancer Drone"
+ACOT_PAC_HANGAR_ARTILLERY_OE_DESC: "Omega Precursor Lancer Drones"
+
+##########
+
+ACOT_PAC_HANGAR_ATTACKER: "Precursor Chaser Drone"
+ACOT_PAC_HANGAR_ATTACKER_FULL: "Precursor Chaser Drone"
+ACOT_PAC_HANGAR_ATTACKER_DESC: "Precursor Chaser Drones"
+
+ACOT_PAC_HANGAR_ATTACKER_AE: "Alpha Precursor Chaser Drone"
+ACOT_PAC_HANGAR_ATTACKER_FULL_AE: "Alpha Precursor Chaser Drone"
+ACOT_PAC_HANGAR_ATTACKER_AE_DESC: "Alpha Precursor Chaser Drones"
+
+ACOT_PAC_HANGAR_ATTACKER_SE: "Sigma Precursor Chaser Drone"
+ACOT_PAC_HANGAR_ATTACKER_FULL_SE: "Sigma Precursor Chaser Drone"
+ACOT_PAC_HANGAR_ATTACKER_SE_DESC: "Sigma Precursor Chaser Drones"
+
+ACOT_PAC_HANGAR_ATTACKER_OE: "Omega Precursor Chaser Drone"
+ACOT_PAC_HANGAR_ATTACKER_FULL_OE: "Omega Precursor Chaser Drone"
+ACOT_PAC_HANGAR_ATTACKER_OE_DESC: "Omega Precursor Chaser Drones"

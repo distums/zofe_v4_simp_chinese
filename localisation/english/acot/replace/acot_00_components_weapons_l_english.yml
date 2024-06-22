@@ -1,0 +1,1934 @@
+﻿l_english:
+
+gateway_kinetic_weapons: "§SKinetic Weapons Path§!\n§EThis technology will lead to further advancements in the field of kinetic weapons.§!"
+gateway_energy_weapons: "§BEnergy Weapons Path§!\n§EThis technology will lead to further advancements in the field of energy weapons.§!"
+gateway_explosive_weapons: "§HExplosive Weapons Path§!\n§EThis technology will lead to further advancements in the field of explosive weapons.§!"
+
+gateway_magnetic_weapons: "§SMagnetic Weapons Path§!\n§EThis technology will lead to further advancements in the field of Magnetic Weapons.§!"
+gateway_autocannon_weapons: "§SAutomatic Weapons Path§!\n§EThis technology will lead to further advancements in the field of Autocannon Systems.§!"
+gateway_wrecker_weapons: "§SShock Weapons Path§!\n§EThis technology will lead to further advancements in the field of Shock Cannons.§!"
+
+gateway_beam_weapons: "§BBeam Weapons Path§!\n§EThis technology will lead to further advancements in the field of Beam Weapons.§!"
+gateway_plasma_weapons: "§BPlasma Weapons Path§!\n§EThis technology will lead to further advancements in the field of Plasma Weapons.§!"
+gateway_disruptors_weapons: "§BDisruptor Weapons Path§!\n§EThis technology will lead to further advancements in the field of Disruptor Weapons.§!"
+
+gateway_missiles_weapons: "§HMissiles Weapons Path§!\n§EThis technology will lead to further advancements in the field of Missiles.§!"
+
+gateway_strikecraft_weapons: "§HStrikecraft Path§!\n§EThis technology will lead to further advancements in the field of Strike Crafts.§!"
+
+#weapon_type_energy: "§BEnergy§!"
+#weapon_type_kinetic: "§SKinetic§!"
+#weapon_type_explosive: "§HExplosive§!"
+#weapon_type_strike_craft: "§GStrikecraft§!"
+#weapon_type_point_defense: "§MPoint-Defense§!"
+weapon_type_energy_beam: "§YBeam§!"
+weapon_type_energy_disruptor: "§YDisruptor§!"
+weapon_type_energy_plasma: "§YPlasma§!"
+weapon_type_kinetic_magnetic: "§YMagnetic§!"
+weapon_type_kinetic_auto: "§YAutocannon§!"
+weapon_type_kinetic_wrecker: "§YShock§!"
+weapon_type_explosive_missile: "§YMissiles§!"
+weapon_type_explosive_drone: "§YSeeker Drones§!"
+weapon_type_explosive_mgl: "§YMag-Grenade§!"
+weapon_type_strike_craft_energy: "§YGunship Beam§!"
+weapon_type_strike_craft_kinetic: "§YFighter Autocannons§!"
+weapon_type_strike_craft_explosive: "§YBomber Missiles§!"
+weapon_type_strike_craft_point_defense: "§YInterceptor Point-Defense§!"
+
+############################################################ ENERGY ############################################################
+
+tech_acot_weapon_energy: "Energy Capacitor"
+tech_acot_weapon_energy_desc: "The Mark I Energy Capacitor is a basic but humble piece of power system that can be used to project varying degree of energy-based weapons. "
+
+tech_acot_weapon_energy_2: "Advanced Energy Capacitor"
+tech_acot_weapon_energy_2_desc: "Using various upgrades and enhancements from the databank, the next-gen EC is capable of storing much more power and charging it up at the same time, allowing us to potentially developing more advanced energy weapon systems."
+
+tech_acot_weapon_energy_3: "Replicant Energy Capacitor"
+tech_acot_weapon_energy_3_desc: "The Mark III Energy Capacitor, based directly from the same technologies utilized by the ancient civilizations will improve our energy weapon systems even further, and potentially opening up even more advanced energy weapon systems."
+
+tech_acot_weapon_energy_6e: "Enigmatic Energy Capacitor"
+tech_acot_weapon_energy_6e_desc: "The Mark III Energy Capacitor, based directly from the same technologies utilized by the ancient civilizations will improve our energy weapon systems even further, and potentially opening up even more advanced energy weapon systems."
+tech_acot_weapon_energy_6s: "Enigmatic Energy Capacitor"
+tech_acot_weapon_energy_6s_desc: "The Mark III Energy Capacitor, based directly from the same technologies utilized by the ancient civilizations will improve our energy weapon systems even further, and potentially opening up even more advanced energy weapon systems."
+
+######## Laser Branch #######
+
+####### STANDARD #######
+
+#tech_lasers_1: "Laser Cannons"
+#tech_lasers_1_desc: "With some adjustments to the standard-issued energy capacitor, a beam-like energy weapon can be generated to cause damage through intense heat."
+#tech_lasers_2: "Improved Laser Systems"
+#tech_lasers_2_desc: "Further polish and adjustments to the energy capacitator allows us to produce a more potent beam weapon without increasing the risk of energy overload."
+#tech_lasers_3: "Prototype Prismatic Lens"
+#tech_lasers_3_desc: "Ultraviolet lasers are an updated and more powerful version of their blue predecessors. Accurate and destructive, these weapons are capable of inflicting great damage."
+#tech_lasers_4: "Advanced Prismatic Lens"
+#tech_lasers_4_desc: "These lasers have a shorter wavelength than UV-based laser weaponry, but are even more destructive."
+#tech_lasers_5: "Prismatic Core"
+#tech_lasers_5_desc: "The electromagnetic radiation emitted by gamma lasers is of an extremely high frequency. Their destructive potential is unmatched in the field of laser weapons."
+
+tech_acot_lasers_6e: "Enigmatic Laser Beam"
+tech_acot_lasers_6e_desc: "Pulse Laser Cannons fire powerful enigmatic energy beams on a much higher frequency and firepower than Gamma Lasers. This prototype should lead us closer to understanding power utilized by the precursors. We are moving past the boundaries of our previous understandings."
+tech_acot_laser_7e: "Delta Laser"
+tech_acot_laser_7e_desc: "Delta Laser utilizes dark energy as powerful laser weapon. It is also more powerful at overloading shields than previous generations."
+tech_acot_laser_8e: "Alpha Laser"
+tech_acot_laser_8e_desc: "Additional calibrating to the Delta Laser's focusing lens allow us to develop Alpha Laser which are even deadlier against armor platings. This is the proof of our mastery in Dark Energy Manipulation."
+
+tech_acot_lasers_6s: "Enigmatic Laser Beam"
+tech_acot_lasers_6s_desc: "Pulse Laser Cannons fire powerful enigmatic energy beams on a much higher frequency and firepower than Gamma Lasers. This prototype should lead us closer to understanding power utilized by the precursors. We are moving past the boundaries of our previous understandings."
+tech_acot_laser_7s: "Delta Laser"
+tech_acot_laser_7s_desc: "Delta Laser utilizes dark energy as powerful laser weapon. It is also more powerful at overloading shields than previous generations."
+tech_acot_laser_8s: "Alpha Laser"
+tech_acot_laser_8s_desc: "Additional calibrating to the Delta Laser's focusing lens allow us to develop Alpha Laser which are even deadlier against armor platings. This is the proof of our mastery in Dark Energy Manipulation."
+
+
+ACOT_LASER_1: "Laser Cannon"
+ACOT_LASER_1_DESC: "Laser weapons fire focused beams of light at targets, causing damage through the generation of intense heat."
+ACOT_LASER_2: "Improved Laser Cannon"
+ACOT_LASER_2_DESC: "An improvement over pre-ftl lasers, this improved design emit electromagnetic radiation at a wavelength that appears violet to most organics."
+ACOT_LASER_3: "Prototype Prism Cannon"
+ACOT_LASER_3_DESC: "Ultraviolet lasers are an updated and more powerful version of their blue predecessors. Accurate and destructive, these weapons are capable of inflicting great damage."
+ACOT_LASER_4: "Prism Cannon"
+ACOT_LASER_4_DESC: "X-Ray Lasers consume greater power than UV-based laser cannons, but are more destructive as a result."
+ACOT_LASER_5: "Advanced Prism Cannon"
+ACOT_LASER_5_DESC: "The electromagnetic radiation emitted by gamma lasers is of an extremely high frequency. Their destructive potential outclass all previous types of laser."
+ACOT_LASER_6E: "Dark Energy Beam Cannon"
+ACOT_LASER_6E_DESC: "Pulse Laser Cannons fire powerful enigmatic energy beams on a much higher frequency and firepower than Gamma Lasers."
+ACOT_LASER_7E: "Delta Beam Cannon"
+ACOT_LASER_7E_DESC: "Delta Laser utilizes dark energy as powerful laser weapon. It is also more powerful at overloading shields than previous generations."
+ACOT_LASER_8E: "Alpha Beam Cannon"
+ACOT_LASER_8E_DESC: "Additional calibrating to the Delta Laser focusing lens allow us to develop Alpha Laser which are even deadlier against armor platings. This is the proof of our mastery in Dark Energy Manipulation."
+ACOT_LASER_9E: "§RThanatos Beam Cannon"
+ACOT_LASER_9E_DESC: "§RThanatos Laser Cannon"
+
+ACOT_LASER_6S: "Dark Energy Beam Cannon"
+ACOT_LASER_6S_DESC: "Pulse Laser Cannons fire powerful enigmatic energy beams on a much higher frequency and firepower than Gamma Lasers."
+ACOT_LASER_7S: "Delta Beam Cannon"
+ACOT_LASER_7S_DESC: "Delta Laser utilizes dark energy as powerful laser weapon. It is also more powerful at overloading shields than previous generations."
+ACOT_LASER_8S: "Alpha Beam Cannon"
+ACOT_LASER_8S_DESC: "Additional calibrating to the Delta Laser focusing lens allow us to develop Alpha Laser which are even deadlier against armor platings. This is the proof of our mastery in Dark Energy Manipulation."
+ACOT_LASER_9S: "§RThanatos Beam Cannon"
+ACOT_LASER_9S_DESC: "§RThanatos Laser Cannon"
+
+XS_ACOT_LASER_1: "Micro Laser Cannon"
+SMALL_ACOT_LASER_1: "Small Laser Cannon"
+MEDIUM_ACOT_LASER_1: "Medium Laser Cannon"
+LARGE_ACOT_LASER_1: "Large Laser Cannon"
+
+XS_ACOT_LASER_2: "Micro Improved Laser Cannon"
+SMALL_ACOT_LASER_2: "Small Improved Laser Cannon"
+MEDIUM_ACOT_LASER_2: "Medium Improved Laser Cannon"
+LARGE_ACOT_LASER_2: "Large Improved Laser Cannon"
+
+XS_ACOT_LASER_3: "Micro Prototype Prism Cannon"
+SMALL_ACOT_LASER_3: "Small Prototype Prism Cannon"
+MEDIUM_ACOT_LASER_3: "Medium Prototype Prism Cannon"
+LARGE_ACOT_LASER_3: "Large Prototype Prism Cannon"
+
+XS_ACOT_LASER_4: "Micro Prism Cannon"
+SMALL_ACOT_LASER_4: "Small Prism Cannon"
+MEDIUM_ACOT_LASER_4: "Medium Prism Cannon"
+LARGE_ACOT_LASER_4: "Large Prism Cannon"
+
+XS_ACOT_LASER_5: "Micro Advanced Prism Cannon"
+SMALL_ACOT_LASER_5: "Small Advanced Prism Cannon"
+MEDIUM_ACOT_LASER_5: "Medium Advanced Prism Cannon"
+LARGE_ACOT_LASER_5: "Large Advanced Prism Cannon"
+
+XS_ACOT_LASER_6E: "Micro Dark Energy Beam Cannon"
+SMALL_ACOT_LASER_6E: "Small Dark Energy Beam Cannon"
+MEDIUM_ACOT_LASER_6E: "Medium Dark Energy Beam Cannon"
+LARGE_ACOT_LASER_6E: "Large Dark Energy Beam Cannon"
+XS_ACOT_LASER_6S: "Micro Dark Energy Beam Cannon"
+SMALL_ACOT_LASER_6S: "Small Dark Energy Beam Cannon"
+MEDIUM_ACOT_LASER_6S: "Medium Dark Energy Beam Cannon"
+LARGE_ACOT_LASER_6S: "Large Dark Energy Beam Cannon"
+
+SMALL_ACOT_LASER_7E: "Small Delta Beam Cannon"
+MEDIUM_ACOT_LASER_7E: "Medium Delta Beam Cannon"
+LARGE_ACOT_LASER_7E: "Large Delta Beam Cannon"
+SMALL_ACOT_LASER_8E: "Small Alpha Beam Cannon"
+MEDIUM_ACOT_LASER_8E: "Medium Alpha Beam Cannon"
+LARGE_ACOT_LASER_8E: "Large Alpha Beam Cannon"
+SMALL_ACOT_LASER_9E: "§RSmall Thanatos Beam Cannon"
+MEDIUM_ACOT_LASER_9E: "§RMedium Thanatos Beam Cannon"
+LARGE_ACOT_LASER_9E: "§RLarge Thanatos  Beam Cannon"
+
+####### ARTILLERY #######
+
+tech_acot_lasers_al_4: "Magnifying Lens"
+tech_acot_lasers_al_4_desc: "Installing additional Magnifying Lens will allow the already deadly Prism Cannon to deal even more damage over much longer distance. Such power however comes at the price of even longer charging sequences and the possible vulnerabilities against assault ships at close range."
+tech_acot_lasers_al_5: "Prism Crystal Caster"
+tech_acot_lasers_al_5_desc: "A fully-formed prismatic crystal made based on the archives of old. If installed on the Prism Magnifier, it could enable us to create an even deadlier laser artilery weapon"
+tech_acot_lasers_al_6e: "Prism Crystal Caster"
+tech_acot_lasers_al_6e_desc: "A fully-formed prismatic crystal made based on the archives of old. If installed on the Prism Magnifier, it could enable us to create an even deadlier laser artilery weapon"
+tech_acot_lasers_al_6s: "Prism Crystal Caster"
+tech_acot_lasers_al_6s_desc: "A fully-formed prismatic crystal made based on the archives of old. If installed on the Prism Magnifier, it could enable us to create an even deadlier laser artilery weapon"
+
+ACOT_LASER_ARTILLERY_4: "Prism Magnifier"
+ACOT_LASER_ARTILLERY_4_DESC: "Long-Range, upscaled version of the standard X-Ray Laser Cannon for use against capital ships.\n\nMinimum Range : 60"
+ACOT_LASER_ARTILLERY_5: "Prism Caster"
+ACOT_LASER_ARTILLERY_5_DESC: "Long-Range, upscaled version of the standard Gamma Laser Cannon for use against capital ships.\n\nMinimum Range : 60"
+
+ACOT_LASER_ARTILLERY_6E: "Enigmatic Beam Caster"
+ACOT_LASER_ARTILLERY_6E_DESC: "Beam Caster"
+
+ACOT_LASER_ARTILLERY_6S: "Stellarite Beam Caster"
+ACOT_LASER_ARTILLERY_6S_DESC: "Stellarite Beam Caster"
+
+####### XL #######
+
+#tech_energy_lance_1: "Prismatic Core"
+#tech_energy_lance_1_desc: "These heavy energy weapons fire focused particle beams that cause massive damage. The size of the emitter arrays limits their use to battleships and titans."
+#tech_energy_lance_2: "Prismatic Alingnment"
+#tech_energy_lance_2_desc: "A more powerful version of the particle lance, this weapon fires a tachyon beam of immense power. Like its predecessor, its use is limited to battleships and titans."
+
+tech_acot_lasers_xl_6e: "Enigmatic Lance"
+tech_acot_lasers_xl_6e_desc: "Dark Energy Lance pierces through enemy armor with focused dark energy beam. The lance is powerful enough to overload portions of energy shields."
+
+tech_acot_lasers_xl_6s: "Stellarite Lance"
+tech_acot_lasers_xl_6s_desc: "Dark Energy Lance pierces through enemy armor with focused dark energy beam. The lance is powerful enough to overload portions of energy shields."
+
+ACOT_LASER_XL_4: "Prism Spire"
+ACOT_LASER_XL_4_DESC: "Prism Spire"
+ACOT_LASER_XL_5: "Prism Lance"
+ACOT_LASER_XL_5_DESC: "Advanced Prism Lance"
+
+ACOT_LASER_XL_6E: "Enigmatic Lance"
+ACOT_LASER_XL_6E_DESC: "Enigmatic Lance pierces through enemy armor with focused enigmatic beam."
+
+ACOT_LASER_XL_6S: "Stellarite Lance"
+ACOT_LASER_XL_6S_DESC: "Stellarite Lance pierces through enemy armor with focused enigmatic beam."
+
+####### TITAN #######
+
+tech_acot_lasers_t_5: "Prismatic Annihilator"
+tech_acot_lasers_t_5_desc: "A massive array of linked energy amplification conduits that fires a beam of unprecedented firepower. Its size means that it can only be fitted on Titan-class starships."
+
+tech_acot_lasers_t_6e: "Enigmatic Titan Lance"
+tech_acot_lasers_t_6e_desc: "With our new understandings, augmentations of the old Perdition Ion Beams are now pending. We await only the approval. Success in this field should open ways to new type of titanic-scale weapons in the future: provided that we can understand Dark Matter better."
+
+
+tech_acot_lasers_t_6s: "Stellarite Titan Lance"
+tech_acot_lasers_t_6s_desc: "With our new understandings, augmentations of the old Perdition Ion Beams are now pending. We await only the approval. Success in this field should open ways to new type of titanic-scale weapons in the future: provided that we can understand Dark Matter better."
+
+ACOT_LASER_TITAN_5: "Prismatic Annihilator"
+ACOT_LASER_TITAN_5_DESC: "Prismatic Annihilator"
+
+ACOT_LASER_TITAN_6E: "Enigmatic Annihilator-Lance"
+ACOT_LASER_TITAN_6E_DESC: "While not nearly as good as whatever it is the precursors have been using, this new Enigmatic Beam should be sufficient upgrade to the old Ion Titan Lance."
+
+ACOT_LASER_TITAN_6S: "Stellarite Annihilator-Lance"
+ACOT_LASER_TITAN_6S_DESC: "While not nearly as good as whatever it is the precursors have been using, this new Enigmatic Beam should be sufficient upgrade to the old Ion Titan Lance."
+
+ACOT_LASER_TITAN_W_5: "Command-Class Prismatic Annihilator"
+ACOT_LASER_TITAN_W_5_DESC: "Command-Class Prismatic Annihilator"
+
+ACOT_LASER_TITAN_W_6E: "Command-Class Enigmatic Annihilator-Lance"
+ACOT_LASER_TITAN_W_6E_DESC: "While not nearly as good as whatever it is the precursors have been using, this new Enigmatic Beam should be sufficient upgrade to the old Ion Titan Lance."
+
+ACOT_LASER_TITAN_W_6S: "Command-Class Stellarite Annihilator-Lance"
+ACOT_LASER_TITAN_W_6S_DESC: "While not nearly as good as whatever it is the precursors have been using, this new Enigmatic Beam should be sufficient upgrade to the old Ion Titan Lance."
+
+
+############################################################ACOT_PLASMA ############################################################
+
+ # Plasma Weapons
+#tech_plasma_1: "Plasma Throwers"
+#tech_plasma_1_desc: "Weapons that eject destructive balls of high-energy plasma at targets. These plasma projectiles are extremely effective at eating through ship armor."
+#tech_plasma_2: "Advanced Plasma Throwers"
+#tech_plasma_2_desc: "These new accelerators launch projectiles of high-energy plasma with improved containment fields. This results in less energy leakage as the projectile travels in space towards its target."
+#tech_plasma_3: "Plasma Accelerators"
+#tech_plasma_3_desc: "The latest in plasma weaponry, these cannons are fully militarized versions of the older, somewhat improvised plasma throwers. Their plasma projectiles are even deadlier."
+tech_acot_plasma_4: "Plasma Cannon"
+tech_acot_plasma_4_desc: "These new accelerators launch projectiles of high-energy plasma with improved containment fields. This results in less energy leakage as the projectile travels in space towards its target."
+tech_acot_plasma_5: "Plasma Meltagun"
+tech_acot_plasma_5_desc: "The latest in plasma weaponry, these cannons are fully militarized versions of the older, somewhat improvised plasma throwers. Their plasma projectiles are even deadlier."
+
+tech_acot_plasma_6e: "Enigmatic Plasma Cannon"
+tech_acot_plasma_6e_desc: "Enigmatic Plasma Cannons are similar to the plasma cannon technologies we have at hand, although the projectile fired from these cannons seem to be much different and seem to be heavily related to Dark Matter."
+
+tech_acot_plasma_6s: "Stellarite Plasma Cannon"
+tech_acot_plasma_6s_desc: "Stellarite Plasma Cannons are similar to the plasma cannon technologies we have at hand, although the projectile fired from these cannons seem to be much different and seem to be heavily related to Dark Matter."
+
+ACOT_PLASMA_1: "Plasma Thrower"
+ACOT_PLASMA_1_DESC: "Improvised weapons from pre-ftl age that eject destructive balls of high-energy plasma at targets. These plasma projectiles are extremely effective at eating through ship armor."
+ACOT_PLASMA_2: "Advanced Plasma Thrower"
+ACOT_PLASMA_2_DESC: "Fully militarized, these plasma weapons are now optimized for actual space warfare."
+ACOT_PLASMA_3: "Plasma Accelerator"
+ACOT_PLASMA_3_DESC: "These new accelerators launch projectiles of high-energy plasma with improved containment fields. This results in less energy leakage as the projectile travels in space towards its target."
+ACOT_PLASMA_4: "Plasma Cannon"
+ACOT_PLASMA_4_DESC: "The latest in plasma weaponry Plasma Cannons are launched using more advanced high-powered reactor for even deadlier solution."
+ACOT_PLASMA_5: "Plasma Meltagun"
+ACOT_PLASMA_5_DESC: "Advanced Plasma Cannons utilize the full potentials of Zero-Point Energy to create one of the most powerful anti-armor weapons by modern standards."
+
+ACOT_PLASMA_6E: "Enigmatic Plasma Cannon"
+ACOT_PLASMA_6E_DESC: "Deadly plasma-based weapon that excels at destroying targets unprotected by shields." 
+
+ACOT_PLASMA_6S: "Stellarite Plasma Cannon"
+ACOT_PLASMA_6S_DESC: "Deadly plasma-based weapon that excels at destroying targets unprotected by shields." 
+
+
+XS_ACOT_PLASMA_1: "Micro Plasma Thrower"
+SMALL_ACOT_PLASMA_1: "Small Plasma Thrower"
+MEDIUM_ACOT_PLASMA_1: "Medium Plasma Thrower"
+LARGE_ACOT_PLASMA_1: "Large Plasma Thrower"
+
+XS_ACOT_PLASMA_2: "Micro Advanced Plasma Thrower"
+SMALL_ACOT_PLASMA_2: "Small Advanced Plasma Thrower"
+MEDIUM_ACOT_PLASMA_2: "Medium Advanced Plasma Thrower"
+LARGE_ACOT_PLASMA_2: "Large Advanced Plasma Thrower"
+
+XS_ACOT_PLASMA_3: "Micro Plasma Accelerator"
+SMALL_ACOT_PLASMA_3: "Small Plasma Accelerator"
+MEDIUM_ACOT_PLASMA_3: "Medium Large Plasma Accelerator"
+LARGE_ACOT_PLASMA_3: "Large Plasma Accelerator"
+
+XS_ACOT_PLASMA_4: "Micro Plasma Cannon"
+SMALL_ACOT_PLASMA_4: "Small Plasma Cannon"
+MEDIUM_ACOT_PLASMA_4: "Medium Large Plasma Cannon"
+LARGE_ACOT_PLASMA_4: "Small Plasma Cannon"
+
+XS_ACOT_PLASMA_5: "Micro Plasma Meltagun"
+SMALL_ACOT_PLASMA_5: "Small Plasma Meltagun"
+MEDIUM_ACOT_PLASMA_5: "Medium Plasma Meltagun"
+LARGE_ACOT_PLASMA_5: "Large Plasma Meltagun"
+
+XS_ACOT_PLASMA_6E: "Micro Enigmatic Plasma Cannon"
+SMALL_ACOT_PLASMA_6E: "Small Enigmatic Plasma Cannon"
+MEDIUM_ACOT_PLASMA_6E: "Medium Enigmatic Plasma Cannon"
+LARGE_ACOT_PLASMA_6E: "Large Enigmatic Plasma Cannon"
+
+XS_ACOT_PLASMA_6S: "Micro Stellarite Plasma Cannon"
+SMALL_ACOT_PLASMA_6S: "Small Stellarite Plasma Cannon"
+MEDIUM_ACOT_PLASMA_6S: "Medium Stellarite Plasma Cannon"
+LARGE_ACOT_PLASMA_6S: "Large Stellarite Plasma Cannon"
+
+
+####### AL #######
+
+#tech_energy_torpedoes_1: "Heavy Plasma Cannon"
+#tech_energy_torpedoes_1_desc: "These energy projectiles consist of tightly concentrated protons capable of causing immense damage to the hull of enemy ships."
+#tech_energy_torpedoes_2: "Plasma Caster"
+#tech_energy_torpedoes_2_desc: "Upgraded energy projectiles that rely on neutrons instead of protons for their destructive power."
+
+tech_acot_plasma_al_6e: "Enigmatic Plasma Caster"
+tech_acot_plasma_al_6e_desc: "Enigmatic Plasma Cannons are similar to the plasma cannon technologies we have at hand, although the projectile fired from these cannons seem to be much different and seem to be heavily related to Dark Matter."
+
+tech_acot_plasma_al_6s: "Stellarite Plasma Caster"
+tech_acot_plasma_al_6s_desc: "Stellarite Plasma Cannons are similar to the plasma cannon technologies we have at hand, although the projectile fired from these cannons seem to be much different and seem to be heavily related to Dark Matter."
+
+ACOT_PLASMA_ARTILLERY_4: "Heavy Plasma Cannon"
+ACOT_PLASMA_ARTILLERY_4_DESC: "Heavy Plasma Cannon"
+ACOT_PLASMA_ARTILLERY_5: "Plasma Caster"
+ACOT_PLASMA_ARTILLERY_5_DESC: "Plasma Casters"
+
+ACOT_PLASMA_ARTILLERY_6E: "Enigmatic Plasma Artillery"
+ACOT_PLASMA_ARTILLERY_6E_DESC: "Enigmatic Plasma Artillery"
+
+ACOT_PLASMA_ARTILLERY_6S: "Stellarite Plasma Artillery"
+ACOT_PLASMA_ARTILLERY_6S_DESC: "Stellarite Plasma Artillery"
+
+####### XL #######
+
+tech_acot_plasma_xl_4: "Plasma Rod"
+tech_energy_torpedoes_1_desc:2 "These energy projectiles consist of tightly concentrated protons capable of causing immense damage to the hull of enemy ships."
+tech_acot_plasma_xl_4_desc: "Plasma Lance"
+tech_acot_plasma_xl_5: "Plasma Destroyer Cannon"
+tech_energy_torpedoes_1_desc:2 "These energy projectiles consist of tightly concentrated protons capable of causing immense damage to the hull of enemy ships."
+tech_acot_plasma_xl_5_desc: "Neutron Launchers"
+
+tech_acot_plasma_xl_6e: "Plasma Destroyer Cannon"
+tech_energy_torpedoes_1_desc:2 "These energy projectiles consist of tightly concentrated protons capable of causing immense damage to the hull of enemy ships."
+tech_acot_plasma_xl_6e_desc: "Neutron Launchers"
+
+tech_acot_plasma_xl_6s: "Plasma Destroyer Cannon"
+tech_energy_torpedoes_1_desc:2 "These energy projectiles consist of tightly concentrated protons capable of causing immense damage to the hull of enemy ships."
+tech_acot_plasma_xl_6s_desc: "Neutron Launchers"
+
+ACOT_PLASMA_XL_4: "Plasma Rod"
+ACOT_PLASMA_XL_4_DESC: "Plasma Rod"
+ACOT_PLASMA_XL_5: "Plasma Lance"
+ACOT_PLASMA_XL_5_DESC: "Plasma Lance"
+
+ACOT_PLASMA_XL_6E: "Enigmatic Plasma Caster"
+ACOT_PLASMA_XL_6E_DESC: "Enigmatic Plasma Caster"
+
+ACOT_PLASMA_XL_6S: "Stellarite Plasma Caster"
+ACOT_PLASMA_XL_6S_DESC: "Stellarite Plasma Caster"
+
+####### T #######
+
+tech_acot_plasma_t_5: "Plasmatron Lance"
+tech_acot_plasma_t_5_desc: "These energy projectiles consist of tightly concentrated protons capable of causing immense damage to the hull of enemy ships."
+
+tech_acot_plasma_t_6e: "Enigmatic Plasmatron Lance"
+tech_acot_plasma_t_6e_desc: "These energy projectiles consist of tightly concentrated protons capable of causing immense damage to the hull of enemy ships"
+
+tech_acot_plasma_t_6s: "Stellarite Plasmatron Lance"
+tech_acot_plasma_t_6s_desc: "These energy projectiles consist of tightly concentrated protons capable of causing immense damage to the hull of enemy ships"
+
+ACOT_PLASMA_TITAN_5: "Plasmatron Lance"
+ACOT_PLASMA_TITAN_5_DESC: "Plasmatron Lance"
+
+ACOT_PLASMA_TITAN_6E: "Enigmatic Titan Plasmatron Lance"
+ACOT_PLASMA_TITAN_6E_DESC: "Enigmatic Titan Plasmatron Lance"
+
+ACOT_PLASMA_TITAN_6S: "Stellarite Plasmatron Lance"
+ACOT_PLASMA_TITAN_6S_DESC: "Stellarite Plasmatron Lance"
+
+ACOT_PMC_YAMATO_CANNON: "§RYamato Cannon"
+ACOT_PMC_YAMATO_CANNON_DESC: "§RYamato Cannon"
+
+ACOT_PLASMA_TITAN_W_5: "Plasmatron Lance"
+ACOT_PLASMA_TITAN_W_5_DESC: "Plasmatron Lance"
+ACOT_PLASMA_TITAN_W_6E: "Enigmatic Titan Plasma Caster"
+ACOT_PLASMA_TITAN_W_6E_DESC: "Enigmatic Titan Plasma Caster"
+ACOT_PLASMA_TITAN_W_6S: "Stellarite Titan Plasma Caster"
+ACOT_PLASMA_TITAN_W_6S_DESC: "Stellarite Titan Plasma Caster"
+
+############################################################ DISRUPTOR ############################################################
+
+####### STANDARD #######
+
+ # Disruptor Weapons
+#tech_disruptors_1: "Disruptors"
+#tech_disruptors_1_desc: "Disruptors fire high-energy bolts that weaken and destroy the molecular bonds that hold the target's constituent atoms together. They are capable of passing through shields and armor to wreak havoc directly on enemy hull and crew."
+#tech_disruptors_2: "Improved Disruptors"
+#tech_disruptors_2_desc: "These upgraded disruptors fire bolts of more destructive ion particles at targets."
+#tech_disruptors_3: "Ion Disruptors"
+#tech_disruptors_3_desc: "Extremely high-yield disruptors that fire quantum energy charges causing incredible damage to those unfortunate enough to get in their way."
+tech_acot_disruptors_4: "Phase Disruptors"
+tech_acot_disruptors_4_desc: "These upgraded disruptors fire bolts of more destructive ion particles at targets."
+tech_acot_disruptors_5: "Waveforce Disruptors"
+tech_acot_disruptors_5_desc: "Extremely high-yield disruptors that fire quantum energy charges causing incredible damage to those unfortunate enough to get in their way."
+
+tech_acot_disruptors_6e: "Enigmatic Disruptor"
+tech_acot_disruptors_6e_desc: "Drawing upon the enigmatic energies utilized by the precursors, this prototype disruptor can deal even higher damage than before."
+
+tech_acot_disruptors_6s: "Stellarite Disruptor"
+tech_acot_disruptors_6s_desc: "Drawing upon the enigmatic energies utilized by the precursors, this prototype disruptor can deal even higher damage than before."
+
+ACOT_DISRUPTOR_1: "Disruptor"
+ACOT_DISRUPTOR_1_DESC: "Disruptors fire high-energy bolts that weaken and destroy the molecular bonds that hold the target's constituent atoms together."
+ACOT_DISRUPTOR_2: "Improved Disruptor"
+ACOT_DISRUPTOR_2_DESC: "Disruptors fire high-energy bolts that weaken and destroy the molecular bonds that hold the target's constituent atoms together."
+ACOT_DISRUPTOR_3: "Ion Disruptor"
+ACOT_DISRUPTOR_3_DESC: "These upgraded disruptors fire bolts of more destructive ion particles at targets, without sacrificing the firing rate of their predecessors."
+ACOT_DISRUPTOR_4: "Firehawk Disruptor"
+ACOT_DISRUPTOR_4_DESC: "Extremely high-yield disruptors that fire quantum energy charges causing incredible damage to those unfortunate enough to get in their way."
+ACOT_DISRUPTOR_5: "Phase Disruptor"
+ACOT_DISRUPTOR_5_DESC: "Extremely high-yield disruptors that fire quantum energy charges causing incredible damage to those unfortunate enough to get in their way."
+ 
+ACOT_DISRUPTOR_6E: "Enigmatic Disruptor"
+ACOT_DISRUPTOR_6E_DESC: "Drawing upon the enigmatic energies utilized by the precursors, this prototype disruptor can deal even higher damage than before."
+
+ACOT_DISRUPTOR_6S: "Stellarite Disruptor"
+ACOT_DISRUPTOR_6S_DESC: "Drawing upon the enigmatic energies utilized by the precursors, this prototype disruptor can deal even higher damage than before."
+
+XS_ACOT_DISRUPTOR_1: "Micro Disruptor"
+SMALL_ACOT_DISRUPTOR_1: "Small Disruptor"
+MEDIUM_ACOT_DISRUPTOR_1: "Medium Disruptor"
+LARGE_ACOT_DISRUPTOR_1: "Large Disruptor"
+
+XS_ACOT_DISRUPTOR_2: "Micro Improved Disruptor" 
+SMALL_ACOT_DISRUPTOR_2: "Small Improved Disruptor" 
+MEDIUM_ACOT_DISRUPTOR_2: "Medium Improved Disruptor"
+LARGE_ACOT_DISRUPTOR_2: "Large Improved Disruptor"
+
+XS_ACOT_DISRUPTOR_3: "Micro Ion Disruptor"
+SMALL_ACOT_DISRUPTOR_3: "Small Ion Disruptor"
+MEDIUM_ACOT_DISRUPTOR_3: "Medium Ion Disruptor"
+LARGE_ACOT_DISRUPTOR_3: "Large Ion Disruptor"
+
+XS_ACOT_DISRUPTOR_4: "Micro Phase Disruptor"
+SMALL_ACOT_DISRUPTOR_4: "Small Phase Disruptor"
+MEDIUM_ACOT_DISRUPTOR_4: "Medium Phase Disruptor"
+LARGE_ACOT_DISRUPTOR_4: "Large Phase Disruptor"
+
+XS_ACOT_DISRUPTOR_5: "Micro Waveforce Disruptor"
+SMALL_ACOT_DISRUPTOR_5: "Small Waveforce Disruptor"
+MEDIUM_ACOT_DISRUPTOR_5: "Medium Waveforce Disruptor"
+LARGE_ACOT_DISRUPTOR_5: "Large Waveforce Disruptor"
+
+XS_ACOT_DISRUPTOR_6E: "Micro Enigmatic Disruptor"
+SMALL_ACOT_DISRUPTOR_6E: "Small Enigmatic Disruptor"
+MEDIUM_ACOT_DISRUPTOR_6E: "Medium Enigmatic Disruptor"
+LARGE_ACOT_DISRUPTOR_6E: "Large Enigmatic Disruptor"
+
+
+XS_ACOT_DISRUPTOR_6S: "Micro Stellarite Disruptor"
+SMALL_ACOT_DISRUPTOR_6S: "Small Stellarite Disruptor"
+MEDIUM_ACOT_DISRUPTOR_6S: "Medium Stellarite Disruptor"
+LARGE_ACOT_DISRUPTOR_6S: "Large Stellarite Disruptor"
+
+####### AL #######
+
+tech_acot_disruptors_al_4: "Disruptor Ray"
+tech_acot_disruptors_al_4_desc: "These upgraded disruptors fire bolts of more destructive ion particles at targets."
+tech_acot_disruptors_al_5: "Disruptor Waveforce Cannon"
+tech_acot_disruptors_al_5_desc: "Extremely high-yield disruptors that fire quantum energy charges causing incredible damage to those unfortunate enough to get in their way."
+
+tech_acot_disruptors_al_6e: "Enigmatic Disruptor Waveforce Cannon"
+tech_acot_disruptors_al_6e_desc: "Extremely high-yield disruptors that fire quantum energy charges causing incredible damage to those unfortunate enough to get in their way."
+tech_acot_disruptors_al_6s: "Stellarite Disruptor Waveforce Cannon"
+tech_acot_disruptors_al_6s_desc: "Extremely high-yield disruptors that fire quantum energy charges causing incredible damage to those unfortunate enough to get in their way."
+
+ACOT_DISRUPTOR_ARTILLERY_4: "Disruptor Ray"
+ACOT_DISRUPTOR_ARTILLERY_4_DESC: "Extremely high-yield disruptors that fire quantum energy charges causing incredible damage to those unfortunate enough to get in their way."
+ACOT_DISRUPTOR_ARTILLERY_5: "Disruptor Waveforce Cannon"
+ACOT_DISRUPTOR_ARTILLERY_5_DESC: "Extremely high-yield disruptors that fire quantum energy charges causing incredible damage to those unfortunate enough to get in their way."
+
+ACOT_DISRUPTOR_ARTILLERY_6E: "Enigmatic Disruptor Wave Cannon"
+ACOT_DISRUPTOR_ARTILLERY_6E_DESC: "Extremely high-yield disruptors that fire quantum energy charges causing incredible damage to those unfortunate enough to get in their way."
+
+ACOT_DISRUPTOR_ARTILLERY_6S: "Stellarite Disruptor Wave Cannon"
+ACOT_DISRUPTOR_ARTILLERY_6S_DESC: "Extremely high-yield disruptors that fire quantum energy charges causing incredible damage to those unfortunate enough to get in their way."
+
+####### XL #######
+
+tech_acot_disruptors_xl_4: "Disruption Snare"
+tech_acot_disruptors_xl_4_desc: "These upgraded disruptors fire bolts of more destructive ion particles at targets."
+tech_acot_disruptors_xl_5: "Disruption Web"
+tech_acot_disruptors_xl_5_desc: "Extremely high-yield disruptors that fire quantum energy charges causing incredible damage to those unfortunate enough to get in their way."
+
+tech_acot_disruptors_xl_6e: "Enigmatic Disruption Web"
+tech_acot_disruptors_xl_6e_desc: "Extremely high-yield disruptors that fire quantum energy charges causing incredible damage to those unfortunate enough to get in their way."
+
+tech_acot_disruptors_xl_6s: "Stellarite Disruption Web"
+tech_acot_disruptors_xl_6s_desc: "Extremely high-yield disruptors that fire quantum energy charges causing incredible damage to those unfortunate enough to get in their way."
+
+
+ACOT_DISRUPTOR_XL_4: "Disruption Snare"
+ACOT_DISRUPTOR_XL_4_DESC: "Disruption Snare"
+ACOT_DISRUPTOR_XL_5: "Disruption Web"
+ACOT_DISRUPTOR_XL_5_DESC: "Disruption Web"
+
+ACOT_DISRUPTOR_XL_6E: "Enigmatic Disruption Web"
+ACOT_DISRUPTOR_XL_6E_DESC: "Enigmatic Disruption Web"
+
+ACOT_DISRUPTOR_XL_6S: "Stellarite Disruption Web"
+ACOT_DISRUPTOR_XL_6S_DESC: "Stellarite Disruption Web"
+
+
+####### T #######
+
+tech_acot_disruptors_t_5: "Disruption Swarm"
+tech_acot_disruptors_t_5_desc: "Extremely high-yield disruptors that fire quantum energy charges causing incredible damage to those unfortunate enough to get in their way."
+
+tech_acot_disruptors_t_6e: "Enigmatic Disruption Swarm"
+tech_acot_disruptors_t_6e_desc: "Extremely high-yield disruptors that fire quantum energy charges causing incredible damage to those unfortunate enough to get in their way."
+
+tech_acot_disruptors_t_6s: "Stellarite Disruption Swarm"
+tech_acot_disruptors_t_6s_desc: "Extremely high-yield disruptors that fire quantum energy charges causing incredible damage to those unfortunate enough to get in their way."
+
+ACOT_DISRUPTOR_TITAN_5: "Disruption Swarm"
+ACOT_DISRUPTOR_TITAN_5_DESC: "Disruption Swarm"
+
+ACOT_DISRUPTOR_TITAN_6E: "Enigmatic Disruption Swarm"
+ACOT_DISRUPTOR_TITAN_6E_DESC: "Enigmatic Disruption Swarm"
+
+ACOT_DISRUPTOR_TITAN_6S: "Stellarite Disruption Swarm"
+ACOT_DISRUPTOR_TITAN_6S_DESC: "Stellarite Disruption Swarm"
+
+
+ACOT_DISRUPTOR_TITAN_W_5: "Disruption Swarm"
+ACOT_DISRUPTOR_TITAN_W_5_DESC: "Disruption Swarm"
+
+ACOT_DISRUPTOR_TITAN_W_6E: "Enigmatic Disruption Swarm"
+ACOT_DISRUPTOR_TITAN_W_6E_DESC: "Enigmatic Disruption Swarm"
+
+ACOT_DISRUPTOR_TITAN_W_6S: "Stellarite Disruption Swarm"
+ACOT_DISRUPTOR_TITAN_W_6S_DESC: "Stellarite Disruption Swarm"
+############################################################ RAILGUN ############################################################
+
+tech_acot_weapon_kinetic: "Smart Kinetic Munitions"
+tech_acot_weapon_kinetic_desc: "In order to safety uses any kinetic-based weapons in space, the projectiles used must be able to overcome the nature of space; that an object in motion, stays in motion. Every missed attacks could be dangerous to many others, as the databank has shown us.\n\nTo eliminate this issue, the Smart Kinetic Munition Systems, or SKMS were utilized by many ancient civilizations. The system essentially gives every projectiles a limited automated system that tracks whether the shot has not reach its intended target, and will self-destruct automatically. Only by mastering this system can we truly adapt any kinetic weapons into use."
+
+tech_acot_weapon_kinetic_2: "Reforged Kinetic Munitions"
+tech_acot_weapon_kinetic_2_desc: "In order to safety uses any kinetic-based weapons in space, the projectiles used must be able to overcome the nature of space; that an object in motion, stays in motion. Every missed attacks could be dangerous to many others, as the databank has shown us.\n\nTo eliminate this issue, the Smart Kinetic Munition Systems, or SKMS were utilized by many ancient civilizations. The system essentially gives every projectiles a limited automated system that tracks whether the shot has not reach its intended target, and will self-destruct automatically. Only by mastering this system can we truly adapt any kinetic weapons into use."
+
+tech_acot_weapon_kinetic_3: "Replicant Kinetic Munitions"
+tech_acot_weapon_kinetic_3_desc: "In order to safety uses any kinetic-based weapons in space, the projectiles used must be able to overcome the nature of space; that an object in motion, stays in motion. Every missed attacks could be dangerous to many others, as the databank has shown us.\n\nTo eliminate this issue, the Smart Kinetic Munition Systems, or SKMS were utilized by many ancient civilizations. The system essentially gives every projectiles a limited automated system that tracks whether the shot has not reach its intended target, and will self-destruct automatically. Only by mastering this system can we truly adapt any kinetic weapons into use."
+
+tech_acot_weapon_kinetic_6e: "Enigmatic Kinetic Munitions"
+tech_acot_weapon_kinetic_6e_desc: "In order to safety uses any kinetic-based weapons in space, the projectiles used must be able to overcome the nature of space; that an object in motion, stays in motion. Every missed attacks could be dangerous to many others, as the databank has shown us.\n\nTo eliminate this issue, the Smart Kinetic Munition Systems, or SKMS were utilized by many ancient civilizations. The system essentially gives every projectiles a limited automated system that tracks whether the shot has not reach its intended target, and will self-destruct automatically. Only by mastering this system can we truly adapt any kinetic weapons into use."
+
+tech_acot_weapon_kinetic_6s: "Enigmatic Kinetic Munitions"
+tech_acot_weapon_kinetic_6s_desc: "In order to safety uses any kinetic-based weapons in space, the projectiles used must be able to overcome the nature of space; that an object in motion, stays in motion. Every missed attacks could be dangerous to many others, as the databank has shown us.\n\nTo eliminate this issue, the Smart Kinetic Munition Systems, or SKMS were utilized by many ancient civilizations. The system essentially gives every projectiles a limited automated system that tracks whether the shot has not reach its intended target, and will self-destruct automatically. Only by mastering this system can we truly adapt any kinetic weapons into use."
+####### STANDARD #######
+
+#tech_mass_drivers_1: "Mag Cannon"
+#tech_mass_drivers_1_desc: "These electromagnetic projectile launchers use magnets to accelerate armor-piercing rounds towards targets at high speeds."
+#tech_mass_drivers_2: "Mass Drivers"
+#tech_mass_drivers_2_desc: "Coilguns are more powerful versions of the early mass drivers, using electromagnetic coils to rapidly accelerate projectiles towards targets."
+#tech_mass_drivers_3: "Coilguns"
+#tech_mass_drivers_3_desc: "The latest in electromagnetic accelerators, railguns use twin parallel rails to fire projectiles at incredible speeds."
+#tech_mass_drivers_4: "Railguns"
+#tech_mass_drivers_4_desc: "A new version of the venerable railgun, with sturdier rails and an enhanced power supply. These weapons are even more powerful and accurate than their predecessors."
+#tech_mass_drivers_5: "Gauss Cannons"
+#tech_mass_drivers_5_desc: "This updated version of the old coilgun design is even more destructive than the latest railgun designs. It is capable of launching projectiles with incredible accuracy and speed."
+
+tech_acot_mass_drivers_6e: "Gauss Cannons"
+tech_acot_mass_drivers_6e_desc: "This updated version of the old coilgun design is even more destructive than the latest railgun designs. It is capable of launching projectiles with incredible accuracy and speed."
+
+tech_acot_mass_drivers_6s: "Gauss Cannons"
+tech_acot_mass_drivers_6s_desc: "This updated version of the old coilgun design is even more destructive than the latest railgun designs. It is capable of launching projectiles with incredible accuracy and speed."
+
+ACOT_MAGNETIC_1: "Mag Cannon"
+ACOT_MAGNETIC_1_DESC: "These electromagnetic projectile launchers use magnets to accelerate projectiles towards targets at high speeds, overwhelming energy shields."
+ACOT_MAGNETIC_2: "Mass Driver"
+ACOT_MAGNETIC_2_DESC: "Mass Drivers are polished, battle-tested and modern reimagination of the old Mag Cannons that are much more suitable for space combats."
+ACOT_MAGNETIC_3: "Coilgun"
+ACOT_MAGNETIC_3_DESC: "Coilguns are more powerful versions of the early mass cannons, using electromagnetic coils to rapidly accelerate projectiles towards targets."
+ACOT_MAGNETIC_4: "Railgun"
+ACOT_MAGNETIC_4_DESC: "Railguns use twin parallel rails to fire projectiles at incredible speeds."
+ACOT_MAGNETIC_5: "Gauss Cannon"
+ACOT_MAGNETIC_5_DESC: "This updated version of the old coilgun design is even more destructive than the railcannon designs. It is capable of launching projectiles with incredible accuracy and speed over long distances"
+
+ACOT_MAGNETIC_6E: "Enigmatic Mass Driver"
+ACOT_MAGNETIC_6E_DESC: "Mass Drivers are polished, battle-tested and modern reimagination of the old Mag Cannons that are much more suitable for space combats."
+
+
+ACOT_MAGNETIC_6S: "Stellarite Mass Driver"
+ACOT_MAGNETIC_6S_DESC: "Mass Drivers are polished, battle-tested and modern reimagination of the old Mag Cannons that are much more suitable for space combats."
+
+
+XS_ACOT_MAGNETIC_1: "Micro Mag Cannon"
+SMALL_ACOT_MAGNETIC_1: "Small Mag Cannon"
+MEDIUM_ACOT_MAGNETIC_1: "Medium Mag Cannon"
+LARGE_ACOT_MAGNETIC_1: "Large Mag Cannon"
+
+XS_ACOT_MAGNETIC_2: "Micro Mass Driver"
+SMALL_ACOT_MAGNETIC_2: "Small Mass Driver"
+MEDIUM_ACOT_MAGNETIC_2: "Medium Mass Driver"
+LARGE_ACOT_MAGNETIC_2: "Large Mass Driver"
+
+XS_ACOT_MAGNETIC_3: "Micro Coilgun"
+SMALL_ACOT_MAGNETIC_3: "Small Coilgun"
+MEDIUM_ACOT_MAGNETIC_3: "Medium Coilgun"
+LARGE_ACOT_MAGNETIC_3: "Large Coilgun"
+
+XS_ACOT_MAGNETIC_4: "Micro Railgun"
+SMALL_ACOT_MAGNETIC_4: "Small Railgun"
+MEDIUM_ACOT_MAGNETIC_4: "Medium Railgun"
+LARGE_ACOT_MAGNETIC_4: "Large Railgun"
+
+XS_ACOT_MAGNETIC_5: "Micro Gauss Cannon"
+SMALL_ACOT_MAGNETIC_5: "Small Gauss Cannon"
+MEDIUM_ACOT_MAGNETIC_5: "Medium Gauss Cannon"
+LARGE_ACOT_MAGNETIC_5: "Large Gauss Cannon"
+
+XS_ACOT_MAGNETIC_6E: "Micro Enigmatic Cannon"
+SMALL_ACOT_MAGNETIC_6E: "Small Enigmatic Cannon"
+MEDIUM_ACOT_MAGNETIC_6E: "Medium Enigmatic Cannon"
+LARGE_ACOT_MAGNETIC_6E: "Large Enigmatic Cannon"
+
+XS_ACOT_MAGNETIC_6S: "Micro Stellarite Cannon"
+SMALL_ACOT_MAGNETIC_6S: "Small Stellarite Cannon"
+MEDIUM_ACOT_MAGNETIC_6S: "Medium Stellarite Cannon"
+LARGE_ACOT_MAGNETIC_6S: "Large Stellarite Cannon"
+
+
+
+####### AL #######
+
+tech_acot_mass_drivers_al_4: "Railgun Artillery"
+tech_acot_mass_drivers_al_4_desc: "A new version of the venerable railgun, with sturdier rails and an enhanced power supply. These weapons are even more powerful and accurate than their predecessors."
+tech_acot_mass_drivers_al_5: "Gauss Cannons"
+tech_acot_mass_drivers_al_5_desc: "This updated version of the old coilgun design is even more destructive than the latest railgun designs. It is capable of launching projectiles with incredible accuracy and speed."
+
+tech_acot_mass_drivers_al_6e: "Enigmatic Gauss Cannons"
+tech_acot_mass_drivers_al_6e_desc: "This updated version of the old coilgun design is even more destructive than the latest railgun designs. It is capable of launching projectiles with incredible accuracy and speed."
+
+tech_acot_mass_drivers_al_6s: "Stellarite Gauss Cannons"
+tech_acot_mass_drivers_al_6s_desc: "This updated version of the old coilgun design is even more destructive than the latest railgun designs. It is capable of launching projectiles with incredible accuracy and speed."
+
+ACOT_MAGNETIC_ARTILLERY_4: "Railgun Artillery"
+ACOT_MAGNETIC_ARTILLERY_4_DESC: "Long-Range, upscaled version of the magnetic projectile launchers for use against capital ships.\n\nMinimum Range : 60"
+ACOT_MAGNETIC_ARTILLERY_5: "Gauss Artillery"
+ACOT_MAGNETIC_ARTILLERY_5_DESC: "Long-Range, upscaled version of the Gauss Cannons for use against capital ships.\n\nMinimum Range : 60"
+
+ACOT_MAGNETIC_ARTILLERY_6E: "Gauss Artillery"
+ACOT_MAGNETIC_ARTILLERY_6E_DESC: "Long-Range, upscaled version of the Gauss Cannons for use against capital ships.\n\nMinimum Range : 60"
+
+ACOT_MAGNETIC_ARTILLERY_6S: "Gauss Artillery"
+ACOT_MAGNETIC_ARTILLERY_6S_DESC: "Long-Range, upscaled version of the Gauss Cannons for use against capital ships.\n\nMinimum Range : 60"
+####### XL #######
+
+#tech_mass_accelerator_1: "Mass Accelerator"
+#tech_mass_accelerator_1_desc: "An enormous mass accelerator cannon that can only be placed in a spinal mount and fires monstrously powerful rounds over vast distances."
+#tech_mass_accelerator_2: "Gauss Accelerato"
+#tech_mass_accelerator_2_desc: "An even more powerful mass accelerator cannon that can rip through even the toughest shields."
+
+tech_acot_mass_drivers_xl_6e: "Prototype Super-Mass Accelerator"
+tech_acot_mass_drivers_xl_6e_desc: "Following the same concepts of creating stronger and deadlier hard-light projectiles of Shock Cannons, the new MAC should prove to be formidable weapon that will surpass our current Giga."
+
+tech_acot_mass_drivers_xl_6s: "Prototype Super-Mass Accelerator"
+tech_acot_mass_drivers_xl_6s_desc: "Following the same concepts of creating stronger and deadlier hard-light projectiles of Shock Cannons, the new MAC should prove to be formidable weapon that will surpass our current Giga."
+
+ACOT_MAGNETIC_XL_4: "Mass Accelerator"
+ACOT_MAGNETIC_XL_4_DESC: "An enormous variant of kinetic artillery, so large that it has to be placed in a fixed spinal mount."
+ACOT_MAGNETIC_XL_5: "Gauss Accelerator"
+ACOT_MAGNETIC_XL_5_DESC: "An even more powerful variant of spinal-mounted kinetic artillery."
+
+ACOT_MAGNETIC_XL_6E: "Enigmatic Mass Accelerator"
+ACOT_MAGNETIC_XL_6E_DESC: "Stronger than the old Giga Cannon, the Paragon-Class MAC can punch through all kinds of shields with brutal efficiencies."
+
+ACOT_MAGNETIC_XL_6S: "Stellarite Mass Accelerator"
+ACOT_MAGNETIC_XL_6S_DESC: "Stronger than the old Giga Cannon, the Paragon-Class MAC can punch through all kinds of shields with brutal efficiencies."
+
+####### T #######
+
+tech_acot_mass_drivers_t_5: "Titan Accelerator"
+tech_acot_mass_drivers_t_5_desc: "This updated version of the old coilgun design is even more destructive than the latest railgun designs. It is capable of launching projectiles with incredible accuracy and speed."
+
+tech_acot_mass_drivers_t_6e: "Titan Enigmatic Accelerator "
+tech_acot_mass_drivers_t_6e_desc: "The newly improved acceleration systems and foritifed railways permits us to finally develop kinetic accelerators on a titanic-scale."
+
+tech_acot_mass_drivers_t_6s: "Titan Stellarite Accelerator "
+tech_acot_mass_drivers_t_6s_desc: "The newly improved acceleration systems and foritifed railways permits us to finally develop kinetic accelerators on a titanic-scale."
+
+ACOT_MAGNETIC_TITAN_5: "Titan Accelerator"
+ACOT_MAGNETIC_TITAN_5_DESC: "Titan Accelerator"
+
+ACOT_MAGNETIC_TITAN_6E: "Enigmatic Titan Accelerator"
+ACOT_MAGNETIC_TITAN_6E_DESC: "Enigmatic Titan Accelerator"
+
+ACOT_MAGNETIC_TITAN_6S: "Stellarite Titan Accelerator"
+ACOT_MAGNETIC_TITAN_6S_DESC: "Stellarite Titan Accelerator"
+
+ACOT_MAGNETIC_TITAN_W_5: "Titan Accelerator"
+ACOT_MAGNETIC_TITAN_W_5_DESC: "Titan Accelerator"
+
+ACOT_MAGNETIC_TITAN_W_6E: "Enigmatic Titan Accelerator"
+ACOT_MAGNETIC_TITAN_W_6E_DESC: "Enigmatic Titan Accelerator"
+
+ACOT_MAGNETIC_TITAN_W_6S: "Stellarite Titan Accelerator"
+ACOT_MAGNETIC_TITAN_W_6S_DESC: "Stellarite Titan Accelerator"
+############################################################ AUTOGUN ############################################################
+
+####### STANDARD #######
+
+#tech_autocannons_1: "Autoguns"
+#tech_autocannons_1_desc: "Large-caliber ballistic weapons that fire cased explosive shells. The main advantage of these cannons is their high rate of fire."
+#tech_autocannons_2: "Autocannons"
+#tech_autocannons_2_desc: "These upgraded rotary autocannons feature improved tracking and fire control systems. This allows them to maintain an even higher rate of fire."
+#tech_autocannons_3: "Advanced Autocannon"
+#tech_autocannons_3_desc: "Advanced rotary autocannons capable of spewing a cloud of high-explosive shells at a target."
+tech_acot_autocannons_4: "Ripper Autocannon"
+tech_acot_autocannons_4_desc: "These upgraded rotary autocannons feature improved tracking and fire control systems. This allows them to maintain an even higher rate of fire."
+tech_acot_autocannons_5: "Stormfire Autocannon"
+tech_acot_autocannons_5_desc: "Advanced rotary autocannons capable of spewing a cloud of high-explosive shells at a target."
+
+tech_acot_autocannons_6e: "Enigmatic Autocannon"
+tech_acot_autocannons_6e_desc: "Based upon the concepts of the Shock Cannon, autocannon variants for this new hard-light based projectiles can be developed as well."
+
+tech_acot_autocannons_6s: "Stellarite Autocannon"
+tech_acot_autocannons_6s_desc: "Based upon the concepts of the Shock Cannon, autocannon variants for this new hard-light based projectiles can be developed as well."
+
+ACOT_AUTOCANNON_1: "Autogun"
+ACOT_AUTOCANNON_1_DESC: "Large-caliber ballistic weapons that fire cased explosive shells. The main advantage of these cannons is their high rate of fire."
+ACOT_AUTOCANNON_2: "Autocannon"
+ACOT_AUTOCANNON_2_DESC: "These upgraded rotary autocannons feature improved tracking and fire control systems. This allows them to maintain an even higher rate of fire."
+ACOT_AUTOCANNON_3: "Advanced Autocannon"
+ACOT_AUTOCANNON_3_DESC: "These upgraded rotary autocannons feature improved tracking and fire control systems. This allows them to maintain an even higher rate of fire."
+ACOT_AUTOCANNON_4: "Ripper Autocannon"
+ACOT_AUTOCANNON_4_DESC: "These upgraded rotary autocannons feature improved tracking and fire control systems. This allows them to maintain an even higher rate of fire."
+ACOT_AUTOCANNON_5: "Stormfire Autocannon"
+ACOT_AUTOCANNON_5_DESC: "Advanced rotary autocannons capable of spewing a cloud of high-explosive shells at a target."
+
+ACOT_AUTOCANNON_6E: "Enigmatic Autocannon"
+ACOT_AUTOCANNON_6E_DESC: "Enigmatic Autocannon uses prototype hard-light projectiles to quickly chew through enemy shields."
+
+ACOT_AUTOCANNON_6S: "Stellarite Autocannon"
+ACOT_AUTOCANNON_6S_DESC: "Stellarite Autocannon uses prototype hard-light projectiles to quickly chew through enemy shields."
+
+
+XS_ACOT_AUTOCANNON_1: "Micro Autogun"
+SMALL_ACOT_AUTOCANNON_1: "Small Autogun"
+MEDIUM_ACOT_AUTOCANNON_1: "Medium Autogun"
+LARGE_ACOT_AUTOCANNON_1: "Large Autogun"
+
+XS_ACOT_AUTOCANNON_2: "Micro Autocannon"
+SMALL_ACOT_AUTOCANNON_2: "Small Autocannon"
+MEDIUM_ACOT_AUTOCANNON_2: "Medium Autocannon"
+LARGE_ACOT_AUTOCANNON_2: "Large Autocannon"
+
+XS_ACOT_AUTOCANNON_3: "Micro Advanced Autocannon"
+SMALL_ACOT_AUTOCANNON_3: "Small Advanced Autocannon"
+MEDIUM_ACOT_AUTOCANNON_3: "Medium Advanced Autocannon"
+LARGE_ACOT_AUTOCANNON_3: "Large Advanced Autocannon"
+
+XS_ACOT_AUTOCANNON_4: "Micro Ripper Autocannon"
+SMALL_ACOT_AUTOCANNON_4: "Small Ripper Autocannon"
+MEDIUM_ACOT_AUTOCANNON_4: "Medium Ripper Autocannon"
+LARGE_ACOT_AUTOCANNON_4: "Large Ripper Autocannon"
+
+XS_ACOT_AUTOCANNON_5: "Small Stormfire Autocannon"
+SMALL_ACOT_AUTOCANNON_5: "Small Stormfire Autocannon"
+MEDIUM_ACOT_AUTOCANNON_5: "Medium Stormfire Autocannon"
+LARGE_ACOT_AUTOCANNON_5: "Large Stormfire Autocannon"
+ 
+XS_ACOT_AUTOCANNON_6E: "Micro Enigmatic Autocannon"
+SMALL_ACOT_AUTOCANNON_6E: "Small Enigmatic Autocannon"
+MEDIUM_ACOT_AUTOCANNON_6E: "Medium Enigmatic Autocannon"
+LARGE_ACOT_AUTOCANNON_6E: "Large Enigmatic Autocannon"
+
+XS_ACOT_AUTOCANNON_6S: "Micro Stellarite Autocannon"
+SMALL_ACOT_AUTOCANNON_6S: "Small Stellarite Autocannon"
+MEDIUM_ACOT_AUTOCANNON_6S: "Medium Stellarite Autocannon"
+LARGE_ACOT_AUTOCANNON_6S: "Large Stellarite Autocannon"
+
+
+####### AL #######
+
+tech_acot_autocannons_al_4: "Ripper Macrocannon"
+tech_acot_autocannons_al_4_desc: "These upgraded rotary autocannons feature improved tracking and fire control systems. This allows them to maintain an even higher rate of fire."
+tech_acot_autocannons_al_5: "Stormfire Macrocannon"
+tech_acot_autocannons_al_5_desc: "Advanced rotary autocannons capable of spewing a cloud of high-explosive shells at a target."
+
+tech_acot_autocannons_al_6e: "Macrocannon"
+tech_acot_autocannons_al_6e_desc: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house rapid-firing autocannons with heavy hard-light projectiles. The massive increase in rate of fire is achieved through sacrifice in weapon's range and tracking capabilities."
+
+tech_acot_autocannons_al_6s: "Macrocannon"
+tech_acot_autocannons_al_6s_desc: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house rapid-firing autocannons with heavy hard-light projectiles. The massive increase in rate of fire is achieved through sacrifice in weapon's range and tracking capabilities."
+
+ACOT_AUTOCANNON_ARTILLERY_4: "Ripper Macrocannon"
+ACOT_AUTOCANNON_ARTILLERY_4_DESC: "Long-Range, upscaled version of the ripper autocannons for use against capital ships.\n\nMinimum Range : 40"
+ACOT_AUTOCANNON_ARTILLERY_5: "Stormfire Macrocannon"
+ACOT_AUTOCANNON_ARTILLERY_5_DESC: "Long-Range, upscaled version of the stormfire autocannons for use against capital ships.\n\nMinimum Range : 40"
+
+ACOT_AUTOCANNON_ARTILLERY_6E: "Slinger Macrocannon"
+ACOT_AUTOCANNON_ARTILLERY_6E_DESC: "Long-Range, upscaled version of the stormfire autocannons for use against capital ships.\n\nMinimum Range : 40"
+
+ACOT_AUTOCANNON_ARTILLERY_6S: "Slinger Macrocannon"
+ACOT_AUTOCANNON_ARTILLERY_6S_DESC: "Long-Range, upscaled version of the stormfire autocannons for use against capital ships.\n\nMinimum Range : 40"
+
+####### XL #######
+
+tech_acot_autocannons_xl_4: "Ripper Supercannon"
+tech_acot_autocannons_xl_4_desc: "These upgraded rotary autocannons feature improved tracking and fire control systems. This allows them to maintain an even higher rate of fire."
+tech_acot_autocannons_xl_5: "Stormfire Supercannon"
+tech_acot_autocannons_xl_5_desc: "Advanced rotary autocannons capable of spewing a cloud of high-explosive shells at a target."
+
+tech_acot_autocannons_xl_6e: "Stormfire Supercannon"
+tech_acot_autocannons_xl_6e_desc: "Advanced rotary autocannons capable of spewing a cloud of high-explosive shells at a target."
+
+tech_acot_autocannons_xl_6s: "Stormfire Supercannon"
+tech_acot_autocannons_xl_6s_desc: "Advanced rotary autocannons capable of spewing a cloud of high-explosive shells at a target."
+
+
+ACOT_AUTOCANNON_XL_4: "Ripper Supercannon"
+ACOT_AUTOCANNON_XL_4_DESC: "Ripper Supercannon"
+ACOT_AUTOCANNON_XL_5: "Stormfire Supercannon"
+ACOT_AUTOCANNON_XL_5_DESC: "Stormfire Supercannon"
+
+ACOT_AUTOCANNON_XL_6E: "Slinger Supercannon"
+ACOT_AUTOCANNON_XL_6E_DESC: "Slinger Supercannon"
+
+ACOT_AUTOCANNON_XL_6S: "Slinger Supercannon"
+ACOT_AUTOCANNON_XL_6S_DESC: "Slinger Supercannon"
+
+
+####### T #######
+
+tech_acot_autocannons_t_5: "Stormfire Megacannon"
+tech_acot_autocannons_t_5_desc: "Advanced rotary autocannons capable of spewing a cloud of high-explosive shells at a target."
+
+tech_acot_autocannons_t_6e: "Stormfire Megacannon"
+tech_acot_autocannons_t_6e_desc: "Advanced rotary autocannons capable of spewing a cloud of high-explosive shells at a target."
+
+tech_acot_autocannons_t_6s: "Stormfire Megacannon"
+tech_acot_autocannons_t_6s_desc: "Advanced rotary autocannons capable of spewing a cloud of high-explosive shells at a target."
+
+ACOT_AUTOCANNON_TITAN_5: "Stormfire Megacannon"
+ACOT_AUTOCANNON_TITAN_5_DESC: "Stormfire Megacannon"
+
+ACOT_AUTOCANNON_TITAN_6E: "Slinger Megacannon"
+ACOT_AUTOCANNON_TITAN_6E_DESC: "Slinger Megacannon"
+
+ACOT_AUTOCANNON_TITAN_6S: "Slinger Megacannon"
+ACOT_AUTOCANNON_TITAN_6S_DESC: "Slinger Megacannon"
+
+ACOT_AUTOCANNON_TITAN_W_5: "Stormfire Megacannon"
+ACOT_AUTOCANNON_TITAN_W_5_DESC: "Stormfire Megacannon"
+
+ACOT_AUTOCANNON_TITAN_W_6E: "Slinger Megacannon"
+ACOT_AUTOCANNON_TITAN_W_6E_DESC: "Slinger Megacannon"
+
+ACOT_AUTOCANNON_TITAN_W_6S: "Slinger Megacannon"
+ACOT_AUTOCANNON_TITAN_W_6S_DESC: "Slinger Megacannon"
+############################################################ WRECKER ############################################################
+
+####### STANDARD #######
+
+tech_acot_wrecker_1: "Gravitic-Catapult System"
+tech_acot_wrecker_1_desc: "Shock Cannon"
+tech_acot_wrecker_2: "Shock Cannon"
+tech_acot_wrecker_2_desc: "Shock Cannon"
+tech_acot_wrecker_3: "Pulverizer Cannon"
+tech_acot_wrecker_3_desc: "Pulverizer Cannon"
+tech_acot_wrecker_4: "Hullbreaker Cannon"
+tech_acot_wrecker_4_desc: "Hullbreaker Cannon"
+tech_acot_wrecker_5: "Hullwrecker Cannon"
+tech_acot_wrecker_5_desc: "Hullwrecker Cannon"
+
+tech_acot_wrecker_6e: "Shock Cannon"
+tech_acot_wrecker_6e_desc: "There is only so far Kinetic weapons can go before we reach the limits. Records indicate that in the past, precursor empires tend to focus less on railgun-technology and more on the ability to generate hard-light rounds that can be fired at moderately high speed, while dealing significant damage, just by the virtue of the rounds being extremely deadly themselves. With advanced guiding systems, the rounds can also be fired from long range without needing to have precise targeting accuracy."
+
+tech_acot_wrecker_6s: "Shock Cannon"
+tech_acot_wrecker_6s_desc: "There is only so far Kinetic weapons can go before we reach the limits. Records indicate that in the past, precursor empires tend to focus less on railgun-technology and more on the ability to generate hard-light rounds that can be fired at moderately high speed, while dealing significant damage, just by the virtue of the rounds being extremely deadly themselves. With advanced guiding systems, the rounds can also be fired from long range without needing to have precise targeting accuracy."
+
+ACOT_WRECKER_1: "Grav Cannon"
+ACOT_WRECKER_1_DESC: "Pre-FTL Anti-Hull Ballistic Cannon modified to work in space. The shell explodes into multiple shards that can damage critical strucutres within a ship, but are ineffective against kinetic barriers."
+ACOT_WRECKER_2: "Shock Cannon"
+ACOT_WRECKER_2_DESC: "Upgrades to the pre-FTL AHB to fit the new standards for space warfare, the Shock Cannon excels at penetrating enemy shield barriers and, provided that the kinetic barriers are broken through, wreck enemy internal systems."
+ACOT_WRECKER_3: "Pulverizer Cannon"
+ACOT_WRECKER_3_DESC: "Advanced engineerings allow for even deadlier shells to be fired for improved combat effects."
+ACOT_WRECKER_4: "Hullbreaker Cannon"
+ACOT_WRECKER_4_DESC: "Fourth-Generation AHB Cannons that are even stronger without sacrificing speed or range."
+ACOT_WRECKER_5: "Hullwrecker Cannon"
+ACOT_WRECKER_5_DESC: "Wreck'em good."
+
+ACOT_WRECKER_6E: "Enigmatic Shock Cannon"
+ACOT_WRECKER_6E_DESC: "Shock Cannon relies less on the ability to fire fast projectile like Gauss Cannons , and more on the actual ability to generate powerful rounds that can hit the targets."
+
+ACOT_WRECKER_6S: "Stellarite Shock Cannon"
+ACOT_WRECKER_6S_DESC: "Shock Cannon relies less on the ability to fire fast projectile like Gauss Cannons , and more on the actual ability to generate powerful rounds that can hit the targets."
+
+
+XS_ACOT_WRECKER_1: "Micro Grav Cannon"
+SMALL_ACOT_WRECKER_1: "Small Grav Cannon"
+MEDIUM_ACOT_WRECKER_1: "Medium Grav Cannon"
+LARGE_ACOT_WRECKER_1: "Large Grav Cannon"
+
+XS_ACOT_WRECKER_2: "Micro Shock Cannon"
+SMALL_ACOT_WRECKER_2: "Small Shock Cannon"
+MEDIUM_ACOT_WRECKER_2: "Medium Shock Cannon"
+LARGE_ACOT_WRECKER_2: "Large Shock Cannon"
+
+XS_ACOT_WRECKER_3: "Micro Pulverizer Cannon"
+SMALL_ACOT_WRECKER_3: "Small Pulverizer Cannon"
+MEDIUM_ACOT_WRECKER_3: "Medium Pulverizer Cannon"
+LARGE_ACOT_WRECKER_3: "Large Pulverizer Cannon"
+
+XS_ACOT_WRECKER_4: "Micro Hullbreaker Cannon"
+SMALL_ACOT_WRECKER_4: "Small Hullbreaker Cannon"
+MEDIUM_ACOT_WRECKER_4: "Medium Hullbreaker Cannon"
+LARGE_ACOT_WRECKER_4: "Large Hullbreaker Cannon"
+
+XS_ACOT_WRECKER_5: "Micro Hullwrecker Cannon"
+SMALL_ACOT_WRECKER_5: "Small Hullwrecker Cannon"
+MEDIUM_ACOT_WRECKER_5: "Medium Hullwrecker Cannon"
+LARGE_ACOT_WRECKER_5: "Large Hullwrecker Cannon"
+
+XS_ACOT_WRECKER_6E: "Micro Shock Cannon"
+SMALL_ACOT_WRECKER_6E: "Small Shock Cannon"
+MEDIUM_ACOT_WRECKER_6E: "Medium Shock Cannon"
+LARGE_ACOT_WRECKER_6E: "Large Shock Cannon"
+
+XS_ACOT_WRECKER_6S: "Micro Shock Cannon"
+SMALL_ACOT_WRECKER_6S: "Small Shock Cannon"
+MEDIUM_ACOT_WRECKER_6S: "Medium Shock Cannon"
+LARGE_ACOT_WRECKER_6S: "Large Shock Cannon"
+
+
+####### AL #######
+
+#tech_kinetic_artillery_1: "Graviton Battery"
+#tech_kinetic_artillery_1_desc: "Very long-range artillery capable of hurling powerful rounds over extreme distances with a large degree of accuracy."
+#tech_kinetic_artillery_2: "Graviton Artillery"
+#tech_kinetic_artillery_2_desc: "An even more powerful long-range, ship-based artillery cannon, equipped with a new barrel and an upgraded fire control computer."
+
+tech_acot_wrecker_al_6e: "Prototype Hard-Light Artillery"
+tech_acot_wrecker_al_6e_desc: "It is time we finally begin preparations for actual long-range hard-light-based artillery systems. The first prototype should be ready for field testing soon."
+
+tech_acot_wrecker_al_6s: "Prototype Hard-Light Artillery"
+tech_acot_wrecker_al_6s_desc: "It is time we finally begin preparations for actual long-range hard-light-based artillery systems. The first prototype should be ready for field testing soon."
+
+ACOT_WRECKER_ARTILLERY_4: "Hullbreaker Graviton Battery"
+ACOT_WRECKER_ARTILLERY_4_DESC: "Very long-range artillery capable of hurling powerful rounds over extreme distances with a large degree of accuracy."
+ACOT_WRECKER_ARTILLERY_5: "Hullwrecker Graviton Artillery"
+ACOT_WRECKER_ARTILLERY_5_DESC: "An even more powerful long-range, ship-based artillery cannon, equipped with a new barrel and an upgraded fire control computer."
+
+ACOT_WRECKER_ARTILLERY_6E: "Enigmatic Shock Artillery"
+ACOT_WRECKER_ARTILLERY_6E_DESC: "Prototype Hard-Light Artilleries as the name suggests, fire projectiles made out of hard-light materials."
+
+ACOT_WRECKER_ARTILLERY_6S: "Stellarite Bright Artillery"
+ACOT_WRECKER_ARTILLERY_6S_DESC: "Prototype Hard-Light Artilleries as the name suggests, fire projectiles made out of hard-light materials."
+
+
+####### XL #######
+
+tech_acot_wrecker_xl_4: "Graviton Crusher"
+tech_acot_wrecker_xl_4_desc: "Graviton Crusher"
+tech_acot_wrecker_xl_5: "Graviton Pulverizer"
+tech_acot_wrecker_xl_5_desc: "Graviton Pulverizer"
+
+tech_acot_wrecker_xl_6e: "Graviton Pulverizer"
+tech_acot_wrecker_xl_6e_desc: "Graviton Pulverizer"
+
+tech_acot_wrecker_xl_6s: "Graviton Pulverizer"
+tech_acot_wrecker_xl_6s_desc: "Graviton Pulverizer"
+
+ACOT_WRECKER_XL_4: "Hullbreaker Graviton Crusher"
+ACOT_WRECKER_XL_4_DESC: "Hullbreaker X"
+ACOT_WRECKER_XL_5: "Hullwrecker Graviton Pulverizer"
+ACOT_WRECKER_XL_5_DESC: "Hullwrecker X"
+
+ACOT_WRECKER_XL_6E: "HLA X"
+ACOT_WRECKER_XL_6E_DESC: "HLA X"
+ 
+ACOT_WRECKER_XL_6S: "HLA X"
+ACOT_WRECKER_XL_6S_DESC: "HLA X"
+
+####### T #######
+
+tech_acot_wrecker_t_5: "Titan Breaker"
+tech_acot_wrecker_t_5_desc: "Titan Hullbreaker"
+
+tech_acot_wrecker_t_6e: "Titan Breaker"
+tech_acot_wrecker_t_6e_desc: "Titan Hullbreaker"
+
+tech_acot_wrecker_t_6s: "Titan Breaker"
+tech_acot_wrecker_t_6s_desc: "Titan Hullbreaker"
+
+
+ACOT_WRECKER_TITAN_5: "Titan Breaker"
+ACOT_WRECKER_TITAN_5_DESC: "Titan Breaker"
+
+ACOT_WRECKER_TITAN_6E: "Juggernaut Destroyer"
+ACOT_WRECKER_TITAN_6E_DESC: "Juggernaut Destroyer"
+ACOT_WRECKER_TITAN_7E: "Colossus Eater"
+ACOT_WRECKER_TITAN_7E_DESC: "Colossus Eater"
+ACOT_WRECKER_TITAN_8E: "Behemoth Hunter"
+ACOT_WRECKER_TITAN_8E_DESC: "Behemoth Hunter"
+ACOT_WRECKER_TITAN_9E: "§RGod Splitter"
+ACOT_WRECKER_TITAN_9E_DESC: "§RGod Splitter"
+
+ACOT_WRECKER_TITAN_6S: "Juggernaut Destroyer"
+ACOT_WRECKER_TITAN_6S_DESC: "Juggernaut Destroyer"
+ACOT_WRECKER_TITAN_7S: "Colossus Eater"
+ACOT_WRECKER_TITAN_7S_DESC: "Colossus Eater"
+ACOT_WRECKER_TITAN_8S: "Behemoth Hunter"
+ACOT_WRECKER_TITAN_8S_DESC: "Behemoth Hunter"
+ACOT_WRECKER_TITAN_9S: "§RGod Splitter"
+ACOT_WRECKER_TITAN_9S_DESC: "§RGod Splitter"
+
+ACOT_WRECKER_TITAN_W_5: "Titan Breaker"
+ACOT_WRECKER_TITAN_W_5_DESC: "Titan Breaker"
+
+ACOT_WRECKER_TITAN_W_6E: "Juggernaut Destroyer"
+ACOT_WRECKER_TITAN_W_6E_DESC: "Juggernaut Destroyer"
+
+ACOT_WRECKER_TITAN_W_6S: "Juggernaut Destroyer"
+ACOT_WRECKER_TITAN_W_6S_DESC: "Juggernaut Destroyer"
+
+############################################################ PD ############################################################
+
+#tech_pd_tracking_1: "AM-PDS"
+#tech_pd_tracking_1_desc: "The best defense is a good offense."
+#tech_pd_tracking_2: "Interlinked Support Systems"
+#tech_pd_tracking_2_desc: "Arrays of defensive armaments prove much more effective than independent countermeasures."
+#tech_pd_tracking_3: "Predictive Algorithms"
+#tech_pd_tracking_3_desc: "Advanced prediction greatly increases the accuracy of active countermeasure systems."
+tech_acot_pd_tracking_4: "Interlinked Support Systems"
+tech_acot_pd_tracking_4_desc: "Arrays of defensive armaments prove much more effective than independent countermeasures."
+tech_acot_pd_tracking_5: "Predictive Algorithms"
+tech_acot_pd_tracking_5_desc: "Advanced prediction greatly increases the accuracy of active countermeasure systems."
+
+tech_acot_pd_tracking_6e: "Enigmatic Point-Defense"
+tech_acot_pd_tracking_6e_desc: "We are getting closer to understanding the various technological marvels of the past, the pulse beams can be modified to serve as potent point defenses suitable for screening missiles and strikecrafts."
+
+tech_acot_pd_tracking_6s: "Enigmatic Point-Defense"
+tech_acot_pd_tracking_6s_desc: "We are getting closer to understanding the various technological marvels of the past, the pulse beams can be modified to serve as potent point defenses suitable for screening missiles and strikecrafts."
+
+ACOT_POINT_DEFENSE_1: "AM Point-Defense System"
+ACOT_POINT_DEFENSE_1_DESC: "Hull-mounted countermeasures against missiles and strike craft are often essential for larger and slower military vessels."
+XS_ACOT_POINT_DEFENSE_1: "AM Micro Point-Defense System"
+SMALL_ACOT_POINT_DEFENSE_1: "AM Point-Defense System"
+MEDIUM_ACOT_POINT_DEFENSE_1: "AM Point-Defense System"
+LARGE_ACOT_POINT_DEFENSE_1: "AM Point-Defense System"
+
+ACOT_POINT_DEFENSE_2: "AAM Point-Defense System"
+ACOT_POINT_DEFENSE_2_DESC: "Updated prediction algorithms improves tracking and point-defense efficiency."
+XS_ACOT_POINT_DEFENSE_2: "AAM Micro Point-Defense System"
+SMALL_ACOT_POINT_DEFENSE_2: "AAM Point-Defense System"
+MEDIUM_ACOT_POINT_DEFENSE_2: "AAM Point-Defense System"
+LARGE_ACOT_POINT_DEFENSE_2: "AAM Point-Defense System"
+
+ACOT_POINT_DEFENSE_3: "Shielder Point-Defense System"
+ACOT_POINT_DEFENSE_3_DESC: "A wider range of available ammunition types vastly improves the effective interception rate of incoming threats."
+XS_ACOT_POINT_DEFENSE_3: "Shielder Micro Point-Defense System"
+SMALL_ACOT_POINT_DEFENSE_3: "Shielder Point-Defense System"
+MEDIUM_ACOT_POINT_DEFENSE_3: "Shielder Point-Defense System"
+LARGE_ACOT_POINT_DEFENSE_3: "Shielder Point-Defense System"
+
+ACOT_POINT_DEFENSE_4: "Barrier Point-Defense System"
+ACOT_POINT_DEFENSE_4_DESC: "A wider range of available ammunition types vastly improves the effective interception rate of incoming threats."
+XS_ACOT_POINT_DEFENSE_4: "Barrier Micro Point-Defense System"
+SMALL_ACOT_POINT_DEFENSE_4: "Barrier Point-Defense System"
+MEDIUM_ACOT_POINT_DEFENSE_4: "Barrier Point-Defense System"
+LARGE_ACOT_POINT_DEFENSE_4: "Barrier Point-Defense System"
+
+ACOT_POINT_DEFENSE_5: "Guardian Point-Defense System"
+ACOT_POINT_DEFENSE_5_DESC: "A wider range of available ammunition types vastly improves the effective interception rate of incoming threats."
+XS_ACOT_POINT_DEFENSE_5: "Guardian Micro Point-Defense System"
+SMALL_ACOT_POINT_DEFENSE_5: "Guardian Point-Defense System"
+MEDIUM_ACOT_POINT_DEFENSE_5: "Guardian Point-Defense System"
+LARGE_ACOT_POINT_DEFENSE_5: "Guardian Point-Defense System"
+
+ACOT_POINT_DEFENSE_6E: "Enigmatic Point-Defense"
+ACOT_POINT_DEFENSE_6E_DESC: "Enigmatic Point-Defense fires a concentrated beam of energy to neutralize enemy missiles."
+XS_ACOT_POINT_DEFENSE_6E: "Enigmatic Micro Point-Defense"
+SMALL_ACOT_POINT_DEFENSE_6E: "Enigmatic Point-Defense"
+MEDIUM_ACOT_POINT_DEFENSE_6E: "Enigmatic Point-Defense"
+LARGE_ACOT_POINT_DEFENSE_6E: "Enigmatic Point-Defense"
+
+ACOT_POINT_DEFENSE_6S: "Stellarite Point-Defense"
+ACOT_POINT_DEFENSE_6S_DESC: "Stellarite Point-Defense fires a concentrated beam of energy to neutralize enemy missiles."
+XS_ACOT_POINT_DEFENSE_6S: "Stellarite Micro Point-Defense"
+SMALL_ACOT_POINT_DEFENSE_6S: "Stellarite Point-Defense"
+MEDIUM_ACOT_POINT_DEFENSE_6S: "Stellarite Point-Defense"
+LARGE_ACOT_POINT_DEFENSE_6S: "Stellarite Point-Defense"
+
+############################################################ FLAK ############################################################
+
+#tech_flak_batteries_1: "Sentry Gun"
+#tech_flak_batteries_1_desc: "Gun batteries that fire shrapnel rounds at close range. They are particularly lethal to enemy strike craft, but can also defend against missiles."
+#tech_flak_batteries_2: "Improved Sentry Gun"
+#tech_flak_batteries_2_desc: "Upgraded flak batteries with new, more powerful shrapnel rounds."
+#tech_flak_batteries_3: "Sentry Cannon"
+#tech_flak_batteries_3_desc: "Predictive tracking algorithms and even more powerful rounds make these batteries incredibly lethal to enemy strike craft."
+tech_acot_flak_batteries_4: "Advanced Sentry Cannon"
+tech_acot_flak_batteries_4_desc: "Advanced Sentry Cannon"
+tech_acot_flak_batteries_5: "Guardian Sentry Cannon"
+tech_acot_flak_batteries_5_desc: "Guardian Sentry Cannon"
+
+tech_acot_flak_batteries_6e: "Delphic Targeting Computers"
+tech_acot_flak_batteries_6e_desc: "Updating our current kinetic defenses with powerful and enigmatic delphic combat computers will greatly make the system much more capable than the old Flak Cannons."
+
+tech_acot_flak_batteries_6s: "Delphic Targeting Computers"
+tech_acot_flak_batteries_6s_desc: "Updating our current kinetic defenses with powerful and enigmatic delphic combat computers will greatly make the system much more capable than the old Flak Cannons."
+
+ACOT_FLAK_CANNON_1: "Sentry Gun"
+ACOT_FLAK_CANNON_1_DESC: "$tech_flak_batteries_1_desc$"
+XS_ACOT_FLAK_CANNON_1: "Micro Sentry Gun"
+SMALL_ACOT_FLAK_CANNON_1: "Sentry Gun"
+MEDIUM_ACOT_FLAK_CANNON_1: "Sentry Gun"
+LARGE_ACOT_FLAK_CANNON_1: "Sentry Gun"
+
+ACOT_FLAK_CANNON_2: "Improved Sentry Gun"
+ACOT_FLAK_CANNON_2_DESC: "$tech_flak_batteries_2_desc$"
+XS_ACOT_FLAK_CANNON_2: "Micro Improved Sentry Gun"
+SMALL_ACOT_FLAK_CANNON_2: "Improved Sentry Gun"
+MEDIUM_ACOT_FLAK_CANNON_2: "Improved Sentry Gun"
+LARGE_ACOT_FLAK_CANNON_2: "Improved Sentry Gun"
+
+ACOT_FLAK_CANNON_3: "Sentry Cannon"
+ACOT_FLAK_CANNON_3_DESC: "$tech_flak_batteries_3_desc$"
+XS_ACOT_FLAK_CANNON_3: "Micro Sentry Cannon"
+SMALL_ACOT_FLAK_CANNON_3: "Sentry Cannon"
+MEDIUM_ACOT_FLAK_CANNON_3: "Sentry Cannon"
+LARGE_ACOT_FLAK_CANNON_3: "Sentry Cannon"
+
+ACOT_FLAK_CANNON_4: "Advanced Sentry Cannon"
+ACOT_FLAK_CANNON_4_DESC: "$tech_flak_batteries_3_desc$"
+XS_ACOT_FLAK_CANNON_4: "Micro Advanced Sentry Cannon"
+SMALL_ACOT_FLAK_CANNON_4: "Advanced Sentry Cannon"
+MEDIUM_ACOT_FLAK_CANNON_4: "Advanced Sentry Cannon"
+LARGE_ACOT_FLAK_CANNON_4: "Advanced Sentry Cannon"
+
+ACOT_FLAK_CANNON_5: "Guardian Sentry Cannon"
+ACOT_FLAK_CANNON_5_DESC: "$tech_flak_batteries_3_desc$"
+XS_ACOT_FLAK_CANNON_5: "Micro Guardian Sentry Cannon"
+SMALL_ACOT_FLAK_CANNON_5: "Guardian Sentry Cannon"
+MEDIUM_ACOT_FLAK_CANNON_5: "Guardian Sentry Cannon"
+LARGE_ACOT_FLAK_CANNON_5: "Guardian Sentry Cannon"
+
+ACOT_FLAK_CANNON_6E: "Enigmatic Sentry Cannon"
+ACOT_FLAK_CANNON_6E_DESC: "Powerful kinetic defense systems that excel at mowing down pesky strike crafts and missiles."
+XS_ACOT_FLAK_CANNON_6E: "Micro Enigmatic Sentry Cannon"
+SMALL_ACOT_FLAK_CANNON_6E: "Enigmatic Sentry Cannon"
+MEDIUM_ACOT_FLAK_CANNON_6E: "Enigmatic Sentry Cannon"
+LARGE_ACOT_FLAK_CANNON_6E: "Enigmatic Sentry Cannon"
+
+ACOT_FLAK_CANNON_6S: "Stellarite Sentry Cannon"
+ACOT_FLAK_CANNON_6S_DESC: "Powerful kinetic defense systems that excel at mowing down pesky strike crafts and missiles."
+XS_ACOT_FLAK_CANNON_6S: "Micro Stellarite Sentry Cannon"
+SMALL_ACOT_FLAK_CANNON_6S: "Stellarite Sentry Cannon"
+MEDIUM_ACOT_FLAK_CANNON_6S: "Stellarite Sentry Cannon"
+LARGE_ACOT_FLAK_CANNON_6S: "Stellarite Sentry Cannon"
+
+############################################################ CCM ############################################################
+
+tech_acot_ccm_1: "Countermeasure Missiles"
+tech_acot_ccm_1_desc: "Gun batteries that fire shrapnel rounds at close range. They are particularly lethal to enemy strike craft, but can also defend against missiles."
+tech_acot_ccm_2: "Improved Countermeasure Missiles"
+tech_acot_ccm_2_desc: "Upgraded flak batteries with new, more powerful shrapnel rounds."
+tech_acot_ccm_3: "Countermeasure Missiles"
+tech_acot_ccm_3_desc: "Predictive tracking algorithms and even more powerful rounds make these batteries incredibly lethal to enemy strike craft."
+tech_acot_ccm_4: "Advanced Countermeasure Missiles"
+tech_acot_ccm_4_desc: "Advanced Countermeasure Missiles"
+tech_acot_ccm_5: "Guardian Countermeasure Missiles"
+tech_acot_ccm_5_desc: "Guardian Countermeasure Missiles"
+
+tech_acot_ccm_6e: "Delphic Targeting Computers"
+tech_acot_ccm_6e_desc: "Updating our current kinetic defenses with powerful and enigmatic delphic combat computers will greatly make the system much more capable than the old Flak Cannons."
+
+tech_acot_ccm_6s: "Delphic Targeting Computers"
+tech_acot_ccm_6s_desc: "Updating our current kinetic defenses with powerful and enigmatic delphic combat computers will greatly make the system much more capable than the old Flak Cannons."
+
+
+ACOT_CCM_1: "Countermeasure Missiles"
+ACOT_CCM_1_DESC: "$tech_acot_ccm_1_desc$"
+XS_ACOT_CCM_1: "Micro Countermeasure Missiles"
+SMALL_ACOT_CCM_1: "Countermeasure Missiles"
+MEDIUM_ACOT_CCM_1: "Countermeasure Missiles"
+LARGE_ACOT_CCM_1: "Countermeasure Missiles"
+
+ACOT_CCM_2: "Improved Countermeasure Missiles"
+ACOT_CCM_2_DESC: "$tech_acot_ccm_2_desc$"
+XS_ACOT_CCM_2: "Micro Improved Countermeasure Missiles"
+SMALL_ACOT_CCM_2: "Improved Countermeasure Missiles"
+MEDIUM_ACOT_CCM_2: "Improved Countermeasure Missiles"
+LARGE_ACOT_CCM_2: "Improved Countermeasure Missiles"
+
+ACOT_CCM_3: "Countermeasure Missiles"
+ACOT_CCM_3_DESC: "$tech_acot_ccm_3_desc$"
+XS_ACOT_CCM_3: "Micro Countermeasure Missiles"
+SMALL_ACOT_CCM_3: "Countermeasure Missiles"
+MEDIUM_ACOT_CCM_3: "Countermeasure Missiles"
+LARGE_ACOT_CCM_3: "Countermeasure Missiles"
+
+ACOT_CCM_4: "Advanced Countermeasure Missiles"
+ACOT_CCM_4_DESC: "$tech_acot_ccm_3_desc$"
+XS_ACOT_CCM_4: "Micro Advanced Countermeasure Missiles"
+SMALL_ACOT_CCM_4: "Advanced Countermeasure Missiles"
+MEDIUM_ACOT_CCM_4: "Advanced Countermeasure Missiles"
+LARGE_ACOT_CCM_4: "Advanced Countermeasure Missiles"
+
+ACOT_CCM_5: "Guardian Countermeasure Missiles"
+ACOT_CCM_5_DESC: "$tech_acot_ccm_3_desc$"
+XS_ACOT_CCM_5: "Micro Guardian Countermeasure Missiles"
+SMALL_ACOT_CCM_5: "Guardian Countermeasure Missiles"
+MEDIUM_ACOT_CCM_5: "Guardian Countermeasure Missiles"
+LARGE_ACOT_CCM_5: "Guardian Countermeasure Missiles"
+
+ACOT_CCM_6E: "Enigmatic Countermeasure Missiles"
+ACOT_CCM_6E_DESC: "Powerful kinetic defense systems that excel at mowing down pesky strike crafts and missiles."
+XS_ACOT_CCM_6E: "Micro Enigmatic Countermeasure Missiles"
+SMALL_ACOT_CCM_6E: "Enigmatic Countermeasure Missiles"
+MEDIUM_ACOT_CCM_6E: "Enigmatic Countermeasure Missiles"
+LARGE_ACOT_CCM_6E: "Enigmatic Countermeasure Missiles"
+
+
+ACOT_CCM_6S: "Stellarite Countermeasure Missiles"
+ACOT_CCM_6S_DESC: "Powerful kinetic defense systems that excel at mowing down pesky strike crafts and missiles."
+XS_ACOT_CCM_6S: "Micro Stellarite Countermeasure Missiles"
+SMALL_ACOT_CCM_6S: "Stellarite Countermeasure Missiles"
+MEDIUM_ACOT_CCM_6S: "Stellarite Countermeasure Missiles"
+LARGE_ACOT_CCM_6S: "Stellarite Countermeasure Missiles"
+
+############################################################ACOT_DESTABLIZER ############################################################
+
+ACOT_DESTABLIZER_1: "Illumination Flares"
+ACOT_DESTABLIZER_1_DESC: "Illumination Flares"
+ACOT_DESTABLIZER_2: "Anti-Countermeasure Flares"
+ACOT_DESTABLIZER_2_DESC: "Anti-Countermeasure Flares"
+ACOT_DESTABLIZER_3: "Protective Flares"
+ACOT_DESTABLIZER_3_DESC: "Protective Flares"
+ACOT_DESTABLIZER_4: "Guardian Flares"
+ACOT_DESTABLIZER_4_DESC: "Guardian Flares"
+ACOT_DESTABLIZER_5: "Replicant Flares"
+ACOT_DESTABLIZER_5_DESC: "Replicant Flares"
+
+
+############################################################ MISSILES ############################################################
+
+tech_acot_weapon_explosive: "Explosive And Tracking Systems"
+tech_acot_weapon_explosive_desc: "Explosive And Tracking Systems"
+
+tech_acot_weapon_explosive_2: "Advanced Explosive Targeting System"
+tech_acot_weapon_explosive_2_desc: "Advanced Explosive Targeting System"
+
+tech_acot_weapon_explosive_3: "Replicant Reignition Targeting System"
+tech_acot_weapon_explosive_3_desc: "Replicant Reignition Targeting System"
+
+tech_acot_weapon_explosive_6e: "Replicant Reignition Targeting System"
+tech_acot_weapon_explosive_6e_desc: "Replicant Reignition Targeting System"
+
+tech_acot_weapon_explosive_6s: "Replicant Reignition Targeting System"
+tech_acot_weapon_explosive_6s_desc: "Replicant Reignition Targeting System"
+
+
+ # Missile Branch
+#tech_missiles_1: "Disruption Missiles"
+#tech_missiles_1_desc: "Space-to-space missiles equipped with high-yield nuclear warheads. Although based on old pre-space technology, these crude fire-and-forget weapons can be surprisingly effective at range."
+#tech_missiles_2: "EMP Missiles"
+#tech_missiles_2_desc: "These updated space-to-space missiles have more powerful fusion warheads and improved flight performance."
+#tech_missiles_3: "Saboteur Missiles"
+#tech_missiles_3_desc: "Advanced missiles equipped with very powerful antimatter warheads. A new and improved guidance system gives them a better chance of finding their targets."
+#tech_missiles_4: "Havoc Missiles"
+#tech_missiles_4_desc: "The latest version of space-to-space missile, this upgraded variant has an immensely powerful warhead that draws its energy from a zero point vacuum."
+#tech_missiles_5: "Avalanche Missiles"
+#tech_missiles_5_desc: "These highly advanced missiles are equipped with limited onboard AI pilots that substantially improve their performance and ability to track targets."
+
+tech_acot_missiles_6e: "Ghost Missiles"
+tech_acot_missiles_6e_desc: "Marauder Missiles can be upgraded into Ghost Missiles which have stronger materials and higher explosive yields."
+
+tech_acot_missiles_6s: "Searing Missiles"
+tech_acot_missiles_6s_desc: "Marauder Missiles can be upgraded into Ghost Missiles which have stronger materials and higher explosive yields."
+
+ACOT_MISSILE_1: "Disruption Missiles"
+ACOT_MISSILE_1_DESC: "Space-to-space missiles equipped with high-yield nuclear warheads. Although based on old pre-space technology, these crude fire-and-forget weapons can be surprisingly effective at range."
+ACOT_MISSILE_2: "EMP Missiles"
+ACOT_MISSILE_2_DESC: "These updated space-to-space missiles have more powerful fusion warheads and improved flight performance."
+ACOT_MISSILE_3: "Saboteur Missiles"
+ACOT_MISSILE_3_DESC: "Advanced missiles equipped with very powerful antimatter warheads. A new and improved guidance system gives them a better chance of finding their targets."
+ACOT_MISSILE_4: "Havoc Missiles"
+ACOT_MISSILE_4_DESC: "The latest version of space-to-space missile, this upgraded variant has an immensely powerful warhead that draws its energy from a zero point vacuum."
+ACOT_MISSILE_5: "Avalanche Missiles"
+ACOT_MISSILE_5_DESC: "These highly advanced missiles are equipped with limited onboard AI pilots that substantially improve their performance and ability to track targets."
+
+ACOT_MISSILE_6E: "Ghost Missiles"
+ACOT_MISSILE_6E_DESC: "Ghost Missiles are stronger than Marauder Missiles, well they are Ghosts, not Reapers or Marines. They should beat Marauders."
+
+ACOT_MISSILE_6S: "Searing Missiles"
+ACOT_MISSILE_6S_DESC: "Ghost Missiles are stronger than Marauder Missiles, well they are Ghosts, not Reapers or Marines. They should beat Marauders."
+
+
+XS_ACOT_MISSILE_1: "Disruption Micro Missiles"
+SMALL_ACOT_MISSILE_1: "Disruption Missiles"
+MEDIUM_ACOT_MISSILE_1: "Twin Disruption Missiles"
+LARGE_ACOT_MISSILE_1: "Quad Disruption Missiles"
+
+XS_ACOT_MISSILE_2: "EMP Micro Missiles"
+SMALL_ACOT_MISSILE_2: "EMP Missiles"
+MEDIUM_ACOT_MISSILE_2: "Twin EMP Missiles"
+LARGE_ACOT_MISSILE_2: "Quad EMP Missiles"
+
+XS_ACOT_MISSILE_3: "Saboteur Micro Missiles"
+SMALL_ACOT_MISSILE_3: "Saboteur Missiles"
+MEDIUM_ACOT_MISSILE_3: "Twin Saboteur Missiles"
+LARGE_ACOT_MISSILE_3: "Quad Saboteur Missiles"
+
+XS_ACOT_MISSILE_4: "Havoc Micro Missiles"
+SMALL_ACOT_MISSILE_4: "Havoc Missiles"
+MEDIUM_ACOT_MISSILE_4: "Twin Havoc Missiles"
+LARGE_ACOT_MISSILE_4: "Quad Havoc Missiles"
+
+XS_ACOT_MISSILE_5: "Avalanche Micro Missiles"
+SMALL_ACOT_MISSILE_5: "Avalanche Missiles"
+MEDIUM_ACOT_MISSILE_5: "Twin Avalanche Missiles"
+LARGE_ACOT_MISSILE_5: "Quad Avalanche Missiles"
+
+XS_ACOT_MISSILE_6E: "Ghost Micro Missiles"
+SMALL_ACOT_MISSILE_6E: "Ghost Missiles"
+MEDIUM_ACOT_MISSILE_6E: "Twin Ghost Missiles"
+LARGE_ACOT_MISSILE_6E: "Quad Ghost Missiles"
+
+XS_ACOT_MISSILE_6S: "Ghost Micro Missiles"
+SMALL_ACOT_MISSILE_6S: "Ghost Missiles"
+MEDIUM_ACOT_MISSILE_6S: "Twin Ghost Missiles"
+LARGE_ACOT_MISSILE_6S: "Quad Ghost Missiles"
+
+
+tech_acot_missiles_al_4: "Experimental Barrage Systems"
+tech_acot_missiles_al_4_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+tech_acot_missiles_al_5: "Experimental Barrage Systems"
+tech_acot_missiles_al_5_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+
+tech_acot_missiles_al_6e: "Experimental Barrage Systems"
+tech_acot_missiles_al_6e_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+
+tech_acot_missiles_al_6s: "Experimental Barrage Systems"
+tech_acot_missiles_al_6s_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+
+
+ACOT_MISSILE_AL_4: "Havoc MRLS"
+ACOT_MISSILE_AL_4_DESC: "Havoc MRLS"
+ACOT_MISSILE_AL_5: "Avalaunche MRLS"
+ACOT_MISSILE_AL_5_DESC: "Avalaunche MRLS"
+
+ACOT_MISSILE_AL_6E: "Avalaunche MRLS"
+ACOT_MISSILE_AL_6E_DESC: "Avalaunche MRLS"
+
+ACOT_MISSILE_AL_6S: "Avalaunche MRLS"
+ACOT_MISSILE_AL_6S_DESC: "Avalaunche MRLS"
+
+
+############ XL
+
+tech_acot_missiles_xl_4: "Experimental Barrage Systems"
+tech_acot_missiles_xl_4_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+tech_acot_missiles_xl_5: "Experimental Barrage Systems"
+tech_acot_missiles_xl_5_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+
+tech_acot_missiles_xl_6e: "Experimental Barrage Systems"
+tech_acot_missiles_xl_6e_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+
+tech_acot_missiles_xl_6s: "Experimental Barrage Systems"
+tech_acot_missiles_xl_6s_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+
+ACOT_MISSILE_XL_4: "Havoc Tomahawke"
+ACOT_MISSILE_XL_4_DESC: "Havoc Tomahawke"
+ACOT_MISSILE_XL_5: "Avalaunche Tomahawke"
+ACOT_MISSILE_XL_5_DESC: "Avalaunche Tomahawke"
+
+ACOT_MISSILE_XL_6E: "Avalaunche Tomahawke"
+ACOT_MISSILE_XL_6E_DESC: "Avalaunche Tomahawke"
+
+ACOT_MISSILE_XL_6S: "Avalaunche Tomahawke"
+ACOT_MISSILE_XL_6S_DESC: "Avalaunche Tomahawke"
+
+tech_acot_missiles_t_5: "Experimental Barrage Systems"
+tech_acot_missiles_t_5_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+ACOT_MISSILE_T_5: "Avalaunche Titan Warhead"
+ACOT_MISSILE_T_5_DESC: "Avalaunche Titan Warhead"
+ACOT_MISSILE_T_W_5: "Avalaunche Titan Warhead"
+ACOT_MISSILE_T_W_5_DESC: "Avalaunche Titan Warhead"
+
+tech_acot_missiles_t_6e: "Experimental Barrage Systems"
+tech_acot_missiles_t_6e_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+ACOT_MISSILE_T_6E: "Avalaunche Titan Warhead"
+ACOT_MISSILE_T_6E_DESC: "Avalaunche Titan Warhead"
+ACOT_MISSILE_T_W_6E: "Avalaunche Titan Warhead"
+ACOT_MISSILE_T_W_6E_DESC: "Avalaunche Titan Warhead"
+
+tech_acot_missiles_t_6s: "Experimental Barrage Systems"
+tech_acot_missiles_t_6s_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+ACOT_MISSILE_T_6S: "Avalaunche Titan Warhead"
+ACOT_MISSILE_T_6S_DESC: "Avalaunche Titan Warhead"
+ACOT_MISSILE_T_W_6S: "Avalaunche Titan Warhead"
+ACOT_MISSILE_T_W_6S_DESC: "Avalaunche Titan Warhead"
+
+############################################################ SEEKER ############################################################
+
+ # Missile Branch
+tech_acot_seeker_1: "Disruption Missiles"
+tech_acot_seeker_1_desc: "Space-to-space missiles equipped with high-yield nuclear warheads. Although based on old pre-space technology, these crude fire-and-forget weapons can be surprisingly effective at range."
+tech_acot_seeker_2: "EMP Missiles"
+tech_acot_seeker_2_desc: "These updated space-to-space missiles have more powerful fusion warheads and improved flight performance."
+tech_acot_seeker_3: "Saboteur Missiles"
+tech_acot_seeker_3_desc: "Advanced missiles equipped with very powerful antimatter warheads. A new and improved guidance system gives them a better chance of finding their targets."
+tech_acot_seeker_4: "Havoc Missiles"
+tech_acot_seeker_4_desc: "The latest version of space-to-space missile, this upgraded variant has an immensely powerful warhead that draws its energy from a zero point vacuum."
+tech_acot_seeker_5: "Avalanche Missiles"
+tech_acot_seeker_5_desc: "These highly advanced missiles are equipped with limited onboard AI pilots that substantially improve their performance and ability to track targets."
+
+tech_acot_seeker_6e: "Ghost Missiles"
+tech_acot_seeker_6e_desc: "Marauder Missiles can be upgraded into Ghost Missiles which have stronger materials and higher explosive yields."
+
+tech_acot_seeker_6s: "Ghost Missiles"
+tech_acot_seeker_6s_desc: "Marauder Missiles can be upgraded into Ghost Missiles which have stronger materials and higher explosive yields."
+
+
+ACOT_SEEKER_1: "Seeker Drones"
+ACOT_SEEKER_1_DESC: "Space-to-space missiles equipped with high-yield nuclear warheads. Although based on old pre-space technology, these crude fire-and-forget weapons can be surprisingly effective at range."
+ACOT_SEEKER_2: "Improved Seeker Drone"
+ACOT_SEEKER_2_DESC: "These updated space-to-space missiles have more powerful fusion warheads and improved flight performance."
+ACOT_SEEKER_3: "Advanced Seeker Drone"
+ACOT_SEEKER_3_DESC: "Advanced missiles equipped with very powerful antimatter warheads. A new and improved guidance system gives them a better chance of finding their targets."
+ACOT_SEEKER_4: "Hunter Killer Drone"
+ACOT_SEEKER_4_DESC: "The latest version of space-to-space missile, this upgraded variant has an immensely powerful warhead that draws its energy from a zero point vacuum."
+ACOT_SEEKER_5: "Replicant Killer Drone"
+ACOT_SEEKER_5_DESC: "These highly advanced missiles are equipped with limited onboard AI pilots that substantially improve their performance and ability to track targets."
+
+ACOT_SEEKER_6E: "Enigmatic Killer Drone"
+ACOT_SEEKER_6E_DESC: "Ghost Missiles are stronger than Marauder Missiles, well they are Ghosts, not Reapers or Marines. They should beat Marauders."
+
+ACOT_SEEKER_6S: "Stellar Killer Drone"
+ACOT_SEEKER_6S_DESC: "Ghost Missiles are stronger than Marauder Missiles, well they are Ghosts, not Reapers or Marines. They should beat Marauders."
+
+
+XS_ACOT_SEEKER_1: "Mini Seeker Drone"
+SMALL_ACOT_SEEKER_1: "Small Seeker Drone"
+MEDIUM_ACOT_SEEKER_1: "Medium Seeker Drone"
+LARGE_ACOT_SEEKER_1: "Large Seeker Drone"
+
+XS_ACOT_SEEKER_2: "Mini Improved Seeker Drone"
+SMALL_ACOT_SEEKER_2: "Small Improved Seeker Drone"
+MEDIUM_ACOT_SEEKER_2: "Medium Improved Seeker Drone"
+LARGE_ACOT_SEEKER_2: "Large Improved Seeker Drone"
+
+XS_ACOT_SEEKER_3: "Mini Advanced Seeker Drone"
+SMALL_ACOT_SEEKER_3: "Small Advanced Seeker Drone"
+MEDIUM_ACOT_SEEKER_3: "Medium Advanced Seeker Drone"
+LARGE_ACOT_SEEKER_3: "Large Advanced Seeker Drone"
+
+XS_ACOT_SEEKER_4: "Mini Hunter Killer Drone"
+SMALL_ACOT_SEEKER_4: "Small Hunter Killer Drone"
+MEDIUM_ACOT_SEEKER_4: "Medium Hunter Killer Drone"
+LARGE_ACOT_SEEKER_4: "Large Hunter Killer Drone"
+
+XS_ACOT_SEEKER_5: "Mini Replicant Killer Drone"
+SMALL_ACOT_SEEKER_5: "Small Replicant Killer Drone"
+MEDIUM_ACOT_SEEKER_5: "Medium Replicant Killer Drone"
+LARGE_ACOT_SEEKER_5: "Large Replicant Killer Drone"
+
+XS_ACOT_SEEKER_6E: "Mini Enigmatic Killer Drone"
+SMALL_ACOT_SEEKER_6E: "Small Enigmatic Killer Drone"
+MEDIUM_ACOT_SEEKER_6E: "Medium Enigmatic Killer Drone"
+LARGE_ACOT_SEEKER_6E: "Large Enigmatic Killer Drone"
+
+XS_ACOT_SEEKER_6S: "Mini Stellarite Killer Drone"
+SMALL_ACOT_SEEKER_6S: "Small Stellarite Killer Drone"
+MEDIUM_ACOT_SEEKER_6S: "Medium Stellarite Killer Drone"
+LARGE_ACOT_SEEKER_6S: "Large Stellarite Killer Drone"
+
+tech_acot_seeker_al_4: "Megadrons"
+tech_acot_seeker_al_4_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+tech_acot_seeker_al_5: "Replicant Megadrons"
+tech_acot_seeker_al_5_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+
+tech_acot_seeker_al_6e: "Enigmatic Megadrons"
+tech_acot_seeker_al_6e_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+
+tech_acot_seeker_al_6s: "Stellarite Megadrons"
+tech_acot_seeker_al_6s_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+
+ACOT_SEEKER_AL_4: "Hunter Killer Macrodron"
+ACOT_SEEKER_AL_4_DESC: "Hunter Killer Macrodron"
+ACOT_SEEKER_AL_5: "Replicant Killer Macrodron"
+ACOT_SEEKER_AL_5_DESC: "Replicant Killer Macrodron"
+
+ACOT_SEEKER_AL_6E: "Enigmatic Killer Macrodron"
+ACOT_SEEKER_AL_6E_DESC: "Enigmatic Killer Macrodron"
+
+ACOT_SEEKER_AL_6S: "Stellarite Killer Macrodron"
+ACOT_SEEKER_AL_6S_DESC: "Stellarite Killer Macrodron"
+
+############ XL
+
+tech_acot_seeker_xl_4: "Megadron Launchers"
+tech_acot_seeker_xl_4_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+tech_acot_seeker_xl_5: "Replicant Megadron Launchers"
+tech_acot_seeker_xl_5_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+
+tech_acot_seeker_xl_6e: "Enigmatic Megadron Launchers"
+tech_acot_seeker_xl_6e_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+
+tech_acot_seeker_xl_6s: "Stellarite Megadron Launchers"
+tech_acot_seeker_xl_6s_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+
+ACOT_SEEKER_XL_4: "Hunter Killer Megadron"
+ACOT_SEEKER_XL_4_DESC: "Hunter Killer Megadron"
+ACOT_SEEKER_XL_5: "Replicant Killer Megadron"
+ACOT_SEEKER_XL_5_DESC: "Replicant Killer Megadron"
+
+ACOT_SEEKER_XL_6E: "Enigmatic Killer Megadron"
+ACOT_SEEKER_XL_6E_DESC: "Enigmatic Killer Megadron"
+
+ACOT_SEEKER_XL_6S: "Stellarite Killer Megadron"
+ACOT_SEEKER_XL_6S_DESC: "Stellarite Killer Megadron"
+
+tech_acot_seeker_t_5: "Replicant Killer Titandron"
+tech_acot_seeker_t_5_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+ACOT_SEEKER_T_5: "Replicant Killer Titandrone"
+ACOT_SEEKER_T_5_DESC: "Replicant Killer Titandron"
+ACOT_SEEKER_T_W_5: "Replicant Killer Titandrone"
+ACOT_SEEKER_T_W_5_DESC: "Replicant Killer Titandron"
+
+tech_acot_seeker_t_6e: "Enigmatic Killer Titandron"
+tech_acot_seeker_t_6e_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+ACOT_SEEKER_T_6E: "Enigmatic Killer Titandron"
+ACOT_SEEKER_T_6E_DESC: "Enigmatic Killer Titandron"
+ACOT_SEEKER_T_W_6E: "Enigmatic Killer Titandron"
+ACOT_SEEKER_T_W_6E_DESC: "Enigmatic Killer Titandron"
+
+tech_acot_seeker_t_6s: "Stellarite Killer Titandron"
+tech_acot_seeker_t_6s_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+ACOT_SEEKER_T_6S: "Stellarite Killer Titandron"
+ACOT_SEEKER_T_6S_DESC: "Stellarite Killer Titandron"
+ACOT_SEEKER_T_W_6S: "Stellarite Killer Titandron"
+ACOT_SEEKER_T_W_6S_DESC: "Stellarite Killer Titandron"
+
+############################################################ MMG ############################################################
+
+ # Bollter Branch
+tech_acot_mmg_1: "Bolt Cannons"
+tech_acot_mmg_1_desc: "Bolt Cannons, or Bolters, are a type of explosive weapon that utilizes electromagnetic catapult with explosive propellant charge.The projectile itself is a multistage discarding SABOT,with all stages after launch featuring a rocket engine. The payload itself is made specifically to destroy hull using plasma drills carrying a high explosive blast."
+tech_acot_mmg_2: "Improved Bolt Cannons"
+tech_acot_mmg_2_desc: "Upgrades to the propulsion system as well as the explosive package will bring our bolt cannons to a more modernized standards."
+tech_acot_mmg_3: "Advanced Bolt Cannons"
+tech_acot_mmg_3_desc: "Advanced targeting software will allow the projectile's computers to locate the most vulnerable part of the ship to strike and achieve maximum damage."
+tech_acot_mmg_4: "Basilisk Bolt Cannons"
+tech_acot_mmg_4_desc: "Implementing new methods of explosive detonation inspired by the Ancient's methods will allow us to create stronger Bolt Cannons with several new possibilities for even greater firepower."
+tech_acot_mmg_5: "Viper Bolt Cannons"
+tech_acot_mmg_5_desc: "The Viper-Pattern Bolt Cannon is our empire's full replicant adaptation of the Bolter technology. The firepower is unmatched by its predecessors."
+
+tech_acot_mmg_6e: "Chimera Bolt Cannons"
+tech_acot_mmg_6e_desc: "Marauder Missiles can be upgraded into Ghost Missiles which have stronger materials and higher explosive yields."
+tech_acot_mmg_6s: "Chimera Bolt Cannons"
+tech_acot_mmg_6s_desc: "Marauder Missiles can be upgraded into Ghost Missiles which have stronger materials and higher explosive yields."
+
+
+ACOT_MMG_1: "Bolt Cannons"
+ACOT_MMG_1_DESC: "Electromagnetic catapult,assisted by an explosive propellant charge. The projectile itself is a multistage discarding SABOT,with all stages after launch featuring a rocket engine. Accelerates from gun to target. The payload is a plasma drill carrying a big bastard of an explosive charge."
+ACOT_MMG_2: "Improved Bolt Cannons"
+ACOT_MMG_2_DESC: "An improvement to the basic Bolt Cannons that features superior propulsion and explosive yields."
+ACOT_MMG_3: "Advanced Bolt Cannons"
+ACOT_MMG_3_DESC: "Electromagnetic catapult,assisted by an explosive propellant charge. The projectile itself is a multistage discarding SABOT,with all stages after launch featuring a rocket engine. Accelerates from gun to target. The payload is a plasma drill carrying a big bastard of an explosive charge."
+ACOT_MMG_4: "Basilisk Bolt Cannons"
+ACOT_MMG_4_DESC: "Electromagnetic catapult,assisted by an explosive propellant charge. The projectile itself is a multistage discarding SABOT,with all stages after launch featuring a rocket engine. Accelerates from gun to target. The payload is a plasma drill carrying a big bastard of an explosive charge."
+ACOT_MMG_5: "Viper Bolt Cannons"
+ACOT_MMG_5_DESC: "Electromagnetic catapult,assisted by an explosive propellant charge. The projectile itself is a multistage discarding SABOT,with all stages after launch featuring a rocket engine. Accelerates from gun to target. The payload is a plasma drill carrying a big bastard of an explosive charge."
+
+ACOT_MMG_6E: "Chimera Bolt Cannons"
+ACOT_MMG_6E_DESC: "Electromagnetic catapult,assisted by an explosive propellant charge. The projectile itself is a multistage discarding SABOT,with all stages after launch featuring a rocket engine. Accelerates from gun to target. The payload is a plasma drill carrying a big bastard of an explosive charge."
+
+ACOT_MMG_6S: "Chimera Bolt Cannons"
+ACOT_MMG_6S_DESC: "Electromagnetic catapult,assisted by an explosive propellant charge. The projectile itself is a multistage discarding SABOT,with all stages after launch featuring a rocket engine. Accelerates from gun to target. The payload is a plasma drill carrying a big bastard of an explosive charge."
+
+
+XS_ACOT_MMG_1: "Bolt Micro Cannon"
+SMALL_ACOT_MMG_1: "Small Bolt Cannon"
+MEDIUM_ACOT_MMG_1: "Medium Bolt Cannon"
+LARGE_ACOT_MMG_1: "Large Bolt Cannon"
+
+XS_ACOT_MMG_2: "Improved Bolt Micro Cannon"
+SMALL_ACOT_MMG_2: "Small Improved Bolt Cannon"
+MEDIUM_ACOT_MMG_2: "Medium Improved Bolt Cannon"
+LARGE_ACOT_MMG_2: "Large Improved Bolt Cannon"
+
+XS_ACOT_MMG_3: "Advanced Bolt Micro Cannon"
+SMALL_ACOT_MMG_3: "Small Advanced Bolt Cannon"
+MEDIUM_ACOT_MMG_3: "Medium Advanced Saboteur Bolt Cannon"
+LARGE_ACOT_MMG_3: "Large Advanced Bolt Cannon"
+
+XS_ACOT_MMG_4: "Super Micro Cannon"
+SMALL_ACOT_MMG_4: "Small Super Bolt Cannon"
+MEDIUM_ACOT_MMG_4: "Medium Super Bolt Cannon"
+LARGE_ACOT_MMG_4: "Large Super Bolt Cannon"
+
+XS_ACOT_MMG_5: "Replicant Micro Cannon"
+SMALL_ACOT_MMG_5: "Small Replicant Bolt Cannon"
+MEDIUM_ACOT_MMG_5: "Medium Replicant Bolt Cannon"
+LARGE_ACOT_MMG_5: "Large Replicant Bolt Cannon"
+
+XS_ACOT_MMG_6E: "Enigmatic Micro Cannon"
+SMALL_ACOT_MMG_6E: "Small Enigmatic Bolt Cannon"
+MEDIUM_ACOT_MMG_6E: "Medium Enigmatic Bolt Cannon"
+LARGE_ACOT_MMG_6E: "Large Enigmatic Bolt Cannon"
+
+XS_ACOT_MMG_6S: "Stellarite Micro Cannon"
+SMALL_ACOT_MMG_6S: "Small Stellarite Bolt Cannon"
+MEDIUM_ACOT_MMG_6S: "Medium Stellarite Bolt Cannon"
+LARGE_ACOT_MMG_6S: "Large Stellarite Bolt Cannon"
+
+tech_acot_mmg_al_4: "Stormbolt Battery"
+tech_acot_mmg_al_4_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+tech_acot_mmg_al_5: "Stormbolt Artillery"
+tech_acot_mmg_al_5_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+
+tech_acot_mmg_al_6e: "Experimental Barrage Systems"
+tech_acot_mmg_al_6e_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+
+tech_acot_mmg_al_6s: "Experimental Barrage Systems"
+tech_acot_mmg_al_6s_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+
+
+ACOT_MMG_AL_4: "Basilisk StormBolt Battery"
+ACOT_MMG_AL_4_DESC: "Basilisk StormBolt Battery"
+ACOT_MMG_AL_5: "Viper StormBolt Artillery"
+ACOT_MMG_AL_5_DESC: "Viper StormBolt Artillery"
+
+ACOT_MMG_AL_6E: "Chimera StormBolt Artillery"
+ACOT_MMG_AL_6E_DESC: "Chimera StormBolt Artillery"
+
+ACOT_MMG_AL_6S: "Chimera StormBolt Artillery"
+ACOT_MMG_AL_6S_DESC: "Chimera StormBolt Artillery"
+############ XL
+
+tech_acot_mmg_xl_4: "Spinal Bolt Artillery Systems"
+tech_acot_mmg_xl_4_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+tech_acot_mmg_xl_5: "Replicant Bolt-Blaster Cannon"
+tech_acot_mmg_xl_5_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+
+tech_acot_mmg_xl_6e: "Experimental Barrage Systems"
+tech_acot_mmg_xl_6e_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+
+tech_acot_mmg_xl_6s: "Experimental Barrage Systems"
+tech_acot_mmg_xl_6s_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+
+ACOT_MMG_XL_4: "Bolt-Blaster Cannon"
+ACOT_MMG_XL_4_DESC: "Bolt-Blaster Cannons"
+ACOT_MMG_XL_5: "Replicant Bolt-Blaster Cannon"
+ACOT_MMG_XL_5_DESC: "Replicant Bolt-Blaster Cannons"
+
+ACOT_MMG_XL_6E: "Enigmatic Bolt-Blaster Cannon"
+ACOT_MMG_XL_6E_DESC: "Enigmatic Bolt-Blaster Cannon"
+
+
+ACOT_MMG_XL_6S: "Enigmatic Bolt-Blaster Cannon"
+ACOT_MMG_XL_6S_DESC: "Enigmatic Bolt-Blaster Cannon"
+
+tech_acot_mmg_t_5: "Replicant Bolt-Annihilator Cannon"
+tech_acot_mmg_t_5_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+ACOT_MMG_T_5: "Replicant Bolt-Annihilator Cannon"
+ACOT_MMG_T_5_DESC: "Replicant Bolt-Annihilator Cannons"
+ACOT_MMG_T_W_5: "Replicant Bolt-Annihilator Cannon"
+ACOT_MMG_T_W_5_DESC: "Replicant Bolt-Annihilator Cannons"
+
+tech_acot_mmg_t_6e: "Bolt-Annihilator Cannon"
+tech_acot_mmg_t_6e_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+ACOT_MMG_T_6E: "Bolt-Annihilator Cannon"
+ACOT_MMG_T_6E_DESC: "Bolt-Annihilator Cannons"
+ACOT_MMG_T_W_6E: "Bolt-Annihilator Cannon"
+ACOT_MMG_T_W_6E_DESC: "Bolt-Annihilator Cannons"
+
+tech_acot_mmg_t_6s: "Bolt-Annihilator Cannon"
+tech_acot_mmg_t_6s_desc: "The advancements in propolsions, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals.One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design,  the Gorgon Barrage System.\n\nThough the increased in the amount of payloads force us to revert the weapon system to that of rockets, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+ACOT_MMG_T_6S: "Bolt-Annihilator Cannon"
+ACOT_MMG_T_6S_DESC: "Bolt-Annihilator Cannons"
+ACOT_MMG_T_W_6S: "Bolt-Annihilator Cannon"
+ACOT_MMG_T_W_6S_DESC: "Bolt-Annihilator Cannons"
+
+############################################################ EMITTERS ############################################################
+
+#tech_arc_emitter_1: "Arc Emitters"
+#tech_arc_emitter_1_desc: "Powerful weapons that launch a lightning arc of chaotic energy at targets, which in part can ignore armor and shields."
+#tech_arc_emitter_2: "Focused Arc Emitters"
+#tech_arc_emitter_2_desc: "These upgraded emitters are equipped with better focusing lenses, resulting in a more powerful energy discharge."
+
+ACOT_ARC_EMITTER_4: "Emitter"
+ACOT_ARC_EMITTER_4_DESC: "Emitter"
+
+ACOT_ARC_EMITTER_5: "Emitter"
+ACOT_ARC_EMITTER_5_DESC: "Emitter"
+
+ACOT_ARC_EMITTER_6E: "Enigmatic Emitter"
+ACOT_ARC_EMITTER_6E_DESC: "This spinal weapon utilizes enigmatic energy to create a very deadly emitter weapon that can damage enemy ship's internal systems. Unfortunately, due to our current limitations, it has lower range than the Focusaed Arc Emitter."
+tech_arc_emitter_6e: "Enigmatic Emitter"
+tech_arc_emitter_6e_desc: "Using the same enigmatic energies to supercharge our current Focused Arc Emitter is possible, but until we truly understand how to wield Dark Energy, the prototype Enigmatic Emitter will have slightly lower effective range than the Focused Arc Emitter."
+
+ACOT_ARC_EMITTER_6S: "Enigmatic Emitter"
+ACOT_ARC_EMITTER_6S_DESC: "This spinal weapon utilizes enigmatic energy to create a very deadly emitter weapon that can damage enemy ship's internal systems. Unfortunately, due to our current limitations, it has lower range than the Focusaed Arc Emitter."
+tech_arc_emitter_6s: "Enigmatic Emitter"
+tech_arc_emitter_6s_desc: "Using the same enigmatic energies to supercharge our current Focused Arc Emitter is possible, but until we truly understand how to wield Dark Energy, the prototype Enigmatic Emitter will have slightly lower effective range than the Focused Arc Emitter."
+
+############################################################ STRIKECRAFTS ############################################################
+ 
+tech_acot_weapon_strike_craft: "Virtual Command System"
+tech_acot_weapon_strike_craft_desc: "By linking operators to the virtual networks, they can safety operate USCs without exposing themselves to danger."
+
+tech_acot_weapon_strike_craft_2: "Adaptive Virtual Networking"
+tech_acot_weapon_strike_craft_2_desc: "Increasing network capacity and flight responsiveness will allow operators to respond quicker and reduce lag."
+
+tech_acot_weapon_strike_craft_3: "Replicant USC Coordination"
+tech_acot_weapon_strike_craft_3_desc: "By using replicant-based DAI Network System, we can field even more powerful strikecrafts, perhaps even unmanned corvette-sized gunships for our larger vessels."
+
+tech_acot_weapon_strike_craft_6e: "Replicant USC Coordination"
+tech_acot_weapon_strike_craft_6e_desc: "By using replicant-based DAI Network System, we can field even more powerful strikecrafts, perhaps even unmanned corvette-sized gunships for our larger vessels."
+
+tech_acot_weapon_strike_craft_6s: "Replicant USC Coordination"
+tech_acot_weapon_strike_craft_6s_desc: "By using replicant-based DAI Network System, we can field even more powerful strikecrafts, perhaps even unmanned corvette-sized gunships for our larger vessels."
+
+########## CEPTOR ##########
+ 
+tech_acot_strikecrafts_interceptor_1: "Interceptors"
+tech_acot_strikecrafts_interceptor_1_desc: "Interceptors."
+tech_acot_strikecrafts_interceptor_2: "Mark II Interceptors"
+tech_acot_strikecrafts_interceptor_2_desc: "Mark II Interceptors."
+tech_acot_strikecrafts_interceptor_3: "Mark III Interceptors"
+tech_acot_strikecrafts_interceptor_3_desc: "Mark III Interceptors"
+tech_acot_strikecrafts_interceptor_4: "Mark IV Interceptors"
+tech_acot_strikecrafts_interceptor_4_desc: "Mark IV Interceptors"
+tech_acot_strikecrafts_interceptor_5: "Mark V Interceptors"
+tech_acot_strikecrafts_interceptor_5_desc: "Mark V Interceptors"
+
+tech_acot_strikecrafts_interceptor_6e: "Mark V Interceptors"
+tech_acot_strikecrafts_interceptor_6e_desc: "Mark V Interceptors"
+
+tech_acot_strikecrafts_interceptor_6s: "Mark V Interceptors"
+tech_acot_strikecrafts_interceptor_6s_desc: "Mark V Interceptors"
+
+ACOT_SC_INTERCEPTOR_1: "Interceptors"
+ACOT_SC_INTERCEPTOR_1_DESC: "Interceptors"
+ACOT_SC_INTERCEPTOR_2: "Mark II Interceptors"
+ACOT_SC_INTERCEPTOR_2_DESC: "Mark II Interceptors"
+ACOT_SC_INTERCEPTOR_3: "Mark III Interceptors"
+ACOT_SC_INTERCEPTOR_3_DESC: "Mark III Interceptors"
+ACOT_SC_INTERCEPTOR_4: "Mark IV Interceptors"
+ACOT_SC_INTERCEPTOR_4_DESC: "Mark IV Interceptors"
+ACOT_SC_INTERCEPTOR_5: "Mark V Interceptors"
+ACOT_SC_INTERCEPTOR_5_DESC: "Mark V Interceptors"
+
+ACOT_SC_INTERCEPTOR_6E: "Mark VI Interceptors"
+ACOT_SC_INTERCEPTOR_6E_DESC: "Mark VI Interceptors"
+
+ACOT_SC_INTERCEPTOR_6S: "Mark VI Interceptors"
+ACOT_SC_INTERCEPTOR_6S_DESC: "Mark VI Interceptors"
+
+SMALL_ACOT_SC_INTERCEPTOR_1: "Interceptors"
+MEDIUM_ACOT_SC_INTERCEPTOR_1: "Interceptors"
+LARGE_ACOT_SC_INTERCEPTOR_1: "Interceptors"
+SMALL_ACOT_SC_INTERCEPTOR_2: "Mark II Interceptors"
+MEDIUM_ACOT_SC_INTERCEPTOR_2: "Mark II Interceptors"
+LARGE_ACOT_SC_INTERCEPTOR_2: "Mark II Interceptors"
+SMALL_ACOT_SC_INTERCEPTOR_3: "Mark III Interceptors"
+MEDIUM_ACOT_SC_INTERCEPTOR_3: "Mark III Interceptors"
+LARGE_ACOT_SC_INTERCEPTOR_3: "Mark III Interceptors"
+SMALL_ACOT_SC_INTERCEPTOR_4: "Mark IV Interceptors"
+MEDIUM_ACOT_SC_INTERCEPTOR_4: "Mark IV Interceptors"
+LARGE_ACOT_SC_INTERCEPTOR_4: "Mark IV Interceptors"
+SMALL_ACOT_SC_INTERCEPTOR_5: "Mark V Interceptors"
+MEDIUM_ACOT_SC_INTERCEPTOR_5: "Mark V Interceptors"
+LARGE_ACOT_SC_INTERCEPTOR_5: "Mark V Interceptors"
+
+SMALL_ACOT_SC_INTERCEPTOR_6E: "Mark VI Interceptors"
+MEDIUM_ACOT_SC_INTERCEPTOR_6E: "Mark VI Interceptors"
+LARGE_ACOT_SC_INTERCEPTOR_6E: "Mark VI Interceptors"
+
+SMALL_ACOT_SC_INTERCEPTOR_6S: "Mark VI Interceptors"
+MEDIUM_ACOT_SC_INTERCEPTOR_6S: "Mark VI Interceptors"
+LARGE_ACOT_SC_INTERCEPTOR_6S: "Mark VI Interceptors"
+########## FIGHTER ##########
+
+tech_acot_strikecrafts_fighter_1: "Fighters"
+tech_acot_strikecrafts_fighter_1_desc: "Fighters."
+tech_acot_strikecrafts_fighter_2: "Mark II Fighters"
+tech_acot_strikecrafts_fighter_2_desc: "Mark II Fighters"
+tech_acot_strikecrafts_fighter_3: "Mark III Fighters"
+tech_acot_strikecrafts_fighter_3_desc: "Mark III Fighters"
+tech_acot_strikecrafts_fighter_4: "Mark IV Fighters"
+tech_acot_strikecrafts_fighter_4_desc: "Mark IV Fighters"
+tech_acot_strikecrafts_fighter_5: "Mark V Fighters"
+tech_acot_strikecrafts_fighter_5_desc: "Mark V Fighters"
+
+tech_acot_strikecrafts_fighter_6e: "Mark VI Fighters"
+tech_acot_strikecrafts_fighter_6e_desc: "Mark VI Fighters"
+
+tech_acot_strikecrafts_fighter_6s: "Mark VI Fighters"
+tech_acot_strikecrafts_fighter_6s_desc: "Mark VI Fighters"
+
+ACOT_SC_FIGHTER_0: "Utility Pods"
+ACOT_SC_FIGHTER_0_DESC: "Basic, single-pilot pods invented during the early space-age to assist spacecraft with destroying tiny debris. They are not meant for combat due to their lack of speed, protection and firepower."
+SMALL_ACOT_SC_FIGHTER_0: "Utility Pods"
+MEDIUM_ACOT_SC_FIGHTER_0: "Utility Pods"
+LARGE_ACOT_SC_FIGHTER_0: "Utility Pods"
+
+ACOT_SC_FIGHTER_1: "Fighters"
+ACOT_SC_FIGHTER_1_DESC: "Fighters"
+ACOT_SC_FIGHTER_2: "Mark II Fighters"
+ACOT_SC_FIGHTER_2_DESC: "Mark II Fighters"
+ACOT_SC_FIGHTER_3: "Mark III Fighters"
+ACOT_SC_FIGHTER_3_DESC: "Mark III Fighters"
+ACOT_SC_FIGHTER_4: "Mark IV Fighters"
+ACOT_SC_FIGHTER_4_DESC: "Mark IV Fighters"
+ACOT_SC_FIGHTER_5: "Mark V Fighters"
+ACOT_SC_FIGHTER_5_DESC: "Mark V Fighters"
+
+ACOT_SC_FIGHTER_6E: "Mark VI Interceptors"
+ACOT_SC_FIGHTER_6E_DESC: "No more useless scouts, interceptors are designed to shoot down other strike crafts and missiles, while also excel at weakening larger ship's shields."
+
+ACOT_SC_FIGHTER_6S: "Mark VI Fighters"
+ACOT_SC_FIGHTER_6S_DESC: "No more useless scouts, interceptors are designed to shoot down other strike crafts and missiles, while also excel at weakening larger ship's shields."
+
+SMALL_ACOT_SC_FIGHTER_1: "Fighters"
+MEDIUM_ACOT_SC_FIGHTER_1: "Fighters"
+LARGE_ACOT_SC_FIGHTER_1: "Fighters"
+SMALL_ACOT_SC_FIGHTER_2: "Mark II Fighters"
+MEDIUM_ACOT_SC_FIGHTER_2: "Mark II Fighters"
+LARGE_ACOT_SC_FIGHTER_2: "Mark II Fighters"
+SMALL_ACOT_SC_FIGHTER_3: "Mark III Fighters"
+MEDIUM_ACOT_SC_FIGHTER_3: "Mark III Fighters"
+LARGE_ACOT_SC_FIGHTER_3: "Mark III Fighters"
+SMALL_ACOT_SC_FIGHTER_4: "Mark IV Fighters"
+MEDIUM_ACOT_SC_FIGHTER_4: "Mark IV Fighters"
+LARGE_ACOT_SC_FIGHTER_4: "Mark IV Fighters"
+SMALL_ACOT_SC_FIGHTER_5: "Mark V Fighters"
+MEDIUM_ACOT_SC_FIGHTER_5: "Mark V Fighters"
+LARGE_ACOT_SC_FIGHTER_5: "Mark V Fighters"
+
+SMALL_ACOT_SC_FIGHTER_6E: "Mark VI Fighters"
+MEDIUM_ACOT_SC_FIGHTER_6E: "Mark VI Fighters"
+LARGE_ACOT_SC_FIGHTER_6E: "Mark VI Fighters"
+
+SMALL_ACOT_SC_FIGHTER_6S: "Mark VI Fighters"
+MEDIUM_ACOT_SC_FIGHTER_6S: "Mark VI Fighters"
+LARGE_ACOT_SC_FIGHTER_6S: "Mark VI Fighters"
+########## BOMBER ##########
+
+#tech_strike_craft_1: "Bombers"
+#tech_strike_craft_1_desc: "These manned strike craft are launched from a mothership and rely on their speed and small size to survive long enough to punch through enemy defenses."
+#tech_strike_craft_2: "Improved Bombers"
+#tech_strike_craft_2_desc: "The next generation of strike craft, featuring improved avionics, better handling characteristics and more powerful armaments."
+#tech_strike_craft_3: "Advanced Bombers"
+#tech_strike_craft_3_desc: "A further refinement in strike craft design, these advanced strike craft are a pilot's dream. Their performance far exceeds that of previous models."
+tech_acot_strikecrafts_bomber_4: "Very Bombers"
+tech_acot_strikecrafts_bomber_4_desc: "Very Strike Craft"
+tech_acot_strikecrafts_bomber_5: "Super Bombers"
+tech_acot_strikecrafts_bomber_5_desc: "Super Strike Craft"
+
+tech_acot_strikecrafts_bomber_6e: "Strike Craft Revisions"
+tech_acot_strikecrafts_bomber_6e_desc: "Our strategists believe it is a mistake to have forsaken the developments of fighters, especially considering the Scouts can't...actually scout which makes their existence pointless. We can easily correct these mistakes, and finally begin developing actual formidable set of strikecrafts that perform various roles."
+
+tech_acot_strikecrafts_bomber_6s: "Strike Craft Revisions"
+tech_acot_strikecrafts_bomber_6s_desc: "Our strategists believe it is a mistake to have forsaken the developments of fighters, especially considering the Scouts can't...actually scout which makes their existence pointless. We can easily correct these mistakes, and finally begin developing actual formidable set of strikecrafts that perform various roles."
+
+ACOT_SC_BOMBER_1: "Bombers"
+ACOT_SC_BOMBER_1_DESC: "Bombers"
+ACOT_SC_BOMBER_2: "Mark II Bombers"
+ACOT_SC_BOMBER_2_DESC: "Mark II Bombers"
+ACOT_SC_BOMBER_3: "Mark III Bombers"
+ACOT_SC_BOMBER_3_DESC: "Mark III Bombers"
+ACOT_SC_BOMBER_4: "Mark IV Bombers"
+ACOT_SC_BOMBER_4_DESC: "Mark IV Bombers"
+ACOT_SC_BOMBER_5: "Mark V Bombers"
+ACOT_SC_BOMBER_5_DESC: "Mark V Bombers"
+
+ACOT_SC_BOMBER_6E: "Aurora-Class Bombers"
+ACOT_SC_BOMBER_6E_DESC: "Dedicated bombers that not only has much higher firepower, but also improved durability, speed and pilots."
+
+ACOT_SC_BOMBER_6S: "Aurora-Class Bombers"
+ACOT_SC_BOMBER_6S_DESC: "Dedicated bombers that not only has much higher firepower, but also improved durability, speed and pilots."
+
+SMALL_ACOT_SC_BOMBER_1: "Bombers"
+MEDIUM_ACOT_SC_BOMBER_1: "Bombers"
+LARGE_ACOT_SC_BOMBER_1: "Bombers"
+SMALL_ACOT_SC_BOMBER_2: "Mark II Bombers"
+MEDIUM_ACOT_SC_BOMBER_2: "Mark II Bombers"
+LARGE_ACOT_SC_BOMBER_2: "Mark II Bombers"
+SMALL_ACOT_SC_BOMBER_3: "Mark III Bombers"
+MEDIUM_ACOT_SC_BOMBER_3: "Mark III Bombers"
+LARGE_ACOT_SC_BOMBER_3: "Mark III Bombers"
+SMALL_ACOT_SC_BOMBER_4: "Mark IV Bombers"
+MEDIUM_ACOT_SC_BOMBER_4: "Mark IV Bombers"
+LARGE_ACOT_SC_BOMBER_4: "Mark IV Bombers"
+SMALL_ACOT_SC_BOMBER_5: "Mark V Bombers"
+MEDIUM_ACOT_SC_BOMBER_5: "Mark V Bombers"
+LARGE_ACOT_SC_BOMBER_5: "Mark V Bombers"
+
+SMALL_ACOT_SC_BOMBER_6E: "Mark VI Bombers"
+MEDIUM_ACOT_SC_BOMBER_6E: "Mark VI Bombers"
+LARGE_ACOT_SC_BOMBER_6E: "Mark VI Bombers"
+
+SMALL_ACOT_SC_BOMBER_6S: "Mark VI Bombers"
+MEDIUM_ACOT_SC_BOMBER_6S: "Mark VI Bombers"
+LARGE_ACOT_SC_BOMBER_6S: "Mark VI Bombers"
+
+########## GUNSHIP ##########
+
+tech_acot_strikecrafts_gunship_4: "Gunship Strike Craft"
+tech_acot_strikecrafts_gunship_4_desc: "While the roles of strike crafts have been well defined by bombers and interceptors, there are certain problems. Both these types of strike crafts take a significant amount of time to reach striking distances. In many battles, the carriers are long destroyed before these nimble strikecrafts even get to make their first runs. Plans are being made to create a specialized long-range strike crafts instead."
+tech_acot_strikecrafts_gunship_5: "Gunship Strike Craft"
+tech_acot_strikecrafts_gunship_5_desc: "While the roles of strike crafts have been well defined by bombers and interceptors, there are certain problems. Both these types of strike crafts take a significant amount of time to reach striking distances. In many battles, the carriers are long destroyed before these nimble strikecrafts even get to make their first runs. Plans are being made to create a specialized long-range strike crafts instead."
+
+tech_acot_strikecrafts_gunship_6e: "Gunship Strike Craft"
+tech_acot_strikecrafts_gunship_6e_desc: "While the roles of strike crafts have been well defined by bombers and interceptors, there are certain problems. Both these types of strike crafts take a significant amount of time to reach striking distances. In many battles, the carriers are long destroyed before these nimble strikecrafts even get to make their first runs. Plans are being made to create a specialized long-range strike crafts instead."
+
+tech_acot_strikecrafts_gunship_6s: "Gunship Strike Craft"
+tech_acot_strikecrafts_gunship_6s_desc: "While the roles of strike crafts have been well defined by bombers and interceptors, there are certain problems. Both these types of strike crafts take a significant amount of time to reach striking distances. In many battles, the carriers are long destroyed before these nimble strikecrafts even get to make their first runs. Plans are being made to create a specialized long-range strike crafts instead."
+
+ACOT_SC_GUNSHIP_4: "Gunship"
+ACOT_SC_GUNSHIP_4_DESC: Gunship
+ACOT_SC_GUNSHIP_5: "Advanced Gunship"
+ACOT_SC_GUNSHIP_5_DESC: "Advanced Gunship"
+
+ACOT_SC_GUNSHIP_6E: "Maverick Gunship"
+ACOT_SC_GUNSHIP_6E_DESC: "Maverick Gunship"
+
+ACOT_SC_GUNSHIP_6S: "Maverick Gunship"
+ACOT_SC_GUNSHIP_6S_DESC: "Maverick Gunship"

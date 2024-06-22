@@ -1,0 +1,732 @@
+﻿l_english:
+
+############################################################ WEAPON SECTION TECH ############################################################
+
+SHIP_GRAPHICS_ACOT_ISC_DESC: "Independent Strike Crafts are specialized, FTL-capable strike craft formation that relies on speed and agility. They can be equipped with short-range interference matrices to weaken their enemies."
+SHIP_GRAPHICS_ACOT_CORVETTE_1_DESC: "Corvettes are one of the possible ship classes that belong to the §YSmall Combat Vessel§! designation."
+SHIP_GRAPHICS_ACOT_DESTROYER_1_DESC: "Destroyers are one of the possible ship classes that belong to the §YMedium Combat Vessel§! designation."
+SHIP_GRAPHICS_ACOT_CRUISER_1_DESC: "Cruisers are one of the possible ship classes that belong to the §YHeavy Combat Vessel§! designation."
+SHIP_GRAPHICS_ACOT_SUPPORT_1_DESC: "Cruisers are one of the possible ship classes that belong to the §YHeavy Combat Vessel§! designation."
+SHIP_GRAPHICS_ACOT_BATTLESHIP_1_DESC: "Battleships are one of the possible ship classes that belong to the §YCapital Ship§! designation."
+SHIP_GRAPHICS_ACOT_TITAN_1_DESC: "Titans are one of the possible ship classes that belong to the §YFlagship§! designation."
+SHIP_GRAPHICS_ACOT_BEHEMOTH_DESC: "Behemoths are one of the possible ship classes that belong to the §YCommand Ship§! designation."
+SHIP_GRAPHICS_MILITARY_STATION_SMALL_DESC: ""
+SHIP_GRAPHICS_MILITARY_STATION_MEDIUM_DESC: ""
+SHIP_GRAPHICS_MILITARY_STATION_LARGE_DESC: ""
+SHIP_GRAPHICS_MINING_STATION_DESC: ""
+SHIP_GRAPHICS_RESEARCH_STATION_DESC: ""
+SHIP_GRAPHICS_STARBASE_STARPORT_DESC: ""
+SHIP_GRAPHICS_ION_CANNON_DESC: ""
+SHIP_GRAPHICS_ACOT_TITAN_KILLER_DESC: ""
+
+MOD_SHIP_ACCURACY_ADD: "Accuracy"
+
+tech_acot_ship_unlock_al: "Space Artillery Platform"
+tech_acot_ship_unlock_al_desc: "In order for us to field stronger long-range artillery weapons, some modifications to the existing Type-L Turrets must be made to produce the most effective result.\n\nTo ensure maximum safeties, every ships that are expected to field these weapons must also be improved to have extra hull reinforcements."
+
+tech_acot_ship_unlock_xl: "Spinal Bow Implementation"
+tech_acot_ship_unlock_xl_desc: "The projected power surge required to field the XL-Class Weapon Systems cannot be done without modifying our battleship's bow to become a spinal lance. Such change is the only way for the weapon to be used without sacrificing any defensive components.\n\nTo ensure maximum safeties, every ships that are expected to field these weapons must also be improved to have extra hull reinforcements."
+
+tech_acot_ship_unlock_xl_turret: "XL-Class Microlance Turret"
+tech_acot_ship_unlock_xl_turret_desc: "Now that we are more familiar with the weapon systems, we can perhaps finally make adjustments to other ship sections to swap out AL turrets to that of XL. This will however come at the expense of reducing the numbers of available defensive systems.\n\nTo ensure maximum safeties, every ships that are expected to field these weapons must also be improved to have extra hull reinforcements."
+
+tech_acot_ship_unlock_t: "Titan Spinal Lance"
+tech_acot_ship_unlock_t_desc: "Although the current Titan design is in theory already capable of fielding the massive firepower of a titanic-class weaponry. The tests so far have been mixed in results, for indeed it was our miscalculations that the level of power required would be equal to that of twin battleship spinal weapon. Even still, we must be cautious and the titan hull must be further reinforced."
+
+tech_acot_ship_unlock_t_turret: "T-Class Macrolance Turret"
+tech_acot_ship_unlock_t_turret_desc: "This may be a very brilliant, or awful idea, but some of the science teams believe they can make a version of titanic-sized weapons that do not require the spinal bow by using the ship's interior itself as a massive capacitor. Much like before, this will prevent most of the defense systems to be installed on the sections, but perhaps the firepower is worth the price. Furthermore, based on this theory, even a battleship's spinal charge can be altered in the same way to support titanic-weapons."
+
+ # Ship sizes
+mod_shipsize_science_hull_add: "Science Ship Hullpoints"
+mod_shipsize_science_disengage_chance_mult: "Science Ship Disengage Chance"
+mod_shipsize_science_evasion_mult: "Science Ship Evasion"
+
+#tech_space_exploration: "Space Exploration"
+#tech_space_exploration_desc: "The realization of faster-than-light travel is a new dawn for space exploration. Exploration to other star systems are now not only possible, but necessary."
+
+#tech_automated_exploration: "Improved Science Vessel"
+#tech_automated_exploration_desc: "Improved Science Vessel"
+
+#tech_experimental_subspace_navigation: "Advanced Science Vessel"
+#tech_experimental_subspace_navigation_desc: "Advanced Science Vessel"
+
+tech_acot_ship_science_5: "Replicant Science Vessel"
+tech_acot_ship_science_5_desc: "Replicant Science Vessel"
+
+ # Space Mining
+
+mod_shipsize_constructor_hull_add: "Constructor Hullpoints"
+mod_shipsize_constructor_build_speed_mult: "Constructor Build Speed"
+
+#tech_space_construction: "Space Construction"
+#tech_space_construction_desc: "Construction in space presents our engineers with new design challenges that must be solved before we can build orbital stations above other worlds."
+
+tech_acot_ship_constructor_1: "Improved Constructor"
+tech_acot_ship_constructor_1_desc: "New models of construction vessels make use of more responsive construction servitors that can work faster, in addition to being more durable."
+
+tech_acot_ship_constructor_3: "Advanced Constructor"
+tech_acot_ship_constructor_3_desc: "Advanced Materials and nano-assembly units enable us to improve existing constructors to perform their tasks for efficiently, as well as improving their overall hull integrity."
+
+tech_acot_ship_constructor_5: "Replicant Constructor"
+tech_acot_ship_constructor_5_desc: "The introduction of hard-light assembly units and more powerful AI will greatly benefit our new constructor model."
+
+ # Colonizing
+
+mod_shipsize_colonizer_hull_add: "Colonizer Hullpoints"
+
+#tech_colonization_1: "Space Colonization"
+#tech_colonization_1_desc: "Calculating required resources and gear required to establish a planetary colony is necessary for us to herd brave pioneers into the greater beyond to seek out new homes over the horizon."
+
+tech_acot_ship_colony_1: "Improved Colonizer"
+tech_acot_ship_colony_1_desc: "Improved Colonizer"
+TECH_UNLOCK_COLONIZATION_1_TITLE: "Improved Colonizer"
+TECH_UNLOCK_COLONIZATION_1_DESC: "Improved Colonizer"
+
+tech_acot_ship_colony_3: "Advanced Colonizer"
+tech_acot_ship_colony_3_desc: "Advanced Colonizer"
+TECH_UNLOCK_COLONIZATION_3_TITLE: "Advanced Colonizer"
+TECH_UNLOCK_COLONIZATION_3_DESC: "Advanced Colonizer"
+
+tech_acot_ship_colony_5: "Replicant Colonizer"
+tech_acot_ship_colony_5_desc: "Replicant Colonizer"
+TECH_UNLOCK_COLONIZATION_5_TITLE: "Replicant Colonizer"
+TECH_UNLOCK_COLONIZATION_5_DESC: "Replicant Colonizer"
+
+#tech_colossus: "Colossi"
+#tech_colossus_desc: "Advances in mega-engineering make blur the lines between reality and the fantastical, enabling the construction of Colossus-class military vessels that carry weapons capable of obliterating - or fundamentally altering - entire worlds, with the push of a button."
+  
+ # Ships upgrades
+ # no titan is the same... they dont have a build speed tech!
+ 
+acot_flotilla_worldship: "Worldship"
+acot_flotilla_worldship_plural: "Worldship"
+ACOT_FLOTILLA_SECTION: "Flotilla Worldship"
+
+decision_acot_release_worldship: "Release Worldship"
+decision_acot_release_worldship_desc: "Pack Up"
+decision_acot_deploy_worldship: "Deploy Worldship"
+decision_acot_deploy_worldship_desc: "Set Up"
+############################################################ SHIP TECH AND SECTION ############################################################
+
+tech_acot_ship_isc: "Miniaturized Strikecraft FTL Systems"
+tech_acot_ship_isc_desc: "By default, strike crafts are too small to be equipped with standard-issued FTL systems and must rely on parent carrier ships for interstellar travels. But if we can modify the FTL computers slightly, we may be able to deploy independent strike crafts as their own formations."
+tech_acot_ship_isc_upgrade_1: "Standardized ISC Patterns"
+tech_acot_ship_isc_upgrade_1_desc: "Establishing new standards for the modeling and construction of ISCs greatly improves the efficiency of the production pipeline."
+tech_acot_ship_isc_upgrade_2: "Finalized ISC Patterns"
+tech_acot_ship_isc_upgrade_2_desc: "Finalizing the standards for the modeling and construction of ISCs greatly improves the efficiency of the production pipeline."
+tech_acot_ship_isc_squad_1: "Improved ISC Hull"
+tech_acot_ship_isc_squad_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable ISCs."
+tech_acot_ship_isc_squad_2: "Advanced ISC Hull"
+tech_acot_ship_isc_squad_2_desc: "The latest generation of ISC's hulls have optimized structural integrity fields and improved bulkheads."
+
+mod_shipsize_acot_isc_hull_add: "ISC Hullpoints"
+mod_shipsize_acot_isc_build_speed_mult: "ISC Build Speed"
+
+mod_shipsize_acot_isc_2_hull_add: "Gunship Hullpoints"
+mod_shipsize_acot_isc_2_build_speed_mult: "Gunship Build Speed"
+
+mod_shipsize_acot_isc_3_hull_add: "ISO Hullpoints"
+mod_shipsize_acot_isc_3_build_speed_mult: "ISO Build Speed"
+
+acot_isc: "Outsider ISC Squadron"
+acot_isc_plural: "IOutsider SC Squadrons"
+
+ACOT_ISC_SM: "Light Bomber Squadron"
+ACOT_ISC_M2: "Heavy Bomber Squadron"
+ACOT_ISC_S3: "Heavy Fighter Squadron"
+ACOT_ISC_XS3: "Light Fighter Squadron"
+
+acot_isc_2: "Outsider Gunship"
+acot_isc_2_plural: "Outsider Gunships"
+
+ACOT_ISC_2_1M: "Assault Gunship"
+ACOT_ISC_2_2S: "Picket Gunship"
+
+acot_isc_3: "Outsider ISO Squadron"
+acot_isc_3_plural: "Outsider ISO Squadrons"
+ACOT_ISC3_S1XS2: "Spec Ops Interceptor Squadron"
+ACOT_ISC3_S1: "Spec Ops Fighter Squadron"
+
+########### VETTE ###########
+
+#tech_corvettes: "Armed Light Vessels"
+#tech_corvettes_desc: "The FTL breakthrough allowed early attempts to adapt traditional surface-to-space shuttle frames to military applications to finally create relatively small, fast, and maneuverable vessels with limited firepower."
+#TECH_UNLOCK_LIGHT_SHIP_TITLE: "§HUnlocks Ship Type:§! Light Combat Vessels"
+#TECH_UNLOCK_LIGHT_SHIP_DESC: "§HLight Combat Vessels§!\nLight Combat Vessels are the most basic military ship, armed and ready in the event of hostile contacts."
+#tech_corvette_hull_1: "Improved Light Hull"
+#tech_corvette_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable light vessels."
+#tech_corvette_hull_2: "Advanced Light Hull"
+#tech_corvette_hull_2_desc: "The latest generation of light vessel's hulls have optimized structural integrity fields and improved bulkheads."
+
+#tech_corvette_build_speed: "Standardized Light Vessel Patterns"
+#tech_corvette_build_speed_desc: "Establishing new standards for the modeling and construction of light vessels greatly improves the efficiency of the production pipeline."
+#tech_corvette_build_speed_2: "Finalized Light Vessel Patterns"
+#tech_corvette_build_speed_2_desc: "Finalizing the standards for the modeling and construction of light vessels greatly improves the efficiency of the production pipeline."
+  
+mod_shipsize_acot_corvette_1_build_speed_mult: "Corvette Build Speed"
+mod_shipsize_acot_corvette_2_build_speed_mult: "Raider Build Speed"
+mod_shipsize_acot_corvette_3_build_speed_mult: "Patrol Craft Build Speed"
+mod_shipsize_acot_corvette_1_hull_add: "Corvette Hullpoints"
+mod_shipsize_acot_corvette_2_hull_add: "Raider Hullpoints"
+mod_shipsize_acot_corvette_3_hull_add: "Patrol Craft Hullpoints"
+
+acot_corvette_1: "Outsider Corvette"
+acot_corvette_1_plural: "Outsider Corvettes"
+acot_corvette_2: "Outsider Raider"
+acot_corvette_2_plural: "Outsider Raiders"
+acot_corvette_3: "Outsider Patrol Craft"
+acot_corvette_3_plural: "Outsider Patrol Crafts"
+
+ACOT_CORVETTE_MID_M1S2: "Gunboat"
+ACOT_CORVETTE_MID_S4: "Interceptor Ship"
+ACOT_CORVETTE_MID_SH4: "Micro Carrier"
+ACOT_CORVETTE_MID_M1SH2: "Assault Hangar"
+ACOT_CORVETTE_MID_S2SH2: "Sentinel Hangar"
+
+########### DEST ###########
+
+#tech_destroyers: "Interconnected Sections"
+#tech_destroyers_desc: "By connection two sections together, a more powerful military ship can be fielded. These new lines of ships will serve as the Medium Combat Vessels for the empire."
+#TECH_UNLOCK_MEDIUM_SHIP_TITLE: "§HUnlocks Ship Type:§! Medium Combat Vessels"
+#TECH_UNLOCK_MEDIUM_SHIP_DESC: "§HMedium Combat Vessels§!\nMedium Combat Vessels are two-section military ships that can perform various roles."
+#tech_destroyer_hull_1: "Improved Medium Hulls"
+#tech_destroyer_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable medium combat vessels."
+#tech_destroyer_hull_2: "Advanced Medium Hulls"
+#tech_destroyer_hull_2_desc: "The latest generation of medium combat vessels hulls have optimized structural integrity fields and improved bulkheads."
+#tech_destroyer_build_speed: "Standardized Medium Vessel Patterns"
+#tech_destroyer_build_speed_desc: "Establishing new standards for the modeling and construction of medium combat vessels greatly improves the efficiency of the production pipeline."
+#tech_destroyer_build_speed_2: "Finalized Medium Vessel Patterns"
+#tech_destroyer_build_speed_2_desc: "Finalizing the standards for the modeling and construction of medium combat vessels greatly improves the efficiency of the production pipeline."
+   
+mod_shipsize_acot_destroyer_1_build_speed_mult: "Destroyer Build Speed"
+mod_shipsize_acot_destroyer_2_build_speed_mult: "Frigate Build Speed"
+mod_shipsize_acot_destroyer_3_build_speed_mult: "Monitor Build Speed"
+mod_shipsize_acot_destroyer_1_hull_add: "Destroyer Hullpoints"
+mod_shipsize_acot_destroyer_2_hull_add: "Frigate Hullpoints"
+mod_shipsize_acot_destroyer_3_hull_add: "Monitor Hullpoints"
+
+acot_destroyer_1: "Outsider Destroyer"
+acot_destroyer_1_plural: "Outsider Destroyers"
+acot_destroyer_2: "Outsider Frigate"
+acot_destroyer_2_plural: "Outsider Frigates"
+acot_destroyer_3: "Outsider Monitor"
+acot_destroyer_3_plural: "Outsider Monitors"
+
+ACOT_DESTROYER_BOW_M1S2: "Gunship Bow"
+ACOT_DESTROYER_BOW_S4: "Interceptor Bow"
+ACOT_DESTROYER_BOW_MH1SH2: "Carrier Bow"
+ACOT_DESTROYER_BOW_M1SH2: "Assault Hangar Bow"
+ACOT_DESTROYER_BOW_L1: "Heavy Bow"
+
+ACOT_DESTROYER_STERN_M1: "Gunship Stern"
+ACOT_DESTROYER_STERN_S2: "Interceptor Stern"
+ACOT_DESTROYER_STERN_SH2: "Hangar Stern"
+ACOT_DESTROYER_STERN_MH1: "Carrier Stern"
+ACOT_DESTROYER_STERN_L1: "Heavy Stern"
+
+########### CRUIS ###########
+
+#tech_cruisers: "Heavy Warship Implementation"
+#tech_cruisers_desc: "Stronger weapons demand for stronger ships. If our empire is to truly project our space dominance, we must create even more powerful ships to form the backbone of our fleets.."
+#TECH_UNLOCK_HEAVY_SHIP_TITLE: "§HUnlocks Ship Type:§! Heavy Combat Vessels"
+#TECH_UNLOCK_HEAVY_SHIP_DESC: "§HHeavy Combat Vessels§!\nHeavy Combat Vessels are three-section military ships serving as the backbone of any large-scale space operations."
+#tech_cruiser_hull_1: "Improved Heavy Hulls"
+#tech_cruiser_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable heavy combat vessels."
+#tech_cruiser_hull_2: "Advanced Heavy Hulls"
+#tech_cruiser_hull_2_desc: "The latest generation of heavy combat vessels have optimized structural integrity fields and improved bulkheads."
+#tech_cruiser_build_speed: "Standardized Heavy Vessel Patterns"
+#tech_cruiser_build_speed_desc: "Establishing new standards for the modeling and construction of heavy combat vessels will greatly improves the efficiency of the production pipeline."
+#tech_cruiser_build_speed_2: "Finalized Heavy Vessel Patterns"
+#tech_cruiser_build_speed_2_desc: "Finalizing the standards for the modeling and construction of heavy combat vessels will greatly improves the efficiency of the production pipeline."
+  
+mod_shipsize_acot_cruiser_1_build_speed_mult: "Cruiser Build Speed"
+mod_shipsize_acot_cruiser_2_build_speed_mult: "Guardian Build Speed"
+mod_shipsize_acot_cruiser_3_build_speed_mult: "Light Carrier Build Speed"
+mod_shipsize_acot_cruiser_1_hull_add: "Cruiser Hullpoints"
+mod_shipsize_acot_cruiser_2_hull_add: "Guardian Hullpoints"
+mod_shipsize_acot_cruiser_3_hull_add: "Light Carrier Hullpoints"
+
+acot_cruiser_1: "Outsider Cruiser"
+acot_cruiser_1_plural: "Outsider Cruisers"
+acot_cruiser_2: "Outsider Guardian"
+acot_cruiser_2_plural: "Outsider Guardians"
+acot_cruiser_3: "Outsider Light Carrier"
+acot_cruiser_3_plural: "Outsider Light Carriers"
+
+ACOT_CRUISER_BOW_L1M1S2: "Standard Bow"
+ACOT_CRUISER_BOW_L2: "Heavy Bow"
+ACOT_CRUISER_BOW_L1S4: "Guardian Bow"
+ACOT_CRUISER_BOW_AL2: "Artillery Bow"
+ACOT_CRUISER_BOW_M2S4: "Assault Bow"
+ACOT_CRUISER_BOW_M4: "Attacker Bow"
+ACOT_CRUISER_BOW_M2SH4: "Hangar Bow"
+ACOT_CRUISER_BOW_MH4: "Carrier Bow"
+ACOT_CRUISER_BOW_L4: "Glasscannon Bow"
+ACOT_CRUISER_BOW_XL: "Spinal Carrier Bow"
+ACOT_CRUISER_BOW_LH1MH2L: "Spinal Carrier Bow"
+
+ACOT_CRUISER_MID_L2S4: "Guardian Core"
+ACOT_CRUISER_MID_MH6: "Carrier Core"
+ACOT_CRUISER_MID_L2M2: "Heavy Core"
+ACOT_CRUISER_MID_M4MH2: "Assault Carrier Core"
+ACOT_CRUISER_MID_M2MH4: "Light Carrier Core"
+ACOT_CRUISER_MID_M6: "Attacker Core"
+ACOT_CRUISER_MID_M4S4: "Assault Core"
+ACOT_CRUISER_BOW_LH1MH2: "Heavy Carrier Core"
+ACOT_CRUISER_MID_L3: "Heavy Core"
+ACOT_CRUISER_MID_AL1L2: "Artillery Core"
+ACOT_CRUISER_MID_XL1AL2: "Glasscannon Core"
+
+ACOT_CRUISER_STERN_M1S2: "Assault Stern"
+ACOT_CRUISER_STERN_M2: "Attacker Stern"
+ACOT_CRUISER_STERN_L1: "Heavy Stern"
+ACOT_CRUISER_STERN_S4: "Sentinel Stern"
+ACOT_CRUISER_STERN_AL1: "Artillery Stern"
+ACOT_CRUISER_STERN_MH2: "Hangar Stern"
+ACOT_CRUISER_STERN_M4: "Glasscannon Stern"
+
+########### SUPPORTORUS ###########
+
+tech_acot_ship_support: "Fleet Support Vessels"
+tech_acot_ship_support_desc: "Support Order Acknowledged"
+TECH_UNLOCK_SUPPORT_SHIP_TITLE: "§HUnlocks Ship Type:§! Fleet Support Vessels"
+TECH_UNLOCK_SUPPORT_SHIP_DESC: "§HFleet Support Vessels§!\nThese three-section ships are typically designed to support a fleet with their powerful auras."
+
+tech_acot_ship_support_hull_1: "Improved Support Hulls"
+tech_acot_ship_support_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable fleet support vessels."
+tech_acot_ship_support_hull_2: "Advanced Support Hulls"
+tech_acot_ship_support_hull_2_desc: "The latest generation of fleet support vessels have optimized structural integrity fields and improved bulkheads."
+tech_acot_ship_support_build_speed: "Standardized Support Vessels Patterns"
+tech_acot_ship_support_build_speed_desc: "Establishing new standards for the modeling and construction of fleet support vessels will greatly improves the efficiency of the production pipeline."
+tech_acot_ship_support_build_speed_2: "Finalized Support Vessels Patterns"
+tech_acot_ship_support_build_speed_2_desc: "Finalizing the standards for the modeling and construction of fleet support vessels will greatly improves the efficiency of the production pipeline."
+
+mod_shipsize_acot_support_1_build_speed_mult: "Interdictor Build Speed"
+mod_shipsize_acot_support_2_build_speed_mult: "Protector Build Speed"
+mod_shipsize_acot_support_3_build_speed_mult: "Manipulator Build Speed"
+mod_shipsize_acot_support_1_hull_add: "Interdictor Hullpoints"
+mod_shipsize_acot_support_2_hull_add: "Protector Hullpoints"
+mod_shipsize_acot_support_3_hull_add: "Manipulator Hullpoints"
+
+acot_support_1: "Outsider Interdictor"
+acot_support_1_plural: "Outsider Interdictors"
+acot_support_2: "Outsider Protector"
+acot_support_2_plural: "Outsider Protectors"
+acot_support_3: "Outsider Manipulator"
+acot_support_3_plural: "Outsider Manipulators"
+
+ACOT_SUPPORT_BOW_L2: "Heavy Bow"
+ACOT_SUPPORT_BOW_M2S4: "Assault Bow"
+ACOT_SUPPORT_BOW_M4: "Attacker Bow"
+ACOT_SUPPORT_BOW_M2SH4: "Hangar Bow"
+
+ACOT_SUPPORT_MID_L2M2: "Heavy Core"
+ACOT_SUPPORT_MID_M2MH4: "Hangar Core"
+ACOT_SUPPORT_MID_M6: "Attacker Core"
+ACOT_SUPPORT_MID_M4S4: "Assault Core"
+
+ACOT_SUPPORT_STERN_M2: "Assault Stern"
+ACOT_SUPPORT_STERN_L1: "Heavy Stern"
+ACOT_SUPPORT_STERN_S4: "Sentinel Stern"
+
+########### BB ###########
+
+#tech_battleships: "Capital Ship Introduction"
+#tech_battleships_desc: "The largest of the standard military vessels, capital ships are powerful combat vessels ideal for carrying out various duties, ranging from sieging or carrier operations."
+#TECH_UNLOCK_CAPITAL_SHIP_TITLE: "§HUnlocks Ship Type:§! Capital Ships"
+#TECH_UNLOCK_CAPITAL_SHIP_DESC: "§HCapital Ships§!\nCapital Ships are four-section ships that can be built for many different tasks, they generally require a starfortress for construction."
+#tech_battleship_hull_1: "Improved Capital Ship Hulls"
+#tech_battleship_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable capital ships."
+#tech_battleship_hull_2: "Advanced Capital Ship Hulls"
+#tech_battleship_hull_2_desc: "The latest generation of capital ships hulls have optimized structural integrity fields and improved bulkheads."
+#tech_battleship_build_speed: "Standardized Capital Ship Patterns"
+#tech_battleship_build_speed_desc: "Establishing new standards for how we design and construct capital ships greatly improves the speed at which they can be assembled."
+#tech_battleship_build_speed_2: "Finalized Capital Ship Patterns"
+#tech_battleship_build_speed_2_desc: "Finalizing the standards for how we design and construct capital shipss greatly improves the speed at which they can be assembled."
+
+mod_shipsize_acot_battleship_1_build_speed_mult: "Battleship Build Speed"
+mod_shipsize_acot_battleship_2_build_speed_mult: "Battlecruiser Build Speed"
+mod_shipsize_acot_battleship_3_build_speed_mult: "Carrier Build Speed"
+mod_shipsize_acot_battleship_1_hull_add: "Battleship Hullpoints"
+mod_shipsize_acot_battleship_2_hull_add: "Battlecruiser Hullpoints"
+mod_shipsize_acot_battleship_3_hull_add: "Carrier Hullpoints"
+
+acot_battleship_1: "Outsider Battleship"
+acot_battleship_1_plural: "Outsider Battleships"
+acot_battleship_2: "Outsider Battlecruiser"
+acot_battleship_2_plural: "Outsider Battlecruisers"
+acot_battleship_3: "Outsider Carrier"
+acot_battleship_3_plural: "Outsider Carriers"
+
+ACOT_BATTLESHIP_BOW_L2M2S4: "Attacker Bow"
+ACOT_BATTLESHIP_BOW_L4S8: "Sentinel Bow"
+ACOT_BATTLESHIP_BOW_L4: "Heavy Bow"
+ACOT_BATTLESHIP_BOW_AL4: "Artillery Bow"
+ACOT_BATTLESHIP_BOW_L1M2MH4: "Hangar Bow"
+ACOT_BATTLESHIP_BOW_L2MH4: "Assault Carrier Bow"
+ACOT_BATTLESHIP_BOW_XL: "Spinal Bow"
+ACOT_BATTLESHIP_BOW_M6S4: "Enforcer Bow"
+ACOT_BATTLESHIP_BOW_M1S2MH6: "Carrier Bow"
+ACOT_BATTLESHIP_BOW_LH4: "Spinal Hangar Bow"
+ACOT_BATTLESHIP_BOW_LH2MH4: "Spinal Carrier Bow"
+
+ACOT_BATTLESHIP_MID_L4S8: "Sentinel Core"
+ACOT_BATTLESHIP_MID_L2M8: "Assault Core"
+ACOT_BATTLESHIP_MID_L4M4: "Attacker Core"
+ACOT_BATTLESHIP_MID_L6: "Heavy Core"
+ACOT_BATTLESHIP_MID_AL6: "Artillery Core"
+ACOT_BATTLESHIP_MID_M8LH2: "Hangar Core"
+ACOT_BATTLESHIP_MID_XL3: "Siegebreaker Core"
+ACOT_BATTLESHIP_MID_XL4AL4: "Glasscannon Core"
+ACOT_BATTLESHIP_MID_LH6: "Carrier Core"
+ACOT_BATTLESHIP_MID_M4LH4: "Assault Hangar Core"
+
+ACOT_BATTLESHIP_STERN_S8: "Sentinel Stern"
+ACOT_BATTLESHIP_STERN_M2S4: "Assault Stern"
+ACOT_BATTLESHIP_STERN_L2: "Heavy Stern"
+ACOT_BATTLESHIP_STERN_AL1: "Artillery Stern"
+ACOT_BATTLESHIP_STERN_M4: "Attacker Stern"
+ACOT_BATTLESHIP_STERN_XL: "Siegebreaker Stern"
+ACOT_BATTLESHIP_STERN_MH4: "Hangar Stern"
+ACOT_BATTLESHIP_STERN_LH4: "Carrier Stern"
+ACOT_BATTLESHIP_STERN_L4: "Glasscannon Stern"
+ACOT_BATTLESHIP_STERN_AL4: "Glassartillery Stern"
+ACOT_BATTLESHIP_STERN_AL2L2: "Hybrid Glasscannon Stern"
+
+
+########### TITARAN ###########
+
+#tech_titans: "Overwhelming Fleet Dominance"
+#tech_titans_desc: "Our fleets have expanded so much that it has become quite troublesome for our admirals to command without their own personal ship. To remedy this issue, plans are now being formulated to create the very first flagship. These ships will serve not only as seats for our admirals, but also as powerful siege breakers to overwhelm our foes."
+#TECH_UNLOCK_FLAG_SHIP_TITLE: "§HUnlocks Ship Type:§! Flagships"
+#TECH_UNLOCK_FLAG_SHIP_DESC: "§HFlagships§!\nFlagships are five-section ships that are usually assigned to lead a fleet and provide support with their system-scale auras, or overwhelming firepower."
+
+#tech_titan_hull_1: "Improved Flagship Hulls"
+#tech_titan_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable flagships."
+#tech_titan_hull_2: "Advanced Flagship Hulls"
+#tech_titan_hull_2_desc: "The latest generation of flagship hulls have optimized structural integrity fields and improved bulkheads."
+#tech_titan_build_speed: "Standardized Flagship Patterns"
+#tech_titan_build_speed_desc: "Establishing new standards for how we design and construct flagships greatly improves the speed at which they can be assembled."
+#tech_titan_build_speed_2: "Finalized Flagship Patterns"
+#tech_titan_build_speed_2_desc: "Finalizing the standards for how we design and construct flagships greatly improves the speed at which they can be assembled."
+
+mod_shipsize_acot_titan_1_build_speed_mult: "Titan Build Speed"
+mod_shipsize_acot_titan_2_build_speed_mult: "Dreadnought Build Speed"
+mod_shipsize_acot_titan_3_build_speed_mult: "Supercarrier Build Speed"
+mod_shipsize_acot_titan_1_hull_add: "Titan Hullpoints"
+mod_shipsize_acot_titan_2_hull_add: "Dreadnought Hullpoints"
+mod_shipsize_acot_titan_3_hull_add: "Supercarrier Hullpoints"
+
+acot_titan_1: "Outsider Titan"
+acot_titan_1_plural: " OutsiderTitans"
+acot_titan_2: "Outsider Dreadnought"
+acot_titan_2_plural: "Outsider Dreadnoughts"
+acot_titan_3: "Outsider Supercarrier"
+acot_titan_3_plural: "Outsider Supercarriers"
+
+ACOT_TITAN_BOW_T: "Arch-Spinal Bow"
+ACOT_TITAN_BOW_2XL: "Dual Spinal Bow"
+ACOT_TITAN_BOW_4LH: "Supercarrier Bow"
+ACOT_TITAN_BOW_2L3M2S: "Assault Bow"
+ACOT_TITAN_BOW_EMPTY: "Reinforced Bow"
+
+ACOT_TITAN_8AL: "Artillery Core"
+ACOT_TITAN_MID_8L: "Heavy Core"
+ACOT_TITAN_MID_4AL4L: "Hybrid Core"
+ACOT_TITAN_MID_4AL4LH: "Assault Carrier Core"
+ACOT_TITAN_MID_8LH: "Supercarrier Core"
+ACOT_TITAN_MID_4XL: "Siegebreaker Core"
+ACOT_TITAN_MID_2XL4AL: "Hammer Core"
+
+ACOT_TITAN_STERN_L4: "Heavy Stern"
+ACOT_TITAN_STERN_AL4: "Artillery Stern"
+ACOT_TITAN_STERN_L2LH2: "Assault Carrier Stern"
+ACOT_TITAN_STERN_XL2: "Siegebreaker Stern"
+ACOT_TITAN_STERN_AL2LH2: "Heavy Carrier Stern"
+ACOT_TITAN_STERN_LH4: "Supercarrier Stern"
+
+########### BEHEMOTH ###########
+
+tech_acot_ship_behemoth: "Mobile Command Headquarters"
+tech_acot_ship_behemoth_desc: "While the flagships are well suited for our admirals to lead their fleets, we should look for even greater heights. We cannot forever hope to entrench ourselves on planetary bodies, or even immobile megastructures. Our future can only be secured by creating a beacon, a mobile command ship that serves as the symbol of our undying light."
+tech_acot_ship_behemoth_hull_1: "Improved Command Hulls"
+tech_acot_ship_behemoth_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable command ships."
+tech_acot_ship_behemoth_hull_2: "Advanced Command Hulls"
+tech_acot_ship_behemoth_hull_2_desc: "New upgrades to the Command Ships have optimized structural integrity fields and improved bulkheads."
+tech_acot_ship_behemoth_upgrade_pack_1: "Specialized Behemoth Components"
+tech_acot_ship_behemoth_upgrade_pack_1_desc: "The latest generation of upgrades to the Command Ship Hulls have even more fortifications and capacity for higher improvements."
+TECH_UNLOCK_COMMAND_SHIP_TITLE: "§HUnlocks Ship Type:§! Command Ships"
+TECH_UNLOCK_COMMAND_SHIP_DESC: "§HCommand Ships§!\nThese six-section behemoths act as a mobile command unit. They are given internal living space necessary for economic systems and can allow an empire to survive even without planets."
+
+mod_shipsize_acot_behemoth_build_speed_mult: "Behemoth Build Speed"
+mod_shipsize_acot_behemoth_2_build_speed_mult: "Super-Dreadnought Build Speed"
+mod_shipsize_acot_behemoth_3_build_speed_mult: "Mothership Build Speed"
+mod_shipsize_acot_behemoth_hull_add: "Behemoth Hullpoints"
+mod_shipsize_acot_behemoth_2_hull_add: "Super-Dreadnought Hullpoints"
+mod_shipsize_acot_behemoth_3_hull_add: "Mothership Hullpoints"
+
+acot_behemoth: "Behemoth"
+acot_behemoth_plural: "Behemoths"
+acot_behemoth_2: "Super-Dreadnought"
+acot_behemoth_2_plural: "Super-Dreadnought"
+acot_behemoth_3: "Mothership "
+acot_behemoth_3_plural: " Motherships"
+
+ACOT_BEHEMOTH_BOW_1W2T: "Twin Arch-Spinal Bow"
+ACOT_BEHEMOTH_BOW_1W4XL: "Quad Spinal Bow"
+ACOT_BEHEMOTH_BOW_1W8HL: "Supercarrier Bow"
+ACOT_BEHEMOTH_BOW_EMPTY: "Reinforced Bow"
+ACOT_BEHEMOTH_MID_16L: "Heavy Core"
+ACOT_BEHEMOTH_MID_16AL: "Artillery Core"
+ACOT_BEHEMOTH_MID_8AL8LH: "Heavy Carrier Core"
+ACOT_BEHEMOTH_MID_8XL: "Siegebreaker Core"
+ACOT_BEHEMOTH_MID_4T: "Titankiller Core"
+ACOT_BEHEMOTH_HUB_13XL: "Command Hub"
+ACOT_BEHEMOTH_STERN_8L: "Heavy Stern"
+ACOT_BEHEMOTH_STERN_2T: "Titankiller Stern"
+ACOT_BEHEMOTH_STERN_4XL: "Siegebreaker Stern"
+ACOT_BEHEMOTH_STERN_8AL: "Artillery Stern"
+ACOT_BEHEMOTH_STERN_2AL6LH: "Supercarrier Stern"
+
+ACOT_BEHEMOTH3_BOW_2T: "Twin Arch-Spinal Bow"
+ACOT_BEHEMOTH3_BOW_4XL: "Quad Spinal Bow"
+ACOT_BEHEMOTH3_BOW_8HL: "Supercarrier Bow"
+ACOT_BEHEMOTH3_BOW_EMPTY: "Reinforced Bow"
+ACOT_BEHEMOTH3_MID_16L: "Heavy Core"
+ACOT_BEHEMOTH3_MID_16AL: "Artillery Core"
+ACOT_BEHEMOTH3_MID_8AL8LH: "Heavy Carrier Core"
+ACOT_BEHEMOTH_HUB3_1XL12L: "Heavy Command Hub"
+ACOT_BEHEMOTH_HUB3_1XL12AL: "Artillery Command Hub"
+ACOT_BEHEMOTH3_STERN_8L: "Heavy Stern"
+ACOT_BEHEMOTH3_STERN_8AL: "Artillery Stern"
+ACOT_BEHEMOTH3_STERN_2AL6LH: "Supercarrier Stern"
+
+########### JUGG ###########
+
+ACOT_CORE_JUGGERNAUT_SECTION: "Juggernaut Section"
+ACOT_CORE_JUGGERNAUT_SECTION_TORP: "Missile Juggernaut Section"
+
+########### TITANKILLER ###########
+
+acot_titan_killer: "Titan Killer"
+acot_titan_killer_plural: "Titan Killers"
+
+ACOT_ION_CANNON_TITAN: "Titan Killer"
+ACOT_ION_CANNON_MID: "Titan Defender"
+ACOT_ION_CANNON_CORE: "Titan Fortress"
+
+########### PLATFORM ###########
+
+tech_acot_platform_resource_section_1: "Starbase Resource Platforms"
+tech_acot_platform_resource_section_1_desc: "We cannot always rely on planets to provide the resources we need. Only idiots think that they should not exploit the vastness of spaces to create large economic networks."
+
+tech_acot_platform_resource_section_3: "Advanced Resource Platforms"
+tech_acot_platform_resource_section_3_desc: "We must improve further. Our resource stations must keep up with our planetary productions and empire's demands. We will not be like some of those old empires who died because they just rely sole on planets."
+
+tech_acot_platform_resource_section_5: "Replicant Resource Platforms"
+tech_acot_platform_resource_section_5_desc: "To think that some empires actually died because they relied solely on planetary production is quite hilarious and pathetic. Space is there, the galaxy is there. What kind of primitive, archaic thought would make them confines their economy to that which is limited?"
+
+tech_acot_platform_resource_node_3: "Advanced Resource Nodes"
+tech_acot_platform_resource_node_3_desc: "We must be more efficient. We must make use of every availiable space within the resource stations and gain maximum productivity."
+
+tech_acot_platform_resource_node_5: "Replicant Resource Nodes"
+tech_acot_platform_resource_node_5_desc: "Hard-Light technologies will allow us to create even more powerful resource nodes for our stations."
+
+ACOT_MINING_STATION_SECTION: "Mining Station"
+ACOT_RESEARCH_STATION_SECTION: "Research Station"
+
+ACOT_RESOURCE_STATION_SECTION: "Basic Resource Generator"
+ACOT_RESOURCE_STATION_SECTION_3: "Advanced Resource Generator"
+ACOT_RESOURCE_STATION_SECTION_5: "Replicant Resource Generator"
+
+ACOT_SCIENCE_STATION_SECTION: "Basic Science Facility"
+ACOT_SCIENCE_STATION_SECTION_3: "Advanced Science Facility"
+ACOT_SCIENCE_STATION_SECTION_5: "Replicant Science Facility"
+
+ACOT_GOVERNMENT_STATION_SECTION: "Basic Emporium"
+ACOT_GOVERNMENT_STATION_SECTION_3: "Advanced Emporium"
+ACOT_GOVERNMENT_STATION_SECTION_5: "Replicant Emporium"
+
+ACOT_XL_MILITARY_STATION_SECTION: "Glasscannon Station Section"
+
+ACOT_LIGHT_MILITARY_STATION_SECTION: "Light Defense Section"
+ACOT_PD_MILITARY_STATION_SECTION: "Sentinel Defence Section"
+ACOT_SPD_MILITARY_STATION_SECTION: "Guardian Defense Section"
+ACOT_MEDIUM_MILITARY_STATION_SECTION: "Medium Defense Section"
+ACOT_MISSILE_MILITARY_STATION_SECTION: "Missile Defense Section"
+ACOT_TM_MILITARY_STATION_SECTION: "Hybrid Defense Section"
+ACOT_HEAVY_MILITARY_STATION_SECTION: "Artillery Defense Section"
+ACOT_HANGAR_MILITARY_STATION_SECTION: "Hangar Defense Section"
+ACOT_XL_MILITARY_STATION_SECTION: "Glasscannon Defense Section"
+
+ACOT_LIGHT_LARGE_MILITARY_STATION_SECTION: "Light Fortress Section"
+ACOT_MEDIUM_LARGE_MILITARY_STATION_SECTION: "Medium Fortress Section"
+ACOT_MISSILE_LARGE_MILITARY_STATION_SECTION: "Missile Fortress Section"
+ACOT_TM_LARGE_MILITARY_STATION_SECTION: "Team Fortress Section"
+ACOT_HEAVY_LARGE_MILITARY_STATION_SECTION: "Artillery Fortress Section"
+ACOT_HANGAR_LARGE_MILITARY_STATION_SECTION: "Hangar Fortress Section"
+ACOT_XL_LARGE_MILITARY_STATION_SECTION: "Glasscannon Fortress Section"
+
+acot_bulwark_station: "Bulwark Station"
+acot_bulwark_station_plural: "Bulwark Stations"
+
+ACOT_BULWARK_SECTION: "Bulwark Facetanker"
+ACOT_BULWARK_XL_SECTION: "Bulwark DPS-Wannabe Tanker"
+ACOT_OUTPOST_STARBASE_SECTION: "Gordon Freeman"
+ACOT_STARPORT_STARBASE_SECTION: "Thomas Wayne"
+ACOT_STARHOLD_STARBASE_SECTION: "Soviet Russia"
+ACOT_STARFORTRESS_STARBASE_SECTION: "TF2 Scout Sucks"
+ACOT_CITADEL_STARBASE_SECTION: "Favorite Spot on the Citadel"
+
+########### RESOURCE STATION ###########
+
+acot_science_station: "Research Base"
+acot_science_station_plural: "Research Bases"
+
+acot_resource_station: "Resource Generators"
+acot_resource_station_plural: "Resource Generators"
+
+acot_government_station: "Fabricator"
+acot_government_station_plural: "Fabricators"
+
+########### TRANSPORT ###########
+
+COMBAT_COMPUTER_TRANSPORT: "Advanced Transport Ship Computer"
+TRANSPORT_BEHAVIOR_DESC: "Transport ships will ignore firefights and can be ordered to travel away or land on planets to avoid hostiles. Micromanagement is required as the transports will not stay behind in combat unless ordered to."
+ 
+FLEE_COMPUTER_TRANSPORT: "Evasive Transport Ship Computer"
+COWARD_TRANSPORT_BEHAVIOR_DESC: "Transport ships will attempt to disengage and flee outside of combat space. This can potentially allow them to shake off enemy fleets with insufficient range and speed. May cause erratic behaviors as the transports will continue fleeing outside the system spaces."
+ 
+FOLLOW_COMPUTER_TRANSPORT: "Scatter Transport Ship Computer"
+FOLLOW_TRANSPORT_BEHAVIOR_DESC: "Transport ships will scatter into a larger circle and try to avoid grouping up as much as possible, but will otherwise remain in the battle-zone."
+ 
+SIMPLE_COMBAT_COMPUTER_TRANSPORT: "Basic Transport Ship Computer"
+SIMPLE_TRANSPORT_BEHAVIOR_DESC: "Transport ships will stay behind and circling around in panic hoping for someone to save them. They will stay in tight circle formation, making them easy to kill as a whole."
+ 
+HEAVY_TRANSPORT_SECTION: "Invasion Barge Hull"
+SUPER_TRANSPORT_SECTION: "Ancient Seeker Hull"
+ 
+tech_reinforced_transport: "Advanced Transport Blueprints"
+tech_reinforced_transport_desc: "Based on the designs of our cruisers, we can now create a new line of stronger transports with improved durability at the cost of lower maneuverability. The updated designs will also upgrade the existing transport patterns."
+
+tech_advanced_transport: "Replicant Transport Blueprints"
+tech_advanced_transport_desc: "Adapting certain replicant designs to our transports and barges will greatly increase their survivability."
+
+tech_noah_transport: "Ancient Seeker Blueprints"
+tech_noah_transport_desc: "With the invention of advanced enigmatic technologies, we can now construct one of the most powerful transport chassis the galaxy has ever witnessed."
+
+acot_heavy_transport: "Invasion Barge"
+acot_heavy_transport_plural: "Invasion Barges"
+
+acot_precursor_transport: "Ancient Seeker"
+acot_precursor_transport_plural: "Ancient Seekers"
+
+mod_shipsize_transport_hull_add: "Transport Hullpoints"
+
+######################################### STARBASE #########################################
+
+########### DEFENSE MODULES ###########
+
+sm_acot_spaceport_module_defense_small: "Guardian Module"
+sm_acot_spaceport_module_defense_small_desc: "Adds a section with eight small-size weapons and four medium-size defense slots."
+
+sm_acot_spaceport_module_defense_medium: "Medium Weapon Module"
+sm_acot_spaceport_module_defense_medium_desc: "Adds a section with four medium-size weapons and two medium-size defense slots."
+
+sm_acot_spaceport_module_defense_large: "Heavy Heavy Module"
+sm_acot_spaceport_module_defense_large_desc: "Adds a section with two large-size weapons and a single medium-size defense slot."
+
+sm_acot_spaceport_module_defense_artillery: "Artillery Weapon Module"
+sm_acot_spaceport_module_defense_artillery_desc: "Adds a section with two artillery weapons."
+
+sm_acot_spaceport_module_defense_hangar: "Hangar Module"
+sm_acot_spaceport_module_defense_hangar_desc: "Adds a section with two large-size hangars and a single medium-size defense slot."
+
+sm_acot_spaceport_module_defense_fortress: "Reinforced Section"
+sm_acot_spaceport_module_defense_fortress_desc: "Adds a reinforced section with four large-size defense slots."
+
+########### RESOURCE MODULES ###########
+
+sm_acot_spaceport_module_resource_minerals: "Mining Guilds"
+sm_acot_spaceport_module_resource_minerals_desc: "A guild or network dedicated to the procurement of space minerals."
+
+sm_acot_spaceport_module_resource_energy: "Energy Exchanges"
+sm_acot_spaceport_module_resource_energy_desc: "A place where energy credits can be made."
+
+sm_acot_spaceport_module_resource_food: "Food Stockpiles"
+sm_acot_spaceport_module_resource_food_desc: "A section dedicated to agricultural harvest in space."
+
+sm_acot_spaceport_module_resource_unity: "Space Musuem"
+sm_acot_spaceport_module_resource_unity_desc: "An archive of historical importance that reminds the people of the empire's greatness."
+
+sm_acot_spaceport_module_resource_alloys: "Orbital Fabricator"
+sm_acot_spaceport_module_resource_alloys_desc: "A section of fabrication units dedicated to alloy productions."
+
+sm_acot_spaceport_module_resource_goods: "Space Factorium"
+sm_acot_spaceport_module_resource_goods_desc: "An array of workshops where goods are made and distributed."
+
+sm_acot_spaceport_module_resource_science: "Space Science Company"
+sm_acot_spaceport_module_resource_science_desc: "A work station for scientists and researchers to conduct exploration and discovery."
+
+sm_acot_spaceport_module_resource_silo: "Silo Extension"
+sm_acot_spaceport_module_resource_silo_desc: "Silos needed. We must construct additional silos. That silo must be placed on the Starbase Module. We require more Silos."
+
+#sm_solar_panel_network: "Solar Panel Network"
+#sm_solar_panel_network_desc: "An array of solar panels that harvest raw energy from the star."
+
+########### Shipyard MODULES ###########
+
+sm_acot_spaceport_module_shipyard_2: "Shipyard"
+sm_acot_spaceport_module_shipyard_2_desc: "Shipyards enables construction of a ship. Also adds four medium defense modules."
+
+sm_acot_spaceport_module_shipyard_2: "Heavy Shipyard"
+sm_acot_spaceport_module_shipyard_2_desc: "Heavy Shipyards allow two ships to be built simultaneously per module. Also adds two medium defense modules. "
+
+sm_acot_spaceport_module_shipyard_3: "Advanced Shipyard"
+sm_acot_spaceport_module_shipyard_3_desc: "Advanced Shipyards allow four ships to be built simultaneously per module."
+
+########### Starbase Buildings ###########
+
+sm_acot_spaceport_building_resource_alloys: "Alloys Fabrication Matrix"
+sm_acot_spaceport_building_resource_alloys_desc: "Alloys Fabrication Matrix"
+
+sm_acot_spaceport_building_resource_energy: "Orbital Energy Nexus"
+sm_acot_spaceport_building_resource_energy_desc: "Orbital Energy Nexus"
+
+sm_acot_spaceport_building_resource_food: "Orbital Agri-Center"
+sm_acot_spaceport_building_resource_food_desc: "Orbital Agri-Center "
+
+sm_acot_spaceport_building_resource_goods: "Master Factorium"
+sm_acot_spaceport_building_resource_goods_desc: "Master Factorium"
+
+sm_acot_spaceport_building_resource_minerals: "Orbital Minerals Processor"
+sm_acot_spaceport_building_resource_minerals_desc: "Orbital Minerals Processor"
+
+sm_acot_spaceport_building_resource_science: "Archive Hub"
+sm_acot_spaceport_building_resource_science_desc: "Archive Hub"
+
+sm_acot_spaceport_building_resource_unity: "Space Consortium"
+sm_acot_spaceport_building_resource_unity_desc: "Space Consortium"
+
+sm_acot_spaceport_building_solar_network: "Solar Panel Network"
+sm_acot_spaceport_building_solar_network_desc: "A powerful array of solar panels that harvest raw energy from the star."
+
+#sm_titan_yards: "Advanced Assembly Yard"
+#sm_titan_yards_desc: "Assembly Yards provide specialized materials for shipyards, improving their efficiency. The building also function as powerful drydocks and extra ship refinements can be done here."
+
+#sm_defense_grid: "Auxiliary Platform Management Systems"
+#sm_defense_grid_desc: "The Starbase primary supercomputer can be augmented with an auxiliary system to increase its ability to support more platforms."
+
+sm_acot_spaceport_building_assembly_network: "Assembly Network"
+sm_acot_spaceport_building_assembly_network_desc: "Assembly Network provides neural networks between each shipyard, allowing them to perform tasks with twice the efficiency."
+
+cannot_jump_to_system_due_to_component: "Cannot jump to this system due to active starbase nullification effect."
+
+#sm_warp_fluctuator: "Internal Mass Relay"
+#sm_warp_fluctuator_desc: "Assists allied fleets in making precise FTL jumps as well as enhancing jump capabilities. The Relay also acts as emergency exit point for ships sustaining critical damage."
+
+#sm_communications_jammer: "Gap Generator"
+#sm_communications_jammer_desc: "Gap Generator make use of artificial nebula field to block off enemy sensors as well as disrupting their targeting systems. Other empires will not be able to see this system as if there's a nebula masking it."
+
+#sm_command_center: "Orbital Command Center"
+#sm_command_center_desc: "Local Command Hub designed to better coordinate defending fleets in repelling intruders though combined efforts."

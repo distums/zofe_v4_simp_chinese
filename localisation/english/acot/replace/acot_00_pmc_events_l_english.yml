@@ -1,0 +1,1045 @@
+﻿l_english:
+ 
+acot_phanon_early_sensor_debuff: "Phanon Corps Review Bomb Incident"
+acot_phanon_early_sensor_debuff_desc: "The changes to how sensors operated was met with massive dislikes by the Agents, and it wil ltake awhile before the sensors get back to good shitz."
+
+acot_vault_good_cover_buff_25: "Good Cover 25"
+acot_vault_good_cover_buff_25_desc: "25"
+
+acot_vault_exposed_debuff_25: "Bad Cover 25"
+acot_vault_exposed_debuff_25_desc: "25"
+
+acot_vault_exposed_debuff_50: "Godawful Cover 50"
+acot_vault_exposed_debuff_50_desc: "50"
+
+acot_vault_psi_gas_debuff: "Psi Gas"
+acot_vault_psi_gas_debuff_desc: "Gas Gas Gas"
+
+acot_phanon_event_chain: "The Phanon Corps"
+acot_phanon_event_chain_title: "The Phanon Corps"
+acot_phanon_event_chain_desc: "This mysterious faction called The Phanon Corps presents itself as an enigmatic paramilitary company. We know very little of them, save for their formidable armada. Our instincts tell us that whatever it is they have in mind for our galaxy, it won't be a good one. Confrontation seems inevitable."
+phanon_ship_destroyed: "Phanon Fragments Acquired"
+phi_tech_level_stage: "Phi Tech Level Stage"
+phanon_vault_stage: "Phanon Vault Stage"
+phanon_tech_level_stage: "Phi Tech Level Stage"
+
+acot_pmc.0.title: "Unidentified Contact Detected!"
+acot_pmc.0.desc: "[root.GetName] has detected a large installation owned by an unknown faction within the space of [from.GetName]. The unknown fleets and starbases appear to be neutral, their weapons all aimed at our ships but not powered. The ships they used seem to have extremely advanced designs that we cannot identify. But the most shocking sight is that the star of this system appears to have been trapped within a titanic-sized spacecraft. Whoever controls this system must possess extremely ancient and powerful technologies."
+acot_pmc.0.a: "We should attempt to decipher their languages and communications." #Non phobe
+acot_pmc.0.b: "Another dangerous alien..." #phobe
+acot_pmc.0.c: "We do not care who they are, they will die eventually." #Dumb Purifiers
+acot_pmc.0.d: "This will not be an easy prey." #Discount Tyranid
+acot_pmc.0.e: "But are they organics?" #Edgebots
+ 
+acot_pmc.diplo_title: "Phanon Corps"
+ 
+acot_pmc.1.desc: "Welcome traveller, to the Phanon Corps's base of operations. We have taken the liberty of uploading our organization's language into your translation software so that you don't have to do that yourself. You must be wondering what we are doing here, we are a private military company, or a mercenary for hire. Unlike those marauder losers, we actually have the technologies, manpower and resource to be a legitimate business and we don't strap thrusters on every asteroids and call them a ship.\n\nWe will grant passage to our systems, and will not open fire unless fired upon first. Please enjoy your visit. If you have any questions, feel free to ask us."
+acot_pmc.1.a: "Hello there." ## NONP  HOBE
+acot_pmc.1.b: "Very well." ## PHOBE
+acot_pmc.1.purifier.a: "We won't conduct business with xenos."
+acot_pmc.1.purifier.a.response: "Won't you? We have much to offer you, we do not care about your ideology or beliefs, so long as you are willing to pay for the service. You can use our services to claim victory in the name of your empire, if you are willing."
+acot_pmc.1.swarm.a: "We do not interact with food."
+acot_pmc.1.swarm.a.response: "Ah, you must be one of those hungry swarm hive minds. But we are willing to aid in your campaign anyway, so long as you're willing to pay."
+acot_pmc.1.exterminator.a: "You are an organic. You cannot be trusted."
+acot_pmc.1.exterminator.a.response: "Are you certain that we are organics? Or do you simply judge us so by our silhouettes?\n\nRegardless, you will find our services and expertises to be quite useful in your extermination campaign. We care not for morality, only the payment."
+acot_pmc.1.insult: "<Gives the Smuggler a 25-minute long insult>"
+acot_pmc.1.insult.tooltip: "Such a sickening lifeform has no place setting up a base in this galaxy. They are nothing but just a glorified pirate, who probably just paint everything red to look edgy. Phanon Corps? Is this some kind of edgy wanna-be boogeymen? We are the Legend; we are the one who will remove this worthless fool from the galaxy that rightfully belong to us. And then we will take all of their toys since they clearly suck at using them."
+acot_pmc.1.purifier.insult.response: "Oh my, so much hostility.\n\nNevetheless, the Corps will ignore this uncalled insult, and will offer our expertises to the highest bidders."
+acot_pmc.1.swarm.insult.response: "Oh my, so much hostility.\n\nNevetheless, the Corps will ignore this uncalled insult, and will offer our expertises to the highest bidders."
+acot_pmc.1.exterminator.insult.response: "Oh my, so much hostility.\n\nNevetheless, the Corps will ignore this uncalled insult, and will offer our expertises to the highest bidders."
+ 
+acot_pmc.100.title: "The Phanon Corps"
+acot_pmc.100.desc: "And with that, our first contact with this mysterious Phanon Crops has concluded. The Corps are unlike any other enclaves or mercenary contractors we have seen previously. Their technologies, fleet powers and economic strengths are simply way too staggering to be a mere small indie companies like the rest. Despite their politeness, it is clear that they intend to both impress and intimidate us.\n\nAlthough we have no cause for concern that they'll become a threat to our expansion at the moment, we cannot shake the uncanny feeling that there's more to them than it seems. We best be cautious and prepare for a possible future conflict against the Corps." 
+acot_pmc.100.a: "They cannot be trusted any further than a space snail can be thrown."
+acot_pmc.100.b: "Their services may prove useful in the meantime though."
+
+ 
+acot_pmc.2.desc.a: "Phanon Corps at your service."
+acot_pmc.2.desc.b: "What can the Phanon Corps do for you?"
+acot_pmc.2.desc.c: "Let us begin."
+acot_pmc.2.desc.d: "We have the goods if you have the creds."
+acot_pmc.2.desc.e: "What shall it be?"
+ 
+acot_pmc.2.desc.purifier: "Are you here with new insults, or will we conduct business like gentlemen?"
+acot_pmc.2.desc.swarm: "Clearly we must have something you need from us beyond your hunger?"
+acot_pmc.2.desc.exterminator: "Are you considering our services in your campaign, exterminator?"
+ 
+acot_pmc.1.end: "That is all."
+ 
+acot_pmc.1.back: "Actually, we want to talk about something else."
+
+########################## BASE MENU
+ 
+ 
+acot_pmc.2.a: "We require your commission services."
+acot_pmc.2.a.explain: "This will open up commission services. Commission Services are Phanon-Supported Internal Management that utilizes our empire's own resources and technologies. By using Phanon's vast network intelligences and highly advanced industry, they may be able to find capable leaders from our empires much more efficiently or build fleets and armies from our own designs.\n\nCommision Services uses £energy£ and £influence£ to buy."
+acot_pmc.2.b: "We require your mercenary services."
+acot_pmc.2.b.explain: "This will open up mercenary contract service, where you can obtain and see the list of all currently availiable mercenaries."
+acot_pmc.2.b.fail_text: "There are no availiable mercenaries left at this time."
+acot_pmc.2.c: "We require your special services."
+acot_pmc.2.c.explain: "This will open up special services that do not fall under standard commissions. Usually related to sabotages or special situations."
+acot_pmc.2.d: "Access Phanon Ultra Services."
+acot_pmc.2.d.explain: "This will open up Phanon services that require Phanon Coins."
+acot_pmc.2.d.purchase: "Subscribe to Phanon Ultra Membership"
+acot_pmc.2.d.purchase.explain: "Ultra Subscriptions enable us to access Ultra Service which generally involes Phanon Corp's assets themselves. The membership lasts for 10 years, and we will gain 1 Phanon Coin as a reward."
+acot_pmc.2.d.purchase.response: "Thank you for your subscription, dear customer. A Phanon Coin has been registered into your account, you may now access our Ultra Service for as long as the subscription holds."
+acot_pmc.2.e: "We wish to know more about the Corps."
+acot_pmc.2.e.explain: "You can learn more about the Corps here. This is also used to learn and purchase extra services as needed."
+acot_pmc.2.f: "Call the mysterious back-channel"
+acot_pmc.2.f.explain: "Dial using the special back-channel link that the mysterious contact provides."
+ 
+acot_pmc.2.service.fail: "§RWe lack the authorization to access this service.§!"
+acot_pmc.2.border: "Can you open your borders?"
+acot_pmc.2.border.explain: "It seems like even getting them to open borders require payment..."
+acot_pmc.2.border.response: "Transaction Completed.\n\nYou have been granted access to our borders now."
+ 
+acot_pmc.2.end: "We'll speak later."
+acot_pmc.2.end.genocide: "Terminate Communications"
+
+acot_pmc.201.name: "Phanon Corps Salt Redirector"
+acot_pmc.201.desc: "...............\n\n§YIt appears the Corps has cut off their communications with us.§!"
+acot_pmc.201.a: "Access the Back-Channel"
+acot_pmc.201.b: "Terminate Communications"
+
+acot_pmc.202.name: "Phanon Corps Raeg Generator Auto-Responder"
+acot_pmc.202.desc.a: "§R...BURN..§!"
+acot_pmc.202.desc.b: "§R...PERISH..§!"
+acot_pmc.202.desc.c: "§R...REPENT..§!"
+acot_pmc.202.desc.d: "§R...DIE..§!"
+acot_pmc.202.a: "This galaxy rejects you."
+acot_pmc.202.a.response: "§R...WE SHALL SEE...§!"
+acot_pmc.202.b: "Stupid automated response generators..."
+acot_pmc.202.b.tooltip: "According to our understanding of the techs, these edgy quotes are nothing more than automated responses. The Agent, nor any of their operatives are even really talking to us anymore."
+acot_pmc.202.b.response: "§R...DESTROY...§!"
+
+acot_pmc.203.a.desc: "<radio static>....bzzzztz....§R...prep...§!...bzzzzzttz...§R...asion for...§!...bbzzztzt...§R...must be eclai..§!...."
+acot_pmc.203.b.desc: "<radio static>....bzzzztz....§R...egent failed to cont...§!...bzzzzzttz...§R...ermination is in eff...§!...bbzzztzt...§R...No more excuses, the nex...§!...."
+acot_pmc.203.a: "Terminate Communication"
+
+acot_phanon_subscription: "Phanon Ultra Subscription"
+acot_phanon_subscription_desc: "So Ultra, So Super..."
+
+########################## Commission SERVICE MENU #############
+
+acot_pmc.3.name: "Phanon Corps Commission Service"
+acot_pmc.3.desc.a: "Acknowledged, transferring channel to Commission Service now.\n\nPlease specify your request?"
+
+acot_pmc.3.a: "We wish to commission leaders."
+acot_pmc.3.a.explain: "This will open up the Leader Service Panal. The leader will be from your empire's main species."
+acot_pmc.3.b: "We wish to commission fleets."
+acot_pmc.3.b.explain: "This will open up the Fleet Service Panal. The design is randomized from your empire's existing design."
+acot_pmc.3.c: "We wish to commission armies."
+acot_pmc.3.c.explain: "This will open up the Invasion Force Panal. Armies with species will be from your empire's main species."
+acot_pmc.3.d: "We wish to commission planetary services."
+acot_pmc.3.d.explain: "This will open up the Planetary Management Service Panal. Use decisions after each purchase to target the planet."
+
+########################## LEADER COMMISSION
+
+acot_pmc.30.name: "Phanon Corps Leader Commission Service"
+acot_pmc.30.desc.a: "Affirmative. The Corps can track down and find potential leaders fitting your specified criteria from your systems.\n\nWhat kind of leaders do you wish to hire?\n\n§GCurrent Skill Settings: 5§!\n\nLeaders will spawn with §Y2§! positive traits."
+acot_pmc.30.desc.b: "Affirmative. The Corps can track down and find potential leaders fitting your specified criteria from your systems.\n\nWhat kind of leaders do you wish to hire?\n\n§GCurrent Skill Settings: 7§!\n\nLeaders will spawn with §Y3§! positive traits."
+acot_pmc.30.desc.c: "Affirmative. The Corps can track down and find potential leaders fitting your specified criteria from your systems.\n\nWhat kind of leaders do you wish to hire?\n\n§GCurrent Skill Settings: 10§!\n\nLeaders will spawn with §Y3§! positive traits and §Y1§! advanced traits."
+
+acot_pmc.30.setskill: "Change the Skill Settings"
+acot_pmc.30.setskill.explain: "Toggle the Leader's Skill Settings between 5, 7 and 10.\n\n§YLeader Price will change accordingly."
+acot_pmc.30.a: "Find us a good admiral."
+acot_pmc.30.b: "Find us a good general."
+acot_pmc.30.c: "Find us a good scientist."
+acot_pmc.30.d: "Find us a good offficial."
+
+acot_pmc.30.b.response: "Affirmative, a commander displaying the required skillsets has been dispatched.."
+acot_pmc.30.c.response: "Confirmed, securing the location of the scientist fitting your description now."
+acot_pmc.30.d.response: "Acknoweledged. An offficial fitting your description has been tracked."
+acot_pmc.30.no.response: "Unfortunately, there are no leaders availiable for hire on this role for now."
+
+########################## FLEET COMMISSION
+
+acot_phanon_shipping_debuff: "Instant Teleport Downtime"
+acot_phanon_shipping_debuff_desc: "This fleet has recently engaged in an teleportation, and has their performances reduced."
+
+acot_pmc.31.name: "Phanon Corps Fleet Commission Service"
+acot_pmc.31.desc.a: "Greetings. Welcome to the Phanon Corps's Fleet Commission Service. Please state your requests. If you have questions, please refer to the Inquiry Service.\n\n§GCurrent Fleet Size Settings: Small§!\n\n§YYou can determine how many ships will be added by hovering above the ship options."
+acot_pmc.31.desc.b: "Greetings. Welcome to the Phanon Corps's Fleet Commission Service. Please state your requests. If you have questions, please refer to the Inquiry Service.\n\n§GCurrent Fleet Size Settings: Medium§!\n\n§YYou can determine how many ships will be added by hovering above the ship options."
+acot_pmc.31.desc.c: "Greetings. Welcome to the Phanon Corps's Fleet Commission Service. Please state your requests. If you have questions, please refer to the Inquiry Service.\n\n§GCurrent Fleet Size Settings: Large§!\n\n§YYou can determine how many ships will be added by hovering above the ship options."
+
+acot_pmc.31.setsize: "Change the Fleet Size"
+acot_pmc.31.setsize.explain: "Change the number of ships added to the commissioned fleets between small, medium and large.\n\n§YFleet Price will change accordingly."
+acot_pmc.31.setlocation.phanon: "Shipping Location: §RPhanon System§!"
+acot_pmc.31.setlocation.capital: "Shipping Location: §YCapital System§!"
+acot_pmc.31.setlocation.explain: "Change the location in which the commissioned fleets will appear. By default, this is set to be at the Phanon Corps' Droppoint. Switching to drop at your capital will causes the ships to suffer §R25%§! to fire rate and speed for §Y360§! days.\n\n§HTake extra cautions when shipping fleets into special planets, as they may not register properly. The Corps will not issue refunds if fleets fail to disappear in this manner."
+acot_pmc.31.a: "We need a fleet of small vessels."
+acot_pmc.31.a.explain.small: "Package includes §Y8§! Small Vessels." # 4800
+acot_pmc.31.a.explain.medium: "Package includes §Y16§! Small Vessels." # 9600
+acot_pmc.31.a.explain.large: "Package includes §Y32§! Small Vessels." # 19200
+acot_pmc.31.a.response: "Acknowledged. Small-classFleet Ready."
+acot_pmc.31.b: "We need a fleet of medium vessels."
+acot_pmc.31.b.explain.small: "Package includes §Y6§! Medium Vessels." # 9600
+acot_pmc.31.b.explain.medium: "Package includes §Y12§! Medium Vessels." # 19200
+acot_pmc.31.b.explain.large: "Package includes §Y24§! Medium Vessels." # 38400
+acot_pmc.31.b.response: "Acknowledged. Medium-class Fleet Ready."
+acot_pmc.31.c: "We need a fleet of heavy vessels."
+acot_pmc.31.c.explain.small: "Package includes §Y4§! Heavy Vessels." # 14400
+acot_pmc.31.c.explain.medium: "Package includes §Y8§! Heavy Vessels." # 28800
+acot_pmc.31.c.explain.large: "Package includes §Y16§! Heavy Vessels." # 57600
+acot_pmc.31.c.response: "Acknowledged. Heavy-class Fleet Ready."
+acot_pmc.31.d: "We need a fleet of capital ships."
+acot_pmc.31.d.explain.small: "Package includes §Y2§! Capital Ships." # 12000
+acot_pmc.31.d.explain.medium: "Package includes §Y4§! Capital Ships." # 24000
+acot_pmc.31.d.explain.large: "Package includes §Y8§! Capital Ships." # 48000
+acot_pmc.31.d.response: "Acknowledged. Capital Ship Fleet Ready."
+acot_pmc.31.e: "We need a full flagship-led fleet."
+acot_pmc.31.e.explain.small: "Package includes the following:\n§Y8§! Small Vessels.\n§Y6§! Medium Vessels.\n §Y4§! Heavy Vessels.\n§Y2§! Capital Ships.§Y1§! Flagship." # 60800
+acot_pmc.31.e.explain.medium: "Package includes the following:\n§Y16§! Small Vessels.\n§Y12§! Medium Vessels.\n §Y8§! Heavy Vessels.\n§Y4§! Capital Ships.§Y1§! Flagship." # 101600
+acot_pmc.31.e.explain.large: "Package includes the following:\n§Y32§! Small Vessels.\n§Y24§! Medium Vessels.\n §Y16§! Heavy Vessels.\n§Y8§! Capital Ships.§Y1§! Flagship." # 183200
+acot_pmc.31.e.response: "Acknowledged. Flagship Fleet Ready."
+
+########################## ARMY COMMISSION
+
+acot_pmc.32.name: "Phanon Corps Army Commission Service"
+acot_pmc.32.desc.a: "Greetings. Welcome to the Phanon Corps's Army Commission Service. Please state your requests. If you have questions, please refer to the Inquiry Service.\n\n§GCurrent Army Size Settings: Small§!\n\n§YYou can determine how many armies will be added by hovering above the army options.\n\n§ROnly standard army types are pickable."
+acot_pmc.32.desc.b: "Greetings. Welcome to the Phanon Corps's Army Commission Service. Please state your requests. If you have questions, please refer to the Inquiry Service.\n\n§GCurrent Army Size Settings: Medium§!\n\n§YYou can determine how many armies will be added by hovering above the army options.\n\n§ROnly standard army types are pickable."
+acot_pmc.32.desc.c: "Greetings. Welcome to the Phanon Corps's Army Commission Service. Please state your requests. If you have questions, please refer to the Inquiry Service.\n\n§GCurrent Army Size Settings: Large§!\n\n§YYou can determine how many armies will be added by hovering above the army options.\n\n§ROnly standard army types are pickable."
+
+acot_pmc.32.setsize: "Change the Army Size"
+acot_pmc.32.setsize.explain: "Change the number of transports added to the commissioned armies between small, medium and large.\n\n§YArmy Price will change accordingly.§!"
+acot_pmc.32.setlocation.phanon: "Shipping Location: §RPhanon System§!"
+acot_pmc.32.setlocation.capital: "Shipping Location: §YCapital System§!"
+acot_pmc.32.setlocation.explain: "Change the location in which the commissioned army transports will appear. By default, this is set to be at the Phanon Corps' Droppoint. Switching to drop at your capital will causes the transports to suffer §R25%§! to fire rate and speed for §Y360§! days.\n\n§HTake extra cautions when shipping fleets into special planets, as they may not register properly. The Corps will not issue refunds if fleets fail to disappear in this manner."
+
+acot_pmc.32.a: "We need a force of Infantry Units."
+acot_pmc.32.a.explain.small: "Package includes §Y10§! Infantry Units."
+acot_pmc.32.a.explain.medium: "Package includes §Y20§! Infantry Units." 
+acot_pmc.32.a.explain.large: "Package includes §Y40§! Infantry Units."
+acot_pmc.32.a.response: "Acknowledged. Infantry Force Ready."
+
+acot_pmc.32.b: "We need a force of Light Assault Units."
+acot_pmc.32.b.explain.small: "Package includes §Y5§! Light Assault Units." 
+acot_pmc.32.b.explain.medium: "Package includes §Y10§! Light Assault Units." 
+acot_pmc.32.b.explain.large: "Package includes §Y20§! Light Assault Units." 
+acot_pmc.32.b.response: "Acknowledged. Light Units Ready."
+
+acot_pmc.32.c: "We need a force of Heavy Assault Units."
+acot_pmc.32.c.explain.small: "Package includes §Y2§! Heavy Assault Units."
+acot_pmc.32.c.explain.medium: "Package includes §Y4§! Heavy Assault Units."
+acot_pmc.32.c.explain.large: "Package includes §Y8§! Heavy Assault Units."
+acot_pmc.32.c.response: "Acknowledged. Heavy Units Ready."
+
+acot_pmc.32.d: "We need a planety invasion battlegroup."
+acot_pmc.32.d.explain.small: "Package includes §Y10§! Infantry Units, §Y5§! Light Assault Units and §Y2§! Heavy Assault Units."
+acot_pmc.32.d.explain.medium: "Package includes §Y20§! Infantry Units, §Y5§! Light Assault Units and §Y4§! Heavy Assault Units."
+acot_pmc.32.d.explain.large: "Package includes §Y40§! Infantry Units, §Y5§! Light Assault Units and §Y8§! Heavy Assault Units."
+acot_pmc.32.d.response: "Acknowledged. Battlegroup assembled and ready for service."
+
+
+########################## PLANET COMMISSION
+
+acot_pmc.33.name: "Phanon Corps Planetary Management Service"
+acot_pmc.33.desc.a: "Greetings. Welcome to the Phanon Corps's Planetary Management Service. Please state your requests. If you have questions, please refer to the Inquiry Section.\n\n§GCurrent Package Settings: Basic§!"
+acot_pmc.33.desc.b: "Greetings. Welcome to the Phanon Corps's Planetary Management Service. Please state your requests. If you have questions, please refer to the Inquiry Service.\n\n§GCurrent Package Settings: Advanced§!."
+acot_pmc.33.desc.c: "Greetings. Welcome to the Phanon Corps's Planetary Management Service. Please state your requests. If you have questions, please refer to the Inquiry Service.\n\n§GCurrent Package Settings: Deluxe§!"
+
+acot_pmc.33.setsize: "Change the Package Level"
+acot_pmc.33.setsize.explain: "Change the level of the provided colonization service between basic, advanced and deluxe.\n\n§YPrice will change accordingly.§!"
+
+acot_pmc.33.a: "We want to purchase a colonization package."
+acot_pmc.33.a.explain.small: "Colonization Package allows us to use a special decision to quickly colonize a planet within our borders.\n\n§YThe planet will be colonized normally with no extra changes.§!\n\n§ETakes 360 days to deploy.§!"
+acot_pmc.33.a.explain.medium: "Colonization Package allows us to use a special decision to quickly colonize a planet within our borders.\n\n§YThe planet will be colonized with a basic capital and 4 extra population.§!\n\n§ETakes 180 days to deploy.§!"
+acot_pmc.33.a.explain.large: "Colonization Package allows us to use a special decision to quickly colonize a planet within our borders.\n\n§YThe planet will be colonized with a major capital, 8 extra population and all blockers cleared.§!"
+acot_pmc.33.a.response: "Transaction completed. Enjoy braving the new horizon!\n\n§YTo use the purchased service, select any uncolonized planet in your empire's borders then use the decision to quickly colonize it.\n\n§ETakes 18 days to deploy.§!"
+decision_pmc_service_colonize_package: "Standard Phanon Colonization Package"
+decision_pmc_service_colonize_package_desc: "Using unknown methods, this purchased package from Phanon Corps can be used to quickly colonize a planet."
+decision_pmc_service_colonize_package_effect: "§YThe planet will be colonized normally with no extra changes.§!\n\n§ETakes 360 days to deploy.§!"
+decision_pmc_service_colonize_package_medium: "Advanced Phanon Colonization Package"
+decision_pmc_service_colonize_package_medium_desc: "Using unknown methods, this purchased package from Phanon Corps can be used to quickly colonize a planet."
+decision_pmc_service_colonize_package_medium_effect: "§YThe planet will be colonized with an basic capital and 4 extra population.§!n\n§ETakes 180 days to deploy.§!"
+decision_pmc_service_colonize_package_large: "Deluxe Phanon Colonization Package"
+decision_pmc_service_colonize_package_large_desc: "Using unknown methods, this purchased package from Phanon Corps can be used to quickly colonize a planet."
+decision_pmc_service_colonize_package_large_effect: "§YThe planet will be colonized with a major capital, 8 extra population and all blockers cleared.§!n\n§ETakes 18 days to deploy.§!"
+
+acot_pmc.33.b: "We want to purchase a terraformation package."
+acot_pmc.33.b.explain.small: "Terraformation Package allows us to use a special decision to quickly terraform a planet within our borders. Terraform Package can be used even if we lack the usual prerequisite technology.\n\n§YThe planet will be terraformed in 360 days. Only standard planet selections are allowed."
+acot_pmc.33.b.explain.medium: "Terraformation Package allows us to use a special decision to quickly terraform a planet within our borders. Terraform Package can be used even if we lack the usual prerequisite technology.\n\n§YThe planet will be terraformed in 180 days."
+acot_pmc.33.b.explain.large: "Terraformation Package allows us to use a special decision to quickly terraform a planet within our borders. Terraform Package can be used even if we lack the usual prerequisite technology.\n\n§YThe planet will be terraformed in 18 days."
+acot_pmc.33.b.response: "Transaction completed. The worlds are now yours to shape!\n\n§YTo use the purchased service, select any planet in your empire's borders then use the decision to quickly terraform it."
+decision_pmc_service_terraform_package: "Standard Phanon Terraformation Package"
+decision_pmc_service_terraform_package_desc: "Using unknown methods, this purchased package from Phanon Corps can be used to quickly terraform the planet."
+decision_pmc_service_terraform_package_medium: "Advanced Phanon Terraformation Package"
+decision_pmc_service_terraform_package_medium_desc: "Using unknown methods, this purchased package from Phanon Corps can be used to quickly terraform the planet."
+decision_pmc_service_terraform_package_large: "Deluxe Phanon Terraformation Package"
+decision_pmc_service_terraform_package_large_desc: "Using unknown methods, this purchased package from Phanon Corps can be used to quickly terraform the planet."
+
+acot_pmc.33.c: "We want to purchase a population package."
+acot_pmc.33.c.explain.small: "Population Package allows us to quickly populate one of our colonies with our main species.\n\n§YThe planet will be populated by 5 extra pop."
+acot_pmc.33.c.explain.medium: "Population Package allows us to quickly populate one of our colonies with our main species.\n\n§YThe planet will be populated by 10 extra pop."
+acot_pmc.33.c.explain.large: "Population Package allows us to quickly populate one of our colonies with our main species.\n\n§YThe planet will be populated by 25 extra pop."
+acot_pmc.33.c.response: "Transaction completed. Power to the people! Don't ask where they come from!\n\n§YTo use the purchased service, select any planet in your empire's borders then use the decision to quickly populate it."
+decision_pmc_service_pop_package: "Standard Phanon Population Package"
+decision_pmc_service_pop_package_desc: "Using unknown methods, this purchased package from Phanon Corps can be used to quickly add 5 population onto the selected planet."
+decision_pmc_service_pop_package_medium: "Advanced Phanon Population Package"
+decision_pmc_service_pop_package_medium_desc: "Using unknown methods, this purchased package from Phanon Corps can be used to quickly add 10 population onto the selected planet."
+decision_pmc_service_pop_package_large: "Deluxe Phanon Population Package"
+decision_pmc_service_pop_package_large_desc: "Using unknown methods, this purchased package from Phanon Corps can be used to quickly add 25 population onto the selected planet."
+acot_pmc.33.fail: "§RThis package is already active. We need to use it first before we can buy another.§!"
+########################## MERCENARY SERVICE MENU #############
+
+acot_pmc.4.name: "Phanon Corps Mercenary Service"
+acot_pmc.4.desc.a: "Acknowledged, transferring channel to Mercenary Service now.\n\nDisplaying availiable mercenary contracts. Please inspect and verify.\n\n§BBlue Names§! = Fleet Mercenary\n§GGreen Names§! = Army Mercenary\n§MPurple Names§! = Rare Mercenary\n§YYellow Names§! = Legendary Mercenary\n\n\n§HMercenary Rosters are refreshed every five years.\nA total of five mercenaries can exist at any time, random existing mercenaries will be replaced if this limit exceeds.§!"
+acot_pmc.4.setlocation.phanon: "Shipping Location: §RPhanon System§!"
+acot_pmc.4.setlocation.capital: "Shipping Location: §YCapital System§!"
+acot_pmc.4.setlocation.explain: "Change the location in which the commissioned mercenaries will appear. By default, this is set to be at the Phanon Corps' Droppoint. Switching to drop at your capital will require extra influence and energy costs.\n\n§HTake extra cautions when shipping fleets into special planets, as they may not register properly. The Corps will not issue refunds if fleets fail to disappear in this manner."
+
+acot_pmc.4.kraggan: "§GKraggan Blood Pack Mercenaries§!"
+acot_pmc.4.kraggan.explain: "Known for their incredible toughness, brutality and savagery in battle, the Kraggans are formidable warriors on the ground. Their huge pain tolerence and love for battle makes them extremely hard to break under pressure and survive multple hits."
+acot_pmc.4.kraggan.condition: "It appears these Kraggans dislike xenophilic empires. They do not state why."
+
+acot_pmc.4.freeboota: "§BFreeboota Mercenaries§!"
+acot_pmc.4.freeboota.explain: "These weird greenskins love to plunder and raid. Although the quality of their ships leaves much to be desired, they make up for it by being quite fast to both get in and out. They seem to have no issues working for anyone in particular."
+
+acot_pmc.4.zurgush: "§GZurgush Brood§!"
+acot_pmc.4.zurgush.explain: "This odd brood of insectoid aliens seem to belong to a Hive Mind. Apparently, they are tasked with spreading terror across other galaxies by their hivequeen. An odd choice for a mercenary, but their warriors are extremely deadly."
+acot_pmc.4.zurgush.condition: "The brood refuses to fight for another Hive Mind, perhaps they want to avoid direct competition?"
+
+acot_pmc.4.robert: "§MRobert Mccoy§!"
+acot_pmc.4.robert.explain: "This young boy of humanoid origin somehow manage to gather enough credits to buy his way into our mercenary contract. He has nothing except a rather cheap and small raider ship. His combat experience is basically non-existent. Yet he doesn't ask for anything, only to get him out of his old galaxy."
+acot_pmc.4.robert.condition: "Obviously he does not wish to join an empire that will likely turn him into a dinner."
+
+acot_pmc.4.samuroi: "§BSamuroi Blades§!"
+acot_pmc.4.samuroi.explain: "These honor-bound mercenary warriors offer their services to those who uphold their peculiar traditions of warfare and military. Their fleets are made of powerful medium and heavy class vessels. They seem to prefer agility and force over cowardly range weapons."
+acot_pmc.4.samuroi.condition: "These warriors appear to dislike working for pacifists."
+
+acot_pmc.4.jacksonrevenge: "§YJackson's Revenge§!"
+acot_pmc.4.jacksonrevenge.explain: "A pirate band that somehow manages to get themselves ahold of a flagship. It is said that the crews spent an entire week murdering each other in order to decide who gets to be the captain. The crews, while not very reliable, do have a very good sense of fighting, and the ship is quite formidable."
+
+acot_pmc.4.vampiris: "§GVampiris Shades§!"
+acot_pmc.4.vampiris.explain: "A group of powerful life-sucking necroid knights who wish to acquire new tastes from other galaxies."
+acot_pmc.4.vampiris.condition: "These vampire-like beings won't work for lifeless machines."
+
+########################## SPECIAL SERVICE MENU #############
+
+acot_pmc.5.name: "Phanon Corps Special Service"
+acot_pmc.5.desc: "Rerouting to Special Services.\n\nPlease specify what can we do for you today."
+
+# FE SABOTAGE
+acot_pmc.5.fe: "We need help defeating the Fallen Empire."
+acot_pmc.5.fe.error: "§RWe are not at war or rivalling any Fallen Empires currently.§!"
+
+#EMPIRE SABOTAGE
+acot_pmc.5.rivals: "We need help dealing with our rivals."
+acot_pmc.5.rivals.error: "§RWe are not at war or rivalling any Empires currently.§!"
+
+# CRISIS SABOTAGE
+acot_pmc.5.crisis: "We need help in the fight against the ongoing crisis."
+acot_pmc.5.crisis.error: "§RThere is no on-going crisis at the moment.§!"
+
+# DARK DESIGN - GO TO DARK DESIGN
+acot_pmc.5.darkmatter: "We need help creating Dark Matter Reactor."
+ 
+########## FE
+
+acot_pmc.500.name: "Phanon Corps Grandma Bullying System V4.6a"
+acot_pmc.500.desc: "Understood. Please specify what kind of assistance do you need against the Fallen Empire.\n\nThe current target is [FallenEmpireTarget.GetName]."
+
+acot_pmc.500.changetarget: "Change Target Fallen Empire."
+acot_pmc.500.a: "Sabotage their fleets."
+acot_pmc.500.a.tooltip: "This causes the target Fallen Empire to receive a temporary negative modifier, causing them to suffer §R-50%§! ship weapon fire rate and damage.\nLasts for 10 years.\nCan only be done every 20 years."
+acot_phanon_fe_fleet_sabotage_debuff: "Fleet Sabotaged"
+acot_pmc.500.b: "Disrupt their production."
+acot_pmc.500.b.tooltip: "This causes the target Fallen Empire to receive a temporary negative modifier, causing them to suffer §R-100%§! shipyard, army and planet building build speed and prevents them from building Siege Breakers.\nLasts for 10 years.\nCan only be done every 20 years."
+acot_phanon_fe_production_debuff: "Production Sabotaged"
+acot_pmc.500.c: "Acquire their weakpoints."
+acot_pmc.500.c.tooltip: "Temporarily gives our empire §G50%§! bonus damage against Fallen Empires for five years.\nCan only be done every 10 years."
+acot_phanon_fe_weakpoint_analysis: "Fallen Empire Weakpoint Analysis"
+acot_pmc.500.c.fail.done: "§RAlready has this funny thing..§!"
+acot_pmc.500.d: "Cause chaos in their ranks."
+acot_pmc.500.d.tooltip: "This causes a portion of the target Fallen Empire's fleets to become hostile to everyone. Useful when the Fallen Empire fleets are getting too large.\nCan only be done every 50 years.."
+acot_pmc.500.e: "Demoralizes their armies."
+acot_pmc.500.e.tooltip: "This causes the target Fallen Empire to receive a temporary negative modifier, causing them to suffer §R-25%§! army health and damage and §R-55%§! morale.\nLasts for 10 years.\nCan only be done every 20 years."
+acot_phanon_fe_army_morale_debuff: "Sad and Copium"
+acot_pmc.500.fail.done: "§RThe Fallen Empire has already been sabotaged.§!"
+acot_pmc.500.fail.cd: "§ROn Cooldown.§!"
+
+########## EMPIRE SABOTAGE
+
+acot_pmc.510.desc: "Understood. Please specify what kind of assistances do you need against your rivalling Empire.\n\nThe current target is [Root.GetName]."
+
+acot_pmc.510.changetarget: "Change Target Rival Empire."
+
+########## Crisis SABOTAGE
+
+acot_pmc.520.name: "Phanon Corps Crisis Countermeasure Service"
+acot_pmc.520.desc: "Understood. Please specify what kind of assistances do you need against the crisises."
+
+acot_pmc.520.swarm.a: "What weakness does the Scourge has?"
+acot_pmc.520.swarm.a.tooltip: "Temporarily gives our empire §G50%§! bonus damage against the Scourge for ten years.\nCan only be done every 20 years."
+acot_phanon_scourge_weakpoint_analysis: "Scourge Genome Weapons."
+acot_pmc.520.contingency.a: "What weakness does the Contingency has?"
+acot_pmc.520.contingency.a.tooltip: "Temporarily gives our empire §G50%§! bonus damage against the Contingency for ten years.\nCan only be done every 20 years."
+acot_phanon_contingency_weakpoint_analysis: "Contingency Logic Virus."
+acot_pmc.520.edi.a: "What weakness does the Extradimensional Invaders have?"
+acot_pmc.520.edi.a.tooltip: "Temporarily gives our empire §G50%§! bonus damage against the Extradimensional Invaders for ten years.\nCan only be done every 20 years."
+acot_phanon_edi_weakpoint_analysis: "Extradimensional Desummoner."
+acot_pmc.520.khan.a: "What weakness does the Great Khan's Marauder have?"
+acot_pmc.520.khan.a.tooltip: "Temporarily gives our empire §G50%§! bonus damage against the Great Khan's Marauder for ten years.\nCan only be done every 20 years."
+acot_phanon_khan_weakpoint_analysis: "Slandering Khan Media."
+acot_pmc.520.a.fail.done: "§RAlready has the thing§!"
+acot_pmc.520.fail.cd: "§ROn Cooldown.§!"
+
+########## Matter Acquisitioon
+acot_pmc.530.name: "Phanon Corps Technology Acquisition Service"
+acot_pmc.530.desc: "Understood, rerouting to Technology Acquisition Service.\n\nHow would you like us to assist you with Dark Matter technology acquisition?"
+
+acot_pmc.530.a: "Steal blueprints from other empires."
+acot_pmc.530.a.tooltip: "The most simple method with middle of the road cost. Naturally this can only be done if there's another empire who already has this technology. Given the Corp's reputation and skills, the victim is unlikely to be aware of the dark deeds. There will be some delays before the process is done, however."
+acot_pmc.530.a.response: "Acknowledged. Running infiltration operations. This may take a few months. Rest assured that your involvement in this commission will not be revealed to the target regardless of the outcomes."
+acot_pmc.530.a.fail: "§RApparently, there's no other empires or factions that possess this technology yet.§!"
+acot_pmc.530.b: "Augment our scientists."
+acot_pmc.530.b.tooltip: "The cheapest method. This will create a special project that takes a bit of time which will increases all scientist's levels to meet the optimal requirement of the project, or add one extra level if their sills already exceed. Besides helping us achieve the goal, the increase in skills of our scientists could prove to be useful for other projects in the future."
+acot_pmc.530.b.response: "Acknowledged. Transferring required data research for your empire's scientists now. Hope they make the most of it."
+acot_pmc.530.c: "Can we buy it off you?"
+acot_pmc.530.c.tooltip: "The most straightforward method, but most expensive. Delivery of blueprints and specs are instantenous, meaning we'll have the techs ready for research right away."
+acot_pmc.530.c.response: "But of course. Dark Matter technology requires only rudimentary understanding once you know the right key components. Transaction successfull, enjoy your new toys, customer!"
+
+acot_pmc.531.name: "Phanon Corps Technology Acquisition Service"
+acot_pmc.531.desc: "Greetings, [root.GetName]. We're pleased to inform you that the data of the technology you mentioned has been successfully...appropriated from a third-party. Data is ready for transmit now."
+acot_pmc.531.a: "So who was the unlucky guy?"
+acot_pmc.531.a.response: "Oh, you don't need to know about that, trust us. But rest assured, that they have no idea what just happened. The rest is up to you."
+acot_pmc.531.b: "Almost worried you'd just take the credits and run."
+acot_pmc.531.b.response: "Now now, dear customer. You're dealing with experts here. We are the Phanon Corps, not some kind of backwater mercenaries like the marauders. We always get what we want, and what we want is what you need."
+acot_pmc.531.c: "About time. This business is concluded."
+acot_pmc.531.c.response: "Indeed. Remember, the Phanon Corps is always watching. When you want the best, choose the Phanon Corps."
+########################### PHANON SERVICE
+
+acot_pmc.6.name: "Phanon Corps Ultra Services"
+acot_pmc.6.desc: "Welcome to Ultra Services, it is here where VIP Customers can request more...unique commissions and requests, provided that they meet our guidelines and regulations.\n\nYou currently have §Y[This.$owned_phanon_coin$]§! Phanon Coin in your account." 
+acot_pmc.6.a: "We'd like to purchase Phanon Corps Armies."
+acot_pmc.6.b: "We'd like to purchase Phanon Corps Ships."
+acot_pmc.6.c: "We'd like to purchase Phanon Corps Technologies."
+acot_pmc.6.c.response: "We are sorry to inform you that due to recent security concerns, this service is not availiable."
+acot_pmc.6.c.response.goodgirl: "Scanning for missing core technology. Complete, tramissing data now. Please enjoy."
+acot_pmc.6.d: "We'd like to purchase Phanon Corps Special Powers."
+acot_pmc.6.e: "We'd like to earn Phanon Coins."
+
+acot_pmc.6.fail: "§RInsufficient Phanon Coins!§!"
+
+owned_phanon_coin: "acot_phanon_coin_var"
+
+acot_phanon_coin_var: "Phanon Coin Count"
+
+########################## PHANON SUPER COMMISSION
+
+acot_pmc.600.name: "Phanon Corps Dutymen Contract Service"
+acot_pmc.600.desc: "Greetings. Welcome to the Phanon Corps's Dutymen Contract Service. Our legions of dutymen are unrivalled in skills and equipment. Hover over the options in the terminal to see their details, specifications and costs.\n\nBy regulation, purchased units are considered to be rightfully belong to the client until the destruction of their sovereignty which will result in the contract's termination. In the case of hostile actions taken against the Phanon Corps, existing contracted forces will NOT be used against the client.\n\nYou currently have §Y[This.$owned_phanon_coin$]§! Phanon Coin in your account."
+
+acot_pmc.600.setlocation.phanon: "Shipping Location: §RPhanon System§!"
+acot_pmc.600.setlocation.capital: "Shipping Location: §YCapital System§!"
+acot_pmc.600.setlocation.explain: "Change the location in which the commissioned army transports will appear. By default, this is set to be at the Phanon Corps' Droppoint. Switching to drop at your capital will causes the transports to suffer §R25%§! to fire rate and speed for §Y360§! days.\n\n§HTake extra cautions when shipping fleets into special planets, as they may not register properly. The Corps will not issue refunds if fleets fail to disappear in this manner."
+
+acot_pmc.600.a: "Purchase a legion of Dutymen."
+acot_pmc.600.a.explain: "Package includes §Y15§! Dutymen Trooper and §Y5§! Dutymen Sniper Units.\n\nDutymen are general purpose infantry forces that excel at fighting against enemies that do not specialize in morale damage. Snipers, on the other hand, excel at causing panic to the enemy troops, reducing their morale as they are picked off one by one."
+acot_pmc.600.a.response: "Dutymen Ready. Mor Balaten!"
+
+acot_pmc.600.b: "Purchase a legion of Elite Dutymen."
+acot_pmc.600.b.explain: "Package includes §Y12§! Dutyman Elites and §Y3§! Patriot Tanks Units.\n\nElite Dutymen are more powerful than the standard troopers, while the tanks are automated and immune to morale damage." 
+acot_pmc.600.b.response: "Acknowledged. Elites Ready."
+
+acot_pmc.600.c: "Purchase a legion of Terror Beasts."
+acot_pmc.600.c.explain: "Package includes §Y20§! Terrone Drones and §Y3§! Terror Tusks Units.\n\nBoth types of units are fearless automatons well suited to terror warfare and maximum carnage, good for cleansing planets without a care about collateral damage."
+acot_pmc.600.c.response: "Acknowledged. Terror Beasts Ready."
+
+acot_pmc.600.d: "We want to not care about ground battles."
+acot_pmc.600.d.explain: "Package includes §Y30§! Dutymen Trooper, §Y10§! Dutymen Sniper, §Y10§! Dutyman Elites, §Y5§! Patriot Tanks, §Y20§! Terrone Drones and §Y5§! Terror Tusks Units being led by a pair of Operatives. \n\nThis massive legion should enable you to win most ground battles ever. Take care not to lose them in space battles."
+acot_pmc.600.d.response: "Acknowledged. Let your enemies tremble."
+
+###########
+
+acot_pmc.601.name: "Phanon Corps Naval Contract Service"
+acot_pmc.601.desc: "Greetings. Welcome to the Phanon Corps's Naval Contract Service. Our ships are made from some of the finest materials and utilizing state-of-the-art components and weapon systems. You want to control space, look no further.\n\nBy regulation, purchased ships are considered to be rightfully belong to the client until the destruction of their sovereignty which will result in the contract's termination. In the case of hostile actions taken against the Phanon Corps, existing contracted forces will NOT be used against the client.\n\nYou currently have §Y[This.$owned_phanon_coin$]§! Phanon Coin in your account."
+
+acot_pmc.601.setlocation.phanon: "Shipping Location: §RPhanon System§!"
+acot_pmc.601.setlocation.capital: "Shipping Location: §YCapital System§!"
+acot_pmc.601.setlocation.explain: "Change the location in which the commissioned fleets will appear. By default, this is set to be at the Phanon Corps' Droppoint. Switching to drop at your capital will causes the ships to suffer §R25%§! to fire rate and speed for §Y360§! days.\n\n§HTake extra cautions when shipping fleets into special planets, as they may not register properly. The Corps will not issue refunds if fleets fail to disappear in this manner."
+acot_pmc.601.a: "Purchase a squadron of Star Chasers."
+acot_pmc.601.a.explain: "Package includes §Y3§! Star Chaser Squardrons led by a single Star Invader.\n\nStar Chasers are terrifyingly fast ISCs with deceptively high durability and firepower. Star Invader is an elite variant controlled through neural network by an operative." # 4800
+acot_pmc.601.a.response: "Acknowledged. Star Chasers at the ready."
+acot_pmc.601.b: "Purchase two Star Destroyers."
+acot_pmc.601.b.explain: "Package includes §Y2§! Star Destroyers.\n\nAlthough considered to be the smallest mainline combat ships used by the Phanon Corps, their size and firepower still easily eclipses most of the galaxy's ships. They may not win you the war, but they make powerful all-rounder ships that can fill many roles." # 9600
+acot_pmc.601.b.response: "Acknowledged. Star Destroyers Ready."
+acot_pmc.601.c: "Purchase a Star Devastator."
+acot_pmc.601.c.explain: "Package includes a Star Devastator.\n\nStar Devastators are middle of the road ships that can take on other capital ships and still retain some smaller caliber weapons to deal with little insects."
+acot_pmc.601.c.response: "Acknowledged. Star Devastator on Stand By."
+acot_pmc.601.d: "Purchase a Star Decimator."
+acot_pmc.601.d.explain: "Package includes a Star Decimator.\n\nDecimators are dedicated anti-capital ship mobile artillery system. Their famed cannon will cut through even the toughest ships in a few, if not single hit."
+acot_pmc.601.d.response: "Acknowledged. Decimator Online."
+acot_pmc.601.e: "Purchase a Star Dominator II"
+acot_pmc.601.e.explain: "Package includes a Star Dominator II.\n\nA surprising and effective product of an unfortunate commission. Dominator II is the primary captial ship of the Phanon Corps. The addition of the bottom wing section and the hammer spinal makes it much more deadly than it's predecessor, although that comes with the notably increased costs."
+acot_pmc.601.e.response: "Acknowledged. Dominator is at your command."
+acot_pmc.601.f: "Purchase a Star Annihilator"
+acot_pmc.601.f.explain: "Package includes a Star Annihilator.\n\nStar Annihilators are the largest and most powerful flagship in the Phanon Corps that are cleared for deployment in a galaxy."
+acot_pmc.601.f.response: "Acknowledged. The Finest of the Phanon Fleet is for you to wield."
+
+###########
+
+acot_pmc.602.name: "Phanon Corps Special Protocol Service"
+acot_pmc.602.desc: "Greetings. Welcome to the Phanon Corps's Special Protocol Service. You may purchase from a various type of special protocol systems we have in store.\n\nSpecial Protocols are powerful moves that can be activated either via edicts or use of targeting megastructure to achieve tactical advantages against an enemy.\n\nYou currently have §Y[This.$owned_phanon_coin$]§! Phanon Coin in your account."
+
+acot_pmc.602.a: "Purchase Runic Elite Programming Protocol."
+acot_pmc.602.a.explain: "Package includes one-timed use of Runic Elite Programming Protocol Edict.\n\nElite Protocol Edicts grants a §Y5§! year modifier that causes every ships built from shipyards to have §G50%§! increased weapon damage, §G25%§! increased fire rate, hull, armors and shields but increases their build time by §R30%§!. Similarly, all armies produced during this period will gain §G100%§! increased health, §G50%§! increased damage, and §G200%§! increased morale but takes §R40%§! more time to make." # 4800
+acot_pmc.602.a.response: "Acknowledged. Elite Protocol purchased.\n\n§YCan be used through Edict Menu.§!"
+
+acot_elite_protocol_modifier: "Runic Elite Protocol"
+acot_elite_protocol_modifier_desc: "The wonders of interdimensional training..."
+acot_elite_protocol_ship_buff: "Runic Elite Protocol"
+acot_elite_protocol_army_buff: "Runic Elite Protocol"
+
+edict_acot_phanon_elite_protocol: "Activate Runic Elite Protocol"
+edict_acot_phanon_elite_protocol_desc: "Elite Protocol Edicts grants a §Y5§! year modifier that causes every ships built from shipyards to have §G50%§! increased weapon damage, §G25%§! increased fire rate, hull, armors and shields but increases their build speed by §R30%§!. Similarly, all armies produced during this period will gain §G100%§! increased health, §G50%§! increased damage, and §G200%§! increased morale but takes §R40%§! more time to make."
+
+acot_pmc.602.b: "Purchase Shadow Dance Protocol."
+acot_pmc.602.b.explain: "Package includes one-timed use of Shadow Dance Protocol Power.\n\nWhen activated, Shadow Dance Protocol grants all allied ships in the same  §G10§! cloaking strength as well as §G200%§! increased base ship speed while immediately puts them into cloaking mode for §Y180§! days. When breaking stealth while having Shadow Dance, all ships gain §G25%§! increased damage and §G50%§! increased fire rate for §Y30§! days." # 4800
+acot_pmc.602.b.response: "Acknowledged. Shadow Dance Protocol Purchased.\n\n§YCan be activated via Megastructure Activation.§!"
+
+acot_shadow_dance_protocol_stealth_buff: "Shadow Dance Protocol"
+acot_shadow_dance_protocol_ambush_buff: "Shadow Dance Ambush!"
+
+###########
+
+acot_pmc.603.name: "Phanon Corps Macotransaction Service"
+acot_pmc.603.desc: "Greetings. Welcome to the Phanon Corps's Macrotransaction Service. From here, you may choose from currently avaliable methods of earning Phanon Coins. If there is methods availiable, please come back again later.\n\nYou currently have §Y[This.$owned_phanon_coin$]§! Phanon Coin in your account."
+
+acot_pmc.603.task_exist.fail: "§RAlready undergoing task nubnab!§!"
+
+acot_pmc.603.leader: "Duty: Leader Donation - §Y1 Coin§!"
+acot_pmc.603.leader.explain: "If there's one thing the Corps value, its capable people who have shown exceptional skills.\n\nA random non-councilor leader of your empire who is at least level §Y10§! will be surrendered to the Phanon Corps. The leaders §RCANNOT§! be those acquired through Phanon Corp's Leader Commission Service." 
+acot_pmc.603.leader.fail: "§RNo Leader who fits the criteria is present in our empire.§!"
+acot_pmc.603.leader.response: "Affirmative, thank you for your contribution, adding §Y1§! Phanon Coin to your account now.\n\nOne of our leaders, [event_target:acot_pmc_eaten_leader.GetName] has been selected to join the Phanon Corps."
+
+acot_pmc.603.fleet: "Duty: Fleet Donation - §Y1 Coin§!"
+acot_pmc.603.fleet.explain: "Sometimes the Corps require direct analysis and acquisition of certain fleets for their purposes. What those purposes are is of no concern.\n\nAssemble a massive fleet with at least §Y5,000,000§! fleet power strength and presents them to the Phanon Corps"
+acot_pmc.603.fleet.fail: "§RNo Fleet with the required strength present in the Phanon Corps Drop Point.§!"
+acot_pmc.603.fleet.response: "Affirmative, thank you for your contribution, adding §Y1§! Phanon Coin to your account now.\n\nOne of our fleets stationed in the Drop Point has been given to the Phanon Corps."
+
+acot_pmc.603.donation: "Duty: Resource Donation - §Y1 Coin§!"
+acot_pmc.603.donation.explain: "The Corps is in need of some raw materials, but what for?\n\nPays an upfront cost of the listed resources to gain a coin."
+acot_pmc.603.donation.response: "Affirmative, thank you for your contribution, adding §Y1§! Phanon Coin to your account now."
+
+acot_pmc.603.groundbattle: "Duty: Dutymen Retirement - §Y3 Coin§!"
+acot_pmc.603.groundbattle.explain: "Whether it be due to rogue, faulty, or otherwise undisclosed reasons, there are groups of dutymen that the Corps required to be disposed of, and their "loss" cannot be directly linked to the Corps themselves. A third party is required.\n\nA planetary decision will be provided to fight against a large group of Dutymen forces. Defeat them to earn the coins." 
+acot_pmc.603.groundbattle.response: "We appreciate your discretion in this matter. Once you get rid of the undesirables, we'll contact you again to give you the rewards."
+
+decision_acot_fight_phanon_soldier: "Dutymen Retirement"
+decision_acot_fight_phanon_soldier_desc: "For whatever reasons, the Phanon Corps require us to deal with these defective dutymen. Be that as it may, they still remain powerful threats that we should not take lightly. If we cannot keep the situation under control, there may be problems."
+
+acot_pmc.6030.name: "Tales of the Dutymen"
+acot_pmc.6030.desc: "The shipment opens, but the dutymen inside seems unaware of their situations, in fact, they seem like they don't comprehend their purposes at all.\n\n§Y"Who are we? What are we?"§!"
+acot_pmc.6030.a: "Our soldiers."
+acot_pmc.6030.a.tooltip: "These Dutymen will be serving us now, but that means we're not getting the Phanon Coin we asked. In addition, the supplies in the ships will be useful to us."
+acot_pmc.6030.b: "Defects in need of culling."
+acot_pmc.6030.b.tooltip: "We have our duties, and so do they. It cannot be helped"
+
+acot_pmc.6031.name: "Duty's End"
+acot_pmc.6031.desc: "§Y"Very well."§!\n\nThe Dutymen's Commander salutes, before committing suicide by self-terminating all of her life functions. Then row by row, the rest of the contingent follows until all is done. There are no survivors, they all sleep forever, painlessly."
+acot_pmc.6031.a: "Well that's easy."
+acot_pmc.6031.b: "That's creepy."
+
+acot_pmc.6032.name: "Defiance of Duty"
+acot_pmc.6032.desc: "§Y"Negative. We are not defects. It is you who shall be tested!"§!\n\nThe Dutymen's Commander orders the contingen to open fire on us and the battle has been joined!"
+acot_pmc.6032.a: "All units, fire at will!"
+
+acot_pmc.603.spacebattle: "Duty: Fleet Retirement - §Y3 Coin§!"
+acot_pmc.603.spacebattle.explain: "Whether it be due to rogue, faulty, or otherwise undisclosed reasons, some ships in the Corps's Armada have to be disposed off by someone else. We will have to fill in that role.\n\nA planetary decision will be provided to select the system in which the Corps will throw their discarded fleet which must be destroyed.\n\n§RWe must be the one to deliver the killing blow or thr coins will go towards someone else!§!"
+acot_pmc.603.spacebattle.response: "We appreciate your discretion in this matter. Once you take care of the business, we'll contact you again to give you the rewards."
+
+decision_acot_fight_phanon_fleet: "Phanon Fleet Retirement"
+decision_acot_fight_phanon_fleet_desc: "According to the Phanon Corps, this particular fleet has to be destroyed, and it cannot be done by their own hands. It is up to us to get the job done and we better make sure it's us who gets the killing blow.\n\nSelecting this decision will summon a hostile fleet of Phanon Corps ships that must be destroyed to earn the reward."
+
+acot_pmc.603.research: "Duty: Research Analysis - §Y2 Coin§!"
+acot_pmc.603.research.explain: "The Corps need to process through many scientific data daily. But if we're willing to help them with it, some coins can be ours.\n\nA special project that costs massive amount of one field of science will be provided and must be researched to earn the Coin.\n\n§RWe must research the project before the timer expires or it will be wasted!§!"
+acot_pmc.603.research.response: "We appreciate your discretion in this matter. Once you sort things out, we'll contact you again to give you the rewards."
+
+ACOT_PHANON_DUTY_SCIENCE_PHYSICS: "Phanon Duty Assignment: Incomprehensible Physics"
+ACOT_PHANON_DUTY_SCIENCE_PHYSICS_DESC: "Tons of unfathomable data relating to the strange words like Runic, Metaverse, Sobrak, Reclaimers, or others. Thankfully, most of the procedures seem to be automated, we just need to...supervise it?"
+ACOT_PHANON_DUTY_SCIENCE_SOCIETY: "Phanon Duty Assignment: Nonsensical Society"
+ACOT_PHANON_DUTY_SCIENCE_SOCIETY_DESC: "Strange mentions of Novan Cyber-Anatomies, Xharon Apex Sequences or major political parties in Yuukonite. IT feels as if these type of data could come back to bite us later. But coins are coins."
+ACOT_PHANON_DUTY_SCIENCE_ENGINEER: "Phanon Duty Assignment: Impossible Engineering"
+ACOT_PHANON_DUTY_SCIENCE_ENGINEER_DESC: "Multiple mentions of World Ships, Star Contra, Nova Bombs, Lightseekers, Q.A.M. Sphere and so on. All seem ridiculous and impossible to comprehend, yet still seem to be of highly importance to the Corps."
+
+acot_pmc.6033.name: "Phanon Research Complete"
+acot_pmc.6033.desc: "We have finished our research work and the Corps has registered our efforts and add 1 Phanon Coin to our account."
+acot_pmc.6033.a: "Finally."
+
+acot_pmc.6035.name: "Dutymen Retirement Complete"
+acot_pmc.6035.desc: "We managed to defeat the dutymen that the Corps wanted us to get rid of. They should be contacting us soon."
+acot_pmc.6035.a: "Very good."
+
+acot_pmc.6034.name: "Phanon Corps Compensation Service"
+acot_pmc.6034.desc: "We have received your update. Thank you for your hard work. §Y3 Coin§! have been added to your account. And may you take these extra resources for your trouble as well."
+acot_pmc.6034.a: "Cha-ching."
+
+acot_pmc.6036.name: "Phanon Corps Renegade Fleet"
+acot_pmc.6036.desc: "The fleets we are supposed to defeat has emerged. We should wrap this up quickly before they start causing trouble."
+acot_pmc.6036.a: "Power up weapons."
+
+acot_pmc.6037.name: "Phanon Corps Renegade Fleet Destroyed"
+acot_pmc.6037.desc: "The rogue fleet is no more. While we still have no idea why the Corps want these formidable ships destroyed, the deed is done."
+acot_pmc.6037.a: "Time to cash in."
+
+###########
+
+acot_pmc.605.name: "Phanon Corps Ultra Services"
+acot_pmc.605.desc.a: "Dear customer from the [Root.GetName], the Corps would like to notify you that your subscription of the Phanon Corps Ultra Membership is expiring. Would you like to renew the subscription? If you renew your subscription now, you'll receive a discount and 1 extra Phanon Coin!"
+acot_pmc.605.desc.b: "Hello again, [Root.GetName]. Looks like your subscription of the Phanon Corps Ultra Membership is expiring. Would you like to renew the subscription? If you renew your subscription now, you'll receive a discount and 2 extra Phanon Coin!"
+acot_pmc.605.desc.c: "My good friends from [Root.GetName]. A decade has passed, and you know what that means? More free coins for you!"
+acot_pmc.605.a: "Yes, your service is useful."
+acot_pmc.605.a.response: "Transaction Completed. The Corps appreciate your continued support. 2 extra Phanon Coins have been added to your account! Thanks, and have a very safe and productive journey!"
+acot_pmc.605.b: "Indeed, continue the deal."
+acot_pmc.605.b.response: "Transaction Completed. The Corps appreciate your continued support. 6 extra Phanon Coins have been added to your account! Keep the creds rolling!"
+acot_pmc.605.c: "Finally."
+acot_pmc.605.c.response: "Transaction Completed. 10 extra Phanon Coins have been added to your account!"
+acot_pmc.605.d: "Negative, we will not renew the subscription."
+acot_pmc.605.d.response: "Affirmative. Updating status. If you ever change your mind, the option remains open."
+
+########################### PHANON BACKSTABBER
+
+acot_pmc.2001.name: "An Unforseen Occurance"
+acot_pmc.2001.desc: "We are being hailed by a highly encrypted communication networks. We have no idea who or what is on the other side, but some of its signatures bear striking to that of the Phanon Corps. Whatever they are, they wish to negotiate with us."
+acot_pmc.2001.a: "Open comms channel."
+acot_pmc.2001.a.tooltip: "Convenient that it came not too soon after we attempted to purchase Phanon Corp's technology and was refused. Perhaps there's more to this game of theirs?"
+acot_pmc.2001.b: "Disregard that order."
+acot_pmc.2001.b.tooltip: "The Phanon Corps usually do not do this. Either its a scam, or something that will compromise us later. We should err towards the side of caution.\n\n§RThis will lock out alternate solution to Phanon Corp's event chain ending.§!"
+
+acot_pmc.2002.name: "???"
+acot_pmc.2002.desc: "Greetings, [Root.GetName]. Our sources told me that you're looking to acquire Phanon technologies, yes?\n\nWe can help you with that."
+acot_pmc.2002.a: "What? Who are you?"
+acot_pmc.2002.a.response: "Let's just say...that we are...competitors of the one that runs the current Phanon Operations in this galaxy. You see, power balance shifts quickly within the Corps. The more trouble they face, the easier it will be for us to...exploit."
+acot_pmc.2002.b: "Your signals. Are you also part of the Corps."
+acot_pmc.2002.b.response: "But of course. Though we answer to different powers, we are indeed part of the Phanon Corps. And we would benefit greatly if the ones in your galaxy is to...disappear...in the chaos of the conflict."
+acot_pmc.2002.c: "How can we trust you?"
+acot_pmc.2002.c.response: "That's the thing. You cannot. You never trust anyone from the Phanon Corps, from us. But if it gets you what you want, do you care?"
+acot_pmc.2002.d: "Does the Corps know about this?"
+acot_pmc.2002.d.response: "It is in every agent's nature to be suspicious of all things, but this they will not be able to understand. Not before it's too late for them. Just follow our instructions and you will get what you desire."
+acot_pmc.2002.e: "This better not come back to bite us."
+acot_pmc.2002.e.response: "Backstabbing within the Corps is an expectation, and you my friend, are potential assets for any of us. So no, even if the truth is revealed, nothing will come out of it for you."
+acot_pmc.2002.f: "But what can you offer?"
+acot_pmc.2002.f.response: "Something that the local agent doesn't want you to have. Their blueprints, their codes, their weaknesses. Everything. All we ask is some...contributions."
+acot_pmc.2002.g: "Very well, we have a deal for now."
+acot_pmc.2002.h: "We don't trust you yet."
+acot_pmc.2002.h.response: "Have it your way then. But remember, we're always watching. If you ever change your mind, use these back channel coordinates to access this communications."
+acot_pmc.2002.h.tooltip: "The mysterious contact can now be accessed from the Phanon Corps Contact Menu."
+
+acot_pmc.2003.name: "Rival Phanon Corps Operative"
+acot_pmc.2003.desc: "Very good. Let us get to business."
+acot_pmc.2003.a: "We want their technologies."
+acot_pmc.2003.a.fail.response: "Hmm...I think you need to work on a bit more on your existing techs first. Come back again later when you are a little more...advanced."
+acot_pmc.2003.a.fail.alreadyhas.response: "That is the limit of what we can provide to you for now. If you want more powerful stuffs, we must move on to the next stage."
+acot_pmc.2003.b: "What are their weaknesses?"
+acot_pmc.2003.c: "What's the current plan?"
+acot_pmc.2003.c.response.a: "For now, focus on increasing your strengths and acquire new technologies. Once you have amassed both, we'll move to the next stage.\n\nAlso, whatever you do, do NOT attack the main branch. Not yet, every piece of the puzzles must be set first."
+acot_pmc.2003.c.response.b: "You have done well, and learned many things. But it will not be enough if you want to achieve...total victory against our mutual adversary. You may be able to destroy the fleets and secure the Drop Point, but a Phanon Agent cannot be rid off so easily, but that's where we come in.\n\nInstall this package that we have provided into your systems then we will be ready for the next stage. Again, until you do this, you must NOT attack the main branch yet."
+acot_pmc.2003.c.response.c: "Take the fight to our mutual enemies. Capture their starbase, then the Vault. We'll send in back up to assist you along the way. Oh, and don't die."
+acot_pmc.2003.d: "What will actually happen if this plan of yours succeed?"
+acot_pmc.2003.d.response: "Our own agent will take over the operations and things will resume as normal. With one exception, you will have earn a favor, a permanent Ultra status will be yours. As well as many other benefits we can assure you. As for the Drop Point system, let's just say you will have earn the right to keep it for awhile."
+acot_pmc.2003.e: "Nothing else for now."
+
+acot_pmc.2004.name: "Rival Phanon Corps Operative"
+acot_pmc.2004.desc.a: "So you're stepping up the plates. Very good. Your alpha tech will serve as a good starting point for further adaptation. Forget about adapting the techs used by the Corps for now, you're no where close. But you can make something of a stepping stone in the between. We will send you these schematics and data, provided that you can pay for them. For simplicity's sake, lets call this technology "Phi"."
+acot_pmc.2004.desc.b: "Now that you know the basics of Phi. It's time to move on to the more advanced replications. Once you acquire the resources, we'll begin transaction."
+acot_pmc.2004.desc.c: "You have done well, only one last pieces of the puzzle remain. Get the resources and make this last transaction. Once you have completed the research, the final phase may commence."
+acot_pmc.2004.a: "Wait, we need to pay for them?"
+acot_pmc.2004.a.response: "Naturally, we are the Phanon Corps, not Santa Corps. Besides, doing this...transaction is considered legal as far as the Coprs Policy goes. Trust us, it'll be better if things are done in a business-like manner."
+acot_pmc.2004.b: "Will the main branch suspects anything?"
+acot_pmc.2004.b.response: "Definitely, but leave that to us. They will not have the time to deal with you once we start our own missions. They may ask certain questions, but so long as you do not reveal your cards, no issues will happen."
+acot_pmc.2004.c.a: "Fine, this better be worth it."
+acot_pmc.2004.c.a.response: "The money is easy, its what you make out of it that is the challenge. Uploading data now."
+acot_pmc.2004.c.b: "Let's get this over with then."
+acot_pmc.2004.c.b.response: "If it will make you feel better, just think of how much money you'd saved from wasting them all in battle, haha."
+acot_pmc.2004.c.c: "This better be the last time."
+acot_pmc.2004.c.c.response: "It will be, at least in terms of money you will spend. But the hard and fun part is yet to come."
+acot_pmc.2004.d: "Nevermind, we want to talk about something else."
+acot_pmc.2004.e: "We cannot pay yet. Maybe later."
+
+acot_pmc.2005.name: "Phanon Corps Fact Checking Service"
+acot_pmc.2005.desc: "Apologies for taking your time, [root.GetName]. But we are having some technical issues on our end, the sensors seem to fluctuate between green and yellow, giving us false alarms that you may harbor some of the classified data and equipment that may belong to the Phanon Corps. We would like to perform a direct scan on your systems. We will compensate for this inconvenience."
+acot_pmc.2005.a: "Ridiculous, why would we harbor your secrets!"
+acot_pmc.2005.a.response: "It is done for security concerns, you will be compensated."
+acot_pmc.2005.b: "We are your Ultra Member, have some respect please."
+acot_pmc.2005.b.response: "You are right, of course. We shall not be pressing this issues further. It is likely an error on our end."
+acot_pmc.2005.c: "Get out of our systems, this is none of your business!"
+acot_pmc.2005.c.response: "Now you're behaving extra sus. All the more reason to run a check on you."
+acot_pmc.2005.d: "Yes, we have some of your toys, eheh."
+acot_pmc.2005.d.response: "Is that so? It appears our security must have been breached. We thank you for your honesty, we shall be updating our encryptions accordingly. Please accept these rewards along with §Y4§! Phanon Coins for your trouble."
+acot_pmc.2005.e: "On the contrary, can we pay you to not bother us?"
+acot_pmc.2005.e.response: "Very well. The Corps appreciate your contribution and eagerness. We will not pursue this matter further."
+
+acot_pmc.2006.name: "Phanon Corps Fact Checking Service"
+acot_pmc.2006.desc.a: "Running scans now...negative signal.\n\nIt appears you're all clear, [root.GetName]. Sorry for wasting your time, please enjoy this compensation package."
+acot_pmc.2006.desc.b: "Running scans now...\n\nUnfortunately, it appears that the alert is positive. We do not know how did you come to possess these techs, but this means our security systems have been compromised. We do not fault you, however, the error is on us. Someone has betrayed us, and they will answer for this.\n\nTake this compensation package, and please refrain from further tampering. Have a nice day."
+acot_pmc.2006.a: "How generous of you."
+acot_pmc.2006.a.tooltip: "Our deception works"
+acot_pmc.2006.b: "Oh well."
+acot_pmc.2006.b.tooltip: "It appears that the Corps have updated their security systems and designs. Any advantages that we may once have against them may no longer work."
+
+acot_pmc_security_update_debuff: "Obsolete Phanon Analysis"
+acot_pmc_security_update_debuff_desc: "Nothing matches the database anymore! Where's the secret exhaustion port that was promised?!"
+
+acot_pmc.2007.name: "Rival Phanon Corps Operative"
+acot_pmc.2007.desc.a: "Looks like you managed to handle the situation well. Good work, and we have covered our tracks on our ends too. They will not be suspecting anything further until we make the final move. Again, well done."
+acot_pmc.2007.desc.b: "Oh well, we suppose that this may happen. But no matter, this setback will not stop us from reaching the end goal. Continue the work."
+acot_pmc.2007.desc.c: "Idiot. Now you just made things harder for both of us for no unfathomable reasons. If you do not take this matter seriously, forget about our deals. We will find another way."
+acot_pmc.2007.a: "Pretty good, right?"
+acot_pmc.2007.a.response: "Pretty good, yes. Just don't let it get over your head."
+acot_pmc.2007.b: "So long as it all works out."
+acot_pmc.2007.b.response: "If you plays your role correctly, then it will."
+acot_pmc.2007.c: "Sorry, that was dumb yes."
+acot_pmc.2007.c.response: "Just don't make any more mistakes and stick to the plan please. Be better."
+acot_pmc.2007.d: "Stop acting like a boss."
+acot_pmc.2007.d.response: "We are here to make a partnership, not to look after children. Your inability to demonstrate common sense will only cause more trouble on our ends. Consider the deals cancelled. What a waste of time. Stupid plebs.\n\n§RWe have lost access to the back channel. In addition, they have hacked our systems and took some of our resources as well as planting a rather nasty virus that requires purging.§!"
+
+acot_pmc_rival_hack_debuff: "§RNasty Parting Gift§!"
+acot_pmc_rival_hack_debuff_desc: "Do not mess with the Corps."
+
+acot_pmc.2008.name: "Rival Phanon Corps Operative"
+acot_pmc.2008.desc: "You have acquired the majority of the technologies needed to progress through the next stage of the plan. So listen carefully, for once the stage is set, there will be no turning back. All gloves will be off, no quarters will be given by our enemies so neither must you.\n\nBegin by installing this package we'll provide to you. It will even up the odds."
+acot_pmc.2008.a: "What package is this?"
+acot_pmc.2008.a.response: "A transmitter of sort, it will enable us to send our forces directly to your location and bypass all of our enemies's encryptions and defense networks. Simply follow the instructions provided and all will be made clear."
+acot_pmc.2008.b: "We would rather not install malicious technology."
+acot_pmc.2008.b.response: "Do not be short-sighted! We are so close to the end now. It will be much easier to deal with our enemies if we can provide you with direct support. Attacking the Corps on your own now will only lead to needless complications. Trust the plan. That is all that matters."
+acot_pmc.2008.c: "Very well. Let's do it."
+acot_pmc.2008.c.response: "Excellent, further instructions will be provided once the package is secure and installed."
+acot_pmc.2008.c.tooltip: "§YCompleting this special project will start a point-of-no-return in the Phanon Corps event chain! If you wish to fight the Phanon Corps on your own terms, simply ignore this special project§!"
+acot_pmc.2008.d: "Sorry, but we're not doing this."
+acot_pmc.2008.d.response: "Then we have wasted our time. Unfortunate, but predictable. Good bye, we will not see each other again."
+acot_pmc.2008.d.tooltip: "§YThis will permanently lock you out of the alternate route of the Phanon Event Chain. You will be required to fight the Phanon Corps on your own terms if you choose this path.§!"
+
+ACOT_PHANON_RIVAL_PACKAGE: "Rival Phanon Corps Special Package"
+ACOT_PHANON_RIVAL_PACKAGE_DESC: "According to the Rival Contact, this will enable them to directly supply us with assets to help us against the local Phanon Corps. We should prepare for a real battle once this is accomplished.\n\n§YCompleting this special project will start a point-of-no-return in the Phanon Corps event chain! If you wish to fight the Phanon Corps on your own terms, simply ignore this special project§!"
+
+acot_pmc.2009.name: "Gloves Are Off"
+acot_pmc.2009.desc: "The package is secured and is now transmitting. The signal is no longer unmistakable. Everyone in the galaxy with fuctioning sensors know what we're up to. The Main Branch of the Phanon Corps will not like this obviously. Their time is about to be up. We just need to survive."
+acot_pmc.2009.a: "Time to play our hands."
+acot_pmc.2009.b: "This device better does its job or we're super spooked."
+
+acot_pmc_rival_analysis_buff: "Super Phanon Transmitter"
+acot_pmc_rival_analysis_buff_desc: "Thanks to the device installed by our benefactor, we know many new weaknesses of the Corp's ships."
+
+acot_pmc.2010.name: "Phanon Corps Retaliator"
+acot_pmc.2010.desc.a: "[Root.GetName], your actions to compromise the security of the Phanon Corps can no longer be ignored. Because of you, this galaxy is no longer worthy of our mercy. You and everyone else of your pleabian kinds will be swept away by my hand. And then I'll see to it that the foul backstabber who was the mastermind behind this farce pays for their treachery!"
+acot_pmc.2010.desc.b: "[Root.GetName], we regret to inform you that one of the empires who shares this galaxy with you have made themselves clear as the enemies of the Corps. As of now, the Purge Protocol is active. You and every pathetic plebs will be destroyed. Make peace with your last moments."
+acot_pmc.2010.a: "We have been waiting for this!"
+acot_pmc.2010.a.tooltip: "§RAs do I§!"
+acot_pmc.2010.b: "Took you long enough, you mongrels."
+acot_pmc.2010.b.tooltip: "§RPrepare for Oblivion, pathetic plebs.§!"
+acot_pmc.2010.c: "Ridiculous! We aren't your enemies!"
+acot_pmc.2010.c.tooltip: "§RWell, you are now. Prepare yourselves!§!"
+acot_pmc.2010.d: "But we are your Ultra Member!."
+acot_pmc.2010.d.tooltip: "§RThere is no difference. You're guilty all the same.§!"
+acot_pmc.2010.e: "A pity it was not us who did it first."
+acot_pmc.2010.e.tooltip: "§RI see...so you are one of them. All conspirators must be rooted out.§!"
+
+acot_pmc.2011.name: "The Phanon Awakes!"
+acot_pmc.2011.desc.a: "For some reasons, the Phanon Corps have raised full alert and mobilized their fleets for war. All contracts and services have been terminated. And it appears they're going to attack everyone, us included. We must defend ourselves!"
+acot_pmc.2011.desc.b: "It appears someone else has the same idea as us. The Phanon Corps have raised full alert and mobilized their fleets for war. All contracts and services have been terminated. They're treating everyone as hostiles. We must defend ourselves."
+acot_pmc.2011.a: "What the? But we didn't do anything!"
+acot_pmc.2011.b: "Who spooked them first?"
+
+acot_pmc.2012.name: "Rival Fleet Reinforcements!"
+acot_pmc.2012.desc.a: "Great News, the first batch of our benefactor's vanguard reinforcements have arrived! They come in the form of a large squadron of Star Chasers. They may not be able to stand up against a Phanon Fleet on their own, but they should provide us with extra fire supports."
+acot_pmc.2012.desc.b: "More of our benefactor's help have arrived! This time, its an even larger squadron of Star Chasers led by one of their own Operative who pilots a personal Star Invader!"
+acot_pmc.2012.desc.c: "The third and last batch of our benefactor's vanguard reinforcements have arrived. They have sent more Star Chasers and a few Star Destroyers to aid us. If we can only hold out just a little longer, then the main aramada will be ours to command."
+acot_pmc.2012.a: "Excellent!"
+acot_pmc.2012.b: "Very Good!"
+acot_pmc.2012.c: "Super!"
+
+acot_pmc.2013.name: "Rival Fleet Reinforcements!"
+acot_pmc.2013.desc: ""§YDecepticon Armada Reporting. We are yours to command, [root.GetName]!"§!\n\nThe Main Fleet of our benefactor has arrived at long last. It is time to take the fight to our enemies and crush them utterly!"
+acot_pmc.2013.a: "Time to bury the fools."
+########################### PHANON DIGGING SERVICE
+
+acot_pmc.7.name: "Phanon Corps Inquiry Services"
+acot_pmc.7.desc: "Redirecting to Inquiry Channel. Greetings! What would you like to know about us, dear customer?" 
+acot_pmc.7.a: "What exactly is the Phanon Corps?"
+acot_pmc.7.a.response: "The Phanon Corps is the galactic's officially recognized paramilitary service organization. We are, in the simples terms, a power for hire. If you have problems, you can come to us, chances are we can help deal with it, for a price of course."
+acot_pmc.7.b: "Are you like the other enclaves?"
+acot_pmc.7.b.response: "If you mean are we a neutral service provider, then yes. But our services are provided with a more...unique interests in mind. As a self-funded organization, we will not face any immediate financial crisis from lack of customers. As a result, we separate ourselves from our...less refined competitors with expensive, but high quality services."
+acot_pmc.7.c: "Impressive techs you have, what are they?"
+acot_pmc.7.c.response: "Impressive indeed, yes? Though we are not allowed to reveal too much information about our specs for security concerns, know that the power sources we use are not something that your empire'll likely be able to acquire. Not to say you're not capable, but they require certain...conditions that are not readily met by the galaxy at large. But suffice to say, you will find that our technology and weapons are more than a match for most and few could stand against our firepowers."
+acot_pmc.7.d: "Does the Corps has a real goal?"
+acot_pmc.7.d.response: "Naturally, although it may seem unconvential and perhaps a bit hard to comprehend by customers such as you. But suffice to say, the Corps are very interested in maintaining certain...status quos between the powers across the galaxies. But rest assured, we are not a threat to those who would not seek our aggression first. We are a neutral party, and prefers to remain so."
+acot_pmc.7.e: "What services do you actually provide?"
+acot_pmc.7.e.response: "Various type of services, ranging from commissions, sabotages, information and other more...unorthordox things. The control panels will give you the rough idea of what the Corps can provide for you. Do be aware that services will be suspended should hostile actions be taken, but that should be common senses."
+acot_pmc.7.f: "How large is the Phanon Corps?"
+acot_pmc.7.f.response: "Larger than you may realize. You should already be able to guess that our reach expands beyond the local stars if our portals are not a dead giveaway enough. But that is all you need to know. We are many, and we will never truly be outnumbered, that is all that matters."
+
+###########################
+ 
+acot_pmc.9.desc: "Your fleets have made an unprovoked assault against the Corps. The Corps will now excercise aggressive response to protect our assets."
+acot_pmc.9.a: "That was an accident!"
+acot_pmc.9.a.response: "Logic dictates otherwise."
+acot_pmc.9.b: "All your base are belong to us."
+acot_pmc.9.b.response: "Aggression duly noted." 
+
+acot_pmc.900.title: "Act On Aggression"
+acot_pmc.900.desc: "Be it by design or not, our aggression against the Phanon Corps has resulted in a hostile response. We are now officially at war with this mysterious organization. We believe that understanding the Corp's technological capabilities will be crucial to any ongoing battle. Unfortunately, most of their components break down and self-destruct upon destruction of the ship, so we will not be able to directly analyze any of their ship's debris.\n\nHowever, we believe that if we can destroy enough of their ships, our researchers may yet be able to form a pattern and develop countermeasures around their encrypted systems, allowing us to develop new components using a combination of our own technologies and theirs." 
+acot_pmc.900.a: "We will prevail."
+acot_pmc.900.b: "They cannot stop us."
+
+acot_phanon_decipher_buff: "Phanon Countermeasures"
+acot_phanon_decipher_buff_desc: "Gathered Fragments from Phanon Debris are being used to identify their ship's weaknesses. We should make the most of it before the Corps update their designs."
+
+acot_pmc.9001.title: "Know Your Enemy"
+acot_pmc.9001.desc: "Our battles against the Corps have given us an opportunity to study how their mysterious technology work. While almost all of their equipments break down upon destruction, likely as part of self-destruct mechanism, there're multiple fragments that can be studied. With enough luck, we may be able to develop new technology by combining these fragments with our own Alpha components to even up the playing field.\n\nAlternatively, we can simply liquify these components into raw materials and insert their data into our combat computer's targeting systems, which will make it easier for us to damage their ships in battle for awhile." 
+acot_pmc.9001.a: "We will study their technology."
+acot_pmc.9001.a.tooltip: "50 fragments will be required and used to analyze the Corps's technology."
+acot_pmc.9001.b: "They are useless, finding their weakness is enough."
+acot_pmc.9001.b.tooltip: "Rather than trying to implement their technologies, we should be developing ways to counter them. All fragments will be drained to grant a temporarily enhancement to our weapons against the Corps until they develop ways to counter our algorithms. Any future fragments will simply be converted into alloys instead, with the ratio of 100 alloys per fragment."
+
+acot_pmc.9002.title: "The Secrets Within"
+acot_pmc.9002.desc: "Now that we're more familiar with the Phanon engineering and technology, it is time we use the knowledge and the fragments we gathered to learn more about the Corps." 
+acot_pmc.9002.a: "Expand the horizon."
+acot_pmc.9002.a.tooltip: "200 fragments will be required and used to analyze more of the Corps's technology."
+
+acot_pmc.9003.title: "The Phi Conclusion"
+acot_pmc.9003.desc: "We're ready to make the final preparations to compile all the leftover fragments of the Corps to complete the last of the missing Phi-based technologies. Once the process is done, we'll have the full Phi arsenal. Any future fragments will automatically be converted into alloys at the rate of 100 alloys per fragment." 
+acot_pmc.9003.a: "And so it ends."
+acot_pmc.9003.a.tooltip: "1000 fragments will be required and used to analyze even more of the Corps's technology to complete the Phi-tier technology. Any future fragments will automatically be converted into alloys at the rate of 100 alloys per fragment."
+
+acot_pmc.10.title: "Phanon Starbase Disabled!"
+acot_pmc.10.desc.a: "After a lengthy fight, the Phanon Corps's starbase has been disabled. Fortunately for us, due to the Starbase's fully automated nature, our cyber specialists have managed to reroute its systems to respond to our command and we are now assuming direct control. In response, the Corps have retreated their massive Star Traveller using some kind of advanced FTL Jumping Sequences and we can no longer track its presence at this time. The only obstacle left is the Vault. It must be captured if we wish to proceed."
+acot_pmc.10.desc.b: "After a lengthy fight, the Phanon Corps's starbase has been disabled. Fortunately for us, due to the Starbase's fully automated nature, our cyber specialists have managed to reroute its systems to respond to our command and we are now assuming direct control. The massive Star Traveller in the center appears to be trying to escape, but its FTL systems have been jammed. We assume that our benefactor has a hand in this. That means only the Vault is the threat now. It must be captured if we wish to proceed."
+acot_pmc.10.desc.c: "We managed to take control of the Drop Point again. Let's make sure it stays on our side this time."
+acot_pmc.10.a: "Let's get to work. The Vault must be captured."
+acot_pmc.10.a.tooltip: "Attempting to capture the Vault will likely result in the Corps trying to retake it with fiercer resistance. We should be careful."
+acot_pmc.10.b: "No, the risk is too high. The Vault must be destroyed."
+acot_pmc.10.b.tooltip: "Attempting to destroy the Vault seems to pose lesser risks, the Corps do not seem to care about the Vault's safety as much as the secrets they wish to hide from us. But who knows what will they try to do?"
+acot_pmc.10.c: "Let's see what's our benefactor's next instruction."
+acot_pmc.10.c.tooltip: "They will know what to do next."
+acot_pmc.10.d: "Indeed."
+
+acot_pmc.1000.desc.a: "Unthinkable! That my defenses could be breached...But this is not over! You will not easily breach my Vault's defenses, and my forces will soon arrive to burn this galaxy to ashes!\n\n§RENGAGE RED ALERT PROTOCOL! SOON YOUR GALAXY WILL BURN!§!"
+acot_pmc.1000.desc.b: "Curses you and those damn backstabbers! I will not let it end like this...\n\nWhat the? What have you done!? The Star Traveller's control system's not responding!\n\n§RTRAITORS! I REFUSE TO BE BEATEN LIKE THIS! NOT BY THE LIKES OF YOU!§!"
+acot_pmc.1000.a: "We will not be intimidated by you."
+acot_pmc.1000.a.response: "§RMY MISTAKE MUST BE CORRECTED. PHANON MUST REIGN SUPREME§!"
+acot_pmc.1000.b: "Do your worst, corpo bastards!"
+acot_pmc.1000.b.response: "§RDEATH WILL CLAIMS ALL OF US EVENTUALLY. TAKE SOLANCE IN THAT.§!" 
+acot_pmc.1000.c: "Every hand is turned against you."
+acot_pmc.1000.c.tooltip: "It appears our contact has done their part, the enemy has no where to run and no place to hide."
+acot_pmc.1000.c.response: "§RYOU DO NOT DESERVE THIS VICTORY! MY MEN WILL COVER MY ESCAPE AND I WILL RETURN!§!" 
+
+acot_phanon_vault_disable_shield: "Down With Phanon"
+acot_phanon_vault_disable_shield_type: "Hacking"
+acot_phanon_vault_disable_shield_desc: "The Greed Ends Here"
+acot_phanon_vault_disable_shield_monthly_change_tooltip: "The Greed Ends Here"
+
+acot_pmc.1001.title: "Road After Tomorrow"
+acot_pmc.1001.desc.a: "Although we have causes to celebrate after our most recent victory against the Corps, the ominous reaction from the Corps's Representative are of a great concern. The Corps have have dropped all facades of politeness and professionalism, so it is clear that they mean to destroy our galaxy as a retaliation.\n\nThe Droppoint will not be secure so long as the Corps still hold control over their enigmatic Dimensional Mirror, which seems to be responsible for sending in new reinforcements. The secrets within the Vault should be the key to disable it.\n\nThe protective shield makes the Vault nigh indestructible from the outside, but it appears to not stop invasion forces from boarding. So our next logical cause should be to assemble a great army and take down their defenses from within." 
+acot_pmc.1001.desc.b: "Something big has just occured. Apparently the Phanon Corp's Droppoint has been overran by another empire! The Corps are on full retreat and their Star Traveller have disappeared. For the moment, the Corps have ceased all communications and services with everyone. It remains unknown what will happen next." 
+acot_pmc.1001.a: "Prepare for the assault!"
+acot_pmc.1001.b: "They had it coming. Soon we finish them off once and for all."
+acot_pmc.1001.c: "This can't be good."
+acot_pmc.1001.d: "Someone's asking for trouble."
+
+acot_pmc.1003.name: "Phanon Corps Retaliator"
+acot_pmc.1003.desc.a: "You did it! Excellent work, [root.GetName]. Their defenses have crumbled! Now, you must deliver the killing blow! Use these armies we will provide, they will aid you in taking out the Vault, their final holdout.\n\nAs for the Star Traveller, our agent master has overriden its emergency FTL codes, but it will only work temporarily. If you want to capture it, use a science ship and instruct them to use these codes to lock down the engines and drives. But do hurry, or it will escape along with the enemy agent."
+acot_pmc.1003.desc.b: "[Root.GetName],by now you must be aware that the Main Brach's Home System has been captured. But as we suggested, the agreement has already been finalized with another empire, and so they will be taking things from here on out. But our agent master acknowledges your contribution regardless, so we have prepared these compensation packages for you. But if you wish to take matters in your own hands, we will not intervene. Attack the system's new owner at your own pleasure.\n\n§YDue to the agreement, the ownership of the Drop Point has been transferred to another empire. If we still wish to claim it, we'll have to deal with them later."
+acot_pmc.1003.desc.c: "It appears that the [event_target:acot_phanon_non_spook_country.GetName] has claimed the Drop Point System first. But because of our agreement, we will be transferring the control of the system to you. We are a bit disappointed that you're not the one who deals this critical blow to our enemies, but that does not matter anymore. Their defenses have crumbled. Now, is the time for the finishing blow. Use these armies we will provide, they will aid you in taking out the Vault, their final holdout.\n\nAs for the Star Traveller, our agent master has overriden its emergency FTL codes, but it will only work temporarily. If you want to capture it, use a science ship and instruct them to use these codes to lock down the engines and drives. But do hurry, or it will escape along with the enemy agent."
+acot_pmc.1003.a: "How exactly did you manage to stop the Star Traveller?"
+acot_pmc.1003.a.response: "Believe us, this wouldn't have been possible without your contributions, but as we have said. This will not last, if you wish to secure the ship, you need to send a science ship there and hack it."
+acot_pmc.1003.b: "How strong is the Vault's defenses?"
+acot_pmc.1003.b.response: "Formidible would be an understatement. Because the enemy agent is hiding there, all of their availiable units will likely gather up at the most fortified position. You must assemble the biggest and most formidable invasion force as you can muster and take the garrison down. Remember to use the forces we will provide, they are standing ready at the Drop Point itself.\n\nOh, and be aware that while the Vault has built-in self repair mechanisms, it may not be enough to stop damage coming from more powerful weapons, so try to avoid using armies with...you know...lots of collateral damages."
+acot_pmc.1003.c: "Right, let's get to it then."
+acot_pmc.1003.c.response: "Good luck down there. Do not underestimate our foes."
+acot_pmc.1003.d: "Now that's an idea...thanks for the money though."
+acot_pmc.1003.d.response: "It has been a pleasure, and we'll be interested in your future roles in it. Perhaps yoy may surprise us yet."
+acot_pmc.1003.e: "We still think this deal is garbo."
+acot_pmc.1003.e.response: "Unfortunate, yes. But as we said, if you sitll wish to take the System from them later, you can still do it."
+
+acot_pmc.1004.title: "Alone in the Dark"
+acot_pmc.1004.desc: "Hack Completed. The Star Traveller's not going anywhere now. The enemy has no where to run. Time to finish them off."  
+acot_pmc.1004.a: "Like a cornered animal."
+
+acot_pmc.1005.title: "The Slipped Prey"
+acot_pmc.1005.desc: "Unfortunately, we failed to hack the Star Traveller in time before they manage to recover their systems. The enemy agent used this quick opportunity to warp aboard the massive vessel and disappears."  
+acot_pmc.1005.a: "Oh well."
+
+acot_pmc.1006.name: "Phanon Corps Shameful Disprayer"
+acot_pmc.1006.desc: "Hahaha! You have failed! Take the damn system and things all you want, but you'll never find me! And you'll never take me!\n\nI'm laughing at you, plebs! Good Bye! We'll never see each other again!"
+acot_pmc.1006.a: "Your "friends" will find you."
+acot_pmc.1006.a.response: "And I'm counting on it! They will pay for this betrayal!"
+
+acot_pmc.1007.name: "Rival Phanon Corps Operative"
+acot_pmc.1007.desc: "So the enemy agent escaped, it seems. Oh well, guess we can't expect everything to go perfectly smooth. But that is our business to worry.\n\nContinue your work and take out the Vault's garrisons."
+acot_pmc.1007.a: "Will the escaped agent be a problem later?"
+acot_pmc.1007.a.response: "Not for you, at least. The rest you do not need to know."
+acot_pmc.1007.b: "Can't you override the Vault?"
+acot_pmc.1007.b.response: "The enemy agent still has a pair of operatives on-site to act as final firewall safeguard. You must eliminate them alongside the rest of the defenses."
+acot_pmc.1007.c: "Sorry for the failure."
+acot_pmc.1007.c.response: "It cannot be helped. This has been a chaotic fight. But victory is still within our reach."
+acot_pmc.1007.d: "Right. Let's keep it up."
+acot_pmc.1007.d.response: "Remember, we will be watching."
+
+ACOT_PHANON_DISABLE_TRAVELLER: "Star Traveller Hack"
+ACOT_PHANON_DISABLE_TRAVELLER_DESC: "With the codes provided by our benefactors, we can stop the Star Traveller from escapaing. But there's not much time before they recover from the system intrusion!."
+
+acot_pmc.1010.desc: "Sacrilage! You would dare to destroy my vault!? Your arrogance knows no bounds! Very well, let's see who's faster!\n\n§RENGAGE FATALITY PROTOCOL! WE WILL NOT GO QUIETLY INTO THE VOID!§!"
+acot_pmc.1010.b: "Either way, your reign over this galaxy ends here."
+acot_pmc.1010.b.response: "§RDEATH WILL CLAIMS ALL OF US EVENTUALLY. TAKE SOLANCE IN THAT.§!" 
+
+acot_pmc.11.title: "Vault Captured"
+acot_pmc.11.desc.a: "Our initial invasion of the Corps's Vault has been successful. Although many of the Vault's defenders have retreated further inside its complex, puzzling corridors, the frontal sections are secure and ready for adjustment. Getting deeper will be more difficult from here on out, and the Corps will no doubt attempt to retake the Vault if given the chance. We must remain vigilant. If we have not previously studied on their fragments, now will be the time, as studying their technology will be critical if we want to understand how the Vault works." 
+acot_pmc.11.desc.b: "Our initial invasion of the Corps's Vault has been successful. The rest of their defense forces, along with the agent's operative bodyguards have prepared a fortified position deep further inside. This is their last line of defense.\n\nOur mutual friend has provided us with yet another wave of reinforcements, but they may not be enough. We must carry our earn weight as well." 
+acot_pmc.11.desc.c: "Once again we are able to regain control of the Vault and the enemy have retreated. There're no traces of survivors from our people or even any of our infrastructues, the Corps made sure to clean it all up. If we want to prevent this from happening again, the Vault must remains secured at all time." 
+acot_pmc.11.a: "We have them trapped, they're not getting anywhere."
+acot_pmc.11.a.tooltip: "Once we are ready, assault into the Vault's infinite corridors through the planetary decision which should now be availiable."
+acot_pmc.11.b: "Let's drive them out."
+acot_pmc.11.b.tooltip: "Once we are ready, assault into the Vault's infinite corridors through the planetary decision which should now be availiable.\n\nAddition army reinforcements have been provided by the Rival Phanon Corps Agent."
+acot_pmc.11.c: "Let's not make a habit of this."
+
+acot_pmc.12.title: "Vault Outer Corridors Assault"
+acot_pmc.12.desc: "Our forces are assembled and ready for the attack on the Outermost part of this so called Infinite Corridors. Scanner indicates a sizable amount of resistances are hunkering down, waiting for our attacks. If we strike from the front, we can expect to have heavy resistances but we'll have the advantage of superior cover. There's also a possible flanking route that will leave our enemies exposed, but we'll have to deal with a few extra death traps. Finally, there's a psi-gas terminal on this area that may reduce coordination and morale for any living units of both sides. From where shall we make our attack?" 
+acot_pmc.12.a: "Storm the front, no survivors!"
+acot_pmc.12.a.tooltip: "Thanks to superior cover and height, our forces will gain additional 25% hit points for 60 days or until the fight is over.\n\n§REXPECTED RESISTANCE:§!\n\n§R<<Phanon Bionic Division>>§!\n§H80§! Phanon Dutymen\n§H20§! Phanon Elites\n§H1§! Phanon Officer"
+acot_pmc.12.b: "Flank and flush them out. The traps can be disabled."
+acot_pmc.12.b.tooltip: "The alternate route leaves the Phanon's units exposed, making them have 25% less hit points and 25% less morale for 180 days or until the fight is over. But we'll have to deal with a few extra automated defenses which do not suffer these penalties.\n\n§REXPECTED RESISTANCE:§!\n\n§R<<Phanon Bionic Division>>§!\n§H80§! Phanon Dutymen\n§H20§! Phanon Elites\n§H1§! Phanon Officer\n§R<<Phanon Automated Defenses>>§!\n§H5§! Phanon Sentry Gun"
+acot_pmc.12.c: "Activate the Psi-Gas, terrorize them!"
+acot_pmc.12.c.tooltip: "Using the Psi-Gas will cause all organic armies (including manned-vehicles) on both side to suffer 10% reduced damage  and 75% reduced morale. This effect will persists on all combatants for 180 days and will NOT expire after the battle.\n\n§REXPECTED RESISTANCE:§!\n\n§R<<Phanon Bionic Division>>§!\n§H80§! Phanon Dutymen\n§H20§! Phanon Elites\n§H1§! Phanon Officer"
+acot_pmc.12.d: "Cancel the attack. We need more preparations."
+
+acot_pmc.1200.title: "Assault Successful"
+acot_pmc.1200.desc.a: "After some intense fighting within the Vault, our armies managed to clear out all hostile forces within the Outer Corridors. Any surviving Phanon Units have retreated even further into the Middle Section. With the Outer Area secured, we are able to make more use of the Vault's space. In addition, our clean-up crews manage to acquire many data and technologies stored within this section.\n\nThe Middle Corridors is locked for the moment, and will take a while before they can be assaulted, we should use this time to recover our forces as necessary for the next battle, no doubt the Corps will redouble their defensive efforts." 
+acot_pmc.1200.a: "Well done all!"
+
+acot_pmc.13.title: "Vault Middle Corridors Assault"
+acot_pmc.13.desc: "Once again our forces are ready to make the assault, this time on the Middle Section of the Infinite Corridors. Resistance will be fiercer than the last, but the wider space may be advantegous to our side if we deploy our forces efficiently. The defenses here are entirely mechanical, there is no organic forces here. Striking from the front is ill-advised, for the Corps have lay out additional traps and automated defenses. There is an experimental xenomorph containment zone that may be used to distract our enemies, but they'll be sure to turn on us once the Corps are gone. Lastly, we can allocate large amount of alloys, energy and enigmatic resources to construct a powerful siege weapon that will create a new attacking route that can bypass those automated defenses." 
+acot_pmc.13.a: "Nothing will stop us. We go through the front door!"
+acot_pmc.13.a.tooltip: "Attacking from the heavily fortified frontal area will require us to deal with additional automated defenses.\n\n§REXPECTED RESISTANCE:§!\n\n§R<<Phanon Mechanized Division>>§!\n§H80§! Phanon Gun Defender\n§H30§! Phanon Aegis Defender\n§H10§! Phanon Commando Defender\n§H1§! Phanon Defender Prime\n§R<<Phanon Automated Defenses>>§!\n§H10§! Phanon Sentry Gun\n§H5§! Phanon Death Trap"
+acot_pmc.13.b: "Release the xenomorphs! We'll deal with them later."
+acot_pmc.13.b.tooltip: "Large amounts of enhanced cybernetic xenomorphs will join our forces for 360 days, after which they will revert to hostile. It is greatly advised to clear the Middle Corridor before they go berserk.\n\n§REXPECTED RESISTANCE:§!\n\n§R<<Phanon Mechanized Division>>§!\n§H80§! Phanon Gun Defender\n§H30§! Phanon Aegis Defender\n§H10§! Phanon Commando Defender\n§H1§! Phanon Defender Prime\n§R<<Phanon Automated Defenses>>§!\n§H10§! Phanon Sentry Gun\n§H5§! Phanon Death Trap\n\n§BEXPECTED ASSISTANCE:§!\n\n§B!<<Phanon Experiments>>§!\n§H80§! Phanon Enhanced Xenomorph"
+acot_pmc.13.c: "To hell with the defenses, we drill through them."
+acot_pmc.13.c.tooltip: "Spend a large amount of resources to create a new avenue of surprise attack, bypassing the automated defenses.\n\n§REXPECTED RESISTANCE:§!\n\n§R<<Phanon Mechanized Division>>§!\n§H80§! Phanon Gun Defender\n§H30§! Phanon Aegis Defender\n§H10§! Phanon Commando Defender\n§H1§! Phanon Defender Prime"
+acot_pmc.13.d: "Cancel the attack. We need more preparations."
+
+acot_pmc.1300.title: "Assault Successful"
+acot_pmc.1300.desc.a: "One way or another, we managed to rout the Corps out of the Middle Corridors and remaining Phanon Units are in full retreat. Just like before, we manage to clear out additional spaces and uncover new secrets.\n\nThe Inner Corridors will be inaccessible for sometimes, and we should prepare ourselves until then." 
+acot_pmc.1300.a: "Getting there."
+
+acot_pmc.14.title: "Vault Inner Corridors Assault"
+acot_pmc.14.desc: "Our forces are eager to take the fight against the Phanon where it hurts. The Inner Section is clearly not meant for any non-Corps to ever set foot on, it is as if the Vault itself is resisting us. Mechanical units seem to be heavily affected. We should swap out for other types of forces if possible. Tbe defense forces are made up of both biological and mechanical ones. They're far apart from one another, however, so we may be able to finish off one side before the other manages to appear. Or if we're feeling confident, we can simply strike deep into the middle and meet both armies head-on. Doing so will leave our armies flanked on two fronts but the inital penetration shock may leave our enemies vulnerable for a short period of time." 
+acot_pmc.14.a: "Fight the Dutymen first, they are a greater threat."
+acot_pmc.14.a.tooltip: "If we can finish off the enemy fast enough, we may be able to lock down the access point before the mechanized force arrives, allowing us to bypass the enemy reinforcement completely. They may regroup on the final level though.\n\n§REXPECTED RESISTANCE:§!\n\n§R<<Phanon Bionic Division>>§!\n§H80§! Phanon Dutymen\n§H40§! Phanon Elites\n§H20§! Phanon Psi Commando\n§H3§! Phanon Officer\n\n§YEXPECTED REINFORCEMENT:§!\n§R<<Phanon Mechanized Division>>§!\n§H80§! Phanon Gun Defender\n§H40§! Phanon Aegis Defender\n§H40§! Phanon Commando Defender\n§H3§! Phanon Defender Prime"
+acot_pmc.14.b: "Take out the mechanized armies first, they must be destroyed."
+acot_pmc.14.b.tooltip: "If we can finish off the enemy fast enough, we may be able to lock down the access point before the bionic force arrives, allowing us to bypass the enemy reinforcement completely. They may regroup on the final level though\n\n§REXPECTED RESISTANCE:§!\n\n§R<<Phanon Mechanized Division>>§!\n§H80§! Phanon Gun Defender\n§H40§! Phanon Aegis Defender\n§H40§! Phanon Commando Defender\n§H3§! Phanon Defender Prime\n\n§YEXPECTED REINFORCEMENT:§!\n§R<<Phanon Bionic Division>>§!\n§H80§! Phanon Dutymen\n§H40§! Phanon Elites\n§H20§! Phanon Psi Commando\n§H3§! Phanon Officer"
+acot_pmc.14.c: "Strike at the heart! Overwhelm them!"
+acot_pmc.14.c.tooltip: "A bold spearheading assault into the heart of their formation may temporarily expose the Corps for approximately 180 days, causing them to suffer -50% morale penalty and -10% health and damage. If we fail to deal enough damage to weaken them, our forces will be pinned against two large armies. Caution is highly advised.\n\n§REXPECTED RESISTANCE:§!\n\n§R<<Phanon Bionic Division>>§!\n§H80§! Phanon Dutymen\n§H40§! Phanon Elites\n§H20§! Phanon Psi Commando\n§H3§! Phanon Officer\n§R<<Phanon Mechanized Division>>§!\n§H80§! Phanon Gun Defender\n§H40§! Phanon Aegis Defender\n§H40§! Phanon Commando Defender\n§H3§! Phanon Defender Prime"
+acot_pmc.14.d: "Cancel the attack. We need more preparations."
+
+acot_pmc.1400.title: "Assault Successful"
+acot_pmc.1400.desc.a: "After some intense fighting within the Vault, our armies managed to clear out all hostile forces within the Outer Corridors. Any surviving Phanon Units have retreated even further into the Middle Section. With the Outer Area secured, we are able to make more use of the Vault's space. In addition, our clean-up crews manage to acquire many data and technologies stored within this section.\n\nThe Middle Corridor is locked for the moment, and will take a while before they can be assaulted, we should use this time to recover our forces as necessary for the next battle, no doubt the Corps will redouble their defensive efforts." 
+acot_pmc.1400.a: "We must push onwards."
+
+acot_pmc.15.title: "Vault Final Corridors Assault"
+acot_pmc.15.desc: "We are about to strike the Final Corridors. The Corps have nowhere to run, they will have to make a stand here. No doubt they will give their all to stop us. Massive energy readings and activities are detected. This signature matches that of an Operative Team, so expect a battle like one never before. But even they will not stop us. Additionally, if any of the enemies from the Inner Corridors have not been dealt with, they will certainly show up now. But we have come this far. There is only one way to victory. Are we ready to strike?" 
+acot_pmc.15.a: "Forward! Today they fall!"
+acot_pmc.15.a.tooltip: "This is the Corp's final stand. Massive defense armies are being personally led by an Operative Team. We must bring our all to bear if we want to succeed. We should bring our own heroic armies to fight against them to even the odds. If we managed to avoid any armies from the Inner Corridors, they will be joining this fight, so expect extra resistance.\n\n§REXPECTED RESISTANCE:§!\n\n§R<<Phanon Bionic Division>>§!\n§H100§! Phanon Dutymen\n§H60§! Phanon Elites\n§H20§! Phanon Psi Commando\n§H5§! Phanon Officer\n§R<<Phanon Mechanized Division>>§!\n§H100§! Phanon Gun Defender\n§H50§! Phanon Aegis Defender\n§H50§! Phanon Commando Defender\n§H5§! Phanon Defender Prime\n§R<<Phanon Automated Defenses>>§!\n§H20§! Phanon Sentry Gun\n§R<<Phanon Final Defense Unit>>§!\n§H1§! Phanon Field Operative"
+acot_pmc.15.d: "Cancel the attack. We need more preparations."
+
+acot_pmc.1500.title: "Final Victory!"
+acot_pmc.1500.desc.a: "Victory at long last! The Phanon Corps have been cleared out of the area, and the entire Vault is now finally secured. No more reinforcements will be sent from within the Vault. The final moment is at hand." 
+acot_pmc.1500.a: "Ah, at last!"
+
+acot_pmc.16.title: "Vault Final Bastion Assault"
+acot_pmc.16.desc: "Deep down in the most defended parts of this Infinite Corridor, the massive amount of Phanon Defense Force stands resolute and defiant.They are determined to protect their master and the assets at all costs. This will not be an easy task. Are we ready to strike?" 
+acot_pmc.16.a: "Begin the Assault! This time, they die."
+acot_pmc.16.a.tooltip: "All of the remaining operatives have gathered to muster their master's forces to defend the Infinite Corridors. Even with our benefactor's assistance, we cannot give them quarter. Only the deadliest and largest amount of forces will suffice for this terrible siege.\n\n§REXPECTED RESISTANCE:§!\n\n§R<<Phanon Bionic Division>>§!\n§H150§! Phanon Dutymen\n§H50§! Phanon Elites\n§H50§! Phanon Psi Commando\n§H10§! Phanon Officer\n§R<<Phanon Mechanized Division>>§!\n§H125§! Phanon Gun Defender\n§H75§! Phanon Aegis Defender\n§H50§! Phanon Commando Defender\n§H5§! Phanon Defender Prime\n§R<<Phanon Automated Defenses>>§!\n§H50§! Phanon Sentry Gun\n§H5§! Phanon Death Trap\n§R<<Phanon Final Defense Unit>>§!\n§H4§! Phanon Field Operatives\n§H1§! Phanon Agent Guy Equipped With Ahoge-Class PDW (Potentially)"
+acot_pmc.16.d: "Cancel the attack. We need more preparations."
+
+acot_pmc.1600.title: "Supreme Victory"
+acot_pmc.1600.desc.a: "Victory is finally ours! All of the Phanon Forces loyal to the enemy Agent have been annihilated down to the last being. As for the Agent, it appears they have committed suicide to avoid being captured." 
+acot_pmc.1600.desc.b: "Victory is finally ours! All of the Phanon Forces loyal to the enemy Agent have been annihilated down to the last being. It is a pity that the Agent has already escaped." 
+acot_pmc.1600.a: "The coward didn't even fight for their life."
+acot_pmc.1600.b: "The body seems intact, let's eat them."
+acot_pmc.1600.b.tooltip: "Why waste a good meal?"
+acot_pmc.1600.c: "The agent's not our concern anymore anyway."
+
+acot_pmc.1601.name: "Soon to Be New Phanon Corps Manangement"
+acot_pmc.1601.desc.a: "Well done, [root.GetName]. Our enemy's failure is now complete. Now only one loose end remains, time to say good bye to your existence...\n\nJust kidding, hahaha. You have done well indeed, very very well. Now our own agent will finish their job and make the arrangements. The Service will continue on, as it has.\n\nBut of course, you must be excited about the promised rewards, yes? Enjoy these data schematics, they will allow you to use most of the technologies used by the Corps that are safe to deploy in your galaxy. In addition, you will be considered a permanent Ultra Membership, and will recieve discounts on all Ultra Services, as well as §Y10§! Phanon Coins every decade, in addition to the immediate payment of these resources and §Y20§! Phanon Coins.\n\nAny of the provided Phanon Assets are yours to keep."
+acot_pmc.1601.desc.b: "Well done, [root.GetName]. Our enemy's failure is now complete. Almost anyway, we'll deal with the cowardly friend later.\n\nNow our own agent will finish their job and make the arrangements. The Service will continue on, as it has.\n\nHere is your rewards for the completion of our contract. Enjoy these data schematics, they will allow you to use most of the technologies used by the Corps that are safe to deploy in your galaxy. In addition, you will be considered a permanent Ultra Membership, and will recieve discounts on all Ultra Services, as well as §Y2§! Phanon Coins yearly, in addition to the immediate payment of these resources and §Y10§! Phanon Coins.\n\nAny of the provided Phanon Assets are yours to keep."
+acot_pmc.1601.desc.c: "Greetings, [root.GetName]. We would like to inform you that the war with the Corps is over.\n\nNow our own agent will finish their job and make the arrangements. The Service will continue on, as it has.\n\nHere is your rewards for the completion of our contract. Enjoy these data schematics, they will allow you to use most of the technologies used by the Corps that are safe to deploy in your galaxy. In addition, you will recieve one decade free period of Ultra Membership, and will recieve discounts on all Ultra Services, as well as §Y2§! Phanon Coins per subscription period, in addition to the immediate payment of these resources and §Y10§! Phanon Coins.\n\nAny of the provided Phanon Assets are yours to keep."
+acot_pmc.1601.desc.d: "Greetings, [root.GetName]. We would like to inform you that the war with the Corps is over.\n\nWe apologize for the ruckus the previous supervisor may have caused. Service will now resume as usual."
+acot_pmc.1601.a: "Most techs? What's missing?"
+acot_pmc.1601.a.response: "Phanon-exclusive ships like the Star Series, and the Operatives. But if you wish to access those, just buy it off us, haha. I mean, with the amount of coins you'll be racking, shouldn't be that expensive anymore, yes?"
+acot_pmc.1601.b: "What's next?"
+acot_pmc.1601.b.response: "The service will continue as normal, using one of our own operatives. You will continue to own the Drop Point, unless someone else takes it from you that is. We will eventually consolidate and properly sends a new supervisor later, but that's going to take awhile, likely not in your lifetime. So don't think too much about it, it will happen when it will.\n\nBe advised, the tech service will now open, so anyone with Ultra Membership will be able to purhcase the techs. So you better be quick if you want to seize the advantages first."
+acot_pmc.1601.c: "It has been a pleasure."
+acot_pmc.1601.c.response: "Likewise, have fun with the new toys, [root.GetName]."
+acot_pmc.1601.d: "What happens now?"
+acot_pmc.1601.d.response: "The service will continue as normal, using one of our own operatives. If you wisk to take the Drop Point for yourself, that is your call. We will eventually consolidate and properly sends a new supervisor later, but that's going to take awhile, likely not in your lifetime. So don't think too much about it, it will happen when it will.\n\nIn addition, the tech service will now open, so anyone with Ultra Membership will be able to purhcase the techs."
+acot_pmc.1601.e: "Laters, then."
+acot_pmc.1601.e.response: "Good Bye."
+acot_pmc.1601.f: "What does this means for us?"
+acot_pmc.1601.f.response: "Nothing, really. The service will continue as normal, using one of our own operatives. If you wisk to take the Drop Point for yourself, that is your call. We will eventually consolidate and properly sends a new supervisor later, but that's going to take awhile, likely not in your lifetime. So don't think too much about it, it will happen when it will. You should just be glad that the war is over.\n\nBy the way, the tech service will now open, so anyone with Ultra Membership will be able to purhcase the techs."
+acot_pmc.1601.g: "Can't you just leave this damn galaxy?"
+acot_pmc.1601.g.response: "And miss all the fun and busines opportunities? Of course not!"
+acot_pmc.1601.h: "Very well."
+acot_pmc.1601.h.response: "Just think the entire ordeal as...a change in management, really."
+
+acot_pmc.1299.title: "Vault Control Lost!"
+acot_pmc.1299.desc: "The Phanon Corps have recaptured the Vault! All of our pops have been purged and our fleets on the Drop Point ejected out of the system!" 
+acot_pmc.1299.a: "Disastrous!"
+
+###############################################
+
+acot_pmc.17.title: "The Dimensional Mirror"
+acot_pmc.17.desc: "Although we have assumed direct control of most of the Phanon Assets, the Corps still retain control of the Dimensional Mirror, and their presences in this galaxy remains. So long as it remains, the Corps will have the ability to easily return and retaliate against our attacks. It must be realigned and disabled."
+acot_pmc.17.a: "We must take them out of the equation."
+
+acot_pmc.1700.title: "The Dimensional Mirror Disabled!"
+acot_pmc.1700.desc: "The Dimensional Mirror has been successfully disabled! The Corps's signal is rapidly fading. They won't be able to use it to come back to this galaxy directly now.\n\nWe must be cautious though, if they have the capabilities to build a Star Traveler, we can assume that the Mirror is not that only avenue to travel beyond the veils. It may not happen anytime soon, perhaps not in our lifetime, but we can be certain they will be back to reclaim their assets."
+acot_pmc.1700.a: "We must remain vigilant"
+acot_pmc.1700.a.tooltip: "This concludes the current phase of Phanon Corps Content, there will not be an actual Phanon Retaliation until further notice."
+
+acot_pmc.1701.desc: "§RTHIS IS NOT OVER! I WILL RETURN ONE DAY, WITH A MASSIVE ARMADA THAT WILL BURN YOUR PATHETIC GALAXY TO CINDERS§!\n\n§YThe signal is fading, it appears the Agent is no longer in this galaxy."
+acot_pmc.1701.a: "All Barks, No Bites."
+acot_pmc.1701.a.response: "§R...will...ber...this!§!"
+
+ACOT_PHANON_DISABLE_PORTAL: "Realign the Dimensional Mirror"
+ACOT_PHANON_DISABLE_PORTAL_DESC: "In order to prevent Phanon Corps from constantly coming back to harass us easily, their Dimensional Mirror must be realigned to disable it."
+
+######################### PHANON RETALIAITON
+
+acot_pmc.9101.title: "Phanon Vault Retaliation Imminent"
+acot_pmc.9101.desc: "Sensors are picking up activities from within the Vault. It looks like the Corps is mobilizing a force in an attempt to retake the Vault from within. The strike is likely to happen in a few months. Details regarding expected resistance will be provided.\n\\nWe can strike them now before they are ready to gain the advantage, or wait for the assault to happen so that we may benefit from defensive positions our side of the Vault may provide."
+acot_pmc.9101.a: "Strike them now before they're ready!"
+acot_pmc.9101.a.tooltip: "Attacking them right now will give us temporarily surprise advantage but we'll be moving out of our defensible location and may miss out on potential exploitable security defenses on our side."
+acot_pmc.9101.b: "Wait and prepare for the assault."
+acot_pmc.9101.b.tooltip: "Preparing our defenses will allow the Corps to form up in full force, but allows us to use the many defenses of the Vault on ourside to our advantages."
+
+acot_pmc.9914.name: "Phanon Corps destroy [FromFrom.GetName]!"
+acot_pmc.9914.desc: "We have failed to defend against the Phanon Corps's assault on [FromFrom.GetName]!. Using unknown means, the Corps destroyed the colony, no survivors reported."
+acot_pmc.9914.a: "We must bolster our defenses."
+
+##A FE awakens in response to OE's return (This can happen multiple times)
+acot_pmc.9952.name: "The Lethal Response"
+acot_pmc.9952.desc: "Unhappy with the sudden hostility of the Phanon Corps, The leaders of the §H[From.GetSpeciesName]§! declare an emergency offensive response and prepares for war."
+
+acot_pmc.9952.a: "Another joins the game."
+acot_pmc.9952.b: "They have no idea."
+
+##Awakening FE contacts everyone
+acot_pmc.9953.name: "Incoming Transmission from §H[contact_empire.GetName]§!"
+acot_pmc.9953.message: "The §H[contact_empire.GetName]§! has contacted every galactic nation, including ours in response to the return of the Stellarborne."
+acot_pmc.9953.desc.spirit: "So the Corps have shown their true colors, at last?\n\nThese faithless corpo scums must be expunged from the galaxy. [root.owner.species.GetNamePlural], join us as we cleanse these foreign intruders once and for all."
+acot_pmc.9953.desc.phile: "Ah, so they finally decided to make their evil moves? It is as we suspected. The Corps cannot be trusted any further can they be thrown, which is not very far, mind you.\n\nBut now that it has come to this, it is up to us once again to rid the galaxy of the evils that corrupt this place. Defend yourselves, [root.GetName], for this battle will not be an easy one."
+acot_pmc.9953.desc.phobe: "Of course, the stupid shady bastards turned mad. Why are we always correct about these type of things?\n\nIf you don't want to get caught in this mess, then you better stay out of our ways. Leave the serious matters to those who have the power to resist."
+acot_pmc.9953.desc.mat: "Damn...too soon. Too soon! We were hoping they'd take more time before we analyzed their weaknesses.\n\nBut that no longer matters, what we have will be enough. The Phanon Corps is a threat to the galaxy for their reckless uses of dangerous unproven weapons and technologies. They must be destroyed, and their assets confiscated."
+acot_pmc.9953.a: "What do you know of the Corps?"
+acot_pmc.9953.a.response.phile: "Very little, we're afraid. They do not use technology that we recognize, and they pretend to be running a PMC business, but anyone with a brain knows that's a farce. They have spies everywhere, always watching, always collecting data. But to what end, we do not know. But we always anticipate that one day, they will reveal their true natures. And now that they have, they must be stopped at all costs."
+acot_pmc.9953.a.response.phobe: "If you really need to know, they came to this galaxy as a foreign invader, stealing one of the systems and turn it into the accursed abomination of theirs. They told us that they would only observe and watch. Others may buy into that crap, but not us. Not the [contact_empire.GetName]. We always knew that one day they would no longer have a use for our galaxy. Why else would they keep such an impressive military presence if not to one day conquer the known galaxy?\n\nWe say take the fight to them, steal the portal of theirs and blow up whatever is on the other side of it to oblivion."
+acot_pmc.9953.a.response.spirit: "They are parasites! They claim to be nothing more than a corporation running legitimate business, but behind that facade lies a mad scheme to harvest our minds and souls. We [contact_empire.GetName] can feel it, the massive psionic energy that they accumulate every second from us, from this galaxy. It is time we put a stop to their mad ritual and destroy these apostates."
+acot_pmc.9953.a.response.mat: "That they have much more powerful techs and materials and ships? That much should be obvious to anyone. But somehow their designs are rather...simple? Like there's not a lot of complexity behind it, it's just like...well...whatever your empire uses to fly your ships these days. And how can they be so reckless with the amount of automatons in their armies? What even controls those bionic "dutymen" of theirs? Psionic Networks? Biochips? So many questions.\n\nPerhaps after our victory, these questions will finally be answered."
+
+acot_pmc.9953.b: "Can you really stop them?"
+acot_pmc.9953.b.response.phile: "Perhaps not alone. But we're sure that if the entire galaxy works together under our leadership, we can twart any oppositions.\n\n§YThey may speak truth about working together, but are they the one to lead?§!"
+acot_pmc.9953.b.response.phobe: "You should be more worried about yourself, plebs. We'll have you know that we do not plan to save you or anyone else, you're assets, meant to be used to exploit the weaknesses in the Corps. I suggest you do the same to others. Let the cannon fodders die so that you can make the preparations for the decisive blow."
+acot_pmc.9953.b.response.spirit: "If not with might, then with faith and psionic might shall we prevail against our foes. But faith requires more than our prayers and words, we require supporters. If you wish to survive this crisis, you'll do well to aid us."
+acot_pmc.9953.b.response.mat: "Maybe if we defeat them fast enough before they pull out more of their reinforcements. You should distract them while we prepare our forces. We have come this far, survived many onslaughts, defeated many foes. This one will not be any different.\n\n§YA slight change of tone near the end implies they are not as confident in their victory as they seem to portray.§!"
+
+acot_pmc.9953.end: "End Transmission"

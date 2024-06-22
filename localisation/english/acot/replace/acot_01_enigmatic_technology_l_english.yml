@@ -1,0 +1,251 @@
+﻿
+l_english:
+ 
+### WEAPONS CHECK OK #####
+ 
+tech_energy_weapon_enig: "Weapon Protocol Revisement: Energy Weapons"
+tech_energy_weapon_enig_desc: "Now that we're no longer pressed under immediate need to advance our weapons until we develop more advanced power source, we have some time to revise and explore elements missing in our energy weapon arsenals. In particular, the use of both rare crystals and exotic gases should be encouraged more."
+
+SMALL_ACOT_LASER_ENIG: "Small Focused Gamma Laser"
+MEDIUM_ACOT_LASER_ENIG: "Medium Focused GammaLaser"
+LARGE_ACOT_LASER_ENIG: "Large Focused Gamma Laser"
+ACOT_LASER_ENIG: "Focused Gamma Laser"
+ACOT_LASER_ENIG_DESC: "Focused Gamma Lasers fire a more intense and powerful beam compared to the normal, unfocused and untrained design. The change in color is probably an unintended side effect."
+tech_laser_enig: "Focused Gamma Laser"
+tech_laser_enig_desc: "Revisiting the energy weaponry reveals the slight improvement we can make to existing Gamma Lasers if we allocate some rare crystals. The concept remains similar, but the firepower increase should be noticable."
+ 
+SMALL_ACOT_PLASMA_ENIG: "Small Heavy Plasma Cannon"
+MEDIUM_ACOT_PLASMA_ENIG: "Medium Heavy Plasma Cannon"
+LARGE_ACOT_PLASMA_ENIG: "Large Heavy Plasma Cannon"
+ACOT_PLASMA_ENIG: "Heavy Plasma Cannon"
+ACOT_PLASMA_ENIG_DESC: "Good. Containment field stables despite prolonged use. This version does what the older ones did, but better."
+tech_plasma_enig: "Heavy Plasma Cannon"
+tech_plasma_enig_desc: "Plasma Cannon's containment field may fail when too much power are used, but can be stabalized a bit further if we optimize the allocations of exotic gases slightly."
+ 
+SMALL_ACOT_DISRUPTOR_ENIG: "Small Focused Disruptor"
+MEDIUM_ACOT_DISRUPTOR_ENIG: "Medium Focused Disruptor"
+LARGE_ACOT_DISRUPTOR_ENIG: "Large Focused Disruptor"
+ACOT_DISRUPTOR_ENIG: "Focused Disruptor"
+ACOT_DISRUPTOR_ENIG_DESC: "Mimicing some properties off the Arc Emitters enable us to create a stronger Phased Disruptor."
+tech_disruptor_enig: "Focused Disruptor"
+tech_disruptor_enig_desc: "Scientists argue that there's some connections between the ways disruptors work relative to the arc emitter technology developed later, and by taking some inspirations of the properties of the latter, it may be possible to create more powerful disruptors, if we're willing to part ways with some rare crystals."
+ 
+ACOT_ENERGY_CANNON_ENIG: "Energy Blaster Cannon"
+ACOT_ENERGY_CANNON_ENIG_DESC: "Blaster Cannons are bigger cousins of the laser cannons that are designed for longer range operations through charging mechanisms."
+tech_energy_cannon_enig: "Energy Blaster Cannon"
+tech_energy_cannon_enig_desc: "Following the weapon revisement protocol, new designs for an energy-based artillery platform is now in the drawing board. Using laser cannons as templates, and energy lances as references, we believe it is possible to create a weapon system that falls in between these two lines."
+
+ACOT_ENERGY_TORPEDO_ENIG: "Heavy Neutron Launcher"
+ACOT_ENERGY_TORPEDO_ENIG_DESC: "Highly corrosive, these torpedoes will make short work of enemy armor and hull, provided that their shields have failed."
+tech_energy_torpedo_enig: "Heavy Neutron Launcher"
+tech_energy_torpedo_enig_desc: "While current Neutron Launchers already make use of exotic gases to power"
+ 
+ACOT_POINT_DEFENSE_ENIG: "Aegis Point-Defense"
+ACOT_POINT_DEFENSE_ENIG_DESC: "Improved Point Defenses using Rare Crystals as catalysts."
+tech_point_defense_enig: "New Point-Defense Naming"
+tech_point_defense_enig_desc: "Rare Crystals, or as some folks love to nickname it Kyber Crystals for some odd reasons, can be used to slightly ramp up the power of most beam-based weapons, including point defenses. The key is to find a proper name. Sentinel, Barrier and Guardian have been used, so perhaps Defender? Probably too simple."
+ 
+tech_kinetic_weapon_enig: "Weapon Protocol Revisement: Kinetic Weapons"
+tech_kinetic_weapon_enig_desc: "Now that we're no longer pressed under immediate need to advance our weapons until we develop more advanced power source, we have some time to revise and explore elements missing in our kinetic weapon arsenals. Existing designs will benefit more from better utilization of volatile motes. The team also wish to fill up any missing templates in the arsenal as well."
+
+SMALL_ACOT_MASS_DRIVER_ENIG: "Small Shock Cannon"
+MEDIUM_ACOT_MASS_DRIVER_ENIG: "Medium Shock Cannon"
+LARGE_ACOT_MASS_DRIVER_ENIG: "Large Shock Cannon"
+ACOT_MASS_DRIVER_ENIG: "Shock Cannon"
+ACOT_MASS_DRIVER_ENIG_DESC: "Shock Cannon relies less on the ability to fire fast projectiles like Gauss Cannons, and more on the actual ability to generate powerful rounds that can hit the targets."
+tech_mass_driver_enig: "Shock Cannon"
+tech_mass_driver_enig_desc: "There is only so far Kinetic weapons can go before we reach the limits with our current capabilities. So instead, we're looking to improve the power behind the rounds that are being fired instead."
+ 
+ACOT_AUTOCANNON_ENIG: "Small Pulsefire Autocannon"
+MEDIUM_ACOT_AUTOCANNON_ENIG: "Medium Pulsefire Autocannon"
+LARGE_ACOT_AUTOCANNON_ENIG: "Large Pulsefire Autocannon"
+ACOT_AUTOCANNON_ENIG_DESC: "Pulsefire Autocannons fire improved alloy shells with volatile mote's hardening properties."
+tech_autocannons_enig: "Pulsefire Autocannon"
+tech_autocannons_enig_desc: "Volatile Motes, as ever, can be used to slightly improve kinetic weapon systems, of which autocannons belong to. While the increase in firepower may be marginal, every bit of differences still count."
+ 
+ACOT_MACROCANNON_ENIG: "Macrocannon"
+ACOT_MACROCANNON_ENIG_MEDIUM: "Macrocannon"
+ACOT_MACROCANNON_ENIG_DESC: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house rapid-firing autocannons with heavy hard-light projectiles."
+tech_macrocannon_enig: "Shaped Charge Autocannons"
+tech_macrocannon_enig_desc: "In compliance with the new warfare policy, attempts are made to create a more powerful autocannon design with specialized shaped charge explosive rounds to penetrate hull of larger ships. This new weapon system will fill in the currently missing kinetic-based anti-capital ship short range weapon platform." 
+
+ACOT_ARTILLERY_ENIG: "Volatile Kinetic Artillery"
+ACOT_ARTILLERY_ENIG_DESC: "Solid rounds filled to the brim with deadly volatile motes for maximum carnage."
+tech_kinetic_artillery_enig: "Volatile Kinetic Artillery"
+tech_kinetic_artillery_enig_desc: "If using volatile motes will result in stronger kinetic weapons then we must use it, as many battle strategists said that."
+ 
+ACOT_FLAK_CANNON_ENIG: "Heavy Flak Cannons"
+ACOT_FLAK_CANNON_ENIG_DESC: "More powerful and less exaggerating names than the older gen "Flak Artillery" for a very modest price increase."
+tech_flak_batteries_enig: "Heavy Flak Cannons"
+tech_flak_batteries_enig_desc: "Our scientists and battle analysts come to the conclusion that naming our current Flak point defenses as an artillery has many drastic unforeseen consequences as many gunners mistakenly use the weapons for an actual artillery purpose, making it less effective than it should be. So in preparation for the name change, they're also going to add some extra motes to increase firepower, mostly for marketting purposes."
+ 
+tech_explosive_weapon_enig: "Weapon Protocol Revisement: Explosive Weapons"
+tech_explosive_weapon_enig_desc: "Now that we're no longer pressed under immediate need to advance our weapons until we develop more advanced power source, we have some time to revise and explore elements missing in our explosive weapon arsenals. In addition to upgrading existing designs with more practical applications of volatile motes, the development team is keen to fill up all the missing explosive weapons for bigger ships, something that we should have done a long time ago."
+
+ACOT_MISSILE_ENIG: "Challenger Missiles"
+ACOT_MISSILE_ENIG_DESC: "Challenger Missiles are stronger than Marauder Missiles when it comes to raw firepower, but is not much better in other categories."
+tech_missile_enig: "Challenger Missiles"
+tech_missile_enig_desc: "Higher explosive yields can be made to existing Marauder Missiles by allocating extra volatile motes. We're still limited by lack of improvement in guidance systems or missile durability, however."
+ 
+ACOT_TORPEDO_ENIG: "Eradicator Torpedoes"
+ACOT_TORPEDO_ENIG_DESC: "While boasting similar performances to Devastators in most categories, the Eradicator-class Torpedoes has a slight edge in terms of raw firepower."
+tech_torpedo_enig: "Eradicator Torpedoes"
+tech_torpedo_enig_desc: "Further adjustments and optimization of volatile motes should allow us to create an improved version of Devastator Torpedoes without making it too unstable."
+
+ACOT_SWARMER_MISSILES_ENIG: "Typhoon Missiles"
+ACOT_SWARMER_MISSILES_ENIG_DESC: "Typhoon Swarmers Missiles applies additional volatile motes for better explosive yield."
+tech_swarmer_missile_enig: "Typhoon Missiles"
+tech_swarmer_missile_enig_desc: "Just like the upgraded Challenger Missiles, Typhoon Missiles are the enhanced version of Whirlwind Swarmer Missiles that have better firepower thanks to extra volatile motes."
+ 
+ACOT_MISSILE_BARRAGE_ENIG: "MMLS"
+ACOT_MISSILE_BARRAGE_ENIG_DESC: "Multiple Missile Launcher Systems or MMLS fires a cluster of missiles, not too dissimiar to that of swarmer missiles, but over longer distance and with greater explosive yields. The weapon suffers from slightly lower retargeting capabilities, however."
+tech_barrage_missile_enig: "Experimental Missile Barrage Systems"
+tech_barrage_missile_enig_desc: "The advancements in propulsion, explosives, and hard-light manipulation allow us to explore new ways to improve our explosive arsenals. One of the most demanding new concept is a new weapon system that can be installed on large ships. After multiple tests, we have come up with a new design, The Delta Barrage System.\n\nThough the increased in the amount of payloads demand extra dedicated adjustments, sacrificing the warhead's tracking capabilities for massive increase in firepower, range, and payload yields."
+ 
+ACOT_MISSILE_XL_ENIG: "HSPM Launcher"
+ACOT_MISSILE_XL_ENIG_DESC: "HSPM, or High-Speed Precision Missiles are powerful spinal-based balllistic ordinances that boasts high-speed, deadly accurate missiles with relatively decent tracking capabilities compared to simialr weapons of its size."
+tech_xl_missile_enig: "High-Speed Precision Ballistics"
+tech_xl_missile_enig_desc: "Our fleet commanders and crews are always puzzled by the lack of powerful spinal-fixed explosive weapons. Following the success of the previous missile artillery systems, a new type of spinal weapon system for explosives is now in the works. The key challenge lies in the distance the missile has to travel before they can do their magic, so the team is looking to develop a type of missile that relies on speed rather than durability, relatively."
+ 
+ACOT_MISSILE_NUKE_ENIG: "Giga-Warhead Launcher"
+ACOT_MISSILE_NUKE_ENIG_DESC: "A Massive torpedo launcher designed to have the largest payload to date to take out captial ships. Although extremely slow by projectile standards, they are resistant to most point defense weapons and should make it to their targets long before they can be intercepted."
+tech_missile_nuke_enig: "Titanic Warheads"
+tech_missile_nuke_enig_desc: "In compliance with weapon design revisions, a need for titanic-sized explosive ordiance is now in demand. We believe that an upscaled version of a torpedo should be a good starting point. Rather than relying on speed or evasion, the new massive warhead will simply utilize its massive size and durability to reach its prey."
+
+ACOT_PARTICLE_LANCE_ENIG: "Reforged Tachyon Lance"
+ACOT_PARTICLE_LANCE_ENIG_DESC: "Reforged and redefined using advanced techniques through rare crystals, this new Tachyon Lance offers better firepower than the previous generation."
+tech_energy_lance_enig: "Tachyon Reforged"
+tech_energy_lance_enig_desc: "The existing Tachyon Lance is showing its ages. Some of the scientists believe they can improve the design by allocating extra rare crystals. Though the increase in performance may be marginal, an improvement is an improvement. The ship crews need to simply deal with it and consume the product, then gets excited for new products later."
+ 
+ACOT_ARC_EMITTER_ENIG: "Overcharged Emitter"
+ACOT_ARC_EMITTER_ENIG_DESC: "This spinal weapon utilizes enigmatic energy to create a very deadly emitter weapon that can damage an enemy ship's internal systems. Unfortunately, due to our current limitations, it has a lower range than the Focused Arc Emitter."
+tech_arc_emitter_enig: "Overcharged Emitter"
+tech_arc_emitter_enig_desc: "Using the same enigmatic energies to supercharge our current Focused Arc Emitter is possible, but until we truly understand how to wield Dark Energy, the prototype Enigmatic Emitter will have slightly lower effective range than the Focused Arc Emitter."
+ 
+ACOT_MASS_ACCELERATOR_ENIG: "Heavy Mass Accelerator"
+ACOT_MASS_ACCELERATOR_ENIG_DESC: "Stronger than the old Giga Cannon, MACs can punch through all kinds of shields with brutal efficiencies. Heavy is added as prefix to make it sounds a bit more impressive."
+tech_mass_accelerator_enig: "Heavy Mass Accelerator"
+tech_mass_accelerator_enig_desc: "As we're running out of ideas for what to do with the next-gen Giga Cannon (which is not related to not knowing what to name it afterwards). We decided to use the simple approach of allocating slightly more volatile motes and calibrate a few pieces here and there, and rebrand the weapon as a Mass Accelerator."
+ 
+ACOT_PERDITION_BEAM_ENIG: "Advanced Perdition Beam"
+ACOT_PERDITION_BEAM_ENIG_DESC: "Altthough the upgrades are not as substantial as initially believed, the updated version of the Perdition Beam still packs a respectable punch."
+tech_perdition_beam_enig: "Advanced Perdition Beam"
+tech_perdition_beam_enig_desc: "With our new understandings, augmentations of the old Perdition Ion Beams are now pending. We await only the approval. Success in this field should open ways to new types of titanic weapons in the future."
+ 
+ACOT_TITAN_EMITTER_ENIG: "Titan Stabilized Emitter"
+ACOT_TITAN_EMITTER_ENIG_DESC: "Powerful emitters with far greater weapon stability and damage potential."
+tech_titan_emitter_enig: "Titan Stabilized Emitter"
+tech_titan_emitter_enig_desc: "Rooting out the Paradox Circle and dismantling their operations open up new possibilities of developing a larger and more stabilized Arc Emitter suitable for bigger ships. It is a wonder why it only took us just now to realize this could be done."
+ 
+ACOT_TITAN_ACCELERATOR_ENIG: "Titan Accelerator Cannon"
+ACOT_TITAN_ACCELERATOR_ENIG_DESC: "A Titanic-scaled Mass Accelerator capable of hitting targets across extreme distances."
+tech_titan_accelerator_enig: "Titan Accelerator "
+tech_titan_accelerator_enig_desc: "After transforming the lazy fools respoinsible for halting our kinetic weapons development into reusable fuels and assign better candidates. The new team has finally develop kinetic accelerators on a titanic-scale suitable for our biggest ships."
+
+tech_hangar_weapon_enig: "Weapon Protocol Revisement: Strikecrafts"
+tech_hangar_weapon_enig_desc: "Now that we're no longer pressed under immediate need to advance our weapons until we develop more advanced power source, we have some time to revise and explore elements missing in our strikecraft designs. In particular, the use of VI interface should supercede the traditional manual pilotting doctrine soon. And branching our strikecraft designs will go a long in providing more types of missions that carriers can perform."
+
+ACOT_SCOUT_HANGAR_ENIG: "Interceptors"
+ACOT_SCOUT_HANGAR_ENIG_DESC: "Interceptors are dedicated dogfighters designed for strikecraft superiority. Unlike fighters, interceptors target both enemy strike crafts and missiles with equal efficiency. Their point-defense based weapons are wholly ineffective against bigger ships, however. In addition, they sacrifice some durability for increased speed, range and evasion."
+ACOT_FIGHTERS_HANGAR_ENIG: "Fighters"
+ACOT_FIGHTERS_HANGAR_ENIG_DESC: "Fighters fulfill the screening and picket roles previously performed by older strikecrafts. Though they lose some punches against bigger ships, these new fighters are much more suitable at taking out smaller ships and dogfighting."
+ACOT_BOMBERS_HANGAR_ENIG: "Bombers"
+ACOT_BOMBERS_HANGAR_ENIG_DESC: "Contrary to the older generations of hybrid spacecrafts, these dedicated bombers are slightly slower, more durable and delivers much deadlier payload at close range that requires a bit more time to rearm."
+ACOT_GUNSHIP_HANGAR_ENIG: "Gunship"
+ACOT_GUNSHIP_HANGAR_ENIG_DESC: "Gunships are specialized strikecrafts that excel at supporting larger ships with long-range fire support. They are deployed in a few numbers and take significantly longer time to reinforce however."
+tech_strike_craft_scout_enig: "Interceptor Implementation"
+tech_strike_craft_scout_enig_desc: "Although the current fighters are well-suited for both screening and ship harassment. The records we studied shows a good case to be made for dedicated dog-fighters that can not only ace against enemy strike crafts, but also function as point-defenses, targeting enemy missiles and protect their motherships."
+tech_strike_craft_fighter_enig: "Strike Craft Revisions: Fighters"
+tech_strike_craft_fighter_enig_desc: "We begin to realize the errors of trying to design strikecrafts that perform too many roles at the same time and are now attempting to fix it. By combining the elements of the now highly obsolete scout designs and our most current up-to-date designs, we will create a type of strikecraft that is aimed at screening out smaller threats for their mothership, acting as a potent point defense units, while retaining a degree of firepower to engage bigger ships as well."
+tech_strike_craft_bomber_enig: "Strike Craft Revisions: Bombers"
+tech_strike_craft_bomber_enig_desc: "Our strategists believe it is a mistake to have forsaken the developments of fighters, especially considering the Scouts can't...actually scout which makes their existence pointless. We can easily correct these mistakes, and finally begin developing an actual formidable set of strike crafts that perform various roles. As for the existing designs, we believe they are best retrofitted into bombers, a type of strikecraft that excels in taking out bigger ships using heavy payloads."
+tech_strike_craft_gunship_enig: "Strike Craft Addition: Gunships"
+tech_strike_craft_gunship_enig_desc: "While the roles of strike crafts have been well defined by bombers, interceptors and fighters, there are certain problems. Both these types of strike crafts take a significant amount of time to reach striking distances. In many battles, the carriers are long destroyed before these strike crafts even get to make their first run. Plans are being made to create a specialized long-range strike crafts instead."
+
+#############################################################
+ 
+SMALL_ACOT_ARMOR_ENIG: "Small Ultra Neutronium Armor"
+MEDIUM_ACOT_ARMOR_ENIG: "Medium Ultra Neutronium Armor"
+LARGE_ACOT_ARMOR_ENIG: "Large Ultra Neutronium Armor"
+ACOT_ARMOR_ENIG: "Ultra Neutronium Armor"
+ACOT_ARMOR_ENIG_DESC: "Turns out you can stack a smaller layer of Neutronium Armor without increasing much of its cost or shape if you do some tricks with the motes. But we need to keep them on a lower spectrum, as volatile as they are."
+tech_armor_enig: "Hard-Light Constructs"
+tech_armor_enig_desc: "Although we have reasons to believe that Neutronium is no longer the most suitable materials to be used as armor, we are yet to find a replacement that performs well. In the meantime, updating and refining the blueprints and adding some volatile motes may increase its durability, as peculiar as that may sound."
+ 
+SMALL_ACOT_ENIGMATIC_SHIELD_ENIG: "Small Supercharged Hyper Shields"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_ENIG: "Medium Supercharged Hyper Shields"
+LARGE_ACOT_ENIGMATIC_SHIELD_ENIG: "Large Supercharged Hyper Shields"
+ACOT_ENIGMATIC_SHIELD: "Supercharged Hyper Shields"
+ACOT_ENIGMATIC_SHIELD_DESC: "This is as far as we can go with the traditional shield designs. Any further attempts to allocate more gases will likely result into complete overload and system failure. Still, it's better than the early designs."
+tech_dark_matter_deflector_enig: "Supercharged Hyper Shields"
+tech_dark_matter_deflector_enig_desc: "After multiple failed attempts, our scientists must sadly conclude that we cannot yet create a shield that can both surpass Hypercharged Shields in both strengths and regeneration without risking system overload. But a small amount of exotic gases may be used to sweeten the deal, if only to a degree."
+
+#############################################################
+ 
+ENIG_SENSOR_SHIP: "Neo-Tachyon Sensors"
+ENIG_SENSOR_SHIP_DESC: "Neo-Tachyon fixes some errors and flaws in the first generation of Tachyon Sensors, namely it looking like it belonged to a lower tier technology due to it's awful coloration. Aside from that, the use of extra resources also increases its performance lightly."
+tech_sensors_enig: "Neo-Tachyon Sensors"
+tech_sensors_enig_desc: "We have stumbled upon a great crisis when reviewing the performance and design of the first-generation Tachyon Sensors. Tachyon, as is generally established by galactic communities and records, should be blue in color, akin to those of Tachyon Lance. But our first design somehow is yellow-ish, which is typically a mark of lower quality equipment. This error has to be corrected as soon as possible. But while doing so, some adjustments can also be made to slightly amplify its sensoring and targeting capabilities if we apply the right kind of strategic resources too."
+TECH_UNLOCK_ENIG_SENSOR_TITLE: "§HUnlocks Component:§! Neo-Tachyon Sensors"
+TECH_UNLOCK_ENIG_SENSOR_DESC: "§HDelphic Sensors§!\n$ENIG_SENSOR_SHIP_DESC$"
+ 
+###############################
+ 
+SHIP_THRUSTER_ENIG: "Impulse X Thrusters"
+SHIP_THRUSTER_ENIG_DESC: "Adjustments to Impulse Thruster that makes use of the exotic gases to generate a small extra burst of speed to the spacecraft, although the allocation has to be minimal for safety reasons."
+ 
+DESTROYER_SHIP_THRUSTER_ENIG: "Impulse X Thrusters"
+DESTROYER_SHIP_THRUSTER_ENIG_DESC: "Adjustments to Impulse Thruster that makes use of the exotic gases to generate a small extra burst of speed to the spacecraft, although the allocation has to be minimal for safety reasons."
+ 
+CRUISER_SHIP_THRUSTER_ENIG: "Impulse X Thrusters"
+CRUISER_SHIP_THRUSTER_ENIG_DESC: "Adjustments to Impulse Thruster that makes use of the exotic gases to generate a small extra burst of speed to the spacecraft, although the allocation has to be minimal for safety reasons."
+ 
+BATTLESHIP_SHIP_THRUSTER_ENIG: "Impulse X Thrusters"
+BATTLESHIP_SHIP_THRUSTER_ENIG_DESC: "Adjustments to Impulse Thruster that makes use of the exotic gases to generate a small extra burst of speed to the spacecraft, although the allocation has to be minimal for safety reasons."
+ 
+TITAN_SHIP_THRUSTER_ENIG: "Impulse X Thrusters"
+TITAN_SHIP_THRUSTER_ENIG_DESC: "Adjustments to Impulse Thruster that makes use of the exotic gases to generate a small extra burst of speed to the spacecraft, although the allocation has to be minimal for safety reasons."
+ 
+COLOSSUS_SHIP_THRUSTER_ENIG: "Impulse X Thrusters"
+COLOSSUS_SHIP_THRUSTER_ENIG_DESC: "Adjustments to Impulse Thruster that makes use of the exotic gases to generate a small extra burst of speed to the spacecraft, although the allocation has to be minimal for safety reasons."
+tech_thrusters_enig: "Impulse X Thrusters"
+tech_thrusters_enig_desc: "We can't yet develop any new propulsion systems that can directly challenges Impulse Thrusters. But perhaps applying the same volatile motes previously used to amplify our kinetic and explosive propulsion systems may make a little difference. While safety protocols dictate that we keep the allocations to a minimum, the results should see a slight increase in performance to the spacecraft's speed and evasion."
+ 
+TECH_UNLOCK_ENIG_THRUSTER_TITLE: "§HUnlocks Component:§! Impulse X Thrusters"
+TECH_UNLOCK_ENIG_THRUSTER_DESC: "§HImpulse X Thrusters§!\n$SHIP_THRUSTER_ENIG_DESC$"
+ 
+
+###############################
+
+CORVETTE_DARK_MATTER_REACTOR_ENIG: "Enhanced Zero Point Reactor"
+CORVETTE_DARK_MATTER_REACTOR_ENIG_DESC: "To keep up with the increasing demands of power consumptions of new components, a proposal to use rare crystals as catalyst to help amplify and enhance ZP Reactor has been made. Although the improvement is not much, it remains on the cheap side and can be easily produced."
+ 
+DESTROYER_DARK_MATTER_REACTOR_ENIG: "Enhanced Zero Point Reactor"
+DESTROYER_DARK_MATTER_REACTOR_ENIG_DESC: "To keep up with the increasing demands of power consumptions of new components, a proposal to use rare crystals as catalyst to help amplify and enhance ZP Reactor has been made. Although the improvement is not much, it remains on the cheap side and can be easily produced."
+ 
+CRUISER_DARK_MATTER_REACTOR_ENIG: "Enhanced Zero Point Reactor"
+CRUISER_DARK_MATTER_REACTOR_ENIG_DESC: "To keep up with the increasing demands of power consumptions of new components, a proposal to use rare crystals as catalyst to help amplify and enhance ZP Reactor has been made. Although the improvement is not much, it remains on the cheap side and can be easily produced."
+ 
+BATTLESHIP_DARK_MATTER_REACTOR_ENIG: "Enhanced Zero Point Reactor"
+BATTLESHIP_DARK_MATTER_REACTOR_ENIG_DESC: "To keep up with the increasing demands of power consumptions of new components, a proposal to use rare crystals as catalyst to help amplify and enhance ZP Reactor has been made. Although the improvement is not much, it remains on the cheap side and can be easily produced."
+ 
+TITAN_DARK_MATTER_REACTOR_ENIG: "Enhanced Zero Point Reactor"
+TITAN_DARK_MATTER_REACTOR_ENIG_DESC: "To keep up with the increasing demands of power consumptions of new components, a proposal to use rare crystals as catalyst to help amplify and enhance ZP Reactor has been made. Although the improvement is not much, it remains on the cheap side and can be easily produced."
+ 
+COLOSSUS_DARK_MATTER_REACTOR_ENIG: "Enhanced Zero Point Reactor"
+COLOSSUS_DARK_MATTER_REACTOR_ENIG_DESC: "To keep up with the increasing demands of power consumptions of new components, a proposal to use rare crystals as catalyst to help amplify and enhance ZP Reactor has been made. Although the improvement is not much, it remains on the cheap side and can be easily produced."
+ 
+PLATFORM_DARK_MATTER_REACTOR_ENIG: "Enhanced Zero Point Reactor"
+PLATFORM_DARK_MATTER_REACTOR_ENIG_DESC: "To keep up with the increasing demands of power consumptions of new components, a proposal to use rare crystals as catalyst to help amplify and enhance ZP Reactor has been made. Although the improvement is not much, it remains on the cheap side and can be easily produced."
+ 
+ION_CANNON_DARK_MATTER_REACTOR_ENIG: "Enhanced Zero Point Reactor"
+ION_CANNON_DARK_MATTER_REACTOR_ENIG_DESC: "To keep up with the increasing demands of power consumptions of new components, a proposal to use rare crystals as catalyst to help amplify and enhance ZP Reactor has been made. Although the improvement is not much, it remains on the cheap side and can be easily produced."
+ 
+STARBASE_DARK_MATTER_REACTOR_ENIG: "Enhanced Zero Point Reactor"
+STARBASE_DARK_MATTER_REACTOR_ENIG_DESC: "To keep up with the increasing demands of power consumptions of new components, a proposal to use rare crystals as catalyst to help amplify and enhance ZP Reactor has been made. Although the improvement is not much, it remains on the cheap side and can be easily produced."
+ 
+tech_dark_matter_power_core_enig: "Enhanced Zero Point Reactor"
+tech_dark_matter_power_core_enig_desc: "Our earlier presumptions about the vast power that could be generated by Zero Point Energy has unfortunately turns out to be exaggerated and off the mark. While the ZPR could, in theory, generate limitless energy, it is still limited by the containment field with the reactor, meaining that it is not feasible to field heavy components without creating oversized reactors. Though we have yet to find a replacement, it is still possible to improve on the existing design by relying on some special properties of rare crystals."
+
+TECH_UNLOCK_ENIG_REACTOR_TITLE: "§HUnlocks Component:§! Enhanced Zero Point Reactor"
+TECH_UNLOCK_ENIG_REACTOR_DESC: "§HEnhanced Zero Point Reactors§!\n$CORVETTE_DARK_MATTER_REACTOR_ENIG_DESC$"

@@ -1,0 +1,210 @@
+﻿l_english:
+ 
+col_acot_fractured_colony: "§EFractured Colony§!"
+col_acot_fractured_colony_desc: "A harsh and dangerous colony where only the most hardcore dark matter and energy enthusiasts dare tread."
+ 
+col_acot_enigmatic_colony: "§EEnigmatic Colony§!"
+col_acot_enigmatic_colony_desc: "The calm storm and the eerie echoes of the past beckons those who dares to brave the new age."
+
+col_acot_enigmopolis: "§BVoid Sphere Domain§!"
+col_acot_enigmopolis_desc: "Awe-inspiring domains of those who dare challenges against the void of space. Constant imperial rhythms and anthems can be heard to remind the people of the long journey they have embarked."
+ 
+col_acot_phanon_vault: "§RPhanon Vault§!"
+col_acot_phanon_vault_desc: "§RMysterious Station whose purpose is entirely unknown to others but the Phanon Corps themselves.§!"
+ 
+col_acot_enigma_capital: "§EEnigmatic Capital World§!"
+col_acot_enigma_capital_desc: "The capital world of this empire has fully integrated the power of its enigmatic technologies into all aspects of the world's functions, vastly improving all capabilities upon its soil."
+
+col_acot_brw: "§EEnigmatic Extraction World§!"
+col_acot_brw_desc: "This world is directing enigmatic power to enhance the output potential of the fundamental resources of old."
+
+col_acot_indus_refin: "§EEnigmatic Industrial World§!"
+col_acot_indus_refin_desc: "This world is directing enigmatic power into improving its ability to acquire advanced and basic strategic resources."
+
+col_acot_knowledge_is_power: "§EEnigmatic Research World§!"
+col_acot_knowledge_is_power_desc: "This world is directing enigmatic power into increasing its capabilities of generating science."
+
+#### WORLD ######
+ 
+sc_acot_void_star: "Void Star"
+
+acot_cracked_fractured: "Void Fractured Planet"
+acot_cracked_fractured_adj: "Void Fractured Planet"
+acot_cracked_fractured_desc: "What was once a beautiful world has been fractured by an overwhelming level of dark energy, causing an unthinkable world to exist."
+
+pc_acot_void_star: "Void Star"
+pc_acot_void_star_adj: "Void Star"
+pc_acot_void_star_desc: "A Star that has been enfused with the chaotic energies dark energies of the greatest weapons ever deployed in the galaxy."
+
+pc_acot_void_hole: "§BVoid Hollow§!"
+pc_acot_void_hole_adj: "§BVoid Hollow§!"
+pc_acot_void_hole_desc: "Whatever this is, what ungodly horror we made with our power is beyond any doubt bone chilling. Fallen Empires look away in fear, plebs wet themselves at the sight of this once beautiful thing turned into this monsterous sight. For what we have created is truly some terrible. terrible shit."
+
+pc_dark_fractured: "Fractured World"
+pc_dark_fractured_adj: "Fractured World"
+pc_dark_fractured_desc: "Fractured Worlds are covered by violent storms and filled with many dark anomalies. Though there are spots that are now habitable, the planet remains a desolate land, barely capable of supporting any life."
+ 
+pc_dark_fractured_ae: " Ultrafractured World"
+pc_dark_fractured_ae_adj: "Ultrafractured World"
+pc_dark_fractured_ae_desc: "Fractured Worlds are covered by violent storms and filled with many dark anomalies. Though there are spots that are now habitable, the planet remains a desolate land, barely capable of supporting any life."
+ 
+pc_dark_fractured_unstable: "Unstable Fractured World"
+pc_dark_fractured_unstable_desc: "Fractured Worlds are covered by violent storms and filled with many dark anomalies. The thick storm clouds are too dangerous to the point that ships can't tell which way is up, preventing any landing attempts."
+ 
+pc_dark_fractured_ae_unstable: " Unstable Ultrafractured World"
+pc_dark_fractured_ae_unstable_desc: "Fractured Worlds are covered by violent storms and filled with many dark anomalies. The thick storm clouds are too dangerous to the point that ships can't tell which way is up, preventing any landing attempts."
+ 
+
+pc_acot_enigmatic: "Enigmatic World"
+pc_acot_enigmatic_adj: "Enigmatic World"
+pc_acot_enigmatic_desc: "Enigmatic Worlds are covered by deadly, but stable storms that while harzardous, also protects the planet from various bombardment. Though much of the planets are now safe to navaigate, the planet remains deadly to most lifeforms without protection."
+ 
+pc_acot_enigmopolis: "Void Sphere"
+pc_acot_enigmopolis_adj: "Void Sphere"
+pc_acot_enigmopolis_desc: "Powerful ecumenopolis powered by ancient precursor core and surrounded by archways and self-barriers."
+ 
+trait_pc_dark_fractured_preference: "Darkspawn"
+trait_pc_dark_fractured_preference_desc: "They love being in black holes."
+mod_pc_dark_fractured_habitability: "Fractured World Survivability"
+ 
+trait_pc_dark_fractured_ae_preference: "Hellspawn"
+trait_pc_dark_fractured_ae_preference_desc: "Perhaps they are the Black Hole?"
+mod_pc_dark_fractured_ae_habitability: "Utrafractured World Survivability"
+ 
+trait_pc_acot_enigmopolis_preference: "Voidspawn"
+trait_pc_acot_enigmopolis_preference_desc: "They birth the black holes."
+mod_pc_acot_enigmopolis_habitability: "Utrafractured World Survivability"
+
+trait_pc_acot_enigmatic_preference: "Hellspawn"
+trait_pc_acot_enigmatic_preference_desc: "Perhaps they are the Black Hole?"
+mod_pc_acot_enigmatic_habitability: "Enigmatic World Survivability"
+
+#### DUSTRRYCIT ######
+ 
+district_acot_fractured_shelter: "Delta Shelter"
+district_acot_fractured_shelter_plural: "Delta Shelters"
+district_acot_fractured_shelter_desc: "Delta Shelters provide protection and housing for brave souls working under the harsh environments of the world."
+ 
+tech_acot_fractured_shelter: "Reinforced Shelter"
+tech_acot_fractured_shelter_desc: "It is not uncommon for dark energy storms to erupt on the violent skies of a fractured world. Unstable terrains and hostile elements require proper shelters to be created to defend against these hazards. "
+ 
+district_acot_fractured_science_dome: "Delta Observatory"
+district_acot_fractured_science_dome_plural: "Delta Observatories"
+district_acot_fractured_science_dome_desc: "Delta Observatories provide necessary tools and equipment for researchers to safely conduct observations and experiments on the ravaged world."
+ 
+tech_acot_fractured_science_dome: "Observing the Unknown"
+tech_acot_fractured_science_dome_desc: "There are many wonders and anomalies that challenge all previously known theories and laws of physics on fractured worlds. But if we are to send our researchers down there, they must be well protected and supported from the dangerous environments."
+ 
+district_acot_fractured_dm_trapper: "Delta Spire"
+district_acot_fractured_dm_trapper_plural: "Delta Spires"
+district_acot_fractured_dm_trapper_desc: "Delta Spires provide artificers and alchemists with workshops necessary to create dark matter and dark energy."
+ 
+tech_acot_fractured_trapper: "Enigmatic Spires"
+tech_acot_fractured_trapper_desc: "Although Dark Energies and Dark Matters surround the fractured worlds in abundance, most are too unstable and dispersed to be harvested. Designs for Enigmatic Spires are being drawn to trap and convert these unnaturally-born phenomenon into limitless supplies."
+ 
+district_acot_fractured_dm_fort: "Delta Outpost"
+district_acot_fractured_dm_fort_plural: "Delta Outposts"
+district_acot_fractured_dm_fort_desc: "Delta Outposts are security checkpoints that can detect intruders and deploy loud edgy music themes to scare them away."
+ 
+tech_acot_fractured_fort: "Void Castrum"
+tech_acot_fractured_fort_desc: "Fractured Worlds possess many dangerous elements that seek to destroy any colonization attempts. Many of these elements will find weaknesses and gaps in conventional forts, and thus specialized fortification districts will be required to deter these hostile visitors."
+ 
+tech_acot_fractured_size_upgrade_1: "Fractal Continuum"
+tech_acot_fractured_size_upgrade_1_desc: "The unforgiving landscapes of fractured worlds make it difficult for populations to adapt, causing needless adjustments that costs us extra district space. We must learn to adapt to it."
+tech_acot_fractured_size_upgrade_1_tooltip: "Upgrades the Districts of both Fractured and Ultrafracutred Worlds to consume one less district slot."
+ 
+tech_acot_fractured_size_upgrade_2: "Master Control Terminal"
+tech_acot_fractured_size_upgrade_2_desc: "Rather than relying technicians and engineers to constantly perform checks on the structural integrity of the districts, MCT can be installed in place that will read and repair any damaged spots by itself. This will free us the need to allocate extra space for on-site engineering teams and reduce district space needed."
+tech_acot_fractured_size_upgrade_2_tooltip: "Upgrades the Districts of both Fractured and Ultrafracutred Worlds to further consume one less district slot. Effectively making them cost only one slot finally."
+ 
+#### AOULPA DUSTRRYCIT ######
+ 
+district_acot_fractured_ae_shelter: "Alpha Shelter"
+district_acot_fractured_ae_shelter_plural: "Alpha Shelters"
+district_acot_fractured_ae_shelter_desc: "Alpha Shelter provides protection and housing for brave souls working under the harsh environments of the world."
+ 
+district_acot_fractured_ae_science_dome: "Alpha Observatory"
+district_acot_fractured_ae_science_dome_plural: "Alpha Observatories"
+district_acot_fractured_ae_science_dome_desc: "Alpha Observatories provide necessary tools and equipment for researchers to safely conduct observations and experiments on the ravaged world."
+ 
+district_acot_fractured_ae_trapper: "Alpha Spire"
+district_acot_fractured_ae_trapper_plural: "Alpha Spires"
+district_acot_fractured_ae_trapper_desc: "Alpha Spires provide artificers and alchemists with workshops necessary to create dark matter and dark energy."
+ 
+district_acot_fractured_ae_fort: "Alpha Outpost"
+district_acot_fractured_ae_fort_plural: "Alpha Outposts"
+district_acot_fractured_ae_fort_desc: "Alpha Outposts are security checkpoints that can detect intruders and deploy loud edgy music themes to scare them away."
+
+#### CUPOLIS DUSTRRYCIT ######
+ 
+district_acot_enigmapolis_city: "Void Nexus"
+district_acot_enigmapolis_city_plural: "Void Nexi"
+district_acot_enigmapolis_city_desc: "Void Nexi are the heart of the Void Sphere's society. All system governing offices and massive supercities are located here."
+ 
+tech_acot_enigmapolis_science: "Subverse Simulation"
+tech_acot_enigmapolis_science_desc: "Given the level of technology and dimensional mastery that we have, coupled with the advanced equipment within a Void Tribunal District, we can use these powers to simulate dimensions or even galaxies to test and defy all creation before applying it to real space."
+tech_acot_enigmapolis_science_tooltip: "Upgrades Void Tribunal to switch from providing traditional jobs to a unique one with superior output."
+
+district_acot_enigmapolis_science: "Void Tribunal"
+district_acot_enigmapolis_science_plural: "Void Tribunals"
+district_acot_enigmapolis_science_desc: "Void Tribunals are places of knowledge and progression. From here, scientists, researchers and philosophers have all they ever need in life, and beyond to master the secrets of reality."
+ 
+tech_acot_enigmapolis_forge: "Void Traversal"
+tech_acot_enigmapolis_forge_desc: "We have the proper anchor and technology to allow direct breach into other dimensional spaces, where it'll be much more efficient to harvest Dark Energy and Dark Matter than traditional synthetic means."
+tech_acot_enigmapolis_forge_tooltip: "Upgrades Void Alphaspace to switch from providing traditional jobs to a unique one with superior output."
+
+district_acot_enigmapolis_forge: "Void Alphascape"
+district_acot_enigmapolis_forge_plural: "Void Alphascapes"
+district_acot_enigmapolis_forge_desc: "Void Alphascapes allows Void Travellers to safety cross into sub-dimensional spaces and syphon the resources there."
+
+#####################
+
+tech_acot_enigmapolis_silo: "Dimension Harvest"
+tech_acot_enigmapolis_silo_desc: "Why rely on natural or unnatural means to gather resources, when we can use supernatural means?"
+tech_acot_enigmapolis_silo_tooltip: "Void Forges provide powerful economic boost, but will requires further expansion to acquire specific resources, which can be done via decisions."
+
+district_acot_enigmapolis_silo: "Void Forge"
+district_acot_enigmapolis_silo_plural: "Void Forge"
+district_acot_enigmapolis_silo_desc: "Void Forges are massive arrays of hard-light factories that can materialize various resources into existence through both traditional synthesis and dimensional means."
+ 
+acot_modifier_voidsphere_silo_alloys: "Alloy Dimension"
+acot_modifier_voidsphere_silo_alloys_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_alloys$§! or their gestalt counterparts as well as generation alloys on their own."
+decision_acot_voidsphere_silo_alloys: "Alloy Dimension Forge"
+decision_acot_voidsphere_silo_alloys_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_alloys$§! or their gestalt counterparts as well as generation alloys on their own."
+
+acot_modifier_voidsphere_silo_minerals: "Minerals Dimension"
+acot_modifier_voidsphere_silo_minerals_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_minerals$§! or their gestalt counterparts as well as generation minerals on their own."
+decision_acot_voidsphere_silo_minerals: "Minerals Dimension Forge"
+decision_acot_voidsphere_silo_minerals_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_minerals$§! or their gestalt counterparts as well as generation minerals on their own."
+
+acot_modifier_voidsphere_silo_energy: "Energy Dimension"
+acot_modifier_voidsphere_silo_energy_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_energy$§! or their gestalt counterparts as well as generation energy on their own."
+decision_acot_voidsphere_silo_energy: "Energy Dimension Forge"
+decision_acot_voidsphere_silo_energy_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_energy$§! or their gestalt counterparts as well as generation energy on their own."
+
+acot_modifier_voidsphere_silo_food: "Food Dimension"
+acot_modifier_voidsphere_silo_food_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_food$§! or their gestalt counterparts as well as generation food on their own."
+decision_acot_voidsphere_silo_food: "Food Dimension Forge"
+decision_acot_voidsphere_silo_food_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_food$§! or their gestalt counterparts as well as generation food on their own."
+
+acot_modifier_voidsphere_silo_goods: "Meme Dimension"
+acot_modifier_voidsphere_silo_goods_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_goods$§! or their gestalt counterparts as well as generation that stupid overrated resources on their own."
+decision_acot_voidsphere_silo_goods: "Meme Dimension Forge"
+decision_acot_voidsphere_silo_goods_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_goods$§! or their gestalt counterparts as well as generation that stupid overrated resources on their own."
+
+####################
+
+tech_acot_enigmapolis_fortress: "Giga Extension"
+tech_acot_enigmapolis_fortress_desc: "How do you improve upon planetary protection that already has a Giga Fortress? Make the planet walls themselves full of Giga Fortresses of course."
+tech_acot_enigmapolis_fortress_tooltip: "Upgrades Void Barrier to also provides a single Giga Fortress Operator job each."
+
+district_acot_enigmapolis_fortress: "Void Barrier"
+district_acot_enigmapolis_fortress_plural: "Void Barriers"
+district_acot_enigmapolis_fortress_desc: "Void Barriers provide the planets with defending forces and giga cannons."
+
+tech_acot_enigmapolis_stellarite: "Void Stellar Shard"
+tech_acot_enigmapolis_stellarite_desc: "Although Void Sphere is primarily designed for Enigmatic-based technology, its robust and flexible architectures are also ideal for creating mass arrays of Stellar Shards for stellarite generation, provided we can isolate them from other incompatible elements."
+
+district_acot_enigmapolis_stellarite: "Void Stellar Shard"
+district_acot_enigmapolis_stellarite_plural: "Void Stellar Shard"
+district_acot_enigmapolis_stellarite_desc: "Although the First Star may never be restored again, even a tiny speck of its once radiant majesty could create wonders of eternity, and such wonders would require a place of extraordinary care and durability."

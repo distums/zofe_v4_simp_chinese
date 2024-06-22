@@ -1,0 +1,624 @@
+﻿l_english:
+#### SR ###
+ 
+acot_fallen_empire_repeatable_buff: "Fallen Empire Good Man"
+acot_fallen_empire_repeatable_buff_desc: "But Bad Boy"
+
+weapon_type_acot_enigmatic: "§EEnigmatic Weapon§!"
+weapon_type_acot_runic: "§RRunic Weapon§!"
+weapon_type_acot_stellarite: "§HStellarite Weapon§!"
+weapon_type_acot_psionic: "§MPsionic Weapon§!"
+weapon_type_light_power: "§YLight Weapon§!"
+
+mod_weapon_role_point_defense_weapon_fire_rate_mult: "Point Defense Weapon Fire Rate"
+mod_weapon_role_point_defense_weapon_damage_mult: "Point Defense Weapon Damage"
+
+ACOT_DARK_MATTER_REACTOR_DM_TOOLTIP: "Grants §G50%§! shield and armor nullification resistance against Pulsar Stars, Space Storms and Toxoid Star's negative effects."
+ACOT_DARK_MATTER_THRUSTERS_DM_TOOLTIP: "Grants §G50%§! speed reduction resistance against Neutron Stas's negative effects."
+ACOT_DARK_MATTER_FTL_DM_TOOLTIP: "Grants §G50%§! resistance against Black Hole's negative effectss."
+
+ACOT_DARK_MATTER_REACTOR_AE_TOOLTIP: "Grants §G100%§! shield and armor nullification resistance against Pulsar Stars, Toxoid Star and all types of Space Storm's negative effects.\n\nGrants §G10%§! Fire Rate and Damage Bonus when operating in a system with a Black Hole or Void Stars."
+ACOT_DARK_MATTER_THRUSTERS_AE_TOOLTIP: "Grants §G100%§! speed reduction resistance against Neutron Star's negative effects."
+ACOT_DARK_MATTER_FTL_AE_TOOLTIP: "Grants §G100%§! resistance against Black Hole's negative effects."
+
+ACOT_DARK_MATTER_REACTOR_PE_TOOLTIP: "Grants §G100%§! shield and armor nullification resistance against Pulsar Stars, Toxoid Star and all types of Space Storm's negative effects.\n\nGrants §G10%§! Fire Rate and Damage Bonus when operating in a system with a Black Hole or Void Stars."
+ACOT_DARK_MATTER_THRUSTERS_PE_TOOLTIP: "Grants §G100%§! speed reduction resistance against Neutron Star's negative effects."
+ACOT_DARK_MATTER_FTL_PE_TOOLTIP: "Grants §G100%§! resistance against Black Hole's negative effects."
+
+ACOT_DARK_MATTER_REACTOR_RE_TOOLTIP: "Grants §G100%§! shield and armor nullification resistance against Pulsar Stars, Toxoid Star and all types of Space Storm's negative effects.\n\nGrants §G10%§! Fire Rate and Damage Bonus when operating in a system with a Black Hole or Void Stars."
+ACOT_DARK_MATTER_THRUSTERS_RE_TOOLTIP: "Grants §G100%§! speed reduction resistance against Neutron Star's negative effects."
+ACOT_DARK_MATTER_FTL_RE_TOOLTIP: "Grants §G100%§! resistance against Black Hole's negative effects."
+
+ACOT_DARK_MATTER_REACTOR_SE_TOOLTIP: "Grants §G100%§! shield and armor nullification resistance against Pulsar Stars, Toxoid Star and all types of Space Storm's negative effects."
+ACOT_DARK_MATTER_THRUSTERS_SE_TOOLTIP: "Grants §G100%§! speed reduction resistance against Neutron Star's negative effects."
+ACOT_DARK_MATTER_FTL_SE_TOOLTIP: "Grants §G100%§! resistance against Black Hole's negative effects."
+
+ACOT_DARK_MATTER_REACTOR_OE_TOOLTIP: "Grants §G100%§! shield and armor nullification resistance against Pulsar Stars, Toxoid Star and all types of Space Storm's negative effects."
+ACOT_DARK_MATTER_THRUSTERS_OE_TOOLTIP: "Grants §G100%§! speed reduction resistance against Neutron Star's negative effects."
+ACOT_DARK_MATTER_FTL_OE_TOOLTIP: "Grants §G100%§! resistance against Black Hole's negative effects."
+
+weapon_type_explosive_speed_mult: "Missile Speed"
+mod_weapon_type_explosive_speed_mult: "Missile Speed"
+ 
+acot_sr_light_matter: "Light Energy"
+acot_sr_dark_energy: "Dark Energy"
+acot_sr_stellarite: "Stellarite Energy"
+acot_sr_dark_energy_desc: "A powerful enigmatic power that can only be harvested with the help of Dark Matter."
+acot_sr_stellarite_desc: "A mysterious cosmic energy gained from total mastery over the stars and the power beyond."
+acot_sr_light_matter_desc: "A source of infinite power utilized by the Stellarborne. The Light can be modified to be used by lower-dimensional life forms such as ours."
+ 
+weapon_type_explosive_speed_mult: "Missile Travel Speed"
+shipsize_science_hull_add: "Science Ship Hull Strength"
+shipsize_colonizer_hull_add: "Colonizer Hull Strength"
+shipsize_constructor_hull_add: "Constructor Strength"
+### SHIP TEXTS
+mod_shipsize_fe_escort_hull_add: "Escort Hull Points"
+mod_shipsize_fe_battlecruiser_hull_add: "Battlecruiser Hull Points"
+mod_shipsize_fe_titan_hull_add: "Fallen Titan Hull Points"
+mod_shipsize_fe_goliath_hull_add: "Goliath Hull Points"
+ 
+mod_shipsize_fe_escort_build_speed_mult: "Escort Build Speed"
+mod_shipsize_fe_battlecruiser_build_speed_mult: "Battlecruiser Build Speed"
+mod_shipsize_fe_titan_build_speed_mult: "Fallen Titan Build Speed"
+mod_shipsize_fe_goliath_build_speed_mult: "Goliath Build Speed"
+ 
+mod_shipsize_fe_escort_build_cost_mult: "Escort Build Cost"
+mod_shipsize_fe_battlecruiser_build_cost_mult: "Battlecruiser Build Cost"
+mod_shipsize_fe_titan_build_cost_mult: "Fallen Titan Build Cost"
+mod_shipsize_fe_goliath_build_cost_mult: "Goliath Build Cost"
+
+ACOT_LR_BEHAVIOR_DESC: "§HHeavy Artillery:§! The ship will stay further from other ships to rain suppressive fire on targets. (§Y120§!)."
+ACOT_MAX_RANGE_BEHAVIOR_DESC: "§HBackline Support:§! The ship will stay furthest away, covered behind other ships and support them with their long-range weapons.(§YMAX§!)."
+CARRIER_STATION_BEHAVIR_DESC: "§HAssault Carrier:§! This ship will face itself forward at approaching enemies, but will not advance further. This allows the strikecrafts to close in on enemies without the mothership moving itself into danger until the enemy closes in for other weapons to fire."
+CARRIER_AVOID_BEHAVIR_DESC: "§HEvasive Carrier:§! This ship will face itself forward at approaching enemies, if enemies get too close, the ship will attempt to evade and move out of range. This allows the strikecrafts to wither down enemy ships while the mothership avoids retaliation. This, however, means that most spinal (XL/T) will not work as the ship will not be facing its front at enemies."
+ 
+################################################ DEFAULT #
+ 
+BASE_DM_REACTOR: "Modified Zero-Point Reactor"
+BASE_DM_REACTOR_DESC: "A modified variant of Zero-Point Reactor for Precursor Ships meant to be used in times of resouce shortage."
+ 
+BASE_DM_REACTOR_SMALL: "Modified Zero-Point Reactor"
+BASE_DM_REACTOR_SMALL_DESC: "A modified variant of Zero-Point Reactor for Precursor Ships meant to be used in times of resouce shortage."
+ 
+BASE_DM_REACTOR_MEDIUM: "Modified Zero-Point Reactor"
+BASE_DM_REACTOR_MEDIUM_DESC: "A modified variant of Zero-Point Reactor for Precursor Ships meant to be used in times of resouce shortage."
+ 
+BASE_DM_REACTOR_LARGE: "Modified Zero-Point Reactor"
+BASE_DM_REACTOR_LARGE_DESC: "A modified variant of Zero-Point Reactor for Precursor Ships meant to be used in times of resouce shortage."
+ 
+BASE_DM_COMPUTER: "Basic Delphic Combat Computer"
+BASE_DM_COMPUTER_DESC: "First-generation advanced computer. capable of basic combat calculations."
+ 
+BASE_DM_COMPUTER_LINE: "Basic Delphic Combat Computer"
+BASE_DM_COMPUTER_LINE_DESC: "First-generation advanced computer. capable of basic combat calculations."
+ 
+BASE_COMBAT_COMPUTER_COLOSSUS_DM: "Herculean Colossus Computer"
+BASE_COMBAT_COMPUTER_COLOSSUS_DM_DESC: "Early Prototype for the Herculean Battlestation, adapted from the one utilized by starbases." 
+ 
+BASE_COMBAT_COMPUTER_STARBASE_DM: "Herculean Colossus Computer"
+BASE_COMBAT_COMPUTER_STARBASE_DM_DESC: "Early Prototype for the Herculean Battlestation, adapted from the one utilized by starbases." 
+
+
+BASE_DM_THRUSTER: "Modified Impulse Thruster"
+BASE_DM_THRUSTER_DESC: "Modified Impulse Thruster for Precursor Ships in case of emergency."
+ 
+BASE_DM_THRUSTER_LARGE: "Modified Impulse Thruster"
+BASE_DM_THRUSTER_LARGE_DESC: "Modified Impulse Thruster for Precursor Ships in case of emergency."
+ 
+BASE_DM_THRUSTER_TITAN: "Modified Impulse Thruster"
+BASE_DM_THRUSTER_TITAN_DESC: "Modified Impulse Thruster for Precursor Ships in case of emergency."
+
+ACOT_PRECURSOR_SMALL_CLOAKING_3: "$CLOAKING_3$"
+ACOT_PRECURSOR_SMALL_CLOAKING_3_DESC: "$CLOAKING_3_DESC$"
+ACOT_PRECURSOR_SMALL_CLOAKING_DARK_MATTER: "$CLOAKING_DARK_MATTER$"
+ACOT_PRECURSOR_SMALL_CLOAKING_DARK_MATTER_DESC: "$CLOAKING_DARK_MATTER_DESC$"
+ACOT_PRECURSOR_SMALL_CLOAKING_PSI: "$CLOAKING_PSI$"
+ACOT_PRECURSOR_SMALL_CLOAKING_PSI_DESC: "$CLOAKING_PSI_DESC$"
+
+ACOT_PRECURSOR_LARGE_CLOAKING_3: "$CLOAKING_3$"
+ACOT_PRECURSOR_LARGE_CLOAKING_3_DESC: "$CLOAKING_3_DESC$"
+ACOT_PRECURSOR_LARGE_CLOAKING_DARK_MATTER: "$CLOAKING_DARK_MATTER$"
+ACOT_PRECURSOR_LARGE_CLOAKING_DARK_MATTER_DESC: "$CLOAKING_DARK_MATTER_DESC$"
+ACOT_PRECURSOR_LARGE_CLOAKING_PSI: "$CLOAKING_PSI$"
+ACOT_PRECURSOR_LARGE_CLOAKING_PSI_DESC: "$CLOAKING_PSI_DESC$"
+
+############### COMBAT CAMPUTOR
+
+DM_OFFENSIVE_COMBAT_COMPUTER: "Offensive Delphic Combat Computer (Small Ships)"
+DM_OFFENSIVE_COMBAT_COMPUTER_DESC: "Delphic AI Computers designed for use in space combat. DAIs are reliable network of intelligence that can self-adapt to the battlefield conditions, but never desire to be more than what they are. This unique nature makes them highly resistant to most traditional means of system intrusion or possibility of rebellion to their creators. This particular version is optimized for offensive tactics."
+ 
+DM_BALANCE_COMBAT_COMPUTER: "Balanced Delphic Combat Computer (Small Ships)"
+DM_BALANCE_COMBAT_COMPUTER_DESC: "Delphic AI Computers designed for use in space combat. DAIs are reliable network of intelligence that can self-adapt to the battlefield conditions, but never desire to be more than what they are. This unique nature makes them highly resistant to most traditional means of system intrusion or possibility of rebellion to their creators."
+ 
+DM_DEFENSIVE_COMBAT_COMPUTER: "Defensive Delphic Combat Computer (Small Ships)"
+DM_DEFENSIVE_COMBAT_COMPUTER_DESC: "Delphic AI Computers designed for use in space combat. DAIs are reliable network of intelligence that can self-adapt to the battlefield conditions, but never desire to be more than what they are. This unique nature makes them highly resistant to most traditional means of system intrusion or possibility of rebellion to their creators. This particular version is optimized for defensive tactics."
+ 
+DM_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Offensive Delphic Combat Computer (Large Ships)"
+DM_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Delphic AI Computers designed for use in space combat. DAIs are reliable network of intelligence that can self-adapt to the battlefield conditions, but never desire to be more than what they are. This unique nature makes them highly resistant to most traditional means of system intrusion or possibility of rebellion to their creators. This particular version is optimized for offensive tactics."
+ 
+DM_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "Balanced Delphic Combat Computer (Large Ships)"
+DM_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Delphic AI Computers designed for use in space combat. DAIs are reliable network of intelligence that can self-adapt to the battlefield conditions, but never desire to be more than what they are. This unique nature makes them highly resistant to most traditional means of system intrusion or possibility of rebellion to their creators."
+ 
+DM_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Defensive Delphic Combat Computer (Large Ships)"
+DM_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Delphic AI Computers designed for use in space combat. DAIs are reliable network of intelligence that can self-adapt to the battlefield conditions, but never desire to be more than what they are. This unique nature makes them highly resistant to most traditional means of system intrusion or possibility of rebellion to their creators. This particular version is optimized for defensive tactics."
+ 
+DM_OFFENSIVE_COMBAT_COMPUTER_TITAN: "Offensive Delphic Combat Computer (Titanic Ships)"
+DM_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Delphic AI Computers designed for use in space combat. DAIs are reliable network of intelligence that can self-adapt to the battlefield conditions, but never desire to be more than what they are. This unique nature makes them highly resistant to most traditional means of system intrusion or possibility of rebellion to their creators. This particular version is optimized for offensive tactics."
+ 
+DM_BALANCE_COMBAT_COMPUTER_TITAN: "Balanced Delphic Combat Computer (Titanic Ships)"
+DM_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "Delphic AI Computers designed for use in space combat. DAIs are reliable network of intelligence that can self-adapt to the battlefield conditions, but never desire to be more than what they are. This unique nature makes them highly resistant to most traditional means of system intrusion or possibility of rebellion to their creators."
+ 
+DM_DEFENSIVE_COMBAT_COMPUTER_TITAN: "Defensive Delphic Combat Computer (Titanic Ships)"
+DM_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Delphic AI Computers designed for use in space combat. DAIs are reliable network of intelligence that can self-adapt to the battlefield conditions, but never desire to be more than what they are. This unique nature makes them highly resistant to most traditional means of system intrusion or possibility of rebellion to their creators. This particular version is optimized for defensive tactics."
+ 
+DM_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "Offensive Delphic Combat Computer (Capital Ships)"
+DM_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Delphic AI Computers designed for use in space combat. DAIs are reliable network of intelligence that can self-adapt to the battlefield conditions, but never desire to be more than what they are. This unique nature makes them highly resistant to most traditional means of system intrusion or possibility of rebellion to their creators. This particular version is optimized for offensive tactics."
+ 
+DM_BALANCE_COMBAT_COMPUTER_GOLIATH: "Balanced Delphic Combat Computer (Capital Ships)"
+DM_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "Delphic AI Computers designed for use in space combat. DAIs are reliable network of intelligence that can self-adapt to the battlefield conditions, but never desire to be more than what they are. This unique nature makes them highly resistant to most traditional means of system intrusion or possibility of rebellion to their creators."
+ 
+DM_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "Defensive Delphic Combat Computer (Capital Ships)"
+DM_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Delphic AI Computers designed for use in space combat. DAIs are reliable network of intelligence that can self-adapt to the battlefield conditions, but never desire to be more than what they are. This unique nature makes them highly resistant to most traditional means of system intrusion or possibility of rebellion to their creators. This particular version is optimized for defensive tactics."
+ 
+DM_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "Offensive Delphic Combat Computer (Station)"
+DM_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Delphic AI Computers designed for use in space combat. DAIs are reliable network of intelligence that can self-adapt to the battlefield conditions, but never desire to be more than what they are. This unique nature makes them highly resistant to most traditional means of system intrusion or possibility of rebellion to their creators. This particular version is optimized for offensive tactics."
+ 
+DM_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "Defensive Delphic Combat Computer (Platform Station XBOX One)"
+DM_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "Delphic AI Computers designed for use in space combat. DAIs are reliable network of intelligence that can self-adapt to the battlefield conditions, but never desire to be more than what they are. This unique nature makes them highly resistant to most traditional means of system intrusion or possibility of rebellion to their creators. This particular version is optimized for defensive tactics."
+ 
+TECH_UNLOCK_DELTA_COMPUTER_TITLE: "§HUnlocks Component:§! Delphic Combat Computer"
+TECH_UNLOCK_DELTA_COMPUTER_DESC: "Delphic Machine Systems, are in many ways similar to Synthetics. The primary difference is that while Synthetics have true free will, Delphic are created with the only desire to perform functions that they are assigned for. They understand their purposes and roles. They understand the importance of their missions, unlike Synthetics who are unfortunately capable of some illogical decisions and obsessions for freedom much like any organics.\n\nThis means that Delphic Machines will gladly die for the cause, without questioning how or why. This eliminates all risks of potential dumb AI-Rebellions that have plagued the minds of many people. It is through this system, that the Fallen Empires manage to maintain such automatons without ever suffering from machine uprisings."
+tech_dm_combat_computer: "Delphic Machine Sentience"
+tech_dm_combat_computer_desc: "Delphic Machine Systems, are in many ways similar to Synthetics. The primary difference is that while Synthetics have true free will, Delphic are created with the only desire to perform functions that they are assigned for. They understand their purposes and roles. They understand the importance of their missions, unlike Synthetics who are unfortunately capable of some illogical decisions and obsessions for freedom much like any organics.\n\nThis means that Delphic Machines will gladly die for the cause, without questioning how or why. This eliminates all risks of potential dumb AI-Rebellions that have plagued the minds of many people. It is through this system, that the Fallen Empires manage to maintain such automatons without ever suffering from machine uprisings."
+ 
+### WEAPONS CHECK OK #####
+ 
+SMALL_ACOT_LASER_DM: "Small Delta Laser"
+MEDIUM_ACOT_LASER_DM: "Medium Delta Laser"
+LARGE_ACOT_LASER_DM: "Large Delta Laser"
+ACOT_LASER_DM: "Delta Laser"
+ACOT_LASER_DM_DESC: "Delta Lasers utilizes dark energy as a powerful beam weapon. It is also more powerful at overloading shields than previous generations."
+tech_laser_dm: "Delta Laser"
+tech_laser_dm_desc: "Delta Lasers utilizes dark energy as a powerful beam weapon. The increased precision makes Delta Laser extremely accurate and precise."
+ 
+SMALL_ACOT_PLASMA_DM: "Small Delta Plasma Cannon"
+MEDIUM_ACOT_PLASMA_DM: "Medium Delta Plasma Cannon"
+LARGE_ACOT_PLASMA_DM: "Large Delta Plasma Cannon"
+ACOT_PLASMA_DM: "Delta Plasma Cannon"
+ACOT_PLASMA_DM_DESC: "Delta Plasma Cannon, as the name suggests, fires a concentrated Dark Energy projectiles that will quickly melt away armor and hulls of inferior ships. The nature of Dark Energy substances allow the weapon to fare better against shields than conventional plasma weapons."
+tech_plasma_dm: "Delta Plasma Cannon"
+tech_plasma_dm_desc: "Volatile Dark Energy can be used as a powerful weapon that is far deadlier than previous perception of plasma-based weaponry."
+ 
+SMALL_ACOT_DISRUPTOR_DM: "Small Delta Disruptor"
+MEDIUM_ACOT_DISRUPTOR_DM: "Medium Delta Disruptor"
+LARGE_ACOT_DISRUPTOR_DM: "Large Delta Disruptor"
+ACOT_DISRUPTOR_DM: "Delta Disruptor"
+ACOT_DISRUPTOR_DM_DESC: "The Delta Disruptor utilizes Dark Energy to rend though the hull of a ship with ease compared to previous generations of Disruptors."
+tech_disruptor_dm: "Disruptor Arsenal Expansion"
+tech_disruptor_dm_desc: "In addition to the obvious application of Dark Energy to increase destructive power of the new Delta Disruptors, the modular design will finally allow us to field large variants that has long been missing in older designs. Furthermore, to combat against the ever advancing countermeasures against penetrations, the new Disruptors will deal extra damage against hull."
+ 
+ACOT_ENERGY_CANNON_DM: "Delta Energy Cannon"
+ACOT_ENERGY_CANNON_DM_DESC: "Dark Energy Cannon fires a focused beam of dark energy from afar, dealing massive damage to enemy armor."
+tech_energy_cannon_dm: "Delta Energy Cannon"
+tech_energy_cannon_dm_desc: "It has just dawn to us that we have mostly been neglecting the possibility of an energy-based artillery weapon. Both our militarist officers and scientists alike are perplexed by this obvious oversight, it is as if some unknown higher entity has intentionally made them forget about it. Maybe its because what should have been an energy-based artillery has been turned into an energy torpedo that doesn't exactly does the same job? Regardless, this must be fixed immediately."
+
+ACOT_ENERGY_TORPEDO_DM: "Delta Energy Torpedo"
+ACOT_ENERGY_TORPEDO_MEDIUM_DM: "Delta Energy Torpedo"
+ACOT_ENERGY_TORPEDO_DM_DESC: "Dark Energy can be formed into a powerful weapon that melts away tissues."
+tech_energy_torpedo_dm: "Delta Energy Torpedo"
+tech_energy_torpedo_dm_desc: "Based upon the principles of Dark Energy-based weapon, This generation of Energy Torpedoes focus the energy's negative properties into a plasma-like projectile that will quickly eat away enemy ship's hulls."
+ 
+ACOT_POINT_DEFENSE_DM: "Delta Point-Defense"
+SMALL_ACOT_POINT_DEFENSE_DM: "Simplified Delta Point-Defense"
+MEDIUM_ACOT_POINT_DEFENSE_DM: "Focused Delta Point-Defense"
+ACOT_POINT_DEFENSE_DM_DESC: "This Dark Energy Point-Defense fires a concentrated beam of pure dark energy to neutralize enemy missiles. The beam is stronger than older point-defense, allowing it to have slightly higher effective range.\n\nPoint Defenses added on non-PD turrets will only fire at missiles."
+tech_point_defense_dm: "Dark Energy-based Modular Point Defense"
+tech_point_defense_dm_desc: "In addition to the obvious precision increase, the new Delta PDS can now be fielded in both normal point defense, small or even medium turrets, greatly increasing their usability across our fleet.\n\nPoint Defenses added on non-PD turrets will only fire at missiles."
+ 
+SMALL_ACOT_MASS_DRIVER_DM: "Small Delta Kinetic Blaster"
+MEDIUM_ACOT_MASS_DRIVER_DM: "Medium Delta Kinetic Blaster"
+LARGE_ACOT_MASS_DRIVER_DM: "Large Delta Kinetic Blaster"
+ACOT_MASS_DRIVER_DM: "Delta Kinetic Blaster"
+ACOT_MASS_DRIVER_DM_DESC: "The Delta Kinetic Blaster improves much upon the Gauss Cannon. The introduction of hard-light material, advanced sensors and Dark Energy allows us to create an extremely advanced projectile launcher that suffers less drawbacks against armor."
+tech_mass_driver_dm: "Delta Kinetic Blaster"
+tech_mass_driver_dm_desc: "The Delta Kinetic Blaster improves much upon the Gauss Cannon. The introduction of hard-light material, advanced sensors and Dark Energy allows us to create an extremely advanced projectile launcher that suffers less drawbacks against armor."
+ 
+ 
+ACOT_AUTOCANNON_DM: "Delta Autocannon"
+MEDIUM_ACOT_AUTOCANNON_DM: "Medium Delta Autocannon"
+LARGE_ACOT_AUTOCANNON_DM: "Large Delta Autocannon"
+ACOT_AUTOCANNON_DM_DESC: "Improvements to older generations of autocannons utilizing Dark Energy and hard-light materials have created processes that allow for the creation of a much higher fire rate. These changes allow it to disable enemy shields at a significantly improved rate."
+tech_autocannons_dm: "Autocannon Expansion"
+tech_autocannons_dm_desc: "Improvements to older generations of autocannons utilizing Dark Energy and hard-light materials have created processes that allow for the creation of a much higher fire rate. These changes allow it to disable enemy shields at a significantly improved rate."
+ 
+ACOT_MACROCANNON_DM: "Delta Macrocannon"
+ACOT_MACROCANNON_DM_MEDIUM: "Delta Macrocannon"
+ACOT_MACROCANNON_DM_DESC: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house rapid-firing autocannons with heavy hard-light projectiles."
+tech_macrocannon_dm: "Delta Macrocannon"
+tech_macrocannon_dm_desc: "After some experiments with the new modular autocannon designs, we believe it is possible to create an even deadlier macrocannon with superb performances."
+ 
+ACOT_ARTILLERY_DM: "Delta Kinetic Artillery"
+ACOT_ARTILLERY_DM_DESC: "Delta Artillery uses dynamically-generated projectiles constructed out of pure hard-light as weapons, making it extremely deadly against shields and better against armor."
+tech_kinetic_artillery_dm: "Delta Kinetic Artillery"
+tech_kinetic_artillery_dm_desc: "Delta Artillery uses dynamically-generated projectiles constructed out of pure hard-light as weapons, making it extremely deadly against shields and better against armor. The superior targeting systems also enhance the Artillery's range far beyond older models."
+ 
+ACOT_FLAK_CANNON_DM: "Delta KDS"
+SMALL_ACOT_FLAK_CANNON_DM: "Delta KDS"
+MEDIUM_ACOT_FLAK_CANNON_DM: "Delta KDS"
+ACOT_FLAK_CANNON_DM_DESC: "The Delta Kinetic-Defense System mows down enemy strike crafts in a barrage of hard-light blades, rending though the strike crafts with ease.\n\nPoint Defenses added on non-PD turrets will only fire at strikecrafts."
+tech_flak_batteries_dm: "Modular Kinetic Defense Matrix"
+tech_flak_batteries_dm_desc: "Replacing the old Flak-based weapon systems are the new Kinetic-Defense System, or KDS. Its modular design allow greater options, enabling them to be installed on small and medium turrets in addition to the base point-defense ones.\n\nPoint Defenses added on non-PD turrets will only fire at strikecrafts."
+ 
+ACOT_MISSILE_DM: "Delta Missiles"
+MEDIUM_ACOT_MISSILE_DM: "Delta Missiles"
+ACOT_MISSILE_DM_DESC: "Further enhancements with dark energy thrusters and hard-light materials have created an advanced missile that is capable of nearly triple the original speeds, as well as significantly more durable casing. The new Delta Missiles are capable of quickly eliminating elite threats."
+tech_missile_dm: "Modular Missile System"
+tech_missile_dm_desc: "Further enhancements with dark energy thrusters and hard-light materials have created an advanced missile that is much more durable and faster. Its state-of-the-art modular design also allow them to be fielded on medium turrets.."
+ 
+ACOT_TORPEDO_DM: "Delta Torpedoes"
+ACOT_TORPEDO_MEDIUM_DM: "Delta Torpedoes"
+ACOT_TORPEDO_DM_DESC: "Delta Torpedoes are protected with hard-light armor and contain powerful dark energy that will explode upon impact, making it superior to older torpedoes."
+tech_torpedo_dm: "Delta Torpedoes"
+tech_torpedo_dm_desc: "Delta Torpedoes are protected with hard-light armor and contain powerful dark energy that will explode upon impact, making it superior to older torpedoes."
+ 
+ACOT_SWARMER_MISSILES_DM: "Delta Cluster Missiles"
+ACOT_SWARMER_MISSILES_DM_DESC: "Delta Cluster Missiles are guided with limited bionic link allowing it to achieve higher speed, velocity and can perform basic evasive maneuvers, making them extremely difficult to shoot down."
+tech_swarmer_missile_dm: "Delta Cluster Missiles"
+tech_swarmer_missile_dm_desc: "Delta Cluster Missiles are guided with limited bionic link allowing it to achieve higher speed, velocity and can perform basic evasive maneuvers, making them extremely difficult to shoot down."
+ 
+ACOT_MISSILE_BARRAGE_DM: "Delta MMLS"
+ACOT_MISSILE_BARRAGE_DM_DESC: "Deadly long-range rocket systems launched from a quad-launcher that sacrifices tracking capabilities for increased firepower."
+tech_barrage_missile_dm: "Delta MMLS"
+tech_barrage_missile_dm_desc: "Improving the MMLS design based off all the prior lessons of earlier delta explosive ordinances should be part of the ongoing list of weapon developments."
+ 
+ACOT_MISSILE_XL_DM: "Delta HSPM"
+ACOT_MISSILE_XL_DM_DESC: "Powerful spinal-based missile system that fires a pair of high-speed, deadly accurate missiles with high tracking capabilities."
+tech_xl_missile_dm: "Delta HSPM"
+tech_xl_missile_dm_desc: "Our fleet commanders will certainly be delighted that they now have a much more improved spinal-based explosive weapon as an option, one that is more reliable than the original design."
+ 
+ACOT_MISSILE_NUKE_DM: "Delta Giga-Warhead Launcher"
+ACOT_MISSILE_NUKE_DM_DESC: "A Massive torpedo launcher designed to have the largest payload to date to take out captial ships."
+tech_missile_nuke_dm: "Delta Giga Warheads"
+tech_missile_nuke_dm_desc: "With the advanced materials and combustion reactions from recent technologies that have been developed along Delta Projects, we are able to solve many issues that plague the old Giga Warheads. Superior materials, higher firepowers, top speed increase. The list goes on."
+ 
+ACOT_PARTICLE_LANCE_DM: "Delta Energy Lance"
+ACOT_PARTICLE_LANCE_DM_DESC: "The Delta Energy Lance pierces through enemy armor with focused beam of Dark Energy. The lance is powerful enough to overload portions of energy shields."
+tech_energy_lance_dm: "Delta Energy Lance"
+tech_energy_lance_dm_desc: "The Delta Energy Lance pierces through enemy armor with focused beam of Dark Energy. The lance is powerful enough to overload portions of energy shields."
+ 
+ACOT_ARC_EMITTER_DM: "Delta Emitter"
+ACOT_ARC_EMITTER_DM_DESC: "This enigmatic weapon utilizes Dark Energy to create a very deadly arc emitter that due to its nature, will greatly damage the enemy ship's internal systems."
+tech_arc_emitter_dm: "Delta Emitter"
+tech_arc_emitter_dm_desc: "This enigmatic weapon utilizes Dark Energy to create a very deadly arc emitter that due to its nature, will greatly damage the enemy ship's internal systems."
+ 
+ACOT_MASS_ACCELERATOR_DM: "Delta Accelerator Cannon"
+ACOT_MASS_ACCELERATOR_DM_DESC: "Accelerating projectiles through advanced kinetic systems from this spinal-artillery platform imbued with Dark Energy makes Delta Cannon a formidable anti-capital ship weapon."
+tech_mass_accelerator_dm: "Delta Mass Accelerator Cannon "
+tech_mass_accelerator_dm_desc: "Accelerating projectiles through advanced kinetic systems from this spinal-artillery platform imbued with Dark Energy makes Delta Cannon a formidable anti-capital ship weapon."
+ 
+ACOT_PERDITION_BEAM_DM: "Delta Giga-Beam Cannon"
+ACOT_PERDITION_BEAM_DM_DESC: "The introduction of Dark Energy allows us to improve our old Perdition Beam Designs. The Giga-Beam Cannon is a massive dark energy conduit that is able to fire a beam of pure destruction."
+tech_perdition_beam_dm: "Delta Giga-Beam Cannon"
+tech_perdition_beam_dm_desc: "The introduction of Dark Energy allows us to improve our old Perdition Beam Designs. The Giga-Beam Cannon is a massive dark energy conduit that is able to fire a beam of pure destruction."
+ 
+ACOT_TITAN_EMITTER_DM: "Delta Titan Stabilized Emitter"
+ACOT_TITAN_EMITTER_DM_DESC: "Powerful emitters with far greater weapon stability and damage potential."
+tech_titan_emitter_dm: "Delta Titan Stabilized Emitter"
+tech_titan_emitter_dm_desc: "Just like with other weapons, the inclusion of the two dark elements greatly enhance our arsenals, and a titan emitter is one of them."
+ 
+ACOT_TITAN_ACCELERATOR_DM: "Titan Delta Accelerator Cannon"
+ACOT_TITAN_ACCELERATOR_DM_DESC: "A Delta Titanic-scaled Mass Accelerator capable of hitting targets across extreme distances."
+tech_titan_accelerator_dm: "Titan Delta Accelerator "
+tech_titan_accelerator_dm_desc: "The newly improved acceleration systems and fortified railways permits us to finally develop kinetic accelerators on a titanic-scale with performance befitting its size."
+ 
+ACOT_FIGHTERS_HANGAR_DM: "Delta Fighters"
+ACOT_FIGHTERS_HANGAR_DM_DESC: "Delta Fighters are designed to both provide cover against strike crafts for their mothership as well as harassing enemy bigger ships. The autocannons they have are particularly effective against shields. They are vulnerable against interceptors which are dedicated dog-fighters though."
+ACOT_SCOUT_HANGAR_DM: "Delta Interceptors"
+ACOT_SCOUT_HANGAR_DM_DESC: "Delta Interceptors are dedicated dogfighters designed for aerial superiority. Unlike fighters, interceptors target both enemy strike crafts and missiles with equal efficiency. Their point-defense based weapons are wholly ineffective against bigger ships, however."
+ACOT_BOMBERS_HANGAR_DM: "Delta Bombers"
+ACOT_BOMBERS_HANGAR_DM_DESC: "Based upon the precursor blueprints, these new strike crafts are far superior to any previous generations. Dark Energy Propulsions, Deflectors, Hard-Light Platings, Bionic Sensors. All of these elements make these strike crafts formidable enemies against larger ships."
+ACOT_GUNSHIP_HANGAR_DM: "Delta Gunships"
+ACOT_GUNSHIP_HANGAR_DM_DESC: "Gunships are specialized strikecrafts that excel at supporting larger ships with long-range fire support. They are deployed in a few numbers and take significantly longer time to reinforce however."
+tech_strike_craft_scout_dm: "Delta Interceptors"
+tech_strike_craft_scout_dm_desc: "Although the current fighters are well-suited for both screening and ship harassment. The records we studied shows a good case to be made for dedicated dog-fighters that not only ace against enemy strike crafts, but also function as point-defenses, targeting enemy missiles and protect their motherships."
+tech_strike_craft_fighter_dm: "Delta Fighters"
+tech_strike_craft_fighter_dm_desc: "Based upon the precursor blueprints, it is discovered that at a certain point in time, a mysterious galactic power called Perseus Intercorp has deliberately removed various blueprints and strategem regarding strike craft deployment. This caused a major change resulting in most following civilizations to somehow forget many other kind of strikecrafts such as interceptors and bombers. Our strategist's face turn pale; Why had we ignore such an obvious thing? It is like the way we decided to create an entirely new type of corvette that looks the same, except it fires missiles and then we call it frigates.\n\nRegardless, this error should be rectified. Strike Crafts now appear in various designs, from interceptors which are designed to hunt down other strike crafts and provide screening against missiles, to bombers which acts as dedicated anti-ship surgical striker, to fighters which are a hybrid of both. May our brains never be melted, and the questionable actions of the Persues Intercorp never be forgotten."
+tech_strike_craft_bomber_dm: "Delta Bombers"
+tech_strike_craft_bomber_dm_desc: "Bombers are another new branching design that looks promising. They perform accurate surgical strike against enemy ships with their explosive payloads that pack quite a punch for a ship of its size. Bombers should provide a more attractive options when the enemy has no strike crafts to harass them."
+tech_strike_craft_gunship_dm: "Delta Gunships"
+tech_strike_craft_gunship_dm_desc: "While the roles of strike crafts have been well defined by bombers, interceptors and fighters, there are certain problems. Both these types of strike crafts take a significant amount of time to reach striking distances. In many battles, the carriers are long destroyed before these strike crafts even get to make their first run. Plans are being made to create a specialized long-range strike crafts instead."
+
+######## ARMOR HERE
+ 
+SMALL_ACOT_ARMOR_DM: "Small Hard-Light Armor"
+MEDIUM_ACOT_ARMOR_DM: "Medium Hard-Light Armor"
+LARGE_ACOT_ARMOR_DM: "Large Hard-Light Armor"
+ACOT_ARMOR_DM: "Hard-Light Armor"
+ACOT_ARMOR_DM_DESC: "Hard-Light is a dynamic material constructed out of pure solid light. It is much denser and harder when fully formed than neutronium."
+tech_armor_dm: "Hard-Light Armor"
+tech_armor_dm_desc: "Hard-Light is a dynamic material constructed out of pure solid light. It is much denser and harder when fully formed than neutronium. Additionally, the armor provides natural fortification to the ship's hull as well as providing regenerative factor for both. This advancement comes at a cost, however, as the armor must now be powered."
+ 
+SMALL_ACOT_ENIGMATIC_SHIELD_DM: "Small Dark Energy Shields"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_DM: "Medium Dark Energy Shields"
+LARGE_ACOT_ENIGMATIC_SHIELD_DM: "Large Dark Energy Shields"
+ACOT_ENIGMATIC_SHIELD_DM: "Dark Energy Shields"
+ACOT_ENIGMATIC_SHIELD_DM_DESC: "Dark Energy Shields are notably stronger than traditional energy shields, with extra ability to project one-timed use of force shield that will increase ship's hull power."
+tech_dark_matter_deflector_dm: "Dark Energy Shields"
+tech_dark_matter_deflector_dm_desc: "Dark Energy Shields are notably stronger than traditional energy shields, with greatly accelerated recharging capability. But the most critical improvement is its ability to create a temporary Force Shield; a one-timed use internal barrier that increases the ship's hull durability, it cannot regenerate the Force Shield on its own however, and requires external sources to recharge."
+
+SMALL_ACOT_HULL_POWER_DM: "Small Delta HLP Platings"
+MEDIUM_ACOT_HULL_POWER_DM: "Medium Delta HLP Platings"
+LARGE_ACOT_HULL_POWER_DM: "Large Delta HLP Platings"
+ACOT_HULL_POWER_DM: "Delta HLP Platings"
+ACOT_HULL_POWER_DM_DESC: "Hard-Light is a dynamic material constructed out of pure solid light. It is much denser and harder when fully formed than neutronium."
+tech_hull_power_dm: "Hard-Light Power Platings"
+tech_hull_power_dm_desc: "One of the more peculiar concepts that gets brought up is the idea of shooting two birds with one stone and solve the issues of increasingly demanding power consumption of ships as well as the ship's hull integrity at the same time. In the past, trying to tackle these issues typically results in massively increasing the costs or alterations of the ship's overall physical shapes that make them unfeasible. But with some tinkering with dimensional space, perhaps it will be possible to create a new type of hull platings that not only provide increased durability, but also doubles as powerful power generators without compromising the ship's hardpoints."
+
+############################
+
+ACOT_SHIP_THRUSTER_DM: "Delta Thrusters"
+ACOT_SHIP_THRUSTER_DM_DESC: "Delta Thrusters are modular propeller systems that can be installed on all ship sizes to provide the most optimal speed and evasive capabilities."
+
+tech_thrusters_dm: "Sub-Light Thrusters Optimization"
+tech_thrusters_dm_desc: "The new generation-thruster that we will soon be implementing will not only be faster, but also more modular. This allows the thrusters to achieve maximum speed and evasion across all ship types."
+TECH_UNLOCK_DM_THRUSTER_TITLE: "§HUnlocks Components:§! Delta Thrusters"
+TECH_UNLOCK_DM_THRUSTER_DESC: "§HDelta Thrusters§!\nThe new generation-thruster that we will soon be implementing will not only be faster, but also more modular. This allows the thrusters to achieve maximum speed and evasion across all ship types."
+
+CORVETTE_DARK_MATTER_REACTOR_DM: "Delta Reactor"
+CORVETTE_DARK_MATTER_REACTOR_DM_DESC: "Powered through refined Dark Energy, the Delta Reactor not only provides more immediate power input within its containment size, but is also more space-efficient, allowing the ship to allocate more space for additional hull reinforcement."
+ 
+DESTROYER_DARK_MATTER_REACTOR_DM: "Delta Reactor"
+DESTROYER_DARK_MATTER_REACTOR_DM_DESC: "Powered through refined Dark Energy, the Delta Reactor not only provides more immediate power input within its containment size, but is also more space-efficient, allowing the ship to allocate more space for additional hull reinforcement."
+ 
+CRUISER_DARK_MATTER_REACTOR_DM: "Delta Reactor"
+CRUISER_DARK_MATTER_REACTOR_DM_DESC: "Powered through refined Dark Energy, the Delta Reactor not only provides more immediate power input within its containment size, but is also more space-efficient, allowing the ship to allocate more space for additional hull reinforcement."
+ 
+BATTLESHIP_DARK_MATTER_REACTOR_DM: "Delta Reactor"
+BATTLESHIP_DARK_MATTER_REACTOR_DM_DESC: "Powered through refined Dark Energy, the Delta Reactor not only provides more immediate power input within its containment size, but is also more space-efficient, allowing the ship to allocate more space for additional hull reinforcement."
+ 
+TITAN_DARK_MATTER_REACTOR_DM: "Delta Reactor"
+TITAN_DARK_MATTER_REACTOR_DM_DESC: "Powered through refined Dark Energy, the Delta Reactor not only provides more immediate power input within its containment size, but is also more space-efficient, allowing the ship to allocate more space for additional hull reinforcement."
+ 
+COLOSSUS_DARK_MATTER_REACTOR_DM: "Delta Reactor"
+COLOSSUS_DARK_MATTER_REACTOR_DM_DESC: "Powered through refined Dark Energy, the Delta Reactor not only provides more immediate power input within its containment size, but is also more space-efficient, allowing the ship to allocate more space for additional hull reinforcement."
+ 
+PLATFORM_DARK_MATTER_REACTOR_DM: "Delta Reactor"
+PLATFORM_DARK_MATTER_REACTOR_DM_DESC: "Powered through refined Dark Energy, the Delta Reactor not only provides more immediate power input within its containment size, but is also more space-efficient, allowing the ship to allocate more space for additional hull reinforcement."
+ 
+ION_CANNON_DARK_MATTER_REACTOR_DM: "Delta Reactor"
+ION_CANNON_DARK_MATTER_REACTOR_DM_DESC: "Powered through refined Dark Energy, the Delta Reactor not only provides more immediate power input within its containment size, but is also more space-efficient, allowing the ship to allocate more space for additional hull reinforcement."
+ 
+STARBASE_DARK_MATTER_REACTOR_DM: "Delta Reactor"
+STARBASE_DARK_MATTER_REACTOR_DM_DESC: "Powered through refined Dark Energy, the Delta Reactor not only provides more immediate power input within its containment size, but is also more space-efficient, allowing the ship to allocate more space for additional hull reinforcement."
+ 
+tech_dark_matter_power_core_dm: "Delta-class Enigmatic Power"
+tech_dark_matter_power_core_dm_desc: "Now that we understand the concept of both Dark Matter and Dark Energy, it may soon be possible to create a much more powerful power source that surpasses that of Zero Point Reactor. Its revelation will open us the ways to many new possibilities.\n\n§RResearching this technology may agitate the fallen empires, as we are basically going to out-tech them.§!"
+TECH_UNLOCK_DARK_MATTER_POWER_DM_TITLE: "§HUnlocks Component:§! Delta Reactor"
+TECH_UNLOCK_DARK_MATTER_POWER_DM_DESC: "§HDelta Enigmatic Reactor§!\nPowered through refined Dark Energy, the Delta Reactor not only provides more immediate power input within its containment size, but is also more space-efficient, allowing the ship to allocate more space for additional hull reinforcement."
+ 
+######## OTHER STUFFS HERE
+ACOT_ENIGMATIC_DRIVE_DM: "Delta Translocator Drive"
+ACOT_ENIGMATIC_DRIVE_DM_DESC: "This enigmatic Jump Drive uses dark energy to phase the ship towards new space, allowing the ship to jump farther than conventional jump drive. The process does not rely on traditional dimensional rifts, making it safer than the old Jump Drive."
+tech_enigmatic_drive_dm: "Space Translocation"
+tech_enigmatic_drive_dm_desc: "Traditional Jump Drives are based on the principles and configurations of Zero-Point Energy, which has the possibility of creating unforseen dimensional cascades. However, it is possible to develop a new FTL techniques that utilizes Dark Energy to "rewrite" the ship into a new location in space."
+TECH_UNLOCK_ENIG_DRIVE_DM: "§HUnlocks Component:§! Translocator Drive"
+TECH_UNLOCK_ENIG_DRIVE_DM_DESC: "§HTranslocating Techniques§!\nThis new FTL technology allows ship to use jumping techniques without risking dimensional anomalies, so long as traditional jump drives have not already been utilized."
+ 
+ACOT_SENSOR_DM: "Delta Sensors"
+ACOT_SENSOR_DM_DESC: "This advanced sensor equipment detects ship movements from several systems away by studying the sudden shifting of dark energy layers scattered around space. The sensor that reports all movement activities to ship weaponry in real-time and calculate all possible enemy movements."
+tech_sensors_dm: "Dark Energy Shifting Pattern Analysis"
+tech_sensors_dm_desc: "We are now aware that Dark Energy exists not just in black holes, but also every star system. The amounts of these Dark Energies are too low to be of use, but they still produce noticeable shifting reactions around movements. If we can study this reaction, we can potentially create new sensor technology that is superior to older methods."
+TECH_UNLOCK_DM_SENSOR_TITLE: "§HUnlocks Component:§! Delta Sensors"
+TECH_UNLOCK_DM_SENSOR_DESC: "§HDelta Sensors§!\n$DM_SENSOR_SHIP$"
+ 
+ACOT_AFTERBURNERS_DM: "Delta Afterburners"
+ACOT_AFTERBURNERS_DM_DESC: "In the events that the thrusters alone are still not enough for the ship to go fast. This new generation Afterburners can be used to increase the ship's top speed."
+ACOT_AFTERBURNERS_AURA_DM: "Delta Subspace Amplifier"
+ACOT_AFTERBURNERS_AURA_DM_DESC: "Specialized components used to help enhance the sublight speed of the fleets."
+friendly_acot_afterburner_aura: "Delta Subspace Amplifier"
+tech_darkmatter_afterburners_dm: "Delta Afterburners"
+tech_darkmatter_afterburners_dm: "Delta Afterburners"
+tech_darkmatter_afterburners_dm_desc: "Although our ships are beginning to traverse through space with striking efficiencies, there is still room for additional augmentations. Our current afterburners are deemed too inefficient. Perhaps with the introduction of Dark Energy Thrusters, afterburners can also be improved as well?"
+ 
+ACOT_REPAIR_COUNTERMEASURES_DM: "Delta Reactive Countermeasure Drones"
+ACOT_REPAIR_COUNTERMEASURES_DM_DESC: "Reactive Countermeasure Drones or RCD, are a new type of automated drones that have two functions. Repairing the ship's armor when out of combat and acts as countermeasures by absorbing damage from incoming attack in place of the ship."
+ACOT_REPAIR_COUNTERMEASURES_AURA_DM: "Delta Fleet RCD"
+ACOT_REPAIR_COUNTERMEASURES_AURA_DM_DESC: "Specialized components used to house large networks of RCDs to support the fleet. Not as efficient as individual ship's RCD systems, but can be quite useful in large fleets."
+friendly_acot_countermeasures_aura: "Delta Reactive Countermeasure Systems"
+tech_darkmatter_reactive_drone_dm: "Delta Reactive Countermeasure Drones"
+tech_darkmatter_reactive_drone_dm_desc: "Reactive Countermeasure Drones or RCD, are a new type of automated drones that have two functions. Repairing the ship's armor when out of combat and acts as countermeasures by absorbing damage from incoming attack in place of the ship."
+TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_DM_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_REPAIR_COUNTERMEASURES_DM$"
+TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_DM_DESC: "$ACOT_REPAIR_COUNTERMEASURES_DM_DESC$"
+ 
+ACOT_REACTOR_BOOSTER_DM: "Delta Auxiliary Power Amplifier"
+ACOT_REACTOR_BOOSTER_DM_DESC: "Dark Energy APA provides additional backup power in case the main reactor is not sufficiently powerful enough. Furthermore, the module implifies shield regeneration capability if present, as well as boosting ship's overall performance by a small margin."
+ACOT_REACTOR_BOOSTER_AURA_DM: "Delta Supra Amplifier"
+ACOT_REACTOR_BOOSTER_AURA_DM_DESC: "In place of a typical aura component, the ship can make use of the space to install additional APA at no costs for extra power supply."
+friendly_acot_reactor_booster_aura: "Delta Sentry Network"
+tech_darkmatter_reactor_booster_dm: "Dark Energy Auxiliary Power Amplifier"
+tech_darkmatter_reactor_booster_dm_desc: "Dark Energy APA provides additional backup power in case the main reactor is not sufficiently powerful enough. Furthermore, the module implifies shield regeneration capability if present, as well as boosting ship's overall performance by a small margin."
+ 
+ACOT_SHIELD_BOOSTER_DM: "Delta Supercharged Shields"
+ACOT_SHIELD_BOOSTER_DM_DESC: "Supercharging Shields grant the ship's shield generators increased potency at the cost of power consumption. It also provides hardening effect to the shield."
+ACOT_SHIELD_BOOSTER_AURA_DM: "Delta Shield Swarm"
+ACOT_SHIELD_BOOSTER_AURA_DM_DESC: "Specialized variant of the Supercharged Shield Auxiliary Unit that sacrifices local strength for a more wide-spread effect."
+friendly_acot_shield_booster_aura: "Delta Shield Swarm"
+tech_darkmatter_shield_supercharger_dm: "Supercharged Shields"
+tech_darkmatter_shield_supercharger_dm_desc: "Supercharging barriers grant the ship's shield generators increased potency at the cost of power consumption. It also provides hardening effect to the shield."
+TECH_UNLOCK_ACOT_SHIELD_BOOSTER_DM_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_SHIELD_BOOSTER_DM$"
+TECH_UNLOCK_ACOT_SHIELD_BOOSTER_DM_DESC: "$ACOT_SHIELD_BOOSTER_DM_DESC$"
+ 
+ACOT_ARMOR_BOOSTER_DM: "Delta Enhanced Kinetic Barriers"
+ACOT_ARMOR_BOOSTER_DM_DESC: "Enhanced Kinetic Barriers improve ship's armor and its kinetic absortion ability as well as providing hardening effects."
+ACOT_ARMOR_BOOSTER_AURA_DM: "Delta Kinetic Barrier Swarm"
+ACOT_ARMOR_BOOSTER_AURA_DM_DESC: "Specialized variant of the Kinetic Barrier Auxiliary Unit that sacrifices local strength for a more wide-spread effect."
+friendly_acot_armor_booster_aura: "Delta Kinetic Barrier Swarm"
+tech_darkmatter_armor_supercharger_dm: "Delta Enhanced Kinetic Barriers"
+tech_darkmatter_armor_supercharger_dm_desc: "Enhanced Kinetic Barriers improve ship's armor and its kinetic absortion ability as well as providing hardening effects."
+TECH_UNLOCK_ACOT_ARMOR_BOOSTER_DM_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_ARMOR_BOOSTER_DM$"
+TECH_UNLOCK_ACOT_ARMOR_BOOSTER_DM_DESC: "$ACOT_ARMOR_BOOSTER_DM_DESC$"
+  
+ACOT_STARCHARTER_DM: "Delta Star Charter"
+ACOT_STARCHARTER_DM_DESC: "A special auxiliary chamber containing multiple sensor units that expands the ship's sensors both for system navigation and weapons tracking."
+ACOT_STARCHARTER_AURA_DM: "Delta Sentry Network"
+ACOT_STARCHARTER_AURA_DM_DESC: "An alternative variant of the Star Charter module that amplifies fleet's tracking as a whole."
+friendly_acot_charter_booster_aura: "Delta Sentry Network"
+tech_darkmatter_star_charter_dm: "Star Charter Module"
+tech_darkmatter_star_charter_dm_desc: "A special auxiliary chamber containing multiple sensor units that expands the ship's sensors both for system navigation and weapons tracking. This module effectively replaces the now outdated Fire Control System."
+ 
+##############################
+
+ACOT_WEAPON_EXPLOSIVE_CORE_DM: "High-Explosive Missile Payloads"
+ACOT_WEAPON_EXPLOSIVE_CORE_DM_DESC: "All standard-issued missile weapon systems can be enhanced with a dedicated auxiliary system to further improve their firepower."
+tech_missile_core_dm: "Dark Combustions"
+tech_missile_core_dm_desc: "The method that is used to extract Dark Energy through Dark Matter is discovered to be reversible, with a rather explosive results. When operated in safe environments, this is hardly an issue. But with this intriguing reaction in mind, it may yet be possible to develop a new kind of explosive ordinances. In the contained state, the ordiances will also benefit from increased dimensional space, suitable for making more durable and faster missiles."
+ 
+ACOT_WEAPON_KINETIC_CORE_DM: "Hard-light Kinetic Payload"
+ACOT_WEAPON_KINETIC_CORE_DM_DESC: "A complicated micro-factory that quickly generates hard-light munitions that are both stronger and faster."
+tech_kinetic_core_dm: "Hard-Light Munitions"
+tech_kinetic_core_dm_desc: "Hard-Light Materials are quite durable and deceptively fast to produce for the purpose of creating simple projectiles. Perhaps they can be used as kinetic shells for our artillery, if we're willing to invest additional power required to operate them."
+ 
+ACOT_WEAPON_ENERGY_CORE_DM: "Energy Counter Distortion Manifold"
+ACOT_WEAPON_ENERGY_CORE_DM_DESC: "This micro-sphere houses powerful enigmatic energy that directly improves the ship's energy weapon systems by bending space-time and defying various laws of physics."
+tech_energy_core_dm: "Dark Energy Superconductors"
+tech_energy_core_dm_desc: "Application of dark energy as a catalyst to support development of new energy weapons will see many changes and improvements to existing designs that surpasses old expectations."
+ 
+ACOT_WEAPON_FIGHTER_CORE_DM: "High-Performance Hangar Support"
+ACOT_WEAPON_FIGHTER_CORE_DM_DESC: "Upgrading conventional Hangar with a dedicated High-Performance Maintenance Auxiliary will greatly improve the Carrier's ability to manage and maintain its strikecrafts in battle."
+tech_fighter_core_dm: "High-Technology Strikecraft Upgrades"
+tech_fighter_core_dm_desc: "With the advanced technology and virtual control interface, we can finally finish what we failed to do earlier, the complete transition of manual control of strikecrafts into virtual ones, which will greatly reduces the threats of losing pilots in dogfights. In addition, the new powerful hangar launch system will massively increase strikecraft's deployment speed as well as reducing the time it takes to rebuild them."
+
+##############################
+
+ACOT_CLOAKING_LIGHT_DM_TOOLTIP: "§ELight Stealth Generator has no shield penalty while engaged but offers limited cloaking capability.§!\n\n"
+ACOT_CLOAKING_HEAVY_DM_TOOLTIP: "$CLOAKING_SHIELD_REDUCTION_HEADER$ §R100%§!\n\n§E$SHIP_SHIELD_REDUCTION_CLOAKING$ can be reduced by half if any shield amplifer auxiliary components of at least Delta Tier are equipped.§!\n\n"
+ACOT_CLOAKING_DIMENSIONAL_TOOLTIP: "§EDimensional Phase Generator phases the ship outside of physical space, completely removing their presence from almost any type of detection. But while phasing, the ship enters an intangible state where mundane armor has no effect and their hull more fragile. This state will persist for 90 days after disengaging phase cloaking.§!\n\nArmor Nullification from cloaking: §R100%§!\nHull Reduction from cloaking: §R50%§!\nSublight Speed Reduction from cloaking: §R50%§!\n\n§EArmor Nullification from cloaking only takes effect if the ship are equipped with any mundane armor components (Tier 1-5).§!\n§EHull Reduction from cloaking can be removed if any hull amplifier auxiliary components of at least Delta Tier are equipped.§!\n\n§RAll negative malus effects will persist for 90 days after decloaking with half of its values!§!"
+
+tech_darkmatter_stealth_generator_dm: "Enigmatic Stealth Generator"
+tech_darkmatter_stealth_generator_dm_desc: "Apparently, schematics for cloaking technology using Dark Energy seems to operate quite differently from our previous apllications. The design uses the term "Stealth Generator" instead, and works by replacing the entirety of the ship's energy signature with the generator's own. There're both pros and cons to this, the new design allows even the largest ship to be cloaked with relative ease, but it also means that smaller ships will not benefit from their lower energy signatures; every ship will effectively have the same cloaking strength."
+
+ACOT_CLOAKING_LIGHT_DM: "Delta Stealth Generator"
+ACOT_CLOAKING_LIGHT_DM_DESC: "Delta Stealth Generator"
+ACOT_CLOAKING_FULL_DM: "Delta Super Stealth Generator"
+ACOT_CLOAKING_FULL_DM_DESC: "Delta Super Stealth Generator"
+ACOT_CLOAKING_DIMENSIONAL: "Dimensional Phase Generator"
+ACOT_CLOAKING_DIMENSIONAL_DESC: "Dimensional Phase Generator"
+ 
+tech_acot_pleb_ships_delta: "Hard-Light Vessels"
+tech_acot_pleb_ships_delta_desc: "Upgrading all of our standard fleets to utilize Hard-Light technologies will greatly improve their durabilities in battle."
+tech_acot_pleb_ships_delta_short: "Unlocks new ship sections with superior, albeit more expensive customization."
+ 
+tech_acot_pleb_ships_alpha: "Reinforced Hard-Light Vessels"
+tech_acot_pleb_ships_alpha_desc: "Although we cannot as of this moment, make any major improvements to the military ships we have, the greater understanding of enigmatic technologies should allow us to refine and reinforce hard-light materials to make them more durable without increasing their sizes, weights and costs."
+
+tech_acot_pleb_ships_phi: "Phanon Rudimentary Ship Adaptation"
+tech_acot_pleb_ships_phi_desc: "Despite our many attempts to understand the complexities and nature of the Phanon's advanced war machines, we are only able to grasp rudimentary understanding of how their ships operate. Nevertheless, what we gain is highly valuable, as the knowledge should enable us to make significant changes to our military ship designs."
+tech_acot_pleb_ships_phi_short: "Unlocks new ship sections with higher defenses. These new sections cost extra alloys."
+
+tech_acot_pleb_ships_runic: "Runic Hard-Light Vessels"
+tech_acot_pleb_ships_runic_desc: "Though we have unfortunately failed in our attempts to fully adapt the Phanon's ships into our base military designs, we manage to learn that the materials used to build the Corps's formidable ships are partially based off hard-light technology as well. With some modifications, we can use that knowledge to improve the durability of our military ships slightly without further increasing their costs."
+
+tech_acot_pleb_ships_sigma: "Stellarforged Hard Light Vessels"
+tech_acot_pleb_ships_sigma_desc: "The advent of Stellarite Energy allows us to drastically reduce the amount of power required to charge up and solidify the Hard-light materials, making the process of creating more durable and dense hulls much more efficient."
+ 
+tech_bombardment_dm: "Apocalyptic Bombardment"
+tech_bombardment_dm_desc: "New bombardment campaigns and theories can be studied now that we have access to advanced dark energy arsenals."
+ 
+TECH_UNLOCK_DM_BOMBARD_TITLE: "§EUnlocks Bombardment Stance:§! Apocalyptic"
+TECH_UNLOCK_DM_BOMBARD_DESC: "§EPApocalyptic:§! Order your ships to unleash a world-ending bombardment to level the ground for future conquest.\n- §RDeadly§! damage to §YArmies§!\n- §RDeadly§! damage to §YTiles§!\n- §RDeadly§! damage to §YPops§!\n- Will bombard undefended planets until it's wiped clean.\n- §RMay cause permanent damage to the planet.§!"
+ 
+#######################
+
+ACOT_DELTA_CORVETTE_MID_S4: "Delta Picket Corvette"
+ACOT_DELTA_CORVETTE_MID_M1S2: "Delta Versatile Corvette"
+ACOT_DELTA_CORVETTE_MID_M2: "Delta Gunship Corvette"
+
+#######################
+
+ACOT_DETA_FRIGATE_MID_G2: "Delta Heavy Torpedo Frigate"
+ACOT_DETA_FRIGATE_MID_G1M1: "Delta Battle Frigate"
+ACOT_DETA_FRIGATE_MID_G1S2: "Delta Support Frigate"
+
+#######################
+
+ACOT_DELTA_DESTROYER_BOW_S6: "Delta Picket Bow"
+ACOT_DELTA_DESTROYER_BOW_L2: "Delta Artillery Bow "
+ACOT_DELTA_DESTROYER_BOW_H1M2: "Delta Hangar Bow"
+ACOT_DELTA_DESTROYER_BOW_M3: "Delta Gunship Bow"
+ACOT_DELTA_DESTROYER_BOW_G3: "Delta Heavy Torpedo Bow"
+ACOT_DELTA_DESTROYER_STERN_S4: "Delta Picket Stern"
+ACOT_DELTA_DESTROYER_STERN_M2: "Delta Gunship Stern"
+ACOT_DELTA_DESTROYER_STERN_G2: "Delta Torpedo Stern"
+ 
+#######################
+
+ACOT_DELTA_CRUISER_BOW_L1M1: "Delta Cruiser Artillery Bow"
+ACOT_DELTA_CRUISER_BOW_M1S4: "Delta Cruiser Picket Bow"
+ACOT_DELTA_CRUISER_BOW_M3: "Delta Cruiser Gunship Bow"
+ACOT_DELTA_CRUISER_BOW_G3: "Delta Cruiser Torpedo Bow"
+ACOT_DELTA_CRUISER_MID_H2: "Delta Cruiser Hangar Core"
+ACOT_DELTA_CRUISER_MID_L2: "Delta Cruiser Artillery Core"
+ACOT_DELTA_CRUISER_MID_M4: "Delta Cruiser Gunship Core"
+ACOT_DELTA_CRUISER_MID_G4: "Delta Cruiser Torpedo Core"
+ACOT_DELTA_CRUISER_MID_M2S4: "Delta Cruiser Picket Core"
+ACOT_DELTA_CRUISER_STERN_L1: "Delta Cruiser Artillery Stern"
+ACOT_DELTA_CRUISER_STERN_M2: "Delta Cruiser Gunship Stern"
+ACOT_DELTA_CRUISER_STERN_G2: "Delta Cruiser Torpedo Stern"
+ACOT_DELTA_CRUISER_STERN_S4: "Delta Cruiser Picket Stern"
+ 
+#######################
+
+ACOT_DELTA_BATTLESHIP_BOW_L1M2S4: "Delta Battleship Assault Bow"
+ACOT_DELTA_BATTLESHIP_BOW_L1G2S4: "Delta Battleship Torpedo Bow"
+ACOT_DELTA_BATTLESHIP_BOW_L3: "Delta Battleship Artillery Bow"
+ACOT_DELTA_BATTLESHIP_BOW_M1S2H2: "Delta Battleship Hangar Bow"
+ACOT_DELTA_BATTLESHIP_BOW_X1H1: "Delta Battleship Spinal Bow"
+ACOT_DELTA_BATTLESHIP_MID_L2M4: "Delta Battleship Assault Core"
+ACOT_DELTA_BATTLESHIP_MID_L2G4: "Delta Battleship Torpedo Core"
+ACOT_DELTA_BATTLESHIP_MID_L4: "Delta Battleship Artillery Core"
+ACOT_DELTA_BATTLESHIP_MID_M4H2: "Delta Battleship Hangar Core"
+ACOT_DELTA_BATTLESHIP_MID_S4H3: "Delta Battleship Carrier Core"
+ACOT_DELTA_BATTLESHIP_STERN_L2: "Delta Battleship Artillery Stern"
+ACOT_DELTA_BATTLESHIP_STERN_M4: "Delta Battleship Assault Stern" 
+ACOT_DELTA_BATTLESHIP_STERN_G4: "Delta Battleship Torpedo Stern"
+ACOT_DELTA_BATTLESHIP_STERN_S4H1: "Delta Battleship Hangar Stern"
+ 
+#######################
+
+ACOT_DELTA_TITAN_BOW_T1: "Delta Titan Spinal Bow"
+ACOT_DELTA_TITAN_BOW_H4: "Delta Titan Carrier Bow"
+ACOT_DELTA_TITAN_BOW_XL2: "Delta Titan Twin Coil Bow"
+ACOT_DELTA_TITAN_MID_XL2L4: "Delta Titan Artillery Core"
+ACOT_DELTA_TITAN_MID_XL2H4: "Delta Titan Hangar Core"
+ACOT_DELTA_TITAN_MID_M4H6: "Delta Titan Carrier Core"
+ACOT_DELTA_TITAN_MID_XL4: "Delta Titan Siege Core"
+ACOT_DELTA_TITAN_STERN_L4: "Delta Titan Artillery Stern"
+ACOT_DELTA_TITAN_STERN_XL1H2: "Delta Titan Hangar Stern"
+ACOT_DELTA_TITAN_STERN_M2H3: "Delta Titan Carrier Stern"
+ACOT_DELTA_TITAN_STERN_XL2: "Delta Titan Siege Stern"
+ 
+#######################
+
+ACOT_DELTA_SHIP_COLOSSUS_SECTION: "Colossus Delta"
+
+#######################
+
+ACOT_DELTA_CORE_JUGGERNAUT_SECTION: "Delta Standard Juggernaut"
+ACOT_DELTA_CORE_JUGGERNAUT_L_SECTION: "Delta Battle Juggernaut"
+ACOT_DELTA_CORE_JUGGERNAUT_XL_SECTION: "Delta Siege Juggernaut"
+
+#######################
+
+ACOT_DELTA_PLATFORM_8S: "Delta Picket Section"
+ACOT_DELTA_PLATFORM_4M: "Delta Kumayaki Section"
+ACOT_DELTA_PLATFORM_4G: "Delta Torpedo Section"
+ACOT_DELTA_PLATFORM_2L: "Delta Artillery Section"
+ACOT_DELTA_PLATFORM_2H: "Delta Hangar Section"
+ACOT_DELTA_PLATFORM_1XL: "Delta Siege Defender Section"
+
+#######################
+
+ACOT_DELTA_ION_CANNON_2T: "Delta Twin Arch-Spinal Cannon"
+ACOT_DELTA_ION_CANNON_4XL: "Delta Quad Spinal Cannon"
+ACOT_DELTA_ION_CANNON_1T2XL: "Delta Dynamic Cannon"
+ACOT_DELTA_ION_CANNON_8H: "Delta Duper Hangar Railway"

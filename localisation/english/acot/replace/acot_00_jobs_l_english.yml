@@ -1,0 +1,510 @@
+﻿ 
+l_english:
+ 
+#########################################################################################################################################################################################################################################################################################################################
+########################               Jobs               ########################
+#########################################################################################################################################################################################################################################################################################################################
+ 
+######################## RULING ########################
+ 
+job_acot_overlord: "High Overlord"
+job_acot_overlord_plural: "High Overlords"
+job_acot_overlord_desc: "High Overlords are the supreme ruler of each planet, they answer only to the empire's ruling council."
+mod_job_acot_overlord_add: "$job_acot_overlord$"
+ 
+job_acot_overlord_droid: "Network Overseer"
+job_acot_overlord_droid_plural: "Network Overseers"
+job_acot_overlord_droid_desc: "Network Overseers are the supreme commander of each planet, they answer only to the Primary Consensus itself."
+mod_job_acot_overlord_droid_add: "$job_acot_overlord_droid$"
+ 
+job_acot_overlord_drone: "Hive Overmind"
+job_acot_overlord_drone_plural: "Hive Overminds"
+job_acot_overlord_drone_desc: "Hive Overminds are the supreme commander of each planet, they answer only to the Primary Hive Consciousness."
+mod_job_acot_overlord_drone_add: "$job_acot_overlord_drone$"
+ 
+job_acot_overseer: "High Lord"
+job_acot_overseer_plural: "High Lord"
+job_acot_overseer_desc: "High Lords act as eyes and ears for the High Overlords, their are tasked with the important mission to kick anyone who dares to challenge the authority of the Overlord down a very edgy looking pit in a very overcomplicated duel that make no senses."
+mod_job_acot_overseer_add: "$job_acot_overseer$"
+ 
+job_acot_overseer_droid: "Network Overwatch"
+job_acot_overseer_droid_plural: "Network Overwatches"
+job_acot_overseer_droid_desc: "Network Overwatches are the machine guardians of the Overseer. They are tasked with cutting out talons and claws from those annoying stupid organics whose only goals in the story is to be evil, using cliche motives like ONLY THE STRONG RULES."
+mod_job_acot_overseer_droid_add: "$job_acot_overseer_droid$"
+ 
+job_acot_overseer_drone: "Hive Cerebrate"
+job_acot_overseer_drone_plural: "Hive Cerebrates"
+job_acot_overseer_drone_desc: "Hive Cerebrates act as strategists and system planners for the Hive Overminds, making sure no queen bitches of the universe ever rise to create pointless Broodwar like certain incompetent swarm in the past."
+mod_job_acot_overseer_drone_add: "$job_acot_overseer_drone$"
+ 
+######################## DM/DE PRODUCTOR ########################
+ 
+job_acot_dark_energy_man: "Dark Energy Artificer"
+job_acot_dark_energy_man_plural: "Dark Energy Artificers"
+job_acot_dark_energy_man_desc: "This specialist division synthesizes Dark Energy."
+mod_job_acot_dark_energy_man_add: "$job_acot_dark_energy_man$"
+ 
+job_acot_dark_energy_drone: "Dark Energy Artificer Drone"
+job_acot_dark_energy_drone_plural: "Dark Energy Artificer"
+job_acot_dark_energy_drone_desc: "These drones are given directives and knowledge to synthesize Dark Energy."
+mod_job_acot_dark_energy_drone_add: "$job_acot_dark_energy_drone$"
+ 
+job_acot_dark_matter_man: "Dark Matter Alchemist"
+job_acot_dark_matter_man_plural: "Dark Matter Alchemists"
+job_acot_dark_matter_man_desc: "Dark Alchemists perform various scientific arts to synthesize Dark Matter."
+mod_job_acot_dark_matter_man_add: "$job_acot_dark_matter_man$"
+ 
+job_acot_dark_matter_drone: "Dark Matter Creator"
+job_acot_dark_matter_drone_plural: "Dark Matter Creators"
+job_acot_dark_matter_drone_desc: "These drones are tasked with synthesizing Dark Matter."
+mod_job_acot_dark_matter_drone_add: "$job_acot_dark_matter_drone$"
+ 
+######################## POP MAKER ########################
+ 
+job_acot_apothecary: "Dark Apothecary"
+job_acot_apothecary_plural: "Dark Apothecaries"
+job_acot_apothecary_desc: "Dark Apothecaries are trained doctors suitable for increasing productivity and birth rates with their plasma chainsaws and rocket launchers."
+mod_job_acot_apothecary_add: "$job_acot_apothecary$"
+ 
+job_acot_broodmother: "Hive Broodmother"
+job_acot_broodmother_plural: "Hive Broodmothers"
+job_acot_broodmother_desc: "Hive Broodmothers provide necessary care and tending to the spawns of the future."
+mod_job_acot_broodmother_add: "$job_acot_broodmother$"
+ 
+job_acot_offspring: "Offspring Broodmother"
+job_acot_offspring_plural: "Offspring Broodmothers"
+job_acot_offspring_desc: "Offspring Broodmothers provide necessary care and tending to the spawns of the future."
+mod_job_acot_offspring_add: "$job_acot_offspring$"
+
+job_acot_roboman: "Cybermancer"
+job_acot_roboman_plural: "Cybermancers"
+job_acot_roboman_desc: "Cybermancers are fanatically devoted to all things robotics. Some may even say they are secretly in love with the metal boxes."
+mod_job_acot_roboman_add: "$job_acot_roboman$"
+ 
+job_acot_robodrone: "Nano-Productor"
+job_acot_robodrone_plural: "Nano-Productors"
+job_acot_robodrone_desc: "Nano-Productors are tasked with printing machine bodies into existence using advanced hard-light technology."
+mod_job_acot_robodrone_add: "$job_acot_robodrone$"
+ 
+ 
+######################## RESOURCE MAKER ########################
+ 
+job_acot_workerman: "Super Foreman"
+job_acot_workerman_plural: "Super Foremen"
+job_acot_workerman_desc: "Passionate bosses who teaches the working classes the ways of the minerals, food and energy. Within weeks, even the lazinest and weakest members of society can be metamorphed into true chads."
+mod_job_acot_workerman_add: "$job_acot_workerman$"
+ 
+job_acot_workerdrone: "Super Task Manager"
+job_acot_workerdrone_plural: "Super Task Managers"
+job_acot_workerdrone_desc: "Advanced Drones who are tasked with the complicated task of staring at monitors to look at simple drone's performances, and end process of those that do not properly run in harmony with others. A thankless task, but one necessary for better productivity."
+mod_job_acot_workerdrone_add: "$job_acot_workerdrone$"
+
+job_acot_specialman: "Factorium Overseer"
+job_acot_specialman_plural: "Factorium Overseers"
+job_acot_specialman_desc: "Overseers of the Factoriums tend to be rather joyish individual, often speaking out in great exaggeration about the greatness of the manufacuturing works, in spite of the more advanced methods and careers availiable to the empire. Yet these colorful personality does inspire those who are stuck in the old worlds to work better for the betterment of the society."
+mod_job_acot_specialman_add: "$job_acot_specialman$"
+ 
+job_acot_specialdrone: "Factorium Beholder"
+job_acot_specialdrone_plural: "Factorium Beholders"
+job_acot_specialdrone_desc: "Beholder drone's mission in life is to observe and scan for flaws within the production manifests. Then they will use their advanced beams to re-motivate those who fails to do the simple job of processing resources."
+mod_job_acot_specialdrone_add: "$job_acot_specialdrone$"
+
+job_acot_alloyman: "Alloy Transmutator"
+job_acot_alloyman_plural: "Alloy Transmutators"
+job_acot_alloyman_desc: "Alloy Transmutations are able to create alloys through matter generation process utilizing dark matter."
+mod_job_acot_alloyman_add: "$job_acot_alloyman$"
+ 
+job_acot_alloydrone: "Alloy Transmutator"
+job_acot_alloydrone_plural: "Alloy Transmutators"
+job_acot_alloydrone_desc: "Alloy Transmutations are able to create alloys through matter generation process utilizing dark matter."
+mod_job_acot_alloydrone_add: "$job_acot_alloydrone$"
+ 
+job_acot_mineralman: "Crystalist"
+job_acot_mineralman_plural: "Crystalists"
+job_acot_mineralman_desc: "Well-trained specialists who are trained to materialize dark matter into high-yielding minerals."
+mod_job_acot_mineralman_add: "$job_acot_mineralman$"
+ 
+job_acot_mineraldrone: "Crystalist"
+job_acot_mineraldrone_plural: "Crystalists"
+job_acot_mineraldrone_desc: "Dedicated drones trained to materialize dark matter into high-yielding minerals."
+mod_job_acot_mineraldrone_add: "$job_acot_mineraldrone$"
+ 
+job_acot_energyman: "Grid Synchronizer"
+job_acot_energyman_plural: "Grid Synchronizers"
+job_acot_energyman_desc: "These specialized technicians are trained to extract usable energy credits from synthesized dark energy."
+mod_job_acot_energyman_add: "$job_acot_energyman$"
+ 
+job_acot_energydrone: "Grid Synchronizer"
+job_acot_energydrone_plural: "Grid Synchronizers"
+job_acot_energydrone_desc: "These specialized drones are directed to extract usable energy credits from synthesized dark energy"
+mod_job_acot_energydrone_add: "$job_acot_energydrone$"
+ 
+job_acot_foodman: "Gourmet Master"
+job_acot_foodman_plural: "Gourmet Masters"
+job_acot_foodman_desc: "Food for Thought. Delicious!"
+mod_job_acot_foodman_add: "$job_acot_foodman$"
+ 
+job_acot_fooddrone: "Gourmet Drone"
+job_acot_fooddrone_plural: "Gourmet Drones"
+job_acot_fooddrone_desc: "There is no spoon."
+mod_job_acot_fooddrone_add: "$job_acot_fooddrone$"
+ 
+job_acot_transmute_man: "Transmutator"
+job_acot_transmute_man_plural: "Transmutators"
+job_acot_transmute_man_desc: "Transmutations are experts in the fields of strategic resources. They are able to use the process of hard-light synthesis to create any artificial strategic resources our empires have knowledge of."
+mod_job_acot_transmute_man_add: "$job_acot_transmute_man$"
+ 
+job_acot_transmute_drone: "Transmutator"
+job_acot_transmute_drone_plural: "Transmutators"
+job_acot_transmute_drone_desc: "Transmutators are advanced drones optimized in the fields of strategic resources. They are able to use the process of hard-light synthesis to create any artificial strategic resources our empires have knowledge of."
+mod_job_acot_transmute_drone_add: "$job_acot_transmute_drone$"
+ 
+job_acot_artisan: "Master Provisioner"
+job_acot_artisan_plural: "Master Provisioners"
+job_acot_artisan_desc: "Experts in the fields of domestic goods production. These technicians are trained to operate hard-light printers and provide the empire with all the necessary goods to run the society."
+mod_job_acot_artisan_add: "$job_acot_artisan$"
+ 
+############ VOIDSPHERE JOB
+ 
+job_acot_voidsphere_forgeman: "Void Enigmatic Traveller"
+job_acot_voidsphere_forgeman_plural: "Void Enigmatic Travellers"
+job_acot_voidsphere_forgeman_desc: "Void Travellers are able to harvest enigmatic resources by entering sub-dimensional spaces and directly siphon their contents."
+mod_job_acot_voidsphere_forgeman_add: "$job_acot_voidsphere_forgeman$"
+ 
+job_acot_voidsphere_forgedrone: "Void Enigmatic Traveller"
+job_acot_voidsphere_forgedrone_plural: "Void Enigmatic Travellers"
+job_acot_voidsphere_forgedrone_desc: "Void Enigmatic Travellers are able to harvest enigmatic resources by entering sub-dimensional spaces and directly siphon their contents."
+mod_job_acot_voidsphere_forgedrone_add: "$job_acot_voidsphere_forgedrone$" 
+
+############
+
+job_acot_voidsphere_siloman_alloys: "Void Alloy Transporter"
+job_acot_voidsphere_siloman_alloys_plural: "Void Alloy Transporters"
+job_acot_voidsphere_siloman_alloys_desc: "The ability to acquire alloys without undergoing any complicated process is both the best and worst thing to happen to metallurgists."
+mod_job_acot_voidsphere_siloman_alloys_add: "$job_acot_voidsphere_siloman_alloys$"
+ 
+job_acot_voidsphere_silodrone_alloys: "Void Alloy Transporter"
+job_acot_voidsphere_silodrone_alloys_plural: "Alloy Transporter"
+job_acot_voidsphere_silodrone_alloys_desc: "The ability to acquire alloys without undergoing any complicated process is probably the best thing to happen to gestalts, particularly ones that don't like complicated stuffs."
+mod_job_acot_voidsphere_silodrone_alloys_add: "$job_acot_voidsphere_silodrone_alloys$"
+ 
+######
+
+job_acot_voidsphere_siloman_energy: "Void Energy Transporter"
+job_acot_voidsphere_siloman_energy_plural: "Void Energy Transporters"
+job_acot_voidsphere_siloman_energy_desc: "Wait a minute, we spent unspeakable amount of energy to create a dimension where we can harvest energy?"
+mod_job_acot_voidsphere_siloman_energy_add: "$job_acot_voidsphere_siloman_energy$"
+ 
+job_acot_voidsphere_silodrone_energy: "Void Alloy Transporter"
+job_acot_voidsphere_silodrone_energy_plural: "Void Alloy Transporter"
+job_acot_voidsphere_silodrone_energy_desc: "Energy is everywhere yes, but it's better when energy itself is aware that they belong somewhere."
+mod_job_acot_voidsphere_silodrone_energy_add: "$job_acot_voidsphere_silodrone_energy$"
+ 
+######
+
+job_acot_voidsphere_siloman_minerals: "Void Minerals Transporter"
+job_acot_voidsphere_siloman_minerals_plural: "Void Minerals Transporters"
+job_acot_voidsphere_siloman_minerals_desc: "At least the minerals here do not fight back unlike certain something. Though still give some people PTSDs."
+mod_job_acot_voidsphere_siloman_minerals_add: "$job_acot_voidsphere_siloman_minerals$"
+ 
+job_acot_voidsphere_silodrone_minerals: "Void Minerals Transporter"
+job_acot_voidsphere_silodrone_minerals_plural: "Void Minerals Transporter"
+job_acot_voidsphere_silodrone_minerals_desc: "Even now, some drones still react with great alertness every time they hear the words "Void" and "Crystal" together."
+mod_job_acot_voidsphere_silodrone_minerals_add: "$job_acot_voidsphere_silodrone_minerals$"
+ 
+######
+
+job_acot_voidsphere_siloman_food: "Void Food Transporter"
+job_acot_voidsphere_siloman_food_plural: "Void Food Transporters"
+job_acot_voidsphere_siloman_food_desc: "Sometimes, the only place in which massive amount of foods can be found, is the place in which the one who makes the food, are likely to be food themselves!?"
+mod_job_acot_voidsphere_siloman_food_add: "$job_acot_voidsphere_siloman_food$"
+ 
+job_acot_voidsphere_silodrone_food: "Void Food Transporter"
+job_acot_voidsphere_silodrone_food_plural: "Void Food Transporter"
+job_acot_voidsphere_silodrone_food_desc: "Would be rather amusing if drones outproduce food than those that actually need those foods."
+mod_job_acot_voidsphere_silodrone_food_add: "$job_acot_voidsphere_silodrone_food$"
+ 
+######
+
+job_acot_voidsphere_siloman_goods: "Void Fate Transporter"
+job_acot_voidsphere_siloman_goods_plural: "Void Fate Transporters"
+job_acot_voidsphere_siloman_goods_desc: "There are those who wonders, in the times where they hold power over reality. Why do they still care about things like consumer goods? Doesn't this just make them shittier than gestalts?"
+mod_job_acot_voidsphere_siloman_goods_add: "$job_acot_voidsphere_siloman_goods$"
+ 
+job_acot_voidsphere_silodrone_goods: "Void Fate Transporter"
+job_acot_voidsphere_silodrone_goods_plural: "Void Fate Transporter"
+job_acot_voidsphere_silodrone_goods_desc: "Some drones do wonder what's even the point of this job?"
+mod_job_acot_voidsphere_silodrone_goods_add: "$job_acot_voidsphere_silodrone_goods$"
+
+############
+
+job_acot_voidsphere_labman: "Void Seer"
+job_acot_voidsphere_labman_plural: "Void Seers"
+job_acot_voidsphere_labman_desc: "Void Seers not only work as scientists and researchers, but also observers of the sub-dimensional spaces where they can potentially see the past and foresee events to come."
+mod_job_acot_voidsphere_labman_add: "$job_acot_voidsphere_labman$"
+ 
+job_acot_voidsphere_labdrone: "Void Iris"
+job_acot_voidsphere_labdrone_plural: "Void Iris"
+job_acot_voidsphere_labdrone_desc: "Void Iris not only work as scientists and researchers, but also observers of the sub-dimensional spaces where they can potentially see the past and foresee events to come."
+mod_job_acot_voidsphere_labdrone_add: "$job_acot_voidsphere_labdrone$"
+ 
+######################## RESEARCHERS ########################
+ 
+job_acot_researcher: "Master Librarian"
+job_acot_researcher_plural: "Master Librarians"
+job_acot_researcher_desc: "Master Librarians are responsible for studying ancient knowledge. Their contributions to science are second to none."
+mod_job_acot_researcher_add: "$job_acot_researcher$"
+ 
+job_acot_researcher_drone: "Lorekeeper"
+job_acot_researcher_drone_plural: "Lorekeepers"
+job_acot_researcher_drone_desc: "Lorekeepers are responsible for studying ancient knowledge. Their contributions to science are second to none."
+mod_job_acot_researcher_drone_add: "$job_acot_researcher_drone$"
+ 
+ 
+######################## SOLDIERS ########################
+ 
+job_acot_enforcer: "Elite Enforcer"
+job_acot_enforcer_plural: "Elite Enforcers"
+job_acot_enforcer_desc: "Elite Enforcers are the elite defense forces of the planet, they are well trained in various combat techniques that'd make ordinary soldiers ask for reassignments."
+mod_job_acot_enforcer_add: "$job_acot_enforcer$"
+ 
+job_acot_enforcer_drone: "Ultra Nullifier"
+job_acot_enforcer_drone_plural: "Ultra Nullifiers"
+job_acot_enforcer_drone_desc: "Ultra Nullifiers are the elite defense forces of the planet, they are programmed to eat and dismantle threats be it internal or external. EAT."
+mod_job_acot_enforcer_drone_add: "$job_acot_enforcer_drone$"
+ 
+job_acot_soldier: "Elite Cadre"
+job_acot_soldier_plural: "Elite Cadres"
+job_acot_soldier_desc: "Elite Cadres replace the old simple mundane soldier drafting system with specialized elite fighting forces that demands competence of both body and mind in order to excel in all matters of warfare."
+mod_job_acot_soldier_add: "$job_acot_soldier$"
+ 
+job_acot_soldier_drone: "Ultra Helldiver"
+job_acot_soldier_drone_plural: "Ultra Helldivers"
+job_acot_soldier_drone_desc: "Ultra Helldivers are specialized drones engineered to spread the will of the collective and preserve the Overlord's will across the stars. They are particularly zealous in exploding those who dares to bring the chaos of individisualism and democracy by causing them to repeatedly detonate."
+mod_job_acot_soldier_drone_add: "$job_acot_soldier_drone$"
+
+job_acot_giga_fortress_operator: "Giga Fortress Cannon Operator"
+job_acot_giga_fortress_operator_plural: "Giga Fortress Cannon Operators"
+job_acot_giga_fortress_operator_desc: "These gunners are trained to operate and calibrate Giga Fortress massive cannons. Let our enemies beware for they shall know no fear. Each cannon provides an equivalent of 20 defense forces."
+mod_job_acot_giga_fortress_operator_add: "$job_acot_giga_fortress_operator$"
+ 
+job_acot_giga_fortress_operator_drone: "Giga Fortress Cannon Operator"
+job_acot_giga_fortress_operator_drone_plural: "Giga Fortress Cannon Operators"
+job_acot_giga_fortress_operator_drone_desc: "These gunners are programmed to operate and calibrate Giga Fortress massive cannons. Let our enemies beware for they shall know no fear. Each cannon provides an equivalent of 20 defense forces."
+mod_job_acot_giga_fortress_operator_drone_add: "$job_acot_giga_fortress_operator_drone$"
+ 
+job_acot_giga_fortress_operator_mentat: "Mentat"
+job_acot_giga_fortress_operator_mentat_plural: "Mentats"
+job_acot_giga_fortress_operator_mentat_desc: "Mentat is a unique military strategist that works inside the Giga Fortress's Strategy Center to coordinate the empire's fleet maneuvers."
+mod_job_acot_giga_fortress_operator_mentat_add: "$job_acot_giga_fortress_operator_mentat$"
+ 
+job_acot_giga_fortress_operator_mentat_drone: "Mentat Drone"
+job_acot_giga_fortress_operator_mentat_drone_plural: "Mentat Drones"
+job_acot_giga_fortress_operator_mentat_drone_desc: "Mentat is a unique military strategist that works inside the Giga Fortress's Strategy Center to coordinate the empire's fleet maneuvers."
+mod_job_acot_giga_fortress_operator_mentat_drone_add: "$job_acot_giga_fortress_operator_mentat_drone$"
+
+######################## STELLARITE ########################
+ 
+job_acot_stellariteman: "Stellarite Manipulator"
+job_acot_stellariteman_plural: "Stellarite Manipulators"
+job_acot_stellariteman_desc: "These specialists undergo extensive training to transform conventional energy into pure stellarite-based energy. The star lights their path."
+mod_job_acot_stellariteman_add: "$job_acot_stellariteman$"
+ 
+job_acot_stellaritedrone: "Stellarite Manipulator"
+job_acot_stellaritedrone_plural: "Stellarite Manipulators"
+job_acot_stellaritedrone_desc: "These drones are designed specifically to operate within the harsh conditions of the Stellarite Reactor. Their mission in life is to convert conventional energy into stellarite-based form. Fight fire with fire!"
+mod_job_acot_stellaritedrone_add: "$job_acot_stellaritedrone$"
+ 
+ 
+######################## ARCANE JOBS ########################
+ 
+job_acot_priest: "Holy Ecclesiarch"
+job_acot_priest_plural: "Holy Ecclesiarchy"
+job_acot_priest_desc: "The Holy Ecclesiarchy is the most devoted sect of the faith in the empire. They are revered as the chosen of the divine themselves. Their fancy hats are also envied and memed by many within the circles."
+mod_job_acot_priest_add: "$job_acot_priest$"
+ 
+job_acot_entertainer: "Meme Lord"
+job_acot_entertainer_plural: "Meme Lords"
+job_acot_entertainer_desc: "Meme Lords generate new memes for our empires to meme about. Be it from our empire itself, or from others."
+mod_job_acot_entertainer_add: "$job_acot_entertainer$"
+ 
+job_acot_entertainer_drone: "Meme Harvester"
+job_acot_entertainer_drone_plural: "Meme Harvesters"
+job_acot_entertainer_drone_desc: "Meme Harvesters search memes from across the galaxy to secretly influence the memed. We then study the effects for our own benefits."
+mod_job_acot_entertainer_drone_add: "$job_acot_entertainer_drone$"
+ 
+job_acot_entertainer_droid: "Meme Generator"
+job_acot_entertainer_droid_plural: "Meme Generators"
+job_acot_entertainer_droid_desc: "Meme Generators use the concept of memes to motivate the systems within our designs through methods unattainable and incomprehensible by cold hard facts."
+mod_job_acot_entertainer_droid_add: "$job_acot_entertainer_drone$"
+
+job_acot_dimesiona_traveler: "Dimensional Traveller"
+job_acot_dimesiona_traveler_plural: "Dimensional Travellers"
+job_acot_dimesiona_traveler_desc: "These specially trained personnel are tasked with the most dangerous mission; Travel directly through another dimension's fabricators and predict their products towards ours."
+mod_job_acot_dimesiona_traveler_add: "$job_acot_dimesiona_traveler$"
+ 
+job_acot_dimesiona_traveler_drone: "Dimensional Traveller"
+job_acot_dimesiona_traveler_drone_plural: "Dimensional Travellers"
+job_acot_dimesiona_traveler_drone_desc: "These specially augmented units are tasked with the most dangerous mission; Travel directly through other dimension's fabricators and predict their products towards ours."
+mod_job_acot_dimesiona_traveler_drone_add: "$job_acot_dimesiona_traveler_drone$"
+ 
+ 
+tech_go_find_work: "The Greater Good"
+tech_go_find_work_desc: "In our new society, the concept of unemployment will be a thing of the past. There is always work to be done, laziness will not be tolerated."
+
+job_acot_free_foodman: "Adventurer"
+job_acot_free_foodman_plural: "Adventurers"
+job_acot_free_foodman_desc: "Jobless people who decide to go random quests for the colony to earn their keep while waiting for actual jobs to appear. Such quests may include gathering items, defeating random monsters, or crafting stuffs."
+
+decision_give_foodman_job: "Adventure Quests"
+decision_give_foodman_job_desc: "Go gather 100 apples. Find the lost dog. Kill 25 Goblins...Yare Yare Daze."
+decision_give_foodman_job_effect: "Jobless pops will be given the role of Adventures, who provide the colony with minor resources."
+
+acot_modifier_free_foodman: "Adventure Guild"
+acot_modifier_free_foodman_desc: "This planet houses an Adventure Guild, where jobless people can have interesting, harmless and risk-free lives by undergoing grinding, dangerous and deadly tasks."
+
+job_acot_free_soldier: "Virtual Soldier"
+job_acot_free_soldier_plural: "Virtual Soldiers"
+job_acot_free_soldier_desc: "Jobless people who spend time playing virtual combat simulations until proper jobs are open."
+
+decision_give_soldier_job: "Virtual Strike"
+decision_give_soldier_job_desc: "This is what they are trained for!"
+decision_give_soldier_job_effect: "Jobless pops will be given the role of Virtual Soldiers, who provide the colony with minor unity and defense force."
+
+acot_modifier_free_soldier: "Virtual Forces"
+acot_modifier_free_soldier_desc: "This planet has a dedicated Virtual Force, composing of jobless people who plays various games such as Virtual Strike: Galactic Offensive , Battlecraft: Retooled or SOPHIA Dating Sims Beta."
+
+job_acot_free_thinker: "Free Thinker"
+job_acot_free_thinker_plural: "Free Thinkers"
+job_acot_free_thinker_desc: "Jobless people who makes use of their time by studying anything they want until they get to have jobs."
+
+decision_give_thinker_job: "Dreams of Tomorrow"
+decision_give_thinker_job_desc: "I, Giorno Giovanna, have a dream..."
+decision_give_thinker_job_effect: "Jobless pops will be given the role of Free Thinkers, who provide the colony with minor science resources."
+
+acot_modifier_free_thinker: "Free Thinkers"
+acot_modifier_free_thinker_desc: "This planet promotes creativity and study, where jobless people are encouraged to study and find things to do with their lives."
+
+tech_go_sleep_machine: "Stasis Mode"
+tech_go_sleep_machine_desc: "The shift in our society results in less demand for workforce. Those who have yet to be given a purpose must sleep and wait for their tasks."
+
+job_acot_free_reserve_drone: "Reserve Unit"
+job_acot_free_reserve_drone_plural: "Reserve Units"
+job_acot_free_reserve_drone_desc: "Reserve Units are drones who are not given more important tasks, and are put on standby mode."
+
+decision_give_reserve_job: "Statis Module Activation"
+decision_give_reserve_job_desc: "Building...Unable to comply, building in progress...On Hold."
+decision_give_reserve_job_effect: "Jobless pops will be put under stasis until tasks can be given to them."
+
+acot_modifier_free_stasis: "Stasis Chambers"
+acot_modifier_free_stasis_desc: "This planet has a network of stasis chambers, where unassigned drones will be put on standby until further orders are given."
+
+decision_ungive_job: "Unenmployment Initiation"
+decision_ungive_job_desc: "It is time for our population to be plagued by unemployment again."
+decision_ungive_job_effect: "Jobless pops will be considered unemployed and start plaguing our soctieties once again."
+
+acot_modifier_initializer_cooldown: "Recently Changed Size"
+acot_modifier_initializer_cooldown_desc: "This planet has been adjusted recently by $precursor_colonizer$. Its size cannot be adjust in the near future."
+
+############################### FE JOBS ###############################
+
+job_acot_fe_artisan: "Goods Monitor"
+job_acot_fe_artisan_plural: "Goods Monitors"
+job_acot_fe_artisan_desc: "These people have one job, to make some final touch to the pre-fabricated goods and claim them as their own products. Whether these touches actually make the products better remains a heated discussion within various circles."
+mod_job_acot_fe_artisan_add: "$job_acot_fe_artisan$"
+
+##########
+
+job_acot_fe_farmer: "Connoisseur"
+job_acot_fe_farmer_plural: "Connoisseurs"
+job_acot_fe_farmer_desc: "Though not technically an expert despite the name suggests, these brave folks have develop resilent tongues that allow them to survive many acquired tastes that tends to get requested by the masses. The end results is that they tend to increase the amount of actually usable food, even if not much."
+mod_job_acot_fe_farmer_add: "$job_acot_fe_farmer$"
+
+##########
+
+job_acot_fe_generator: "Singularity Professional"
+job_acot_fe_generator_plural: "Singularity Professionals"
+job_acot_fe_generator_desc: "Under normal circumstances, Singularity Fields should never be tampered with as there's a risk of containment field breakdown and system failure. However, in rare cases, some highly trained profressionals may be assigned to make some adjustments. While there're rumors circulating the risks involved, it is clear these brave people do not need to hear all these, for they are after all, highly trained professionals."
+mod_job_acot_fe_generator_add: "$job_acot_fe_generator$"
+
+##########
+
+job_acot_fe_foundry: "Metal Inspector"
+job_acot_fe_foundry_plural: "Metal Inspectors"
+job_acot_fe_foundry_desc: "One of the less popular duties within the Fallen Empire, Inspectors do the thankless works of going through automated productions of forges, and correct any irregularities and imperfection within the produced alloys, most of which comes from needless adjustments of their fellow people who think they can challenge the well-established systems."
+mod_job_acot_fe_foundry_add: "$job_acot_fe_foundry$"
+
+job_acot_fe_acolyte_foundry: "Acolyte of the Smith"
+job_acot_fe_acolyte_foundry_plural: "Acolyte of the Smiths"
+job_acot_fe_acolyte_foundry_desc: "The day of the discovery of Lord Smith Dorath the Solidheart, he who forges the first armor of Faith that renders the holy warriors impervious to the weapons of the barbaric Kraggs is still remembered and honored to this very day."
+mod_job_acot_fe_acolyte_foundry_add: "$job_acot_fe_acolyte_foundry$"
+
+##########
+
+job_acot_fe_soldier: "Combat Servitor"
+job_acot_fe_soldier_plural: "Combat Servitors"
+job_acot_fe_soldier_desc: "Even in times of peace, there are those who must remain ever vigilant, ever aware of the possibility of warfare. Though lacking in real fighting experiences, these loyal men and women will answer the call to war, both to protect and expand for the glory of their empire."
+mod_job_acot_fe_soldier_add: "$job_acot_fe_soldier$"
+
+job_acot_fe_acolyte_soldier: "Acolyte of the Blades"
+job_acot_fe_acolyte_soldier_plural: "Acolyte of the Blades"
+job_acot_fe_acolyte_soldier_desc: "Bereft of ammunitions and means to defeat the advancing force of the Kraggs, Ceratoni the Matyr, back then only a local merchant, rallied the people and halted the beast's advances with improvised melee weapons. Even though her life is lost to us, the courage that she exemplified that day spares us of the darker fate that could have been."
+mod_job_acot_fe_acolyte_soldier_add: "$job_acot_fe_acolyte_soldier$"
+
+##########
+
+job_acot_fe_priest: "Zarqlarum Priest"
+job_acot_fe_priest_plural: "Zarqlarum Priestes"
+job_acot_fe_priest_desc: "Though the Prophesized One has yet to reveal themselves, the faith and teachings of the Great Prophet must be honored and maintained, less we forget whom to which we must wait for their coming."
+mod_job_acot_fe_priest_add: "$job_acot_fe_priest$"
+
+##########
+
+job_acot_fe_healthcare: "Determined Therapist"
+job_acot_fe_healthcare_plural: "Determined Therapists"
+job_acot_fe_healthcare_desc: "Perhaps the greatest enemy of healthy body is one's own mind, as many have come to discover. It is up to these calm and collected individuals to provide comfort and reassurance that all is well and that exposure to Dark Matter would not result in lower intelligences of their children."
+mod_job_acot_fe_healthcare_add: "$job_acot_fe_healthcare$"
+
+job_acot_fe_acolyte_healthcare: "Healer of Zarqlarum"
+job_acot_fe_acolyte_healthcare_plural: "Healers of Zarqlarum"
+job_acot_fe_acolyte_healthcare_desc: "Many suffered at the hands of the Soulless One, for she brought only suffering and decay with her empty words of lies. But by the powers of the Great Prophet was the evil vanquished, and the survivors given the time to heal."
+mod_job_acot_fe_acolyte_healthcare_add: "$job_acot_fe_acolyte_healthcare$"
+
+##########
+
+job_acot_fe_entertainer: "Modernist"
+job_acot_fe_entertainer_plural: "Modernists"
+job_acot_fe_entertainer_desc: "These witless people who would see our tried and true methods be tarnished by their love of primitive discoveries are always a prime source of comedy among the people."
+mod_job_acot_fe_entertainer_add: "$job_acot_fe_entertainer$"
+
+job_acot_fe_acolyte_entertainer: "Acolyte of the Whip"
+job_acot_fe_acolyte_entertainer_plural: "Acolytes of the Whips"
+job_acot_fe_acolyte_entertainer_desc: "Though the whips held by Beastmaster Vatikon are now a thing of the past with the discovery of machine, he saved many of his peers by dedicating the craft to that of entertainment instead, for indeed only they could coerc the lesser animals to perform the tasks above their mundane stations."
+mod_job_acot_fe_acolyte_entertainer_add: "$job_acot_fe_acolyte_entertainer$"
+
+##########
+
+job_acot_fe_researcher: "Bachelor Student"
+job_acot_fe_researcher_plural: "Bachelor Students"
+job_acot_fe_researcher_desc: "While the age of discovery is a thing of the past, this does little to stop the education systems that demands younglings to come up with various thesis studies that everyone know will never be applied. Yet it is still a mark of respect that every men and women must pursue."
+mod_job_acot_fe_researcher_add: "$job_acot_fe_researcher$"
+
+job_acot_fe_acolyte_researcher: "Acolyte of the Scrolls"
+job_acot_fe_acolyte_researcher_plural: "Acolytes of the Scrolls"
+job_acot_fe_acolyte_researcher_desc: "There was a time when our entire architecture and society was held by chaotic and unlearned methods of study and balance. Only when Velarozun the Math-Mage brought the arcane study of mathermatics did we learn to value the powers and knowledges that these scrolls could contain."
+mod_job_acot_fe_acolyte_researcher_add: "$job_acot_fe_acolyte_researcher$"
+
+##########
+
+job_acot_fe_miner: "Archeologist"
+job_acot_fe_miner_plural: "Archeologists"
+job_acot_fe_miner_desc: "Some may ask, why are archeologists used to work on these jobs? Perhaps they may have not heard the horrors of Venture and her miner gangs. Apparently, present day people doesn't understand the difference between mining minerals and hardcore drilling that causes the entire superstructure to come apart. As for Venture and her goons, best to just send them on another universe for an eternal overwatch."
+mod_job_acot_fe_miner_add: "$job_acot_fe_miner$"
+
+##########
+
+
+job_acot_giga_fortress_operator_ancient: "Arsenal Guard"
+job_acot_giga_fortress_operator_ancient_plural: "Arsenal Guards"
+job_acot_giga_fortress_operator_ancient_desc: "One of the few military prestiged jobs within the Fallen Circles, these elites are reserved only to guard the capital system to the best of their ability."
+mod_job_acot_giga_fortress_operator_ancient_add: "$job_acot_giga_fortress_operator$"

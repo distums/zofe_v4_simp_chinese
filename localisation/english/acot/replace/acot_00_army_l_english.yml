@@ -1,0 +1,1437 @@
+﻿
+l_english:
+ 
+MESSAGE_ACOT_ARMY_UPGRADE_TITLE: "Army Tier Upgrade"
+MESSAGE_ACOT_ARMY_UPGRADE_DESC: "Army Tier Upgrade"
+message_acot_army_tier_upgrade: "All eligible armies have been upgraded to the next tier."
+
+MESSAGE_ACOT_VEHICLE_PILOT_REPLACE_TITLE: "Vehicle Pilot All Geared Up"
+MESSAGE_ACOT_VEHICLE_PILOT_REPLACE_DESC: "Vehicle Pilot All Geared Up"
+message_acot_vehicle_pilot_replace: "All pilots on the planet have been geared up in their respective vehicles and ready for deployment."
+
+MESSAGE_ACOT_ARMY_MACHINE_REPAIR_TITLE: "Mechanical Armies Repaired"
+MESSAGE_ACOT_ARMY_MACHINE_REPAIR_DESC: "Mechanical Armies Repaired"
+message_acot_army_machine_repair: "All mechanical armies on the planet have been repaired."
+
+MESSAGE_ACOT_ARMY_COCOON_HATCH_TITLE: "Hive Cocoon Hatched"
+MESSAGE_ACOT_ARMY_COCOON_HATCH_DESC: "Hive Cocoon Hatched"
+message_acot_army_cocoon_hatch: "All hive cocoons on the planet have been hatched into new warriors."
+
+MESSAGE_ACOT_HERO_DEATH_TITLE: "Hero Slain"
+MESSAGE_ACOT_HERO_DEATH_DESC: "Hero Slain"
+message_acot_hero_death_psi: "Our Dark Psion has been killed in action! A terrible loss!" 
+message_acot_hero_death_gene: "Our Zenith Warrior has died! What terrible news!" 
+message_acot_hero_death_cyborg: "Our Cyborg Commando has been slain! What a disaster!" 
+message_acot_hero_death_synth: "Our Synth Spectre has been destroyed! Curses!" 
+message_acot_hero_death_hive: "The Terror has been silenced! The Hive writhes!" 
+message_acot_hero_death_machine: "The God-Machine is defeated! Inconceivable!" 
+message_acot_hero_death_default: "This is a black day! One of our heroes has fallen!" 
+
+MESSAGE_ACOT_PHANON_INJURED_DESC: "Phanon Operative Injured"
+message_acot_phanon_operative_injured: "The Phanon Operative Team has been defeated, but managed to retreat back aboard the Star Chaser. They must remain aboard for 1800 days to rejuvinate, but can otherwise still engage in space combat aboard their Star Invader." 
+MESSAGE_ACOT_PHANON_DEATH_DESC: "Phanon Operative Partially Killed"
+message_acot_phanon_operative_dead: "One of the Two's Phanon Operative has been killed. The other managed to escape back to the Star Invader, but must remain there and can no longer engage in ground battle. Furthermore, the loss of the partner has reduced the effectiveness of the Star Invader."
+MESSAGE_ACOT_PHANON_DESTROYED_DESC: "Phanon Operative Killed"
+message_acot_phanon_operative_destroyed: "Both of the Phanon Operative's have been killed. Without the operatives, the Star Invader engaged self-destruct sequences. A total loss." 
+
+primitive_army: "Primitive Army"
+primitive_army_plural: "Primitive Armies"
+primitive_army_desc: "These poor little armies are soldiers equipped to fight in petty little wars. It is time where soldiers are expected to win with skill than with tools. Unfortunately for them, their crude weapons stand no chance against modern armor and they have little defense against modern weapons. They are most likely to run at first sight against those from the skies."
+
+acot_medieval_army: "Medieval Army"
+acot_medieval_army_plural: "Medieval Armies"
+acot_medieval_army_desc: "During medieval ages, nations begin employing proper armies composing of both professional and levies, sometimes with war animals. Siege weapons become common. But they're still not going to stand up against modern armies. Honor and Bravery is no substitute against plasma or missile fire."
+
+acot_steam_army: "Steam Army"
+acot_steam_army_plural: "Steam Armies"
+acot_steam_army_desc: "Introduction of firearms changes how battles are fought. Yet they're still lambs to the slaughter against any modern firepower."
+
+industrial_army: "Industrial Army"
+industrial_army_plural: "Industrial Armies"
+industrial_army_desc: "Industrial Army now have proper formation and somewhat established chain of command. They're on their way to discover the wonders, and perhaps, the horros of modern warfare. If only they know that their weapons and armors are still hilariously outclassed by modern weaponry."
+
+postatomic_army: "Post-atomic Army"
+postatomic_army_plural: "Post-atomic Armies"
+postatomic_army_desc: "Post-atomic Armies are made up of combined forces. Infantry, Armor, Aircraft and Fire Support makes them quite formidable compared to any of the previous literation. Yet still they have one glaring issues. They never have to fight against anything outside of their own planet. And their weapons are still no match against modern armies."
+
+acot_early_space_army: "Early Space Age Army"
+acot_early_space_army_plural: "Early Space Age Armies"
+acot_early_space_army_desc: "Would you look at that? The armies from this primitive is on its way to true modernization. They even have shields and proper compact energy cells! They're so close. Very close. Maybe they'll actually be able to stand up against modern armies?"
+
+
+#################################################### ARMY Tech ####################################################
+
+decision_acot_rebuild_piloted_vehicle: "Rebuild Vehicles"
+decision_acot_rebuild_piloted_vehicle_desc: "It'll not do for our valuable pilots to be left stranded on the battlefield without their toys. The replacement costs are negliable so we should always strife to make sure our boys and girls are always operating at peak performance."
+decision_acot_rebuild_piloted_vehicle_tooltip: "Rebuilds destroyed vehicles for any existing pilots on the planet. This action does not cost resources but take a small amount of time."
+
+decision_acot_repair_damaged_machine: "Repair Damaged Units"
+decision_acot_repair_damaged_machine_desc: "The damaged combat units can be repaired with replacement parts for free without compromising their accumulated battlefield data."
+decision_acot_repair_damaged_machine_tooltip: "Repairs damaged combat units back to their pristine condition, retaining any experiences the damaged units may have accumulated."
+
+decision_acot_repair_damaged_robot: "Repair Damaged Machines"
+decision_acot_repair_damaged_robot_desc: "The damaged mechanical units can be repaired with replacement parts for free without compromising their accumulated battlefield data."
+decision_acot_repair_damaged_robot_tooltip: "Repairs damaged mechanical units back to their pristine condition, retaining any experiences the damaged units may have accumulated."
+
+decision_acot_hatch_cocoon: "Hatch Hive Cocoons"
+decision_acot_hatch_cocoon_desc: "In the heat of battle, it is possible that some cocoons may fail to trigger their hatching sequences properly. They can be manually triggered to hatch within the safety of a Hive planet."
+decision_acot_hatch_cocoon_tooltip: "Hatches any surviving cocoons that did not already hatch from the prior fights."
+
+decision_acot_repair_fortification: "Repair Fortification"
+decision_acot_repair_fortification_desc: "Repairs damaged wall, restoring and replacing any destroyed walls and batteries in the process. Repairing fortification is always faster and cheaper than rebuilding them from scratch."
+
+decision_acot_upgrade_fortification: "Defensive Wall"
+decision_acot_upgrade_fortification_desc: "Upgrades the colony's defense with extra reinforced walls. Fortification Walls act as extra protection for the colony. Although the walls have poor offensive capabilities, being lightly armed, they are quite durable and requires low maintenance. Even a few extra defense may be just what is needed to twart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt.\n\nNumber of walls added are based on the planet's size. Starting at 4 at planet size $Y10$! and below, increaing by $Y2$! for every $Y5$! planet size up to $Y30$!."
+
+acot_modifier_fortification_1: "Reinforced Fortification Wall"
+acot_modifier_fortification_1_desc: "Fortification Walls act as extra protection for the colony. Although the walls have poor offensive capabilities, being lightly armed, they are quite durable and requires low maintenance. Even a few extra defense may be just what is needed to twart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
+
+acot_modifier_damaged_fortification_1: "Damaged Fortification Walls"
+acot_modifier_damaged_fortification_1_desc: "These walls have been damaged and must be repaired.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
+
+acot_defensive_wall: "Reinforced Fortification Wall"
+acot_defensive_wall_plural: "Reinforced Fortification Walls"
+acot_defensive_wall_desc: "Fortification Walls act as extra protection for the colony. Although the walls have poor offensive capabilities, being lightly armed, they are quite durable and requires low maintenance. Even a few extra defense may be just what is needed to twart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
+acot_defensive_wall_dm: "Delta Fortification Wall"
+acot_defensive_wall_dm_plural: "Delta Fortification Walls"
+acot_defensive_wall_dm_desc: "$acot_defensive_wall_desc$"
+acot_defensive_wall_ae: "Alpha Fortification Wall"
+acot_defensive_wall_ae_plural: "Alpha Fortification Walls"
+acot_defensive_wall_ae_desc: "$acot_defensive_wall_desc$"
+acot_defensive_wall_se: "Sigma Fortification Wall"
+acot_defensive_wall_se_plural: "Sigma Fortification Walls"
+acot_defensive_wall_se_desc: "$acot_defensive_wall_desc$"
+
+
+decision_acot_upgrade_fortification_2: "Defensive Batteries"
+decision_acot_upgrade_fortification_2_desc: "Upgrades the colony's reinforced walls with extra weapon batteries. These walls are upgraded with powerful weapon systems, and can now assist defending armies with their powerful barrage. Even a few extra defense may be just what is needed to twart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt.\n\nNumber of walls added are based on the planet's size. Starting at 4 at planet size $Y10$! and below, increaing by $Y2$! for every $Y5$! planet size up to $Y30$!."
+
+acot_modifier_fortification_2: "Reinforced Fortification Batteries"
+acot_modifier_fortification_2_desc: "These walls are upgraded with powerful weapon systems, and can now assist defending armies with their powerful barrage. Even a few extra defense may be just what is needed to twart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
+
+acot_modifier_damaged_fortification_2: "Damaged Fortification Batteries"
+acot_modifier_damaged_fortification_2_desc: "These batteries have been damaged and must be repaired.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
+
+acot_defensive_cannon: "Reinforced Fortification Batteries"
+acot_defensive_cannon_plural: "Reinforced Fortification Batteries"
+acot_defensive_cannon_desc: "These walls are upgraded with powerful weapon systems, and can now assist defending armies with their powerful barrage. Even a few extra defense may be just what is needed to twart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
+acot_defensive_cannon_dm: "Delta Fortification Batteries"
+acot_defensive_cannon_dm_plural: "Delta Fortification Batteries"
+acot_defensive_cannon_dm_desc: "$acot_defensive_cannon_desc$"
+acot_defensive_cannon_ae: "Alpha Fortification Batteries"
+acot_defensive_cannon_ae_plural: "Alpha Fortification Batteries"
+acot_defensive_cannon_ae_desc: "$acot_defensive_cannon_desc$"
+acot_defensive_cannon_se: "Sigma Fortification Batteries"
+acot_defensive_cannon_se_plural: "Sigma Fortification Batteries"
+acot_defensive_cannon_se_desc: "$acot_defensive_cannon_desc$"
+
+decision_acot_rebuild_giga_fortress_cannon: "Rebuild Giga Fortress Cannons"
+decision_acot_rebuild_giga_fortress_cannon_desc: "Rebuilds the destroyed or missing Giga Fortress Cannons so that they may serve their purposes once again."
+
+requires_building_forts: "This army requires advanced military installations."
+requires_building_ascensions: "This army requires advanced ascension buildings."
+
+tech_acot_army_3: "Army of the Future"
+tech_acot_army_3_desc: "The soldiers proud, the machines loud, our enemies run afoul. The future is now."
+
+tech_acot_army_5: "Supreme Commander"
+tech_acot_army_5_desc: "If fighting is surely to result in victory then you must fight. And fight we wil, for we play to win."
+
+tech_acot_army_morale_1: "Nationalism"
+tech_acot_army_morale_1_desc: "Though individual nations no longer play significant roles in the united empire, the new order itself is a nation of which the people should believe in its cause."
+
+tech_acot_army_morale_2: "Patriotism"
+tech_acot_army_morale_2_desc: "In the past, soldiers may fight for emotions, for countries, or for freedom. But in this vast galaxy where even the most faithful may be tested, one must hold fast to their cause, to know that their lives mean something more than just a single drop of blood against the coming blade. They must strike true and weather against the storm."
+
+tech_acot_army_morale_3: "Fanaticism"
+tech_acot_army_morale_3_desc: "Some may view fanatical beliefs to be dangerous, that it may lead to certain shortcomings and loss of perspective. Apparently, those people must never have stood directly against an incoming missile to their face. A fanatical soldier can accomplish feats that even the most loyal citizen may be astonished. They will fight and die for the cause, even if they themselves may not fully understand it."
+
+################ DEFENDING ARMY ################
+
+decision_acot_upgrade_garrison_1: "Defense Force Expansion"
+decision_acot_upgrade_garrison_1_desc: "Upgrades the defense force with extra arsenal expansion, greatly increasing the defense's force power. The upkeep costs of the defense armies will also be increased, as well as their war exhaustion cost."
+
+acot_modifier_defense_upgrade_1: "Expanded Defense Force"
+acot_modifier_defense_upgrade_1_desc: "Expanded Defense Force provide the defending armies with increased firepower and defenses."
+
+decision_acot_upgrade_garrison_2: "Maximum Defense Force"
+decision_acot_upgrade_garrison_2_desc: "Upgrades the defense force with extra arsenal expansion, greatly increasing the defense's force power. The upkeep costs of the defense armies will also be increased, as well as their war exhaustion cost."
+
+acot_modifier_defense_upgrade_2: "Maximum Defense Force"
+acot_modifier_defense_upgrade_2_desc: "Upgrades the defense force to the maximum level, massively increasing the defense's force power. The upkeep costs of the defense armies will also be increased, as well as their war exhaustion cost."
+
+defense_army: "Infantry Defense Force"
+defense_army_plural: "Infantry Defense Force"
+defense_army_desc: "By default, planetary garrisons are filled with capable soldiers armed with various kind of armaments to fight against potential invaders. They, however, pack less firepower than normal infantry to limit collateral damage. Eager to defend their homeland, defending forces have higher morale, but will fall short against heavy assaults without further upgrades and backup."
+
+acot_defense_army_dm: "Delta Infantry Defense Force"
+acot_defense_army_dm_plural: "Delta Infantry Defense Forces"
+acot_defense_army_dm_desc: "By default, planetary garrisons are filled with capable soldiers armed with various kind of armaments to fight against potential invaders. They, however, pack less firepower than normal infantry to limit collateral damage. Eager to defend their homeland, defending forces have higher morale, but will fall short against heavy assaults without further upgrades and backup."
+
+acot_defense_army_ae: "Alpha Infantry Defense Force"
+acot_defense_army_ae_plural: "Alpha Infantry Defense Forces"
+acot_defense_army_ae_desc: "By default, planetary garrisons are filled with capable soldiers armed with various kind of armaments to fight against potential invaders. They, however, pack less firepower than normal infantry to limit collateral damage. Eager to defend their homeland, defending forces have higher morale, but will fall short against heavy assaults without further upgrades and backup."
+
+acot_defense_army_light: "Armored Defense Force"
+acot_defense_army_light_plural: "Armored Defense Forces"
+acot_defense_army_light_desc: "Formidable garrison forces composing of large infantry regiments and armored divisions. The two forces work in unison to repel any intruders."
+
+acot_defense_army_light_dm: "Delta Armored Defense Force"
+acot_defense_army_light_dm_plural: "Delta Armored Defense Forces"
+acot_defense_army_light_dm_desc: "TFormidable garrison forces composing of large infantry regiments and armored divisions. The two forces work in unison to repel any intruders."
+
+acot_defense_army_light_ae: "Alpha Armored Defense Force"
+acot_defense_army_light_ae_plural: "Alpha Armored Defense Forces"
+acot_defense_army_light_ae_desc: "Formidable garrison forces composing of large infantry regiments and armored divisions. The two forces work in unison to repel any intruders."
+
+acot_defense_army_heavy: "Elite Defense Force"
+acot_defense_army_heavy_plural: "Elite Defense Forces"
+acot_defense_army_heavy_desc: "Legion of armies made up of infantry, armored, and air armada. These elites stand ready to destroy any who dares to threaten their home."
+
+acot_defense_army_heavy_dm: "Delta Elite Defense Force"
+acot_defense_army_heavy_dm_plural: "Delta Elite Defense Forces"
+acot_defense_army_heavy_dm_desc: "Legion of armies made up of infantry, armored, and air armada. These elites stand ready to destroy any who dares to threaten their home."
+
+acot_defense_army_heavy_ae: "Alpha Elite Defense Force"
+acot_defense_army_heavy_ae_plural: "Alpha Elite Defense Forces"
+acot_defense_army_heavy_ae_desc: "Legion of armies made up of infantry, armored, and air armada. These elites stand ready to destroy any who dares to threaten their home."
+
+############################
+
+acot_defense_undead_dm: "Undying Delta"
+acot_defense_undead_dm_plural: "Undying Deltas"
+acot_defense_undead_dm_desc: "Undying are raised up by military necromancers to help defend the homeland."
+
+acot_defense_undead_ae: "Undying Alpha"
+acot_defense_undead_ae_plural: "Undying Alphas"
+acot_defense_undead_ae_desc: "Undying are raised up by military necromancers to help defend the homeland."
+
+acot_defense_undead_light: "Dread Undying"
+acot_defense_undead_light_plural: "Dread Undying"
+acot_defense_undead_light_desc: "Dread Undying are stronger, larger and slightly more responsive to the necromancer's command."
+
+acot_defense_undead_light_dm: "Dread Undying Delta"
+acot_defense_undead_light_dm_plural: "Dread Undying Deltas"
+acot_defense_undead_light_dm_desc: "Dread Undying are stronger, larger and slightly more responsive to the necromancer's command."
+
+acot_defense_undead_light_ae: "Dread Undying Alpha"
+acot_defense_undead_light_ae_plural: "Dread Undying Alphas"
+acot_defense_undead_light_ae_desc: "Dread Undying are stronger, larger and slightly more responsive to the necromancer's command."
+
+acot_defense_undead_heavy: "Colossal Undying"
+acot_defense_undead_heavy_plural: "Colossal Undyings"
+acot_defense_undead_heavy_desc: "Only masters of the necromantic arts can hope to summon these colossal lord of the undead."
+
+acot_defense_undead_heavy_dm: "Colossal Undying Delta"
+acot_defense_undead_heavy_dm_plural: "Colossal Undying Deltas"
+acot_defense_undead_heavy_dm_desc: "Only masters of the necromantic arts can hope to summon these colossal lord of the undead."
+
+acot_defense_undead_heavy_ae: "Colossal Undying Alpha"
+acot_defense_undead_heavy_ae_plural: "Colossal Undying Alphas"
+acot_defense_undead_heavy_ae_desc: "Only masters of the necromantic arts can hope to summon these colossal lord of the undead."
+
+############################
+
+acot_defense_robot_dm: "Delta Enforcer Droid"
+acot_defense_robot_dm_plural: "Delta Enforcer Droids"
+acot_defense_robot_dm_desc: "Enforcer Drones are light security units designed to patrol and defend the planet using the machine's powerful defense grid network."
+
+acot_defense_robot_ae: "Alpha Enforcer Droid"
+acot_defense_robot_ae_plural: "Alpha Enforcer Droids"
+acot_defense_robot_ae_desc: "Enforcer Drones are light security units designed to patrol and defend the planet using the machine's powerful defense grid network."
+
+acot_defense_robot_light: "Guardian Droid"
+acot_defense_robot_light_plural: "Delta Enforcer Droids"
+acot_defense_robot_light_desc: "These droids are equipped with the latest dark energy-based weaponry and armor, making them far superior to their predecessors while requiring minimal maintenance cost adjustments."
+
+acot_defense_robot_light_dm: "Delta Enforcer Droid"
+acot_defense_robot_light_dm_plural: "Delta Enforcer Droids"
+acot_defense_robot_light_dm_desc: "These droids are equipped with the latest dark energy-based weaponry and armor, making them far superior to their predecessors while requiring minimal maintenance cost adjustments."
+
+acot_defense_robot_light_ae: "Alpha Enforcer Droid"
+acot_defense_robot_light_ae_plural: "Alpha Enforcer Droids"
+acot_defense_robot_light_ae_desc: "These droids are equipped with the latest dark energy-based weaponry and armor, making them far superior to their predecessors while requiring minimal maintenance cost adjustments."
+
+acot_defense_robot_heavy: "Delta Enforcer Droid"
+acot_defense_robot_heavy_plural: "Delta Enforcer Droids"
+acot_defense_robot_heavy_desc: "These droids are equipped with the latest dark energy-based weaponry and armor, making them far superior to their predecessors while requiring minimal maintenance cost adjustments."
+
+acot_defense_robot_heavy_dm: "Delta Enforcer Droid"
+acot_defense_robot_heavy_dm_plural: "Delta Enforcer Droids"
+acot_defense_robot_heavy_dm_desc: "These droids are equipped with the latest dark energy-based weaponry and armor, making them far superior to their predecessors while requiring minimal maintenance cost adjustments."
+
+acot_defense_robot_heavy_ae: "Alpha Enforcer Droid"
+acot_defense_robot_heavy_ae_plural: "Alpha Enforcer Droids"
+acot_defense_robot_heavy_ae_desc: "These droids are equipped with the latest dark energy-based weaponry and armor, making them far superior to their predecessors while requiring minimal maintenance cost adjustments."
+
+############################
+
+###################### SPECIAL GARRISON ARMY ######################
+
+acot_garrison_army: "Delta Black Guard"
+acot_garrison_army_plural: "Delta Black Guards"
+acot_garrison_army_desc: "Elite garrison forces from the Emissary who are sworn to protect their new homefront till their deaths."
+ 
+acot_garrison_army_droid: "Deltron Defender"
+acot_garrison_army_droid_plural: "Deltron Defenders"
+acot_garrison_army_droid_desc: "Advanced Defense Units installed from the Emissary programmed to guard its new homefront till their destruction."
+ 
+acot_garrison_army_giga: "Giga Cannon"
+acot_garrison_army_giga_plural: "Giga Cannons"
+acot_garrison_army_giga_desc: "Massive Cannons deployed from the Giga Fortress that will make short work of primitive forces."
+ 
+
+################################ ATTACKING ARMY ################################
+
+################ INFANTRY AUTO ARMOR
+
+acot_infantry_autoarmor: "Light Infantry Autosuit"
+acot_infantry_autoarmor_plural: "Light Infantry Autosuits"
+acot_infantry_autoarmor_desc: "Although the wearers of these suits have been killed in battle, the suit's various automated systems remain intact and are still capable of fighting to a degree, either on its own or through proxy controls by battlefield commanders, should the faction shuns the use of automated AI that is. Odd, considering the age of technology they operate at."
+
+acot_infantry_autoarmor_se: "Sigma Light Infantry Autosuit"
+acot_infantry_autoarmor_se_plural: "Sigma Light Infantry Autosuits"
+acot_infantry_autoarmor_se_desc: "Although the wearers of these suits have been killed in battle, the suit's various automated systems remain intact and are still capable of fighting to a degree, either on its own or through proxy controls by battlefield commanders, should the faction shuns the use of automated AI that is. Odd, considering the age of technology they operate at."
+
+###
+
+acot_infantry_medium_autoarmor: "Specialist Infantry Autosuit"
+acot_infantry_medium_autoarmor_plural: "Specialist Infantry Autosuits"
+acot_infantry_medium_autoarmor_desc: "Although the wearers of these suits have been killed in battle, the suit's various automated systems remain intact and are still capable of fighting to a degree, either on its own or through proxy controls by battlefield commanders, should the faction shuns the use of automated AI that is. Odd, considering the age of technology they operate at."
+
+acot_infantry_medium_autoarmor_se: "Sigma Specialist Infantry Autosuit"
+acot_infantry_medium_autoarmor_se_plural: "Sigma Specialist Infantry Autosuits"
+acot_infantry_medium_autoarmor_se_desc: "Although the wearers of these suits have been killed in battle, the suit's various automated systems remain intact and are still capable of fighting to a degree, either on its own or through proxy controls by battlefield commanders, should the faction shuns the use of automated AI that is. Odd, considering the age of technology they operate at."
+
+###
+
+acot_infantry_heavy_autoarmor: "Heavy Infantry Autosuit"
+acot_infantry_heavy_autoarmor_plural: "Heavy Infantry Autosuits"
+acot_infantry_heavy_autoarmor_desc: "Although the wearers of these suits have been killed in battle, the suit's various automated systems remain intact and are still capable of fighting to a degree, either on its own or through proxy controls by battlefield commanders, should the faction shuns the use of automated AI that is. Odd, considering the age of technology they operate at."
+
+acot_infantry_heavy_autoarmor_se: "Sigma Heavy Infantry Autosuit"
+acot_infantry_heavy_autoarmor_se_plural: "Sigma Heavy Infantry Autosuits"
+acot_infantry_heavy_autoarmor_se_desc: "Although the wearers of these suits have been killed in battle, the suit's various automated systems remain intact and are still capable of fighting to a degree, either on its own or through proxy controls by battlefield commanders, should the faction shuns the use of automated AI that is. Odd, considering the age of technology they operate at."
+
+###
+
+################ INFANTRY
+
+tech_acot_army_dm: "Delta Army"
+tech_acot_army_dm_desc: "It is now possible to utilize delta-based technologies such as new reactors and shields to revolutionize our invasion armies at minimal cost adjustment. We should pursue this research without delay if we seek to establish supremacy over ground combat."
+ 
+tech_acot_army_ae: "Alpha Army"
+tech_acot_army_ae_desc: "Our increased understanding of enigmatic powers allow us to upgrade our Delta Armies even further. The changes of which may eventually lead to new types of armies moving forward."
+
+tech_acot_army_se: "Sigma Army"
+tech_acot_army_se_desc: "Surface weapons, hand-held equipment and power suits powered by stellarite energy. We will bring the second sun atop the enemy's ground fortifications."
+ 
+assault_army: "Assault Infantry Regiment"
+assault_army_plural: "Assault Infantry Regiments"
+assault_army_desc: "§YLight Infantry§!\nThese well-trained professional soldiers are equipped to fight in various hostile environments. They are capable of holding the line and have good morale thanks to their training and numbers. Their weapons are compact and controlled, causing little to no collateral damage to the planet, making them ideal for occupation assault."
+
+acot_infantry_dm: "Delta Infantry Regiment"
+acot_infantry_dm_plural: "Delta Infantry Regiments"
+acot_infantry_dm_desc: "§YLight Infantry§!\nArmed with new cutting-edge technologies, these professional soldiers are ever ready to fight in various hostile environments. They are capable of holding the line and have good morale thanks to their training and numbers. Their weapons are compact and controlled, causing little to no collateral damage to the planet, making them ideal for occupation assault."
+
+acot_infantry_ae: "Alpha Infantry Regiment"
+acot_infantry_ae_plural: "Alpha Infantry Regiments"
+acot_infantry_ae_desc: "§YLight Infantry§!\nThese soldiers are equipped with even deadlier weapons and armor, allowing them to fight effectively in various battlefield conditions and environments. They are capable of holding the line and have good morale thanks to their training and numbers. Their weapons are compact and controlled, causing little to no collateral damage to the planet, making them ideal for occupation assault."
+
+acot_infantry_se: "Sigma Infantry Regiment"
+acot_infantry_se_plural: "Sigma Infantry Regiments"
+acot_infantry_se_desc: "§YLight Infantry§!\nThese troopers are equipped with Sigma-class combat wargears and are well-trained to fight in all environments. Although the value of traditional soldier may have somewhat diminished in this era, the readiness, availability and skills coming with long-standing military traditions should not be underestimated. And their low firepower ensures that collateral damage will be low."
+
+################ LIGHT
+
+acot_light_armor_pilot: "Tank Pilot Crew"
+acot_light_armor_pilot_plural: "Tank Pilot Crews"
+acot_light_armor_pilot_desc: "§YPilot Crew§!\nThese tank crews managed to escape their vehicle's destruction. While few in numbers and having limited amount of firepower and protection, they have valuable battlefield experiences, and should they survive the battle, may yet be given new vehicles to plot and continue the fight."
+
+acot_light_armor_pilot_dm: "Delta Tank Pilot Crew"
+acot_light_armor_pilot_dm_plural: "Delta Tank Pilot Crews"
+acot_light_armor_pilot_dm_desc: "§YPilot Crew§!\nThese tank crews managed to escape their vehicle's destruction. While few in numbers and having limited amount of firepower and protection, they have valuable battlefield experiences, and should they survive the battle, may yet be given new vehicles to plot and continue the fight."
+
+acot_light_armor_pilot_ae: "Alpha Tank Pilot Crew"
+acot_light_armor_pilot_ae_plural: "Alpha Tank Pilot Crews"
+acot_light_armor_pilot_ae_desc: "§YPilot Crew§!\nThese tank crews managed to escape their vehicle's destruction. While few in numbers and having limited amount of firepower and protection, they have valuable battlefield experiences, and should they survive the battle, may yet be given new vehicles to plot and continue the fight."
+
+acot_light_armor_pilot_se: "Sigma Tank Pilot Crew"
+acot_light_armor_pilot_se_plural: "Sigma Tank Pilot Crews"
+acot_light_armor_pilot_se_desc: "§YPilot Crew§!\nThese tank crews managed to escape their vehicle's destruction. While few in numbers and having limited amount of firepower and protection, they have valuable battlefield experiences, and should they survive the battle, may yet be given new vehicles to plot and continue the fight."
+
+####
+
+acot_light_armor: "Battle Tank Division"
+acot_light_armor_plural: "Battle Tank Divisions"
+acot_light_armor_desc: "§YCrewed Vehicle§!\nThese tanks are well armed and armored, able to withstand against incoming fire and dishing out respectable damage in return. They are slightly more expensive to assemble than infantry regiments, but are well suited for spearheading any assaults. Their weapons are powerful, but with some control should leave collateral damage low. The relatively low amount of units per division make them more vulnerable to losses, even a few destroyed tanks can lead to great morale drop, so caution should be advised when deploying them against swarms of enemies."
+
+acot_light_armor_dm: "Delta Battle Tank Division"
+acot_light_armor_dm_plural: "Delta Battle Tank Divisions"
+acot_light_armor_dm_desc: "§YCrewed Vehicle§!\nThese tanks are well armed and armored, able to withstand against incoming fire and dishing out respectable damage in return. They are slightly more expensive to assemble than infantry regiments, but are well suited for spearheading any assaults. Their weapons are powerful, but with some control should leave collateral damage low. The relatively low amount of units per division make them more vulnerable to losses, even a few destroyed tanks can lead to great morale drop, so caution should be advised when deploying them against swarms of enemies."
+
+acot_light_armor_ae: "Alpha Battle Tank Division"
+acot_light_armor_ae_plural: "Alpha Battle Tank Divisions"
+acot_light_armor_ae_desc: "§YCrewed Vehicle§!\nThese tanks are well armed and armored, able to withstand against incoming fire and dishing out respectable damage in return. They are slightly more expensive to assemble than infantry regiments, but are well suited for spearheading any assaults. Their weapons are powerful, but with some control should leave collateral damage low. The relatively low amount of units per division make them more vulnerable to losses, even a few destroyed tanks can lead to great morale drop, so caution should be advised when deploying them against swarms of enemies."
+
+acot_light_armor_se: "Sigma Battle Tank Division"
+acot_light_armor_se_plural: "Sigma Battle Tank Divisions"
+acot_light_armor_se_desc: "§YCrewed Vehicle§!\nThese tanks are well armed and armored, able to withstand against incoming fire and dishing out respectable damage in return. They are slightly more expensive to assemble than infantry regiments, but are well suited for spearheading any assaults. Their weapons are powerful, but with some control should leave collateral damage low. The relatively low amount of units per division make them more vulnerable to losses, even a few destroyed tanks can lead to great morale drop, so caution should be advised when deploying them against swarms of enemies."
+
+################ HEAVY
+
+
+acot_heavy_armor_pilot: "Landcruiser Pilot Crew"
+acot_heavy_armor_pilot_plural: "Landcruiser Pilot Crews"
+acot_heavy_armor_pilot_desc: "§YPilot Crew§!\nThese Landcruiser crews managed to escape their vehicle's destruction. While few in numbers and having limited amount of firepower and protection, they have valuable battlefield experiences, and should they survive the battle, may yet be given new vehicles to plot and continue the fight."
+
+acot_heavy_armor_pilot_dm: "Delta Landcruiser Pilot Crew"
+acot_heavy_armor_pilot_dm_plural: "Delta Landcruiser Pilot Crews"
+acot_heavy_armor_pilot_dm_desc: "These Landcruiser crews managed to escape their vehicle's destruction. While few in numbers and having limited amount of firepower and protection, they have valuable battlefield experiences, and should they survive the battle, may yet be given new vehicles to plot and continue the fight."
+
+acot_heavy_armor_pilot_ae: "Alpha Landcruiser Pilot Crew"
+acot_heavy_armor_pilot_ae_plural: "Alpha Landcruiser Pilot Crews"
+acot_heavy_armor_pilot_ae_desc: "These Landcruiser crews managed to escape their vehicle's destruction. While few in numbers and having limited amount of firepower and protection, they have valuable battlefield experiences, and should they survive the battle, may yet be given new vehicles to plot and continue the fight."
+
+acot_heavy_armor_pilot_se: "Sigma Landcruiser Pilot Crew"
+acot_heavy_armor_pilot_se_plural: "Sigma Landcruiser Pilot Crews"
+acot_heavy_armor_pilot_se_desc: "These Landcruiser crews managed to escape their vehicle's destruction. While few in numbers and having limited amount of firepower and protection, they have valuable battlefield experiences, and should they survive the battle, may yet be given new vehicles to plot and continue the fight."
+
+acot_heavy_armor: "Landcruiser"
+acot_heavy_armor_plural: "Landcruisers"
+acot_heavy_armor_desc: "§YCrewed Vehicle§! §YSmall Infantry Garrison§!\nLandcruisers are essentially corvette-sized ships designed for planetary assault. While they are useless in space combats, a Landcruiser will effortlessly lay wastes to entire cities and armies alike. Naturally, they should not be deployed if collateral damage is a concern.\n\nWhile a Landcruiser is a force to be reckoned with, it is quite expensive to both build and maintain, and losing one is sure to be a great blow to the war efforts. Furthermore, while the crews aboard the ship are proud and confident, their morale pales in comparison to the ship's impressive durability. A panicked crew can quickly turn a killing machine into a metal box waiting to be swatted. Deploy them wisely."
+
+acot_heavy_armor_dm: "Delta Landcruiser"
+acot_heavy_armor_dm_plural: "Delta Landcruisers"
+acot_heavy_armor_dm_desc: "§YCrewed Vehicle§! §YSmall Infantry Garrison§!\nLandcruisers are essentially corvette-sized ships designed for planetary assault. While they are useless in space combats, a Landcruiser will effortlessly lay wastes to entire cities and armies alike. Naturally, they should not be deployed if collateral damage is a concern.\n\nWhile a Landcruiser is a force to be reckoned with, it is quite expensive to both build and maintain, and losing one is sure to be a great blow to the war efforts. Furthermore, while the crews aboard the ship are proud and confident, their morale pales in comparison to the ship's impressive durability. A panicked crew can quickly turn a killing machine into a metal box waiting to be swatted. Deploy them wisely."
+
+acot_heavy_armor_ae: "Alpha Landcruiser"
+acot_heavy_armor_ae_plural: "Alpha Landcruisers"
+acot_heavy_armor_ae_desc: "§YCrewed Vehicle§! §YSmall Infantry Garrison§!\nLandcruisers are essentially corvette-sized ships designed for planetary assault. While they are useless in space combats, a Landcruiser will effortlessly lay wastes to entire cities and armies alike. Naturally, they should not be deployed if collateral damage is a concern.\n\nWhile a Landcruiser is a force to be reckoned with, it is quite expensive to both build and maintain, and losing one is sure to be a great blow to the war efforts. Furthermore, while the crews aboard the ship are proud and confident, their morale pales in comparison to the ship's impressive durability. A panicked crew can quickly turn a killing machine into a metal box waiting to be swatted. Deploy them wisely."
+
+acot_heavy_armor_se: "Sigma Landcruiser"
+acot_heavy_armor_se_plural: "Sigma Landcruisers"
+acot_heavy_armor_se_desc: "§YCrewed Vehicle§! §YSmall Infantry Garrison§!\nLandcruisers are essentially corvette-sized ships designed for planetary assault. While they are useless in space combats, a Landcruiser will effortlessly lay wastes to entire cities and armies alike. Naturally, they should not be deployed if collateral damage is a concern.\n\nWhile a Landcruiser is a force to be reckoned with, it is quite expensive to both build and maintain, and losing one is sure to be a great blow to the war efforts. Furthermore, while the crews aboard the ship are proud and confident, their morale pales in comparison to the ship's impressive durability. A panicked crew can quickly turn a killing machine into a metal box waiting to be swatted. Deploy them wisely."
+
+################ SPECIAL
+
+slave_army: "War Slave Regiment"
+slave_army_plural: "War Slave Regiments"
+slave_army_desc: "§YExpendable Infantry§!\nSlaves with good combat senses and able bodies are often pressed into service as a front-line infantry force. They are given basic training and equipped with cheap gears as befitting their status. Although one should not expect them to last very long against most enemies, the fact that they are slaves mean they are quite expendable; their lives are not as important as their betters.\n\nNaturally, the slaves have no desire to die. Coupled with lackluster training, poor equipment and awful treatment, slaves are prone to mass-routing after losses as a result of low morale."
+
+acot_slave_army_dm: "Gladiator Slave Regiment"
+acot_slave_army_dm_plural: "Gladiator Slave Regiments"
+acot_slave_army_dm_desc: "§YExpendable Infantry§!\n are no ordinary slaves, for they have seen some combats, even if its just for entertainment. Compared to other infantry, the Gladiators do not receive the benefits of any new advancements in offense and defence that comes with the gear. But they're still much more reliable than normal slaves, as they at least will not cower and run away as often."
+
+acot_undead_army_dm: "Undying Horde"
+acot_undead_army_dm_plural: "Undying Hordes"
+acot_undead_army_dm_desc: "§YExpendable Infantry§!\nDespite the name, the Undying can still die, they are just a lot less likely to die before they get some jobs done."
+
+acot_army_stellarite_bomber: "Stellar Striker"
+acot_army_stellarite_bomber_desc: "Lightly-armored automated aircrafts armed with volatile stellarite bomb. Though most will not survive after the initial bombing run, the damage that they inflict are quite significant."
+ 
+tech_acot_army_stellarite_bomber: "Stellarite Strikers"
+tech_acot_army_stellarite_bomber_desc: "Sometimes we can ill afford to wage conventional ground battles, and victory over our enemies must come at any costs. Fast, lightly-armored, expendable automated aircrafts can be constructed to deploy volatile stellarite bomb on the battlefield to quickly annihilate our enemies and the planet surface."
+ 
+################ DROID
+
+tech_acot_army_robotic_dm: "Delta Assault Template"
+tech_acot_army_robotic_dm_desc: "It is amazing that there are records that the precursors have achieved such advancement in robotic technologies, records suggest their machines are as advanced as any organic life...yet they are fully loyal to their creators with no desire for independence. Perhaps there is something unique about them? We must dig deeper."
+
+tech_acot_army_robotic_ae: "Alpha Assault Templates"
+tech_acot_army_robotic_ae_desc: "We will surpass the precursors in every category, robotics included."
+
+tech_acot_army_robotic_se: "Sigma Assault Templates"
+tech_acot_army_robotic_se_desc: "Let it be known that even our most primitive robots are stuffs of legends."
+
+acot_drone_army: "Combat Drone Swarm"
+acot_drone_army_plural: "Combat Droid Swarms"
+acot_drone_army_desc: "Combat Drones are small, simple mechanical units equipped with light weapons. They have extremely poor frame but can be made in large quantities and do not follow any unique robotic template, which means they do not rely on a mechanical pop to be produced.\n\nWhile they may not be the most reliable force on the battlefield, their expendable nature along with their simplicity makes them a solid choice as a cannon fodder."
+
+acot_drone_army_dm: "Delta Combat Drone Swarm"
+acot_drone_army_dm_plural: "Delta Combat Droid Swarms"
+acot_drone_army_dm_desc: "Combat Drones are small, simple mechanical units equipped with light weapons. They have extremely poor frame but can be made in large quantities and do not follow any unique robotic template, which means they do not rely on a mechanical pop to be produced.\n\nWhile they may not be the most reliable force on the battlefield, their expendable nature along with their simplicity makes them a solid choice as a cannon fodder."
+
+acot_drone_army_ae: "Alpha Combat Drone Swarm"
+acot_drone_army_ae_plural: "Alpha Combat Droid Swarms"
+acot_drone_army_ae_desc: "Combat Drones are small, simple mechanical units equipped with light weapons. They have extremely poor frame but can be made in large quantities and do not follow any unique robotic template, which means they do not rely on a mechanical pop to be produced.\n\nWhile they may not be the most reliable force on the battlefield, their expendable nature along with their simplicity makes them a solid choice as a cannon fodder."
+
+acot_drone_army_se: "Sigma Combat Drone Swarm"
+acot_drone_army_se_plural: "Sigma Combat Droid Swarms"
+acot_drone_army_se_desc: "Combat Drones are small, simple mechanical units equipped with light weapons. They have extremely poor frame but can be made in large quantities and do not follow any unique robotic template, which means they do not rely on a mechanical pop to be produced.\n\nWhile they may not be the most reliable force on the battlefield, their expendable nature along with their simplicity makes them a solid choice as a cannon fodder."
+
+######################
+
+robotic_army: "Assault Droid Unit"
+robotic_army_plural: "Assault Droid Units"
+robotic_army_desc: "§YMechanical Infantry§!\nCombat Droids are equipped with basic combat software to help their organic masters fight on the battlefield. The cold, calculating machine bears no heart and feeling, and will fight untill they are destroyed. Although not as clunky as one may expect, these units are not very intimidating to most seasoned soldiers and their performance are notably worse than a fresh and confident soldier."
+
+acot_droid_army_dm: "Delta Assault Droid Unit"
+acot_droid_army_dm_plural: "Delta Assault Droid Units"
+acot_droid_army_dm_desc: "§YMechanical Infantry§!\nCombat Droids are equipped with basic combat software to help their organic masters fight on the battlefield. The cold, calculating machine bears no heart and feeling, and will fight untill they are destroyed. Although not as clunky as one may expect, these units are not very intimidating to most seasoned soldiers and their performance are notably worse than a fresh and confident soldier."
+
+acot_droid_army_ae: "Alpha Assault Droid Unit"
+acot_droid_army_ae_plural: "Alpha Assault Droid Units"
+acot_droid_army_ae_desc: "§YMechanical Infantry§!\nCombat Droids are equipped with basic combat software to help their organic masters fight on the battlefield. The cold, calculating machine bears no heart and feeling, and will fight untill they are destroyed. Although not as clunky as one may expect, these units are not very intimidating to most seasoned soldiers and their performance are notably worse than a fresh and confident soldier."
+
+acot_droid_army_se: "Sigma Assault Droid Unit"
+acot_droid_army_se_plural: "Sigma Assault Droid Units"
+acot_droid_army_se_desc: "§YMechanical Infantry§!\nCombat Droids are equipped with basic combat software to help their organic masters fight on the battlefield. The cold, calculating machine bears no heart and feeling, and will fight untill they are destroyed. Although not as clunky as one may expect, these units are not very intimidating to most seasoned soldiers and their performance are notably worse than a fresh and confident soldier."
+
+acot_droid_army_torso: "Damaged Assault Droid Unit"
+acot_droid_army_torso_plural: "Damaged Assault Droid Units"
+acot_droid_army_torso_desc: "This combat unit's mobility has been crippled after sustaining critical damage, but its ability to fight remains somewhat intact. If it survives the battle, it may yet be repaired to operate at its full capacity."
+
+acot_droid_army_torso_dm: "Damaged Delta Assault Droid Unit"
+acot_droid_army_torso_dm_plural: "Damaged Delta Assault Droid Units"
+acot_droid_army_torso_dm_desc: "This combat unit's mobility has been crippled after sustaining critical damage, but its ability to fight remains somewhat intact. If it survives the battle, it may yet be repaired to operate at its full capacity."
+
+acot_droid_army_torso_ae: "Damaged Alpha Assault Droid Unit"
+acot_droid_army_torso_ae_plural: "Damaged Alpha Assault Droid Units"
+acot_droid_army_torso_ae_desc: "This combat unit's mobility has been crippled after sustaining critical damage, but its ability to fight remains somewhat intact. If it survives the battle, it may yet be repaired to operate at its full capacity."
+
+acot_droid_army_torso_se: "Damaged Sigma Assault Droid Unit"
+acot_droid_army_torso_se_plural: "Damaged Sigma Assault Droid Units"
+acot_droid_army_torso_se_desc: "This combat unit's mobility has been crippled after sustaining critical damage, but its ability to fight remains somewhat intact. If it survives the battle, it may yet be repaired to operate at its full capacity."
+
+######################
+
+acot_droid_mech: "Siege Warmech"
+acot_droid_mech_plural: "Siege Warmech"
+acot_droid_mech_desc: "Siege Warmechs are essentially automated assault walkers. They perform similar roles to battle tanks, but has the extra benefit of superior durability and lack of morale concerns. While not exactly as deadly as a Landcruiser, they are still quite formidable and perform well in its job."
+
+acot_droid_mech_dm: "Delta Siege Warmech"
+acot_droid_mech_dm_plural: "Delta Siege Warmech"
+acot_droid_mech_dm_desc: "Siege Warmechs are essentially automated assault walkers. They perform similar roles to battle tanks, but has the extra benefit of superior durability and lack of morale concerns. While not exactly as deadly as a Landcruiser, they are still quite formidable and perform well in its job."
+
+acot_droid_mech_ae: "Alpha Siege Warmech"
+acot_droid_mech_ae_plural: "Alpha Siege Warmech"
+acot_droid_mech_ae_desc: "Siege Warmechs are essentially automated assault walkers. They perform similar roles to battle tanks, but has the extra benefit of superior durability and lack of morale concerns. While not exactly as deadly as a Landcruiser, they are still quite formidable and perform well in its job."
+
+acot_droid_mech_se: "Sigma Siege Warmech"
+acot_droid_mech_se_plural: "Sigma Siege Warmech"
+acot_droid_mech_se_desc: "Siege Warmechs are essentially automated assault walkers. They perform similar roles to battle tanks, but has the extra benefit of superior durability and lack of morale concerns. While not exactly as deadly as a Landcruiser, they are still quite formidable and perform well in its job."
+ 
+########################################### SPECIAL ARMY ###########################################
+
+acot_special_force: "Special Force Squad"
+acot_special_force_plural: "Special Force Squads"
+acot_special_force_desc: "§YSpecialist Infantry§!\nSpecial Operations Units are highly trained combat experts equipped with much better equipments and superior training. They have exceptionally high morale. But they are expensive to gear up and maintain."
+
+acot_special_force_dm: "Delta Special Force Squad"
+acot_special_force_dm_plural: "Delta Special Force Squads"
+acot_special_force_dm_desc: "§YSpecialist Infantry§!\nSpecial Operations Units are highly trained combat experts equipped with much better equipments and superior training. They have exceptionally high morale. But they are expensive to gear up and maintain."
+
+acot_special_force_ae: "Alpha Special Force Squad"
+acot_special_force_ae_plural: "Alpha Special Force Squads"
+acot_special_force_ae_desc: "§YSpecialist Infantry§!\nSpecial Operations Units are highly trained combat experts equipped with much better equipments and superior training. They have exceptionally high morale. But they are expensive to gear up and maintain."
+
+acot_special_force_se: "Sigma Special Force Squad"
+acot_special_force_se_plural: "Sigma Special Force Squads"
+acot_special_force_se_desc: "§YSpecialist Infantry§!\nSpecial Operations Units are highly trained combat experts equipped with much better equipments and superior training. They have exceptionally high morale. But they are expensive to gear up and maintain."
+
+acot_hero_ae: "§YBlack Guard§!"
+acot_hero_ae_plural: "§YBlack Guards§!"
+acot_hero_ae_desc: "§YHeroic Army§!\n\nBlack Guards are the most elite of our special forces. Each of which has dedicated their whole life to the mastery of warfare. They ask for nothing in return, and their mere presences inspire unity among the empire. It is not uncommon for the Black Guards to fight until the last man before showing any signs of doubt and waver.\n\nSuch exemplar of loyalty and bravery are hard to come by, and it'll take time for new candidates to emerge, so each Black Guard should be handled with care.\n§YHeroic Armies can only be periodically recruited.§!"
+
+########################################### ETHOS ARMY ###########################################
+
+################ MILITARIST
+ 
+acot_army_mili: "Heavy Mobile Infantry"
+acot_army_mili_plural: "Heavy Mobile Infantries"
+acot_army_mili_desc: "§YSpecialist Infantry§!\nThese heavily armed and armored soldiers receive extra combat training, allowing them to excel in all combat situations and environments as our militarist demands needed."
+ 
+acot_army_mili_se: "Sigma Heavy Mobile Infantry"
+acot_army_mili_se_plural: "Sigma Heavy Mobile Infantries"
+acot_army_mili_se_desc: "§YSpecialist Infantry§!\nThese heavily armed and armored soldiers receive extra combat training, allowing them to excel in all combat situations and environments as our militarist demands needed."
+
+tech_acot_army_mili: "Mobile Infantry Divisions"
+tech_acot_army_mili_desc: "Our militaristic ideals demand even stronger infantry divisions that are superior to even the precursor's troops. To this end, we will form a new Mobile Infantry Division fully armed and armored for full-scale invasion. These soldiers will be the proof that we can only forge peace through war, not sitting and making useless pacts."
+ 
+acot_army_mili_hero: "God of War"
+acot_army_mili_hero_plural: "God of Wars"
+acot_army_mili_hero_desc: "§YHeroic Army§!\n\nThis genetically-enhanced super warrior is capable of unleashing righteous fury, leaping into the thick of battle and wreaks havoc onto the enemy lines. He does not fear death, for he is death itself. Let our enemies beware, for they face the god of war."
+ 
+tech_acot_army_mili_hero: "Hail to the God of War!"
+tech_acot_army_mili_hero_desc: "To strike fear into the enemy formations require more than just weapons, it requires an individual, so fearless and powerful that the title of "God of War" is most fitting. We should begin selecting candidates from our ranks and begin this project immediately."
+ 
+god_limit_tooltip: "Gods are not easily born. Only a few may emerge at any time."
+ 
+################ PACIFIST
+ 
+acot_army_paci: "Peacekeeper Force"
+acot_army_paci_plural: "Peacekeeper Forces"
+acot_army_paci_desc: "§YSpecialist Infantry§!\nThese military police forces are trained to exercise restraints when using explosives and destructive weapons. They excel at ending fights through non-lethal means but will not show mercy towards warmongers. The law shall find its voice in them."
+ 
+acot_army_paci_se: "Sigma Peacekeeper"
+acot_army_paci_se_plural: "Sigma Peacekeepers"
+acot_army_paci_se_desc: "§YSpecialist Infantry§!\nThese military police forces are trained to exercise restraints when using explosives and destructive weapons. They excel at ending fights through non-lethal means but will not show mercy towards warmongers. The law shall find its voice in them."
+
+tech_acot_army_paci: "Bringer of Peace, Freedom, Justice and Security"
+tech_acot_army_paci_desc: "In order to achieve true peace, we must organize a new peacekeeping force that acts as both frontline soldiers and system police forces inside our borders. We will forge a new chapter of peace and prove to these misguided militarist warmongers that war and peace can be won with brains and not muscles."
+ 
+acot_army_paci_hero: "Captain Pacifist"
+acot_army_paci_hero_plural: "Captain Pacifists"
+acot_army_paci_hero_desc: "§YHeroic Army§!\n\nEquipped with powerful jetpacks, Captain Pacifist flies into battles and strips warmongers of their weapons using powerful energy-based weapon from his golden eyes. The captain may not be mightiest or deadliest soldiers or war machines compared to those barbarians, but he is fully committed to our cause to end all war."
+ 
+tech_acot_army_paci_hero: "Champion of Peace"
+tech_acot_army_paci_hero_desc: "Our Peacekeepers are well-suited at keeping the peace but not always at creating one. Fortunately, some of our scientists have draft a plan to create an iconic beacon of peace well suited for convincing the others that peace is the only way. It sounds quite silly, but the projected data does prove to be reliable."
+ 
+captain_limit_tooltip: "While technically we possess the resources required to make more than one Captain Pacifist, we cannot find any individuals who really wish to go that far."
+ 
+################ XENOPHILE
+ 
+acot_army_phile: "Ghost Agent"
+acot_army_phile_plural: "Ghost Agents"
+acot_army_phile_desc: "§YLight Infantry§!\nThese operatives are dedicated to our xenophilic cause. They are trained to neutralize only combat-effective enemies with non-lethal injection and prevents any unnecessary bloodshed and collateral damages at all cost."
+ 
+acot_army_phile_se: "Sigma Ghost Agent"
+acot_army_phile_se_plural: "Sigma Ghost Agents"
+acot_army_phile_se_desc: "§YLight Infantry§!\nThese operatives are dedicated to our xenophilic cause. They are trained to neutralize only combat-effective enemies with non-lethal injection and prevents any unnecessary bloodshed and collateral damages at all cost."
+
+tech_acot_army_phile: "Ghost Division"
+tech_acot_army_phile_desc: "We value all life, even those of the enemies. They must be allowed to see the errors of their ways, but we cannot perform such daring tasks with our current destructive weapons. To this end, we must develop and train armies specifically equipped to take down only hostile targets with extreme efficiency. We must have more elegant weapons of the civilized age. It's over, xenophobes - We have the high grounds."
+ 
+acot_army_phile_hero: "Black Widow"
+acot_army_phile_hero_plural: "Black Widows"
+acot_army_phile_hero_desc: "§YHeroic Army§!\n\nBlack Widows are the deadliest agents of the Ghost Division. They are well trained in stealth, sabotage and are equipped with various powerful but non-lethal arsenals and gadgets, allowing them to effortlessly neutralize enemy combatants."
+ 
+tech_acot_army_phile_hero: "The Black Widows"
+tech_acot_army_phile_hero_desc: "While we do not enjoy taking lives, we must admit that our neutralizers do enjoy ending the threats of xenophobic bigots. The official formation of the Division as a truly independent force will allow us to draw from our veteran ghosts to become Black Widows."
+ 
+blackwidow_limit_tooltip: "Only the deadliest and most skilled of the Ghost Agents may receive the rank of Black Widows, as such it takes time for such gifted agents to appear."
+ 
+ 
+################ XENOPHOBE
+ 
+acot_army_phobe: "Deathbringer Squad"
+acot_army_phobe_plural: "Deathbringer Squads"
+acot_army_phobe_desc: "§YHeavy Infantry§!\nThese fearsome, heavily armored soldiers are our xenophobic will made manifested. They move from world to world, utterly destroying all xenos with their antimatter cannons that erase all traces of the xeno - it’s very atoms from existence. None will be spared from our purging flames of agony."
+ 
+acot_army_phobe_se: "Sigma Deathbringer"
+acot_army_phobe_se_plural: "Sigma Deathbringers"
+acot_army_phobe_se_desc: "§YHeavy Infantry§!\nThese fearsome, heavily armored soldiers are our xenophobic will made manifested. They move from world to world, utterly destroying all xenos with their antimatter cannons that erase all traces of the xeno - it’s very atoms from existence. None will be spared from our purging flames of agony."
+
+tech_acot_army_phobe: "Scorn of Xeno"
+tech_acot_army_phobe_desc: "Our people have accepted the simple fact that we are the only truly civilized species in this universe, all others are simply animals - beasts that existed to be purged. But purging these beasts requires a deadlier force, one that will purify the xeno taint and strike fear in the hearts of those of them that would dare raise their hand against us. When our forces come, they will beg for death."
+ 
+acot_army_phobe_hero: "Apocalypse Tri-Cannon Artillery"
+acot_army_phobe_hero_plural: "Apocalypse Tri-Cannon Artilleries"
+acot_army_phobe_hero_desc: "§YHeroic Army§!\n\nThis huge artillery is equipped with Apocalypse-class Tri-Cannon capable of firing from extreme range for devastating damage. Maximum Collateral Damage and Total Destruction against our foes are assured. They must be made to understand that they have no rights to exist."
+ 
+tech_acot_army_phobe_hero: "Scorched Earth"
+tech_acot_army_phobe_hero_desc: "We have wasted enough time trying to bombard planets with shield generators or storming against the insect's hives. Our military strategists ask that we create a new weapon. A titanic-sized artillery capable of raining down murder and mayhem upon the trash that is our enemy. Collateral Damage be damned, for they chose to be born a xeno scum."
+ 
+xenoart_limit_tooltip: "It already took a lot of convincing for most of our inner circles to agree to the construction of this artillery, it will take time for another to be commissioned."
+ 
+ 
+################ EGALITARIAN
+ 
+acot_army_ega_pilot: "Alpha Liberty Pilot Crew"
+acot_army_ega_pilot_plural: "Alpha Liberty Pilot Crews"
+acot_army_ega_pilot_desc: "§YPilot Crew§!\nThese Liberty Landcruiser crews managed to escape their vehicle's destruction. While few in numbers and having limited amount of firepower and protection, they have valuable battlefield experiences, and should they survive the battle, may yet be given new vehicles to plot and continue the fight."
+
+acot_army_ega_pilot_se: "Sigma Liberty Pilot Crew"
+acot_army_ega_pilot_se_plural: "Sigma Liberty Pilot Crews"
+acot_army_ega_pilot_se_desc: "§YPilot Crew§!\nThese Liberty Landcruiser crews managed to escape their vehicle's destruction. While few in numbers and having limited amount of firepower and protection, they have valuable battlefield experiences, and should they survive the battle, may yet be given new vehicles to plot and continue the fight."
+
+acot_army_ega: "Liberty Landcruiser"
+acot_army_ega_plural: "Liberty Landcruisers"
+acot_army_ega_desc: "§YCrewed Vehicle§! §YSmall Infantry Garrison§!\nThese huge, highly advanced landcruisers are well suited to bring freedom and liberty to all oppressors. Equipped with advanced weaponry capable of locking on up to 1337 different targets simultaneously while spreading powerful propaganda messages for enemies to surrender. Justice will rain from above!"
+ 
+acot_army_ega_se: "Sigma Liberty Landcruiser"
+acot_army_ega_se_plural: "Sigma Liberty Landcruisers"
+acot_army_ega_se_desc: "§YCrewed Vehicle§! §YSmall Infantry Garrison§!\nThese huge, highly advanced landcruisers are well suited to bring freedom and liberty to all oppressors. Equipped with advanced weaponry capable of locking on up to 1337 different targets simultaneously while spreading powerful propaganda messages for enemies to surrender. Justice will rain from above!"
+
+tech_acot_army_ega: "Air Space Dominance"
+tech_acot_army_ega_desc: "The concept of landcruisers are not new to us. Since before our venture into space, we controlled the sky of our home world and destroyed those who did not embrace democracy with our landcruisers. We can now do so again, on any type of planet using new technologies we acquired. Soon we will rain down freedom and liberty across all planets from the skies above."
+ 
+acot_army_ega_hero: "Liberty Prime"
+acot_army_ega_hero_plural: "Liberty Primes"
+acot_army_ega_hero_desc: "§YHeroic Army§!\n\nLiberty Prime is a huge machine that represents the ultimate power of true egalitarianism. It towers over the battlefield, inspiring allies with patriotic quotes about democracy while intimidating enemies of freedom with its thunderous voices and perdition beams. Embrace Democracy or Death!!!" 
+ 
+tech_acot_army_ega_hero: "Liberty at it's Prime"
+tech_acot_army_ega_hero_desc: "By air or by land, all shall bow to Democracy by our hands. We have already established dominance on the battlefield with our gunships. To finally break through heavy fortifications with multiple anti-air batteries require a deadlier siege weapon, however. A weapon worthy of presenting freedom and democracy!!"
+ 
+prime_limit_tooltip: "Liberty Prime is a huge investment and requires thousands of complicated combat computers to properly identify all possible lawbreakers and administrate punishment protocols as required. We cannot build another Prime yet as of now."
+ 
+################ AUTHORITARIAN
+ 
+acot_army_auth: "Cerberus Enforcer"
+acot_army_auth_plural: "Cerberus Enforcers"
+acot_army_auth_desc: "§YSpecialist Infantry§!\nThese military officers are the ultimate expression of our authority. Their inspiring presences encourage our armies and strikes fear into our enemies. The enemy will submit to our rule or our enforcers will make them do so."
+ 
+acot_army_auth_se: "Sigma Cerberus Enforcer"
+acot_army_auth_se_plural: "Sigma Cerberus Enforcers"
+acot_army_auth_se_desc: "§YSpecialist Infantry§!\nThese military officers are the ultimate expression of our authority. Their inspiring presences encourage our armies and strikes fear into our enemies. The enemy will submit to our rule or our enforcers will make them do so."
+ 
+
+tech_acot_army_auth: "Absolute Power"
+tech_acot_army_auth_desc: "We must display absolute authority to those who are fated to be our subjects, armies may win war, but it is our new enforcers who will remind the subjects that their fates are bound to our ultimate wills."
+ 
+acot_army_auth_hero: "Commissar Lord"
+acot_army_auth_hero_plural: "Commissar Lords"
+acot_army_auth_hero_desc: "§YHeroic Army§!\n\nOnly the most accomplished and most awesome commissars may be granted the rank of Commissar Lord. Such is their status that a Commissar Lord has the authority to execute anyone barring the ruler for their incompetence. They command a powerful retinue of fanatically loyal soldiers who compete to earn the Commissar Lord's favor."
+ 
+tech_acot_army_auth_hero: "Commissar Lord Coronation"
+tech_acot_army_auth_hero_desc: "Even amongst the ranks of commissar, there are individuals who display exceptional courage and inspiration. There are tales of certain commissars who are able to inspire slave soldiers to stop dying from face-tanking direct kinetic artillery shots. Such devotion and skills must be rewarded, the first coronation of the title Commissar Lord should be done immediately."
+ 
+comlord_limit_tooltip: "There are only a handful of commissars worthy of the title Commissar Lord, we have not been able to produce more than one as of now."
+ 
+
+################ MATERIALIST
+ 
+acot_army_mat_pilot: "Alpha Devastator Pilot Crew"
+acot_army_mat_pilot_plural: "Alpha Devastator Pilot Crews"
+acot_army_mat_pilot_desc: "§YPilot Crew§!\nThese Devastator Tank crews managed to escape their vehicle's destruction. While few in numbers and having limited amount of firepower and protection, they have valuable battlefield experiences, and should they survive the battle, may yet be given new vehicles to plot and continue the fight."
+
+acot_army_mat_pilot_se: "Sigma Devastator Pilot Crew"
+acot_army_mat_pilot_se_plural: "Sigma Devastator Pilot Crews"
+acot_army_mat_pilot_se_desc: "§YPilot Crew§!\nThese Devastator Tank crews managed to escape their vehicle's destruction. While few in numbers and having limited amount of firepower and protection, they have valuable battlefield experiences, and should they survive the battle, may yet be given new vehicles to plot and continue the fight."
+
+acot_army_mat: "Devastator Tank Division"
+acot_army_mat_plural: "Devastator Tank Divisions"
+acot_army_mat_desc: "§YCrewed Vehicle§! §YSmall Infantry Garrison§!\nA specialized variant of the Battle Tank design that is equipped with experimental blink pack as well as a short-ranged jump module. Devastator Tanks can strike from anywhere and possess friengtening mobility for a vehicle of its size."
+ 
+acot_army_mat_se: "Sigma Devastator Tank Division"
+acot_army_mat_se_plural: "Sigma Devastator Tank Divisions"
+acot_army_mat_se_desc: "§YCrewed Vehicle§! §YSmall Infantry Garrison§!\nA specialized variant of the Battle Tank design that is equipped with experimental blink pack as well as a short-ranged jump module. Devastator Tanks can strike from anywhere and possess friengtening mobility for a vehicle of its size."
+ 
+
+tech_acot_army_mat: "Miniaturized Jump Modle"
+tech_acot_army_mat_desc: "Although the MBTs used are considerably much more flexible and mobile than their old predecessors in the early 2100, they are still notably slower and harder to maneuver compared to infantry forces or Landcruisers. A breakthrough in nano-tech may allow us to create a more sophisticiated but powerful variant of the MBTs that can utilize blinking techniques and perhaps even dimensional jumping technique."
+ 
+acot_army_mat_hero: "Martellus Landcruiser"
+acot_army_mat_hero_plural: "Martellus Landcruisers"
+acot_army_mat_hero_desc: "These enormous behemoths can lay wastes to the battlefield, either by utilizing battleship weapons or simply crush their enemies under their enormous weight. Let us see how those dumb spiritualists will fare well against our might!"
+ 
+tech_acot_army_mat_hero: "Landcruiser"
+tech_acot_army_mat_hero_desc: "§YHeroic Army§!\n\nSome spiritualist fools mock our use of "soulless machines" during the war while ignoring the fact that machines and superior technologies win wars, not idiotic beliefs. We must make them understand this simple fact by creating a "soulless machine" so large and powerful to hurry these spiritualistic idiots to their promised nirvana."
+ 
+megatank_limit_tooltip: "A Landcruiser is a huge investment that requires a lot of both resources and crew training. We can only build only a few at any given time."
+ 
+################ SPIRITUALIST
+ 
+acot_army_spirit: "Inquisitor Army"
+acot_army_spirit_plural: "Inquisitor Armies"
+acot_army_spirit_desc: "§YSpecialist Infantry§!\nThese zealous holy warriors go into war carrying a blessed hammer and holy armor enchanted with dark matter power. They are trained to channel their inner faith to protect themselves from harm. The Inquisitors train both their body and mind to ignore pain and fear without relying on any technology. So it is not uncommon for them to be the last army standing."
+ 
+acot_army_spirit_se: "Sigma Inquisitor Army"
+acot_army_spirit_se_plural: "Sigma Inquisitor Armies"
+acot_army_spirit_se_desc: "§YSpecialist Infantry§!\nThese zealous holy warriors go into war carrying a blessed hammer and holy armor enchanted with dark matter power. They are trained to channel their inner faith to protect themselves from harm. The Inquisitors train both their body and mind to ignore pain and fear without relying on any technology. So it is not uncommon for them to be the last army standing."
+
+tech_acot_army_spirit: "Inquisitorius Order Formation"
+tech_acot_army_spirit_desc: "While our empire already has dedicated priests who help guide our people towards greater purpose, we see the possibilities of creating a new religious sect that works directly with the military using these new dark matter energies."
+ 
+acot_army_spirit_hero: "Living Saint"
+acot_army_spirit_hero_plural: "Living Saints"
+acot_army_spirit_hero_desc: "Living Saints are those who embody the purity of the faith. They radiate the aura of righteousness and purity, granting the army they lead unbreakable morale. Salvation shall be brought to the sinners..through annihilation!"
+ 
+tech_acot_army_spirit_hero: "Chosen of the Faith"
+tech_acot_army_spirit_hero_desc: "Even amongst the most faithful of our people, there are some who's not only devoted to the faith but seem to be favored and chosen by the spirits themselves. Tales of saints, displaying auras of holiness spread across our systems. We should quickly seek them out and properly sanctify them as the rightful saints of our holy order."
+ 
+saint_limit_tooltip: "Living Saints are rare beings, some priests have devoted themselves fully to the faith in hopes of becoming one, to no avail. Alas, our empire cannot find any more saints to form a proper army at the moment."
+
+################ HIVE
+ 
+tech_acot_army_hive_3: "Enhanced Warrior Mutation"
+tech_acot_army_hive_3_desc: "Warriors of the hive must constantly adapt to new threats posed by the galaxy. Faster, Stronger, Deadlier, Better."
+
+tech_acot_army_hive_5: "Advanced Warrior Sequences"
+tech_acot_army_hive_5_desc: "Only through constant adaptation can the Hive brings the greatest expression of biological evolution to bear."
+
+tech_acot_army_hive_dm: "Delta Strains Mutation"
+tech_acot_army_hive_dm_desc: "Adapting the genetic sequences of the ancient hives of the past will improve the strength of the Hive's warriors."
+
+tech_acot_army_hive_ae: "Alpha Master Strains"
+tech_acot_army_hive_ae_desc: "Adapting the genetic sequences of the ancient hives of the past will improve the strength of the Hive's warriors."
+
+tech_acot_army_hive_se: "Sigma Master Strains"
+tech_acot_army_hive_se_desc: "Adapting the genetic sequences of the ancient hives of the past will improve the strength of the Hive's warriors."
+
+################ DEFENSE
+
+acot_hive_defense_army_1: "Hive Defender"
+acot_hive_defense_army_1_plural: "Hive Defenders"
+acot_hive_defense_army_1_desc: "Defender-castes are designed to guard the Hive from hostile elements. They are more durable than Predator-castes, but are slower."
+
+acot_hive_defense_army_dm: "Delta Hive Defenders"
+acot_hive_defense_army_dm_plural: "Hive Defenders"
+acot_hive_defense_army_dm_desc: "Defender-castes are designed to guard the Hive from hostile elements. They are more durable than Predator-castes, but are slower."
+
+acot_hive_defense_army_ae: "Alpha Hive Defender"
+acot_hive_defense_army_ae_plural: "Alpha Hive Defenders"
+acot_hive_defense_army_ae_desc: "Defender-castes are designed to guard the Hive from hostile elements. They are more durable than Predator-castes, but are slower."
+
+##########
+
+acot_hive_defense_army_light_1: "Hive Guardian"
+acot_hive_defense_army_light_1_plural: "Hive Guardians"
+acot_hive_defense_army_light_1_desc: "Guardian-castes lead the defenders in defensive battles. Their durable carapaces provide protection against their weaker cousins."
+
+acot_hive_defense_army_light_dm: "Delta Hive Guardian"
+acot_hive_defense_army_light_dm_plural: "Delta Hive Guardians"
+acot_hive_defense_army_light_dm_desc: "Guardian-castes lead the defenders in defensive battles. Their durable carapaces provide protection against their weaker cousins."
+
+acot_hive_defense_army_light_ae: "Alpha Hive Guardian"
+acot_hive_defense_army_light_ae_plural: "Hive Guardians"
+acot_hive_defense_army_light_ae_desc: "Guardian-castes lead the defenders in defensive battles. Their durable carapaces provide protection against their weaker cousins."
+
+##########
+
+acot_hive_defense_army_heavy_1: "Hive Royal Guard"
+acot_hive_defense_army_heavy_1_plural: "Hive Royal Guards"
+acot_hive_defense_army_heavy_1_desc: "Royal Guards emerge only to defend the most important Hive colonies. Their presences alone will scare lesser men to the core."
+
+acot_hive_defense_army_heavy_dm: "Delta Hive Royal Guard"
+acot_hive_defense_army_heavy_dm_plural: "Delta Hive Royal Guards"
+acot_hive_defense_army_heavy_dm_desc: "Royal Guards emerge only to defend the most important Hive colonies. Their presences alone will scare lesser men to the core."
+
+acot_hive_defense_army_heavy_ae: "Alpha Hive Royal Guard"
+acot_hive_defense_army_heavy_ae_plural: "Hive Royal Guards"
+acot_hive_defense_army_heavy_ae_desc: "Royal Guards emerge only to defend the most important Hive colonies. Their presences alone will scare lesser men to the core."
+
+##########
+
+offspring_defense: "Offspring-Led Defender"
+offspring_defense_plural: "Offspring-Led Defenders"
+offspring_defense_desc: "Defender-castes are designed to guard the Hive from hostile elements. They are more durable than Predator-castes, but are slower."
+
+################ Offense
+
+acot_hive_infantry_1: "Hive Predator"
+acot_hive_infantry_1_plural: "Hive Predators"
+acot_hive_infantry_1_desc: "Predators are agile skirmishers that can make use of the Hive's various weapons and technologies. They are given basic level of instinct, learning how to take cover and engage when needed. Their ferecity will strike fear into lesser men's hearts, but their light exo-skeletons make them vulnerable to enemy fire, particualy those that do not fear the swarm."
+
+acot_hive_infantry_dm: "Delta Hive Predator"
+acot_hive_infantry_dm_plural: "Delta Hive Predators"
+acot_hive_infantry_dm_desc: "Predators are agile skirmishers that can make use of the Hive's various weapons and technologies. They are given basic level of instinct, learning how to take cover and engage when needed. Their ferecity will strike fear into lesser men's hearts, but their light exo-skeletons make them vulnerable to enemy fire, particualy those that do not fear the swarm."
+
+acot_hive_infantry_ae: "Alpha Hive Predator"
+acot_hive_infantry_ae_plural: "Alpha Hive Predators"
+acot_hive_infantry_ae_desc: "Predators are agile skirmishers that can make use of the Hive's various weapons and technologies. They are given basic level of instinct, learning how to take cover and engage when needed. Their ferecity will strike fear into lesser men's hearts, but their light exo-skeletons make them vulnerable to enemy fire, particualy those that do not fear the swarm."
+
+acot_hive_infantry_se: "Simga Hive Predator"
+acot_hive_infantry_se_plural: "Simga Hive Predators"
+acot_hive_infantry_se_desc: "Predators are agile skirmishers that can make use of the Hive's various weapons and technologies. They are given basic level of instinct, learning how to take cover and engage when needed. Their ferecity will strike fear into lesser men's hearts, but their light exo-skeletons make them vulnerable to enemy fire, particualy those that do not fear the swarm."
+
+#########
+
+acot_hive_light_1: "Hive Warrior"
+acot_hive_light_1_plural: "Hive Warriors"
+acot_hive_light_1_desc: "§YMedium Hive Monster§!\nWarrior-strain drones excel at preying upon the fear and mental weakness of their enemies, striking from unexpected angles and emit powerful, terrifying screech to strike terror into their enemies."
+
+acot_hive_light_dm: "Delta Hive Warrior"
+acot_hive_light_dm_plural: "Delta Hive Warriors"
+acot_hive_light_dm_desc: "§YMedium Hive Monster§!\nWarrior-strain drones excel at preying upon the fear and mental weakness of their enemies, striking from unexpected angles and emit powerful, terrifying screech to strike terror into their enemies."
+
+acot_hive_light_ae: "Alpha Hive Warrior"
+acot_hive_light_ae_plural: "Alpha Hive Warriors"
+acot_hive_light_ae_desc: "§YMedium Hive Monster§!\nWarrior-strain drones excel at preying upon the fear and mental weakness of their enemies, striking from unexpected angles and emit powerful, terrifying screech to strike terror into their enemies."
+
+acot_hive_light_se: "Simga Hive Warriors"
+acot_hive_light_se_plural: "Simga Hive Warriors"
+acot_hive_light_se_desc: "§YMedium Hive Monster§!\nWarrior-strain drones excel at preying upon the fear and mental weakness of their enemies, striking from unexpected angles and emit powerful, terrifying screech to strike terror into their enemies."
+
+#########
+
+
+acot_hive_clone_infantry_1: "Hive Cloned Predator"
+acot_hive_clone_infantry_1_plural: "Hive  ClonedPredators"
+acot_hive_clone_infantry_1_desc: "Cloned Predators are just as deadly as their normal counterparts in terms of combat-capabilities. But they sacrifice swarm cohesion for simpler morphing process, making them less effective at psychological warfare."
+
+acot_hive_clone_infantry_dm: "Delta Cloned Predator"
+acot_hive_clone_infantry_dm_plural: "Cloned Predators"
+acot_hive_clone_infantry_dm_desc: "Cloned Predators are just as deadly as their normal counterparts in terms of combat-capabilities. But they sacrifice swarm cohesion for simpler morphing process, making them less effective at psychological warfare."
+
+#########
+
+acot_hive_clone_light_1: "Hive Cloned Warrior"
+acot_hive_clone_light_1_plural: "Hive Cloned Warriors"
+acot_hive_clone_light_1_desc: "Cloned Warriors are just as deadly as their normal counterparts in terms of combat-capabilities. But they sacrifice swarm cohesion for simpler morphing process, making them less effective at psychological warfare."
+
+acot_hive_clone_light_dm: "Delta Cloned Warrior"
+acot_hive_clone_light_dm_plural: "Delta Cloned Warriors"
+acot_hive_clone_light_dm_desc: "Cloned Warriors are just as deadly as their normal counterparts in terms of combat-capabilities. But they sacrifice swarm cohesion for simpler morphing process, making them less effective at psychological warfare."
+
+acot_hive_clone_swarmer_1: "Hive Cloned Swarmer"
+acot_hive_clone_swarmer_1_plural: "Hive Cloned Swarmers"
+acot_hive_clone_swarmer_1_desc: "Already a very simple sequence, cloned swarmers are even smaller and simple than its normal counterparts. The Hive cannot possibly make them any less pathetic. But perhaps quantity is a quality in its own?"
+
+#########
+
+acot_hive_heavy_1: "Hive Destroyer"
+acot_hive_heavy_1_plural: "Hive Destroyers"
+acot_hive_heavy_1_desc: "§YLarge Hive Monster§!\nDestroyers act as the heavy assault drones of the Hive Army. They are typically infused with powerful essence, and are often powerful enough to destroy an entire fortification on their own."
+
+acot_hive_heavy_dm: "Delta Hive Destroyer"
+acot_hive_heavy_dm_plural: "Delta Hive Destroyers"
+acot_hive_heavy_dm_desc: "§YLarge Hive Monster§!\nDestroyers act as the heavy assault drones of the Hive Army. They are typically infused with powerful essence, and are often powerful enough to destroy an entire fortification on their own."
+
+acot_hive_heavy_ae: "Alpha Hive Destroyer"
+acot_hive_heavy_ae_plural: "Alpha Hive Destroyers"
+acot_hive_heavy_ae_desc: "§YLarge Hive Monster§!\nDestroyers act as the heavy assault drones of the Hive Army. They are typically infused with powerful essence, and are often powerful enough to destroy an entire fortification on their own."
+
+acot_hive_heavy_se: "Simga Hive Destroyer"
+acot_hive_heavy_se_plural: "Simga Hive Destroyers"
+acot_hive_heavy_se_desc: "§YLarge Hive Monster§!\nDestroyers act as the heavy assault drones of the Hive Army. They are typically infused with powerful essence, and are often powerful enough to destroy an entire fortification on their own."
+
+#########
+
+acot_hive_heavy_cocoon_1: "Hive Destroyer Cocoon"
+acot_hive_heavy_cocoon_1_plural: "Hive Destroyer Cocoons"
+acot_hive_heavy_cocoon_1_desc: "§YHive Cocoon§!\nThese cocoons, if protected, can be hatched back into a proper warrior after the battle. They are, otherwise however, defenseless."
+
+acot_hive_heavy_cocoon_dm: "Delta Hive Destroyer Cocoon"
+acot_hive_heavy_cocoon_dm_plural: "Delta Hive Destroyer Cocoons"
+acot_hive_heavy_cocoon_dm_desc: "§YHive Cocoon§!\nThese cocoons, if protected, can be hatched back into a proper warrior after the battle. They are, otherwise however, defenseless."
+
+acot_hive_heavy_cocoon_ae: "Alpha Hive Destroyer Cocoon"
+acot_hive_heavy_cocoon_ae_plural: "Alpha Hive Destroyer Cocoons"
+acot_hive_heavy_cocoon_ae_desc: "§YHive Cocoon§!\nThese cocoons, if protected, can be hatched back into a proper warrior after the battle. They are, otherwise however, defenseless."
+
+acot_hive_heavy_cocoon_se: "Simga Hive Destroyer Cocoon"
+acot_hive_heavy_cocoon_se_plural: "Simga Hive Destroyer Cocoons"
+acot_hive_heavy_cocoon_se_desc: "§YHive Cocoon§!\nThese cocoons, if protected, can be hatched back into a proper warrior after the battle. They are, otherwise however, defenseless."
+
+##############################################
+
+acot_hive_swarmer_1: "Hive Swarmer"
+acot_hive_swarmer_1_plural: "Hive Swarmers"
+acot_hive_swarmer_1_desc: "Swarmers are very basic drones with simple genetic makeups, making them extremely easy to morph. They have no instinct and exist only to swarm upon their preys in massive numbers using biological-based attacks."
+
+acot_hive_swarmer_dm: "Delta Hive Swarmer"
+acot_hive_swarmer_dm_plural: "Delta Hive Swarmers"
+acot_hive_swarmer_dm_desc: "Swarmers are very basic drones with simple genetic makeups, making them extremely easy to morph. They have no instinct and exist only to swarm upon their preys in massive numbers using biological-based attacks."
+
+acot_hive_swarmer_ae: "Alpha Hive Swarmer"
+acot_hive_swarmer_ae_plural: "Alpha Hive Swarmers"
+acot_hive_swarmer_ae_desc: "Swarmers are very basic drones with simple genetic makeups, making them extremely easy to morph. They have no instinct and exist only to swarm upon their preys in massive numbers using biological-based attacks."
+
+acot_hive_swarmer_se: "Simga Hive Swarmer"
+acot_hive_swarmer_se_plural: "Simga Hive Swarmers"
+acot_hive_swarmer_se_desc: "Swarmers are very basic drones with simple genetic makeups, making them extremely easy to morph. They have no instinct and exist only to swarm upon their preys in massive numbers using biological-based attacks."
+
+#########
+
+acot_hive_broodling_1: "Hive Broodlings"
+acot_hive_broodling_1_plural: "Hive Broodlings"
+acot_hive_broodling_1_desc: "Larger Hive drones often spawn broodlings upon their "death". These broodlings are weak, but can work as extra fodders."
+
+acot_hive_broodling_dm: "Delta Hive Broodlings"
+acot_hive_broodling_dm_plural: "Delta Hive Broodlings"
+acot_hive_broodling_dm_desc: "Larger Hive drones often spawn broodlings upon their "death". These broodlings are weak, but can work as extra fodders."
+
+acot_hive_broodling_ae: "Alpha Hive Broodlings"
+acot_hive_broodling_ae_plural: "Alpha Hive Broodlings"
+acot_hive_broodling_ae_desc: "Larger Hive drones often spawn broodlings upon their "death". These broodlings are weak, but can work as extra fodders."
+
+acot_hive_broodling_se: "Simga Hive Broodlings"
+acot_hive_broodling_se_plural: "Simga Hive Broodlings"
+acot_hive_broodling_se_desc: "Larger Hive drones often spawn broodlings upon their "death". These broodlings are weak, but can work as extra fodders."
+
+#########
+
+acot_army_hive_gene: "Hive Essence Collector"
+acot_army_hive_gene_plural: "Hive Essence Collectors"
+acot_army_hive_gene_desc: "§YMedium Hive Monster§!\nEssence Collectors are genetically-enhanced Combat Drones designed to bring terror against their enemies through clever use of tactics, before utterly consuming their essences to enhance their own."
+
+acot_army_hive_gene_ae: "Alpha Essence Collector"
+acot_army_hive_gene_ae_plural: "Alpha Essence Collectors"
+acot_army_hive_gene_ae_desc: "§YMedium Hive Monster§!\nEssence Collectors are genetically-enhanced Combat Drones designed to bring terror against their enemies through clever use of tactics, before utterly consuming their essences to enhance their own."
+
+acot_army_hive_gene_se: "Sigma Essence Collector"
+acot_army_hive_gene_se_plural: "Sigma Essence Collectors"
+acot_army_hive_gene_se_desc: "§YMedium Hive Monster§!\nEssence Collectors are genetically-enhanced Combat Drones designed to bring terror against their enemies through clever use of tactics, before utterly consuming their essences to enhance their own."
+
+#####
+
+acot_army_hive_gene_cocoon: "Essence Collector Cocoon"
+acot_army_hive_gene_cocoon_plural: "Essence Collector Cocoons"
+acot_army_hive_gene_cocoon_desc: "§YHive Cocoon§!\nThese cocoons, if protected, can be hatched back into a proper warrior after the battle. They are, otherwise however, defenseless."
+
+acot_army_hive_gene_cocoon_dm: "Delta Essence Collector Cocoon"
+acot_army_hive_gene_cocoon_dm_plural: "Delta Essence Collector Cocoons"
+acot_army_hive_gene_cocoon_dm_desc: "§YHive Cocoon§!\nThese cocoons, if protected, can be hatched back into a proper warrior after the battle. They are, otherwise however, defenseless."
+
+acot_army_hive_gene_cocoon_ae: "Alpha Essence Collector Cocoon"
+acot_army_hive_gene_cocoon_ae_plural: "Alpha Essence Collector Cocoons"
+acot_army_hive_gene_cocoon_ae_desc: "§YHive Cocoon§!\nThese cocoons, if protected, can be hatched back into a proper warrior after the battle. They are, otherwise however, defenseless."
+
+acot_army_hive_gene_cocoon_se: "Simga Essence Collector Cocoon"
+acot_army_hive_gene_cocoon_se_plural: "Simga Essence Collector Cocoons"
+acot_army_hive_gene_cocoon_se_desc: "§YHive Cocoon§!\nThese cocoons, if protected, can be hatched back into a proper warrior after the battle. They are, otherwise however, defenseless."
+
+#########
+
+acot_army_hive_control: "Mastermind"
+acot_army_hive_control_plural: "Masterminds"
+acot_army_hive_control_desc: "§YMedium Hive Monster§!\nMasterminds are advanced warrior drones with cognitive functions similar to that of command-castes. This gives them the unique ability to not only conduct powerful psychological warfare against enemy combatants but also perform at much greater efficiency. The drawback is that the Masterminds will lose focus when under pressure, which may hamper their combat performance."
+ 
+acot_army_hive_control_se: "Sigma Mastermind"
+acot_army_hive_control_se_plural: "Sigma Masterminds"
+acot_army_hive_control_se_desc: "§YMedium Hive Monster§!\nMasterminds are advanced warrior drones with cognitive functions similar to that of command-castes. This gives them the unique ability to not only conduct powerful psychological warfare against enemy combatants but also perform at much greater efficiency. The drawback is that the Masterminds will lose focus when under pressure, which may hamper their combat performance."
+
+acot_army_hive_control_cocoon: "Alpha Mastermind Cocoon"
+acot_army_hive_control_cocoon_plural: "Alpha Mastermind Cocoons"
+acot_army_hive_control_cocoon_desc: "§YHive Cocoon§!\nThese cocoons, if protected, can be hatched back into a proper warrior after the battle. They are, otherwise however, defenseless."
+
+acot_army_hive_control_cocoon_se: "Simga Mastermind Cocoon"
+acot_army_hive_control_cocoon_se_plural: "Simga Mastermind Cocoons"
+acot_army_hive_control_cocoon_se_desc: "§YHive Cocoon§!\nThese cocoons, if protected, can be hatched back into a proper warrior after the battle. They are, otherwise however, defenseless."
+
+tech_acot_army_hive_control: "Mastermind on the Move"
+tech_acot_army_hive_control_desc: "Masterminds are advanced warrior drones with cognitive functions similar to that of command-castes. This gives them the unique ability to not only conduct powerful psychological warfare against enemy combatants but also perform at much greater efficiency. The drawback is that the Masterminds will lose focus when under pressure, which may hamper their combat performance."
+ 
+acot_army_hive_hero: "Terror From Beyond"
+acot_army_hive_hero_plural: "Terror From Beyonds"
+acot_army_hive_hero_desc: "Linked to the hive mind itself, the Terror From Beyond's only goal is to consume everything - organic, divided, metals, energies. It exists as the extension of the self, anything it consumes empowers the hive mind, which in turns empowers the Terror."
+ 
+tech_acot_army_hive_hero: "The Great Hungerer"
+tech_acot_army_hive_hero_desc: "The self requires more than drones who follow instructions and destroy our foes - no - The self needs the avatar of which the self can directly control. From this avatar of terror shall our collective crush all foes, be it the divided, the metals or the opposing hives."
+ 
+terror_limit_tooltip: "The Hive Mind must directly control the Terror, we cannot divert any more psionic links to control another of this horrifying organism."
+ 
+################ MACHINE
+ 
+tech_acot_army_machine_dm: "Delta Assault Platform Template"
+tech_acot_army_machine_dm_desc: "Delta-Level Access must be downloaded on all combat platforms to enhance our army fighting capabilities."
+ 
+tech_acot_army_machine_ae: "Alpha Assault Platform Template"
+tech_acot_army_machine_ae_desc: "Alpha-Level Access requested to upgrade all combat platforms to the latest designs."
+ 
+tech_acot_army_machine_se: "Sigma Assault Platform Template"
+tech_acot_army_machine_se_desc: "Sigma-Level Access required to boost all combat platforms to their highest potential."
+ 
+##################################
+
+machine_defense: "Enforcer Unit"
+machine_defense_plural: "Enforcer Units"
+machine_defense_desc: "Enforcer Units are light security units designed to patrol and defend the planet using the machine's powerful defense grid network."
+
+acot_defense_drone_dm: "Delta Enforcer Unit"
+acot_defense_drone_dm_plural: "Delta Enforcer Units"
+acot_defense_drone_dm_desc: "Enforcer Units are light security units designed to patrol and defend the planet using the machine's powerful defense grid network."
+
+acot_defense_drone_ae: "Alpha Enforcer Unit"
+acot_defense_drone_ae_plural: "Alpha Enforcer Units"
+acot_defense_drone_ae_desc: "Enforcer Units are light security units designed to patrol and defend the planet using the machine's powerful defense grid network."
+
+acot_defense_drone_light: "Sentinel Unit"
+acot_defense_drone_light_plural: "Sentinel Units"
+acot_defense_drone_light_desc: "Sentinel Units not only have superior combat platforms, but can also load command modules to establish control with the lesser enforcer units. This allows them to work in unison to defend the Machine Defense Grid."
+
+acot_defense_drone_light_dm: "Delta Sentinel Unit"
+acot_defense_drone_light_dm_plural: "Delta Sentinel Units"
+acot_defense_drone_light_dm_desc: "Sentinel Drones not only have superior combat platforms, but can also load command modules to establish control with the lesser enforcer units. This allows them to work in unison to defend the Machine Defense Grid."
+
+acot_defense_drone_light_ae: "Alpha Sentinel Unit"
+acot_defense_drone_light_ae_plural: "Alpha Sentinel Units"
+acot_defense_drone_light_ae_desc: "Sentinel Drones not only have superior combat platforms, but can also load command modules to establish control with the lesser enforcer units. This allows them to work in unison to defend the Machine Defense Grid."
+
+acot_defense_drone_heavy: "Machine Core Unit"
+acot_defense_drone_heavy_plural: "Machine Core Units"
+acot_defense_drone_heavy_desc: "Machine Cores are powerful spherical platform that command lesser units in defensive battle. The Cores are formidable in their own right, capable of destroying invaders with their concealed weapon systems."
+
+acot_defense_drone_heavy_dm: "Delta Machine Core Unit"
+acot_defense_drone_heavy_dm_plural: "Delta Machine Core Units"
+acot_defense_drone_heavy_dm_desc: "Machine Cores are powerful spherical platform that command lesser units in defensive battle. The Cores are formidable in their own right, capable of destroying invaders with their concealed weapon systems."
+
+acot_defense_drone_heavy_ae: "Alpha Machine Core Unit"
+acot_defense_drone_heavy_ae_plural: "Alpha Machine Core Units"
+acot_defense_drone_heavy_ae_desc: "Machine Cores are powerful spherical platform that command lesser units in defensive battle. The Cores are formidable in their own right, capable of destroying invaders with their concealed weapon systems."
+
+################
+
+acot_army_machine_cyborg_defense: "Machine Cyborg Regiment"
+acot_army_machine_cyborg_defense_plural: "Machine Cyborg Regiments"
+acot_army_machine_cyborg_defense_desc: "Machine Cyborgs are organic soldiers who are grafted with cybernetic implants that link their consciousness to the Machine Gestalt. This enables them to serve the cause of their machine masters in the capacity that may otherwise be ill-suited for the ordinary machines."
+
+acot_army_machine_cyborg_defense_dm: "Delta Machine Cyborg Regiment"
+acot_army_machine_cyborg_defense_dm_plural: "Delta Machine Cyborg Regiments"
+acot_army_machine_cyborg_defense_dm_desc: "Machine Cyborgs are organic soldiers who are grafted with cybernetic implants that link their consciousness to the Machine Gestalt. This enables them to serve the cause of their machine masters in the capacity that may otherwise be ill-suited for the ordinary machines."
+
+acot_army_machine_cyborg_defense_ae: "Alpha Machine Cyborg Regiment"
+acot_army_machine_cyborg_defense_ae_plural: "Alpha Machine Cyborg Regiments"
+acot_army_machine_cyborg_defense_ae_desc: "Machine Cyborgs are organic soldiers who are grafted with cybernetic implants that link their consciousness to the Machine Gestalt. This enables them to serve the cause of their machine masters in the capacity that may otherwise be ill-suited for the ordinary machines."
+
+acot_army_machine_cyborg_defense_light: "Machine Cyborg Reapers"
+acot_army_machine_cyborg_defense_light_plural: "Machine Cyborg Reapers"
+acot_army_machine_cyborg_defense_light_desc: "Cyborg Reapers are essentially cybernetic walkers that towers above normal infantry. They lead other cyborgs in defense battles."
+
+acot_army_machine_cyborg_defense_light_dm: "Delta Machine Cyborg Reapers"
+acot_army_machine_cyborg_defense_light_dm_plural: "Delta Machine Cyborg Reapers"
+acot_army_machine_cyborg_defense_light_dm_desc: "Cyborg Reapers are essentially cybernetic walkers that towers above normal infantry. They lead other cyborgs in defense battles."
+
+acot_army_machine_cyborg_defense_light_ae: "Alpha Machine Cyborg Reapers"
+acot_army_machine_cyborg_defense_light_ae_plural: "Alpha Machine Cyborg Reapers"
+acot_army_machine_cyborg_defense_light_ae_desc: "Cyborg Reapers are essentially cybernetic walkers that towers above normal infantry. They lead other cyborgs in defense battles."
+
+acot_army_machine_cyborg_defense_heavy: "Machine Cyborg Commander"
+acot_army_machine_cyborg_defense_heavy_plural: "Machine Cyborg Commanders"
+acot_army_machine_cyborg_defense_heavy_desc: "Cyborg Commanders are given stronger processing powers, enabling them to not only efficiently coordinate defensive plans with their cybernetic forces, but also utilize more advanced weapon systems."
+
+acot_army_machine_cyborg_defense_heavy_dm: "Delta Machine Cyborg Commander"
+acot_army_machine_cyborg_defense_heavy_dm_plural: "Delta Machine Cyborg Commanders"
+acot_army_machine_cyborg_defense_heavy_dm_desc: "Cyborg Commanders are given stronger processing powers, enabling them to not only efficiently coordinate defensive plans with their cybernetic forces, but also utilize more advanced weapon systems."
+
+acot_army_machine_cyborg_defense_heavy_ae: "Alpha Machine Cyborg Commander"
+acot_army_machine_cyborg_defense_heavy_ae_plural: "Alpha Machine Cyborg Commanders"
+acot_army_machine_cyborg_defense_heavy_ae_desc: "Cyborg Commanders are given stronger processing powers, enabling them to not only efficiently coordinate defensive plans with their cybernetic forces, but also utilize more advanced weapon systems."
+
+################
+
+machine_assault_1: "Light Combat Unit"
+machine_assault_1_plural: "Light Combat Unit"
+machine_assault_1_desc: "Light Combat Units are retrofitted domestic units to fight on the battle. They are equipped with basic infantry-sized weapons that are effective against most light targets. Their durable frames allow them to shrug off some attacks before total system failure, but they are not very intimidating, and tends to fall short against compoetent organic soldiers."
+
+acot_army_machine_dm: "Delta Light Combat Unit"
+acot_army_machine_dm_plural: "Delta Light Combat Units"
+acot_army_machine_dm_desc: "Light Combat Units are retrofitted domestic units to fight on the battle. They are equipped with basic infantry-sized weapons that are effective against most light targets. Their durable frames allow them to shrug off some attacks before total system failure, but they are not very intimidating, and tends to fall short against compoetent organic soldiers."
+ 
+acot_army_machine_ae: "Alpha Light Combat Unit"
+acot_army_machine_ae_plural: "Alpha Light Combat Units"
+acot_army_machine_ae_desc: "Light Combat Units are retrofitted domestic units to fight on the battle. They are equipped with basic infantry-sized weapons that are effective against most light targets. Their durable frames allow them to shrug off some attacks before total system failure, but they are not very intimidating, and tends to fall short against compoetent organic soldiers."
+ 
+acot_army_machine_se: "Sigma Light Combat Unit"
+acot_army_machine_se_plural: "Sigma Light Combat Units"
+acot_army_machine_se_desc: "Light Combat Units are retrofitted domestic units to fight on the battle. They are equipped with basic infantry-sized weapons that are effective against most light targets. Their durable frames allow them to shrug off some attacks before total system failure, but they are not very intimidating, and tends to fall short against compoetent organic soldiers."
+ 
+acot_army_machine_torso: "Damaged Light Combat Unit"
+acot_army_machine_torso_plural: "Damaged Light Combat Units"
+acot_army_machine_torso_desc: "This combat unit's mobility has been crippled after sustaining critical damage, but its ability to fight remains somewhat intact. If it survives the battle, it may yet be repaired to operate at its full capacity."
+
+acot_army_machine_torso_dm: "Damaged Light Combat Unit"
+acot_army_machine_torso_dm_plural: "Damaged Light Combat Units"
+acot_army_machine_torso_dm_desc: "This combat unit's mobility has been crippled after sustaining critical damage, but its ability to fight remains somewhat intact. If it survives the battle, it may yet be repaired to operate at its full capacity."
+
+acot_army_machine_torso_ae: "Damaged Light Combat Unit"
+acot_army_machine_torso_ae_plural: "Damaged Light Combat Units"
+acot_army_machine_torso_ae_desc: "This combat unit's mobility has been crippled after sustaining critical damage, but its ability to fight remains somewhat intact. If it survives the battle, it may yet be repaired to operate at its full capacity."
+
+acot_army_machine_torso_se: "Damaged Light Combat Unit"
+acot_army_machine_torso_se_plural: "Damaged Light Combat Units"
+acot_army_machine_torso_se_desc: "This combat unit's mobility has been crippled after sustaining critical damage, but its ability to fight remains somewhat intact. If it survives the battle, it may yet be repaired to operate at its full capacity."
+
+######### SPM
+
+acot_army_machine_spm: "SPM Unit"
+acot_army_machine_spm_plural: "SPM Unit"
+acot_army_machine_spm_desc: "SPM Units are mass-produced, simple combat units with very basic design and processing power. They are mildly intelligent enough to know what to attack and what not to, most of the times."
+
+acot_army_machine_spm_dm: "Delta SPM Unit"
+acot_army_machine_spm_dm_plural: "Delta SPM Units"
+acot_army_machine_spm_dm_desc: "SPM Units are mass-produced, simple combat units with very basic design and processing power. They are mildly intelligent enough to know what to attack and what not to, most of the times."
+ 
+acot_army_machine_spm_ae: "Alpha SPM Unit"
+acot_army_machine_spm_ae_plural: "Alpha SPM Units"
+acot_army_machine_spm_ae_desc: "SPM Units are mass-produced, simple combat units with very basic design and processing power. They are mildly intelligent enough to know what to attack and what not to, most of the times."
+ 
+acot_army_machine_spm_se: "Sigma SPM Unit"
+acot_army_machine_spm_se_plural: "Sigma SPM Units"
+acot_army_machine_spm_se_desc: "SPM Units are mass-produced, simple combat units with very basic design and processing power. They are mildly intelligent enough to know what to attack and what not to, most of the times."
+
+#########
+
+machine_assault_2: "Adept Combat Unit"
+machine_assault_2_plural: "Adept Combat Unit"
+machine_assault_2_desc: "Programmed for battle, Adepts are well-suited for most ground battles and can quickly close in upon the enemy to deal terrible damage. They are strong enough to stand toe-to-toe against even tanks or aircrafts."
+
+acot_army_machine_light_dm: "Delta Adept Combat Unit"
+acot_army_machine_light_dm_plural: "Delta Adept Combat Units"
+acot_army_machine_light_dm_desc: "Programmed for battle, Adepts are well-suited for most ground battles and can quickly close in upon the enemy to deal terrible damage. They are strong enough to stand toe-to-toe against even tanks or aircrafts."
+ 
+acot_army_machine_light_ae: "Alpha Adept Combat Unit"
+acot_army_machine_light_ae_plural: "Alpha Adept Combat Units"
+acot_army_machine_light_ae_desc: "Programmed for battle, Adepts are well-suited for most ground battles and can quickly close in upon the enemy to deal terrible damage. They are strong enough to stand toe-to-toe against even tanks or aircrafts."
+ 
+acot_army_machine_light_se: "Sigma Adept Combat Unit"
+acot_army_machine_light_se_plural: "Sigma Adept Combat Units"
+acot_army_machine_light_se_desc: "Programmed for battle, Adepts are well-suited for most ground battles and can quickly close in upon the enemy to deal terrible damage. They are strong enough to stand toe-to-toe against even tanks or aircrafts."
+
+##########################
+
+acot_army_machine_light_torso: "Damaged Adept Combat Unit"
+acot_army_machine_light_torso_plural: "Damaged Adept Combat Unit"
+acot_army_machine_light_torso_desc: "This combat unit's mobility has been crippled after sustaining critical damage, but its ability to fight remains somewhat intact. If it survives the battle, it may yet be repaired to operate at its full capacity."
+
+acot_army_machine_light_torso_dm: "Damaged Delta Adept Combat Unit"
+acot_army_machine_light_torso_dm_plural: "Damaged Delta Adept Combat Units"
+acot_army_machine_light_torso_dm_desc: "This combat unit's mobility has been crippled after sustaining critical damage, but its ability to fight remains somewhat intact. If it survives the battle, it may yet be repaired to operate at its full capacity."
+ 
+acot_army_machine_light_torso_ae: "Damaged Alpha Adept Combat Unit"
+acot_army_machine_light_torso_ae_plural: "Damaged Alpha Adept Combat Units"
+acot_army_machine_light_torso_ae_desc: "This combat unit's mobility has been crippled after sustaining critical damage, but its ability to fight remains somewhat intact. If it survives the battle, it may yet be repaired to operate at its full capacity."
+ 
+acot_army_machine_light_torso_se: "Damaged Sigma Adept Combat Unit"
+acot_army_machine_light_torso_se_plural: "Damaged Sigma Adept Combat Units"
+acot_army_machine_light_torso_se_desc: "This combat unit's mobility has been crippled after sustaining critical damage, but its ability to fight remains somewhat intact. If it survives the battle, it may yet be repaired to operate at its full capacity."
+
+#########
+
+machine_assault_3: "Mega War-Form"
+machine_assault_3_plural: "Mega War-Forms"
+machine_assault_3_desc: "Towering over lesser units, Mega War-Form are the Machine Empire's siege units designed to break enemy formation with fearsome firepower and nigh unbreakable defense."
+
+acot_army_machine_heavy_dm: "Delta Mega War-Form"
+acot_army_machine_heavy_dm_plural: "Delta  Mega War-Forms"
+acot_army_machine_heavy_dm_desc: "Towering over lesser units, Mega War-Form are the Machine Empire's siege units designed to break enemy formation with fearsome firepower and nigh unbreakable defense."
+ 
+acot_army_machine_heavy_ae: "Alpha Mega War-Form"
+acot_army_machine_heavy_ae_plural: "Alpha  Mega War-Forms"
+acot_army_machine_heavy_ae_desc: "Towering over lesser units, Mega War-Form are the Machine Empire's siege units designed to break enemy formation with fearsome firepower and nigh unbreakable defense."
+ 
+acot_army_machine_heavy_se: "Sigma Mega War-Form"
+acot_army_machine_heavy_se_plural: "Sigma Mega War-Forms"
+acot_army_machine_heavy_se_desc: "Towering over lesser units, Mega War-Form are the Machine Empire's siege units designed to break enemy formation with fearsome firepower and nigh unbreakable defense."
+
+#########
+
+acot_army_machine_cyborg: "Machine Cyborg Regiment"
+acot_army_machine_cyborg_plural: "Machine Cyborg Regiments"
+acot_army_machine_cyborg_desc: "Machine Cyborgs are organic soldiers who are grafted with cybernetic implants that link their consciousness to the Machine Gestalt. This enables them to serve the cause of their machine masters in the capacity that may otherwise be ill-suited for the ordinary machines."
+
+acot_army_machine_cyborg_dm: "Delta Machine Cyborg Regiment"
+acot_army_machine_cyborg_dm_plural: "Delta Machine Cyborg Regiments"
+acot_army_machine_cyborg_dm_desc: "Machine Cyborgs are organic soldiers who are grafted with cybernetic implants that link their consciousness to the Machine Gestalt. This enables them to serve the cause of their machine masters in the capacity that may otherwise be ill-suited for the ordinary machines."
+
+acot_army_machine_cyborg_ae: "Alpha Machine Cyborg Regiment"
+acot_army_machine_cyborg_ae_plural: "Alpha Machine Cyborg Regiments"
+acot_army_machine_cyborg_ae_desc: "Machine Cyborgs are organic soldiers who are grafted with cybernetic implants that link their consciousness to the Machine Gestalt. This enables them to serve the cause of their machine masters in the capacity that may otherwise be ill-suited for the ordinary machines."
+
+acot_army_machine_cyborg_se: "Sigma Machine Cyborg Regiment"
+acot_army_machine_cyborg_se_plural: "Sigma Machine Cyborg Regiments"
+acot_army_machine_cyborg_se_desc: "Machine Cyborgs are organic soldiers who are grafted with cybernetic implants that link their consciousness to the Machine Gestalt. This enables them to serve the cause of their machine masters in the capacity that may otherwise be ill-suited for the ordinary machines."
+
+##########################
+
+acot_army_machine_cyborg_torso: "Damaged Machine Cyborg Regiment"
+acot_army_machine_cyborg_torso_plural: "Damaged Machine Cyborg Regiments"
+acot_army_machine_cyborg_torso_desc: "This combat unit's mobility has been crippled after sustaining critical damage, but its ability to fight remains somewhat intact. If it survives the battle, it may yet be repaired to operate at its full capacity."
+
+acot_army_machine_cyborg_torso_dm: "Damaged Delta Machine Cyborg Regiment"
+acot_army_machine_cyborg_torso_dm_plural: "Damaged Delta Machine Cyborg Regiments"
+acot_army_machine_cyborg_torso_dm_desc: "This combat unit's mobility has been crippled after sustaining critical damage, but its ability to fight remains somewhat intact. If it survives the battle, it may yet be repaired to operate at its full capacity."
+
+acot_army_machine_cyborg_torso_ae: "Damaged Alpha Machine Cyborg Regiment"
+acot_army_machine_cyborg_torso_ae_plural: "Damaged Alpha Machine Cyborg Regiments"
+acot_army_machine_cyborg_torso_ae_desc: "This combat unit's mobility has been crippled after sustaining critical damage, but its ability to fight remains somewhat intact. If it survives the battle, it may yet be repaired to operate at its full capacity."
+
+acot_army_machine_cyborg_torso_se: "Damaged Sigma Machine Cyborg Regiment"
+acot_army_machine_cyborg_torso_se_plural: "Damaged Sigma Machine Cyborg Regiments"
+acot_army_machine_cyborg_torso_se_desc: "This combat unit's mobility has been crippled after sustaining critical damage, but its ability to fight remains somewhat intact. If it survives the battle, it may yet be repaired to operate at its full capacity."
+
+#########
+
+acot_army_machine_special: "Adaptive Force Unit"
+acot_army_machine_special_plural: "Adaptive Force Units"
+acot_army_machine_special_desc: "AFUs are, unlike other machine units, highly independent on the battlefield, they can formulate and analyze new plans of attack by adapting the enemy's patterns and behaviors. This gives them some edges in psychological warfare as they may utilize unconventional tactics to confuse their enemies. Downside of this design is that, should the AFUs be overwhelmed, they may overload their circuits as they try to hastily come up with strategies to get out of the mess."
+ 
+acot_army_machine_special_se: "Sigma Adaptive Force Unit"
+acot_army_machine_special_se_plural: "Sigma Adaptive Force Units"
+acot_army_machine_special_se_desc: "AFUs are, unlike other machine units, highly independent on the battlefield, they can formulate and analyze new plans of attack by adapting the enemy's patterns and behaviors. This gives them some edges in psychological warfare as they may utilize unconventional tactics to confuse their enemies. Downside of this design is that, should the AFUs be overwhelmed, they may overload their circuits as they try to hastily come up with strategies to get out of the mess."
+
+tech_acot_army_machine_special: "Adaptive Unit Logic"
+tech_acot_army_machine_special_desc: "Rather than relying on key command units to issue orders to lesser units, the Consensus may benefit from specialized special units that can adapt to battlefield's situation independently."
+ 
+acot_army_machine_hero: "Eradicator God-Machine"
+acot_army_machine_hero_plural: "Eradicator God-Machines"
+acot_army_machine_hero_desc: "While we do not believe in the concept of this purely organic-made entity known as "Gods", analysis has estimated that naming this mega-warmachine as such produces 69.34% more effective intimidation towards organics. A single energy lance from this machine is easily capable of melting an entire building into ashes." 
+ 
+tech_acot_army_machine_hero: "The Ultimate War Machine"
+tech_acot_army_machine_hero_desc: "Organics never cease to exceed our established parameters when it comes to their unorthodox strategies, we receive data regarding <Psionics>, <Genetically Enhanced Super-Soldiers> or <Extremely large combat vehicles>. We cannot..<will not> replicate their designs. Instead, we will create our own ultimate war machine that will discontinue all possible resistances be it <psionics> or not."
+ 
+godmech_limit_tooltip: "An Eradicator God-Machine is directly linked to our central processor itself. We can only assume direct control of one such machine."
+ 
+##########################
+
+acot_army_machine_special_torso: "Damaged Adaptive Force Unit"
+acot_army_machine_special_torso_plural: "Damaged Adaptive Force Units"
+acot_army_machine_special_torso_desc: "This combat unit's mobility has been crippled after sustaining critical damage, but its ability to fight remains somewhat intact. If it survives the battle, it may yet be repaired to operate at its full capacity."
+ 
+acot_army_machine_special_torso_se: "Damaged Sigma Adaptive Force Unit"
+acot_army_machine_special_torso_se_plural: "Damaged Sigma Adaptive Force Units"
+acot_army_machine_special_torso_se_desc: "This combat unit's mobility has been crippled after sustaining critical damage, but its ability to fight remains somewhat intact. If it survives the battle, it may yet be repaired to operate at its full capacity."
+
+################ GENETIC
+ 
+clone_army: "Clone Army"
+clone_army_plural: "Clone Armies"
+clone_army_desc: "Clone Soldiers are essentially artificial biological "robots", designed using the most optimal genetic codes to quickly assemble into killing machines. Although this cut downs on recruitment time quite a bit, the costs involved in the cloning process is not cheap.\n\nContrary to some beliefs, the Clones do not undergo accelerated growth from childbirth, they are simply born as adults, with pre-defined mental condition to serve the army."
+
+tech_acot_army_clone_dm: "Elite Clone Army Project"
+tech_acot_army_clone_dm_desc: "Updating our clone's genetic code and equip them with new technologies will keep them competitive against new armies."
+
+acot_army_clone_dm: "Elite Clone Army"
+acot_army_clone_dm_plural: "Elite Clone Army"
+acot_army_clone_dm_desc: "Clone Soldiers are essentially artificial biological "robots", designed using the most optimal genetic codes to quickly assemble into killing machines. Although this cut downs on recruitment time quite a bit, the costs involved in the cloning process is not cheap.\n\nContrary to some beliefs, the Clones do not undergo accelerated growth from childbirth, they are simply born as adults, with pre-defined mental condition to serve the army."
+
+acot_army_gene: "Gene Commando Squad"
+acot_army_gene_plural: "Gene Commando Squads"
+acot_army_gene_desc: "These enhanced commandos are not only genetically-engineered with some of the most powerful genetic traits our empire could muster, they are also equipped with some of the best cutting-edge equipment that makes other armies pale by comparison."
+ 
+acot_army_gene_se: "Sigma Gene Commando Squad"
+acot_army_gene_se_plural: "Sigma Gene Commando Squads"
+acot_army_gene_se_desc: "These enhanced commandos are not only genetically-engineered with some of the most powerful genetic traits our empire could muster, they are also equipped with some of the best cutting-edge equipment that makes other armies pale by comparison."
+
+tech_acot_army_gene: "Gene-Seeded Perfection"
+tech_acot_army_gene_desc: "With the technology we have acquired, we can further augment our current gene soldiers with the best traits our species can adapt to, greatly improving their combat capabilities. They will then be given our latest Dark Matter weaponries and equipment."
+ 
+acot_army_gene_hero: "Zenith Warrior"
+acot_army_gene_hero_plural: "Zenith Warriors"
+acot_army_gene_hero_desc: "The Zenith Warrior is the ultimate culmination of our empire's pursuit in gene purity. Genetically enhanced with the best traits from the precursors, the warrior towers above our ordinary soldiers and possesses immense strength, able to effortlessly carry ship-sized armaments."
+ 
+tech_acot_army_gene_hero: "Precursor Genetic Implementation"
+tech_acot_army_gene_hero_desc:  "While we have already reached the final culmination of our species' genetic potential, it is still inferior to that of the precursors. Our biologists suggest it may be possible to implement some of the deadliest and most powerful traits of the precursors to create one of the most powerful soldiers the galaxy has ever known."
+ 
+doomguy_limit_tooltip: "Out of millions of willing candidates, only one thus far gives a positive result from this much extensive genetic engineering. We cannot produce another Zenith Warrior as of now."
+ 
+
+################ PSIONIC
+ 
+acot_army_psi: "Dark Disciple"
+acot_army_psi_plural: "Dark Disciples"
+acot_army_psi_desc: "These disciples are not only proficient with their weapons, but are also capable of creating devastating psionic attacks against their foes directly."
+
+acot_army_psi_se: "Sigma Dark Disciple"
+acot_army_psi_se_plural: "Sigma Dark Disciples"
+acot_army_psi_se_desc: "These disciples are not only proficient with their weapons, but are also capable of creating devastating psionic attacks against their foes directly."
+
+tech_acot_army_psi: "Dark Disciples"
+tech_acot_army_psi_desc: "Psi Warriors, while already formidable due to their ability to communicate telepathically and destroy the enemy's morale, are still vulnerable to machine or genetic soldiers. We must start training new generations of psionic warriors who are able to use their psionic powers in a more direct fashion to attack our enemies."
+ 
+acot_army_psi_hero: "Dark Psion"
+acot_army_psi_hero_plural: "Dark Psions"
+acot_army_psi_hero_desc: "The most gifted disciple of the shroud, the dark psion's physic powers is only below that of the Chosen One. The psion is able to unleash devastating psionic storms to wreak havoc and destruction on the battlefield unwitnessed by any psionic beings before-hand."
+ 
+acot_army_psi_se_hero: "Dark Psion"
+acot_army_psi_se_hero_plural: "Dark Psions"
+acot_army_psi_se_hero_desc: "The most gifted disciple of the shroud, the dark psion's physic powers is only below that of the Chosen One. The psion is able to unleash devastating psionic storms to wreak havoc and destruction on the battlefield unwitnessed by any psionic beings before-hand."
+
+tech_acot_army_psi_hero: "The Second Gift"
+tech_acot_army_psi_hero_desc: "We have received interesting news, recently there's a report that the Shroud has chosen another individual, from within the ranks of our dark disciples as another avatar. While not as powerful as the original chosen one, this one possesses much more destructive power. We should seek this disciple out without delay."
+ 
+psion_limit_tooltip: "The shroud has thus far only bestowed such awesome power to only a single psion, we have yet to discover another who possesses comparable psionic powers."
+ 
+################ CYBERNETIC
+
+acot_army_cyborg: "Cyberman"
+acot_army_cyborg_plural: "Cybermen"
+acot_army_cyborg_desc: "Cybermen are advanced cybernetically enhanced super soldiers equipped with a variety of weapon systems that can adapt to any situations."
+ 
+acot_army_cyborg_se: "Sigma Cyberman"
+acot_army_cyborg_se_plural: "Sigma Cybermen"
+acot_army_cyborg_se_desc: "Cybermen are advanced cybernetically enhanced super soldiers equipped with a variety of weapon systems that can adapt to any situations."
+
+acot_army_cyborg_torso: "Damaged Cyberman"
+acot_army_cyborg_torso_plural: "Damaged Cybermen"
+acot_army_cyborg_torso_desc: "These cybermen's mobility has been crippled after sustaining critical damage, but their ability to fight remains somewhat intact. If they survives the battle, they may yet be repaired to operate at its full capacity."
+ 
+acot_army_cyborg_torso_se: "Damaged Sigma Cyberman"
+acot_army_cyborg_torso_se_plural: "Damaged Sigma Cybermen"
+acot_army_cyborg_torso_se_desc: "These cybermen's mobility has been crippled after sustaining critical damage, but their ability to fight remains somewhat intact. If they survives the battle, they may yet be repaired to operate at its full capacity."
+
+tech_acot_army_cyborg: "Cyberized Forces"
+tech_acot_army_cyborg_desc: "Although technically speaking, every soldiers with cybernetic implants may be called cyborgs, the term is now changed. Simple implants are now called prosthetics, the actual cyborgs or cybermen, now refers to those who have undergone extensive modifications to their organic bodies. They can control the mechanical parts through neural link like their own body. The reduction of vital organic parts drastically increase the soldier's durability and survivability as a result."
+ 
+acot_army_cyborg_hero: "Cyborg Commando"
+acot_army_cyborg_hero_plural: "Cyborg Commandoes"
+acot_army_cyborg_hero_desc: "Cyborg Commandoes are extremely skilled and deadly cybermen whose cybernetic modifications barely make them resemble normal organic anymore, to the point that the loss of their brain, and heart won't even kill them anymore. Each Commando's genetics and memory web is now connected to the central network system outside of the battlefield, making them much harder to be destroyed in combat, and in turn, allow them to achieve even more supernatural feats."
+ 
+tech_acot_army_cyborg_hero: "Cyborg Commandoes"
+tech_acot_army_cyborg_hero_desc: "Cyborg Commandoes are extremely skilled and deadly cybermen whose cybernetic modifications barely make them resemble normal organic anymore, to the point that the loss of their brain, and heart won't even kill them anymore. Each Commando's genetics and memory web is now connected to the central network system outside of the battlefield, making them much harder to be destroyed in combat, and in turn, allow them to achieve even more supernatural feats." 
+ 
+cyborgcommando_limit_tooltip: "Cyborg Commandoes do not grow on trees. There are only a handful of cybermen who can operate fully in sync with both their biological and mechanical components. Even if a Cyborg Commando may survive from their physical form's destruction, the reconstruction and remapping of their genetic and brain data to the new body will take extreme amount of efforts and time."
+
+################ SYTNEHTHIC
+ 
+acot_army_synth: "Synth Combat Platform"
+acot_army_synth_plural: "Synth Combat Platforms"
+acot_army_synth_desc: "Synth Combat Platforms or SCP are true synthetic soldiers who exhibit true intelligence. This allows them to easily outsmart most enemy combatants. SCPs are typically given specialized physical platforms that are highly different from their previous organic shape. They are able to operate even when all of their components are broken apart, even a single leftover hand could strangle an organic to death."
+ 
+acot_army_synth_se: "Sigma SCP"
+acot_army_synth_se_plural: "Sigma SCPs"
+acot_army_synth_se_desc: "Synth Combat Platforms or SCP are true synthetic soldiers who exhibit true intelligence. This allows them to easily outsmart most enemy combatants. SCPs are typically given specialized physical platforms that are highly different from their previous organic shape. They are able to operate even when all of their components are broken apart, even a single leftover hand could strangle an organic to death."
+
+acot_army_synth_torso: "Damaged Synth Combat Platform"
+acot_army_synth_torso_plural: "Damaged Synth Combat Platforms"
+acot_army_synth_torso_desc: "These synths's mobility has been crippled after sustaining critical damage, but their ability to fight remains somewhat intact. If they survives the battle, they may yet be repaired to operate at its full capacity."
+ 
+acot_army_synth_torso_se: "Damaged Sigma SCP"
+acot_army_synth_torso_se_plural: "Damaged Sigma SCPs"
+acot_army_synth_torso_se_desc: "These synths's mobility has been crippled after sustaining critical damage, but their ability to fight remains somewhat intact. If they survives the battle, they may yet be repaired to operate at its full capacity."
+
+tech_acot_army_synth: "Synth Combat Platform"
+tech_acot_army_synth_desc: "Omnidroids are flexible and capable of complex movements but are still limited by their cumbersome sizes and certain AI flaws. Perhaps if we instead make use of true synthetic who despite being vulnerable to morale drop, can be much more effective soldiers."
+ 
+acot_army_synth_hero: "Synth Reaper"
+acot_army_synth_hero_plural: "Synth Reapers"
+acot_army_synth_hero_desc: "Synth Reapers are the deadliest combat platform any synth personality matrix can hope to commandeer. Towering above most other units, they make short work of their enemies with overwhelming firepower."
+ 
+tech_acot_army_synth_hero: "Synth Reapers"
+tech_acot_army_synth_hero_desc: "Synth Reapers are the deadliest combat platform any synth personality matrix can hope to commandeer. Towering above most other units, they make short work of their enemies with overwhelming firepower." 
+ 
+synthcommando_limit_tooltip: "Synth Reapers are highly sophisticated and extremely expensive to make. Only a synth whose past biological memory web survived 100% intact could stand the chance of becoming one."
+
+ 
+################
+ 
+tech_ae_army_armor: "Advanced Combat Suits"
+tech_ae_army_armor_desc: "Although we have been utilizing infantry-scale personal shield generators for quite awhile since the early years of our space advent, they were heavily limited in terms of durability. Now that nanotechs and dimensional systems become more widespread, we can finally create vehicle-scaled defensive systems that can be installed on most standard army's battlesuits. The major benefits is that it will drastically increase the ability for pilotted crews to survive their vehicle's destruction."
+tech_ae_army_armor_tooltip: "Upgrades pilotted vehicles to always allow their pilots to survive their vehicle's destruction, as well as increasing  the likelihood of other infantry garrisons to survive as well."
+ 
+
+tech_infantry_alpha_capacitor: "Alpha Autosuits"
+tech_infantry_alpha_capacitor_desc: "Autosuits is rather new concept that involves the armors working in tandem with the wearers through either limited AI or remote control system from command centers. The Autosuits are able to handle their own maintenances and repairs, cutting down upkeep costs. But the true benefit is that, in times of war, if the suit manages to function despite the soldier's untimely demise, they will still be able to continue fighting as a mechanized unit."
+tech_infantry_alpha_capacitor_tooltip: "All non-expendable infantry units now have a chance for their combat suits to survive their deaths and continue to fight. The stats of the autosuit depends on the type of infantry, with Light being the weakest and Heavy being the strongest. The wearer's personal strength has no bearing on the suit's performance, however, so a rank and file soldier and a special unit that shares similar armor will spawn the same autosuit type."
+ 
+tech_infantry_ferocity: "Unyielding Ferocity"
+tech_infantry_ferocity_desc: "We will not go quietly into the void! Let all who oppose us beware, for our people will dedicate their lives to our noble goal, for our cause is just!"
+
+tech_ae_army_hive_supercell: "Enhanced Reconstitution Sequences"
+tech_ae_army_hive_supercell_desc: "Thanks to superior understanding of genetics and sequence spinning, it will soon be possible for larger hive warriors to survive after major breakdown of physical biomass. When sustaining fatal damages, the broodlings will attempt to merge together into a cocoon and draw upon nearby biomass to revive themselves into a new hive warrior. Although the process is not perfect, it will provide extra survivability for our warriors."
+tech_ae_army_hive_supercell_tooltip: "Large Hive units now has a chance to survive as cocoons. While these cocoons has little offensive powers, if they survive, they will morph back into their original units for free."
+
+tech_ae_army_machine_durability: "Avenger System"
+tech_ae_army_machine_durability_desc: "Although most combat platforms can survive with some of their mechanical limbs and joints destroyed, the chance is currently relatively on the lower end. "
+tech_ae_army_machine_durability_tooltip: "Increases the chances for all infantry unit platforms to survive as their damaged counterparts to continue the fight and possibly be repaired later."
+
+
+##################### FE STUFFS
+
+
+acot_army_fe_spirit: "Ancient Guardian"
+acot_army_fe_spirit_plural: "Ancient Guardians"
+acot_army_fe_spirit_desc: "Ancient Guardians"
+acot_defense_army_fe_spirit: "Ancient Guardian"
+acot_defense_army_fe_spirit_plural: "Ancient Guardians"
+acot_defense_army_fe_spirit_desc: "Ancient Guardians"
+
+acot_army_fe_mat: "Ancient Defender"
+acot_army_fe_mat_plural: "Ancient Defenders"
+acot_army_fe_mat_desc: "Ancient Defender"
+acot_defense_army_fe_mat: "Ancient Defender"
+acot_defense_army_fe_mat_plural: "Ancient Defenders"
+acot_defense_army_fe_mat_desc: "Ancient Defender"
+
+acot_army_fe_phile: "Ancient Arbiter"
+acot_army_fe_phile_plural: "Ancient Arbiters"
+acot_army_fe_phile_desc: "Ancient Arbiters"
+acot_defense_army_fe_phile: "Ancient Arbiter"
+acot_defense_army_fe_phile_plural: "Ancient Arbiters"
+acot_defense_army_fe_phile_desc: "Ancient Arbiters"
+
+acot_army_fe_phobe: "Ancient Orderer"
+acot_army_fe_phobe_plural: "Ancient Orderers"
+acot_army_fe_phobe_desc: "Ancient Orderers"
+acot_defense_army_fe_phobe: "Ancient Orderer"
+acot_defense_army_fe_phobe_plural: "Ancient Orderers"
+acot_defense_army_fe_phobe_desc: "Ancient Orderers"
+
+acot_army_fe_machine: "Ancient Caretaker"
+acot_army_fe_machine_plural: "Ancient Caretakers"
+acot_army_fe_machine_desc: "Ancient Caretaker"
+acot_defense_army_fe_machine: "Ancient Caretaker"
+acot_defense_army_fe_machine_plural: "Ancient Caretakers"
+acot_defense_army_fe_machine_desc: "Ancient Caretaker"
